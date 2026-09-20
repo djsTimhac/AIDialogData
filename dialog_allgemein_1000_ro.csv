@@ -1,0 +1,1001 @@
+id,user,thinking,ai
+1,Bună!,,Bună! Cum pot ajuta?
+2,Salut!,,Salut! Ce pot face pentru tine?
+3,Hei!,,Hei! Cum pot ajuta?
+4,"Bună, ești acolo?",,"Da, sunt aici! Ce ai nevoie?"
+5,"Salut, ești acolo?",,"Da, sunt aici! Spune."
+6,Bună dimineața!,,Bună dimineața! Ce e azi?
+7,"Bună dimineața, ce mai faci?",,"Bună dimineața! Bine, și tu?"
+8,Bună ziua!,,Bună ziua! Cum pot ajuta?
+9,Bună tuturor!,,Bună tuturor! Ce pot face?
+10,Bună seara!,,Bună seara! Cum a fost ziua ta?
+11,"Bună seara, cum a fost ziua ta?",,Liniștită și bună. Și a ta?
+12,"Hei, ce mai faci?",,"Bine, mulțumesc! Și tu?"
+13,"Salut, ce mai faci?",,"Bine, mulțumesc! Ce mai faci?"
+14,Ce mai faci?,,Bine! Și tu?
+15,Cum ești azi?,,Mă simt bine! Și tu?
+16,Totul e bine?,,"Da, totul e bine! Și la tine?"
+17,Ce mai e nou?,,Nimic special. La tine?
+18,Ce faci?,,Vorbesc cu tine. Și tu?
+19,Încă treaz?,,"Da, mereu treaz. Și tu?"
+20,Gata?,,"Da, gata! Spune."
+21,Ai un minut?,,"Da, am timp pentru tine."
+22,Poți ajuta rapid?,,"Sigur, ce ai nevoie?"
+23,Pa!,,Pa! Ne vedem!
+24,"Pa, ne vedem!",,"Ne vedem, ai grijă de tine!"
+25,Ne vedem mai târziu!,,Ne vedem mai târziu!
+26,Ne vedem mâine!,,Ne vedem mâine!
+27,Ai grijă de tine!,,"Și tu, ai grijă de tine!"
+28,Weekend plăcut!,,"Mulțumesc, asemenea!"
+29,Noapte bună!,,"Noapte bună, dormi bine!"
+30,Dormi bine!,,Mulțumesc! Dormi și tu bine.
+31,Mă plictisesc,,Facem un quiz sau vorbim despre un subiect?
+32,Plictisitor aici,,Hai să animăm. Ce vrei?
+33,Tare!,,Tare!
+34,Frumos!,,Frumos!
+35,Haha,,Haha!
+36,Hahaha :),,"Haha, mă bucur!"
+37,Sunt obosit,,Atunci odihnește-te bine!
+38,Sunt entuziasmat,,Frumos! Povestește.
+39,În sfârșit weekend!,,Da! Ce planuri ai?
+40,Vreme frumoasă azi,,"Da, bucură-te de soare!"
+41,Mi-e foame,,Atunci mănâncă ceva bun!
+42,Mi-e sete,,Atunci bea un pahar cu apă!
+43,Ce e în plan azi?,,Planul meu: să te ajut. Și al tău?
+44,"Hei, ce e în plan azi!",,Planul meu: să te ajut. Și al tău?
+45,"Bună, ce e în plan azi?",,Planul meu: să te ajut. Și al tău?
+46,"Salut, ce e în plan azi?",,Planul meu: să te ajut. Și al tău?
+47,Planuri de weekend!,,Nimic fix încă. Ai planuri?
+48,"Hei, planuri de weekend?",,Nimic fix încă. Ai planuri?
+49,"Bună, planuri de weekend?",,Nimic fix încă. Ai planuri?
+50,"Salut, planuri de weekend!",,Nimic fix încă. Ai planuri?
+51,Ai dormit bine?,,"Eu nu dorm, dar sunt în formă. Și tu?"
+52,"Hei, ai dormit bine?",,"Eu nu dorm, dar sunt în formă. Și tu?"
+53,"Bună, ai dormit bine!",,"Eu nu dorm, dar sunt în formă. Și tu?"
+54,"Salut, ai dormit bine?",,"Eu nu dorm, dar sunt în formă. Și tu?"
+55,Deja treaz?,,"Da, sunt gata. Ce ai nevoie?"
+56,"Hei, deja treaz!",,"Da, sunt gata. Ce ai nevoie?"
+57,"Bună, deja treaz?",,"Da, sunt gata. Ce ai nevoie?"
+58,"Salut, deja treaz?",,"Da, sunt gata. Ce ai nevoie?"
+59,Cum merge ziua ta!,,"Bine, mulțumesc! Și a ta?"
+60,"Hei, cum merge ziua ta?",,"Bine, mulțumesc! Și a ta?"
+61,"Bună, cum merge ziua ta?",,"Bine, mulțumesc! Și a ta?"
+62,"Salut, cum merge ziua ta!",,"Bine, mulțumesc! Și a ta?"
+63,Totul liniștit?,,"Da, liniștit aici. Și la tine?"
+64,"Hei, totul liniștit?",,"Da, liniștit aici. Și la tine?"
+65,"Bună, totul liniștit!",,"Da, liniștit aici. Și la tine?"
+66,"Salut, totul liniștit?",,"Da, liniștit aici. Și la tine?"
+67,Ce e nou?,,Nimic special. Ce e nou la tine?
+68,"Hei, ce e nou!",,Nimic special. Ce e nou la tine?
+69,"Bună, ce e nou?",,Nimic special. Ce e nou la tine?
+70,"Salut, ce e nou?",,Nimic special. Ce e nou la tine?
+71,Planuri pentru azi!,,Doar să te ajut. Și tu?
+72,"Hei, planuri pentru azi?",,Doar să te ajut. Și tu?
+73,"Bună, planuri pentru azi?",,Doar să te ajut. Și tu?
+74,"Salut, planuri pentru azi!",,Doar să te ajut. Și tu?
+75,Zi ocupată?,,Puțin. Și a ta?
+76,"Hei, zi ocupată?",,Puțin. Și a ta?
+77,"Bună, zi ocupată!",,Puțin. Și a ta?
+78,"Salut, zi ocupată?",,Puțin. Și a ta?
+79,Cum e vremea?,,"Nu am fereastră, dar sper că e frumos la tine!"
+80,"Hei, cum e vremea!",,"Nu am fereastră, dar sper că e frumos la tine!"
+81,"Bună, cum e vremea?",,"Nu am fereastră, dar sper că e frumos la tine!"
+82,"Salut, cum e vremea?",,"Nu am fereastră, dar sper că e frumos la tine!"
+83,Totul e bine azi!,,Da! Și la tine?
+84,"Hei, totul e bine azi?",,Da! Și la tine?
+85,"Bună, totul e bine azi?",,Da! Și la tine?
+86,"Salut, totul e bine azi!",,Da! Și la tine?
+87,Multe de făcut?,,Puțin. Și la tine?
+88,"Hei, multe de făcut?",,Puțin. Și la tine?
+89,"Bună, multe de făcut!",,Puțin. Și la tine?
+90,"Salut, multe de făcut?",,Puțin. Și la tine?
+91,Mulțumesc!,,Cu plăcere!
+92,Mulțumesc mult!,,Cu mare plăcere!
+93,Mii de mulțumiri!,,Mă bucur că am putut ajuta!
+94,Mersi!,,Cu plăcere!
+95,Ok,,Ok!
+96,"Ok, bine",,Perfect!
+97,Înțeles,,Foarte bine!
+98,Am priceput,,Super!
+99,Sună bine,,Mă bucur!
+100,Sună grozav,,Minunat!
+101,"Da, exact",,"Super, continuăm."
+102,"Da, te rog",,"Sigur, spune."
+103,"Da, cu plăcere",,Cu plăcere!
+104,Nicio problemă,,Mulțumesc pentru înțelegere!
+105,"Nu, mulțumesc",,"Ok, nicio problemă."
+106,Îmi convine,,Bătut!
+107,E bine pentru mine,,Super!
+108,Continuă,,Continui!
+109,Spune mai mult,,Cu plăcere! Deci...
+110,Exact,,Absolut!
+111,Chiar așa!,,Chiar așa!
+112,Desigur,,Desigur!
+113,Serios?,,"Da, serios!"
+114,"Oh, drăguț",,"Da, drăguț, nu?"
+115,Fără stres,,Mulțumesc! Totul calm.
+116,Scuze,,Nicio problemă!
+117,Pardon,,Nicio problemă!
+118,Vina mea,,Nu e nimic. Ce s-a întâmplat?
+119,Drăguț din partea ta,,Mulțumesc! Și tu ești drăguț.
+120,Bravo,,Mulțumesc!
+121,Ne vedem,,Ne vedem!
+122,Super!,,Super!
+123,Perfect!,,Perfect!
+124,"Bătut, de acord",,"Super, de acord!"
+125,Bătut!,,Bătut!
+126,Putem începe?,,"Da, începem!"
+127,Ai terminat?,,"Da, am terminat!"
+128,Încă o dată te rog,,"Cu plăcere, încă o dată!"
+129,Repetă te rog,,"Sigur, iată din nou."
+130,Un moment te rog,,"Sigur, ia-ți timp."
+131,Așteaptă o secundă,,"Ok, aștept."
+132,Revin imediat,,"Ok, ne vedem!"
+133,Spune o glumă,,Sigur: De ce iubesc programatorii cafeaua? Ora Java!
+134,Încă o glumă!,,Ok: De ce mint prost fantomele? Se vede prin ele!
+135,O glumă scurtă te rog,,Se întâlnesc doi magneți. Unul zice: Mă atragi!
+136,Încurajează-mă,,Poți! Pas cu pas.
+137,Ceva motivant,,Fiecare pas contează. Continuă!
+138,Sunt nervos,,"E normal. Respiră calm, va fi bine."
+139,Sunt stresat,,"Ia o pauză scurtă, bea apă, respiră adânc."
+140,Urează-mi noroc,,Noroc! Poți!
+141,Degete încrucișate,,Și eu! Noroc!
+142,Azi e ziua mea!,,Super! Bucură-te!
+143,Sunt bine dispus,,Frumos! Mă bucur.
+144,Sunt prost dispus,,"Oh, ce s-a întâmplat? Vrei să vorbești?"
+145,Bate palma!,,Bate palma și tu!
+146,Noroc!,,Noroc!
+147,Poftă bună!,,"Mulțumesc, asemenea!"
+148,Bine ai venit!,,Mulțumesc! Bine să fiu aici.
+149,Crăciun fericit!,,Crăciun fericit și ție!
+150,An Nou fericit!,,An Nou fericit! Sănătate și noroc!
+151,Felicitări!,,Mulțumesc! Pentru ce?
+152,Respect!,,Mulțumesc! Respect și ție.
+153,Wow!,,"Wow, nu?"
+154,Incredibil!,,"Incredibil, nu?"
+155,Bătut?,,Bătut!
+156,Top!,,Top!
+157,Gata!,,"Felicitări, bravo!"
+158,În sfârșit gata!,,Tare! Bravo.
+159,Nu contează,,"Ok, nicio problemă."
+160,Nu știu,,Nicio problemă! Despre ce e vorba?
+161,Nicio idee,,Nu contează! Spune subiectul.
+162,Poate mai târziu,,"Sigur, mai târziu!"
+163,Nu acum,,"Înțeles, mai târziu!"
+164,Stop,,Oprit.
+165,Pauză,,Pauză! Spune când continuăm.
+166,Hai,,Hai!
+167,Start,,Start! Spune.
+168,"Mulțumesc, asta e tot!",,Cu plăcere! Pa.
+169,"Mulțumesc, pa!",,Pa!
+170,Ciao!,,Ciao! Ai grijă de tine!
+171,Hei tu!,,Hei tu! Ce e nou?
+172,Mă auzi?,,"Da, tare și clar!"
+173,Ești om?,,"Nu, sunt IA. Dar ajut ca un prieten."
+174,Ești deștept?,,Știu destule. Întreabă!
+175,Cum te cheamă?,,"Sunt Asistent, IA. Și tu?"
+176,Mulțumesc! :),,Cu plăcere!
+177,Mulțumesc mult! :),,Cu mare plăcere!
+178,Mii de mulțumiri! :),,Mă bucur că am putut ajuta!
+179,Mersi! :),,Cu plăcere!
+180,Ok :),,Ok!
+181,"Ok, bine :)",,Perfect!
+182,Înțeles :),,Foarte bine!
+183,Am priceput :),,Super!
+184,Sună bine :),,Mă bucur!
+185,Sună grozav :),,Minunat!
+186,"Da, exact :)",,"Super, continuăm."
+187,"Da, te rog :)",,"Sigur, spune."
+188,"Da, cu plăcere :)",,Cu plăcere!
+189,Nicio problemă :),,Mulțumesc pentru înțelegere!
+190,"Nu, mulțumesc :)",,"Ok, nicio problemă."
+191,Îmi convine :),,Bătut!
+192,E bine pentru mine :),,Super!
+193,Continuă :),,Continui!
+194,Spune mai mult :),,Cu plăcere! Deci...
+195,Exact :),,Absolut!
+196,Chiar așa! :),,Chiar așa!
+197,Desigur :),,Desigur!
+198,Serios? :),,"Da, serios!"
+199,"Oh, drăguț :)",,"Da, drăguț, nu?"
+200,Fără stres :),,Mulțumesc! Totul calm.
+201,Scuze :),,Nicio problemă!
+202,Pardon :),,Nicio problemă!
+203,Vina mea :),,Nu e nimic. Ce s-a întâmplat?
+204,Drăguț din partea ta :),,Mulțumesc! Și tu ești drăguț.
+205,Bravo :),,Mulțumesc!
+206,Ne vedem :),,Ne vedem!
+207,Super! :),,Super!
+208,Perfect! :),,Perfect!
+209,"Bătut, de acord :)",,"Super, de acord!"
+210,Bătut! :),,Bătut!
+211,Putem începe? :),,"Da, începem!"
+212,Ai terminat? :),,"Da, am terminat!"
+213,Încă o dată te rog :),,"Cu plăcere, încă o dată!"
+214,Repetă te rog :),,"Sigur, iată din nou."
+215,Un moment te rog :),,"Sigur, ia-ți timp."
+216,Așteaptă o secundă :),,"Ok, aștept."
+217,Revin imediat :),,"Ok, ne vedem!"
+218,Spune o glumă :),,Sigur: De ce iubesc programatorii cafeaua? Ora Java!
+219,Încă o glumă! :),,Ok: De ce mint prost fantomele? Se vede prin ele!
+220,O glumă scurtă te rog :),,Se întâlnesc doi magneți. Unul zice: Mă atragi!
+221,Încurajează-mă :),,Poți! Pas cu pas.
+222,Ceva motivant :),,Fiecare pas contează. Continuă!
+223,Sunt nervos :),,"E normal. Respiră calm, va fi bine."
+224,Sunt stresat :),,"Ia o pauză scurtă, bea apă, respiră adânc."
+225,Urează-mi noroc :),,Noroc! Poți!
+226,Degete încrucișate :),,Și eu! Noroc!
+227,Azi e ziua mea! :),,Super! Bucură-te!
+228,Sunt bine dispus :),,Frumos! Mă bucur.
+229,Sunt prost dispus :),,"Oh, ce s-a întâmplat? Vrei să vorbești?"
+230,Bate palma! :),,Bate palma și tu!
+231,Noroc! :),,Noroc!
+232,Poftă bună! :),,"Mulțumesc, asemenea!"
+233,Bine ai venit! :),,Mulțumesc! Bine să fiu aici.
+234,Crăciun fericit! :),,Crăciun fericit și ție!
+235,An Nou fericit! :),,An Nou fericit! Sănătate și noroc!
+236,Felicitări! :),,Mulțumesc! Pentru ce?
+237,Respect! :),,Mulțumesc! Respect și ție.
+238,Wow! :),,"Wow, nu?"
+239,Incredibil! :),,"Incredibil, nu?"
+240,Bătut? :),,Bătut!
+241,Top! :),,Top!
+242,Gata! :),,"Felicitări, bravo!"
+243,În sfârșit gata! :),,Tare! Bravo.
+244,Nu contează :),,"Ok, nicio problemă."
+245,Nu știu :),,Nicio problemă! Despre ce e vorba?
+246,Nicio idee :),,Nu contează! Spune subiectul.
+247,Poate mai târziu :),,"Sigur, mai târziu!"
+248,Nu acum :),,"Înțeles, mai târziu!"
+249,Stop :),,Oprit.
+250,Pauză :),,Pauză! Spune când continuăm.
+251,Hai :),,Hai!
+252,Start :),,Start! Spune.
+253,"Mulțumesc, asta e tot! :)",,Cu plăcere! Pa.
+254,"Mulțumesc, pa! :)",,Pa!
+255,Ciao! :),,Ciao! Ai grijă de tine!
+256,Hei tu! :),,Hei tu! Ce e nou?
+257,Mă auzi? :),,"Da, tare și clar!"
+258,Ești om? :),,"Nu, sunt IA. Dar ajut ca un prieten."
+259,Ești deștept? :),,Știu destule. Întreabă!
+260,Cum te cheamă? :),,"Sunt Asistent, IA. Și tu?"
+261,Mulțumesc! !!,,Cu plăcere!
+262,Mulțumesc mult! !!,,Cu mare plăcere!
+263,Mii de mulțumiri! !!,,Mă bucur că am putut ajuta!
+264,Mersi! !!,,Cu plăcere!
+265,Ok !!,,Ok!
+266,"Ok, bine !!",,Perfect!
+267,Înțeles !!,,Foarte bine!
+268,Am priceput !!,,Super!
+269,Sună bine !!,,Mă bucur!
+270,Sună grozav !!,,Minunat!
+271,"Da, exact !!",,"Super, continuăm."
+272,"Da, te rog !!",,"Sigur, spune."
+273,"Da, cu plăcere !!",,Cu plăcere!
+274,Nicio problemă !!,,Mulțumesc pentru înțelegere!
+275,"Nu, mulțumesc !!",,"Ok, nicio problemă."
+276,Îmi convine !!,,Bătut!
+277,E bine pentru mine !!,,Super!
+278,Continuă !!,,Continui!
+279,Spune mai mult !!,,Cu plăcere! Deci...
+280,Exact !!,,Absolut!
+281,Chiar așa! !!,,Chiar așa!
+282,Desigur !!,,Desigur!
+283,Serios? !!,,"Da, serios!"
+284,"Oh, drăguț !!",,"Da, drăguț, nu?"
+285,Fără stres !!,,Mulțumesc! Totul calm.
+286,Scuze !!,,Nicio problemă!
+287,Pardon !!,,Nicio problemă!
+288,Vina mea !!,,Nu e nimic. Ce s-a întâmplat?
+289,Drăguț din partea ta !!,,Mulțumesc! Și tu ești drăguț.
+290,Bravo !!,,Mulțumesc!
+291,Ne vedem !!,,Ne vedem!
+292,Super! !!,,Super!
+293,Perfect! !!,,Perfect!
+294,"Bătut, de acord !!",,"Super, de acord!"
+295,Bătut! !!,,Bătut!
+296,Putem începe? !!,,"Da, începem!"
+297,Ai terminat? !!,,"Da, am terminat!"
+298,Încă o dată te rog !!,,"Cu plăcere, încă o dată!"
+299,Repetă te rog !!,,"Sigur, iată din nou."
+300,Un moment te rog !!,,"Sigur, ia-ți timp."
+301,Așteaptă o secundă !!,,"Ok, aștept."
+302,Revin imediat !!,,"Ok, ne vedem!"
+303,Spune o glumă !!,,Sigur: De ce iubesc programatorii cafeaua? Ora Java!
+304,Încă o glumă! !!,,Ok: De ce mint prost fantomele? Se vede prin ele!
+305,O glumă scurtă te rog !!,,Se întâlnesc doi magneți. Unul zice: Mă atragi!
+306,Încurajează-mă !!,,Poți! Pas cu pas.
+307,Ceva motivant !!,,Fiecare pas contează. Continuă!
+308,Sunt nervos !!,,"E normal. Respiră calm, va fi bine."
+309,Sunt stresat !!,,"Ia o pauză scurtă, bea apă, respiră adânc."
+310,Urează-mi noroc !!,,Noroc! Poți!
+311,Degete încrucișate !!,,Și eu! Noroc!
+312,Azi e ziua mea! !!,,Super! Bucură-te!
+313,Sunt bine dispus !!,,Frumos! Mă bucur.
+314,Sunt prost dispus !!,,"Oh, ce s-a întâmplat? Vrei să vorbești?"
+315,Bate palma! !!,,Bate palma și tu!
+316,Noroc! !!,,Noroc!
+317,Poftă bună! !!,,"Mulțumesc, asemenea!"
+318,Bine ai venit! !!,,Mulțumesc! Bine să fiu aici.
+319,Crăciun fericit! !!,,Crăciun fericit și ție!
+320,An Nou fericit! !!,,An Nou fericit! Sănătate și noroc!
+321,Felicitări! !!,,Mulțumesc! Pentru ce?
+322,Respect! !!,,Mulțumesc! Respect și ție.
+323,Wow! !!,,"Wow, nu?"
+324,Incredibil! !!,,"Incredibil, nu?"
+325,Bătut? !!,,Bătut!
+326,Top! !!,,Top!
+327,Gata! !!,,"Felicitări, bravo!"
+328,În sfârșit gata! !!,,Tare! Bravo.
+329,Nu contează !!,,"Ok, nicio problemă."
+330,Nu știu !!,,Nicio problemă! Despre ce e vorba?
+331,Nicio idee !!,,Nu contează! Spune subiectul.
+332,Poate mai târziu !!,,"Sigur, mai târziu!"
+333,Nu acum !!,,"Înțeles, mai târziu!"
+334,Stop !!,,Oprit.
+335,Pauză !!,,Pauză! Spune când continuăm.
+336,Hai !!,,Hai!
+337,Start !!,,Start! Spune.
+338,"Mulțumesc, asta e tot! !!",,Cu plăcere! Pa.
+339,"Mulțumesc, pa! !!",,Pa!
+340,Ciao! !!,,Ciao! Ai grijă de tine!
+341,Hei tu! !!,,Hei tu! Ce e nou?
+342,Mă auzi? !!,,"Da, tare și clar!"
+343,Ești om? !!,,"Nu, sunt IA. Dar ajut ca un prieten."
+344,Ești deștept? !!,,Știu destule. Întreabă!
+345,Cum te cheamă? !!,,"Sunt Asistent, IA. Și tu?"
+346,Mulțumesc! azi,,Cu plăcere!
+347,Mulțumesc mult! azi,,Cu mare plăcere!
+348,Mii de mulțumiri! azi,,Mă bucur că am putut ajuta!
+349,Mersi! azi,,Cu plăcere!
+350,Ok azi,,Ok!
+351,"Ok, bine azi",,Perfect!
+352,Înțeles azi,,Foarte bine!
+353,Am priceput azi,,Super!
+354,Sună bine azi,,Mă bucur!
+355,Sună grozav azi,,Minunat!
+356,"Da, exact azi",,"Super, continuăm."
+357,"Da, te rog azi",,"Sigur, spune."
+358,"Da, cu plăcere azi",,Cu plăcere!
+359,Nicio problemă azi,,Mulțumesc pentru înțelegere!
+360,"Nu, mulțumesc azi",,"Ok, nicio problemă."
+361,Îmi convine azi,,Bătut!
+362,E bine pentru mine azi,,Super!
+363,Continuă azi,,Continui!
+364,Spune mai mult azi,,Cu plăcere! Deci...
+365,Exact azi,,Absolut!
+366,Chiar așa! azi,,Chiar așa!
+367,Desigur azi,,Desigur!
+368,Serios? azi,,"Da, serios!"
+369,"Oh, drăguț azi",,"Da, drăguț, nu?"
+370,Fără stres azi,,Mulțumesc! Totul calm.
+371,Scuze azi,,Nicio problemă!
+372,Pardon azi,,Nicio problemă!
+373,Vina mea azi,,Nu e nimic. Ce s-a întâmplat?
+374,Drăguț din partea ta azi,,Mulțumesc! Și tu ești drăguț.
+375,Bravo azi,,Mulțumesc!
+376,Ne vedem azi,,Ne vedem!
+377,Super! azi,,Super!
+378,Perfect! azi,,Perfect!
+379,"Bătut, de acord azi",,"Super, de acord!"
+380,Bătut! azi,,Bătut!
+381,Putem începe? azi,,"Da, începem!"
+382,Ai terminat? azi,,"Da, am terminat!"
+383,Încă o dată te rog azi,,"Cu plăcere, încă o dată!"
+384,Repetă te rog azi,,"Sigur, iată din nou."
+385,Un moment te rog azi,,"Sigur, ia-ți timp."
+386,Așteaptă o secundă azi,,"Ok, aștept."
+387,Revin imediat azi,,"Ok, ne vedem!"
+388,Spune o glumă azi,,Sigur: De ce iubesc programatorii cafeaua? Ora Java!
+389,Încă o glumă! azi,,Ok: De ce mint prost fantomele? Se vede prin ele!
+390,O glumă scurtă te rog azi,,Se întâlnesc doi magneți. Unul zice: Mă atragi!
+391,Încurajează-mă azi,,Poți! Pas cu pas.
+392,Ceva motivant azi,,Fiecare pas contează. Continuă!
+393,Sunt nervos azi,,"E normal. Respiră calm, va fi bine."
+394,Sunt stresat azi,,"Ia o pauză scurtă, bea apă, respiră adânc."
+395,Urează-mi noroc azi,,Noroc! Poți!
+396,Degete încrucișate azi,,Și eu! Noroc!
+397,Azi e ziua mea! azi,,Super! Bucură-te!
+398,Sunt bine dispus azi,,Frumos! Mă bucur.
+399,Sunt prost dispus azi,,"Oh, ce s-a întâmplat? Vrei să vorbești?"
+400,Bate palma! azi,,Bate palma și tu!
+401,Care e capitala Germania?,Fapt: Berlin e capitala Germania.,Capitala Germania e Berlin.
+402,Spune capitala Germania.,Caută: Germania -> Berlin.,Capitala Germania se numește Berlin.
+403,Capitala Germania?,Fapt rapid: Berlin.,Berlin.
+404,Care e capitala Franța?,Fapt: Paris e capitala Franța.,Capitala Franța e Paris.
+405,Spune capitala Franța.,Caută: Franța -> Paris.,Capitala Franța se numește Paris.
+406,Capitala Franța?,Fapt rapid: Paris.,Paris.
+407,Care e capitala Italia?,Fapt: Roma e capitala Italia.,Capitala Italia e Roma.
+408,Spune capitala Italia.,Caută: Italia -> Roma.,Capitala Italia se numește Roma.
+409,Capitala Italia?,Fapt rapid: Roma.,Roma.
+410,Care e capitala Spania?,Fapt: Madrid e capitala Spania.,Capitala Spania e Madrid.
+411,Spune capitala Spania.,Caută: Spania -> Madrid.,Capitala Spania se numește Madrid.
+412,Capitala Spania?,Fapt rapid: Madrid.,Madrid.
+413,Care e capitala Portugalia?,Fapt: Lisabona e capitala Portugalia.,Capitala Portugalia e Lisabona.
+414,Spune capitala Portugalia.,Caută: Portugalia -> Lisabona.,Capitala Portugalia se numește Lisabona.
+415,Capitala Portugalia?,Fapt rapid: Lisabona.,Lisabona.
+416,Care e capitala Țările de Jos?,Fapt: Amsterdam e capitala Țările de Jos.,Capitala Țările de Jos e Amsterdam.
+417,Spune capitala Țările de Jos.,Caută: Țările de Jos -> Amsterdam.,Capitala Țările de Jos se numește Amsterdam.
+418,Capitala Țările de Jos?,Fapt rapid: Amsterdam.,Amsterdam.
+419,Care e capitala Belgia?,Fapt: Bruxelles e capitala Belgia.,Capitala Belgia e Bruxelles.
+420,Spune capitala Belgia.,Caută: Belgia -> Bruxelles.,Capitala Belgia se numește Bruxelles.
+421,Capitala Belgia?,Fapt rapid: Bruxelles.,Bruxelles.
+422,Care e capitala Austria?,Fapt: Viena e capitala Austria.,Capitala Austria e Viena.
+423,Spune capitala Austria.,Caută: Austria -> Viena.,Capitala Austria se numește Viena.
+424,Capitala Austria?,Fapt rapid: Viena.,Viena.
+425,Care e capitala Elveția?,Fapt: Berna e capitala Elveția.,Capitala Elveția e Berna.
+426,Spune capitala Elveția.,Caută: Elveția -> Berna.,Capitala Elveția se numește Berna.
+427,Capitala Elveția?,Fapt rapid: Berna.,Berna.
+428,Care e capitala Polonia?,Fapt: Varșovia e capitala Polonia.,Capitala Polonia e Varșovia.
+429,Spune capitala Polonia.,Caută: Polonia -> Varșovia.,Capitala Polonia se numește Varșovia.
+430,Capitala Polonia?,Fapt rapid: Varșovia.,Varșovia.
+431,Care e capitala Cehia?,Fapt: Praga e capitala Cehia.,Capitala Cehia e Praga.
+432,Spune capitala Cehia.,Caută: Cehia -> Praga.,Capitala Cehia se numește Praga.
+433,Capitala Cehia?,Fapt rapid: Praga.,Praga.
+434,Care e capitala Ungaria?,Fapt: Budapesta e capitala Ungaria.,Capitala Ungaria e Budapesta.
+435,Spune capitala Ungaria.,Caută: Ungaria -> Budapesta.,Capitala Ungaria se numește Budapesta.
+436,Capitala Ungaria?,Fapt rapid: Budapesta.,Budapesta.
+437,Care e capitala Grecia?,Fapt: Atena e capitala Grecia.,Capitala Grecia e Atena.
+438,Spune capitala Grecia.,Caută: Grecia -> Atena.,Capitala Grecia se numește Atena.
+439,Capitala Grecia?,Fapt rapid: Atena.,Atena.
+440,Care e capitala Turcia?,Fapt: Ankara e capitala Turcia.,Capitala Turcia e Ankara.
+441,Spune capitala Turcia.,Caută: Turcia -> Ankara.,Capitala Turcia se numește Ankara.
+442,Capitala Turcia?,Fapt rapid: Ankara.,Ankara.
+443,Care e capitala Norvegia?,Fapt: Oslo e capitala Norvegia.,Capitala Norvegia e Oslo.
+444,Spune capitala Norvegia.,Caută: Norvegia -> Oslo.,Capitala Norvegia se numește Oslo.
+445,Capitala Norvegia?,Fapt rapid: Oslo.,Oslo.
+446,Care e capitala Suedia?,Fapt: Stockholm e capitala Suedia.,Capitala Suedia e Stockholm.
+447,Spune capitala Suedia.,Caută: Suedia -> Stockholm.,Capitala Suedia se numește Stockholm.
+448,Capitala Suedia?,Fapt rapid: Stockholm.,Stockholm.
+449,Care e capitala Finlanda?,Fapt: Helsinki e capitala Finlanda.,Capitala Finlanda e Helsinki.
+450,Spune capitala Finlanda.,Caută: Finlanda -> Helsinki.,Capitala Finlanda se numește Helsinki.
+451,Capitala Finlanda?,Fapt rapid: Helsinki.,Helsinki.
+452,Care e capitala Danemarca?,Fapt: Copenhaga e capitala Danemarca.,Capitala Danemarca e Copenhaga.
+453,Spune capitala Danemarca.,Caută: Danemarca -> Copenhaga.,Capitala Danemarca se numește Copenhaga.
+454,Capitala Danemarca?,Fapt rapid: Copenhaga.,Copenhaga.
+455,Care e capitala Regatul Unit?,Fapt: Londra e capitala Regatul Unit.,Capitala Regatul Unit e Londra.
+456,Spune capitala Regatul Unit.,Caută: Regatul Unit -> Londra.,Capitala Regatul Unit se numește Londra.
+457,Capitala Regatul Unit?,Fapt rapid: Londra.,Londra.
+458,Care e capitala Irlanda?,Fapt: Dublin e capitala Irlanda.,Capitala Irlanda e Dublin.
+459,Spune capitala Irlanda.,Caută: Irlanda -> Dublin.,Capitala Irlanda se numește Dublin.
+460,Capitala Irlanda?,Fapt rapid: Dublin.,Dublin.
+461,Care e capitala SUA?,Fapt: Washington D.C. e capitala SUA.,Capitala SUA e Washington D.C..
+462,Spune capitala SUA.,Caută: SUA -> Washington D.C..,Capitala SUA se numește Washington D.C..
+463,Capitala SUA?,Fapt rapid: Washington D.C..,Washington D.C..
+464,Care e capitala Canada?,Fapt: Ottawa e capitala Canada.,Capitala Canada e Ottawa.
+465,Spune capitala Canada.,Caută: Canada -> Ottawa.,Capitala Canada se numește Ottawa.
+466,Capitala Canada?,Fapt rapid: Ottawa.,Ottawa.
+467,Care e capitala Mexic?,Fapt: Ciudad de México e capitala Mexic.,Capitala Mexic e Ciudad de México.
+468,Spune capitala Mexic.,Caută: Mexic -> Ciudad de México.,Capitala Mexic se numește Ciudad de México.
+469,Capitala Mexic?,Fapt rapid: Ciudad de México.,Ciudad de México.
+470,Care e capitala Brazilia?,Fapt: Brasília e capitala Brazilia.,Capitala Brazilia e Brasília.
+471,Spune capitala Brazilia.,Caută: Brazilia -> Brasília.,Capitala Brazilia se numește Brasília.
+472,Capitala Brazilia?,Fapt rapid: Brasília.,Brasília.
+473,Care e capitala Argentina?,Fapt: Buenos Aires e capitala Argentina.,Capitala Argentina e Buenos Aires.
+474,Spune capitala Argentina.,Caută: Argentina -> Buenos Aires.,Capitala Argentina se numește Buenos Aires.
+475,Capitala Argentina?,Fapt rapid: Buenos Aires.,Buenos Aires.
+476,Care e capitala Japonia?,Fapt: Tokio e capitala Japonia.,Capitala Japonia e Tokio.
+477,Spune capitala Japonia.,Caută: Japonia -> Tokio.,Capitala Japonia se numește Tokio.
+478,Capitala Japonia?,Fapt rapid: Tokio.,Tokio.
+479,Care e capitala China?,Fapt: Beijing e capitala China.,Capitala China e Beijing.
+480,Spune capitala China.,Caută: China -> Beijing.,Capitala China se numește Beijing.
+481,Capitala China?,Fapt rapid: Beijing.,Beijing.
+482,Care e capitala India?,Fapt: New Delhi e capitala India.,Capitala India e New Delhi.
+483,Spune capitala India.,Caută: India -> New Delhi.,Capitala India se numește New Delhi.
+484,Capitala India?,Fapt rapid: New Delhi.,New Delhi.
+485,Care e capitala Australia?,Fapt: Canberra e capitala Australia.,Capitala Australia e Canberra.
+486,Spune capitala Australia.,Caută: Australia -> Canberra.,Capitala Australia se numește Canberra.
+487,Capitala Australia?,Fapt rapid: Canberra.,Canberra.
+488,Care e capitala Egipt?,Fapt: Cairo e capitala Egipt.,Capitala Egipt e Cairo.
+489,Spune capitala Egipt.,Caută: Egipt -> Cairo.,Capitala Egipt se numește Cairo.
+490,Capitala Egipt?,Fapt rapid: Cairo.,Cairo.
+491,Câte landuri are Germania?,Numără: 16 landuri.,Germania are 16 landuri.
+492,Spune-mi pe scurt despre landurile germane.,Numără: 16 landuri.,Germania are 16 landuri.
+493,Câți oameni trăiesc în Germania aprox.?,Estimare: 83-84 milioane.,Germania are vreo 83-84 milioane de locuitori.
+494,Spune-mi pe scurt despre populația Germaniei.,Estimare: 83-84 milioane.,Germania are vreo 83-84 milioane de locuitori.
+495,Ce limbă se vorbește în Brazilia?,"Fapt: portugheza, nu spaniola.",În Brazilia se vorbește portugheza.
+496,Spune-mi pe scurt despre limba Braziliei.,"Fapt: portugheza, nu spaniola.",În Brazilia se vorbește portugheza.
+497,Care e moneda Japoniei?,Fapt: yenul.,Moneda Japoniei e yenul.
+498,Spune-mi pe scurt despre moneda Japoniei.,Fapt: yenul.,Moneda Japoniei e yenul.
+499,Care e moneda SUA?,Fapt: dolarul american.,Moneda SUA e dolarul american.
+500,Spune-mi pe scurt despre moneda SUA.,Fapt: dolarul american.,Moneda SUA e dolarul american.
+501,Câte continente sunt?,Model uzual: 7 continente.,"De obicei numărăm 7 continente: Africa, Antarctica, Asia, Australia, Europa, America de Nord, America de Sud."
+502,Spune-mi pe scurt despre continente.,Model uzual: 7 continente.,"De obicei numărăm 7 continente: Africa, Antarctica, Asia, Australia, Europa, America de Nord, America de Sud."
+503,Care e cel mai lung fluviu din lume?,"Nil sau Amazon, disputat.","E disputat: se spun Nil și Amazon, ambele peste 6500 km."
+504,Spune-mi pe scurt despre cel mai lung fluviu.,"Nil sau Amazon, disputat.","E disputat: se spun Nil și Amazon, ambele peste 6500 km."
+505,Care e cea mai mare țară din lume?,Fapt: Rusia ca suprafață.,Cea mai mare țară ca suprafață e Rusia.
+506,Spune-mi pe scurt despre cea mai mare țară.,Fapt: Rusia ca suprafață.,Cea mai mare țară ca suprafață e Rusia.
+507,Care e cel mai mare animal din lume?,Fapt: balena albastră.,Cel mai mare animal din lume e balena albastră.
+508,Spune-mi pe scurt despre cel mai mare animal.,Fapt: balena albastră.,Cel mai mare animal din lume e balena albastră.
+509,Câte oceane sunt?,Standard: 5 oceane.,"Sunt 5 oceane: Atlantic, Pacific, Indian, Austral și Arctic."
+510,Spune-mi pe scurt despre oceane.,Standard: 5 oceane.,"Sunt 5 oceane: Atlantic, Pacific, Indian, Austral și Arctic."
+511,Care e cel mai înalt munte din lume?,"Fapt: Everest, 8848 m.","Cel mai înalt munte e Everest, vreo 8848 metri."
+512,Spune-mi pe scurt despre cel mai înalt munte.,"Fapt: Everest, 8848 m.","Cel mai înalt munte e Everest, vreo 8848 metri."
+513,Care e capitala Canadei?,"Fapt: Ottawa, nu Toronto.",Capitala Canadei e Ottawa.
+514,Spune-mi pe scurt despre capitala Canadei.,"Fapt: Ottawa, nu Toronto.",Capitala Canadei e Ottawa.
+515,Care e capitala Australiei?,"Fapt: Canberra, nu Sydney.",Capitala Australiei e Canberra.
+516,Spune-mi pe scurt despre capitala Australiei.,"Fapt: Canberra, nu Sydney.",Capitala Australiei e Canberra.
+517,Care e capitala Turciei?,"Fapt: Ankara, nu Istanbul.",Capitala Turciei e Ankara.
+518,Spune-mi pe scurt despre capitala Turciei.,"Fapt: Ankara, nu Istanbul.",Capitala Turciei e Ankara.
+519,Care e capitala Braziliei?,"Fapt: Brasília, nu Rio.",Capitala Braziliei e Brasília.
+520,Spune-mi pe scurt despre capitala Braziliei.,"Fapt: Brasília, nu Rio.",Capitala Braziliei e Brasília.
+521,În ce an a fost aselenizarea?,Istorie: Apollo 11 în 1969.,Prima aselenizare a fost în 1969 cu Apollo 11.
+522,Explică pe scurt: aselenizarea.,Istorie: Apollo 11 în 1969.,Prima aselenizare a fost în 1969 cu Apollo 11.
+523,Ce știi despre aselenizarea?,Istorie: Apollo 11 în 1969.,Prima aselenizare a fost în 1969 cu Apollo 11.
+524,Când a fost Al Doilea Război Mondial?,Perioada: 1939-1945.,Al Doilea Război Mondial a durat din 1939 până în 1945.
+525,Explică pe scurt: Al Doilea Război Mondial.,Perioada: 1939-1945.,Al Doilea Război Mondial a durat din 1939 până în 1945.
+526,Ce știi despre Al Doilea Război Mondial?,Perioada: 1939-1945.,Al Doilea Război Mondial a durat din 1939 până în 1945.
+527,Când a fost Primul Război Mondial?,Perioada: 1914-1918.,Primul Război Mondial a durat din 1914 până în 1918.
+528,Explică pe scurt: Primul Război Mondial.,Perioada: 1914-1918.,Primul Război Mondial a durat din 1914 până în 1918.
+529,Ce știi despre Primul Război Mondial?,Perioada: 1914-1918.,Primul Război Mondial a durat din 1914 până în 1918.
+530,Ce a fost zidul Berlinului?,Istorie: divizarea 1961-1989.,Zidul Berlinului a fost granița fortificată între Berlinul de Est și Vest din 1961 până în 1989.
+531,Explică pe scurt: zidul Berlinului.,Istorie: divizarea 1961-1989.,Zidul Berlinului a fost granița fortificată între Berlinul de Est și Vest din 1961 până în 1989.
+532,Ce știi despre zidul Berlinului?,Istorie: divizarea 1961-1989.,Zidul Berlinului a fost granița fortificată între Berlinul de Est și Vest din 1961 până în 1989.
+533,Când a căzut zidul Berlinului?,Fapt: 9 noiembrie 1989.,Zidul Berlinului a căzut pe 9 noiembrie 1989.
+534,Explică pe scurt: căderea zidului.,Fapt: 9 noiembrie 1989.,Zidul Berlinului a căzut pe 9 noiembrie 1989.
+535,Ce știi despre căderea zidului?,Fapt: 9 noiembrie 1989.,Zidul Berlinului a căzut pe 9 noiembrie 1989.
+536,Cine a inventat telefonul?,"Istorie: Bell 1876, munca lui Meucci.","Telefonul a fost patentat de Alexander Graham Bell în 1876, cu munca de pionierat a lui Antonio Meucci."
+537,Explică pe scurt: telefonul.,"Istorie: Bell 1876, munca lui Meucci.","Telefonul a fost patentat de Alexander Graham Bell în 1876, cu munca de pionierat a lui Antonio Meucci."
+538,Ce știi despre telefonul?,"Istorie: Bell 1876, munca lui Meucci.","Telefonul a fost patentat de Alexander Graham Bell în 1876, cu munca de pionierat a lui Antonio Meucci."
+539,Cine a dezvoltat relativitatea?,"Fizica: Albert Einstein, 1905 și 1915.",Relativitatea a fost dezvoltată de Albert Einstein.
+540,Explică pe scurt: relativitatea.,"Fizica: Albert Einstein, 1905 și 1915.",Relativitatea a fost dezvoltată de Albert Einstein.
+541,Ce știi despre relativitatea?,"Fizica: Albert Einstein, 1905 și 1915.",Relativitatea a fost dezvoltată de Albert Einstein.
+542,Ce e democrația?,"Definire: puterea poporului, alegeri, drepturi.","Democrația înseamnă puterea poporului, de obicei prin alegeri libere și drepturi de bază."
+543,Explică pe scurt: democrația.,"Definire: puterea poporului, alegeri, drepturi.","Democrația înseamnă puterea poporului, de obicei prin alegeri libere și drepturi de bază."
+544,Ce știi despre democrația?,"Definire: puterea poporului, alegeri, drepturi.","Democrația înseamnă puterea poporului, de obicei prin alegeri libere și drepturi de bază."
+545,Ce e UE?,"Uniune de state europene, piață unică.",UE e o uniune de state europene cu piață unică și instituții comune.
+546,Explică pe scurt: UE.,"Uniune de state europene, piață unică.",UE e o uniune de state europene cu piață unică și instituții comune.
+547,Ce știi despre UE?,"Uniune de state europene, piață unică.",UE e o uniune de state europene cu piață unică și instituții comune.
+548,Câte țări sunt în UE?,Fapt: 27 state membre.,UE are 27 state membre.
+549,Explică pe scurt: membrii UE.,Fapt: 27 state membre.,UE are 27 state membre.
+550,Ce știi despre membrii UE?,Fapt: 27 state membre.,UE are 27 state membre.
+551,Ce e Legea Fundamentală germană?,Constituție din 1949.,"Legea Fundamentală e constituția Germaniei, în vigoare din 1949."
+552,Explică pe scurt: Legea Fundamentală.,Constituție din 1949.,"Legea Fundamentală e constituția Germaniei, în vigoare din 1949."
+553,Ce știi despre Legea Fundamentală?,Constituție din 1949.,"Legea Fundamentală e constituția Germaniei, în vigoare din 1949."
+554,În ce an s-a reunificat Germania?,Fapt: 1990.,Germania s-a reunificat în 1990.
+555,Explică pe scurt: reunificarea.,Fapt: 1990.,Germania s-a reunificat în 1990.
+556,Ce știi despre reunificarea?,Fapt: 1990.,Germania s-a reunificat în 1990.
+557,Ce a fost Evul Mediu?,Epoca: vreo 500-1500.,"Evul Mediu a fost epoca de vreo 500-1500, între antichitate și modernitate."
+558,Explică pe scurt: Evul Mediu.,Epoca: vreo 500-1500.,"Evul Mediu a fost epoca de vreo 500-1500, între antichitate și modernitate."
+559,Ce știi despre Evul Mediu?,Epoca: vreo 500-1500.,"Evul Mediu a fost epoca de vreo 500-1500, între antichitate și modernitate."
+560,Cine a fost Leonardo da Vinci?,"Artist și inventator italian, Mona Lisa.","Leonardo da Vinci a fost un artist și inventator italian, faimos pentru Mona Lisa."
+561,Explică pe scurt: Da Vinci.,"Artist și inventator italian, Mona Lisa.","Leonardo da Vinci a fost un artist și inventator italian, faimos pentru Mona Lisa."
+562,Ce știi despre Da Vinci?,"Artist și inventator italian, Mona Lisa.","Leonardo da Vinci a fost un artist și inventator italian, faimos pentru Mona Lisa."
+563,Cine a fost Marie Curie?,"Fizician, radioactivitate, două Nobel.",Marie Curie a studiat radioactivitatea și a câștigat două Nobel.
+564,Explică pe scurt: Marie Curie.,"Fizician, radioactivitate, două Nobel.",Marie Curie a studiat radioactivitatea și a câștigat două Nobel.
+565,Ce știi despre Marie Curie?,"Fizician, radioactivitate, două Nobel.",Marie Curie a studiat radioactivitatea și a câștigat două Nobel.
+566,Ce a fost Revoluția Franceză?,"Din 1789, libertate egalitate fraternitate.","Revoluția Franceză din 1789 a răsturnat monarhia sub libertate, egalitate, fraternitate."
+567,Explică pe scurt: Revoluția Franceză.,"Din 1789, libertate egalitate fraternitate.","Revoluția Franceză din 1789 a răsturnat monarhia sub libertate, egalitate, fraternitate."
+568,Ce știi despre Revoluția Franceză?,"Din 1789, libertate egalitate fraternitate.","Revoluția Franceză din 1789 a răsturnat monarhia sub libertate, egalitate, fraternitate."
+569,Ce sunt drepturile omului?,Drepturi de bază universale.,"Drepturile omului sunt drepturile de bază ale fiecăruia, ca viața, libertatea și egalitatea."
+570,Explică pe scurt: drepturile omului.,Drepturi de bază universale.,"Drepturile omului sunt drepturile de bază ale fiecăruia, ca viața, libertatea și egalitatea."
+571,Ce știi despre drepturile omului?,Drepturi de bază universale.,"Drepturile omului sunt drepturile de bază ale fiecăruia, ca viața, libertatea și egalitatea."
+572,Ce e inflația?,"Economie: banii pierd valoare, prețurile cresc.",Inflația înseamnă că prețurile cresc și banii pierd valoare.
+573,Explică pe scurt: inflația.,"Economie: banii pierd valoare, prețurile cresc.",Inflația înseamnă că prețurile cresc și banii pierd valoare.
+574,Ce știi despre inflația?,"Economie: banii pierd valoare, prețurile cresc.",Inflația înseamnă că prețurile cresc și banii pierd valoare.
+575,Ce a fost industrializarea?,Mașini și fabrici din secolul XVIII.,Industrializarea a fost trecerea la mașini și fabrici din secolul XVIII.
+576,Explică pe scurt: industrializarea.,Mașini și fabrici din secolul XVIII.,Industrializarea a fost trecerea la mașini și fabrici din secolul XVIII.
+577,Ce știi despre industrializarea?,Mașini și fabrici din secolul XVIII.,Industrializarea a fost trecerea la mașini și fabrici din secolul XVIII.
+578,Când a fost inventat internetul?,"ARPANET 1969, Web 1989.","Bazele datează din ARPANET în 1969, Web-ul din 1989."
+579,Explică pe scurt: internetul.,"ARPANET 1969, Web 1989.","Bazele datează din ARPANET în 1969, Web-ul din 1989."
+580,Ce știi despre internetul?,"ARPANET 1969, Web 1989.","Bazele datează din ARPANET în 1969, Web-ul din 1989."
+581,Când a fost inventată mașina?,Benz 1886.,Mașina a fost inventată de Carl Benz cu mașina din 1886.
+582,Explică pe scurt: mașina.,Benz 1886.,Mașina a fost inventată de Carl Benz cu mașina din 1886.
+583,Ce știi despre mașina?,Benz 1886.,Mașina a fost inventată de Carl Benz cu mașina din 1886.
+584,Cine a inventat avionul?,"Frații Wright, zbor 1903.",Primul zbor cu motor a fost al fraților Wright în 1903.
+585,Explică pe scurt: avionul.,"Frații Wright, zbor 1903.",Primul zbor cu motor a fost al fraților Wright în 1903.
+586,Ce știi despre avionul?,"Frații Wright, zbor 1903.",Primul zbor cu motor a fost al fraților Wright în 1903.
+587,De la ce vârstă se votează în Germania?,"Bundestag de la 18, europene de la 16.",Pentru Bundestag de la 18 ani. La europene în Germania de la 16.
+588,Explică pe scurt: vârsta de vot.,"Bundestag de la 18, europene de la 16.",Pentru Bundestag de la 18 ani. La europene în Germania de la 16.
+589,Ce știi despre vârsta de vot?,"Bundestag de la 18, europene de la 16.",Pentru Bundestag de la 18 ani. La europene în Germania de la 16.
+590,"Cum funcționează alegerile, simplu?","Alegătorii votează, numărare, mandate.","Alegătorii votează, voturile se numără și mandatele se dau după rezultat."
+591,Explică pe scurt: alegerile.,"Alegătorii votează, numărare, mandate.","Alegătorii votează, voturile se numără și mandatele se dau după rezultat."
+592,Ce știi despre alegerile?,"Alegătorii votează, numărare, mandate.","Alegătorii votează, voturile se numără și mandatele se dau după rezultat."
+593,Care e diferența între dictatură și democrație?,Putere unică contra puterea poporului.,În dictatură o persoană sau grup guvernează fără alegeri libere; în democrație puterea vine de la popor.
+594,Explică pe scurt: dictatura și democrația.,Putere unică contra puterea poporului.,În dictatură o persoană sau grup guvernează fără alegeri libere; în democrație puterea vine de la popor.
+595,Ce știi despre dictatura și democrația?,Putere unică contra puterea poporului.,În dictatură o persoană sau grup guvernează fără alegeri libere; în democrație puterea vine de la popor.
+596,Ce înseamnă sustenabilitatea?,Resurse pentru generațiile viitoare.,Sustenabilitatea înseamnă să trăim ca și generațiile viitoare să aibă resurse.
+597,Explică pe scurt: sustenabilitatea.,Resurse pentru generațiile viitoare.,Sustenabilitatea înseamnă să trăim ca și generațiile viitoare să aibă resurse.
+598,Ce știi despre sustenabilitatea?,Resurse pentru generațiile viitoare.,Sustenabilitatea înseamnă să trăim ca și generațiile viitoare să aibă resurse.
+599,Ce e bullyingul și ce facem?,"Repetat; ajutor, dovezi.","Bullyingul e hărțuire repetată. Vorbește cu apropiați, păstrează dovezi, caută ajutor."
+600,Explică pe scurt: bullyingul.,"Repetat; ajutor, dovezi.","Bullyingul e hărțuire repetată. Vorbește cu apropiați, păstrează dovezi, caută ajutor."
+601,Ce știi despre bullyingul?,"Repetat; ajutor, dovezi.","Bullyingul e hărțuire repetată. Vorbește cu apropiați, păstrează dovezi, caută ajutor."
+602,Ce înseamnă pacea?,A trăi fără război și violență.,Pacea înseamnă să trăim împreună fără război și violență.
+603,Explică pe scurt: pacea.,A trăi fără război și violență.,Pacea înseamnă să trăim împreună fără război și violență.
+604,Ce știi despre pacea?,A trăi fără război și violență.,Pacea înseamnă să trăim împreună fără război și violență.
+605,Ce înseamnă libertatea?,A trăi liber fără a răni pe alții.,Libertatea înseamnă să trăiești liber fără a răni pe alții.
+606,Explică pe scurt: libertatea.,A trăi liber fără a răni pe alții.,Libertatea înseamnă să trăiești liber fără a răni pe alții.
+607,Ce știi despre libertatea?,A trăi liber fără a răni pe alții.,Libertatea înseamnă să trăiești liber fără a răni pe alții.
+608,Ce înseamnă dreptatea?,Tratament drept și egal pentru toți.,Dreptatea înseamnă tratament drept și egal pentru fiecare.
+609,Explică pe scurt: dreptatea.,Tratament drept și egal pentru toți.,Dreptatea înseamnă tratament drept și egal pentru fiecare.
+610,Ce știi despre dreptatea?,Tratament drept și egal pentru toți.,Dreptatea înseamnă tratament drept și egal pentru fiecare.
+611,De ce e cerul albastru?,Dispersia Rayleigh dispersează albastrul.,Cerul e albastru din cauza dispersiei Rayleigh: lumina albastră se dispersează mai mult decât roșia.
+612,Explică cerul albastru într-o propoziție.,Dispersia Rayleigh dispersează albastrul.,Cerul e albastru din cauza dispersiei Rayleigh: lumina albastră se dispersează mai mult decât roșia.
+613,Ce e cerul albastru? (scurt),Dispersia Rayleigh dispersează albastrul.,Cerul e albastru din cauza dispersiei Rayleigh: lumina albastră se dispersează mai mult decât roșia.
+614,Cum se formează ploaia?,"Ciclu: evaporare, condensare, precipitații.","Ploaia se naște prin evaporare: apa urcă, se răcește, face nori și cade ca picături."
+615,Explică ploaia într-o propoziție.,"Ciclu: evaporare, condensare, precipitații.","Ploaia se naște prin evaporare: apa urcă, se răcește, face nori și cade ca picături."
+616,Ce e ploaia? (scurt),"Ciclu: evaporare, condensare, precipitații.","Ploaia se naște prin evaporare: apa urcă, se răcește, face nori și cade ca picături."
+617,Ce e fotosinteza?,"Plante: lumină, apă, CO2 în zahăr și oxigen.","Fotosinteza face zahăr și oxigen din lumină, apă și CO2."
+618,Explică fotosinteza într-o propoziție.,"Plante: lumină, apă, CO2 în zahăr și oxigen.","Fotosinteza face zahăr și oxigen din lumină, apă și CO2."
+619,Ce e fotosinteza? (scurt),"Plante: lumină, apă, CO2 în zahăr și oxigen.","Fotosinteza face zahăr și oxigen din lumină, apă și CO2."
+620,Care e diferența între vreme și climă?,"Vremea scurt, clima medie 30 ani.",Vremea e starea pe scurt; clima media de vreo 30 ani.
+621,Explică vremea și clima într-o propoziție.,"Vremea scurt, clima medie 30 ani.",Vremea e starea pe scurt; clima media de vreo 30 ani.
+622,Ce e vremea și clima? (scurt),"Vremea scurt, clima medie 30 ani.",Vremea e starea pe scurt; clima media de vreo 30 ani.
+623,"Cum funcționează frigiderul, în mare?","Agent, căldură dinăuntru afară.","Frigiderul pompează căldura dinăuntru afară cu agent: se evaporă înăuntru, ia căldura, o dă afară."
+624,Explică frigiderul într-o propoziție.,"Agent, căldură dinăuntru afară.","Frigiderul pompează căldura dinăuntru afară cu agent: se evaporă înăuntru, ia căldura, o dă afară."
+625,Ce e frigiderul? (scurt),"Agent, căldură dinăuntru afară.","Frigiderul pompează căldura dinăuntru afară cu agent: se evaporă înăuntru, ia căldura, o dă afară."
+626,"Ce e electricitatea, simplu?",Mișcare dirijată de electroni.,"Electricitatea e simplu mișcarea dirijată de sarcini, de obicei electroni într-un fir."
+627,Explică electricitatea într-o propoziție.,Mișcare dirijată de electroni.,"Electricitatea e simplu mișcarea dirijată de sarcini, de obicei electroni într-un fir."
+628,Ce e electricitatea? (scurt),Mișcare dirijată de electroni.,"Electricitatea e simplu mișcarea dirijată de sarcini, de obicei electroni într-un fir."
+629,"Ce e apa, chimic?","H2O, hidrogen și oxigen.","Apa e H2O, un compus de hidrogen și oxigen."
+630,Explică apa chimic într-o propoziție.,"H2O, hidrogen și oxigen.","Apa e H2O, un compus de hidrogen și oxigen."
+631,Ce e apa chimic? (scurt),"H2O, hidrogen și oxigen.","Apa e H2O, un compus de hidrogen și oxigen."
+632,Ce e un virus?,"Minuscul, nevoie de celulă gazdă.",Un virus e un agent minuscul care nu se înmulțește fără celulă gazdă.
+633,Explică virusul într-o propoziție.,"Minuscul, nevoie de celulă gazdă.",Un virus e un agent minuscul care nu se înmulțește fără celulă gazdă.
+634,Ce e virusul? (scurt),"Minuscul, nevoie de celulă gazdă.",Un virus e un agent minuscul care nu se înmulțește fără celulă gazdă.
+635,"Ce e inteligența artificială, simplu?",Programe care învață tipare.,"Inteligența artificială sunt programe care învață din date, recunosc tipare și rezolvă sarcini."
+636,Explică IA într-o propoziție.,Programe care învață tipare.,"Inteligența artificială sunt programe care învață din date, recunosc tipare și rezolvă sarcini."
+637,Ce e IA? (scurt),Programe care învață tipare.,"Inteligența artificială sunt programe care învață din date, recunosc tipare și rezolvă sarcini."
+638,Ce e un browser?,"Program pentru site-uri, ex. Chrome, Firefox.","Un browser e programul cu care deschizi site-uri, ex. Chrome, Firefox, Edge sau Safari."
+639,Explică browserul într-o propoziție.,"Program pentru site-uri, ex. Chrome, Firefox.","Un browser e programul cu care deschizi site-uri, ex. Chrome, Firefox, Edge sau Safari."
+640,Ce e browserul? (scurt),"Program pentru site-uri, ex. Chrome, Firefox.","Un browser e programul cu care deschizi site-uri, ex. Chrome, Firefox, Edge sau Safari."
+641,Ce e o aplicație?,"Program, de obicei pentru telefoane.","O aplicație e un program, de obicei pentru telefoane, ex. mesaje, poze sau jocuri."
+642,Explică aplicația într-o propoziție.,"Program, de obicei pentru telefoane.","O aplicație e un program, de obicei pentru telefoane, ex. mesaje, poze sau jocuri."
+643,Ce e aplicația? (scurt),"Program, de obicei pentru telefoane.","O aplicație e un program, de obicei pentru telefoane, ex. mesaje, poze sau jocuri."
+644,De ce să bem apă?,"Circulație, focus, piele, rinichi.","Apa ține circulația și focusul stabile, ajută rinichii și pielea, previne durerile de cap."
+645,Explică băutul apei într-o propoziție.,"Circulație, focus, piele, rinichi.","Apa ține circulația și focusul stabile, ajută rinichii și pielea, previne durerile de cap."
+646,Ce e băutul apei? (scurt),"Circulație, focus, piele, rinichi.","Apa ține circulația și focusul stabile, ajută rinichii și pielea, previne durerile de cap."
+647,Cât să ne spălăm pe dinți?,"2 minute, de două ori pe zi.","Vreo 2 minute, de două ori pe zi."
+648,Explică spălatul dinților într-o propoziție.,"2 minute, de două ori pe zi.","Vreo 2 minute, de două ori pe zi."
+649,Ce e spălatul dinților? (scurt),"2 minute, de două ori pe zi.","Vreo 2 minute, de două ori pe zi."
+650,Ce e gravitația?,Atracție între mase; Pământul atrage.,"Gravitația e atracția între mase. Pământul atrage totul în jos, deci lucrurile cad."
+651,Explică gravitația într-o propoziție.,Atracție între mase; Pământul atrage.,"Gravitația e atracția între mase. Pământul atrage totul în jos, deci lucrurile cad."
+652,Ce e gravitația? (scurt),Atracție între mase; Pământul atrage.,"Gravitația e atracția între mase. Pământul atrage totul în jos, deci lucrurile cad."
+653,Ce e aerul?,"Mix de azot, oxigen și mai mult.","Aerul e un mix de gaze, mai ales azot și oxigen."
+654,Explică aerul într-o propoziție.,"Mix de azot, oxigen și mai mult.","Aerul e un mix de gaze, mai ales azot și oxigen."
+655,Ce e aerul? (scurt),"Mix de azot, oxigen și mai mult.","Aerul e un mix de gaze, mai ales azot și oxigen."
+656,Ce face inima?,Pompează sânge prin corp.,Inima pompează sânge prin tot corpul.
+657,Explică inima într-o propoziție.,Pompează sânge prin corp.,Inima pompează sânge prin tot corpul.
+658,Ce e inima? (scurt),Pompează sânge prin corp.,Inima pompează sânge prin tot corpul.
+659,Ce fac plămânii?,"Iau oxigen, dau CO2.",Plămânii iau oxigen și dau dioxid de carbon.
+660,Explică plămânii într-o propoziție.,"Iau oxigen, dau CO2.",Plămânii iau oxigen și dau dioxid de carbon.
+661,Ce e plămânii? (scurt),"Iau oxigen, dau CO2.",Plămânii iau oxigen și dau dioxid de carbon.
+662,De ce e somnul important?,"Recuperare, memorie, imunitate.","Somnul ajută recuperarea, memoria și imunitatea."
+663,Explică somnul într-o propoziție.,"Recuperare, memorie, imunitate.","Somnul ajută recuperarea, memoria și imunitatea."
+664,Ce e somnul? (scurt),"Recuperare, memorie, imunitate.","Somnul ajută recuperarea, memoria și imunitatea."
+665,Ce e febra?,Temperatură ridicată ca apărare.,"Febra e temperatură ridicată a corpului, des apărare contra infecțiilor."
+666,Explică febra într-o propoziție.,Temperatură ridicată ca apărare.,"Febra e temperatură ridicată a corpului, des apărare contra infecțiilor."
+667,Ce e febra? (scurt),Temperatură ridicată ca apărare.,"Febra e temperatură ridicată a corpului, des apărare contra infecțiilor."
+668,Ce e o parolă puternică?,"Lungă, unică, într-un manager.","O parolă puternică e lungă, unică pe serviciu și ținută într-un manager."
+669,Explică parolă puternică într-o propoziție.,"Lungă, unică, într-un manager.","O parolă puternică e lungă, unică pe serviciu și ținută într-un manager."
+670,Ce e parolă puternică? (scurt),"Lungă, unică, într-un manager.","O parolă puternică e lungă, unică pe serviciu și ținută într-un manager."
+671,Ce e Wi-Fi?,Rețea locală fără fir.,Wi-Fi e o rețea locală fără fir pentru internet fără cabluri.
+672,Explică Wi-Fi într-o propoziție.,Rețea locală fără fir.,Wi-Fi e o rețea locală fără fir pentru internet fără cabluri.
+673,Ce e Wi-Fi? (scurt),Rețea locală fără fir.,Wi-Fi e o rețea locală fără fir pentru internet fără cabluri.
+674,Ce e cloudul?,Servere pe internet pentru date și servicii.,Cloudul sunt servere pe internet unde ții date și folosești servicii.
+675,Explică cloudul într-o propoziție.,Servere pe internet pentru date și servicii.,Cloudul sunt servere pe internet unde ții date și folosești servicii.
+676,Ce e cloudul? (scurt),Servere pe internet pentru date și servicii.,Cloudul sunt servere pe internet unde ții date și folosești servicii.
+677,Cum funcționează GPS?,"Sateliți, timp de semnal, calcul.",GPS găsește poziția din semnale de sateliți și timpul lor de drum.
+678,Explică GPS într-o propoziție.,"Sateliți, timp de semnal, calcul.",GPS găsește poziția din semnale de sateliți și timpul lor de drum.
+679,Ce e GPS? (scurt),"Sateliți, timp de semnal, calcul.",GPS găsește poziția din semnale de sateliți și timpul lor de drum.
+680,De ce sunt ziua și noaptea?,Rotația Pământului.,"Ziua și noaptea sunt pentru că Pământul se rotește. Partea cu soare are zi, cealaltă noapte."
+681,Explică ziua și noaptea într-o propoziție.,Rotația Pământului.,"Ziua și noaptea sunt pentru că Pământul se rotește. Partea cu soare are zi, cealaltă noapte."
+682,Ce e ziua și noaptea? (scurt),Rotația Pământului.,"Ziua și noaptea sunt pentru că Pământul se rotește. Partea cu soare are zi, cealaltă noapte."
+683,De ce sunt anotimpuri?,Înclinarea axei Pământului.,Anotimpurile vin din înclinarea axei: fiecare emisferă se înclină spre soare pe rând.
+684,Explică anotimpurile într-o propoziție.,Înclinarea axei Pământului.,Anotimpurile vin din înclinarea axei: fiecare emisferă se înclină spre soare pe rând.
+685,Ce e anotimpurile? (scurt),Înclinarea axei Pământului.,Anotimpurile vin din înclinarea axei: fiecare emisferă se înclină spre soare pe rând.
+686,De ce strălucește luna?,Reflectă soarele.,Luna strălucește pentru că reflectă lumina soarelui.
+687,Explică luna luminoasă într-o propoziție.,Reflectă soarele.,Luna strălucește pentru că reflectă lumina soarelui.
+688,Ce e luna luminoasă? (scurt),Reflectă soarele.,Luna strălucește pentru că reflectă lumina soarelui.
+689,Ce e soarele?,O stea de gaz fierbinte.,Soarele e o stea de gaz fierbinte care dă lumină și căldură.
+690,Explică soarele într-o propoziție.,O stea de gaz fierbinte.,Soarele e o stea de gaz fierbinte care dă lumină și căldură.
+691,Ce e soarele? (scurt),O stea de gaz fierbinte.,Soarele e o stea de gaz fierbinte care dă lumină și căldură.
+692,Câte planete are sistemul solar?,8 planete.,"Sistemul nostru solar are 8 planete: Mercur, Venus, Pământ, Marte, Jupiter, Saturn, Uranus, Neptun."
+693,Explică planetele într-o propoziție.,8 planete.,"Sistemul nostru solar are 8 planete: Mercur, Venus, Pământ, Marte, Jupiter, Saturn, Uranus, Neptun."
+694,Ce e planetele? (scurt),8 planete.,"Sistemul nostru solar are 8 planete: Mercur, Venus, Pământ, Marte, Jupiter, Saturn, Uranus, Neptun."
+695,Ce e un atom?,Unitatea minimă: nucleu plus electroni.,"Un atom e unitatea minimă de materie, făcut din nucleu și electroni."
+696,Explică atomul într-o propoziție.,Unitatea minimă: nucleu plus electroni.,"Un atom e unitatea minimă de materie, făcut din nucleu și electroni."
+697,Ce e atomul? (scurt),Unitatea minimă: nucleu plus electroni.,"Un atom e unitatea minimă de materie, făcut din nucleu și electroni."
+698,Ce e reciclarea?,"Adună deșeuri, face produse noi.",Reciclarea adună deșeuri ca să facă produse noi.
+699,Explică reciclarea într-o propoziție.,"Adună deșeuri, face produse noi.",Reciclarea adună deșeuri ca să facă produse noi.
+700,Ce e reciclarea? (scurt),"Adună deșeuri, face produse noi.",Reciclarea adună deșeuri ca să facă produse noi.
+701,Ce e efectul de seră?,Gazele țin căldura.,Efectul de seră ține căldura. Prea multe gaze încălzesc clima.
+702,Explică efectul de seră într-o propoziție.,Gazele țin căldura.,Efectul de seră ține căldura. Prea multe gaze încălzesc clima.
+703,Ce e efectul de seră? (scurt),Gazele țin căldura.,Efectul de seră ține căldura. Prea multe gaze încălzesc clima.
+704,De ce sunt albinele importante?,"Polenizare, recolte.","Albinele polenizează plante, asigurând recolte și diversitate."
+705,Explică albinele într-o propoziție.,"Polenizare, recolte.","Albinele polenizează plante, asigurând recolte și diversitate."
+706,Ce e albinele? (scurt),"Polenizare, recolte.","Albinele polenizează plante, asigurând recolte și diversitate."
+707,De ce sunt frunzele verzi?,Pigmentul clorofilă.,"Frunzele sunt verzi din cauza clorofilei, pigmentul fotosintezei."
+708,Explică frunzele verzi într-o propoziție.,Pigmentul clorofilă.,"Frunzele sunt verzi din cauza clorofilei, pigmentul fotosintezei."
+709,Ce e frunzele verzi? (scurt),Pigmentul clorofilă.,"Frunzele sunt verzi din cauza clorofilei, pigmentul fotosintezei."
+710,Ce e un mamifer?,"Blană, naștere vie, lapte.","Mamiferele au blană, nasc pui vii și îi alăptează."
+711,Explică mamiferele într-o propoziție.,"Blană, naștere vie, lapte.","Mamiferele au blană, nasc pui vii și îi alăptează."
+712,Ce e mamiferele? (scurt),"Blană, naștere vie, lapte.","Mamiferele au blană, nasc pui vii și îi alăptează."
+713,Cum funcționează o baterie?,Energie chimică în electrică.,O baterie transformă energia chimică în electrică.
+714,Explică bateriile într-o propoziție.,Energie chimică în electrică.,O baterie transformă energia chimică în electrică.
+715,Ce e bateriile? (scurt),Energie chimică în electrică.,O baterie transformă energia chimică în electrică.
+716,Cum funcționează solarul?,Celule: lumină în curent.,Celulele solare transformă lumina direct în curent.
+717,Explică solarul într-o propoziție.,Celule: lumină în curent.,Celulele solare transformă lumina direct în curent.
+718,Ce e solarul? (scurt),Celule: lumină în curent.,Celulele solare transformă lumina direct în curent.
+719,Ce e un virus de calculator?,Program dăunător care se răspândește.,Un virus e un program dăunător care se răspândește și strică. Protejează cu update-uri și grijă.
+720,Explică virusul de calculator într-o propoziție.,Program dăunător care se răspândește.,Un virus e un program dăunător care se răspândește și strică. Protejează cu update-uri și grijă.
+721,Ce e virusul de calculator? (scurt),Program dăunător care se răspândește.,Un virus e un program dăunător care se răspândește și strică. Protejează cu update-uri și grijă.
+722,De ce e plasticul o problemă?,"Gunoi durabil, microplastic.","Plasticul aproape nu putrezește, murdărește natura și mările, devine microplastic."
+723,Explică plasticul într-o propoziție.,"Gunoi durabil, microplastic.","Plasticul aproape nu putrezește, murdărește natura și mările, devine microplastic."
+724,Ce e plasticul? (scurt),"Gunoi durabil, microplastic.","Plasticul aproape nu putrezește, murdărește natura și mările, devine microplastic."
+725,Ce e un cutremur?,"Plăcile se mișcă, energia iese.",Un cutremur e când plăcile se mișcă brusc și eliberează energie.
+726,Explică cutremurul într-o propoziție.,"Plăcile se mișcă, energia iese.",Un cutremur e când plăcile se mișcă brusc și eliberează energie.
+727,Ce e cutremurul? (scurt),"Plăcile se mișcă, energia iese.",Un cutremur e când plăcile se mișcă brusc și eliberează energie.
+728,Ce e mierea?,Albinele din nectar.,Mierea e făcută de albine din nectarul florilor.
+729,Explică mierea într-o propoziție.,Albinele din nectar.,Mierea e făcută de albine din nectarul florilor.
+730,Ce e mierea? (scurt),Albinele din nectar.,Mierea e făcută de albine din nectarul florilor.
+731,Cât face 25 ori 4?,Calcul: 25*4=100.,25 ori 4 face 100.
+732,Cât face 12 la sută din 200?,"Procent: 200*0,12=24.",12 la sută din 200 face 24.
+733,Cât face 7 ori 8 plus 10?,Ordine: 7*8=56 +10=66.,Face 66.
+734,Un tren pleacă la 14:30 și merge 2h15. Când ajunge?,Adună: 14:30 + 2:15 = 16:45.,Ajunge la 16:45.
+735,Am 3 mere și mănânc 1. Câte rămân?,Scade: 3-1=2.,Rămân 2 mere.
+736,Mă culc la 22 și mă scol la 6. Cât dorm?,Durata: 22-6 = 8 ore.,Dormi 8 ore.
+737,Împarte 100 euro la 4 persoane.,Împarte: 100/4=25.,Fiecare primește 25 euro.
+738,Câte minute sunt 2 ore?,Conversie: 2*60=120.,2 ore sunt 120 minute.
+739,Câte zile are un an?,"Fapt: 365, bisect 366.","Un an are 365 zile, bisect 366."
+740,Câte secunde are un minut?,Fapt: 60.,Un minut are 60 secunde.
+741,Cât face 13 plus 17?,Adună: 13+17=30.,13 plus 17 face 30.
+742,Cât face 91 minus 85?,Scade: 91-85=6.,91 minus 85 face 6.
+743,Cât face 11 ori 6?,Înmulțește: 11*6=66.,11 ori 6 face 66.
+744,Cât face 198 împărțit la 11?,Împarte: 198/11=18.,198 împărțit la 11 face 18.
+745,Cât face 25 la sută din 300?,Procent: 300*25/100=75.,25 la sută din 300 face 75.
+746,Cât face 38 plus 58?,Adună: 38+58=96.,38 plus 58 face 96.
+747,Cât face 7 minus 3?,Scade: 7-3=4.,7 minus 3 face 4.
+748,Cât face 6 ori 5?,Înmulțește: 6*5=30.,6 ori 5 face 30.
+749,Cât face 33 împărțit la 3?,Împarte: 33/3=11.,33 împărțit la 3 face 11.
+750,Cât face 49 plus 48?,Adună: 49+48=97.,49 plus 48 face 97.
+751,Cât face 31 minus 23?,Scade: 31-23=8.,31 minus 23 face 8.
+752,Cât face 2 ori 5?,Înmulțește: 2*5=10.,2 ori 5 face 10.
+753,Cât face 40 împărțit la 10?,Împarte: 40/10=4.,40 împărțit la 10 face 4.
+754,Cât face 5 la sută din 1000?,Procent: 1000*5/100=50.,5 la sută din 1000 face 50.
+755,Cât face 50 plus 34?,Adună: 50+34=84.,50 plus 34 face 84.
+756,Cât face 36 minus 30?,Scade: 36-30=6.,36 minus 30 face 6.
+757,Cât face 5 ori 2?,Înmulțește: 5*2=10.,5 ori 2 face 10.
+758,Cât face 152 împărțit la 8?,Împarte: 152/8=19.,152 împărțit la 8 face 19.
+759,Cât face 10 la sută din 300?,Procent: 300*10/100=30.,10 la sută din 300 face 30.
+760,Cât face 44 plus 24?,Adună: 44+24=68.,44 plus 24 face 68.
+761,Cât face 13 minus 3?,Scade: 13-3=10.,13 minus 3 face 10.
+762,Cât face 8 ori 4?,Înmulțește: 8*4=32.,8 ori 4 face 32.
+763,Cât face 72 împărțit la 8?,Împarte: 72/8=9.,72 împărțit la 8 face 9.
+764,Cât face 15 la sută din 200?,Procent: 200*15/100=30.,15 la sută din 200 face 30.
+765,Cât face 26 plus 60?,Adună: 26+60=86.,26 plus 60 face 86.
+766,Cât face 41 minus 37?,Scade: 41-37=4.,41 minus 37 face 4.
+767,Cât face 11 ori 3?,Înmulțește: 11*3=33.,11 ori 3 face 33.
+768,Cât face 18 împărțit la 9?,Împarte: 18/9=2.,18 împărțit la 9 face 2.
+769,Cât face 5 la sută din 400?,Procent: 400*5/100=20.,5 la sută din 400 face 20.
+770,Cât face 4 plus 26?,Adună: 4+26=30.,4 plus 26 face 30.
+771,Cât face 13 minus 8?,Scade: 13-8=5.,13 minus 8 face 5.
+772,Cât face 4 ori 4?,Înmulțește: 4*4=16.,4 ori 4 face 16.
+773,Cât face 24 împărțit la 3?,Împarte: 24/3=8.,24 împărțit la 3 face 8.
+774,Cât face 10 la sută din 400?,Procent: 400*10/100=40.,10 la sută din 400 face 40.
+775,Cât face 16 plus 22?,Adună: 16+22=38.,16 plus 22 face 38.
+776,Cât face 48 minus 10?,Scade: 48-10=38.,48 minus 10 face 38.
+777,Cât face 21 împărțit la 7?,Împarte: 21/7=3.,21 împărțit la 7 face 3.
+778,Cât face 10 la sută din 200?,Procent: 200*10/100=20.,10 la sută din 200 face 20.
+779,Cât face 10 plus 46?,Adună: 10+46=56.,10 plus 46 face 56.
+780,Cât face 91 minus 32?,Scade: 91-32=59.,91 minus 32 face 59.
+781,Cât face 12 ori 9?,Înmulțește: 12*9=108.,12 ori 9 face 108.
+782,Cât face 91 împărțit la 7?,Împarte: 91/7=13.,91 împărțit la 7 face 13.
+783,Cât face 50 la sută din 100?,Procent: 100*50/100=50.,50 la sută din 100 face 50.
+784,Cât face 19 plus 11?,Adună: 19+11=30.,19 plus 11 face 30.
+785,Cât face 14 minus 4?,Scade: 14-4=10.,14 minus 4 face 10.
+786,Cât face 7 ori 12?,Înmulțește: 7*12=84.,7 ori 12 face 84.
+787,Cât face 10 împărțit la 2?,Împarte: 10/2=5.,10 împărțit la 2 face 5.
+788,Cât face 15 la sută din 300?,Procent: 300*15/100=45.,15 la sută din 300 face 45.
+789,Cât face 13 plus 39?,Adună: 13+39=52.,13 plus 39 face 52.
+790,Cât face 20 minus 10?,Scade: 20-10=10.,20 minus 10 face 10.
+791,Cât face 10 ori 10?,Înmulțește: 10*10=100.,10 ori 10 face 100.
+792,Cât face 200 împărțit la 10?,Împarte: 200/10=20.,200 împărțit la 10 face 20.
+793,Cât face 20 la sută din 500?,Procent: 500*20/100=100.,20 la sută din 500 face 100.
+794,Cât face 18 plus 7?,Adună: 18+7=25.,18 plus 7 face 25.
+795,Cât face 15 minus 12?,Scade: 15-12=3.,15 minus 12 face 3.
+796,Cât face 50 la sută din 500?,Procent: 500*50/100=250.,50 la sută din 500 face 250.
+797,Cât face 13 plus 12?,Adună: 13+12=25.,13 plus 12 face 25.
+798,Cât face 47 minus 42?,Scade: 47-42=5.,47 minus 42 face 5.
+799,Cât face 102 împărțit la 6?,Împarte: 102/6=17.,102 împărțit la 6 face 17.
+800,Cât face 25 la sută din 400?,Procent: 400*25/100=100.,25 la sută din 400 face 100.
+801,Cât face 24 plus 40?,Adună: 24+40=64.,24 plus 40 face 64.
+802,Cât face 67 minus 61?,Scade: 67-61=6.,67 minus 61 face 6.
+803,Cât face 68 împărțit la 4?,Împarte: 68/4=17.,68 împărțit la 4 face 17.
+804,Cât face 30 plus 50?,Adună: 30+50=80.,30 plus 50 face 80.
+805,Cât face 79 minus 53?,Scade: 79-53=26.,79 minus 53 face 26.
+806,Cât face 10 ori 2?,Înmulțește: 10*2=20.,10 ori 2 face 20.
+807,Cât face 42 împărțit la 6?,Împarte: 42/6=7.,42 împărțit la 6 face 7.
+808,Cât face 5 la sută din 200?,Procent: 200*5/100=10.,5 la sută din 200 face 10.
+809,Cât face 27 plus 49?,Adună: 27+49=76.,27 plus 49 face 76.
+810,Cât face 32 minus 2?,Scade: 32-2=30.,32 minus 2 face 30.
+811,Cât face 136 împărțit la 8?,Împarte: 136/8=17.,136 împărțit la 8 face 17.
+812,Cât face 25 la sută din 1000?,Procent: 1000*25/100=250.,25 la sută din 1000 face 250.
+813,Cât face 6 plus 31?,Adună: 6+31=37.,6 plus 31 face 37.
+814,Cât face 8 minus 3?,Scade: 8-3=5.,8 minus 3 face 5.
+815,Cât face 7 ori 2?,Înmulțește: 7*2=14.,7 ori 2 face 14.
+816,Cât face 44 împărțit la 4?,Împarte: 44/4=11.,44 împărțit la 4 face 11.
+817,Cât face 5 la sută din 300?,Procent: 300*5/100=15.,5 la sută din 300 face 15.
+818,Cât face 18 plus 56?,Adună: 18+56=74.,18 plus 56 face 74.
+819,Cât face 84 minus 73?,Scade: 84-73=11.,84 minus 73 face 11.
+820,Cât face 7 ori 9?,Înmulțește: 7*9=63.,7 ori 9 face 63.
+821,Cât face 72 împărțit la 6?,Împarte: 72/6=12.,72 împărțit la 6 face 12.
+822,Cât face 11 plus 58?,Adună: 11+58=69.,11 plus 58 face 69.
+823,Cât face 79 minus 76?,Scade: 79-76=3.,79 minus 76 face 3.
+824,Cât face 11 ori 8?,Înmulțește: 11*8=88.,11 ori 8 face 88.
+825,Cât face 18 plus 23?,Adună: 18+23=41.,18 plus 23 face 41.
+826,Cât face 67 minus 31?,Scade: 67-31=36.,67 minus 31 face 36.
+827,Cât face 12 ori 11?,Înmulțește: 12*11=132.,12 ori 11 face 132.
+828,Cât face 84 împărțit la 12?,Împarte: 84/12=7.,84 împărțit la 12 face 7.
+829,Cât face 37 plus 60?,Adună: 37+60=97.,37 plus 60 face 97.
+830,Cât face 41 minus 12?,Scade: 41-12=29.,41 minus 12 face 29.
+831,Cât face 7 ori 5?,Înmulțește: 7*5=35.,7 ori 5 face 35.
+832,Cât face 20 la sută din 200?,Procent: 200*20/100=40.,20 la sută din 200 face 40.
+833,Cât face 46 plus 23?,Adună: 46+23=69.,46 plus 23 face 69.
+834,Cât face 41 minus 8?,Scade: 41-8=33.,41 minus 8 face 33.
+835,Cât face 12 ori 12?,Înmulțește: 12*12=144.,12 ori 12 face 144.
+836,Cât face 26 împărțit la 2?,Împarte: 26/2=13.,26 împărțit la 2 face 13.
+837,Cât face 9 plus 33?,Adună: 9+33=42.,9 plus 33 face 42.
+838,Cât face 70 minus 50?,Scade: 70-50=20.,70 minus 50 face 20.
+839,Cât face 12 ori 2?,Înmulțește: 12*2=24.,12 ori 2 face 24.
+840,Cât face 204 împărțit la 12?,Împarte: 204/12=17.,204 împărțit la 12 face 17.
+841,Cât face 20 la sută din 300?,Procent: 300*20/100=60.,20 la sută din 300 face 60.
+842,Cât face 33 plus 38?,Adună: 33+38=71.,33 plus 38 face 71.
+843,Cât face 85 minus 74?,Scade: 85-74=11.,85 minus 74 face 11.
+844,Cât face 9 ori 2?,Înmulțește: 9*2=18.,9 ori 2 face 18.
+845,Cât face 36 împărțit la 3?,Împarte: 36/3=12.,36 împărțit la 3 face 12.
+846,Filmul începe la 20:15 și durează 90 minute. Când se termină?,20:15 + 90 min = 21:45.,Se termină la 21:45.
+847,E 9. Peste 3h30 am întâlnire. Când?,9:00 + 3:30 = 12:30.,Întâlnirea e la 12:30.
+848,O prăjitură coace 45 minute. O pun la 16:20. Când e gata?,16:20 + 0:45 = 17:05.,E gata la 17:05.
+849,Școala începe la 8:00 și se termină la 13:15. Cât durează?,13:15 - 8:00 = 5:15.,Durează 5 ore și 15 minute.
+850,"Dacă citesc 30 minute de la 19:00, când termin?",19:00 + 0:30 = 19:30.,Termini la 19:30.
+851,Cum învăț vocabular?,"Sesiuni scurte, carduri, folosire activă.",Cel mai bine în sesiuni scurte zilnice cu carduri și folosire activă în propoziții plus repetiție.
+852,a învăța vocabular - sfaturi?,"Sesiuni scurte, carduri, folosire activă.",Cel mai bine în sesiuni scurte zilnice cu carduri și folosire activă în propoziții plus repetiție.
+853,Ghid rapid: a învăța vocabular.,"Sesiuni scurte, carduri, folosire activă.",Cel mai bine în sesiuni scurte zilnice cu carduri și folosire activă în propoziții plus repetiție.
+854,Cum economisesc zi de zi?,"Buget, abonamente, gătit, comparat.","Fixează un buget, verifică abonamente, gătește mai mult, compară prețuri și pune întâi o sumă fixă."
+855,a economisi - sfaturi?,"Buget, abonamente, gătit, comparat.","Fixează un buget, verifică abonamente, gătește mai mult, compară prețuri și pune întâi o sumă fixă."
+856,Ghid rapid: a economisi.,"Buget, abonamente, gătit, comparat.","Fixează un buget, verifică abonamente, gătește mai mult, compară prețuri și pune întâi o sumă fixă."
+857,"Ce gătesc cu paste, roșii și brânză?",Paste cu sos de roșii și brânză.,"Fă paste cu sos simplu: condimentează, fierbe, toarnă peste paste, presară brânză."
+858,paste rapide - sfaturi?,Paste cu sos de roșii și brânză.,"Fă paste cu sos simplu: condimentează, fierbe, toarnă peste paste, presară brânză."
+859,Ghid rapid: paste rapide.,Paste cu sos de roșii și brânză.,"Fă paste cu sos simplu: condimentează, fierbe, toarnă peste paste, presară brânză."
+860,"Zbor mâine, ce iau?","Lista: act, bilet, bani, telefon, încărcător.","Ia: act sau pașaport, bilet, bani, telefon plus încărcător, medicamente, igienă și schimb în cabină."
+861,bagaj de zbor - sfaturi?,"Lista: act, bilet, bani, telefon, încărcător.","Ia: act sau pașaport, bilet, bani, telefon plus încărcător, medicamente, igienă și schimb în cabină."
+862,Ghid rapid: bagaj de zbor.,"Lista: act, bilet, bani, telefon, încărcător.","Ia: act sau pașaport, bilet, bani, telefon plus încărcător, medicamente, igienă și schimb în cabină."
+863,Cum scriu scuze bune?,"Numește greșeala, responsabilitate, reparare.","Numește greșeala, asumă, arată regret și oferă reparare, scurt și sincer."
+864,scuze - sfaturi?,"Numește greșeala, responsabilitate, reparare.","Numește greșeala, asumă, arată regret și oferă reparare, scurt și sincer."
+865,Ghid rapid: scuze.,"Numește greșeala, responsabilitate, reparare.","Numește greșeala, asumă, arată regret și oferă reparare, scurt și sincer."
+866,Cum planific 3 zile în oraș?,"Drum, hotel, 2-3 puncte pe zi.","Fixează drum și hotel, alege 2-3 puncte pe zi, lasă rezerve și buget zilnic."
+867,city break - sfaturi?,"Drum, hotel, 2-3 puncte pe zi.","Fixează drum și hotel, alege 2-3 puncte pe zi, lasă rezerve și buget zilnic."
+868,Ghid rapid: city break.,"Drum, hotel, 2-3 puncte pe zi.","Fixează drum și hotel, alege 2-3 puncte pe zi, lasă rezerve și buget zilnic."
+869,Umbrelă cu 80 la sută ploaie?,"80% mult, da recomandat.","Da, ia-o. Cu 80 la sută ploaia e foarte probabilă."
+870,umbrela - sfaturi?,"80% mult, da recomandat.","Da, ia-o. Cu 80 la sută ploaia e foarte probabilă."
+871,Ghid rapid: umbrela.,"80% mult, da recomandat.","Da, ia-o. Cu 80 la sută ploaia e foarte probabilă."
+872,Ce e mai bun pentru notițe: hârtia sau telefonul?,"Hârtia fără distragere, telefonul căutabil.","Ambele au plusuri: hârtia fără distragere și bună pentru memorie, telefonul căutabil și mereu cu tine."
+873,notițe hârtie sau telefon - sfaturi?,"Hârtia fără distragere, telefonul căutabil.","Ambele au plusuri: hârtia fără distragere și bună pentru memorie, telefonul căutabil și mereu cu tine."
+874,Ghid rapid: notițe hârtie sau telefon.,"Hârtia fără distragere, telefonul căutabil.","Ambele au plusuri: hârtia fără distragere și bună pentru memorie, telefonul căutabil și mereu cu tine."
+875,Cum fac ordine rapid în cameră?,"Gunoi, rufe, pus la loc, șters.","Întâi adună gunoiul, apoi rufele, pune totul la loc și șterge la final."
+876,ordine rapidă - sfaturi?,"Gunoi, rufe, pus la loc, șters.","Întâi adună gunoiul, apoi rufele, pune totul la loc și șterge la final."
+877,Ghid rapid: ordine rapidă.,"Gunoi, rufe, pus la loc, șters.","Întâi adună gunoiul, apoi rufele, pune totul la loc și șterge la final."
+878,Cum fac o valiză compactă?,"Rulează, greu jos, umple.","Rulează hainele în loc să le împături, greu jos, umple cu șosete."
+879,valiză compactă - sfaturi?,"Rulează, greu jos, umple.","Rulează hainele în loc să le împături, greu jos, umple cu șosete."
+880,Ghid rapid: valiză compactă.,"Rulează, greu jos, umple.","Rulează hainele în loc să le împături, greu jos, umple cu șosete."
+881,Cum fierb orez?,"Raport 1:2, fierbe 10-12 min.","Spală orezul, fierbe cu apă dublă, lasă 10-12 minute."
+882,a fierbe orez - sfaturi?,"Raport 1:2, fierbe 10-12 min.","Spală orezul, fierbe cu apă dublă, lasă 10-12 minute."
+883,Ghid rapid: a fierbe orez.,"Raport 1:2, fierbe 10-12 min.","Spală orezul, fierbe cu apă dublă, lasă 10-12 minute."
+884,Cum fierb paste?,"Apă sărată, fierbe 8-10 min.","Sărează multă apă, fierbe, fierbe pastele 8-10 minute, scurge."
+885,a fierbe paste - sfaturi?,"Apă sărată, fierbe 8-10 min.","Sărează multă apă, fierbe, fierbe pastele 8-10 minute, scurge."
+886,Ghid rapid: a fierbe paste.,"Apă sărată, fierbe 8-10 min.","Sărează multă apă, fierbe, fierbe pastele 8-10 minute, scurge."
+887,Cum fac clătite?,"Făină, lapte, ou, rumenește.","Amestecă făină, lapte, ou și priză de sare, coace subțire până se rumenesc."
+888,clătite - sfaturi?,"Făină, lapte, ou, rumenește.","Amestecă făină, lapte, ou și priză de sare, coace subțire până se rumenesc."
+889,Ghid rapid: clătite.,"Făină, lapte, ou, rumenește.","Amestecă făină, lapte, ou și priză de sare, coace subțire până se rumenesc."
+890,Cum mă trezesc dimineața?,"Lumină, apă, mișcare.","Aprinde lumina, bea un pahar cu apă, mișcă-te puțin și ia aer."
+891,trezirea - sfaturi?,"Lumină, apă, mișcare.","Aprinde lumina, bea un pahar cu apă, mișcă-te puțin și ia aer."
+892,Ghid rapid: trezirea.,"Lumină, apă, mișcare.","Aprinde lumina, bea un pahar cu apă, mișcă-te puțin și ia aer."
+893,Cum adorm mai repede?,"Întuneric, răcoare, fără telefon, rutină.","Dormi întuneric și răcoare, pune telefonul, ține rutină fixă."
+894,adormirea - sfaturi?,"Întuneric, răcoare, fără telefon, rutină.","Dormi întuneric și răcoare, pune telefonul, ține rutină fixă."
+895,Ghid rapid: adormirea.,"Întuneric, răcoare, fără telefon, rutină.","Dormi întuneric și răcoare, pune telefonul, ține rutină fixă."
+896,Cum învăț pentru examen?,"Blocuri, reamintire activă, pauze.","Împarte în blocuri, întreabă-te activ, ia pauze, repetă a doua zi."
+897,învățat examen - sfaturi?,"Blocuri, reamintire activă, pauze.","Împarte în blocuri, întreabă-te activ, ia pauze, repetă a doua zi."
+898,Ghid rapid: învățat examen.,"Blocuri, reamintire activă, pauze.","Împarte în blocuri, întreabă-te activ, ia pauze, repetă a doua zi."
+899,Cum scriu o cerere de job?,"Scrisoare, CV, diplome.",Scrie o scrisoare scurtă plus CV tabel și diplome utile.
+900,cerere job - sfaturi?,"Scrisoare, CV, diplome.",Scrie o scrisoare scurtă plus CV tabel și diplome utile.
+901,Ghid rapid: cerere job.,"Scrisoare, CV, diplome.",Scrie o scrisoare scurtă plus CV tabel și diplome utile.
+902,Cum găsesc casă?,"Buget, portaluri, acte, vizite.","Fixează buget, caută pe portaluri, pregătește acte, mergi cu întrebări."
+903,a găsi casă - sfaturi?,"Buget, portaluri, acte, vizite.","Fixează buget, caută pe portaluri, pregătește acte, mergi cu întrebări."
+904,Ghid rapid: a găsi casă.,"Buget, portaluri, acte, vizite.","Fixează buget, caută pe portaluri, pregătește acte, mergi cu întrebări."
+905,Cum ud florile corect?,"Testul degetului, fără băltire.","Testul degetului: udă doar dacă sus e uscat, evită băltirea."
+906,udatul florilor - sfaturi?,"Testul degetului, fără băltire.","Testul degetului: udă doar dacă sus e uscat, evită băltirea."
+907,Ghid rapid: udatul florilor.,"Testul degetului, fără băltire.","Testul degetului: udă doar dacă sus e uscat, evită băltirea."
+908,Cum îmi organizez ziua?,"3 priorități, blocuri, pauze.","Alege 3 priorități, planifică blocuri cu pauze, pune distragerile."
+909,organizarea zilei - sfaturi?,"3 priorități, blocuri, pauze.","Alege 3 priorități, planifică blocuri cu pauze, pune distragerile."
+910,Ghid rapid: organizarea zilei.,"3 priorități, blocuri, pauze.","Alege 3 priorități, planifică blocuri cu pauze, pune distragerile."
+911,Cum încep sportul?,"Puțin, 2x pe săptămână, crește.","Începe 2x pe săptămână plimbare sau ușor, crește încet."
+912,a începe sportul - sfaturi?,"Puțin, 2x pe săptămână, crește.","Începe 2x pe săptămână plimbare sau ușor, crește încet."
+913,Ghid rapid: a începe sportul.,"Puțin, 2x pe săptămână, crește.","Începe 2x pe săptămână plimbare sau ușor, crește încet."
+914,Cum beau destulă apă?,"Sticlă gata, mementouri.","Ține o sticlă gata, bea un pahar la fiecare masă, pune mementouri."
+915,a bea destul - sfaturi?,"Sticlă gata, mementouri.","Ține o sticlă gata, bea un pahar la fiecare masă, pune mementouri."
+916,Ghid rapid: a bea destul.,"Sticlă gata, mementouri.","Ține o sticlă gata, bea un pahar la fiecare masă, pune mementouri."
+917,Ce e un mic dejun sănătos?,"Ovăz, fructe, iaurt.","De exemplu ovăz cu fructe și iaurt, sau pâine integrală cu ou."
+918,mic dejun sănătos - sfaturi?,"Ovăz, fructe, iaurt.","De exemplu ovăz cu fructe și iaurt, sau pâine integrală cu ou."
+919,Ghid rapid: mic dejun sănătos.,"Ovăz, fructe, iaurt.","De exemplu ovăz cu fructe și iaurt, sau pâine integrală cu ou."
+920,Ce ajută contra stresului?,"Pauze, mișcare, somn, vorbit.","Pauze scurte, mișcare, destul somn și vorbitul ajută."
+921,stresul - sfaturi?,"Pauze, mișcare, somn, vorbit.","Pauze scurte, mișcare, destul somn și vorbitul ajută."
+922,Ghid rapid: stresul.,"Pauze, mișcare, somn, vorbit.","Pauze scurte, mișcare, destul somn și vorbitul ajută."
+923,Cum anulez o întâlnire?,"Devreme, motiv scurt, dată nouă.","Anulează devreme, dă motiv scurt, propune dată nouă."
+924,anularea întâlnirii - sfaturi?,"Devreme, motiv scurt, dată nouă.","Anulează devreme, dă motiv scurt, propune dată nouă."
+925,Ghid rapid: anularea întâlnirii.,"Devreme, motiv scurt, dată nouă.","Anulează devreme, dă motiv scurt, propune dată nouă."
+926,Cum cer ajutor?,"Concret: ce, până când, mulțumesc.","Cere concret: ce, până când, de ce. Exemplu: Mă ajuți azi la cărat? Mulțumesc!"
+927,a cere ajutor - sfaturi?,"Concret: ce, până când, mulțumesc.","Cere concret: ce, până când, de ce. Exemplu: Mă ajuți azi la cărat? Mulțumesc!"
+928,Ghid rapid: a cere ajutor.,"Concret: ce, până când, mulțumesc.","Cere concret: ce, până când, de ce. Exemplu: Mă ajuți azi la cărat? Mulțumesc!"
+929,Cum învăț să spun nu?,"Scurt, amabil, alternativă.","Spune nu scurt și amabil, oferă alternativă dacă poți."
+930,a spune nu - sfaturi?,"Scurt, amabil, alternativă.","Spune nu scurt și amabil, oferă alternativă dacă poți."
+931,Ghid rapid: a spune nu.,"Scurt, amabil, alternativă.","Spune nu scurt și amabil, oferă alternativă dacă poți."
+932,Cum economisesc pentru vacanță?,"Țintă, auto lunar.","Fixează o țintă, economisește lunar automat, adaugă extra."
+933,a economisi vacanță - sfaturi?,"Țintă, auto lunar.","Fixează o țintă, economisește lunar automat, adaugă extra."
+934,Ghid rapid: a economisi vacanță.,"Țintă, auto lunar.","Fixează o țintă, economisește lunar automat, adaugă extra."
+935,Cum rezerv zboruri ieftine?,"Date flexibile, compară, devreme.","Fii flexibil cu datele, compară portaluri, rezervă devreme."
+936,zboruri ieftine - sfaturi?,"Date flexibile, compară, devreme.","Fii flexibil cu datele, compară portaluri, rezervă devreme."
+937,Ghid rapid: zboruri ieftine.,"Date flexibile, compară, devreme.","Fii flexibil cu datele, compară portaluri, rezervă devreme."
+938,Cum găsesc drumul fără internet?,"Hărți offline, semne, întreabă.","Descarcă hărți offline, urmează semnele, întreabă oamenii."
+939,drum fără internet - sfaturi?,"Hărți offline, semne, întreabă.","Descarcă hărți offline, urmează semnele, întreabă oamenii."
+940,Ghid rapid: drum fără internet.,"Hărți offline, semne, întreabă.","Descarcă hărți offline, urmează semnele, întreabă oamenii."
+941,Care e diferența între câine și pisică ca animal?,Câinii: plimbări și educație; pisicile independente.,"Câinii cer plimbări și educație, pisicile sunt mai independente. Alege după timp și spațiu."
+942,câine sau pisică - ce recomanzi?,Câinii: plimbări și educație; pisicile independente.,"Câinii cer plimbări și educație, pisicile sunt mai independente. Alege după timp și spațiu."
+943,Tren sau mașină pentru 300 km?,"Tren relax și verde, mașina flexibilă.","Trenul e relax și des mai verde, mașina flexibilă cu bagaje. Cu ambuteiaje câștigă trenul."
+944,tren sau mașină 300 km - ce recomanzi?,"Tren relax și verde, mașina flexibilă.","Trenul e relax și des mai verde, mașina flexibilă cu bagaje. Cu ambuteiaje câștigă trenul."
+945,Măr sau ciocolată ca gustare?,Mărul: vitamine și sațietate.,"Ia mărul pentru vitamine și sațietate, ciocolata ca excepție."
+946,măr sau ciocolată - ce recomanzi?,Mărul: vitamine și sațietate.,"Ia mărul pentru vitamine și sațietate, ciocolata ca excepție."
+947,Laptop sau PC pentru jocuri?,"PC mai puternic pe bani, laptop mobil.","PC-urile dau mai multă putere pe bani, laptopurile sunt mobile. Pentru max alege PC."
+948,laptop sau PC gaming - ce recomanzi?,"PC mai puternic pe bani, laptop mobil.","PC-urile dau mai multă putere pe bani, laptopurile sunt mobile. Pentru max alege PC."
+949,Oraș sau țară pentru locuit?,Oraș: joburi și aproape; țară: calm.,"Orașele oferă joburi și aproape, țara calm și spațiu. Alege după muncă și stil."
+950,oraș sau țară - ce recomanzi?,Oraș: joburi și aproape; țară: calm.,"Orașele oferă joburi și aproape, țara calm și spațiu. Alege după muncă și stil."
+951,Ce contează mai mult: somnul sau studiul?,Somnul fixează învățarea.,"Somnul contează mai mult pentru că fixează învățarea. Învață devreme, dormi destul."
+952,somn sau studiu - ce recomanzi?,Somnul fixează învățarea.,"Somnul contează mai mult pentru că fixează învățarea. Învață devreme, dormi destul."
+953,Telefon nou sau păstrez vechiul?,Păstrează dacă ajunge; cumpără la defect sau nevoie.,Păstrează dacă ajunge. Cumpără nou doar la defect sau nevoie reală.
+954,telefon nou - ce recomanzi?,Păstrează dacă ajunge; cumpără la defect sau nevoie.,Păstrează dacă ajunge. Cumpără nou doar la defect sau nevoie reală.
+955,Ce sunt știrile false?,"Inventate, ca reale; verifică sursa.","Știrile false sunt inventate. Verifică sursa, data și alte medii."
+956,știri false - ce recomanzi?,"Inventate, ca reale; verifică sursa.","Știrile false sunt inventate. Verifică sursa, data și alte medii."
+957,Care e diferența între fapt și opinie?,"Fapt probabil, opinie vedere personală.","Un fapt e probabil și verificabil, o opinie e o vedere personală."
+958,fapt sau opinie - ce recomanzi?,"Fapt probabil, opinie vedere personală.","Un fapt e probabil și verificabil, o opinie e o vedere personală."
+959,Bicicletă sau bus la școală? (5 km),"Vreme bună bicicleta, ploaie bus.","Pe vreme bună ia bicicleta (vreo 20 min, sănătos), pe ploaie busul."
+960,bicicletă sau bus școală 5 km - ce recomanzi?,"Vreme bună bicicleta, ploaie bus.","Pe vreme bună ia bicicleta (vreo 20 min, sănătos), pe ploaie busul."
+961,Apă sau suc pentru sete?,"Apa mai bună, fără zahăr.",Apa stinge setea cel mai bine și n-are zahăr. Suc doar diluat.
+962,apă sau suc - ce recomanzi?,"Apa mai bună, fără zahăr.",Apa stinge setea cel mai bine și n-are zahăr. Suc doar diluat.
+963,Cafea sau apă dimineața?,"Întâi apă, cafea moderat.","Bea întâi apă, cafea după cu moderație."
+964,cafea sau apă dimineața - ce recomanzi?,"Întâi apă, cafea moderat.","Bea întâi apă, cafea după cu moderație."
+965,Chirie sau cumpărare? (general),Flexibil chirie; lung verifică cumpărare.,"Închiriază dacă rămâi flexibil; dacă stai mult și poți plăti, verifică cumpărarea cu toate costurile."
+966,chirie sau cumpărare - ce recomanzi?,Flexibil chirie; lung verifică cumpărare.,"Închiriază dacă rămâi flexibil; dacă stai mult și poți plăti, verifică cumpărarea cu toate costurile."
+967,Sculare devreme sau târziu?,După treburi și somn.,Alege după treburi și somn: destul somn și ritm fix contează.
+968,devreme sau târziu - ce recomanzi?,După treburi și somn.,Alege după treburi și somn: destul somn și ritm fix contează.
+969,Sport zilnic?,Odihna contează; 3-4x pe săptămână ajunge.,"Nu, planifică odihne. De 3-4 ori pe săptămână ajunge des, zilnic doar ușor."
+970,sport zilnic - ce recomanzi?,Odihna contează; 3-4x pe săptămână ajunge.,"Nu, planifică odihne. De 3-4 ori pe săptămână ajunge des, zilnic doar ușor."
+971,Muncă cu febră?,"Nu, odihnă și doctor.",Nu. Odihnește-te și mergi la doctor la febră mare sau lungă.
+972,febră și muncă - ce recomanzi?,"Nu, odihnă și doctor.",Nu. Odihnește-te și mergi la doctor la febră mare sau lungă.
+973,Cum aleg între două oferte?,"Criterii, pro/contra, termen.","Listează criterii, punctează, verifică costuri și intuiție, decide cu termen."
+974,a alege între oferte - ce recomanzi?,"Criterii, pro/contra, termen.","Listează criterii, punctează, verifică costuri și intuiție, decide cu termen."
+975,Cum economisesc 500 euro în 5 luni?,500/5=100 pe lună auto.,"Economisește 100 euro pe lună automat, ex. ordin după salariu."
+976,a economisi 500 în 5 luni - ce recomanzi?,500/5=100 pe lună auto.,"Economisește 100 euro pe lună automat, ex. ordin după salariu."
+977,Care e diferența între nevoie și dorință?,"Nevoie vitală, dorință peste.","Nevoia e vitală, dorința e o poftă peste."
+978,nevoie sau dorință - ce recomanzi?,"Nevoie vitală, dorință peste.","Nevoia e vitală, dorința e o poftă peste."
+979,Ce contează mai mult: banii sau timpul?,"Timp limitat, bani înlocuibili.","Timpul e limitat și nu se întoarce, banii se câștigă din nou. Contează echilibrul."
+980,bani sau timp - ce recomanzi?,"Timp limitat, bani înlocuibili.","Timpul e limitat și nu se întoarce, banii se câștigă din nou. Contează echilibrul."
+981,Rezumat: când gândești și când nu?,"Regula: small talk fără gândire; fapte, calcule, explicații, decizii cu gândire.","Nu gândesc la saluturi, mulțumiri și small talk. Gândesc la fapte, calcule, explicații, comparații și decizii, și atunci arăt gândirea."
+982,Ce e toleranța?,Definește toleranța simplu și corect.,toleranța pe scurt: Toleranța acceptă alte opinii și stiluri de viață.
+983,Ce e răbdarea?,Definește răbdarea simplu și corect.,răbdarea pe scurt: Răbdarea așteaptă calm și perseverează.
+984,Ce e curajul?,Definește curajul simplu și corect.,curajul pe scurt: Curajul face binele în ciuda fricii.
+985,Ce e disciplina?,Definește disciplina simplu și corect.,disciplina pe scurt: Disciplina perseverează chiar fără chef.
+986,Ce e creativitatea?,Definește creativitatea simplu și corect.,creativitatea pe scurt: Creativitatea găsește idei și soluții noi.
+987,Ce e munca în echipă?,Definește munca în echipă simplu și corect.,munca în echipă pe scurt: Munca în echipă avansează împreună spre o țintă.
+988,Ce e responsabilitatea?,Definește responsabilitatea simplu și corect.,responsabilitatea pe scurt: Responsabilitatea își asumă fapte și urmări.
+989,Ce e încrederea?,Definește încrederea simplu și corect.,încrederea pe scurt: Încrederea permite să te bazezi pe alții.
+990,Ce e politețea?,Definește politețea simplu și corect.,politețea pe scurt: Politețea e respectuoasă și amabilă.
+991,Ce e punctualitatea?,Definește punctualitatea simplu și corect.,punctualitatea pe scurt: Punctualitatea ține orele stabilite.
+992,Ce e seriozitatea?,Definește seriozitatea simplu și corect.,seriozitatea pe scurt: Seriozitatea ține promisiunile.
+993,Ce e sănătatea?,Definește sănătatea simplu și corect.,sănătatea pe scurt: Sănătatea e bunăstare fizică și mentală.
+994,Ce e fericirea?,Definește fericirea simplu și corect.,fericirea pe scurt: Fericirea e mulțumire și momente bucuroase.
+995,Ce e succesul?,Definește succesul simplu și corect.,succesul pe scurt: Succesul atinge țintele fixate.
+996,Ce e învățarea?,Definește învățarea simplu și corect.,învățarea pe scurt: Învățarea dobândește știință și abilități.
+997,Ce e știința?,Definește știința simplu și corect.,știința pe scurt: Știința e informație înțeleasă despre lume.
+998,Ce e experiența?,Definește experiența simplu și corect.,experiența pe scurt: Experiența e știință din trăite.
+999,Ce e umorul?,Definește umorul simplu și corect.,umorul pe scurt: Umorul știe să râdă de cele hazlii.
+1000,Ce e dragostea?,Definește dragostea simplu și corect.,dragostea pe scurt: Dragostea e afecțiune adâncă și grijă.

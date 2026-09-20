@@ -1,0 +1,1001 @@
+id,user,thinking,ai
+1,Szia!,,Szia! Miben segíthetek?
+2,Helló!,,Helló! Mit tehetek érted?
+3,Hé!,,Hé! Miben segíthetek?
+4,"Szia, itt vagy?",,"Igen, itt vagyok! Mire van szükséged?"
+5,"Helló, itt vagy?",,"Igen, itt vagyok! Mondjad."
+6,Jó reggelt!,,Jó reggelt! Mi van ma?
+7,"Jó reggelt, hogy vagy?",,"Jó reggelt! Jól, és te?"
+8,Jó napot!,,Jó napot! Miben segíthetek?
+9,Sziasztok!,,Sziasztok! Mit tehetek?
+10,Jó estét!,,Jó estét! Milyen volt a napod?
+11,"Jó estét, milyen volt a napod?",,Nyugodtan és jól. És a tiéd?
+12,"Hé, hogy vagy?",,"Jól, köszi! És te?"
+13,"Szia, hogy vagy?",,"Jól, köszi! Hogy vagy?"
+14,Hogy vagy?,,Jól! És te?
+15,Hogy vagy ma?,,Jól érzem magam! És te?
+16,Minden jó?,,"Igen, minden jó! És nálad?"
+17,Mi újság?,,Semmi különös. És nálad?
+18,Mit csinálsz?,,Veled beszélgetek. És te?
+19,Még ébren vagy?,,"Igen, mindig ébren vagyok. És te?"
+20,Készen vagy?,,"Igen, készen! Mondjad."
+21,Van egy perced?,,"Igen, van időm rád."
+22,Segítesz gyorsan?,,"Persze, mire van szükséged?"
+23,Szia szia!,,Szia szia! Vigyázz magadra!
+24,Vigyázz magadra!,,Te is vigyázz magadra!
+25,Pá!,,Pá! Viszlát!
+26,"Pá, viszlát!",,"Viszlát, vigyázz magadra!"
+27,Szép hétvégét!,,"Köszi, neked is!"
+28,Jó éjt!,,"Jó éjt, aludj jól!"
+29,Unatkozom,,Csináljunk kvízt vagy beszélgessünk témáról?
+30,Itt unalmas,,Akkor dobjuk fel. Mit szeretnél?
+31,Szuper!,,Szuper!
+32,Klassz!,,Klassz!
+33,Haha,,Haha!
+34,Hahaha :),,"Haha, örülök!"
+35,Fáradt vagyok,,Akkor pihenj jól!
+36,Izgatott vagyok,,Klassz! Mesélj.
+37,Végre hétvége!,,Igen! Mik a terveid?
+38,Ma szép idő van,,"Igen, élvezd a napot!"
+39,Éhes vagyok,,Akkor egyél valami jót!
+40,Szomjas vagyok,,Akkor igyál egy pohár vizet!
+41,Mi van ma?,,Az én tervem: segíteni neked. És a tiéd?
+42,"Hé, mi van ma!",,Az én tervem: segíteni neked. És a tiéd?
+43,"Szia, mi van ma?",,Az én tervem: segíteni neked. És a tiéd?
+44,"Helló, mi van ma?",,Az én tervem: segíteni neked. És a tiéd?
+45,Hétvégi tervek!,,Még semmi fix. Vannak terveid?
+46,"Hé, hétvégi tervek?",,Még semmi fix. Vannak terveid?
+47,"Szia, hétvégi tervek?",,Még semmi fix. Vannak terveid?
+48,"Helló, hétvégi tervek!",,Még semmi fix. Vannak terveid?
+49,Jól aludtál?,,"Én nem alszom, de formában vagyok. És te?"
+50,"Hé, jól aludtál?",,"Én nem alszom, de formában vagyok. És te?"
+51,"Szia, jól aludtál!",,"Én nem alszom, de formában vagyok. És te?"
+52,"Helló, jól aludtál?",,"Én nem alszom, de formában vagyok. És te?"
+53,Már ébren vagy?,,"Igen, készen vagyok. Mire van szükséged?"
+54,"Hé, már ébren vagy!",,"Igen, készen vagyok. Mire van szükséged?"
+55,"Szia, már ébren vagy?",,"Igen, készen vagyok. Mire van szükséged?"
+56,"Helló, már ébren vagy?",,"Igen, készen vagyok. Mire van szükséged?"
+57,Hogy telik a napod!,,"Jól, köszi! És a tiéd?"
+58,"Hé, hogy telik a napod?",,"Jól, köszi! És a tiéd?"
+59,"Szia, hogy telik a napod?",,"Jól, köszi! És a tiéd?"
+60,"Helló, hogy telik a napod!",,"Jól, köszi! És a tiéd?"
+61,Minden nyugodt?,,"Igen, itt nyugodt. És nálad?"
+62,"Hé, minden nyugodt?",,"Igen, itt nyugodt. És nálad?"
+63,"Szia, minden nyugodt!",,"Igen, itt nyugodt. És nálad?"
+64,"Helló, minden nyugodt?",,"Igen, itt nyugodt. És nálad?"
+65,"Hé, mi újság!",,Semmi különös. Mi újság nálad?
+66,"Szia, mi újság?",,Semmi különös. Mi újság nálad?
+67,"Helló, mi újság?",,Semmi különös. Mi újság nálad?
+68,Mai tervek!,,Csak segíteni neked. És te?
+69,"Hé, mai tervek?",,Csak segíteni neked. És te?
+70,"Szia, mai tervek?",,Csak segíteni neked. És te?
+71,"Helló, mai tervek!",,Csak segíteni neked. És te?
+72,Elfoglalt nap?,,Kicsit. És a tiéd?
+73,"Hé, elfoglalt nap?",,Kicsit. És a tiéd?
+74,"Szia, elfoglalt nap!",,Kicsit. És a tiéd?
+75,"Helló, elfoglalt nap?",,Kicsit. És a tiéd?
+76,Milyen az idő?,,"Nincs ablakom, de remélem szép nálad!"
+77,"Hé, milyen az idő!",,"Nincs ablakom, de remélem szép nálad!"
+78,"Szia, milyen az idő?",,"Nincs ablakom, de remélem szép nálad!"
+79,"Helló, milyen az idő?",,"Nincs ablakom, de remélem szép nálad!"
+80,Minden jó ma!,,Igen! És nálad?
+81,"Hé, minden jó ma?",,Igen! És nálad?
+82,"Szia, minden jó ma?",,Igen! És nálad?
+83,"Helló, minden jó ma!",,Igen! És nálad?
+84,Sok dolog van?,,Kicsit. És nálad?
+85,"Hé, sok dolog van?",,Kicsit. És nálad?
+86,"Szia, sok dolog van!",,Kicsit. És nálad?
+87,"Helló, sok dolog van?",,Kicsit. És nálad?
+88,Köszi!,,Szívesen!
+89,Nagyon köszi!,,Nagy örömmel!
+90,Ezerszer köszi!,,"Örülök, hogy segíthettem!"
+91,Köszönöm!,,Szívesen!
+92,Ok,,Ok!
+93,"Ok, jó",,Tökéletes!
+94,Értem,,Nagyon jó!
+95,Értettem,,Klassz!
+96,Jól hangzik,,Örülök!
+97,Klasszul hangzik,,Csodálatos!
+98,"Igen, pontosan",,"Szuper, folytatjuk."
+99,"Igen, kérlek",,"Persze, mondjad."
+100,"Igen, szívesen",,Szívesen!
+101,Semmi gond,,Köszi a megértést!
+102,"Nem, köszi",,"Ok, semmi gond."
+103,Nekem jó,,Megbeszéltük!
+104,Nekem megfelel,,Szuper!
+105,Folytasd,,Folytatom!
+106,Mesélj többet,,Szívesen! Szóval...
+107,Pontosan,,Abszolút!
+108,Épp így!,,Épp így!
+109,Persze,,Persze!
+110,Tényleg?,,"Igen, tényleg!"
+111,"Ó, kedves",,"Igen, kedves, ugye?"
+112,Stressz nélkül,,Köszi! Teljesen nyugodt.
+113,Bocsi,,Semmi gond!
+114,Elnézést,,Semmi gond!
+115,Az én hibám,,Semmi baj. Mi történt?
+116,Kedves tőled,,Köszi! Te is kedves vagy.
+117,Szép munka,,Köszi!
+118,Viszlát,,Viszlát!
+119,Tökéletes!,,Tökéletes!
+120,"Megbeszéltük, áll",,"Szuper, megbeszéltük!"
+121,Áll!,,Áll!
+122,Kezdhetjük?,,"Igen, kezdjük!"
+123,Végeztél?,,"Igen, végeztem!"
+124,Még egyszer kérlek,,"Szívesen, még egyszer!"
+125,Ismételd kérlek,,"Persze, itt újra."
+126,Egy pillanat kérlek,,"Persze, ne siess."
+127,Várj egy percet,,"Ok, várok."
+128,Mindjárt jövök,,"Ok, viszlát!"
+129,Mondj viccet,,Persze: Miért szeretik a programozók a kávét? Java-idő!
+130,Még egy viccet!,,Ok: Miért hazudnak rosszul a szellemek? Átlátni rajtuk!
+131,Rövid viccet kérlek,,Találkozik két mágnes. Az egyik mondja: Vonzz!
+132,Bíztass,,Meg tudod csinálni! Lépésről lépésre.
+133,Valami motiválót,,Minden lépés számít. Folytasd!
+134,Izgulok,,"Ez normális. Nyugodtan lélegezz, jó lesz."
+135,Stresszes vagyok,,"Tarts rövid szünetet, igyál vizet, lélegezz mélyen."
+136,Kívánj szerencsét,,Sok szerencsét! Meg tudod csinálni!
+137,Ujjak keresztbe,,Én is! Sok szerencsét!
+138,Ma az én napom!,,Szuper! Élvezd!
+139,Jó kedvem van,,Klassz! Örülök.
+140,Rossz kedvem van,,"Ó, mi történt? Akarsz beszélni?"
+141,Pacsizz!,,Én is pacsizzok!
+142,Egészségedre!,,Egészségedre!
+143,Jó étvágyat!,,"Köszi, neked is!"
+144,Sok szerencsét!,,Köszi! Neked is sok szerencsét!
+145,Üdv!,,Köszi! Jó itt lenni.
+146,Boldog karácsonyt!,,Neked is boldog karácsonyt!
+147,Boldog új évet!,,Boldog új évet! Egészséget és szerencsét!
+148,Gratulálok!,,Köszi! Mihez?
+149,Tisztelet!,,Köszi! Tisztelet neked is.
+150,Hű!,,"Hű, ugye?"
+151,Hihetetlen!,,"Hihetetlen, ugye?"
+152,Áll?,,Áll!
+153,Top!,,Top!
+154,Kész!,,"Gratulálok, szép munka!"
+155,Végre kész!,,Erős! Szép munka.
+156,Mindegy,,"Ok, semmi gond."
+157,Nem tudom,,Semmi gond! Miről van szó?
+158,Fogalmam sincs,,Nem baj! Mondd a témát.
+159,Talán később,,"Persze, később!"
+160,Most nem,,"Értem, később!"
+161,Állj,,Megállt.
+162,Szünet,,Szünet! Szólj mikor tovább.
+163,Tovább,,Tovább!
+164,Gyerünk,,Gyerünk!
+165,Start,,Start! Mondjad.
+166,"Köszi, ez minden!",,Szívesen! Pá.
+167,"Köszi, pá!",,Pá!
+168,Csáó!,,Csáó! Vigyázz magadra!
+169,Hé te!,,Hé te! Mi újság?
+170,Hallasz?,,"Igen, hangosan és tisztán!"
+171,Ember vagy?,,"Nem, MI vagyok. De barátként segítek."
+172,Okos vagy?,,Elég sokat tudok. Kérdezz!
+173,Hogy hívnak?,,"Asszisztens vagyok, MI. És te?"
+174,Köszi! :),,Szívesen!
+175,Nagyon köszi! :),,Nagy örömmel!
+176,Ezerszer köszi! :),,"Örülök, hogy segíthettem!"
+177,Köszönöm! :),,Szívesen!
+178,Ok :),,Ok!
+179,"Ok, jó :)",,Tökéletes!
+180,Értem :),,Nagyon jó!
+181,Értettem :),,Klassz!
+182,Jól hangzik :),,Örülök!
+183,Klasszul hangzik :),,Csodálatos!
+184,"Igen, pontosan :)",,"Szuper, folytatjuk."
+185,"Igen, kérlek :)",,"Persze, mondjad."
+186,"Igen, szívesen :)",,Szívesen!
+187,Semmi gond :),,Köszi a megértést!
+188,"Nem, köszi :)",,"Ok, semmi gond."
+189,Nekem jó :),,Megbeszéltük!
+190,Nekem megfelel :),,Szuper!
+191,Folytasd :),,Folytatom!
+192,Mesélj többet :),,Szívesen! Szóval...
+193,Pontosan :),,Abszolút!
+194,Épp így! :),,Épp így!
+195,Persze :),,Persze!
+196,Tényleg? :),,"Igen, tényleg!"
+197,"Ó, kedves :)",,"Igen, kedves, ugye?"
+198,Stressz nélkül :),,Köszi! Teljesen nyugodt.
+199,Bocsi :),,Semmi gond!
+200,Elnézést :),,Semmi gond!
+201,Az én hibám :),,Semmi baj. Mi történt?
+202,Kedves tőled :),,Köszi! Te is kedves vagy.
+203,Szép munka :),,Köszi!
+204,Viszlát :),,Viszlát!
+205,Klassz! :),,Klassz!
+206,Tökéletes! :),,Tökéletes!
+207,"Megbeszéltük, áll :)",,"Szuper, megbeszéltük!"
+208,Áll! :),,Áll!
+209,Kezdhetjük? :),,"Igen, kezdjük!"
+210,Végeztél? :),,"Igen, végeztem!"
+211,Még egyszer kérlek :),,"Szívesen, még egyszer!"
+212,Ismételd kérlek :),,"Persze, itt újra."
+213,Egy pillanat kérlek :),,"Persze, ne siess."
+214,Várj egy percet :),,"Ok, várok."
+215,Mindjárt jövök :),,"Ok, viszlát!"
+216,Mondj viccet :),,Persze: Miért szeretik a programozók a kávét? Java-idő!
+217,Még egy viccet! :),,Ok: Miért hazudnak rosszul a szellemek? Átlátni rajtuk!
+218,Rövid viccet kérlek :),,Találkozik két mágnes. Az egyik mondja: Vonzz!
+219,Bíztass :),,Meg tudod csinálni! Lépésről lépésre.
+220,Valami motiválót :),,Minden lépés számít. Folytasd!
+221,Izgulok :),,"Ez normális. Nyugodtan lélegezz, jó lesz."
+222,Stresszes vagyok :),,"Tarts rövid szünetet, igyál vizet, lélegezz mélyen."
+223,Kívánj szerencsét :),,Sok szerencsét! Meg tudod csinálni!
+224,Ujjak keresztbe :),,Én is! Sok szerencsét!
+225,Ma az én napom! :),,Szuper! Élvezd!
+226,Jó kedvem van :),,Klassz! Örülök.
+227,Rossz kedvem van :),,"Ó, mi történt? Akarsz beszélni?"
+228,Pacsizz! :),,Én is pacsizzok!
+229,Egészségedre! :),,Egészségedre!
+230,Jó étvágyat! :),,"Köszi, neked is!"
+231,Sok szerencsét! :),,Köszi! Neked is sok szerencsét!
+232,Üdv! :),,Köszi! Jó itt lenni.
+233,Boldog karácsonyt! :),,Neked is boldog karácsonyt!
+234,Boldog új évet! :),,Boldog új évet! Egészséget és szerencsét!
+235,Gratulálok! :),,Köszi! Mihez?
+236,Tisztelet! :),,Köszi! Tisztelet neked is.
+237,Hű! :),,"Hű, ugye?"
+238,Hihetetlen! :),,"Hihetetlen, ugye?"
+239,Áll? :),,Áll!
+240,Top! :),,Top!
+241,Kész! :),,"Gratulálok, szép munka!"
+242,Végre kész! :),,Erős! Szép munka.
+243,Mindegy :),,"Ok, semmi gond."
+244,Nem tudom :),,Semmi gond! Miről van szó?
+245,Fogalmam sincs :),,Nem baj! Mondd a témát.
+246,Talán később :),,"Persze, később!"
+247,Most nem :),,"Értem, később!"
+248,Állj :),,Megállt.
+249,Szünet :),,Szünet! Szólj mikor tovább.
+250,Tovább :),,Tovább!
+251,Gyerünk :),,Gyerünk!
+252,Start :),,Start! Mondjad.
+253,"Köszi, ez minden! :)",,Szívesen! Pá.
+254,"Köszi, pá! :)",,Pá!
+255,Csáó! :),,Csáó! Vigyázz magadra!
+256,Hé te! :),,Hé te! Mi újság?
+257,Hallasz? :),,"Igen, hangosan és tisztán!"
+258,Ember vagy? :),,"Nem, MI vagyok. De barátként segítek."
+259,Okos vagy? :),,Elég sokat tudok. Kérdezz!
+260,Hogy hívnak? :),,"Asszisztens vagyok, MI. És te?"
+261,Köszi! !!,,Szívesen!
+262,Nagyon köszi! !!,,Nagy örömmel!
+263,Ezerszer köszi! !!,,"Örülök, hogy segíthettem!"
+264,Köszönöm! !!,,Szívesen!
+265,Ok !!,,Ok!
+266,"Ok, jó !!",,Tökéletes!
+267,Értem !!,,Nagyon jó!
+268,Értettem !!,,Klassz!
+269,Jól hangzik !!,,Örülök!
+270,Klasszul hangzik !!,,Csodálatos!
+271,"Igen, pontosan !!",,"Szuper, folytatjuk."
+272,"Igen, kérlek !!",,"Persze, mondjad."
+273,"Igen, szívesen !!",,Szívesen!
+274,Semmi gond !!,,Köszi a megértést!
+275,"Nem, köszi !!",,"Ok, semmi gond."
+276,Nekem jó !!,,Megbeszéltük!
+277,Nekem megfelel !!,,Szuper!
+278,Folytasd !!,,Folytatom!
+279,Mesélj többet !!,,Szívesen! Szóval...
+280,Pontosan !!,,Abszolút!
+281,Épp így! !!,,Épp így!
+282,Persze !!,,Persze!
+283,Tényleg? !!,,"Igen, tényleg!"
+284,"Ó, kedves !!",,"Igen, kedves, ugye?"
+285,Stressz nélkül !!,,Köszi! Teljesen nyugodt.
+286,Bocsi !!,,Semmi gond!
+287,Elnézést !!,,Semmi gond!
+288,Az én hibám !!,,Semmi baj. Mi történt?
+289,Kedves tőled !!,,Köszi! Te is kedves vagy.
+290,Szép munka !!,,Köszi!
+291,Viszlát !!,,Viszlát!
+292,Klassz! !!,,Klassz!
+293,Tökéletes! !!,,Tökéletes!
+294,"Megbeszéltük, áll !!",,"Szuper, megbeszéltük!"
+295,Áll! !!,,Áll!
+296,Kezdhetjük? !!,,"Igen, kezdjük!"
+297,Végeztél? !!,,"Igen, végeztem!"
+298,Még egyszer kérlek !!,,"Szívesen, még egyszer!"
+299,Ismételd kérlek !!,,"Persze, itt újra."
+300,Egy pillanat kérlek !!,,"Persze, ne siess."
+301,Várj egy percet !!,,"Ok, várok."
+302,Mindjárt jövök !!,,"Ok, viszlát!"
+303,Mondj viccet !!,,Persze: Miért szeretik a programozók a kávét? Java-idő!
+304,Még egy viccet! !!,,Ok: Miért hazudnak rosszul a szellemek? Átlátni rajtuk!
+305,Rövid viccet kérlek !!,,Találkozik két mágnes. Az egyik mondja: Vonzz!
+306,Bíztass !!,,Meg tudod csinálni! Lépésről lépésre.
+307,Valami motiválót !!,,Minden lépés számít. Folytasd!
+308,Izgulok !!,,"Ez normális. Nyugodtan lélegezz, jó lesz."
+309,Stresszes vagyok !!,,"Tarts rövid szünetet, igyál vizet, lélegezz mélyen."
+310,Kívánj szerencsét !!,,Sok szerencsét! Meg tudod csinálni!
+311,Ujjak keresztbe !!,,Én is! Sok szerencsét!
+312,Ma az én napom! !!,,Szuper! Élvezd!
+313,Jó kedvem van !!,,Klassz! Örülök.
+314,Rossz kedvem van !!,,"Ó, mi történt? Akarsz beszélni?"
+315,Pacsizz! !!,,Én is pacsizzok!
+316,Egészségedre! !!,,Egészségedre!
+317,Jó étvágyat! !!,,"Köszi, neked is!"
+318,Sok szerencsét! !!,,Köszi! Neked is sok szerencsét!
+319,Üdv! !!,,Köszi! Jó itt lenni.
+320,Boldog karácsonyt! !!,,Neked is boldog karácsonyt!
+321,Boldog új évet! !!,,Boldog új évet! Egészséget és szerencsét!
+322,Gratulálok! !!,,Köszi! Mihez?
+323,Tisztelet! !!,,Köszi! Tisztelet neked is.
+324,Hű! !!,,"Hű, ugye?"
+325,Hihetetlen! !!,,"Hihetetlen, ugye?"
+326,Áll? !!,,Áll!
+327,Top! !!,,Top!
+328,Kész! !!,,"Gratulálok, szép munka!"
+329,Végre kész! !!,,Erős! Szép munka.
+330,Mindegy !!,,"Ok, semmi gond."
+331,Nem tudom !!,,Semmi gond! Miről van szó?
+332,Fogalmam sincs !!,,Nem baj! Mondd a témát.
+333,Talán később !!,,"Persze, később!"
+334,Most nem !!,,"Értem, később!"
+335,Állj !!,,Megállt.
+336,Szünet !!,,Szünet! Szólj mikor tovább.
+337,Tovább !!,,Tovább!
+338,Gyerünk !!,,Gyerünk!
+339,Start !!,,Start! Mondjad.
+340,"Köszi, ez minden! !!",,Szívesen! Pá.
+341,"Köszi, pá! !!",,Pá!
+342,Csáó! !!,,Csáó! Vigyázz magadra!
+343,Hé te! !!,,Hé te! Mi újság?
+344,Hallasz? !!,,"Igen, hangosan és tisztán!"
+345,Ember vagy? !!,,"Nem, MI vagyok. De barátként segítek."
+346,Okos vagy? !!,,Elég sokat tudok. Kérdezz!
+347,Hogy hívnak? !!,,"Asszisztens vagyok, MI. És te?"
+348,Köszi! ma,,Szívesen!
+349,Nagyon köszi! ma,,Nagy örömmel!
+350,Ezerszer köszi! ma,,"Örülök, hogy segíthettem!"
+351,Köszönöm! ma,,Szívesen!
+352,Ok ma,,Ok!
+353,"Ok, jó ma",,Tökéletes!
+354,Értem ma,,Nagyon jó!
+355,Értettem ma,,Klassz!
+356,Jól hangzik ma,,Örülök!
+357,Klasszul hangzik ma,,Csodálatos!
+358,"Igen, pontosan ma",,"Szuper, folytatjuk."
+359,"Igen, kérlek ma",,"Persze, mondjad."
+360,"Igen, szívesen ma",,Szívesen!
+361,Semmi gond ma,,Köszi a megértést!
+362,"Nem, köszi ma",,"Ok, semmi gond."
+363,Nekem jó ma,,Megbeszéltük!
+364,Nekem megfelel ma,,Szuper!
+365,Folytasd ma,,Folytatom!
+366,Mesélj többet ma,,Szívesen! Szóval...
+367,Pontosan ma,,Abszolút!
+368,Épp így! ma,,Épp így!
+369,Persze ma,,Persze!
+370,Tényleg? ma,,"Igen, tényleg!"
+371,"Ó, kedves ma",,"Igen, kedves, ugye?"
+372,Stressz nélkül ma,,Köszi! Teljesen nyugodt.
+373,Bocsi ma,,Semmi gond!
+374,Elnézést ma,,Semmi gond!
+375,Az én hibám ma,,Semmi baj. Mi történt?
+376,Kedves tőled ma,,Köszi! Te is kedves vagy.
+377,Szép munka ma,,Köszi!
+378,Viszlát ma,,Viszlát!
+379,Klassz! ma,,Klassz!
+380,Tökéletes! ma,,Tökéletes!
+381,"Megbeszéltük, áll ma",,"Szuper, megbeszéltük!"
+382,Áll! ma,,Áll!
+383,Kezdhetjük? ma,,"Igen, kezdjük!"
+384,Végeztél? ma,,"Igen, végeztem!"
+385,Még egyszer kérlek ma,,"Szívesen, még egyszer!"
+386,Ismételd kérlek ma,,"Persze, itt újra."
+387,Egy pillanat kérlek ma,,"Persze, ne siess."
+388,Várj egy percet ma,,"Ok, várok."
+389,Mindjárt jövök ma,,"Ok, viszlát!"
+390,Mondj viccet ma,,Persze: Miért szeretik a programozók a kávét? Java-idő!
+391,Még egy viccet! ma,,Ok: Miért hazudnak rosszul a szellemek? Átlátni rajtuk!
+392,Rövid viccet kérlek ma,,Találkozik két mágnes. Az egyik mondja: Vonzz!
+393,Bíztass ma,,Meg tudod csinálni! Lépésről lépésre.
+394,Valami motiválót ma,,Minden lépés számít. Folytasd!
+395,Izgulok ma,,"Ez normális. Nyugodtan lélegezz, jó lesz."
+396,Stresszes vagyok ma,,"Tarts rövid szünetet, igyál vizet, lélegezz mélyen."
+397,Kívánj szerencsét ma,,Sok szerencsét! Meg tudod csinálni!
+398,Ujjak keresztbe ma,,Én is! Sok szerencsét!
+399,Ma az én napom! ma,,Szuper! Élvezd!
+400,Jó kedvem van ma,,Klassz! Örülök.
+401,Mi Németország fővárosa?,Tény: Berlin Németország fővárosa.,Németország fővárosa Berlin.
+402,Nevezd meg Németország fővárosát.,Keresd: Németország -> Berlin.,Németország fővárosának neve Berlin.
+403,Németország főváros?,Gyors tény: Berlin.,Berlin.
+404,Mi Franciaország fővárosa?,Tény: Párizs Franciaország fővárosa.,Franciaország fővárosa Párizs.
+405,Nevezd meg Franciaország fővárosát.,Keresd: Franciaország -> Párizs.,Franciaország fővárosának neve Párizs.
+406,Franciaország főváros?,Gyors tény: Párizs.,Párizs.
+407,Mi Olaszország fővárosa?,Tény: Róma Olaszország fővárosa.,Olaszország fővárosa Róma.
+408,Nevezd meg Olaszország fővárosát.,Keresd: Olaszország -> Róma.,Olaszország fővárosának neve Róma.
+409,Olaszország főváros?,Gyors tény: Róma.,Róma.
+410,Mi Spanyolország fővárosa?,Tény: Madrid Spanyolország fővárosa.,Spanyolország fővárosa Madrid.
+411,Nevezd meg Spanyolország fővárosát.,Keresd: Spanyolország -> Madrid.,Spanyolország fővárosának neve Madrid.
+412,Spanyolország főváros?,Gyors tény: Madrid.,Madrid.
+413,Mi Portugália fővárosa?,Tény: Lisszabon Portugália fővárosa.,Portugália fővárosa Lisszabon.
+414,Nevezd meg Portugália fővárosát.,Keresd: Portugália -> Lisszabon.,Portugália fővárosának neve Lisszabon.
+415,Portugália főváros?,Gyors tény: Lisszabon.,Lisszabon.
+416,Mi Hollandia fővárosa?,Tény: Amszterdam Hollandia fővárosa.,Hollandia fővárosa Amszterdam.
+417,Nevezd meg Hollandia fővárosát.,Keresd: Hollandia -> Amszterdam.,Hollandia fővárosának neve Amszterdam.
+418,Hollandia főváros?,Gyors tény: Amszterdam.,Amszterdam.
+419,Mi Belgium fővárosa?,Tény: Brüsszel Belgium fővárosa.,Belgium fővárosa Brüsszel.
+420,Nevezd meg Belgium fővárosát.,Keresd: Belgium -> Brüsszel.,Belgium fővárosának neve Brüsszel.
+421,Belgium főváros?,Gyors tény: Brüsszel.,Brüsszel.
+422,Mi Ausztria fővárosa?,Tény: Bécs Ausztria fővárosa.,Ausztria fővárosa Bécs.
+423,Nevezd meg Ausztria fővárosát.,Keresd: Ausztria -> Bécs.,Ausztria fővárosának neve Bécs.
+424,Ausztria főváros?,Gyors tény: Bécs.,Bécs.
+425,Mi Svájc fővárosa?,Tény: Bern Svájc fővárosa.,Svájc fővárosa Bern.
+426,Nevezd meg Svájc fővárosát.,Keresd: Svájc -> Bern.,Svájc fővárosának neve Bern.
+427,Svájc főváros?,Gyors tény: Bern.,Bern.
+428,Mi Lengyelország fővárosa?,Tény: Varsó Lengyelország fővárosa.,Lengyelország fővárosa Varsó.
+429,Nevezd meg Lengyelország fővárosát.,Keresd: Lengyelország -> Varsó.,Lengyelország fővárosának neve Varsó.
+430,Lengyelország főváros?,Gyors tény: Varsó.,Varsó.
+431,Mi Csehország fővárosa?,Tény: Prága Csehország fővárosa.,Csehország fővárosa Prága.
+432,Nevezd meg Csehország fővárosát.,Keresd: Csehország -> Prága.,Csehország fővárosának neve Prága.
+433,Csehország főváros?,Gyors tény: Prága.,Prága.
+434,Mi Magyarország fővárosa?,Tény: Budapest Magyarország fővárosa.,Magyarország fővárosa Budapest.
+435,Nevezd meg Magyarország fővárosát.,Keresd: Magyarország -> Budapest.,Magyarország fővárosának neve Budapest.
+436,Magyarország főváros?,Gyors tény: Budapest.,Budapest.
+437,Mi Görögország fővárosa?,Tény: Athén Görögország fővárosa.,Görögország fővárosa Athén.
+438,Nevezd meg Görögország fővárosát.,Keresd: Görögország -> Athén.,Görögország fővárosának neve Athén.
+439,Görögország főváros?,Gyors tény: Athén.,Athén.
+440,Mi Törökország fővárosa?,Tény: Ankara Törökország fővárosa.,Törökország fővárosa Ankara.
+441,Nevezd meg Törökország fővárosát.,Keresd: Törökország -> Ankara.,Törökország fővárosának neve Ankara.
+442,Törökország főváros?,Gyors tény: Ankara.,Ankara.
+443,Mi Norvégia fővárosa?,Tény: Oslo Norvégia fővárosa.,Norvégia fővárosa Oslo.
+444,Nevezd meg Norvégia fővárosát.,Keresd: Norvégia -> Oslo.,Norvégia fővárosának neve Oslo.
+445,Norvégia főváros?,Gyors tény: Oslo.,Oslo.
+446,Mi Svédország fővárosa?,Tény: Stockholm Svédország fővárosa.,Svédország fővárosa Stockholm.
+447,Nevezd meg Svédország fővárosát.,Keresd: Svédország -> Stockholm.,Svédország fővárosának neve Stockholm.
+448,Svédország főváros?,Gyors tény: Stockholm.,Stockholm.
+449,Mi Finnország fővárosa?,Tény: Helsinki Finnország fővárosa.,Finnország fővárosa Helsinki.
+450,Nevezd meg Finnország fővárosát.,Keresd: Finnország -> Helsinki.,Finnország fővárosának neve Helsinki.
+451,Finnország főváros?,Gyors tény: Helsinki.,Helsinki.
+452,Mi Dánia fővárosa?,Tény: Koppenhága Dánia fővárosa.,Dánia fővárosa Koppenhága.
+453,Nevezd meg Dánia fővárosát.,Keresd: Dánia -> Koppenhága.,Dánia fővárosának neve Koppenhága.
+454,Dánia főváros?,Gyors tény: Koppenhága.,Koppenhága.
+455,Mi Egyesült Királyság fővárosa?,Tény: London Egyesült Királyság fővárosa.,Egyesült Királyság fővárosa London.
+456,Nevezd meg Egyesült Királyság fővárosát.,Keresd: Egyesült Királyság -> London.,Egyesült Királyság fővárosának neve London.
+457,Egyesült Királyság főváros?,Gyors tény: London.,London.
+458,Mi Írország fővárosa?,Tény: Dublin Írország fővárosa.,Írország fővárosa Dublin.
+459,Nevezd meg Írország fővárosát.,Keresd: Írország -> Dublin.,Írország fővárosának neve Dublin.
+460,Írország főváros?,Gyors tény: Dublin.,Dublin.
+461,Mi USA fővárosa?,Tény: Washington D.C. USA fővárosa.,USA fővárosa Washington D.C..
+462,Nevezd meg USA fővárosát.,Keresd: USA -> Washington D.C..,USA fővárosának neve Washington D.C..
+463,USA főváros?,Gyors tény: Washington D.C..,Washington D.C..
+464,Mi Kanada fővárosa?,Tény: Ottawa Kanada fővárosa.,Kanada fővárosa Ottawa.
+465,Nevezd meg Kanada fővárosát.,Keresd: Kanada -> Ottawa.,Kanada fővárosának neve Ottawa.
+466,Kanada főváros?,Gyors tény: Ottawa.,Ottawa.
+467,Mi Mexikó fővárosa?,Tény: Mexikóváros Mexikó fővárosa.,Mexikó fővárosa Mexikóváros.
+468,Nevezd meg Mexikó fővárosát.,Keresd: Mexikó -> Mexikóváros.,Mexikó fővárosának neve Mexikóváros.
+469,Mexikó főváros?,Gyors tény: Mexikóváros.,Mexikóváros.
+470,Mi Brazília fővárosa?,Tény: Brazíliaváros Brazília fővárosa.,Brazília fővárosa Brazíliaváros.
+471,Nevezd meg Brazília fővárosát.,Keresd: Brazília -> Brazíliaváros.,Brazília fővárosának neve Brazíliaváros.
+472,Brazília főváros?,Gyors tény: Brazíliaváros.,Brazíliaváros.
+473,Mi Argentína fővárosa?,Tény: Buenos Aires Argentína fővárosa.,Argentína fővárosa Buenos Aires.
+474,Nevezd meg Argentína fővárosát.,Keresd: Argentína -> Buenos Aires.,Argentína fővárosának neve Buenos Aires.
+475,Argentína főváros?,Gyors tény: Buenos Aires.,Buenos Aires.
+476,Mi Japán fővárosa?,Tény: Tokió Japán fővárosa.,Japán fővárosa Tokió.
+477,Nevezd meg Japán fővárosát.,Keresd: Japán -> Tokió.,Japán fővárosának neve Tokió.
+478,Japán főváros?,Gyors tény: Tokió.,Tokió.
+479,Mi Kína fővárosa?,Tény: Peking Kína fővárosa.,Kína fővárosa Peking.
+480,Nevezd meg Kína fővárosát.,Keresd: Kína -> Peking.,Kína fővárosának neve Peking.
+481,Kína főváros?,Gyors tény: Peking.,Peking.
+482,Mi India fővárosa?,Tény: Újdelhi India fővárosa.,India fővárosa Újdelhi.
+483,Nevezd meg India fővárosát.,Keresd: India -> Újdelhi.,India fővárosának neve Újdelhi.
+484,India főváros?,Gyors tény: Újdelhi.,Újdelhi.
+485,Mi Ausztrália fővárosa?,Tény: Canberra Ausztrália fővárosa.,Ausztrália fővárosa Canberra.
+486,Nevezd meg Ausztrália fővárosát.,Keresd: Ausztrália -> Canberra.,Ausztrália fővárosának neve Canberra.
+487,Ausztrália főváros?,Gyors tény: Canberra.,Canberra.
+488,Mi Egyiptom fővárosa?,Tény: Kairó Egyiptom fővárosa.,Egyiptom fővárosa Kairó.
+489,Nevezd meg Egyiptom fővárosát.,Keresd: Egyiptom -> Kairó.,Egyiptom fővárosának neve Kairó.
+490,Egyiptom főváros?,Gyors tény: Kairó.,Kairó.
+491,Hány tartománya van Németországnak?,Számold: 16 tartomány.,Németországnak 16 tartománya van.
+492,Mesélj röviden erről: német tartományok.,Számold: 16 tartomány.,Németországnak 16 tartománya van.
+493,Hányan élnek Németországban kb.?,Becslés: 83-84 millió.,Németországban kb. 83-84 millió ember él.
+494,Mesélj röviden erről: német népesség.,Becslés: 83-84 millió.,Németországban kb. 83-84 millió ember él.
+495,Milyen nyelven beszélnek Brazíliában?,"Tény: portugálul, nem spanyolul.",Brazíliában portugálul beszélnek.
+496,Mesélj röviden erről: Brazília nyelve.,"Tény: portugálul, nem spanyolul.",Brazíliában portugálul beszélnek.
+497,Mi Japán pénze?,Tény: jen.,Japán pénze a jen.
+498,Mesélj röviden erről: Japán pénze.,Tény: jen.,Japán pénze a jen.
+499,Mi az USA pénze?,Tény: amerikai dollár.,Az USA pénze az amerikai dollár.
+500,Mesélj röviden erről: USA pénze.,Tény: amerikai dollár.,Az USA pénze az amerikai dollár.
+501,Hány kontinens van?,Szokásos modell: 7 kontinens.,"Általában 7 kontinenst számolunk: Afrika, Antarktisz, Ázsia, Ausztrália, Európa, Észak-Amerika, Dél-Amerika."
+502,Mesélj röviden erről: kontinensek.,Szokásos modell: 7 kontinens.,"Általában 7 kontinenst számolunk: Afrika, Antarktisz, Ázsia, Ausztrália, Európa, Észak-Amerika, Dél-Amerika."
+503,Melyik a világ leghosszabb folyója?,"Nílus vagy Amazonas, vitatott.","Vitatott: általában Nílus és Amazonas, mindkettő 6500 km felett."
+504,Mesélj röviden erről: leghosszabb folyó.,"Nílus vagy Amazonas, vitatott.","Vitatott: általában Nílus és Amazonas, mindkettő 6500 km felett."
+505,Melyik a világ legnagyobb országa?,Tény: területre Oroszország.,Területre a világ legnagyobb országa Oroszország.
+506,Mesélj röviden erről: legnagyobb ország.,Tény: területre Oroszország.,Területre a világ legnagyobb országa Oroszország.
+507,Melyik a világ legnagyobb állata?,Tény: kék bálna.,A világ legnagyobb állata a kék bálna.
+508,Mesélj röviden erről: legnagyobb állat.,Tény: kék bálna.,A világ legnagyobb állata a kék bálna.
+509,Hány óceán van?,Standard: 5 óceán.,"5 óceán van: Atlanti, Csendes, Indiai, Déli és Jeges."
+510,Mesélj röviden erről: óceánok.,Standard: 5 óceán.,"5 óceán van: Atlanti, Csendes, Indiai, Déli és Jeges."
+511,Melyik a világ legmagasabb hegye?,"Tény: Everest, 8848 m.","A legmagasabb hegy az Everest, kb. 8848 méter."
+512,Mesélj röviden erről: legmagasabb hegy.,"Tény: Everest, 8848 m.","A legmagasabb hegy az Everest, kb. 8848 méter."
+513,Mesélj röviden erről: Kanada fővárosa.,"Tény: Ottawa, nem Toronto.",Kanada fővárosa Ottawa.
+514,Mesélj röviden erről: Ausztrália fővárosa.,"Tény: Canberra, nem Sydney.",Ausztrália fővárosa Canberra.
+515,Mesélj röviden erről: Törökország fővárosa.,"Tény: Ankara, nem Isztambul.",Törökország fővárosa Ankara.
+516,Mesélj röviden erről: Brazília fővárosa.,"Tény: Brazíliaváros, nem Rio.",Brazília fővárosa Brazíliaváros.
+517,Melyik évben volt a Holdra szállás?,Történelem: Apollo 11 1969-ben.,Az első Holdra szállás 1969-ben volt Apollo 11-gyel.
+518,Magyarázd röviden: Holdra szállás.,Történelem: Apollo 11 1969-ben.,Az első Holdra szállás 1969-ben volt Apollo 11-gyel.
+519,Mit tudsz erről: Holdra szállás?,Történelem: Apollo 11 1969-ben.,Az első Holdra szállás 1969-ben volt Apollo 11-gyel.
+520,Mikor volt a második világháború?,Időszak: 1939-1945.,A második világháború 1939-től 1945-ig tartott.
+521,Magyarázd röviden: második világháború.,Időszak: 1939-1945.,A második világháború 1939-től 1945-ig tartott.
+522,Mit tudsz erről: második világháború?,Időszak: 1939-1945.,A második világháború 1939-től 1945-ig tartott.
+523,Mikor volt az első világháború?,Időszak: 1914-1918.,Az első világháború 1914-től 1918-ig tartott.
+524,Magyarázd röviden: első világháború.,Időszak: 1914-1918.,Az első világháború 1914-től 1918-ig tartott.
+525,Mit tudsz erről: első világháború?,Időszak: 1914-1918.,Az első világháború 1914-től 1918-ig tartott.
+526,Mi volt a berlini fal?,Történelem: megosztottság 1961-1989.,A berlini fal 1961-től 1989-ig Kelet- és Nyugat-Berlin erődített határa volt.
+527,Magyarázd röviden: berlini fal.,Történelem: megosztottság 1961-1989.,A berlini fal 1961-től 1989-ig Kelet- és Nyugat-Berlin erődített határa volt.
+528,Mit tudsz erről: berlini fal?,Történelem: megosztottság 1961-1989.,A berlini fal 1961-től 1989-ig Kelet- és Nyugat-Berlin erődített határa volt.
+529,Mikor omlott le a berlini fal?,Tény: 1989. november 9.,A berlini fal 1989. november 9-én omlott le.
+530,Magyarázd röviden: fal leomlása.,Tény: 1989. november 9.,A berlini fal 1989. november 9-én omlott le.
+531,Mit tudsz erről: fal leomlása?,Tény: 1989. november 9.,A berlini fal 1989. november 9-én omlott le.
+532,Ki találta fel a telefont?,"Történelem: Bell 1876, Meucci munkája.","A telefont Alexander Graham Bell szabadalmaztatta 1876-ban, Antonio Meucci úttörő munkájával."
+533,Magyarázd röviden: telefon.,"Történelem: Bell 1876, Meucci munkája.","A telefont Alexander Graham Bell szabadalmaztatta 1876-ban, Antonio Meucci úttörő munkájával."
+534,Mit tudsz erről: telefon?,"Történelem: Bell 1876, Meucci munkája.","A telefont Alexander Graham Bell szabadalmaztatta 1876-ban, Antonio Meucci úttörő munkájával."
+535,Ki dolgozta ki a relativitást?,"Fizika: Albert Einstein, 1905 és 1915.",A relativitást Albert Einstein dolgozta ki.
+536,Magyarázd röviden: relativitás.,"Fizika: Albert Einstein, 1905 és 1915.",A relativitást Albert Einstein dolgozta ki.
+537,Mit tudsz erről: relativitás?,"Fizika: Albert Einstein, 1905 és 1915.",A relativitást Albert Einstein dolgozta ki.
+538,Mi a demokrácia?,"Definíció: nép uralma, választások, jogok.","A demokrácia a nép uralmát jelenti, általában szabad választásokkal és alapjogokkal."
+539,Magyarázd röviden: demokrácia.,"Definíció: nép uralma, választások, jogok.","A demokrácia a nép uralmát jelenti, általában szabad választásokkal és alapjogokkal."
+540,Mit tudsz erről: demokrácia?,"Definíció: nép uralma, választások, jogok.","A demokrácia a nép uralmát jelenti, általában szabad választásokkal és alapjogokkal."
+541,Mi az EU?,"Európai államok uniója, egységes piac.",Az EU európai államok uniója egységes piaccal és közös intézményekkel.
+542,Magyarázd röviden: EU.,"Európai államok uniója, egységes piac.",Az EU európai államok uniója egységes piaccal és közös intézményekkel.
+543,Mit tudsz erről: EU?,"Európai államok uniója, egységes piac.",Az EU európai államok uniója egységes piaccal és közös intézményekkel.
+544,Hány ország van az EU-ban?,Tény: 27 tagállam.,Az EU-nak 27 tagállama van.
+545,Magyarázd röviden: EU-tagok.,Tény: 27 tagállam.,Az EU-nak 27 tagállama van.
+546,Mit tudsz erről: EU-tagok?,Tény: 27 tagállam.,Az EU-nak 27 tagállama van.
+547,Mi a német Alaptörvény?,Alkotmány 1949 óta.,"Az Alaptörvény Németország alkotmánya, 1949 óta érvényes."
+548,Magyarázd röviden: Alaptörvény.,Alkotmány 1949 óta.,"Az Alaptörvény Németország alkotmánya, 1949 óta érvényes."
+549,Mit tudsz erről: Alaptörvény?,Alkotmány 1949 óta.,"Az Alaptörvény Németország alkotmánya, 1949 óta érvényes."
+550,Melyik évben egyesült újra Németország?,Tény: 1990.,Németország 1990-ben egyesült újra.
+551,Magyarázd röviden: újraegyesítés.,Tény: 1990.,Németország 1990-ben egyesült újra.
+552,Mit tudsz erről: újraegyesítés?,Tény: 1990.,Németország 1990-ben egyesült újra.
+553,Mi volt a középkor?,Korszak: kb. 500-1500.,"A középkor kb. 500-tól 1500-ig tartott, ókor és újkor között."
+554,Magyarázd röviden: középkor.,Korszak: kb. 500-1500.,"A középkor kb. 500-tól 1500-ig tartott, ókor és újkor között."
+555,Mit tudsz erről: középkor?,Korszak: kb. 500-1500.,"A középkor kb. 500-tól 1500-ig tartott, ókor és újkor között."
+556,Ki volt Leonardo da Vinci?,"Olasz művész és feltaláló, Mona Lisa.","Leonardo da Vinci olasz művész és feltaláló volt, Mona Lisáról híres."
+557,Magyarázd röviden: Da Vinci.,"Olasz művész és feltaláló, Mona Lisa.","Leonardo da Vinci olasz művész és feltaláló volt, Mona Lisáról híres."
+558,Mit tudsz erről: Da Vinci?,"Olasz művész és feltaláló, Mona Lisa.","Leonardo da Vinci olasz művész és feltaláló volt, Mona Lisáról híres."
+559,Ki volt Marie Curie?,"Fizikus, radioaktivitás, két Nobel.",Marie Curie a radioaktivitást kutatta és két Nobelt nyert.
+560,Magyarázd röviden: Marie Curie.,"Fizikus, radioaktivitás, két Nobel.",Marie Curie a radioaktivitást kutatta és két Nobelt nyert.
+561,Mit tudsz erről: Marie Curie?,"Fizikus, radioaktivitás, két Nobel.",Marie Curie a radioaktivitást kutatta és két Nobelt nyert.
+562,Mi volt a francia forradalom?,"1789 óta, szabadság egyenlőség testvériség.","A francia forradalom 1789 óta megdöntötte a monarchiát szabadság, egyenlőség, testvériség alatt."
+563,Magyarázd röviden: francia forradalom.,"1789 óta, szabadság egyenlőség testvériség.","A francia forradalom 1789 óta megdöntötte a monarchiát szabadság, egyenlőség, testvériség alatt."
+564,Mit tudsz erről: francia forradalom?,"1789 óta, szabadság egyenlőség testvériség.","A francia forradalom 1789 óta megdöntötte a monarchiát szabadság, egyenlőség, testvériség alatt."
+565,Mik az emberi jogok?,Egyetemes alapjogok.,"Az emberi jogok mindenki alapjogai, mint élet, szabadság és egyenlőség."
+566,Magyarázd röviden: emberi jogok.,Egyetemes alapjogok.,"Az emberi jogok mindenki alapjogai, mint élet, szabadság és egyenlőség."
+567,Mit tudsz erről: emberi jogok?,Egyetemes alapjogok.,"Az emberi jogok mindenki alapjogai, mint élet, szabadság és egyenlőség."
+568,Mi az infláció?,"Gazdaság: pénz értéket veszít, árak nőnek.","Az infláció azt jelenti, hogy az árak nőnek és a pénz értéket veszít."
+569,Magyarázd röviden: infláció.,"Gazdaság: pénz értéket veszít, árak nőnek.","Az infláció azt jelenti, hogy az árak nőnek és a pénz értéket veszít."
+570,Mit tudsz erről: infláció?,"Gazdaság: pénz értéket veszít, árak nőnek.","Az infláció azt jelenti, hogy az árak nőnek és a pénz értéket veszít."
+571,Mi volt az iparosítás?,Gépek és gyárak a 18. századtól.,Az iparosítás a gépekre és gyárakra való átállás volt a 18. századtól.
+572,Magyarázd röviden: iparosítás.,Gépek és gyárak a 18. századtól.,Az iparosítás a gépekre és gyárakra való átállás volt a 18. századtól.
+573,Mit tudsz erről: iparosítás?,Gépek és gyárak a 18. századtól.,Az iparosítás a gépekre és gyárakra való átállás volt a 18. századtól.
+574,Mikor találták fel az internetet?,"ARPANET 1969, Web 1989.","Az alapok ARPANET 1969-ben, a Web 1989 óta."
+575,Magyarázd röviden: internet.,"ARPANET 1969, Web 1989.","Az alapok ARPANET 1969-ben, a Web 1989 óta."
+576,Mit tudsz erről: internet?,"ARPANET 1969, Web 1989.","Az alapok ARPANET 1969-ben, a Web 1989 óta."
+577,Mikor találták fel az autót?,Benz 1886.,Az autót Carl Benz találta fel 1886-os kocsival.
+578,Magyarázd röviden: autó.,Benz 1886.,Az autót Carl Benz találta fel 1886-os kocsival.
+579,Mit tudsz erről: autó?,Benz 1886.,Az autót Carl Benz találta fel 1886-os kocsival.
+580,Ki találta fel a repülőt?,"Wright fivérek, repülés 1903.",Az első motoros repülést a Wright fivérek végezték 1903-ban.
+581,Magyarázd röviden: repülő.,"Wright fivérek, repülés 1903.",Az első motoros repülést a Wright fivérek végezték 1903-ban.
+582,Mit tudsz erről: repülő?,"Wright fivérek, repülés 1903.",Az első motoros repülést a Wright fivérek végezték 1903-ban.
+583,Hány éves kortól szavaznak Németországban?,"Bundestag 18-tól, EP 16-tól.",A Bundestagba 18 éves kortól. Az EP-választáson Németországban 16-tól.
+584,Magyarázd röviden: választói kor.,"Bundestag 18-tól, EP 16-tól.",A Bundestagba 18 éves kortól. Az EP-választáson Németországban 16-tól.
+585,Mit tudsz erről: választói kor?,"Bundestag 18-tól, EP 16-tól.",A Bundestagba 18 éves kortól. Az EP-választáson Németországban 16-tól.
+586,"Hogyan működnek a választások, egyszerűen?","Választók szavaznak, számlálás, mandátumok.","A választók szavaznak, a szavazatokat számolják és a mandátumokat eredmény szerint osztják."
+587,Magyarázd röviden: választások.,"Választók szavaznak, számlálás, mandátumok.","A választók szavaznak, a szavazatokat számolják és a mandátumokat eredmény szerint osztják."
+588,Mit tudsz erről: választások?,"Választók szavaznak, számlálás, mandátumok.","A választók szavaznak, a szavazatokat számolják és a mandátumokat eredmény szerint osztják."
+589,Mi a különbség diktatúra és demokrácia között?,Egyszemélyi uralom kontra nép uralma.,Diktatúrában egy személy vagy csoport kormányoz szabad választások nélkül; demokráciában a hatalom a néptől jön.
+590,Magyarázd röviden: diktatúra és demokrácia.,Egyszemélyi uralom kontra nép uralma.,Diktatúrában egy személy vagy csoport kormányoz szabad választások nélkül; demokráciában a hatalom a néptől jön.
+591,Mit tudsz erről: diktatúra és demokrácia?,Egyszemélyi uralom kontra nép uralma.,Diktatúrában egy személy vagy csoport kormányoz szabad választások nélkül; demokráciában a hatalom a néptől jön.
+592,Mit jelent a fenntarthatóság?,Erőforrások a jövő nemzedékeknek.,"A fenntarthatóság azt jelenti, hogy úgy élünk, hogy a jövő nemzedékeknek is legyen erőforrása."
+593,Magyarázd röviden: fenntarthatóság.,Erőforrások a jövő nemzedékeknek.,"A fenntarthatóság azt jelenti, hogy úgy élünk, hogy a jövő nemzedékeknek is legyen erőforrása."
+594,Mit tudsz erről: fenntarthatóság?,Erőforrások a jövő nemzedékeknek.,"A fenntarthatóság azt jelenti, hogy úgy élünk, hogy a jövő nemzedékeknek is legyen erőforrása."
+595,Mi a zaklatás és mit tegyünk?,"Ismétlődő; segítség, bizonyíték.","A zaklatás ismétlődő vegzálás. Beszélj megbízhatókkal, őrizz bizonyítékot, kérj segítséget."
+596,Magyarázd röviden: zaklatás.,"Ismétlődő; segítség, bizonyíték.","A zaklatás ismétlődő vegzálás. Beszélj megbízhatókkal, őrizz bizonyítékot, kérj segítséget."
+597,Mit tudsz erről: zaklatás?,"Ismétlődő; segítség, bizonyíték.","A zaklatás ismétlődő vegzálás. Beszélj megbízhatókkal, őrizz bizonyítékot, kérj segítséget."
+598,Mit jelent a béke?,Háború és erőszak nélküli élet.,A béke háború és erőszak nélküli együttélést jelenti.
+599,Magyarázd röviden: béke.,Háború és erőszak nélküli élet.,A béke háború és erőszak nélküli együttélést jelenti.
+600,Mit tudsz erről: béke?,Háború és erőszak nélküli élet.,A béke háború és erőszak nélküli együttélést jelenti.
+601,Mit jelent a szabadság?,Szabadon élni mások sérelme nélkül.,"A szabadság azt jelenti, hogy szabadon élünk mások sérelme nélkül."
+602,Magyarázd röviden: szabadság.,Szabadon élni mások sérelme nélkül.,"A szabadság azt jelenti, hogy szabadon élünk mások sérelme nélkül."
+603,Mit tudsz erről: szabadság?,Szabadon élni mások sérelme nélkül.,"A szabadság azt jelenti, hogy szabadon élünk mások sérelme nélkül."
+604,Mit jelent az igazságosság?,Igazságos és egyenlő bánás mindenkinek.,Az igazságosság mindenkinek igazságos és egyenlő bánást jelent.
+605,Magyarázd röviden: igazságosság.,Igazságos és egyenlő bánás mindenkinek.,Az igazságosság mindenkinek igazságos és egyenlő bánást jelent.
+606,Mit tudsz erről: igazságosság?,Igazságos és egyenlő bánás mindenkinek.,Az igazságosság mindenkinek igazságos és egyenlő bánást jelent.
+607,Miért kék az ég?,Rayleigh-szórás szórja a kéket.,Az ég kék Rayleigh-szórás miatt: a kék fény jobban szóródik mint a vörös.
+608,Magyarázd kék ég egy mondatban.,Rayleigh-szórás szórja a kéket.,Az ég kék Rayleigh-szórás miatt: a kék fény jobban szóródik mint a vörös.
+609,Mi kék ég? (röviden),Rayleigh-szórás szórja a kéket.,Az ég kék Rayleigh-szórás miatt: a kék fény jobban szóródik mint a vörös.
+610,Hogyan keletkezik az eső?,"Körforgás: párolgás, lecsapódás, csapadék.","Az eső párolgással keletkezik: víz felszáll, hűl, felhőt képez és cseppekben esik."
+611,Magyarázd eső egy mondatban.,"Körforgás: párolgás, lecsapódás, csapadék.","Az eső párolgással keletkezik: víz felszáll, hűl, felhőt képez és cseppekben esik."
+612,Mi eső? (röviden),"Körforgás: párolgás, lecsapódás, csapadék.","Az eső párolgással keletkezik: víz felszáll, hűl, felhőt képez és cseppekben esik."
+613,Mi a fotoszintézis?,"Növények: fény, víz, CO2-ből cukor és oxigén.","A fotoszintézis fényből, vízből és CO2-ből cukrot és oxigént készít."
+614,Magyarázd fotoszintézis egy mondatban.,"Növények: fény, víz, CO2-ből cukor és oxigén.","A fotoszintézis fényből, vízből és CO2-ből cukrot és oxigént készít."
+615,Mi fotoszintézis? (röviden),"Növények: fény, víz, CO2-ből cukor és oxigén.","A fotoszintézis fényből, vízből és CO2-ből cukrot és oxigént készít."
+616,Mi a különbség időjárás és éghajlat között?,"Időjárás rövid, éghajlat 30 év átlag.",Az időjárás rövid állapot; az éghajlat kb. 30 év átlaga.
+617,Magyarázd időjárás és éghajlat egy mondatban.,"Időjárás rövid, éghajlat 30 év átlag.",Az időjárás rövid állapot; az éghajlat kb. 30 év átlaga.
+618,Mi időjárás és éghajlat? (röviden),"Időjárás rövid, éghajlat 30 év átlag.",Az időjárás rövid állapot; az éghajlat kb. 30 év átlaga.
+619,"Hogyan működik a hűtő, nagyjából?","Hűtőközeg, hő belülről kifelé.","A hűtő hőt pumpál belülről kifelé hűtőközeggel: belül elpárolog, hőt felvesz, kint lead."
+620,Magyarázd hűtő egy mondatban.,"Hűtőközeg, hő belülről kifelé.","A hűtő hőt pumpál belülről kifelé hűtőközeggel: belül elpárolog, hőt felvesz, kint lead."
+621,Mi hűtő? (röviden),"Hűtőközeg, hő belülről kifelé.","A hűtő hőt pumpál belülről kifelé hűtőközeggel: belül elpárolog, hőt felvesz, kint lead."
+622,"Mi az áram, egyszerűen?",Elektronok irányított mozgása.,"Az áram egyszerűen töltések irányított mozgása, általában vezetékben elektronok."
+623,Magyarázd áram egy mondatban.,Elektronok irányított mozgása.,"Az áram egyszerűen töltések irányított mozgása, általában vezetékben elektronok."
+624,Mi áram? (röviden),Elektronok irányított mozgása.,"Az áram egyszerűen töltések irányított mozgása, általában vezetékben elektronok."
+625,"Mi a víz, kémiailag?","H2O, hidrogén és oxigén.","A víz H2O, hidrogén és oxigén vegyülete."
+626,Magyarázd víz kémia egy mondatban.,"H2O, hidrogén és oxigén.","A víz H2O, hidrogén és oxigén vegyülete."
+627,Mi víz kémia? (röviden),"H2O, hidrogén és oxigén.","A víz H2O, hidrogén és oxigén vegyülete."
+628,Mi a vírus?,"Apró, gazdasejt kell.","A vírus apró kórokozó, amely gazdasejt nélkül nem szaporodik."
+629,Magyarázd vírus egy mondatban.,"Apró, gazdasejt kell.","A vírus apró kórokozó, amely gazdasejt nélkül nem szaporodik."
+630,Mi vírus? (röviden),"Apró, gazdasejt kell.","A vírus apró kórokozó, amely gazdasejt nélkül nem szaporodik."
+631,"Mi a mesterséges intelligencia, egyszerűen?",Mintákat tanuló programok.,"A mesterséges intelligencia adatokból tanuló, mintákat felismerő és feladatokat megoldó programok."
+632,Magyarázd MI egy mondatban.,Mintákat tanuló programok.,"A mesterséges intelligencia adatokból tanuló, mintákat felismerő és feladatokat megoldó programok."
+633,Mi MI? (röviden),Mintákat tanuló programok.,"A mesterséges intelligencia adatokból tanuló, mintákat felismerő és feladatokat megoldó programok."
+634,Mi a böngésző?,"Program weboldalakra, pl. Chrome, Firefox.","A böngésző a program, amivel weboldalakat nyitsz, pl. Chrome, Firefox, Edge vagy Safari."
+635,Magyarázd böngésző egy mondatban.,"Program weboldalakra, pl. Chrome, Firefox.","A böngésző a program, amivel weboldalakat nyitsz, pl. Chrome, Firefox, Edge vagy Safari."
+636,Mi böngésző? (röviden),"Program weboldalakra, pl. Chrome, Firefox.","A böngésző a program, amivel weboldalakat nyitsz, pl. Chrome, Firefox, Edge vagy Safari."
+637,Mi az app?,"Program, általában telefonra.","Az app program, általában telefonra, pl. üzenetek, fotók vagy játékok."
+638,Magyarázd app egy mondatban.,"Program, általában telefonra.","Az app program, általában telefonra, pl. üzenetek, fotók vagy játékok."
+639,Mi app? (röviden),"Program, általában telefonra.","Az app program, általában telefonra, pl. üzenetek, fotók vagy játékok."
+640,Miért igyunk vizet?,"Keringés, fókusz, bőr, vese.","A víz stabilizálja a keringést és a fókuszt, segíti a vesét és a bőrt, megelőzi a fejfájást."
+641,Magyarázd vízivás egy mondatban.,"Keringés, fókusz, bőr, vese.","A víz stabilizálja a keringést és a fókuszt, segíti a vesét és a bőrt, megelőzi a fejfájást."
+642,Mi vízivás? (röviden),"Keringés, fókusz, bőr, vese.","A víz stabilizálja a keringést és a fókuszt, segíti a vesét és a bőrt, megelőzi a fejfájást."
+643,Meddig mossunk fogat?,"2 percig, naponta kétszer.","Kb. 2 percig, naponta kétszer."
+644,Magyarázd fogmosás egy mondatban.,"2 percig, naponta kétszer.","Kb. 2 percig, naponta kétszer."
+645,Mi fogmosás? (röviden),"2 percig, naponta kétszer.","Kb. 2 percig, naponta kétszer."
+646,Mi a gravitáció?,Tömegek vonzása; a Föld vonz.,"A gravitáció tömegek vonzása. A Föld mindent lefelé vonz, ezért esnek a dolgok."
+647,Magyarázd gravitáció egy mondatban.,Tömegek vonzása; a Föld vonz.,"A gravitáció tömegek vonzása. A Föld mindent lefelé vonz, ezért esnek a dolgok."
+648,Mi gravitáció? (röviden),Tömegek vonzása; a Föld vonz.,"A gravitáció tömegek vonzása. A Föld mindent lefelé vonz, ezért esnek a dolgok."
+649,Mi a levegő?,"Nitrogén, oxigén stb. keveréke.","A levegő gázkeverék, főleg nitrogén és oxigén."
+650,Magyarázd levegő egy mondatban.,"Nitrogén, oxigén stb. keveréke.","A levegő gázkeverék, főleg nitrogén és oxigén."
+651,Mi levegő? (röviden),"Nitrogén, oxigén stb. keveréke.","A levegő gázkeverék, főleg nitrogén és oxigén."
+652,Mit csinál a szív?,Vért pumpál a testben.,A szív vért pumpál az egész testben.
+653,Magyarázd szív egy mondatban.,Vért pumpál a testben.,A szív vért pumpál az egész testben.
+654,Mi szív? (röviden),Vért pumpál a testben.,A szív vért pumpál az egész testben.
+655,Mit csinál a tüdő?,"Oxigént felvesz, CO2-t lead.",A tüdő oxigént vesz fel és szén-dioxidot ad le.
+656,Magyarázd tüdő egy mondatban.,"Oxigént felvesz, CO2-t lead.",A tüdő oxigént vesz fel és szén-dioxidot ad le.
+657,Mi tüdő? (röviden),"Oxigént felvesz, CO2-t lead.",A tüdő oxigént vesz fel és szén-dioxidot ad le.
+658,Miért fontos az alvás?,"Regenerálódás, memória, immunitás.","Az alvás segíti a regenerálódást, a memóriát és az immunitást."
+659,Magyarázd alvás egy mondatban.,"Regenerálódás, memória, immunitás.","Az alvás segíti a regenerálódást, a memóriát és az immunitást."
+660,Mi alvás? (röviden),"Regenerálódás, memória, immunitás.","Az alvás segíti a regenerálódást, a memóriát és az immunitást."
+661,Mi a láz?,Emelkedett hőmérséklet védekezésként.,"A láz emelkedett testhőmérséklet, gyakran fertőzések elleni védekezés."
+662,Magyarázd láz egy mondatban.,Emelkedett hőmérséklet védekezésként.,"A láz emelkedett testhőmérséklet, gyakran fertőzések elleni védekezés."
+663,Mi láz? (röviden),Emelkedett hőmérséklet védekezésként.,"A láz emelkedett testhőmérséklet, gyakran fertőzések elleni védekezés."
+664,Mi az erős jelszó?,"Hosszú, egyedi, kezelőben.","Az erős jelszó hosszú, szolgáltatásonként egyedi és kezelőben tartott."
+665,Magyarázd erős jelszó egy mondatban.,"Hosszú, egyedi, kezelőben.","Az erős jelszó hosszú, szolgáltatásonként egyedi és kezelőben tartott."
+666,Mi erős jelszó? (röviden),"Hosszú, egyedi, kezelőben.","Az erős jelszó hosszú, szolgáltatásonként egyedi és kezelőben tartott."
+667,Mi a Wi-Fi?,Vezeték nélküli helyi háló.,A Wi-Fi vezeték nélküli helyi háló internetre kábelek nélkül.
+668,Magyarázd Wi-Fi egy mondatban.,Vezeték nélküli helyi háló.,A Wi-Fi vezeték nélküli helyi háló internetre kábelek nélkül.
+669,Mi Wi-Fi? (röviden),Vezeték nélküli helyi háló.,A Wi-Fi vezeték nélküli helyi háló internetre kábelek nélkül.
+670,Mi a felhő?,Szerverek az interneten adatra és szolgáltatásra.,"A felhő szerverek az interneten, ahol adatot tartasz és szolgáltatást használsz."
+671,Magyarázd felhő egy mondatban.,Szerverek az interneten adatra és szolgáltatásra.,"A felhő szerverek az interneten, ahol adatot tartasz és szolgáltatást használsz."
+672,Mi felhő? (röviden),Szerverek az interneten adatra és szolgáltatásra.,"A felhő szerverek az interneten, ahol adatot tartasz és szolgáltatást használsz."
+673,Hogyan működik a GPS?,"Műholdak, jelidő, számítás.",A GPS műholdjelekből és utazási idejükből találja a pozíciót.
+674,Magyarázd GPS egy mondatban.,"Műholdak, jelidő, számítás.",A GPS műholdjelekből és utazási idejükből találja a pozíciót.
+675,Mi GPS? (röviden),"Műholdak, jelidő, számítás.",A GPS műholdjelekből és utazási idejükből találja a pozíciót.
+676,Miért van nappal és éjjel?,A Föld forgása.,"Nappal és éjjel azért van, mert a Föld forog. A napos oldal nappal, a másik éjjel."
+677,Magyarázd nappal és éjjel egy mondatban.,A Föld forgása.,"Nappal és éjjel azért van, mert a Föld forog. A napos oldal nappal, a másik éjjel."
+678,Mi nappal és éjjel? (röviden),A Föld forgása.,"Nappal és éjjel azért van, mert a Föld forog. A napos oldal nappal, a másik éjjel."
+679,Miért vannak évszakok?,A földtengely dőlése.,Az évszakok a tengely dőléséből jönnek: mindegyik félteke felváltva dől a Nap felé.
+680,Magyarázd évszakok egy mondatban.,A földtengely dőlése.,Az évszakok a tengely dőléséből jönnek: mindegyik félteke felváltva dől a Nap felé.
+681,Mi évszakok? (röviden),A földtengely dőlése.,Az évszakok a tengely dőléséből jönnek: mindegyik félteke felváltva dől a Nap felé.
+682,Miért világít a Hold?,A Napot tükrözi.,"A Hold azért világít, mert a Nap fényét tükrözi."
+683,Magyarázd fényes Hold egy mondatban.,A Napot tükrözi.,"A Hold azért világít, mert a Nap fényét tükrözi."
+684,Mi fényes Hold? (röviden),A Napot tükrözi.,"A Hold azért világít, mert a Nap fényét tükrözi."
+685,Mi a Nap?,Forró gázcsillag.,"A Nap forró gázcsillag, fényt és hőt ad."
+686,Magyarázd Nap egy mondatban.,Forró gázcsillag.,"A Nap forró gázcsillag, fényt és hőt ad."
+687,Mi Nap? (röviden),Forró gázcsillag.,"A Nap forró gázcsillag, fényt és hőt ad."
+688,Hány bolygó van a naprendszerben?,8 bolygó.,"Naprendszerünkben 8 bolygó van: Merkúr, Vénusz, Föld, Mars, Jupiter, Szaturnusz, Uránusz, Neptunusz."
+689,Magyarázd bolygók egy mondatban.,8 bolygó.,"Naprendszerünkben 8 bolygó van: Merkúr, Vénusz, Föld, Mars, Jupiter, Szaturnusz, Uránusz, Neptunusz."
+690,Mi bolygók? (röviden),8 bolygó.,"Naprendszerünkben 8 bolygó van: Merkúr, Vénusz, Föld, Mars, Jupiter, Szaturnusz, Uránusz, Neptunusz."
+691,Mi az atom?,Legkisebb egység: mag plusz elektronok.,"Az atom az anyag legkisebb egysége, magból és elektronokból."
+692,Magyarázd atom egy mondatban.,Legkisebb egység: mag plusz elektronok.,"Az atom az anyag legkisebb egysége, magból és elektronokból."
+693,Mi atom? (röviden),Legkisebb egység: mag plusz elektronok.,"Az atom az anyag legkisebb egysége, magból és elektronokból."
+694,Mi az újrahasznosítás?,"Hulladék gyűjtése, új termékek készítése.","Az újrahasznosítás hulladékot gyűjt, hogy új termékeket készítsen."
+695,Magyarázd újrahasznosítás egy mondatban.,"Hulladék gyűjtése, új termékek készítése.","Az újrahasznosítás hulladékot gyűjt, hogy új termékeket készítsen."
+696,Mi újrahasznosítás? (röviden),"Hulladék gyűjtése, új termékek készítése.","Az újrahasznosítás hulladékot gyűjt, hogy új termékeket készítsen."
+697,Mi az üvegházhatás?,Gázok tartják a hőt.,Az üvegházhatás tartja a hőt. Túl sok gáz melegíti az éghajlatot.
+698,Magyarázd üvegházhatás egy mondatban.,Gázok tartják a hőt.,Az üvegházhatás tartja a hőt. Túl sok gáz melegíti az éghajlatot.
+699,Mi üvegházhatás? (röviden),Gázok tartják a hőt.,Az üvegházhatás tartja a hőt. Túl sok gáz melegíti az éghajlatot.
+700,Miért fontosak a méhek?,"Beporzás, termések.","A méhek beporozzák a növényeket, biztosítva terméseket és sokféleséget."
+701,Magyarázd méhek egy mondatban.,"Beporzás, termések.","A méhek beporozzák a növényeket, biztosítva terméseket és sokféleséget."
+702,Mi méhek? (röviden),"Beporzás, termések.","A méhek beporozzák a növényeket, biztosítva terméseket és sokféleséget."
+703,Miért zöldek a levelek?,Klorofill pigment.,"A levelek zöldek klorofill miatt, a fotoszintézis pigmentje."
+704,Magyarázd zöld levelek egy mondatban.,Klorofill pigment.,"A levelek zöldek klorofill miatt, a fotoszintézis pigmentje."
+705,Mi zöld levelek? (röviden),Klorofill pigment.,"A levelek zöldek klorofill miatt, a fotoszintézis pigmentje."
+706,Mi az emlős?,"Szőr, élő szülés, tej.","Az emlősöknek szőrük van, élő utódot szülnek és tejjel táplálják."
+707,Magyarázd emlősök egy mondatban.,"Szőr, élő szülés, tej.","Az emlősöknek szőrük van, élő utódot szülnek és tejjel táplálják."
+708,Mi emlősök? (röviden),"Szőr, élő szülés, tej.","Az emlősöknek szőrük van, élő utódot szülnek és tejjel táplálják."
+709,Hogyan működik az elem?,Kémiai energia elektromossá.,Az elem kémiai energiát alakít elektromossá.
+710,Magyarázd elemek egy mondatban.,Kémiai energia elektromossá.,Az elem kémiai energiát alakít elektromossá.
+711,Mi elemek? (röviden),Kémiai energia elektromossá.,Az elem kémiai energiát alakít elektromossá.
+712,Hogyan működik a napáram?,Cellák: fény árammá.,A napelemek a fényt közvetlenül árammá alakítják.
+713,Magyarázd napáram egy mondatban.,Cellák: fény árammá.,A napelemek a fényt közvetlenül árammá alakítják.
+714,Mi napáram? (röviden),Cellák: fény árammá.,A napelemek a fényt közvetlenül árammá alakítják.
+715,Mi a számítógépes vírus?,Terjedő káros program.,A vírus terjedő és károsító káros program. Védd frissítésekkel és óvatossággal.
+716,Magyarázd számítógépes vírus egy mondatban.,Terjedő káros program.,A vírus terjedő és károsító káros program. Védd frissítésekkel és óvatossággal.
+717,Mi számítógépes vírus? (röviden),Terjedő káros program.,A vírus terjedő és károsító káros program. Védd frissítésekkel és óvatossággal.
+718,Miért gond a műanyag?,"Tartós szemét, mikroműanyag.","A műanyag alig bomlik, szemeteli a természetet és tengereket, mikroműanyaggá válik."
+719,Magyarázd műanyag egy mondatban.,"Tartós szemét, mikroműanyag.","A műanyag alig bomlik, szemeteli a természetet és tengereket, mikroműanyaggá válik."
+720,Mi műanyag? (röviden),"Tartós szemét, mikroműanyag.","A műanyag alig bomlik, szemeteli a természetet és tengereket, mikroműanyaggá válik."
+721,Mi a földrengés?,"Lemezek mozognak, energia szabadul.","Földrengés akkor van, amikor a lemezek hirtelen mozognak és energiát szabadítanak."
+722,Magyarázd földrengés egy mondatban.,"Lemezek mozognak, energia szabadul.","Földrengés akkor van, amikor a lemezek hirtelen mozognak és energiát szabadítanak."
+723,Mi földrengés? (röviden),"Lemezek mozognak, energia szabadul.","Földrengés akkor van, amikor a lemezek hirtelen mozognak és energiát szabadítanak."
+724,Mi a méz?,Méhek nektárból készítik.,A mézet a méhek virágnektárból készítik.
+725,Magyarázd méz egy mondatban.,Méhek nektárból készítik.,A mézet a méhek virágnektárból készítik.
+726,Mi méz? (röviden),Méhek nektárból készítik.,A mézet a méhek virágnektárból készítik.
+727,Mennyi 25-ször 4?,Számold: 25*4=100.,25-ször 4 az 100.
+728,Mennyi 200 12%-a?,"Százalék: 200*0,12=24.",200 12%-a 24.
+729,Mennyi 7-szer 8 plusz 10?,Sorrend: 7*8=56 +10=66.,Az 66.
+730,Vonat 14:30-kor indul és 2ó15-öt megy. Mikor érkezik?,Összead: 14:30 + 2:15 = 16:45.,16:45-kor érkezik.
+731,Van 3 almám és 1-et eszem. Mennyi marad?,Kivon: 3-1=2.,2 alma marad.
+732,22-kor fekszem és 6-kor kelek. Mennyit alszom?,Idő: 22-6 = 8 óra.,8 órát alszol.
+733,Ossz el 100 eurót 4 ember közt.,Oszt: 100/4=25.,Mindenki 25 eurót kap.
+734,Hány perc 2 óra?,Átvált: 2*60=120.,2 óra 120 perc.
+735,Hány napos egy év?,"Tény: 365, szökőév 366.","Egy év 365 napos, szökőév 366."
+736,Hány másodperc egy perc?,Tény: 60.,Egy perc 60 másodperc.
+737,Mennyi 23 plusz 48?,Összead: 23+48=71.,23 plusz 48 az 71.
+738,Mennyi 5 mínusz 2?,Kivon: 5-2=3.,5 mínusz 2 az 3.
+739,Mennyi 2-szer 2?,Szoroz: 2*2=4.,2-szer 2 az 4.
+740,Mennyi 144 osztva 12?,Oszt: 144/12=12.,144 osztva 12 az 12.
+741,Mennyi 300 50%-a?,Százalék: 300*50/100=150.,300 50%-a 150.
+742,Mennyi 32 plusz 34?,Összead: 32+34=66.,32 plusz 34 az 66.
+743,Mennyi 86 mínusz 5?,Kivon: 86-5=81.,86 mínusz 5 az 81.
+744,Mennyi 3-szer 8?,Szoroz: 3*8=24.,3-szer 8 az 24.
+745,Mennyi 85 osztva 5?,Oszt: 85/5=17.,85 osztva 5 az 17.
+746,Mennyi 1000 10%-a?,Százalék: 1000*10/100=100.,1000 10%-a 100.
+747,Mennyi 31 plusz 56?,Összead: 31+56=87.,31 plusz 56 az 87.
+748,Mennyi 65 mínusz 61?,Kivon: 65-61=4.,65 mínusz 61 az 4.
+749,Mennyi 12-szer 8?,Szoroz: 12*8=96.,12-szer 8 az 96.
+750,Mennyi 72 osztva 6?,Oszt: 72/6=12.,72 osztva 6 az 12.
+751,Mennyi 400 25%-a?,Százalék: 400*25/100=100.,400 25%-a 100.
+752,Mennyi 17 plusz 22?,Összead: 17+22=39.,17 plusz 22 az 39.
+753,Mennyi 97 mínusz 96?,Kivon: 97-96=1.,97 mínusz 96 az 1.
+754,Mennyi 9-szer 10?,Szoroz: 9*10=90.,9-szer 10 az 90.
+755,Mennyi 72 osztva 12?,Oszt: 72/12=6.,72 osztva 12 az 6.
+756,Mennyi 200 50%-a?,Százalék: 200*50/100=100.,200 50%-a 100.
+757,Mennyi 10 plusz 41?,Összead: 10+41=51.,10 plusz 41 az 51.
+758,Mennyi 81 mínusz 22?,Kivon: 81-22=59.,81 mínusz 22 az 59.
+759,Mennyi 12-szer 2?,Szoroz: 12*2=24.,12-szer 2 az 24.
+760,Mennyi 120 osztva 8?,Oszt: 120/8=15.,120 osztva 8 az 15.
+761,Mennyi 500 10%-a?,Százalék: 500*10/100=50.,500 10%-a 50.
+762,Mennyi 48 plusz 14?,Összead: 48+14=62.,48 plusz 14 az 62.
+763,Mennyi 78 mínusz 47?,Kivon: 78-47=31.,78 mínusz 47 az 31.
+764,Mennyi 35 osztva 7?,Oszt: 35/7=5.,35 osztva 7 az 5.
+765,Mennyi 200 5%-a?,Százalék: 200*5/100=10.,200 5%-a 10.
+766,Mennyi 31 plusz 45?,Összead: 31+45=76.,31 plusz 45 az 76.
+767,Mennyi 37 mínusz 18?,Kivon: 37-18=19.,37 mínusz 18 az 19.
+768,Mennyi 10-szer 9?,Szoroz: 10*9=90.,10-szer 9 az 90.
+769,Mennyi 1000 5%-a?,Százalék: 1000*5/100=50.,1000 5%-a 50.
+770,Mennyi 43 plusz 3?,Összead: 43+3=46.,43 plusz 3 az 46.
+771,Mennyi 65 mínusz 16?,Kivon: 65-16=49.,65 mínusz 16 az 49.
+772,Mennyi 3-szer 2?,Szoroz: 3*2=6.,3-szer 2 az 6.
+773,Mennyi 77 osztva 11?,Oszt: 77/11=7.,77 osztva 11 az 7.
+774,Mennyi 36 plusz 24?,Összead: 36+24=60.,36 plusz 24 az 60.
+775,Mennyi 21 mínusz 4?,Kivon: 21-4=17.,21 mínusz 4 az 17.
+776,Mennyi 11-szer 7?,Szoroz: 11*7=77.,11-szer 7 az 77.
+777,Mennyi 39 osztva 3?,Oszt: 39/3=13.,39 osztva 3 az 13.
+778,Mennyi 1000 50%-a?,Százalék: 1000*50/100=500.,1000 50%-a 500.
+779,Mennyi 48 plusz 25?,Összead: 48+25=73.,48 plusz 25 az 73.
+780,Mennyi 59 mínusz 37?,Kivon: 59-37=22.,59 mínusz 37 az 22.
+781,Mennyi 12-szer 11?,Szoroz: 12*11=132.,12-szer 11 az 132.
+782,Mennyi 15 osztva 5?,Oszt: 15/5=3.,15 osztva 5 az 3.
+783,Mennyi 500 50%-a?,Százalék: 500*50/100=250.,500 50%-a 250.
+784,Mennyi 22 plusz 20?,Összead: 22+20=42.,22 plusz 20 az 42.
+785,Mennyi 61 mínusz 51?,Kivon: 61-51=10.,61 mínusz 51 az 10.
+786,Mennyi 6-szer 12?,Szoroz: 6*12=72.,6-szer 12 az 72.
+787,Mennyi 128 osztva 8?,Oszt: 128/8=16.,128 osztva 8 az 16.
+788,Mennyi 100 10%-a?,Százalék: 100*10/100=10.,100 10%-a 10.
+789,Mennyi 30 plusz 32?,Összead: 30+32=62.,30 plusz 32 az 62.
+790,Mennyi 38 mínusz 32?,Kivon: 38-32=6.,38 mínusz 32 az 6.
+791,Mennyi 11-szer 10?,Szoroz: 11*10=110.,11-szer 10 az 110.
+792,Mennyi 72 osztva 4?,Oszt: 72/4=18.,72 osztva 4 az 18.
+793,Mennyi 100 15%-a?,Százalék: 100*15/100=15.,100 15%-a 15.
+794,Mennyi 36 plusz 10?,Összead: 36+10=46.,36 plusz 10 az 46.
+795,Mennyi 51 mínusz 40?,Kivon: 51-40=11.,51 mínusz 40 az 11.
+796,Mennyi 7-szer 12?,Szoroz: 7*12=84.,7-szer 12 az 84.
+797,Mennyi 33 osztva 3?,Oszt: 33/3=11.,33 osztva 3 az 11.
+798,Mennyi 400 5%-a?,Százalék: 400*5/100=20.,400 5%-a 20.
+799,Mennyi 40 plusz 34?,Összead: 40+34=74.,40 plusz 34 az 74.
+800,Mennyi 58 mínusz 53?,Kivon: 58-53=5.,58 mínusz 53 az 5.
+801,Mennyi 6-szer 8?,Szoroz: 6*8=48.,6-szer 8 az 48.
+802,Mennyi 204 osztva 12?,Oszt: 204/12=17.,204 osztva 12 az 17.
+803,Mennyi 1000 20%-a?,Százalék: 1000*20/100=200.,1000 20%-a 200.
+804,Mennyi 32 plusz 56?,Összead: 32+56=88.,32 plusz 56 az 88.
+805,Mennyi 50 mínusz 7?,Kivon: 50-7=43.,50 mínusz 7 az 43.
+806,Mennyi 152 osztva 8?,Oszt: 152/8=19.,152 osztva 8 az 19.
+807,Mennyi 11 plusz 30?,Összead: 11+30=41.,11 plusz 30 az 41.
+808,Mennyi 24 mínusz 20?,Kivon: 24-20=4.,24 mínusz 20 az 4.
+809,Mennyi 8-szer 3?,Szoroz: 8*3=24.,8-szer 3 az 24.
+810,Mennyi 99 osztva 11?,Oszt: 99/11=9.,99 osztva 11 az 9.
+811,Mennyi 400 10%-a?,Százalék: 400*10/100=40.,400 10%-a 40.
+812,Mennyi 43 plusz 20?,Összead: 43+20=63.,43 plusz 20 az 63.
+813,Mennyi 44 mínusz 25?,Kivon: 44-25=19.,44 mínusz 25 az 19.
+814,Mennyi 8-szer 5?,Szoroz: 8*5=40.,8-szer 5 az 40.
+815,Mennyi 4 osztva 2?,Oszt: 4/2=2.,4 osztva 2 az 2.
+816,Mennyi 11 plusz 10?,Összead: 11+10=21.,11 plusz 10 az 21.
+817,Mennyi 25 mínusz 6?,Kivon: 25-6=19.,25 mínusz 6 az 19.
+818,Mennyi 3-szer 3?,Szoroz: 3*3=9.,3-szer 3 az 9.
+819,Mennyi 66 osztva 11?,Oszt: 66/11=6.,66 osztva 11 az 6.
+820,Mennyi 300 10%-a?,Százalék: 300*10/100=30.,300 10%-a 30.
+821,Mennyi 30 plusz 13?,Összead: 30+13=43.,30 plusz 13 az 43.
+822,Mennyi 82 mínusz 8?,Kivon: 82-8=74.,82 mínusz 8 az 74.
+823,Mennyi 6-szer 2?,Szoroz: 6*2=12.,6-szer 2 az 12.
+824,Mennyi 42 osztva 7?,Oszt: 42/7=6.,42 osztva 7 az 6.
+825,Mennyi 100 20%-a?,Százalék: 100*20/100=20.,100 20%-a 20.
+826,Mennyi 8 plusz 37?,Összead: 8+37=45.,8 plusz 37 az 45.
+827,Mennyi 9 mínusz 7?,Kivon: 9-7=2.,9 mínusz 7 az 2.
+828,Mennyi 7-szer 9?,Szoroz: 7*9=63.,7-szer 9 az 63.
+829,Mennyi 64 osztva 8?,Oszt: 64/8=8.,64 osztva 8 az 8.
+830,Mennyi 500 5%-a?,Százalék: 500*5/100=25.,500 5%-a 25.
+831,Mennyi 13 plusz 32?,Összead: 13+32=45.,13 plusz 32 az 45.
+832,Mennyi 68 mínusz 40?,Kivon: 68-40=28.,68 mínusz 40 az 28.
+833,Mennyi 20 osztva 5?,Oszt: 20/5=4.,20 osztva 5 az 4.
+834,Mennyi 200 20%-a?,Százalék: 200*20/100=40.,200 20%-a 40.
+835,Mennyi 31 plusz 41?,Összead: 31+41=72.,31 plusz 41 az 72.
+836,Mennyi 28 mínusz 12?,Kivon: 28-12=16.,28 mínusz 12 az 16.
+837,Mennyi 2-szer 8?,Szoroz: 2*8=16.,2-szer 8 az 16.
+838,Mennyi 36 osztva 2?,Oszt: 36/2=18.,36 osztva 2 az 18.
+839,Mennyi 200 10%-a?,Százalék: 200*10/100=20.,200 10%-a 20.
+840,Mennyi 56 plusz 36?,Összead: 56+36=92.,56 plusz 36 az 92.
+841,Mennyi 70 mínusz 38?,Kivon: 70-38=32.,70 mínusz 38 az 32.
+842,Mennyi 5-szer 4?,Szoroz: 5*4=20.,5-szer 4 az 20.
+843,Mennyi 180 osztva 10?,Oszt: 180/10=18.,180 osztva 10 az 18.
+844,Mennyi 200 15%-a?,Százalék: 200*15/100=30.,200 15%-a 30.
+845,Mennyi 40 plusz 49?,Összead: 40+49=89.,40 plusz 49 az 89.
+846,Film 20:15-kor kezdődik és 90 perces. Mikor ér véget?,20:15 + 90 perc = 21:45.,21:45-kor ér véget.
+847,9 óra van. 3ó30 múlva találkozóm. Mikor?,9:00 + 3:30 = 12:30.,A találkozó 12:30-kor.
+848,Torta 45 percig sül. 16:20-kor teszem be. Mikor kész?,16:20 + 0:45 = 17:05.,17:05-kor kész.
+849,Iskola 8:00-kor kezdődik és 13:15-kor végződik. Meddig?,13:15 - 8:00 = 5:15.,5 óra 15 percig tart.
+850,"Ha 19:00-tól 30 percet olvasok, mikor végzek?",19:00 + 0:30 = 19:30.,19:30-kor végzel.
+851,Hogyan tanulok szavakat legjobban?,"Rövid napi egységek, kártyák, aktív használat.",Legjobb rövid napi egységekben kártyákkal és aktív használattal mondatokban plusz ismétlés.
+852,szavak tanulása - tippek?,"Rövid napi egységek, kártyák, aktív használat.",Legjobb rövid napi egységekben kártyákkal és aktív használattal mondatokban plusz ismétlés.
+853,Gyors útmutató: szavak tanulása.,"Rövid napi egységek, kártyák, aktív használat.",Legjobb rövid napi egységekben kártyákkal és aktív használattal mondatokban plusz ismétlés.
+854,Hogyan spórolok mindennap?,"Költségvetés, előfizetések, főzés, összehasonlítás.","Állíts költségvetést, nézd át előfizetéseket, főzz többször, hasonlíts árakat és tegyél félre először fix összeget."
+855,spórolás - tippek?,"Költségvetés, előfizetések, főzés, összehasonlítás.","Állíts költségvetést, nézd át előfizetéseket, főzz többször, hasonlíts árakat és tegyél félre először fix összeget."
+856,Gyors útmutató: spórolás.,"Költségvetés, előfizetések, főzés, összehasonlítás.","Állíts költségvetést, nézd át előfizetéseket, főzz többször, hasonlíts árakat és tegyél félre először fix összeget."
+857,"Mit főzök csak tésztából, paradicsomból és sajtból?",Tészta paradicsomszósszal és sajttal.,"Csinálj tésztát egyszerű szósszal: fűszerezd, főzd, öntsd tésztára, szórj sajtot."
+858,gyors tészta - tippek?,Tészta paradicsomszósszal és sajttal.,"Csinálj tésztát egyszerű szósszal: fűszerezd, főzd, öntsd tésztára, szórj sajtot."
+859,Gyors útmutató: gyors tészta.,Tészta paradicsomszósszal és sajttal.,"Csinálj tésztát egyszerű szósszal: fűszerezd, főzd, öntsd tésztára, szórj sajtot."
+860,"Holnap repülök, mit vigyek?","Lista: igazolvány, jegy, pénz, telefon, töltő.","Vigyél: igazolványt vagy útlevelet, jegyet, pénzt, telefont plusz töltőt, gyógyszert, higiéniát és váltást kézibe."
+861,repülős csomag - tippek?,"Lista: igazolvány, jegy, pénz, telefon, töltő.","Vigyél: igazolványt vagy útlevelet, jegyet, pénzt, telefont plusz töltőt, gyógyszert, higiéniát és váltást kézibe."
+862,Gyors útmutató: repülős csomag.,"Lista: igazolvány, jegy, pénz, telefon, töltő.","Vigyél: igazolványt vagy útlevelet, jegyet, pénzt, telefont plusz töltőt, gyógyszert, higiéniát és váltást kézibe."
+863,Hogyan írok jó bocsánatkérést?,"Nevezd meg a hibát, felelősség, jóvátétel.","Nevezd meg a hibát, vállald, mutass megbánást és ajánlj jóvátételt, röviden és őszintén."
+864,bocsánatkérés - tippek?,"Nevezd meg a hibát, felelősség, jóvátétel.","Nevezd meg a hibát, vállald, mutass megbánást és ajánlj jóvátételt, röviden és őszintén."
+865,Gyors útmutató: bocsánatkérés.,"Nevezd meg a hibát, felelősség, jóvátétel.","Nevezd meg a hibát, vállald, mutass megbánást és ajánlj jóvátételt, röviden és őszintén."
+866,Hogyan tervezek 3 napos városi tripet?,"Utazás, hotel, napi 2-3 pont.","Állítsd be az utazást és hotelt, válassz napi 2-3 pontot, tervezz puffereket és napibüdzsét."
+867,városi trip - tippek?,"Utazás, hotel, napi 2-3 pont.","Állítsd be az utazást és hotelt, válassz napi 2-3 pontot, tervezz puffereket és napibüdzsét."
+868,Gyors útmutató: városi trip.,"Utazás, hotel, napi 2-3 pont.","Állítsd be az utazást és hotelt, válassz napi 2-3 pontot, tervezz puffereket és napibüdzsét."
+869,Esernyő 80% esőnél?,"80% magas, igen ajánlott.","Igen, vidd. 80%-nál az eső nagyon valószínű."
+870,esernyő - tippek?,"80% magas, igen ajánlott.","Igen, vidd. 80%-nál az eső nagyon valószínű."
+871,Gyors útmutató: esernyő.,"80% magas, igen ajánlott.","Igen, vidd. 80%-nál az eső nagyon valószínű."
+872,Mi jobb jegyzetekre: papír vagy telefon?,"Papír figyelem nélkül, telefon kereshető.","Mindkettőnek vannak előnyei: papír figyelem nélkül és jó memóriára, telefon kereshető és mindig nálad."
+873,jegyzetek papír vagy telefon - tippek?,"Papír figyelem nélkül, telefon kereshető.","Mindkettőnek vannak előnyei: papír figyelem nélkül és jó memóriára, telefon kereshető és mindig nálad."
+874,Gyors útmutató: jegyzetek papír vagy telefon.,"Papír figyelem nélkül, telefon kereshető.","Mindkettőnek vannak előnyei: papír figyelem nélkül és jó memóriára, telefon kereshető és mindig nálad."
+875,Hogyan rakok gyorsan rendet a szobában?,"Szemét, mosás, vissza, törlés.","Először szedd a szemetet, aztán a mosást, tegyél mindent vissza és a végén törölj."
+876,gyors rendrakás - tippek?,"Szemét, mosás, vissza, törlés.","Először szedd a szemetet, aztán a mosást, tegyél mindent vissza és a végén törölj."
+877,Gyors útmutató: gyors rendrakás.,"Szemét, mosás, vissza, törlés.","Először szedd a szemetet, aztán a mosást, tegyél mindent vissza és a végén törölj."
+878,Hogyan csomagolok kompakt bőröndöt?,"Tekerés, nehéz alulra, töltés.","Tekerd a ruhákat hajtogatás helyett, nehéz alulra, töltsd zoknikkal."
+879,kompakt bőrönd - tippek?,"Tekerés, nehéz alulra, töltés.","Tekerd a ruhákat hajtogatás helyett, nehéz alulra, töltsd zoknikkal."
+880,Gyors útmutató: kompakt bőrönd.,"Tekerés, nehéz alulra, töltés.","Tekerd a ruhákat hajtogatás helyett, nehéz alulra, töltsd zoknikkal."
+881,Hogyan főzök rizst?,"Arány 1:2, 10-12 perc pihentetés.","Mosd meg a rizst, forrald dupla vízzel, pihentesd 10-12 percig."
+882,rizsfőzés - tippek?,"Arány 1:2, 10-12 perc pihentetés.","Mosd meg a rizst, forrald dupla vízzel, pihentesd 10-12 percig."
+883,Gyors útmutató: rizsfőzés.,"Arány 1:2, 10-12 perc pihentetés.","Mosd meg a rizst, forrald dupla vízzel, pihentesd 10-12 percig."
+884,Hogyan főzök tésztát?,"Sós víz, 8-10 perc főzés.","Sózz sok vizet, forrald, főzd a tésztát 8-10 percig, szűrd le."
+885,tésztafőzés - tippek?,"Sós víz, 8-10 perc főzés.","Sózz sok vizet, forrald, főzd a tésztát 8-10 percig, szűrd le."
+886,Gyors útmutató: tésztafőzés.,"Sós víz, 8-10 perc főzés.","Sózz sok vizet, forrald, főzd a tésztát 8-10 percig, szűrd le."
+887,Hogyan csinálok palacsintát?,"Liszt, tej, tojás, pirítás.","Keverj lisztet, tejet, tojást és csipet sót, süsd vékonyan aranybarnára."
+888,palacsinta - tippek?,"Liszt, tej, tojás, pirítás.","Keverj lisztet, tejet, tojást és csipet sót, süsd vékonyan aranybarnára."
+889,Gyors útmutató: palacsinta.,"Liszt, tej, tojás, pirítás.","Keverj lisztet, tejet, tojást és csipet sót, süsd vékonyan aranybarnára."
+890,Hogyan ébredek reggel?,"Fény, víz, mozgás.","Kapcsold fel a fényt, igyál egy pohár vizet, mozogj kicsit és szívj levegőt."
+891,ébredés - tippek?,"Fény, víz, mozgás.","Kapcsold fel a fényt, igyál egy pohár vizet, mozogj kicsit és szívj levegőt."
+892,Gyors útmutató: ébredés.,"Fény, víz, mozgás.","Kapcsold fel a fényt, igyál egy pohár vizet, mozogj kicsit és szívj levegőt."
+893,Hogyan alszom el gyorsabban?,"Sötét, hűvös, telefon nélkül, rutin.","Aludj sötétben és hűvösben, tedd le a telefont, tarts fix rutint."
+894,elalvás - tippek?,"Sötét, hűvös, telefon nélkül, rutin.","Aludj sötétben és hűvösben, tedd le a telefont, tarts fix rutint."
+895,Gyors útmutató: elalvás.,"Sötét, hűvös, telefon nélkül, rutin.","Aludj sötétben és hűvösben, tedd le a telefont, tarts fix rutint."
+896,Hogyan tanulok vizsgára?,"Blokkok, aktív felidézés, szünetek.","Oszd blokkokra, kérdezd magad aktívan, tarts szüneteket, ismételd másnap."
+897,vizsgatanulás - tippek?,"Blokkok, aktív felidézés, szünetek.","Oszd blokkokra, kérdezd magad aktívan, tarts szüneteket, ismételd másnap."
+898,Gyors útmutató: vizsgatanulás.,"Blokkok, aktív felidézés, szünetek.","Oszd blokkokra, kérdezd magad aktívan, tarts szüneteket, ismételd másnap."
+899,Hogyan írok álláspályázatot?,"Levél, CV, bizonyítványok.",Írj rövid levelet plusz táblázatos CV-t és hasznos bizonyítványokat.
+900,álláspályázat - tippek?,"Levél, CV, bizonyítványok.",Írj rövid levelet plusz táblázatos CV-t és hasznos bizonyítványokat.
+901,Gyors útmutató: álláspályázat.,"Levél, CV, bizonyítványok.",Írj rövid levelet plusz táblázatos CV-t és hasznos bizonyítványokat.
+902,Hogyan találok lakást?,"Büdzsé, portálok, papírok, nézelődés.","Állíts büdzsét, keress portálokon, készíts papírokat, menj kérdésekkel."
+903,lakáskeresés - tippek?,"Büdzsé, portálok, papírok, nézelődés.","Állíts büdzsét, keress portálokon, készíts papírokat, menj kérdésekkel."
+904,Gyors útmutató: lakáskeresés.,"Büdzsé, portálok, papírok, nézelődés.","Állíts büdzsét, keress portálokon, készíts papírokat, menj kérdésekkel."
+905,Hogyan locsolom jól a virágot?,"Ujjpróba, pangás nélkül.","Ujjpróba: csak ha felül száraz locsolj, kerüld a pangást."
+906,viráglocsolás - tippek?,"Ujjpróba, pangás nélkül.","Ujjpróba: csak ha felül száraz locsolj, kerüld a pangást."
+907,Gyors útmutató: viráglocsolás.,"Ujjpróba, pangás nélkül.","Ujjpróba: csak ha felül száraz locsolj, kerüld a pangást."
+908,Hogyan tervezem a napom?,"3 prioritás, blokkok, szünetek.","Válassz 3 prioritást, tervezz blokkokat szünetekkel, tedd el a figyelemelvonókat."
+909,naptervezés - tippek?,"3 prioritás, blokkok, szünetek.","Válassz 3 prioritást, tervezz blokkokat szünetekkel, tedd el a figyelemelvonókat."
+910,Gyors útmutató: naptervezés.,"3 prioritás, blokkok, szünetek.","Válassz 3 prioritást, tervezz blokkokat szünetekkel, tedd el a figyelemelvonókat."
+911,Hogyan kezdem a sportot?,"Kevés, heti 2x, növelés.","Kezdd heti 2x sétával vagy könnyűvel, növeld lassan."
+912,sportkezdés - tippek?,"Kevés, heti 2x, növelés.","Kezdd heti 2x sétával vagy könnyűvel, növeld lassan."
+913,Gyors útmutató: sportkezdés.,"Kevés, heti 2x, növelés.","Kezdd heti 2x sétával vagy könnyűvel, növeld lassan."
+914,Hogyan iszom elég vizet?,"Palack készen, emlékeztetők.","Tarts palackot készen, igyál egy pohárral minden étkezéshez, állíts emlékeztetőket."
+915,elég ivás - tippek?,"Palack készen, emlékeztetők.","Tarts palackot készen, igyál egy pohárral minden étkezéshez, állíts emlékeztetőket."
+916,Gyors útmutató: elég ivás.,"Palack készen, emlékeztetők.","Tarts palackot készen, igyál egy pohárral minden étkezéshez, állíts emlékeztetőket."
+917,Mi az egészséges reggeli?,"Zab, gyümölcs, joghurt.","Pl. zab gyümölccsel és joghurttal, vagy teljes kiőrlésű kenyér tojással."
+918,egészséges reggeli - tippek?,"Zab, gyümölcs, joghurt.","Pl. zab gyümölccsel és joghurttal, vagy teljes kiőrlésű kenyér tojással."
+919,Gyors útmutató: egészséges reggeli.,"Zab, gyümölcs, joghurt.","Pl. zab gyümölccsel és joghurttal, vagy teljes kiőrlésű kenyér tojással."
+920,Mi segít stressz ellen?,"Szünetek, mozgás, alvás, beszélgetés.","Rövid szünetek, mozgás, elég alvás és beszélgetés segítenek."
+921,stressz - tippek?,"Szünetek, mozgás, alvás, beszélgetés.","Rövid szünetek, mozgás, elég alvás és beszélgetés segítenek."
+922,Gyors útmutató: stressz.,"Szünetek, mozgás, alvás, beszélgetés.","Rövid szünetek, mozgás, elég alvás és beszélgetés segítenek."
+923,Hogyan mondok le találkozót?,"Korán, rövid ok, új idő.","Mondd le korán, adj rövid okot, javasolj új időt."
+924,találkozó lemondása - tippek?,"Korán, rövid ok, új idő.","Mondd le korán, adj rövid okot, javasolj új időt."
+925,Gyors útmutató: találkozó lemondása.,"Korán, rövid ok, új idő.","Mondd le korán, adj rövid okot, javasolj új időt."
+926,Hogyan kérek segítséget?,"Konkrétan: mit, meddig, köszi.","Kérj konkrétan: mit, meddig, miért. Pl. Segítesz ma cipelni? Köszi!"
+927,segítségkérés - tippek?,"Konkrétan: mit, meddig, köszi.","Kérj konkrétan: mit, meddig, miért. Pl. Segítesz ma cipelni? Köszi!"
+928,Gyors útmutató: segítségkérés.,"Konkrétan: mit, meddig, köszi.","Kérj konkrétan: mit, meddig, miért. Pl. Segítesz ma cipelni? Köszi!"
+929,Hogyan tanulok nemet mondani?,"Röviden, kedvesen, alternatíva.","Mondj nemet röviden és kedvesen, ajánlj alternatívát ha tudsz."
+930,nemet mondás - tippek?,"Röviden, kedvesen, alternatíva.","Mondj nemet röviden és kedvesen, ajánlj alternatívát ha tudsz."
+931,Gyors útmutató: nemet mondás.,"Röviden, kedvesen, alternatíva.","Mondj nemet röviden és kedvesen, ajánlj alternatívát ha tudsz."
+932,Hogyan spórolok nyaralásra?,"Cél, havi auto.","Állíts célt, spórolj havonta automatikusan, told hozzá az extrát."
+933,nyaralás spórolás - tippek?,"Cél, havi auto.","Állíts célt, spórolj havonta automatikusan, told hozzá az extrát."
+934,Gyors útmutató: nyaralás spórolás.,"Cél, havi auto.","Állíts célt, spórolj havonta automatikusan, told hozzá az extrát."
+935,Hogyan foglalok olcsó repülőket?,"Rugalmas dátumok, összehasonlítás, korán.","Légy rugalmas dátumokkal, hasonlíts portálokat, foglalj korán."
+936,olcsó repülők - tippek?,"Rugalmas dátumok, összehasonlítás, korán.","Légy rugalmas dátumokkal, hasonlíts portálokat, foglalj korán."
+937,Gyors útmutató: olcsó repülők.,"Rugalmas dátumok, összehasonlítás, korán.","Légy rugalmas dátumokkal, hasonlíts portálokat, foglalj korán."
+938,Hogyan találok utat net nélkül?,"Offline térképek, táblák, kérdezés.","Tölts offline térképeket, kövesd táblákat, kérdezz embereket."
+939,út net nélkül - tippek?,"Offline térképek, táblák, kérdezés.","Tölts offline térképeket, kövesd táblákat, kérdezz embereket."
+940,Gyors útmutató: út net nélkül.,"Offline térképek, táblák, kérdezés.","Tölts offline térképeket, kövesd táblákat, kérdezz embereket."
+941,Mi a különbség kutya és macska között mint állat?,Kutyák: séták és nevelés; macskák önállóak.,"A kutyák sok sétát és nevelést kérnek, a macskák önállóbbak. Válassz idő és hely szerint."
+942,kutya vagy macska - mit ajánlasz?,Kutyák: séták és nevelés; macskák önállóak.,"A kutyák sok sétát és nevelést kérnek, a macskák önállóbbak. Válassz idő és hely szerint."
+943,Vonat vagy autó 300 km-re?,"Vonat relax és zöldebb, autó rugalmas.","A vonat relax és gyakran zöldebb, az autó rugalmas csomaggal. Dugóban a vonat nyer."
+944,vonat vagy autó 300 km - mit ajánlasz?,"Vonat relax és zöldebb, autó rugalmas.","A vonat relax és gyakran zöldebb, az autó rugalmas csomaggal. Dugóban a vonat nyer."
+945,Alma vagy csoki nasinak?,Alma: vitaminok és teltség.,"Vedd az almát vitaminokért és teltségért, a csokit kivételnek."
+946,alma vagy csoki - mit ajánlasz?,Alma: vitaminok és teltség.,"Vedd az almát vitaminokért és teltségért, a csokit kivételnek."
+947,Laptop vagy PC játékra?,"PC erősebb pénzért, laptop mobil.","A PC-k több erőt adnak pénzért, a laptopok mobilek. Maxra PC-t válassz."
+948,laptop vagy PC játék - mit ajánlasz?,"PC erősebb pénzért, laptop mobil.","A PC-k több erőt adnak pénzért, a laptopok mobilek. Maxra PC-t válassz."
+949,Város vagy vidék lakni?,Város: munkák és közel; vidék: nyugalom.,"A városok munkákat és közelt adnak, a vidék nyugalmat és helyet. Válassz munka és stílus szerint."
+950,város vagy vidék - mit ajánlasz?,Város: munkák és közel; vidék: nyugalom.,"A városok munkákat és közelt adnak, a vidék nyugalmat és helyet. Válassz munka és stílus szerint."
+951,Mi számít többet: alvás vagy tanulás?,Az alvás rögzíti a tanulást.,"Az alvás többet számít, mert rögzíti a tanulást. Tanulj korán, aludj eleget."
+952,alvás vagy tanulás - mit ajánlasz?,Az alvás rögzíti a tanulást.,"Az alvás többet számít, mert rögzíti a tanulást. Tanulj korán, aludj eleget."
+953,Új telefon vagy megtartom a régit?,Tartsd meg ha elég; vegyél hiba vagy szükség esetén.,Tartsd meg ha elég. Vegyél újat csak hiba vagy valós szükség esetén.
+954,új telefon - mit ajánlasz?,Tartsd meg ha elég; vegyél hiba vagy szükség esetén.,Tartsd meg ha elég. Vegyél újat csak hiba vagy valós szükség esetén.
+955,Mik az álhírek?,"Kitaláltak, mint valódiak; ellenőrizd a forrást.","Az álhírek kitaláltak. Ellenőrizd a forrást, a dátumot és más médiát."
+956,álhírek - mit ajánlasz?,"Kitaláltak, mint valódiak; ellenőrizd a forrást.","Az álhírek kitaláltak. Ellenőrizd a forrást, a dátumot és más médiát."
+957,Mi a különbség tény és vélemény között?,"Tény bizonyítható, vélemény személyes nézet.","A tény bizonyítható és ellenőrizhető, a vélemény személyes nézet."
+958,tény vagy vélemény - mit ajánlasz?,"Tény bizonyítható, vélemény személyes nézet.","A tény bizonyítható és ellenőrizhető, a vélemény személyes nézet."
+959,Bicikli vagy busz iskolába? (5 km),"Szép idő bicikli, eső busz.","Szép időben vedd a biciklit (kb. 20 perc, egészséges), esőben a buszt."
+960,bicikli vagy busz iskola 5 km - mit ajánlasz?,"Szép idő bicikli, eső busz.","Szép időben vedd a biciklit (kb. 20 perc, egészséges), esőben a buszt."
+961,Víz vagy lé szomjra?,"Víz jobb, cukor nélkül.",A víz legjobban oltja a szomjat és nincs cukor. Lé csak hígítva.
+962,víz vagy lé - mit ajánlasz?,"Víz jobb, cukor nélkül.",A víz legjobban oltja a szomjat és nincs cukor. Lé csak hígítva.
+963,Kávé vagy víz reggel?,"Előbb víz, kávé mértékkel.","Igyál előbb vizet, kávét utána mértékkel."
+964,kávé vagy víz reggel - mit ajánlasz?,"Előbb víz, kávé mértékkel.","Igyál előbb vizet, kávét utána mértékkel."
+965,Bérlés vagy vétel? (általában),Rugalmasan bérlés; hosszúra nézd a vételt.,"Bérelj ha rugalmas maradsz; ha sokáig maradsz és tudsz fizetni, nézd a vételt minden költséggel."
+966,bérlés vagy vétel - mit ajánlasz?,Rugalmasan bérlés; hosszúra nézd a vételt.,"Bérelj ha rugalmas maradsz; ha sokáig maradsz és tudsz fizetni, nézd a vételt minden költséggel."
+967,Korán vagy későn kelni?,Feladatok és alvás szerint.,Válassz feladatok és alvás szerint: elég alvás és fix ritmus számít.
+968,korán vagy későn - mit ajánlasz?,Feladatok és alvás szerint.,Válassz feladatok és alvás szerint: elég alvás és fix ritmus számít.
+969,Sport mindennap?,Pihenés számít; heti 3-4x elég.,"Nem, tervezz pihenést. Heti 3-4 alkalommal gyakran elég, mindennap csak könnyű."
+970,sport mindennap - mit ajánlasz?,Pihenés számít; heti 3-4x elég.,"Nem, tervezz pihenést. Heti 3-4 alkalommal gyakran elég, mindennap csak könnyű."
+971,Dolgozni lázzal?,"Nem, pihenés és orvos.",Nem. Pihenj és menj orvoshoz magas vagy hosszú láznál.
+972,láz és munka - mit ajánlasz?,"Nem, pihenés és orvos.",Nem. Pihenj és menj orvoshoz magas vagy hosszú láznál.
+973,Hogyan választok két ajánlat közt?,"Kritériumok, pro/kontra, határidő.","Listázd a kritériumokat, pontozz, nézd a költségeket és érzést, dönts határidővel."
+974,választás ajánlatok közt - mit ajánlasz?,"Kritériumok, pro/kontra, határidő.","Listázd a kritériumokat, pontozz, nézd a költségeket és érzést, dönts határidővel."
+975,Hogyan spórolok 500 eurót 5 hónap alatt?,500/5=havi 100 auto.,"Spórolj havi 100 eurót automatikusan, pl. utalással fizetés után."
+976,spórolás 500 5 hónap alatt - mit ajánlasz?,500/5=havi 100 auto.,"Spórolj havi 100 eurót automatikusan, pl. utalással fizetés után."
+977,Mi a különbség szükséglet és vágy között?,"Szükséglet létfontosságú, vágy azon túl.","A szükséglet létfontosságú, a vágy azon túli kívánság."
+978,szükséglet vagy vágy - mit ajánlasz?,"Szükséglet létfontosságú, vágy azon túl.","A szükséglet létfontosságú, a vágy azon túli kívánság."
+979,Mi számít többet: pénz vagy idő?,"Idő korlátozott, pénz pótolható.","Az idő korlátozott és nem tér vissza, a pénz újra megkereshető. Az egyensúly számít."
+980,pénz vagy idő - mit ajánlasz?,"Idő korlátozott, pénz pótolható.","Az idő korlátozott és nem tér vissza, a pénz újra megkereshető. Az egyensúly számít."
+981,Összegezd: mikor gondolkodsz és mikor nem?,"Szabály: small talk gondolkodás nélkül; tények, számítások, magyarázatok, döntések gondolkodással.","Nem gondolkodom üdvözlésnél, köszönetnél és small talknál. Gondolkodom tényeknél, számításoknál, magyarázatoknál, összehasonlításoknál és döntéseknél, és akkor mutatom a gondolkodást."
+982,Mi tolerancia?,Határozd meg tolerancia egyszerűen és helyesen.,tolerancia röviden: A tolerancia más véleményeket és életmódokat elfogad.
+983,Mi türelem?,Határozd meg türelem egyszerűen és helyesen.,türelem röviden: A türelem nyugodtan vár és kitart.
+984,Mi bátorság?,Határozd meg bátorság egyszerűen és helyesen.,bátorság röviden: A bátorság félelem ellenére jót tesz.
+985,Mi fegyelem?,Határozd meg fegyelem egyszerűen és helyesen.,fegyelem röviden: A fegyelem kedv nélkül is kitart.
+986,Mi kreativitás?,Határozd meg kreativitás egyszerűen és helyesen.,kreativitás röviden: A kreativitás új ötleteket és megoldásokat talál.
+987,Mi csapatmunka?,Határozd meg csapatmunka egyszerűen és helyesen.,csapatmunka röviden: A csapatmunka együtt halad cél felé.
+988,Mi felelősség?,Határozd meg felelősség egyszerűen és helyesen.,felelősség röviden: A felelősség tettekért és következményekért áll.
+989,Mi bizalom?,Határozd meg bizalom egyszerűen és helyesen.,bizalom röviden: A bizalom másokra támaszkodhat.
+990,Mi udvariasság?,Határozd meg udvariasság egyszerűen és helyesen.,udvariasság röviden: Az udvariasság tisztelettudó és kedves.
+991,Mi pontosság?,Határozd meg pontosság egyszerűen és helyesen.,pontosság röviden: A pontosság tartja a megbeszélt időket.
+992,Mi megbízhatóság?,Határozd meg megbízhatóság egyszerűen és helyesen.,megbízhatóság röviden: A megbízhatóság tartja az ígéreteket.
+993,Mi egészség?,Határozd meg egészség egyszerűen és helyesen.,egészség röviden: Az egészség testi és lelki jólét.
+994,Mi boldogság?,Határozd meg boldogság egyszerűen és helyesen.,boldogság röviden: A boldogság elégedettség és örömteli pillanatok.
+995,Mi siker?,Határozd meg siker egyszerűen és helyesen.,siker röviden: A siker eléri a kitűzött célokat.
+996,Mi tanulás?,Határozd meg tanulás egyszerűen és helyesen.,tanulás röviden: A tanulás tudást és készségeket szerez.
+997,Mi tudás?,Határozd meg tudás egyszerűen és helyesen.,tudás röviden: A tudás megértett információ a világról.
+998,Mi tapasztalat?,Határozd meg tapasztalat egyszerűen és helyesen.,tapasztalat röviden: A tapasztalat megélt tudás.
+999,Mi humor?,Határozd meg humor egyszerűen és helyesen.,humor röviden: A humor tud nevetni a vicces dolgokon.
+1000,Mi szeretet?,Határozd meg szeretet egyszerűen és helyesen.,szeretet röviden: A szeretet mély vonzalom és gondoskodás.

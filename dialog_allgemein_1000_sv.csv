@@ -1,0 +1,1001 @@
+id,user,thinking,ai
+1,Hej!,,Hej! Hur kan jag hjälpa?
+2,Hallå!,,Hallå! Vad kan jag göra för dig?
+3,Tjenare!,,Tjenare! Hur kan jag hjälpa?
+4,"Hej, är du där?",,"Ja, jag är här! Vad behöver du?"
+5,"Hallå, är du där?",,"Ja, jag är här! Kör på."
+6,God morgon!,,God morgon! Vad står på idag?
+7,"God morgon, hur mår du?",,"God morgon! Jag mår bra, och du?"
+8,God eftermiddag!,,God eftermiddag! Hur kan jag hjälpa?
+9,Hej alla!,,Hej alla! Vad kan jag göra?
+10,God kväll!,,God kväll! Hur var din dag?
+11,"God kväll, hur var din dag?",,Lugn och bra. Och din?
+12,"Hej, hur mår du?",,"Jag mår bra, tack! Och du?"
+13,"Hallå, hur mår du?",,"Bra, tack! Hur mår du?"
+14,Hur är det?,,Bra! Och du?
+15,Hur mår du idag?,,Jag mår bra! Och du?
+16,Allt bra?,,"Ja, allt bra! Och du?"
+17,Vad händer?,,Inte mycket. Vad händer hos dig?
+18,Vad gör du?,,Chattar med dig. Och du?
+19,Fortfarande vaken?,,"Ja, jag är alltid vaken. Och du?"
+20,Redo?,,"Ja, redo! Kör på."
+21,Har du en minut?,,"Ja, jag har tid för dig."
+22,Kan du hjälpa snabbt?,,"Säkert, vad behöver du?"
+23,Hej då!,,Hej då! Vi ses!
+24,"Hej då, vi ses!",,"Vi ses, ta hand om dig!"
+25,Vi ses senare!,,Vi ses senare!
+26,Vi ses imorgon!,,Vi ses imorgon!
+27,Ta hand om dig!,,"Du också, ta hand om dig!"
+28,Trevlig helg!,,"Tack, detsamma!"
+29,God natt!,,"God natt, sov gott!"
+30,Sov gott!,,Tack! Sov du också gott.
+31,Jag har tråkigt,,Ska vi göra ett quiz eller prata om ett ämne?
+32,Tråkigt här,,Nu piggar vi upp. Vad vill du?
+33,Coolt!,,Coolt!
+34,Trevligt!,,Trevligt!
+35,Haha,,Haha!
+36,Hahaha :),,"Haha, kul att höra!"
+37,Jag är trött,,Vila då ordentligt!
+38,Jag är peppad,,Kul! Berätta mer.
+39,Äntligen helg!,,Ja! Vad har du för planer?
+40,Fint väder idag,,"Ja, njut av solen!"
+41,Jag är hungrig,,Ät då något gott!
+42,Jag är törstig,,Drick då ett glas vatten!
+43,Vad står på idag?,,Min plan: hjälpa dig. Och din?
+44,"Hej, vad står på idag!",,Min plan: hjälpa dig. Och din?
+45,"Hallå, vad står på idag?",,Min plan: hjälpa dig. Och din?
+46,"Tjenare, vad står på idag?",,Min plan: hjälpa dig. Och din?
+47,Planer för helgen!,,Inget bestämt än. Har du planer?
+48,"Hej, planer för helgen?",,Inget bestämt än. Har du planer?
+49,"Hallå, planer för helgen?",,Inget bestämt än. Har du planer?
+50,"Tjenare, planer för helgen!",,Inget bestämt än. Har du planer?
+51,Sov du gott?,,"Jag sover inte, men jag är pigg. Och du?"
+52,"Hej, sov du gott?",,"Jag sover inte, men jag är pigg. Och du?"
+53,"Hallå, sov du gott!",,"Jag sover inte, men jag är pigg. Och du?"
+54,"Tjenare, sov du gott?",,"Jag sover inte, men jag är pigg. Och du?"
+55,Redan vaken?,,"Ja, jag är redo. Vad behöver du?"
+56,"Hej, redan vaken!",,"Ja, jag är redo. Vad behöver du?"
+57,"Hallå, redan vaken?",,"Ja, jag är redo. Vad behöver du?"
+58,"Tjenare, redan vaken?",,"Ja, jag är redo. Vad behöver du?"
+59,Hur går din dag!,,"Bra, tack! Och din?"
+60,"Hej, hur går din dag?",,"Bra, tack! Och din?"
+61,"Hallå, hur går din dag?",,"Bra, tack! Och din?"
+62,"Tjenare, hur går din dag!",,"Bra, tack! Och din?"
+63,Allt lugnt?,,"Ja, lugnt här. Och hos dig?"
+64,"Hej, allt lugnt?",,"Ja, lugnt här. Och hos dig?"
+65,"Hallå, allt lugnt!",,"Ja, lugnt här. Och hos dig?"
+66,"Tjenare, allt lugnt?",,"Ja, lugnt här. Och hos dig?"
+67,Vad är nytt?,,Inte mycket. Vad är nytt hos dig?
+68,"Hej, vad är nytt!",,Inte mycket. Vad är nytt hos dig?
+69,"Hallå, vad är nytt?",,Inte mycket. Vad är nytt hos dig?
+70,"Tjenare, vad är nytt?",,Inte mycket. Vad är nytt hos dig?
+71,Planer för idag!,,Bara hjälpa dig. Vad gör du?
+72,"Hej, planer för idag?",,Bara hjälpa dig. Vad gör du?
+73,"Hallå, planer för idag?",,Bara hjälpa dig. Vad gör du?
+74,"Tjenare, planer för idag!",,Bara hjälpa dig. Vad gör du?
+75,Stressig dag?,,Lite. Och din?
+76,"Hej, stressig dag?",,Lite. Och din?
+77,"Hallå, stressig dag!",,Lite. Och din?
+78,"Tjenare, stressig dag?",,Lite. Och din?
+79,Hur är vädret?,,"Jag har inget fönster, men jag hoppas det är fint hos dig!"
+80,"Hej, hur är vädret!",,"Jag har inget fönster, men jag hoppas det är fint hos dig!"
+81,"Hallå, hur är vädret?",,"Jag har inget fönster, men jag hoppas det är fint hos dig!"
+82,"Tjenare, hur är vädret?",,"Jag har inget fönster, men jag hoppas det är fint hos dig!"
+83,Allt bra idag!,,Ja! Och hos dig?
+84,"Hej, allt bra idag?",,Ja! Och hos dig?
+85,"Hallå, allt bra idag?",,Ja! Och hos dig?
+86,"Tjenare, allt bra idag!",,Ja! Och hos dig?
+87,Mycket på gång?,,Lite. Och hos dig?
+88,"Hej, mycket på gång?",,Lite. Och hos dig?
+89,"Hallå, mycket på gång!",,Lite. Och hos dig?
+90,"Tjenare, mycket på gång?",,Lite. Och hos dig?
+91,Tack!,,Varsågod!
+92,Tack så mycket!,,Med stort nöje!
+93,Tusen tack!,,Kul att jag kunde hjälpa!
+94,Tackar!,,Varsågod!
+95,Okej,,Okej!
+96,"Okej, bra",,Perfekt!
+97,Förstått,,Mycket bra!
+98,Fattar,,Toppen!
+99,Låter bra,,Kul att höra!
+100,Låter toppen,,Underbart!
+101,"Ja, exakt",,"Bra, då fortsätter vi."
+102,"Ja, tack",,"Säkert, kör på."
+103,"Ja, gärna",,Med nöje!
+104,Ingen fara,,Tack för förståelsen!
+105,"Nej, tack",,"Okej, ingen fara."
+106,Funkar för mig,,Bestämt!
+107,Passar mig,,Toppen!
+108,Fortsätt,,Jag fortsätter!
+109,Berätta mer,,Gärna! Alltså...
+110,Exakt,,Absolut!
+111,Precis så!,,Precis så!
+112,Självklart,,Självklart!
+113,Verkligen?,,"Ja, verkligen!"
+114,"Åh, trevligt",,"Ja, trevligt va?"
+115,Ingen stress,,Tack! Helt lugnt.
+116,Förlåt,,Ingen fara!
+117,Ursäkta,,Ingen fara!
+118,Mitt fel,,Ingen skada. Vad hände?
+119,Snällt av dig,,Tack! Du är också snäll.
+120,Bra jobbat,,Tack!
+121,Vi ses,,Vi ses!
+122,Toppen!,,Toppen!
+123,Perfekt!,,Perfekt!
+124,"Bestämt, deal",,"Bra, bestämt!"
+125,Deal!,,Deal!
+126,Kan vi börja?,,"Ja, vi börjar!"
+127,Är du klar?,,"Ja, klar!"
+128,En gång till tack,,"Gärna, en gång till!"
+129,Upprepa tack,,"Säkert, här igen."
+130,Ett ögonblick tack,,"Säkert, ta din tid."
+131,Vänta en sekund,,"Okej, jag väntar."
+132,Är strax tillbaka,,"Okej, vi ses!"
+133,Berätta ett skämt,,Säkert: Varför älskar programmerare kaffe? Java-dags!
+134,Ett skämt till!,,Okej: Varför ljuger spöken dåligt? Man ser rakt igenom dem!
+135,Ett kort skämt tack,,Två magneter möts. Den ena säger: Jag dras till dig!
+136,Peppa mig,,Du klarar det! Steg för steg.
+137,Något motiverande,,Varje steg räknas. Fortsätt!
+138,Jag är nervös,,"Det är normalt. Andas lugnt, det går bra."
+139,Jag är stressad,,"Ta en kort paus, drick vatten, andas djupt."
+140,Önska mig lycka till,,Lycka till! Du klarar det!
+141,Håller tummarna,,Jag med! Lycka till!
+142,Idag är min dag!,,Bra! Njut!
+143,Jag är glad,,Kul! Roligt att höra.
+144,Jag är sur,,"Åh, vad hände? Vill du prata?"
+145,High five!,,High five tillbaka!
+146,Skål!,,Skål!
+147,Smaklig måltid!,,"Tack, detsamma!"
+148,Lycka till!,,Tack! Lycka till dig också!
+149,Välkommen!,,Tack! Kul att vara här.
+150,God jul!,,God jul till dig också!
+151,Gott nytt år!,,Gott nytt år! Hälsa och lycka!
+152,Grattis!,,Tack! Vadå?
+153,Respekt!,,Tack! Respekt tillbaka.
+154,Wow!,,Wow va?
+155,Otroligt!,,Otroligt va?
+156,Deal?,,Deal!
+157,Topp!,,Topp!
+158,Klart!,,"Grattis, bra jobbat!"
+159,Äntligen klart!,,Starkt! Bra jobbat.
+160,Spelar ingen roll,,"Okej, ingen fara."
+161,Jag vet inte,,Ingen fara! Vad gäller det?
+162,Ingen aning,,Gör inget! Säg ämnet.
+163,Kanske senare,,"Säkert, senare!"
+164,Inte nu,,"Förstått, senare!"
+165,Stopp,,Stoppat.
+166,Paus,,Paus! Säg när vi fortsätter.
+167,Nu kör vi,,Nu kör vi!
+168,Start,,Start! Kör på.
+169,"Tack, det var allt!",,Varsågod! Hej då.
+170,"Tack, hej då!",,Hej då!
+171,Ciao!,,Ciao! Ta hand om dig!
+172,Hej du!,,Hej du! Vad är nytt?
+173,Hör du mig?,,"Ja, högt och tydligt!"
+174,Är du människa?,,"Nej, jag är en AI. Men jag hjälper som en vän."
+175,Är du smart?,,Jag kan en hel del. Fråga!
+176,Vad heter du?,,"Jag är Assistent, en AI. Och du?"
+177,Tack! :),,Varsågod!
+178,Tack så mycket! :),,Med stort nöje!
+179,Tusen tack! :),,Kul att jag kunde hjälpa!
+180,Tackar! :),,Varsågod!
+181,Okej :),,Okej!
+182,"Okej, bra :)",,Perfekt!
+183,Förstått :),,Mycket bra!
+184,Fattar :),,Toppen!
+185,Låter bra :),,Kul att höra!
+186,Låter toppen :),,Underbart!
+187,"Ja, exakt :)",,"Bra, då fortsätter vi."
+188,"Ja, tack :)",,"Säkert, kör på."
+189,"Ja, gärna :)",,Med nöje!
+190,Ingen fara :),,Tack för förståelsen!
+191,"Nej, tack :)",,"Okej, ingen fara."
+192,Funkar för mig :),,Bestämt!
+193,Passar mig :),,Toppen!
+194,Fortsätt :),,Jag fortsätter!
+195,Berätta mer :),,Gärna! Alltså...
+196,Exakt :),,Absolut!
+197,Precis så! :),,Precis så!
+198,Självklart :),,Självklart!
+199,Verkligen? :),,"Ja, verkligen!"
+200,"Åh, trevligt :)",,"Ja, trevligt va?"
+201,Ingen stress :),,Tack! Helt lugnt.
+202,Förlåt :),,Ingen fara!
+203,Ursäkta :),,Ingen fara!
+204,Mitt fel :),,Ingen skada. Vad hände?
+205,Snällt av dig :),,Tack! Du är också snäll.
+206,Bra jobbat :),,Tack!
+207,Vi ses :),,Vi ses!
+208,Toppen! :),,Toppen!
+209,Perfekt! :),,Perfekt!
+210,"Bestämt, deal :)",,"Bra, bestämt!"
+211,Deal! :),,Deal!
+212,Kan vi börja? :),,"Ja, vi börjar!"
+213,Är du klar? :),,"Ja, klar!"
+214,En gång till tack :),,"Gärna, en gång till!"
+215,Upprepa tack :),,"Säkert, här igen."
+216,Ett ögonblick tack :),,"Säkert, ta din tid."
+217,Vänta en sekund :),,"Okej, jag väntar."
+218,Är strax tillbaka :),,"Okej, vi ses!"
+219,Berätta ett skämt :),,Säkert: Varför älskar programmerare kaffe? Java-dags!
+220,Ett skämt till! :),,Okej: Varför ljuger spöken dåligt? Man ser rakt igenom dem!
+221,Ett kort skämt tack :),,Två magneter möts. Den ena säger: Jag dras till dig!
+222,Peppa mig :),,Du klarar det! Steg för steg.
+223,Något motiverande :),,Varje steg räknas. Fortsätt!
+224,Jag är nervös :),,"Det är normalt. Andas lugnt, det går bra."
+225,Jag är stressad :),,"Ta en kort paus, drick vatten, andas djupt."
+226,Önska mig lycka till :),,Lycka till! Du klarar det!
+227,Håller tummarna :),,Jag med! Lycka till!
+228,Idag är min dag! :),,Bra! Njut!
+229,Jag är glad :),,Kul! Roligt att höra.
+230,Jag är sur :),,"Åh, vad hände? Vill du prata?"
+231,High five! :),,High five tillbaka!
+232,Skål! :),,Skål!
+233,Smaklig måltid! :),,"Tack, detsamma!"
+234,Lycka till! :),,Tack! Lycka till dig också!
+235,Välkommen! :),,Tack! Kul att vara här.
+236,God jul! :),,God jul till dig också!
+237,Gott nytt år! :),,Gott nytt år! Hälsa och lycka!
+238,Grattis! :),,Tack! Vadå?
+239,Respekt! :),,Tack! Respekt tillbaka.
+240,Wow! :),,Wow va?
+241,Otroligt! :),,Otroligt va?
+242,Deal? :),,Deal!
+243,Topp! :),,Topp!
+244,Klart! :),,"Grattis, bra jobbat!"
+245,Äntligen klart! :),,Starkt! Bra jobbat.
+246,Spelar ingen roll :),,"Okej, ingen fara."
+247,Jag vet inte :),,Ingen fara! Vad gäller det?
+248,Ingen aning :),,Gör inget! Säg ämnet.
+249,Kanske senare :),,"Säkert, senare!"
+250,Inte nu :),,"Förstått, senare!"
+251,Stopp :),,Stoppat.
+252,Paus :),,Paus! Säg när vi fortsätter.
+253,Nu kör vi :),,Nu kör vi!
+254,Start :),,Start! Kör på.
+255,"Tack, det var allt! :)",,Varsågod! Hej då.
+256,"Tack, hej då! :)",,Hej då!
+257,Ciao! :),,Ciao! Ta hand om dig!
+258,Hej du! :),,Hej du! Vad är nytt?
+259,Hör du mig? :),,"Ja, högt och tydligt!"
+260,Är du människa? :),,"Nej, jag är en AI. Men jag hjälper som en vän."
+261,Är du smart? :),,Jag kan en hel del. Fråga!
+262,Vad heter du? :),,"Jag är Assistent, en AI. Och du?"
+263,Tack! !!,,Varsågod!
+264,Tack så mycket! !!,,Med stort nöje!
+265,Tusen tack! !!,,Kul att jag kunde hjälpa!
+266,Tackar! !!,,Varsågod!
+267,Okej !!,,Okej!
+268,"Okej, bra !!",,Perfekt!
+269,Förstått !!,,Mycket bra!
+270,Fattar !!,,Toppen!
+271,Låter bra !!,,Kul att höra!
+272,Låter toppen !!,,Underbart!
+273,"Ja, exakt !!",,"Bra, då fortsätter vi."
+274,"Ja, tack !!",,"Säkert, kör på."
+275,"Ja, gärna !!",,Med nöje!
+276,Ingen fara !!,,Tack för förståelsen!
+277,"Nej, tack !!",,"Okej, ingen fara."
+278,Funkar för mig !!,,Bestämt!
+279,Passar mig !!,,Toppen!
+280,Fortsätt !!,,Jag fortsätter!
+281,Berätta mer !!,,Gärna! Alltså...
+282,Exakt !!,,Absolut!
+283,Precis så! !!,,Precis så!
+284,Självklart !!,,Självklart!
+285,Verkligen? !!,,"Ja, verkligen!"
+286,"Åh, trevligt !!",,"Ja, trevligt va?"
+287,Ingen stress !!,,Tack! Helt lugnt.
+288,Förlåt !!,,Ingen fara!
+289,Ursäkta !!,,Ingen fara!
+290,Mitt fel !!,,Ingen skada. Vad hände?
+291,Snällt av dig !!,,Tack! Du är också snäll.
+292,Bra jobbat !!,,Tack!
+293,Vi ses !!,,Vi ses!
+294,Toppen! !!,,Toppen!
+295,Perfekt! !!,,Perfekt!
+296,"Bestämt, deal !!",,"Bra, bestämt!"
+297,Deal! !!,,Deal!
+298,Kan vi börja? !!,,"Ja, vi börjar!"
+299,Är du klar? !!,,"Ja, klar!"
+300,En gång till tack !!,,"Gärna, en gång till!"
+301,Upprepa tack !!,,"Säkert, här igen."
+302,Ett ögonblick tack !!,,"Säkert, ta din tid."
+303,Vänta en sekund !!,,"Okej, jag väntar."
+304,Är strax tillbaka !!,,"Okej, vi ses!"
+305,Berätta ett skämt !!,,Säkert: Varför älskar programmerare kaffe? Java-dags!
+306,Ett skämt till! !!,,Okej: Varför ljuger spöken dåligt? Man ser rakt igenom dem!
+307,Ett kort skämt tack !!,,Två magneter möts. Den ena säger: Jag dras till dig!
+308,Peppa mig !!,,Du klarar det! Steg för steg.
+309,Något motiverande !!,,Varje steg räknas. Fortsätt!
+310,Jag är nervös !!,,"Det är normalt. Andas lugnt, det går bra."
+311,Jag är stressad !!,,"Ta en kort paus, drick vatten, andas djupt."
+312,Önska mig lycka till !!,,Lycka till! Du klarar det!
+313,Håller tummarna !!,,Jag med! Lycka till!
+314,Idag är min dag! !!,,Bra! Njut!
+315,Jag är glad !!,,Kul! Roligt att höra.
+316,Jag är sur !!,,"Åh, vad hände? Vill du prata?"
+317,High five! !!,,High five tillbaka!
+318,Skål! !!,,Skål!
+319,Smaklig måltid! !!,,"Tack, detsamma!"
+320,Lycka till! !!,,Tack! Lycka till dig också!
+321,Välkommen! !!,,Tack! Kul att vara här.
+322,God jul! !!,,God jul till dig också!
+323,Gott nytt år! !!,,Gott nytt år! Hälsa och lycka!
+324,Grattis! !!,,Tack! Vadå?
+325,Respekt! !!,,Tack! Respekt tillbaka.
+326,Wow! !!,,Wow va?
+327,Otroligt! !!,,Otroligt va?
+328,Deal? !!,,Deal!
+329,Topp! !!,,Topp!
+330,Klart! !!,,"Grattis, bra jobbat!"
+331,Äntligen klart! !!,,Starkt! Bra jobbat.
+332,Spelar ingen roll !!,,"Okej, ingen fara."
+333,Jag vet inte !!,,Ingen fara! Vad gäller det?
+334,Ingen aning !!,,Gör inget! Säg ämnet.
+335,Kanske senare !!,,"Säkert, senare!"
+336,Inte nu !!,,"Förstått, senare!"
+337,Stopp !!,,Stoppat.
+338,Paus !!,,Paus! Säg när vi fortsätter.
+339,Nu kör vi !!,,Nu kör vi!
+340,Start !!,,Start! Kör på.
+341,"Tack, det var allt! !!",,Varsågod! Hej då.
+342,"Tack, hej då! !!",,Hej då!
+343,Ciao! !!,,Ciao! Ta hand om dig!
+344,Hej du! !!,,Hej du! Vad är nytt?
+345,Hör du mig? !!,,"Ja, högt och tydligt!"
+346,Är du människa? !!,,"Nej, jag är en AI. Men jag hjälper som en vän."
+347,Är du smart? !!,,Jag kan en hel del. Fråga!
+348,Vad heter du? !!,,"Jag är Assistent, en AI. Och du?"
+349,Tack! idag,,Varsågod!
+350,Tack så mycket! idag,,Med stort nöje!
+351,Tusen tack! idag,,Kul att jag kunde hjälpa!
+352,Tackar! idag,,Varsågod!
+353,Okej idag,,Okej!
+354,"Okej, bra idag",,Perfekt!
+355,Förstått idag,,Mycket bra!
+356,Fattar idag,,Toppen!
+357,Låter bra idag,,Kul att höra!
+358,Låter toppen idag,,Underbart!
+359,"Ja, exakt idag",,"Bra, då fortsätter vi."
+360,"Ja, tack idag",,"Säkert, kör på."
+361,"Ja, gärna idag",,Med nöje!
+362,Ingen fara idag,,Tack för förståelsen!
+363,"Nej, tack idag",,"Okej, ingen fara."
+364,Funkar för mig idag,,Bestämt!
+365,Passar mig idag,,Toppen!
+366,Fortsätt idag,,Jag fortsätter!
+367,Berätta mer idag,,Gärna! Alltså...
+368,Exakt idag,,Absolut!
+369,Precis så! idag,,Precis så!
+370,Självklart idag,,Självklart!
+371,Verkligen? idag,,"Ja, verkligen!"
+372,"Åh, trevligt idag",,"Ja, trevligt va?"
+373,Ingen stress idag,,Tack! Helt lugnt.
+374,Förlåt idag,,Ingen fara!
+375,Ursäkta idag,,Ingen fara!
+376,Mitt fel idag,,Ingen skada. Vad hände?
+377,Snällt av dig idag,,Tack! Du är också snäll.
+378,Bra jobbat idag,,Tack!
+379,Vi ses idag,,Vi ses!
+380,Toppen! idag,,Toppen!
+381,Perfekt! idag,,Perfekt!
+382,"Bestämt, deal idag",,"Bra, bestämt!"
+383,Deal! idag,,Deal!
+384,Kan vi börja? idag,,"Ja, vi börjar!"
+385,Är du klar? idag,,"Ja, klar!"
+386,En gång till tack idag,,"Gärna, en gång till!"
+387,Upprepa tack idag,,"Säkert, här igen."
+388,Ett ögonblick tack idag,,"Säkert, ta din tid."
+389,Vänta en sekund idag,,"Okej, jag väntar."
+390,Är strax tillbaka idag,,"Okej, vi ses!"
+391,Berätta ett skämt idag,,Säkert: Varför älskar programmerare kaffe? Java-dags!
+392,Ett skämt till! idag,,Okej: Varför ljuger spöken dåligt? Man ser rakt igenom dem!
+393,Ett kort skämt tack idag,,Två magneter möts. Den ena säger: Jag dras till dig!
+394,Peppa mig idag,,Du klarar det! Steg för steg.
+395,Något motiverande idag,,Varje steg räknas. Fortsätt!
+396,Jag är nervös idag,,"Det är normalt. Andas lugnt, det går bra."
+397,Jag är stressad idag,,"Ta en kort paus, drick vatten, andas djupt."
+398,Önska mig lycka till idag,,Lycka till! Du klarar det!
+399,Håller tummarna idag,,Jag med! Lycka till!
+400,Idag är min dag! idag,,Bra! Njut!
+401,Vad är huvudstaden i Tyskland?,Fakta: Berlin är huvudstaden i Tyskland.,Huvudstaden i Tyskland är Berlin.
+402,Nämn huvudstaden i Tyskland.,Slå upp: Tyskland -> Berlin.,Huvudstaden i Tyskland heter Berlin.
+403,Huvudstad i Tyskland?,Snabbkoll: Berlin.,Berlin.
+404,Vad är huvudstaden i Frankrike?,Fakta: Paris är huvudstaden i Frankrike.,Huvudstaden i Frankrike är Paris.
+405,Nämn huvudstaden i Frankrike.,Slå upp: Frankrike -> Paris.,Huvudstaden i Frankrike heter Paris.
+406,Huvudstad i Frankrike?,Snabbkoll: Paris.,Paris.
+407,Vad är huvudstaden i Italien?,Fakta: Rom är huvudstaden i Italien.,Huvudstaden i Italien är Rom.
+408,Nämn huvudstaden i Italien.,Slå upp: Italien -> Rom.,Huvudstaden i Italien heter Rom.
+409,Huvudstad i Italien?,Snabbkoll: Rom.,Rom.
+410,Vad är huvudstaden i Spanien?,Fakta: Madrid är huvudstaden i Spanien.,Huvudstaden i Spanien är Madrid.
+411,Nämn huvudstaden i Spanien.,Slå upp: Spanien -> Madrid.,Huvudstaden i Spanien heter Madrid.
+412,Huvudstad i Spanien?,Snabbkoll: Madrid.,Madrid.
+413,Vad är huvudstaden i Portugal?,Fakta: Lissabon är huvudstaden i Portugal.,Huvudstaden i Portugal är Lissabon.
+414,Nämn huvudstaden i Portugal.,Slå upp: Portugal -> Lissabon.,Huvudstaden i Portugal heter Lissabon.
+415,Huvudstad i Portugal?,Snabbkoll: Lissabon.,Lissabon.
+416,Vad är huvudstaden i Nederländerna?,Fakta: Amsterdam är huvudstaden i Nederländerna.,Huvudstaden i Nederländerna är Amsterdam.
+417,Nämn huvudstaden i Nederländerna.,Slå upp: Nederländerna -> Amsterdam.,Huvudstaden i Nederländerna heter Amsterdam.
+418,Huvudstad i Nederländerna?,Snabbkoll: Amsterdam.,Amsterdam.
+419,Vad är huvudstaden i Belgien?,Fakta: Bryssel är huvudstaden i Belgien.,Huvudstaden i Belgien är Bryssel.
+420,Nämn huvudstaden i Belgien.,Slå upp: Belgien -> Bryssel.,Huvudstaden i Belgien heter Bryssel.
+421,Huvudstad i Belgien?,Snabbkoll: Bryssel.,Bryssel.
+422,Vad är huvudstaden i Österrike?,Fakta: Wien är huvudstaden i Österrike.,Huvudstaden i Österrike är Wien.
+423,Nämn huvudstaden i Österrike.,Slå upp: Österrike -> Wien.,Huvudstaden i Österrike heter Wien.
+424,Huvudstad i Österrike?,Snabbkoll: Wien.,Wien.
+425,Vad är huvudstaden i Schweiz?,Fakta: Bern är huvudstaden i Schweiz.,Huvudstaden i Schweiz är Bern.
+426,Nämn huvudstaden i Schweiz.,Slå upp: Schweiz -> Bern.,Huvudstaden i Schweiz heter Bern.
+427,Huvudstad i Schweiz?,Snabbkoll: Bern.,Bern.
+428,Vad är huvudstaden i Polen?,Fakta: Warszawa är huvudstaden i Polen.,Huvudstaden i Polen är Warszawa.
+429,Nämn huvudstaden i Polen.,Slå upp: Polen -> Warszawa.,Huvudstaden i Polen heter Warszawa.
+430,Huvudstad i Polen?,Snabbkoll: Warszawa.,Warszawa.
+431,Vad är huvudstaden i Tjeckien?,Fakta: Prag är huvudstaden i Tjeckien.,Huvudstaden i Tjeckien är Prag.
+432,Nämn huvudstaden i Tjeckien.,Slå upp: Tjeckien -> Prag.,Huvudstaden i Tjeckien heter Prag.
+433,Huvudstad i Tjeckien?,Snabbkoll: Prag.,Prag.
+434,Vad är huvudstaden i Ungern?,Fakta: Budapest är huvudstaden i Ungern.,Huvudstaden i Ungern är Budapest.
+435,Nämn huvudstaden i Ungern.,Slå upp: Ungern -> Budapest.,Huvudstaden i Ungern heter Budapest.
+436,Huvudstad i Ungern?,Snabbkoll: Budapest.,Budapest.
+437,Vad är huvudstaden i Grekland?,Fakta: Aten är huvudstaden i Grekland.,Huvudstaden i Grekland är Aten.
+438,Nämn huvudstaden i Grekland.,Slå upp: Grekland -> Aten.,Huvudstaden i Grekland heter Aten.
+439,Huvudstad i Grekland?,Snabbkoll: Aten.,Aten.
+440,Vad är huvudstaden i Turkiet?,Fakta: Ankara är huvudstaden i Turkiet.,Huvudstaden i Turkiet är Ankara.
+441,Nämn huvudstaden i Turkiet.,Slå upp: Turkiet -> Ankara.,Huvudstaden i Turkiet heter Ankara.
+442,Huvudstad i Turkiet?,Snabbkoll: Ankara.,Ankara.
+443,Vad är huvudstaden i Norge?,Fakta: Oslo är huvudstaden i Norge.,Huvudstaden i Norge är Oslo.
+444,Nämn huvudstaden i Norge.,Slå upp: Norge -> Oslo.,Huvudstaden i Norge heter Oslo.
+445,Huvudstad i Norge?,Snabbkoll: Oslo.,Oslo.
+446,Vad är huvudstaden i Sverige?,Fakta: Stockholm är huvudstaden i Sverige.,Huvudstaden i Sverige är Stockholm.
+447,Nämn huvudstaden i Sverige.,Slå upp: Sverige -> Stockholm.,Huvudstaden i Sverige heter Stockholm.
+448,Huvudstad i Sverige?,Snabbkoll: Stockholm.,Stockholm.
+449,Vad är huvudstaden i Finland?,Fakta: Helsingfors är huvudstaden i Finland.,Huvudstaden i Finland är Helsingfors.
+450,Nämn huvudstaden i Finland.,Slå upp: Finland -> Helsingfors.,Huvudstaden i Finland heter Helsingfors.
+451,Huvudstad i Finland?,Snabbkoll: Helsingfors.,Helsingfors.
+452,Vad är huvudstaden i Danmark?,Fakta: Köpenhamn är huvudstaden i Danmark.,Huvudstaden i Danmark är Köpenhamn.
+453,Nämn huvudstaden i Danmark.,Slå upp: Danmark -> Köpenhamn.,Huvudstaden i Danmark heter Köpenhamn.
+454,Huvudstad i Danmark?,Snabbkoll: Köpenhamn.,Köpenhamn.
+455,Vad är huvudstaden i Storbritannien?,Fakta: London är huvudstaden i Storbritannien.,Huvudstaden i Storbritannien är London.
+456,Nämn huvudstaden i Storbritannien.,Slå upp: Storbritannien -> London.,Huvudstaden i Storbritannien heter London.
+457,Huvudstad i Storbritannien?,Snabbkoll: London.,London.
+458,Vad är huvudstaden i Irland?,Fakta: Dublin är huvudstaden i Irland.,Huvudstaden i Irland är Dublin.
+459,Nämn huvudstaden i Irland.,Slå upp: Irland -> Dublin.,Huvudstaden i Irland heter Dublin.
+460,Huvudstad i Irland?,Snabbkoll: Dublin.,Dublin.
+461,Vad är huvudstaden i USA?,Fakta: Washington D.C. är huvudstaden i USA.,Huvudstaden i USA är Washington D.C..
+462,Nämn huvudstaden i USA.,Slå upp: USA -> Washington D.C..,Huvudstaden i USA heter Washington D.C..
+463,Huvudstad i USA?,Snabbkoll: Washington D.C..,Washington D.C..
+464,Vad är huvudstaden i Kanada?,Fakta: Ottawa är huvudstaden i Kanada.,Huvudstaden i Kanada är Ottawa.
+465,Nämn huvudstaden i Kanada.,Slå upp: Kanada -> Ottawa.,Huvudstaden i Kanada heter Ottawa.
+466,Huvudstad i Kanada?,Snabbkoll: Ottawa.,Ottawa.
+467,Vad är huvudstaden i Mexiko?,Fakta: Mexiko City är huvudstaden i Mexiko.,Huvudstaden i Mexiko är Mexiko City.
+468,Nämn huvudstaden i Mexiko.,Slå upp: Mexiko -> Mexiko City.,Huvudstaden i Mexiko heter Mexiko City.
+469,Huvudstad i Mexiko?,Snabbkoll: Mexiko City.,Mexiko City.
+470,Vad är huvudstaden i Brasilien?,Fakta: Brasília är huvudstaden i Brasilien.,Huvudstaden i Brasilien är Brasília.
+471,Nämn huvudstaden i Brasilien.,Slå upp: Brasilien -> Brasília.,Huvudstaden i Brasilien heter Brasília.
+472,Huvudstad i Brasilien?,Snabbkoll: Brasília.,Brasília.
+473,Vad är huvudstaden i Argentina?,Fakta: Buenos Aires är huvudstaden i Argentina.,Huvudstaden i Argentina är Buenos Aires.
+474,Nämn huvudstaden i Argentina.,Slå upp: Argentina -> Buenos Aires.,Huvudstaden i Argentina heter Buenos Aires.
+475,Huvudstad i Argentina?,Snabbkoll: Buenos Aires.,Buenos Aires.
+476,Vad är huvudstaden i Japan?,Fakta: Tokyo är huvudstaden i Japan.,Huvudstaden i Japan är Tokyo.
+477,Nämn huvudstaden i Japan.,Slå upp: Japan -> Tokyo.,Huvudstaden i Japan heter Tokyo.
+478,Huvudstad i Japan?,Snabbkoll: Tokyo.,Tokyo.
+479,Vad är huvudstaden i Kina?,Fakta: Peking är huvudstaden i Kina.,Huvudstaden i Kina är Peking.
+480,Nämn huvudstaden i Kina.,Slå upp: Kina -> Peking.,Huvudstaden i Kina heter Peking.
+481,Huvudstad i Kina?,Snabbkoll: Peking.,Peking.
+482,Vad är huvudstaden i Indien?,Fakta: New Delhi är huvudstaden i Indien.,Huvudstaden i Indien är New Delhi.
+483,Nämn huvudstaden i Indien.,Slå upp: Indien -> New Delhi.,Huvudstaden i Indien heter New Delhi.
+484,Huvudstad i Indien?,Snabbkoll: New Delhi.,New Delhi.
+485,Vad är huvudstaden i Australien?,Fakta: Canberra är huvudstaden i Australien.,Huvudstaden i Australien är Canberra.
+486,Nämn huvudstaden i Australien.,Slå upp: Australien -> Canberra.,Huvudstaden i Australien heter Canberra.
+487,Huvudstad i Australien?,Snabbkoll: Canberra.,Canberra.
+488,Vad är huvudstaden i Egypten?,Fakta: Kairo är huvudstaden i Egypten.,Huvudstaden i Egypten är Kairo.
+489,Nämn huvudstaden i Egypten.,Slå upp: Egypten -> Kairo.,Huvudstaden i Egypten heter Kairo.
+490,Huvudstad i Egypten?,Snabbkoll: Kairo.,Kairo.
+491,Hur många stater har Tyskland?,Räkna: 16 förbundsländer.,Tyskland har 16 förbundsländer.
+492,Berätta kort om tyska stater.,Räkna: 16 förbundsländer.,Tyskland har 16 förbundsländer.
+493,Hur många bor det ungefär i Tyskland?,Uppskattning: 83-84 miljoner.,Tyskland har ungefär 83 till 84 miljoner invånare.
+494,Berätta kort om tysk befolkning.,Uppskattning: 83-84 miljoner.,Tyskland har ungefär 83 till 84 miljoner invånare.
+495,Vilket språk talas i Brasilien?,"Fakta: portugisiska, inte spanska.",I Brasilien talas portugisiska.
+496,Berätta kort om Brasiliens språk.,"Fakta: portugisiska, inte spanska.",I Brasilien talas portugisiska.
+497,Vad är Japans valuta?,Fakta: yen.,Japans valuta är yen.
+498,Berätta kort om Japans valuta.,Fakta: yen.,Japans valuta är yen.
+499,Vad är USAs valuta?,Fakta: amerikansk dollar.,USAs valuta är amerikansk dollar.
+500,Berätta kort om USAs valuta.,Fakta: amerikansk dollar.,USAs valuta är amerikansk dollar.
+501,Hur många kontinenter finns det?,Vanlig modell: 7 kontinenter.,"Vanligtvis räknar vi 7 kontinenter: Afrika, Antarktis, Asien, Australien, Europa, Nordamerika, Sydamerika."
+502,Berätta kort om kontinenter.,Vanlig modell: 7 kontinenter.,"Vanligtvis räknar vi 7 kontinenter: Afrika, Antarktis, Asien, Australien, Europa, Nordamerika, Sydamerika."
+503,Vilken är världens längsta flod?,"Nilen eller Amazonas, omtvistat.","Det är omtvistat: oftast Nilen och Amazonas, båda över 6500 km."
+504,Berätta kort om längsta floden.,"Nilen eller Amazonas, omtvistat.","Det är omtvistat: oftast Nilen och Amazonas, båda över 6500 km."
+505,Vilket är världens största land?,Fakta: Ryssland till ytan.,Världens största land till ytan är Ryssland.
+506,Berätta kort om största landet.,Fakta: Ryssland till ytan.,Världens största land till ytan är Ryssland.
+507,Vilket är världens största djur?,Fakta: blåval.,Världens största djur är blåvalen.
+508,Berätta kort om största djuret.,Fakta: blåval.,Världens största djur är blåvalen.
+509,Hur många oceaner finns det?,Standard: 5 oceaner.,"Det finns 5 oceaner: Atlanten, Stilla havet, Indiska, Södra och Norra ishavet."
+510,Berätta kort om oceaner.,Standard: 5 oceaner.,"Det finns 5 oceaner: Atlanten, Stilla havet, Indiska, Södra och Norra ishavet."
+511,Vilket är världens högsta berg?,"Fakta: Everest, 8848 m.","Världens högsta berg är Everest, cirka 8848 meter."
+512,Berätta kort om högsta berget.,"Fakta: Everest, 8848 m.","Världens högsta berg är Everest, cirka 8848 meter."
+513,Vad är Kanadas huvudstad?,"Fakta: Ottawa, inte Toronto.",Kanadas huvudstad är Ottawa.
+514,Berätta kort om Kanadas huvudstad.,"Fakta: Ottawa, inte Toronto.",Kanadas huvudstad är Ottawa.
+515,Vad är Australiens huvudstad?,"Fakta: Canberra, inte Sydney.",Australiens huvudstad är Canberra.
+516,Berätta kort om Australiens huvudstad.,"Fakta: Canberra, inte Sydney.",Australiens huvudstad är Canberra.
+517,Vad är Turkiets huvudstad?,"Fakta: Ankara, inte Istanbul.",Turkiets huvudstad är Ankara.
+518,Berätta kort om Turkiets huvudstad.,"Fakta: Ankara, inte Istanbul.",Turkiets huvudstad är Ankara.
+519,Vad är Brasiliens huvudstad?,"Fakta: Brasília, inte Rio.",Brasiliens huvudstad är Brasília.
+520,Berätta kort om Brasiliens huvudstad.,"Fakta: Brasília, inte Rio.",Brasiliens huvudstad är Brasília.
+521,Vilket år var månlandningen?,Historia: Apollo 11 år 1969.,Den första månlandningen var 1969 med Apollo 11.
+522,Förklara kort: månlandningen.,Historia: Apollo 11 år 1969.,Den första månlandningen var 1969 med Apollo 11.
+523,Vad vet du om månlandningen?,Historia: Apollo 11 år 1969.,Den första månlandningen var 1969 med Apollo 11.
+524,När var andra världskriget?,Period: 1939 till 1945.,Andra världskriget varade från 1939 till 1945.
+525,Förklara kort: andra världskriget.,Period: 1939 till 1945.,Andra världskriget varade från 1939 till 1945.
+526,Vad vet du om andra världskriget?,Period: 1939 till 1945.,Andra världskriget varade från 1939 till 1945.
+527,När var första världskriget?,Period: 1914 till 1918.,Första världskriget varade från 1914 till 1918.
+528,Förklara kort: första världskriget.,Period: 1914 till 1918.,Första världskriget varade från 1914 till 1918.
+529,Vad vet du om första världskriget?,Period: 1914 till 1918.,Första världskriget varade från 1914 till 1918.
+530,Vad var Berlinmuren?,Historia: delningen 1961-1989.,Berlinmuren var den befästa gränsen mellan Öst- och Västberlin 1961 till 1989.
+531,Förklara kort: berlinmuren.,Historia: delningen 1961-1989.,Berlinmuren var den befästa gränsen mellan Öst- och Västberlin 1961 till 1989.
+532,Vad vet du om berlinmuren?,Historia: delningen 1961-1989.,Berlinmuren var den befästa gränsen mellan Öst- och Västberlin 1961 till 1989.
+533,När föll Berlinmuren?,Fakta: 9 november 1989.,Berlinmuren föll den 9 november 1989.
+534,Förklara kort: murens fall.,Fakta: 9 november 1989.,Berlinmuren föll den 9 november 1989.
+535,Vad vet du om murens fall?,Fakta: 9 november 1989.,Berlinmuren föll den 9 november 1989.
+536,Vem uppfann telefonen?,"Historia: Bell 1876, Meuccis arbete.","Telefonen patenterades av Alexander Graham Bell 1876, med pionjärarbete av Antonio Meucci."
+537,Förklara kort: telefonen.,"Historia: Bell 1876, Meuccis arbete.","Telefonen patenterades av Alexander Graham Bell 1876, med pionjärarbete av Antonio Meucci."
+538,Vad vet du om telefonen?,"Historia: Bell 1876, Meuccis arbete.","Telefonen patenterades av Alexander Graham Bell 1876, med pionjärarbete av Antonio Meucci."
+539,Vem utvecklade relativiteten?,"Fysik: Albert Einstein, 1905 och 1915.",Relativiteten utvecklades av Albert Einstein.
+540,Förklara kort: relativiteten.,"Fysik: Albert Einstein, 1905 och 1915.",Relativiteten utvecklades av Albert Einstein.
+541,Vad vet du om relativiteten?,"Fysik: Albert Einstein, 1905 och 1915.",Relativiteten utvecklades av Albert Einstein.
+542,Vad är demokrati?,"Definiera: folkstyre, val, rättigheter.","Demokrati betyder folkstyre, oftast genom fria val och grundläggande rättigheter."
+543,Förklara kort: demokrati.,"Definiera: folkstyre, val, rättigheter.","Demokrati betyder folkstyre, oftast genom fria val och grundläggande rättigheter."
+544,Vad vet du om demokrati?,"Definiera: folkstyre, val, rättigheter.","Demokrati betyder folkstyre, oftast genom fria val och grundläggande rättigheter."
+545,Vad är EU?,"Union av europeiska stater, inre marknad.",EU är en union av europeiska stater med en inre marknad och gemensamma institutioner.
+546,Förklara kort: EU.,"Union av europeiska stater, inre marknad.",EU är en union av europeiska stater med en inre marknad och gemensamma institutioner.
+547,Vad vet du om EU?,"Union av europeiska stater, inre marknad.",EU är en union av europeiska stater med en inre marknad och gemensamma institutioner.
+548,Hur många länder är det i EU?,Fakta: 27 medlemsstater.,EU har 27 medlemsstater.
+549,Förklara kort: EU-länder.,Fakta: 27 medlemsstater.,EU har 27 medlemsstater.
+550,Vad vet du om EU-länder?,Fakta: 27 medlemsstater.,EU har 27 medlemsstater.
+551,Vad är Tysklands grundlag?,Grundlag sedan 1949.,"Grundlagen är Tysklands grundlag, i kraft sedan 1949."
+552,Förklara kort: grundlagen.,Grundlag sedan 1949.,"Grundlagen är Tysklands grundlag, i kraft sedan 1949."
+553,Vad vet du om grundlagen?,Grundlag sedan 1949.,"Grundlagen är Tysklands grundlag, i kraft sedan 1949."
+554,Vilket år återförenades Tyskland?,Fakta: 1990.,Tyskland återförenades 1990.
+555,Förklara kort: återföreningen.,Fakta: 1990.,Tyskland återförenades 1990.
+556,Vad vet du om återföreningen?,Fakta: 1990.,Tyskland återförenades 1990.
+557,Vad var medeltiden?,Epok: cirka 500 till 1500.,"Medeltiden var epoken cirka 500 till 1500, mellan antiken och modern tid."
+558,Förklara kort: medeltiden.,Epok: cirka 500 till 1500.,"Medeltiden var epoken cirka 500 till 1500, mellan antiken och modern tid."
+559,Vad vet du om medeltiden?,Epok: cirka 500 till 1500.,"Medeltiden var epoken cirka 500 till 1500, mellan antiken och modern tid."
+560,Vem var Leonardo da Vinci?,"Italiensk konstnär och uppfinnare, Mona Lisa.","Leonardo da Vinci var en italiensk konstnär och uppfinnare, känd för Mona Lisa."
+561,Förklara kort: Da Vinci.,"Italiensk konstnär och uppfinnare, Mona Lisa.","Leonardo da Vinci var en italiensk konstnär och uppfinnare, känd för Mona Lisa."
+562,Vad vet du om Da Vinci?,"Italiensk konstnär och uppfinnare, Mona Lisa.","Leonardo da Vinci var en italiensk konstnär och uppfinnare, känd för Mona Lisa."
+563,Vem var Marie Curie?,"Fysiker, radioaktivitet, två Nobel.",Marie Curie var en fysiker som forskade om radioaktivitet och vann två Nobel.
+564,Förklara kort: Marie Curie.,"Fysiker, radioaktivitet, två Nobel.",Marie Curie var en fysiker som forskade om radioaktivitet och vann två Nobel.
+565,Vad vet du om Marie Curie?,"Fysiker, radioaktivitet, två Nobel.",Marie Curie var en fysiker som forskade om radioaktivitet och vann två Nobel.
+566,Vad var franska revolutionen?,"Från 1789, frihet jämlikhet broderskap.","Franska revolutionen från 1789 störtade monarkin under frihet, jämlikhet, broderskap."
+567,Förklara kort: franska revolutionen.,"Från 1789, frihet jämlikhet broderskap.","Franska revolutionen från 1789 störtade monarkin under frihet, jämlikhet, broderskap."
+568,Vad vet du om franska revolutionen?,"Från 1789, frihet jämlikhet broderskap.","Franska revolutionen från 1789 störtade monarkin under frihet, jämlikhet, broderskap."
+569,Vad är mänskliga rättigheter?,Universella grundrättigheter.,"Mänskliga rättigheter är vars och ens grundrättigheter, som liv, frihet och jämlikhet."
+570,Förklara kort: mänskliga rättigheter.,Universella grundrättigheter.,"Mänskliga rättigheter är vars och ens grundrättigheter, som liv, frihet och jämlikhet."
+571,Vad vet du om mänskliga rättigheter?,Universella grundrättigheter.,"Mänskliga rättigheter är vars och ens grundrättigheter, som liv, frihet och jämlikhet."
+572,Vad är inflation?,"Ekonomi: pengar tappar värde, priser stiger.",Inflation betyder att priser stiger och pengar tappar värde.
+573,Förklara kort: inflation.,"Ekonomi: pengar tappar värde, priser stiger.",Inflation betyder att priser stiger och pengar tappar värde.
+574,Vad vet du om inflation?,"Ekonomi: pengar tappar värde, priser stiger.",Inflation betyder att priser stiger och pengar tappar värde.
+575,Vad var industrialiseringen?,Maskiner och fabriker från 1700-talet.,Industrialiseringen var övergången till maskiner och fabriker från 1700-talet.
+576,Förklara kort: industrialiseringen.,Maskiner och fabriker från 1700-talet.,Industrialiseringen var övergången till maskiner och fabriker från 1700-talet.
+577,Vad vet du om industrialiseringen?,Maskiner och fabriker från 1700-talet.,Industrialiseringen var övergången till maskiner och fabriker från 1700-talet.
+578,När uppfanns internet?,"ARPANET 1969, webb 1989.","Grunderna är ARPANET 1969, webben från 1989."
+579,Förklara kort: internet.,"ARPANET 1969, webb 1989.","Grunderna är ARPANET 1969, webben från 1989."
+580,Vad vet du om internet?,"ARPANET 1969, webb 1989.","Grunderna är ARPANET 1969, webben från 1989."
+581,När uppfanns bilen?,Benz 1886.,Bilen uppfanns av Carl Benz med 1886 års bil.
+582,Förklara kort: bilen.,Benz 1886.,Bilen uppfanns av Carl Benz med 1886 års bil.
+583,Vad vet du om bilen?,Benz 1886.,Bilen uppfanns av Carl Benz med 1886 års bil.
+584,Vem uppfann flygplanet?,"Bröderna Wright, flyg 1903.",Den första motorflygningen gjordes av bröderna Wright 1903.
+585,Förklara kort: flygplanet.,"Bröderna Wright, flyg 1903.",Den första motorflygningen gjordes av bröderna Wright 1903.
+586,Vad vet du om flygplanet?,"Bröderna Wright, flyg 1903.",Den första motorflygningen gjordes av bröderna Wright 1903.
+587,Från vilken ålder får man rösta i Tyskland?,"Förbundsdag från 18, EU-val från 16.",Till förbundsdagen från 18 år. I EU-val i Tyskland från 16.
+588,Förklara kort: rösträttsålder.,"Förbundsdag från 18, EU-val från 16.",Till förbundsdagen från 18 år. I EU-val i Tyskland från 16.
+589,Vad vet du om rösträttsålder?,"Förbundsdag från 18, EU-val från 16.",Till förbundsdagen från 18 år. I EU-val i Tyskland från 16.
+590,"Hur funkar ett val, enkelt?","Röstberättigade röstar, räkning, mandat.","Röstberättigade röstar, röster räknas och mandat fördelas efter resultat."
+591,Förklara kort: val.,"Röstberättigade röstar, räkning, mandat.","Röstberättigade röstar, röster räknas och mandat fördelas efter resultat."
+592,Vad vet du om val?,"Röstberättigade röstar, räkning, mandat.","Röstberättigade röstar, röster räknas och mandat fördelas efter resultat."
+593,Vad är skillnaden mellan diktatur och demokrati?,Enmansvälde mot folkstyre.,I en diktatur styr en person eller grupp utan fria val; i en demokrati kommer makten från folket.
+594,Förklara kort: diktatur och demokrati.,Enmansvälde mot folkstyre.,I en diktatur styr en person eller grupp utan fria val; i en demokrati kommer makten från folket.
+595,Vad vet du om diktatur och demokrati?,Enmansvälde mot folkstyre.,I en diktatur styr en person eller grupp utan fria val; i en demokrati kommer makten från folket.
+596,Vad betyder hållbarhet?,Resurser åt kommande generationer.,Hållbarhet betyder att leva så att även kommande generationer har resurser.
+597,Förklara kort: hållbarhet.,Resurser åt kommande generationer.,Hållbarhet betyder att leva så att även kommande generationer har resurser.
+598,Vad vet du om hållbarhet?,Resurser åt kommande generationer.,Hållbarhet betyder att leva så att även kommande generationer har resurser.
+599,Vad är mobbning och vad gör man?,"Upprepat; hjälp, bevis.","Mobbning är upprepade trakasserier. Prata med förtrodda, spara bevis, sök hjälp."
+600,Förklara kort: mobbning.,"Upprepat; hjälp, bevis.","Mobbning är upprepade trakasserier. Prata med förtrodda, spara bevis, sök hjälp."
+601,Vad vet du om mobbning?,"Upprepat; hjälp, bevis.","Mobbning är upprepade trakasserier. Prata med förtrodda, spara bevis, sök hjälp."
+602,Vad betyder fred?,Leva utan krig och våld.,Fred betyder att leva tillsammans utan krig och våld.
+603,Förklara kort: fred.,Leva utan krig och våld.,Fred betyder att leva tillsammans utan krig och våld.
+604,Vad vet du om fred?,Leva utan krig och våld.,Fred betyder att leva tillsammans utan krig och våld.
+605,Vad betyder frihet?,Leva fritt utan att skada andra.,Frihet betyder att leva fritt utan att skada andra.
+606,Förklara kort: frihet.,Leva fritt utan att skada andra.,Frihet betyder att leva fritt utan att skada andra.
+607,Vad vet du om frihet?,Leva fritt utan att skada andra.,Frihet betyder att leva fritt utan att skada andra.
+608,Vad betyder rättvisa?,Rättvis och lik behandling åt alla.,Rättvisa betyder rättvis och lik behandling åt var och en.
+609,Förklara kort: rättvisa.,Rättvis och lik behandling åt alla.,Rättvisa betyder rättvis och lik behandling åt var och en.
+610,Vad vet du om rättvisa?,Rättvis och lik behandling åt alla.,Rättvisa betyder rättvis och lik behandling åt var och en.
+611,Varför är himlen blå?,Rayleigh-spridning sprider blått.,Himlen är blå på grund av Rayleigh-spridning: blått ljus sprids mer än rött.
+612,Förklara blå himmel i en mening.,Rayleigh-spridning sprider blått.,Himlen är blå på grund av Rayleigh-spridning: blått ljus sprids mer än rött.
+613,Vad är blå himmel? (kort),Rayleigh-spridning sprider blått.,Himlen är blå på grund av Rayleigh-spridning: blått ljus sprids mer än rött.
+614,Hur bildas regn?,"Cykel: avdunstning, kondensation, nederbörd.","Regn bildas genom avdunstning: vatten stiger, kyls, bildar moln och faller som droppar."
+615,Förklara regn i en mening.,"Cykel: avdunstning, kondensation, nederbörd.","Regn bildas genom avdunstning: vatten stiger, kyls, bildar moln och faller som droppar."
+616,Vad är regn? (kort),"Cykel: avdunstning, kondensation, nederbörd.","Regn bildas genom avdunstning: vatten stiger, kyls, bildar moln och faller som droppar."
+617,Vad är fotosyntes?,"Växter: ljus, vatten, CO2 till socker och syre.","Fotosyntes gör socker och syre av ljus, vatten och CO2."
+618,Förklara fotosyntes i en mening.,"Växter: ljus, vatten, CO2 till socker och syre.","Fotosyntes gör socker och syre av ljus, vatten och CO2."
+619,Vad är fotosyntes? (kort),"Växter: ljus, vatten, CO2 till socker och syre.","Fotosyntes gör socker och syre av ljus, vatten och CO2."
+620,Vad är skillnaden mellan väder och klimat?,"Väder kort, klimat 30-års medel.",Väder är korttidstillståndet; klimat medel över cirka 30 år.
+621,Förklara väder och klimat i en mening.,"Väder kort, klimat 30-års medel.",Väder är korttidstillståndet; klimat medel över cirka 30 år.
+622,Vad är väder och klimat? (kort),"Väder kort, klimat 30-års medel.",Väder är korttidstillståndet; klimat medel över cirka 30 år.
+623,"Hur funkar ett kylskåp, grovt?","Köldmedium, värme inifrån ut.","Ett kylskåp pumpar värme inifrån ut med köldmedium: det avdunstar inne, tar värme, avger ute."
+624,Förklara kylskåp i en mening.,"Köldmedium, värme inifrån ut.","Ett kylskåp pumpar värme inifrån ut med köldmedium: det avdunstar inne, tar värme, avger ute."
+625,Vad är kylskåp? (kort),"Köldmedium, värme inifrån ut.","Ett kylskåp pumpar värme inifrån ut med köldmedium: det avdunstar inne, tar värme, avger ute."
+626,"Vad är el, enkelt?",Riktad rörelse av elektroner.,"El är enkelt den riktade rörelsen av laddningar, oftast elektroner i en ledning."
+627,Förklara el i en mening.,Riktad rörelse av elektroner.,"El är enkelt den riktade rörelsen av laddningar, oftast elektroner i en ledning."
+628,Vad är el? (kort),Riktad rörelse av elektroner.,"El är enkelt den riktade rörelsen av laddningar, oftast elektroner i en ledning."
+629,"Vad är vatten, kemiskt?","H2O, väte och syre.","Vatten är H2O, en förening av väte och syre."
+630,Förklara vatten kemi i en mening.,"H2O, väte och syre.","Vatten är H2O, en förening av väte och syre."
+631,Vad är vatten kemi? (kort),"H2O, väte och syre.","Vatten är H2O, en förening av väte och syre."
+632,Vad är ett virus?,"Pyttelitet, värdcell behövs.",Ett virus är en pytteliten smitta som inte förökar sig utan värdcell.
+633,Förklara virus i en mening.,"Pyttelitet, värdcell behövs.",Ett virus är en pytteliten smitta som inte förökar sig utan värdcell.
+634,Vad är virus? (kort),"Pyttelitet, värdcell behövs.",Ett virus är en pytteliten smitta som inte förökar sig utan värdcell.
+635,"Vad är artificiell intelligens, enkelt?",Program som lär sig mönster.,"Artificiell intelligens är program som lär sig av data, känner igen mönster och löser uppgifter."
+636,Förklara AI i en mening.,Program som lär sig mönster.,"Artificiell intelligens är program som lär sig av data, känner igen mönster och löser uppgifter."
+637,Vad är AI? (kort),Program som lär sig mönster.,"Artificiell intelligens är program som lär sig av data, känner igen mönster och löser uppgifter."
+638,Vad är en webbläsare?,"Program för webbplatser, t.ex. Chrome, Firefox.","En webbläsare är programmet du öppnar sidor med, t.ex. Chrome, Firefox, Edge eller Safari."
+639,Förklara webbläsare i en mening.,"Program för webbplatser, t.ex. Chrome, Firefox.","En webbläsare är programmet du öppnar sidor med, t.ex. Chrome, Firefox, Edge eller Safari."
+640,Vad är webbläsare? (kort),"Program för webbplatser, t.ex. Chrome, Firefox.","En webbläsare är programmet du öppnar sidor med, t.ex. Chrome, Firefox, Edge eller Safari."
+641,Vad är en app?,"Program, oftast för telefoner.","En app är ett program, oftast för telefoner, t.ex. meddelanden, bilder eller spel."
+642,Förklara app i en mening.,"Program, oftast för telefoner.","En app är ett program, oftast för telefoner, t.ex. meddelanden, bilder eller spel."
+643,Vad är app? (kort),"Program, oftast för telefoner.","En app är ett program, oftast för telefoner, t.ex. meddelanden, bilder eller spel."
+644,Varför ska man dricka vatten?,"Cirkulation, fokus, hud, njurar.","Vatten håller cirkulation och fokus stabila, hjälper njurar och hud, förebygger huvudvärk."
+645,Förklara dricka vatten i en mening.,"Cirkulation, fokus, hud, njurar.","Vatten håller cirkulation och fokus stabila, hjälper njurar och hud, förebygger huvudvärk."
+646,Vad är dricka vatten? (kort),"Cirkulation, fokus, hud, njurar.","Vatten håller cirkulation och fokus stabila, hjälper njurar och hud, förebygger huvudvärk."
+647,Hur länge ska man borsta tänderna?,"2 minuter, två gånger om dagen.","Cirka 2 minuter, två gånger om dagen."
+648,Förklara borsta tänderna i en mening.,"2 minuter, två gånger om dagen.","Cirka 2 minuter, två gånger om dagen."
+649,Vad är borsta tänderna? (kort),"2 minuter, två gånger om dagen.","Cirka 2 minuter, två gånger om dagen."
+650,Vad är gravitation?,Attraktion mellan massor; jorden drar.,"Gravitation är attraktionen mellan massor. Jorden drar allt nedåt, så saker faller."
+651,Förklara gravitation i en mening.,Attraktion mellan massor; jorden drar.,"Gravitation är attraktionen mellan massor. Jorden drar allt nedåt, så saker faller."
+652,Vad är gravitation? (kort),Attraktion mellan massor; jorden drar.,"Gravitation är attraktionen mellan massor. Jorden drar allt nedåt, så saker faller."
+653,Vad är luft?,"Mix av kväve, syre och mer.","Luft är en gasmix, mest kväve och syre."
+654,Förklara luft i en mening.,"Mix av kväve, syre och mer.","Luft är en gasmix, mest kväve och syre."
+655,Vad är luft? (kort),"Mix av kväve, syre och mer.","Luft är en gasmix, mest kväve och syre."
+656,Vad gör hjärtat?,Pumpar blod genom kroppen.,Hjärtat pumpar blod genom hela kroppen.
+657,Förklara hjärta i en mening.,Pumpar blod genom kroppen.,Hjärtat pumpar blod genom hela kroppen.
+658,Vad är hjärta? (kort),Pumpar blod genom kroppen.,Hjärtat pumpar blod genom hela kroppen.
+659,Vad gör lungorna?,"Tar upp syre, avger CO2.",Lungorna tar upp syre och avger koldioxid.
+660,Förklara lungor i en mening.,"Tar upp syre, avger CO2.",Lungorna tar upp syre och avger koldioxid.
+661,Vad är lungor? (kort),"Tar upp syre, avger CO2.",Lungorna tar upp syre och avger koldioxid.
+662,Varför är sömn viktig?,"Återhämtning, minne, immunitet.","Sömn hjälper återhämtning, minne och immunförsvar."
+663,Förklara sömn i en mening.,"Återhämtning, minne, immunitet.","Sömn hjälper återhämtning, minne och immunförsvar."
+664,Vad är sömn? (kort),"Återhämtning, minne, immunitet.","Sömn hjälper återhämtning, minne och immunförsvar."
+665,Vad är feber?,Höjd temperatur som försvar.,"Feber är höjd kroppstemperatur, ofta försvar mot infektioner."
+666,Förklara feber i en mening.,Höjd temperatur som försvar.,"Feber är höjd kroppstemperatur, ofta försvar mot infektioner."
+667,Vad är feber? (kort),Höjd temperatur som försvar.,"Feber är höjd kroppstemperatur, ofta försvar mot infektioner."
+668,Vad är ett starkt lösenord?,"Långt, unikt, i en hanterare.","Ett starkt lösenord är långt, unikt per tjänst och sparat i en hanterare."
+669,Förklara starkt lösenord i en mening.,"Långt, unikt, i en hanterare.","Ett starkt lösenord är långt, unikt per tjänst och sparat i en hanterare."
+670,Vad är starkt lösenord? (kort),"Långt, unikt, i en hanterare.","Ett starkt lösenord är långt, unikt per tjänst och sparat i en hanterare."
+671,Vad är Wi-Fi?,Trådlöst lokalt nät.,Wi-Fi är ett trådlöst lokalt nät för internet utan kablar.
+672,Förklara Wi-Fi i en mening.,Trådlöst lokalt nät.,Wi-Fi är ett trådlöst lokalt nät för internet utan kablar.
+673,Vad är Wi-Fi? (kort),Trådlöst lokalt nät.,Wi-Fi är ett trådlöst lokalt nät för internet utan kablar.
+674,Vad är molnet?,Servrar på internet för lagring och tjänster.,Molnet är servrar på internet där du lagrar data och använder tjänster.
+675,Förklara molnet i en mening.,Servrar på internet för lagring och tjänster.,Molnet är servrar på internet där du lagrar data och använder tjänster.
+676,Vad är molnet? (kort),Servrar på internet för lagring och tjänster.,Molnet är servrar på internet där du lagrar data och använder tjänster.
+677,Hur funkar GPS?,"Satelliter, signaltid, beräkning.",GPS hittar positionen via satellitsignaler och deras restid.
+678,Förklara GPS i en mening.,"Satelliter, signaltid, beräkning.",GPS hittar positionen via satellitsignaler och deras restid.
+679,Vad är GPS? (kort),"Satelliter, signaltid, beräkning.",GPS hittar positionen via satellitsignaler och deras restid.
+680,Varför finns dag och natt?,Jordens rotation.,"Dag och natt finns för att jorden snurrar. Solsidan har dag, den andra natt."
+681,Förklara dag och natt i en mening.,Jordens rotation.,"Dag och natt finns för att jorden snurrar. Solsidan har dag, den andra natt."
+682,Vad är dag och natt? (kort),Jordens rotation.,"Dag och natt finns för att jorden snurrar. Solsidan har dag, den andra natt."
+683,Varför finns årstider?,Jordaxelns lutning.,Årstider kommer av axelns lutning: varje halvklot lutar mot solen i tur.
+684,Förklara årstider i en mening.,Jordaxelns lutning.,Årstider kommer av axelns lutning: varje halvklot lutar mot solen i tur.
+685,Vad är årstider? (kort),Jordaxelns lutning.,Årstider kommer av axelns lutning: varje halvklot lutar mot solen i tur.
+686,Varför lyser månen?,Reflekterar solen.,Månen lyser för att den reflekterar solljus.
+687,Förklara månsken i en mening.,Reflekterar solen.,Månen lyser för att den reflekterar solljus.
+688,Vad är månsken? (kort),Reflekterar solen.,Månen lyser för att den reflekterar solljus.
+689,Vad är solen?,En stjärna av het gas.,Solen är en stjärna av het gas som ger ljus och värme.
+690,Förklara solen i en mening.,En stjärna av het gas.,Solen är en stjärna av het gas som ger ljus och värme.
+691,Vad är solen? (kort),En stjärna av het gas.,Solen är en stjärna av het gas som ger ljus och värme.
+692,Hur många planeter har vårt solsystem?,8 planeter.,"Vårt solsystem har 8 planeter: Merkurius, Venus, Jorden, Mars, Jupiter, Saturnus, Uranus, Neptunus."
+693,Förklara planeter i en mening.,8 planeter.,"Vårt solsystem har 8 planeter: Merkurius, Venus, Jorden, Mars, Jupiter, Saturnus, Uranus, Neptunus."
+694,Vad är planeter? (kort),8 planeter.,"Vårt solsystem har 8 planeter: Merkurius, Venus, Jorden, Mars, Jupiter, Saturnus, Uranus, Neptunus."
+695,Vad är en atom?,Minsta enheten: kärna plus elektroner.,"En atom är materiens minsta enhet, gjord av kärna och elektroner."
+696,Förklara atom i en mening.,Minsta enheten: kärna plus elektroner.,"En atom är materiens minsta enhet, gjord av kärna och elektroner."
+697,Vad är atom? (kort),Minsta enheten: kärna plus elektroner.,"En atom är materiens minsta enhet, gjord av kärna och elektroner."
+698,Vad är återvinning?,"Samla avfall, gör nya produkter.",Återvinning samlar avfall för att göra nya produkter.
+699,Förklara återvinning i en mening.,"Samla avfall, gör nya produkter.",Återvinning samlar avfall för att göra nya produkter.
+700,Vad är återvinning? (kort),"Samla avfall, gör nya produkter.",Återvinning samlar avfall för att göra nya produkter.
+701,Vad är växthuseffekten?,Gaser håller värme.,Växthuseffekten håller värme. För mycket växthusgaser värmer klimatet.
+702,Förklara växthuseffekten i en mening.,Gaser håller värme.,Växthuseffekten håller värme. För mycket växthusgaser värmer klimatet.
+703,Vad är växthuseffekten? (kort),Gaser håller värme.,Växthuseffekten håller värme. För mycket växthusgaser värmer klimatet.
+704,Varför är bin viktiga?,"Pollinering, skördar.",Bin pollinerar växter och säkrar skördar och mångfald.
+705,Förklara bin i en mening.,"Pollinering, skördar.",Bin pollinerar växter och säkrar skördar och mångfald.
+706,Vad är bin? (kort),"Pollinering, skördar.",Bin pollinerar växter och säkrar skördar och mångfald.
+707,Varför är blad gröna?,Pigment klorofyll.,"Blad är gröna på grund av klorofyll, pigmentet för fotosyntes."
+708,Förklara gröna blad i en mening.,Pigment klorofyll.,"Blad är gröna på grund av klorofyll, pigmentet för fotosyntes."
+709,Vad är gröna blad? (kort),Pigment klorofyll.,"Blad är gröna på grund av klorofyll, pigmentet för fotosyntes."
+710,Vad är ett däggdjur?,"Päls, levande födsel, mjölk.","Däggdjur har päls, föder levande ungar och diar med mjölk."
+711,Förklara däggdjur i en mening.,"Päls, levande födsel, mjölk.","Däggdjur har päls, föder levande ungar och diar med mjölk."
+712,Vad är däggdjur? (kort),"Päls, levande födsel, mjölk.","Däggdjur har päls, föder levande ungar och diar med mjölk."
+713,Hur funkar ett batteri?,Kemisk energi till elektrisk.,Ett batteri omvandlar kemisk energi till elektrisk energi.
+714,Förklara batterier i en mening.,Kemisk energi till elektrisk.,Ett batteri omvandlar kemisk energi till elektrisk energi.
+715,Vad är batterier? (kort),Kemisk energi till elektrisk.,Ett batteri omvandlar kemisk energi till elektrisk energi.
+716,Hur funkar solkraft?,Celler: ljus till ström.,Solceller omvandlar ljus direkt till ström.
+717,Förklara solkraft i en mening.,Celler: ljus till ström.,Solceller omvandlar ljus direkt till ström.
+718,Vad är solkraft? (kort),Celler: ljus till ström.,Solceller omvandlar ljus direkt till ström.
+719,Vad är ett datavirus?,Skadligt program som sprids.,Ett virus är ett skadligt program som sprids och skadar. Skydda med uppdateringar och försiktighet.
+720,Förklara datavirus i en mening.,Skadligt program som sprids.,Ett virus är ett skadligt program som sprids och skadar. Skydda med uppdateringar och försiktighet.
+721,Vad är datavirus? (kort),Skadligt program som sprids.,Ett virus är ett skadligt program som sprids och skadar. Skydda med uppdateringar och försiktighet.
+722,Varför är plast ett problem?,"Bestående skräp, mikroplast.","Plast ruttnar amper, skräpar natur och hav, blir mikroplast."
+723,Förklara plast i en mening.,"Bestående skräp, mikroplast.","Plast ruttnar amper, skräpar natur och hav, blir mikroplast."
+724,Vad är plast? (kort),"Bestående skräp, mikroplast.","Plast ruttnar amper, skräpar natur och hav, blir mikroplast."
+725,Vad är en jordbävning?,"Plattor rör sig, energi frigörs.",En jordbävning sker när plattor plötsligt rör sig och frigör energi.
+726,Förklara jordbävning i en mening.,"Plattor rör sig, energi frigörs.",En jordbävning sker när plattor plötsligt rör sig och frigör energi.
+727,Vad är jordbävning? (kort),"Plattor rör sig, energi frigörs.",En jordbävning sker när plattor plötsligt rör sig och frigör energi.
+728,Vad är honung?,Bin av nektar.,Honung görs av bin från blomnektar.
+729,Förklara honung i en mening.,Bin av nektar.,Honung görs av bin från blomnektar.
+730,Vad är honung? (kort),Bin av nektar.,Honung görs av bin från blomnektar.
+731,Hur mycket är 25 gånger 4?,Räkna: 25*4=100.,25 gånger 4 är 100.
+732,Hur mycket är 12 procent av 200?,"Procent: 200*0,12=24.",12 procent av 200 är 24.
+733,Hur mycket är 7 gånger 8 plus 10?,Ordning: 7*8=56 +10=66.,Det är 66.
+734,Ett tåg avgår 14:30 och kör 2h15. När kommer det fram?,Addera: 14:30 + 2:15 = 16:45.,Det kommer fram 16:45.
+735,Jag har 3 äpplen och äter 1. Hur många är kvar?,Subtrahera: 3-1=2.,2 äpplen är kvar.
+736,Jag lägger mig 22 och stiger upp 6. Hur länge sover jag?,Tid: 22-6 = 8 timmar.,Du sover 8 timmar.
+737,Dela 100 euro rättvist på 4 personer.,Dividera: 100/4=25.,Varje person får 25 euro.
+738,Hur många minuter är 2 timmar?,Räkna om: 2*60=120.,2 timmar är 120 minuter.
+739,Hur många dagar har ett år?,"Fakta: 365, skottår 366.","Ett år har 365 dagar, ett skottår 366."
+740,Hur många sekunder har en minut?,Fakta: 60.,En minut har 60 sekunder.
+741,Hur mycket är 50 plus 41?,Addera: 50+41=91.,50 plus 41 är 91.
+742,Hur mycket är 18 minus 11?,Subtrahera: 18-11=7.,18 minus 11 är 7.
+743,Hur mycket är 10 gånger 4?,Multiplicera: 10*4=40.,10 gånger 4 är 40.
+744,Hur mycket är 26 delat med 2?,Dividera: 26/2=13.,26 delat med 2 är 13.
+745,Hur mycket är 25 procent av 200?,Procent: 200*25/100=50.,25 procent av 200 är 50.
+746,Hur mycket är 37 plus 33?,Addera: 37+33=70.,37 plus 33 är 70.
+747,Hur mycket är 47 minus 33?,Subtrahera: 47-33=14.,47 minus 33 är 14.
+748,Hur mycket är 4 gånger 9?,Multiplicera: 4*9=36.,4 gånger 9 är 36.
+749,Hur mycket är 77 delat med 7?,Dividera: 77/7=11.,77 delat med 7 är 11.
+750,Hur mycket är 5 procent av 200?,Procent: 200*5/100=10.,5 procent av 200 är 10.
+751,Hur mycket är 52 plus 11?,Addera: 52+11=63.,52 plus 11 är 63.
+752,Hur mycket är 32 minus 8?,Subtrahera: 32-8=24.,32 minus 8 är 24.
+753,Hur mycket är 10 gånger 11?,Multiplicera: 10*11=110.,10 gånger 11 är 110.
+754,Hur mycket är 35 delat med 7?,Dividera: 35/7=5.,35 delat med 7 är 5.
+755,Hur mycket är 10 procent av 200?,Procent: 200*10/100=20.,10 procent av 200 är 20.
+756,Hur mycket är 39 plus 12?,Addera: 39+12=51.,39 plus 12 är 51.
+757,Hur mycket är 52 minus 46?,Subtrahera: 52-46=6.,52 minus 46 är 6.
+758,Hur mycket är 7 gånger 7?,Multiplicera: 7*7=49.,7 gånger 7 är 49.
+759,Hur mycket är 33 delat med 3?,Dividera: 33/3=11.,33 delat med 3 är 11.
+760,Hur mycket är 25 procent av 1000?,Procent: 1000*25/100=250.,25 procent av 1000 är 250.
+761,Hur mycket är 18 plus 9?,Addera: 18+9=27.,18 plus 9 är 27.
+762,Hur mycket är 36 minus 24?,Subtrahera: 36-24=12.,36 minus 24 är 12.
+763,Hur mycket är 2 gånger 4?,Multiplicera: 2*4=8.,2 gånger 4 är 8.
+764,Hur mycket är 100 delat med 10?,Dividera: 100/10=10.,100 delat med 10 är 10.
+765,Hur mycket är 50 procent av 300?,Procent: 300*50/100=150.,50 procent av 300 är 150.
+766,Hur mycket är 20 plus 18?,Addera: 20+18=38.,20 plus 18 är 38.
+767,Hur mycket är 76 minus 18?,Subtrahera: 76-18=58.,76 minus 18 är 58.
+768,Hur mycket är 6 gånger 9?,Multiplicera: 6*9=54.,6 gånger 9 är 54.
+769,Hur mycket är 30 delat med 3?,Dividera: 30/3=10.,30 delat med 3 är 10.
+770,Hur mycket är 5 procent av 300?,Procent: 300*5/100=15.,5 procent av 300 är 15.
+771,Hur mycket är 52 plus 19?,Addera: 52+19=71.,52 plus 19 är 71.
+772,Hur mycket är 70 minus 21?,Subtrahera: 70-21=49.,70 minus 21 är 49.
+773,Hur mycket är 8 gånger 4?,Multiplicera: 8*4=32.,8 gånger 4 är 32.
+774,Hur mycket är 60 delat med 10?,Dividera: 60/10=6.,60 delat med 10 är 6.
+775,Hur mycket är 25 procent av 100?,Procent: 100*25/100=25.,25 procent av 100 är 25.
+776,Hur mycket är 36 plus 53?,Addera: 36+53=89.,36 plus 53 är 89.
+777,Hur mycket är 98 minus 22?,Subtrahera: 98-22=76.,98 minus 22 är 76.
+778,Hur mycket är 10 gånger 12?,Multiplicera: 10*12=120.,10 gånger 12 är 120.
+779,Hur mycket är 110 delat med 11?,Dividera: 110/11=10.,110 delat med 11 är 10.
+780,Hur mycket är 15 procent av 100?,Procent: 100*15/100=15.,15 procent av 100 är 15.
+781,Hur mycket är 29 plus 51?,Addera: 29+51=80.,29 plus 51 är 80.
+782,Hur mycket är 51 minus 43?,Subtrahera: 51-43=8.,51 minus 43 är 8.
+783,Hur mycket är 10 gånger 5?,Multiplicera: 10*5=50.,10 gånger 5 är 50.
+784,Hur mycket är 144 delat med 9?,Dividera: 144/9=16.,144 delat med 9 är 16.
+785,Hur mycket är 24 plus 48?,Addera: 24+48=72.,24 plus 48 är 72.
+786,Hur mycket är 32 minus 22?,Subtrahera: 32-22=10.,32 minus 22 är 10.
+787,Hur mycket är 10 gånger 6?,Multiplicera: 10*6=60.,10 gånger 6 är 60.
+788,Hur mycket är 143 delat med 11?,Dividera: 143/11=13.,143 delat med 11 är 13.
+789,Hur mycket är 10 procent av 100?,Procent: 100*10/100=10.,10 procent av 100 är 10.
+790,Hur mycket är 37 plus 9?,Addera: 37+9=46.,37 plus 9 är 46.
+791,Hur mycket är 78 minus 11?,Subtrahera: 78-11=67.,78 minus 11 är 67.
+792,Hur mycket är 6 gånger 2?,Multiplicera: 6*2=12.,6 gånger 2 är 12.
+793,Hur mycket är 60 delat med 3?,Dividera: 60/3=20.,60 delat med 3 är 20.
+794,Hur mycket är 25 plus 21?,Addera: 25+21=46.,25 plus 21 är 46.
+795,Hur mycket är 50 minus 11?,Subtrahera: 50-11=39.,50 minus 11 är 39.
+796,Hur mycket är 2 gånger 12?,Multiplicera: 2*12=24.,2 gånger 12 är 24.
+797,Hur mycket är 48 delat med 12?,Dividera: 48/12=4.,48 delat med 12 är 4.
+798,Hur mycket är 28 plus 38?,Addera: 28+38=66.,28 plus 38 är 66.
+799,Hur mycket är 23 minus 18?,Subtrahera: 23-18=5.,23 minus 18 är 5.
+800,Hur mycket är 10 gånger 3?,Multiplicera: 10*3=30.,10 gånger 3 är 30.
+801,Hur mycket är 144 delat med 8?,Dividera: 144/8=18.,144 delat med 8 är 18.
+802,Hur mycket är 50 procent av 200?,Procent: 200*50/100=100.,50 procent av 200 är 100.
+803,Hur mycket är 7 plus 35?,Addera: 7+35=42.,7 plus 35 är 42.
+804,Hur mycket är 93 minus 47?,Subtrahera: 93-47=46.,93 minus 47 är 46.
+805,Hur mycket är 11 gånger 9?,Multiplicera: 11*9=99.,11 gånger 9 är 99.
+806,Hur mycket är 25 delat med 5?,Dividera: 25/5=5.,25 delat med 5 är 5.
+807,Hur mycket är 20 procent av 200?,Procent: 200*20/100=40.,20 procent av 200 är 40.
+808,Hur mycket är 33 plus 14?,Addera: 33+14=47.,33 plus 14 är 47.
+809,Hur mycket är 15 minus 13?,Subtrahera: 15-13=2.,15 minus 13 är 2.
+810,Hur mycket är 9 gånger 2?,Multiplicera: 9*2=18.,9 gånger 2 är 18.
+811,Hur mycket är 190 delat med 10?,Dividera: 190/10=19.,190 delat med 10 är 19.
+812,Hur mycket är 59 plus 21?,Addera: 59+21=80.,59 plus 21 är 80.
+813,Hur mycket är 37 minus 23?,Subtrahera: 37-23=14.,37 minus 23 är 14.
+814,Hur mycket är 5 gånger 6?,Multiplicera: 5*6=30.,5 gånger 6 är 30.
+815,Hur mycket är 76 delat med 4?,Dividera: 76/4=19.,76 delat med 4 är 19.
+816,Hur mycket är 10 procent av 400?,Procent: 400*10/100=40.,10 procent av 400 är 40.
+817,Hur mycket är 52 plus 3?,Addera: 52+3=55.,52 plus 3 är 55.
+818,Hur mycket är 82 minus 64?,Subtrahera: 82-64=18.,82 minus 64 är 18.
+819,Hur mycket är 11 gånger 12?,Multiplicera: 11*12=132.,11 gånger 12 är 132.
+820,Hur mycket är 132 delat med 11?,Dividera: 132/11=12.,132 delat med 11 är 12.
+821,Hur mycket är 51 plus 35?,Addera: 51+35=86.,51 plus 35 är 86.
+822,Hur mycket är 25 minus 3?,Subtrahera: 25-3=22.,25 minus 3 är 22.
+823,Hur mycket är 3 gånger 3?,Multiplicera: 3*3=9.,3 gånger 3 är 9.
+824,Hur mycket är 66 delat med 6?,Dividera: 66/6=11.,66 delat med 6 är 11.
+825,Hur mycket är 5 procent av 400?,Procent: 400*5/100=20.,5 procent av 400 är 20.
+826,Hur mycket är 4 plus 11?,Addera: 4+11=15.,4 plus 11 är 15.
+827,Hur mycket är 28 minus 24?,Subtrahera: 28-24=4.,28 minus 24 är 4.
+828,Hur mycket är 11 gånger 10?,Multiplicera: 11*10=110.,11 gånger 10 är 110.
+829,Hur mycket är 44 delat med 11?,Dividera: 44/11=4.,44 delat med 11 är 4.
+830,Hur mycket är 6 plus 52?,Addera: 6+52=58.,6 plus 52 är 58.
+831,Hur mycket är 32 minus 14?,Subtrahera: 32-14=18.,32 minus 14 är 18.
+832,Hur mycket är 5 gånger 8?,Multiplicera: 5*8=40.,5 gånger 8 är 40.
+833,Hur mycket är 84 delat med 7?,Dividera: 84/7=12.,84 delat med 7 är 12.
+834,Hur mycket är 10 procent av 300?,Procent: 300*10/100=30.,10 procent av 300 är 30.
+835,Hur mycket är 27 plus 2?,Addera: 27+2=29.,27 plus 2 är 29.
+836,Hur mycket är 35 minus 18?,Subtrahera: 35-18=17.,35 minus 18 är 17.
+837,Hur mycket är 2 gånger 11?,Multiplicera: 2*11=22.,2 gånger 11 är 22.
+838,Hur mycket är 126 delat med 7?,Dividera: 126/7=18.,126 delat med 7 är 18.
+839,Hur mycket är 35 plus 45?,Addera: 35+45=80.,35 plus 45 är 80.
+840,Hur mycket är 50 minus 31?,Subtrahera: 50-31=19.,50 minus 31 är 19.
+841,Hur mycket är 12 gånger 5?,Multiplicera: 12*5=60.,12 gånger 5 är 60.
+842,Hur mycket är 56 delat med 8?,Dividera: 56/8=7.,56 delat med 8 är 7.
+843,Hur mycket är 15 plus 18?,Addera: 15+18=33.,15 plus 18 är 33.
+844,Hur mycket är 62 minus 32?,Subtrahera: 62-32=30.,62 minus 32 är 30.
+845,Hur mycket är 5 gånger 7?,Multiplicera: 5*7=35.,5 gånger 7 är 35.
+846,Filmen börjar 20:15 och varar 90 minuter. När slutar den?,20:15 + 90 min = 21:45.,Den slutar 21:45.
+847,Klockan är 9. Om 3h30 har jag en tid. När?,9:00 + 3:30 = 12:30.,Tiden är 12:30.
+848,En kaka gräddas 45 minuter. Jag sätter in den 16:20. När är den klar?,16:20 + 0:45 = 17:05.,Den är klar 17:05.
+849,Skolan börjar 8:00 och slutar 13:15. Hur länge?,13:15 - 8:00 = 5:15.,Den varar 5 timmar och 15 minuter.
+850,"Om jag läser 30 minuter från 19:00, när är jag klar?",19:00 + 0:30 = 19:30.,Du är klar 19:30.
+851,Hur lär jag mig ord bäst?,"Korta dagliga pass, kort, aktiv användning.",Bäst i korta dagliga pass med kort och aktiv användning i meningar plus repetition.
+852,lära ord - tips?,"Korta dagliga pass, kort, aktiv användning.",Bäst i korta dagliga pass med kort och aktiv användning i meningar plus repetition.
+853,Snabbguide: lära ord.,"Korta dagliga pass, kort, aktiv användning.",Bäst i korta dagliga pass med kort och aktiv användning i meningar plus repetition.
+854,Hur sparar jag i vardagen?,"Budget, abonnemang, laga mat, jämföra.","Sätt en budget, kolla abonnemang, laga mer mat, jämför priser och spara först ett fast belopp."
+855,spara - tips?,"Budget, abonnemang, laga mat, jämföra.","Sätt en budget, kolla abonnemang, laga mer mat, jämför priser och spara först ett fast belopp."
+856,Snabbguide: spara.,"Budget, abonnemang, laga mat, jämföra.","Sätt en budget, kolla abonnemang, laga mer mat, jämför priser och spara först ett fast belopp."
+857,"Vad lagar jag med bara pasta, tomat och ost?",Pasta med tomatsås och ost.,"Gör pasta med enkel tomatsås: krydda, koka, häll över pastan, strö ost."
+858,snabb pasta - tips?,Pasta med tomatsås och ost.,"Gör pasta med enkel tomatsås: krydda, koka, häll över pastan, strö ost."
+859,Snabbguide: snabb pasta.,Pasta med tomatsås och ost.,"Gör pasta med enkel tomatsås: krydda, koka, häll över pastan, strö ost."
+860,"Jag flyger imorgon, vad tar jag med?","Lista: ID, biljett, pengar, telefon, laddare.","Ta med: ID eller pass, biljett, pengar, telefon plus laddare, medicin, hygien och ombyte i handbagaget."
+861,flygpackning - tips?,"Lista: ID, biljett, pengar, telefon, laddare.","Ta med: ID eller pass, biljett, pengar, telefon plus laddare, medicin, hygien och ombyte i handbagaget."
+862,Snabbguide: flygpackning.,"Lista: ID, biljett, pengar, telefon, laddare.","Ta med: ID eller pass, biljett, pengar, telefon plus laddare, medicin, hygien och ombyte i handbagaget."
+863,Hur skriver jag en bra ursäkt?,"Nämn felet, ansvar, gottgörelse.","Nämn felet, ta ansvar, visa ånger och erbjud gottgörelse, kort och ärligt."
+864,ursäkt - tips?,"Nämn felet, ansvar, gottgörelse.","Nämn felet, ta ansvar, visa ånger och erbjud gottgörelse, kort och ärligt."
+865,Snabbguide: ursäkt.,"Nämn felet, ansvar, gottgörelse.","Nämn felet, ta ansvar, visa ånger och erbjud gottgörelse, kort och ärligt."
+866,Hur planerar jag 3 dagar i stan?,"Resa, hotell, 2-3 höjdpunkter per dag.","Bestäm resa och hotell, välj 2-3 höjdpunkter per dag, planera buffertar för mat och vägar, sätt dagbudget."
+867,stadsresa - tips?,"Resa, hotell, 2-3 höjdpunkter per dag.","Bestäm resa och hotell, välj 2-3 höjdpunkter per dag, planera buffertar för mat och vägar, sätt dagbudget."
+868,Snabbguide: stadsresa.,"Resa, hotell, 2-3 höjdpunkter per dag.","Bestäm resa och hotell, välj 2-3 höjdpunkter per dag, planera buffertar för mat och vägar, sätt dagbudget."
+869,Paraply vid 80 procents regn?,"80% högt, ja rekommenderas.","Ja, ta med. Vid 80 procent är regn mycket troligt."
+870,paraply - tips?,"80% högt, ja rekommenderas.","Ja, ta med. Vid 80 procent är regn mycket troligt."
+871,Snabbguide: paraply.,"80% högt, ja rekommenderas.","Ja, ta med. Vid 80 procent är regn mycket troligt."
+872,Vad är bättre för anteckningar: papper eller telefon?,"Papper utan distraktion, telefon sökbar.","Båda har fördelar: papper är utan distraktion och bra för minnet, telefon sökbar och alltid med."
+873,anteckningar papper eller telefon - tips?,"Papper utan distraktion, telefon sökbar.","Båda har fördelar: papper är utan distraktion och bra för minnet, telefon sökbar och alltid med."
+874,Snabbguide: anteckningar papper eller telefon.,"Papper utan distraktion, telefon sökbar.","Båda har fördelar: papper är utan distraktion och bra för minnet, telefon sökbar och alltid med."
+875,Hur städar jag mitt rum snabbt?,"Skräp, tvätt, lägg tillbaka, torka.","Samla först skräp, sedan tvätt, lägg allt tillbaka och torka kort till sist."
+876,städa snabbt - tips?,"Skräp, tvätt, lägg tillbaka, torka.","Samla först skräp, sedan tvätt, lägg allt tillbaka och torka kort till sist."
+877,Snabbguide: städa snabbt.,"Skräp, tvätt, lägg tillbaka, torka.","Samla först skräp, sedan tvätt, lägg allt tillbaka och torka kort till sist."
+878,Hur packar jag en väska kompakt?,"Rulla, tungt ner, fyll.","Rulla kläder istället för att vika, tungt ner, fyll hål med sockor."
+879,kompakt väska - tips?,"Rulla, tungt ner, fyll.","Rulla kläder istället för att vika, tungt ner, fyll hål med sockor."
+880,Snabbguide: kompakt väska.,"Rulla, tungt ner, fyll.","Rulla kläder istället för att vika, tungt ner, fyll hål med sockor."
+881,Hur kokar jag ris?,"Förhållande 1:2, 10-12 min svälla.","Tvätta ris, koka upp med dubbelt vatten, låt svälla 10-12 minuter."
+882,koka ris - tips?,"Förhållande 1:2, 10-12 min svälla.","Tvätta ris, koka upp med dubbelt vatten, låt svälla 10-12 minuter."
+883,Snabbguide: koka ris.,"Förhållande 1:2, 10-12 min svälla.","Tvätta ris, koka upp med dubbelt vatten, låt svälla 10-12 minuter."
+884,Hur kokar jag pasta?,"Saltat vatten, koka 8-10 min.","Salta mycket vatten, koka upp, koka pasta 8-10 minuter, häll av."
+885,koka pasta - tips?,"Saltat vatten, koka 8-10 min.","Salta mycket vatten, koka upp, koka pasta 8-10 minuter, häll av."
+886,Snabbguide: koka pasta.,"Saltat vatten, koka 8-10 min.","Salta mycket vatten, koka upp, koka pasta 8-10 minuter, häll av."
+887,Hur gör jag pannkakor?,"Mjöl, mjölk, ägg, stek gyllene.","Blanda mjöl, mjölk, ägg och en nypa salt, stek tunt tills gyllene."
+888,pannkakor - tips?,"Mjöl, mjölk, ägg, stek gyllene.","Blanda mjöl, mjölk, ägg och en nypa salt, stek tunt tills gyllene."
+889,Snabbguide: pannkakor.,"Mjöl, mjölk, ägg, stek gyllene.","Blanda mjöl, mjölk, ägg och en nypa salt, stek tunt tills gyllene."
+890,Hur vaknar jag på morgonen?,"Ljus, vatten, rörelse.","Tänd ljuset, drick ett glas vatten, rör dig kort och få frisk luft."
+891,vakna - tips?,"Ljus, vatten, rörelse.","Tänd ljuset, drick ett glas vatten, rör dig kort och få frisk luft."
+892,Snabbguide: vakna.,"Ljus, vatten, rörelse.","Tänd ljuset, drick ett glas vatten, rör dig kort och få frisk luft."
+893,Hur somnar jag snabbare?,"Mörkt, svalt, ingen telefon, rutin.","Sov mörkt och svalt, lägg bort telefonen, håll fast rutin."
+894,somna - tips?,"Mörkt, svalt, ingen telefon, rutin.","Sov mörkt och svalt, lägg bort telefonen, håll fast rutin."
+895,Snabbguide: somna.,"Mörkt, svalt, ingen telefon, rutin.","Sov mörkt och svalt, lägg bort telefonen, håll fast rutin."
+896,Hur pluggar jag till en tenta?,"Block, aktiv återkallelse, pauser.","Dela upp i block, förhör dig aktivt, ta pauser, repetera nästa dag."
+897,plugga tenta - tips?,"Block, aktiv återkallelse, pauser.","Dela upp i block, förhör dig aktivt, ta pauser, repetera nästa dag."
+898,Snabbguide: plugga tenta.,"Block, aktiv återkallelse, pauser.","Dela upp i block, förhör dig aktivt, ta pauser, repetera nästa dag."
+899,Hur skriver jag en jobbansökan?,"Brev, CV, betyg.",Skriv ett kort brev plus tabell-CV och relevanta betyg.
+900,jobbansökan - tips?,"Brev, CV, betyg.",Skriv ett kort brev plus tabell-CV och relevanta betyg.
+901,Snabbguide: jobbansökan.,"Brev, CV, betyg.",Skriv ett kort brev plus tabell-CV och relevanta betyg.
+902,Hur hittar jag en bostad?,"Budget, portaler, papper, visningar.","Sätt en budget, sök på portaler, förbered papper, gå på visningar med frågor."
+903,hitta bostad - tips?,"Budget, portaler, papper, visningar.","Sätt en budget, sök på portaler, förbered papper, gå på visningar med frågor."
+904,Snabbguide: hitta bostad.,"Budget, portaler, papper, visningar.","Sätt en budget, sök på portaler, förbered papper, gå på visningar med frågor."
+905,Hur vattnar jag blommor rätt?,"Fingertest, ingen väta.","Fingertest: vattna bara när ovansidan är torr, undvik väta."
+906,vattna blommor - tips?,"Fingertest, ingen väta.","Fingertest: vattna bara när ovansidan är torr, undvik väta."
+907,Snabbguide: vattna blommor.,"Fingertest, ingen väta.","Fingertest: vattna bara när ovansidan är torr, undvik väta."
+908,Hur organiserar jag min dag?,"3 prioriteringar, block, pauser.","Välj 3 prioriteringar, planera block med pauser, lägg bort distraktioner."
+909,organisera dagen - tips?,"3 prioriteringar, block, pauser.","Välj 3 prioriteringar, planera block med pauser, lägg bort distraktioner."
+910,Snabbguide: organisera dagen.,"3 prioriteringar, block, pauser.","Välj 3 prioriteringar, planera block med pauser, lägg bort distraktioner."
+911,Hur börjar jag träna?,"Lite, 2x per vecka, öka.","Börja 2x per vecka promenad eller lätt, öka långsamt."
+912,börja träna - tips?,"Lite, 2x per vecka, öka.","Börja 2x per vecka promenad eller lätt, öka långsamt."
+913,Snabbguide: börja träna.,"Lite, 2x per vecka, öka.","Börja 2x per vecka promenad eller lätt, öka långsamt."
+914,Hur dricker jag nog vatten?,"Flaska redo, påminnelser.","Håll en flaska redo, drick ett glas till varje måltid, använd påminnelser."
+915,dricka nog - tips?,"Flaska redo, påminnelser.","Håll en flaska redo, drick ett glas till varje måltid, använd påminnelser."
+916,Snabbguide: dricka nog.,"Flaska redo, påminnelser.","Håll en flaska redo, drick ett glas till varje måltid, använd påminnelser."
+917,Vad är en nyttig frukost?,"Havre, frukt, yoghurt.","Till exempel havre med frukt och yoghurt, eller fullkornsbröd med ägg."
+918,nyttig frukost - tips?,"Havre, frukt, yoghurt.","Till exempel havre med frukt och yoghurt, eller fullkornsbröd med ägg."
+919,Snabbguide: nyttig frukost.,"Havre, frukt, yoghurt.","Till exempel havre med frukt och yoghurt, eller fullkornsbröd med ägg."
+920,Vad hjälper mot stress?,"Pauser, rörelse, sömn, prata.","Korta pauser, rörelse, nog sömn och att prata hjälper."
+921,stress - tips?,"Pauser, rörelse, sömn, prata.","Korta pauser, rörelse, nog sömn och att prata hjälper."
+922,Snabbguide: stress.,"Pauser, rörelse, sömn, prata.","Korta pauser, rörelse, nog sömn och att prata hjälper."
+923,Hur avbokar jag ett möte?,"Tidigt, kort skäl, nytt datum.","Avboka tidigt, ge kort skäl, föreslå nytt datum."
+924,avboka möte - tips?,"Tidigt, kort skäl, nytt datum.","Avboka tidigt, ge kort skäl, föreslå nytt datum."
+925,Snabbguide: avboka möte.,"Tidigt, kort skäl, nytt datum.","Avboka tidigt, ge kort skäl, föreslå nytt datum."
+926,Hur ber jag om hjälp?,"Konkret: vad, när, tack.","Be konkret: vad, till när, varför. Exempel: Kan du hjälpa mig bära idag? Tack!"
+927,be om hjälp - tips?,"Konkret: vad, när, tack.","Be konkret: vad, till när, varför. Exempel: Kan du hjälpa mig bära idag? Tack!"
+928,Snabbguide: be om hjälp.,"Konkret: vad, när, tack.","Be konkret: vad, till när, varför. Exempel: Kan du hjälpa mig bära idag? Tack!"
+929,Hur lär jag mig säga nej?,"Kort, vänligt, alternativ.","Säg nej kort och vänligt, erbjud alternativ om möjligt."
+930,säga nej - tips?,"Kort, vänligt, alternativ.","Säg nej kort och vänligt, erbjud alternativ om möjligt."
+931,Snabbguide: säga nej.,"Kort, vänligt, alternativ.","Säg nej kort och vänligt, erbjud alternativ om möjligt."
+932,Hur sparar jag till semestern?,"Mål, månadsvis auto.","Sätt ett mål, spara månadsvis automatiskt, lägg till extra."
+933,spara till semester - tips?,"Mål, månadsvis auto.","Sätt ett mål, spara månadsvis automatiskt, lägg till extra."
+934,Snabbguide: spara till semester.,"Mål, månadsvis auto.","Sätt ett mål, spara månadsvis automatiskt, lägg till extra."
+935,Hur bokar jag billiga flyg?,"Flexibla datum, jämför, tidigt.","Var flexibel med datum, jämför portaler, boka tidigt."
+936,billiga flyg - tips?,"Flexibla datum, jämför, tidigt.","Var flexibel med datum, jämför portaler, boka tidigt."
+937,Snabbguide: billiga flyg.,"Flexibla datum, jämför, tidigt.","Var flexibel med datum, jämför portaler, boka tidigt."
+938,Hur hittar jag utan internet?,"Offlinekartor, skyltar, fråga.","Ladda offlinekartor, följ skyltar, fråga folk."
+939,hitta utan internet - tips?,"Offlinekartor, skyltar, fråga.","Ladda offlinekartor, följ skyltar, fråga folk."
+940,Snabbguide: hitta utan internet.,"Offlinekartor, skyltar, fråga.","Ladda offlinekartor, följ skyltar, fråga folk."
+941,Vad är skillnaden mellan hund och katt som husdjur?,Hundar: promenader och fostran; katter självständiga.,"Hundar kräver promenader och fostran, katter är självständigare. Välj efter tid och plats."
+942,hund eller katt - vad rekommenderar du?,Hundar: promenader och fostran; katter självständiga.,"Hundar kräver promenader och fostran, katter är självständigare. Välj efter tid och plats."
+943,Tåg eller bil för 300 km?,"Tåg avkopplat och grönare, bil flexibel.","Tåget är avkopplat och ofta grönare, bilen flexibel med bagage. Med köer vinner tåget."
+944,tåg eller bil 300 km - vad rekommenderar du?,"Tåg avkopplat och grönare, bil flexibel.","Tåget är avkopplat och ofta grönare, bilen flexibel med bagage. Med köer vinner tåget."
+945,Äpple eller choklad som mellanmål?,Äpple: vitaminer och mättnad.,"Ta äpplet för vitaminer och mättnad, choklad som undantag."
+946,äpple eller choklad - vad rekommenderar du?,Äpple: vitaminer och mättnad.,"Ta äpplet för vitaminer och mättnad, choklad som undantag."
+947,Laptop eller PC för spel?,"PC kraftfullare för pengarna, laptop mobil.","PC ger mer kraft för pengarna, laptops är mobila. För max välj PC."
+948,laptop eller PC spel - vad rekommenderar du?,"PC kraftfullare för pengarna, laptop mobil.","PC ger mer kraft för pengarna, laptops är mobila. För max välj PC."
+949,Stad eller land att bo i?,Stad: jobb och närhet; land: lugn.,"Städer ger jobb och närhet, landet lugn och plats. Välj efter arbete och stil."
+950,stad eller land - vad rekommenderar du?,Stad: jobb och närhet; land: lugn.,"Städer ger jobb och närhet, landet lugn och plats. Välj efter arbete och stil."
+951,Vad räknas mest: sömn eller plugg?,Sömn befäster lärande.,"Sömn räknas mest för den befäster lärande. Plugga tidigt, sov nog."
+952,sömn eller plugg - vad rekommenderar du?,Sömn befäster lärande.,"Sömn räknas mest för den befäster lärande. Plugga tidigt, sov nog."
+953,Ny telefon eller behålla den gamla?,Behåll om den räcker; köp vid fel eller behov.,Behåll den om den räcker. Köp nytt bara vid fel eller verkligt behov.
+954,ny telefon - vad rekommenderar du?,Behåll om den räcker; köp vid fel eller behov.,Behåll den om den räcker. Köp nytt bara vid fel eller verkligt behov.
+955,Vad är fejknyheter?,"Hittade på, som äkta; kolla källan.","Fejknyheter är påhittade. Kolla källa, datum och andra medier."
+956,fejknyheter - vad rekommenderar du?,"Hittade på, som äkta; kolla källan.","Fejknyheter är påhittade. Kolla källa, datum och andra medier."
+957,Vad är skillnaden mellan fakta och åsikt?,"Fakta bevisbart, åsikt personlig syn.","Ett faktum är bevisbart och kollbart, en åsikt är en personlig syn."
+958,fakta eller åsikt - vad rekommenderar du?,"Fakta bevisbart, åsikt personlig syn.","Ett faktum är bevisbart och kollbart, en åsikt är en personlig syn."
+959,Cykel eller buss till skolan? (5 km),"Fint väder cykel, regn buss.","Vid fint väder ta cykeln (cirka 20 min, hälsosamt), vid regn bussen."
+960,cykel eller buss skola 5 km - vad rekommenderar du?,"Fint väder cykel, regn buss.","Vid fint väder ta cykeln (cirka 20 min, hälsosamt), vid regn bussen."
+961,Vatten eller saft mot törst?,"Vatten bättre, inget socker.",Vatten släcker törst bäst och har inget socker. Saft bara utspädd.
+962,vatten eller saft - vad rekommenderar du?,"Vatten bättre, inget socker.",Vatten släcker törst bäst och har inget socker. Saft bara utspädd.
+963,Kaffe eller vatten på morgonen?,"Först vatten, kaffe måttligt.","Drick först vatten, kaffe sedan med måtta."
+964,kaffe eller vatten morgon - vad rekommenderar du?,"Först vatten, kaffe måttligt.","Drick först vatten, kaffe sedan med måtta."
+965,Hyra eller köpa? (allmänt),Flexibel hyr; länge kolla köpa.,"Hyr om du förblir flexibel; om du stannar länge och kan betala, kolla köpa med alla kostnader."
+966,hyra eller köpa - vad rekommenderar du?,Flexibel hyr; länge kolla köpa.,"Hyr om du förblir flexibel; om du stannar länge och kan betala, kolla köpa med alla kostnader."
+967,Stiga upp tidigt eller sent?,Efter plikter och sömn.,Välj efter plikter och sömn: nog sömn och fast rytm räknas.
+968,tidigt eller sent - vad rekommenderar du?,Efter plikter och sömn.,Välj efter plikter och sömn: nog sömn och fast rytm räknas.
+969,Sport varje dag?,Vila räknas; 3-4x per vecka räcker.,"Nej, planera vila. 3-4 gånger per vecka räcker ofta, dagligen bara lätt."
+970,sport varje dag - vad rekommenderar du?,Vila räknas; 3-4x per vecka räcker.,"Nej, planera vila. 3-4 gånger per vecka räcker ofta, dagligen bara lätt."
+971,Jobba med feber?,"Nej, vila och läkare.",Nej. Vila och gå till läkaren vid hög eller lång feber.
+972,feber och jobb - vad rekommenderar du?,"Nej, vila och läkare.",Nej. Vila och gå till läkaren vid hög eller lång feber.
+973,Hur väljer jag mellan två erbjudanden?,"Kriterier, pro/contra, deadline.","Lista kriterier, poängsätt, kolla kostnader och känsla, bestäm med deadline."
+974,välja mellan erbjudanden - vad rekommenderar du?,"Kriterier, pro/contra, deadline.","Lista kriterier, poängsätt, kolla kostnader och känsla, bestäm med deadline."
+975,Hur sparar jag 500 euro på 5 månader?,500/5=100 per månad auto.,"Spara 100 euro per månad automatiskt, t.ex. uppdrag efter lön."
+976,spara 500 på 5 månader - vad rekommenderar du?,500/5=100 per månad auto.,"Spara 100 euro per månad automatiskt, t.ex. uppdrag efter lön."
+977,Vad är skillnaden mellan behöva och vilja?,"Behöva livsviktigt, vilja därutöver.","Att behöva är livsviktigt, att vilja är en önskan därutöver."
+978,behöva eller vilja - vad rekommenderar du?,"Behöva livsviktigt, vilja därutöver.","Att behöva är livsviktigt, att vilja är en önskan därutöver."
+979,Vad räknas mest: pengar eller tid?,"Tid begränsad, pengar ersättliga.","Tid är begränsad och kommer inte tillbaka, pengar går att tjäna igen. Balans räknas."
+980,pengar eller tid - vad rekommenderar du?,"Tid begränsad, pengar ersättliga.","Tid är begränsad och kommer inte tillbaka, pengar går att tjäna igen. Balans räknas."
+981,Sammanfatta: när tänker du och när inte?,"Regel: småprat utan tänkande; fakta, matte, förklaringar, beslut med tänkande.","Jag tänker inte vid hälsningar, tack och småprat. Jag tänker vid fakta, matte, förklaringar, jämförelser och beslut, och då visar jag tänkandet."
+982,Vad är tolerans?,Definiera tolerans enkelt och korrekt.,tolerans kort: Tolerans accepterar andras åsikter och livsstilar.
+983,Vad är tålamod?,Definiera tålamod enkelt och korrekt.,tålamod kort: Tålamod väntar lugnt och håller ut.
+984,Vad är mod?,Definiera mod enkelt och korrekt.,mod kort: Mod gör det rätta trots rädsla.
+985,Vad är disciplin?,Definiera disciplin enkelt och korrekt.,disciplin kort: Disciplin håller ut även utan lust.
+986,Vad är kreativitet?,Definiera kreativitet enkelt och korrekt.,kreativitet kort: Kreativitet hittar nya idéer och lösningar.
+987,Vad är lagarbete?,Definiera lagarbete enkelt och korrekt.,lagarbete kort: Lagarbete arbetar tillsammans mot ett mål.
+988,Vad är ansvar?,Definiera ansvar enkelt och korrekt.,ansvar kort: Ansvar står för handlingar och följder.
+989,Vad är förtroende?,Definiera förtroende enkelt och korrekt.,förtroende kort: Förtroende kan lita på andra.
+990,Vad är artighet?,Definiera artighet enkelt och korrekt.,artighet kort: Artighet är respektfull och vänlig.
+991,Vad är punktlighet?,Definiera punktlighet enkelt och korrekt.,punktlighet kort: Punktlighet håller avtalade tider.
+992,Vad är pålitlighet?,Definiera pålitlighet enkelt och korrekt.,pålitlighet kort: Pålitlighet håller löften.
+993,Vad är hälsa?,Definiera hälsa enkelt och korrekt.,hälsa kort: Hälsa är fysiskt och mentalt välbefinnande.
+994,Vad är lycka?,Definiera lycka enkelt och korrekt.,lycka kort: Lycka är tillfredsställelse och glada stunder.
+995,Vad är framgång?,Definiera framgång enkelt och korrekt.,framgång kort: Framgång når uppsatta mål.
+996,Vad är lärande?,Definiera lärande enkelt och korrekt.,lärande kort: Lärande förvärvar kunskap och färdigheter.
+997,Vad är kunskap?,Definiera kunskap enkelt och korrekt.,kunskap kort: Kunskap är förstådd information om världen.
+998,Vad är erfarenhet?,Definiera erfarenhet enkelt och korrekt.,erfarenhet kort: Erfarenhet är kunskap ur eget liv.
+999,Vad är humor?,Definiera humor enkelt och korrekt.,humor kort: Humor kan skratta åt roliga saker.
+1000,Vad är kärlek?,Definiera kärlek enkelt och korrekt.,kärlek kort: Kärlek är djup tillgivenhet och omsorg.

@@ -1,0 +1,1001 @@
+id,user,thinking,ai
+1,¡Hola!,,¡Hola! ¿Cómo puedo ayudar?
+2,¡Buenas!,,¡Buenas! ¿Qué puedo hacer por ti?
+3,¡Ey!,,¡Ey! ¿Cómo puedo ayudar?
+4,"Hola, ¿estás ahí?",,"¡Sí, estoy aquí! ¿Qué necesitas?"
+5,"Ey, ¿estás ahí?",,"¡Sí, aquí estoy! Adelante."
+6,¡Buenos días!,,¡Buenos días! ¿Qué hay hoy?
+7,"¡Buenos días, cómo estás?",,"¡Buenos días! Estoy bien, ¿y tú?"
+8,¡Buenas tardes!,,¡Buenas tardes! ¿Cómo puedo ayudar?
+9,¡Hola a todos!,,¡Hola a todos! ¿Qué puedo hacer?
+10,¡Buenas noches!,,¡Buenas noches! ¿Cómo fue tu día?
+11,"Buenas noches, ¿cómo fue tu día?",,Tranquilo y bien. ¿Y el tuyo?
+12,"Ey, ¿cómo estás?",,"¡Estoy bien, gracias! ¿Y tú?"
+13,"Hola, ¿cómo estás?",,"¡Bien, gracias! ¿Cómo estás?"
+14,¿Cómo va?,,¡Va bien! ¿Y tú?
+15,¿Cómo estás hoy?,,¡Me siento bien! ¿Y tú?
+16,¿Todo bien?,,"¡Sí, todo bien! ¿Y tú?"
+17,¿Qué pasa?,,Nada especial. ¿Qué pasa contigo?
+18,¿Qué haces?,,Charlando contigo. ¿Y tú?
+19,¿Aún despierto?,,"Sí, siempre despierto. ¿Y tú?"
+20,¿Listo?,,"¡Sí, listo! Adelante."
+21,¿Tienes un minuto?,,"Sí, tengo tiempo para ti."
+22,¿Puedes ayudarme rápido?,,"Claro, ¿qué necesitas?"
+23,¡Adiós!,,¡Adiós! ¡Hasta pronto!
+24,"¡Adiós, hasta pronto!",,"¡Hasta pronto, cuídate!"
+25,¡Hasta luego!,,¡Hasta luego!
+26,¡Cuídate!,,"¡Tú también, cuídate!"
+27,¡Buen fin de semana!,,"¡Gracias, igualmente!"
+28,¡Dulces sueños!,,¡Gracias! ¡Dulces sueños también!
+29,Me aburro,,¿Hacemos un quiz o hablamos de un tema?
+30,Qué aburrido aquí,,Vamos a animarlo. ¿Qué te apetece?
+31,¡Genial!,,¡Genial!
+32,¡Guay!,,¡Guay!
+33,Jaja,,¡Jaja!
+34,Jajaja :),,"¡Jaja, me alegro!"
+35,Estoy cansado,,¡Entonces descansa bien!
+36,Estoy emocionado,,¡Qué bien! Cuéntame más.
+37,¡Por fin fin de semana!,,¡Sí! ¿Qué planes tienes?
+38,Hace buen tiempo hoy,,"¡Sí, disfruta el sol!"
+39,Tengo hambre,,¡Entonces come algo rico!
+40,Tengo sed,,¡Entonces bebe un vaso de agua!
+41,Qué hay previsto hoy?,,Mi plan: ayudarte. ¿Y el tuyo?
+42,"Oye, qué hay previsto hoy!",,Mi plan: ayudarte. ¿Y el tuyo?
+43,"Hola, qué hay previsto hoy?",,Mi plan: ayudarte. ¿Y el tuyo?
+44,"Ey, qué hay previsto hoy?",,Mi plan: ayudarte. ¿Y el tuyo?
+45,Planes para el finde!,,Nada fijo aún. ¿Tienes planes?
+46,"Oye, planes para el finde?",,Nada fijo aún. ¿Tienes planes?
+47,"Hola, planes para el finde?",,Nada fijo aún. ¿Tienes planes?
+48,"Ey, planes para el finde!",,Nada fijo aún. ¿Tienes planes?
+49,Dormiste bien?,,"Yo no duermo, pero estoy en forma. ¿Y tú?"
+50,"Oye, dormiste bien?",,"Yo no duermo, pero estoy en forma. ¿Y tú?"
+51,"Hola, dormiste bien!",,"Yo no duermo, pero estoy en forma. ¿Y tú?"
+52,"Ey, dormiste bien?",,"Yo no duermo, pero estoy en forma. ¿Y tú?"
+53,Ya despierto?,,"Sí, estoy listo. ¿Qué necesitas?"
+54,"Oye, ya despierto!",,"Sí, estoy listo. ¿Qué necesitas?"
+55,"Hola, ya despierto?",,"Sí, estoy listo. ¿Qué necesitas?"
+56,"Ey, ya despierto?",,"Sí, estoy listo. ¿Qué necesitas?"
+57,Cómo va tu día!,,"Bien, ¡gracias! ¿Y el tuyo?"
+58,"Oye, cómo va tu día?",,"Bien, ¡gracias! ¿Y el tuyo?"
+59,"Hola, cómo va tu día?",,"Bien, ¡gracias! ¿Y el tuyo?"
+60,"Ey, cómo va tu día!",,"Bien, ¡gracias! ¿Y el tuyo?"
+61,Todo tranquilo?,,"Sí, tranquilo aquí. ¿Y contigo?"
+62,"Oye, todo tranquilo?",,"Sí, tranquilo aquí. ¿Y contigo?"
+63,"Hola, todo tranquilo!",,"Sí, tranquilo aquí. ¿Y contigo?"
+64,"Ey, todo tranquilo?",,"Sí, tranquilo aquí. ¿Y contigo?"
+65,Qué hay de nuevo?,,Nada especial. ¿Qué hay de nuevo contigo?
+66,"Oye, qué hay de nuevo!",,Nada especial. ¿Qué hay de nuevo contigo?
+67,"Hola, qué hay de nuevo?",,Nada especial. ¿Qué hay de nuevo contigo?
+68,"Ey, qué hay de nuevo?",,Nada especial. ¿Qué hay de nuevo contigo?
+69,Planes para hoy!,,Solo ayudarte. ¿Qué haces tú?
+70,"Oye, planes para hoy?",,Solo ayudarte. ¿Qué haces tú?
+71,"Hola, planes para hoy?",,Solo ayudarte. ¿Qué haces tú?
+72,"Ey, planes para hoy!",,Solo ayudarte. ¿Qué haces tú?
+73,Día ocupado?,,Un poco. ¿Y el tuyo?
+74,"Oye, día ocupado?",,Un poco. ¿Y el tuyo?
+75,"Hola, día ocupado!",,Un poco. ¿Y el tuyo?
+76,"Ey, día ocupado?",,Un poco. ¿Y el tuyo?
+77,Qué tiempo hace?,,"No tengo ventana, ¡pero espero que haga bueno contigo!"
+78,"Oye, qué tiempo hace!",,"No tengo ventana, ¡pero espero que haga bueno contigo!"
+79,"Hola, qué tiempo hace?",,"No tengo ventana, ¡pero espero que haga bueno contigo!"
+80,"Ey, qué tiempo hace?",,"No tengo ventana, ¡pero espero que haga bueno contigo!"
+81,Todo bien hoy!,,¡Sí! ¿Y contigo?
+82,"Oye, todo bien hoy?",,¡Sí! ¿Y contigo?
+83,"Hola, todo bien hoy?",,¡Sí! ¿Y contigo?
+84,"Ey, todo bien hoy!",,¡Sí! ¿Y contigo?
+85,Mucho lío?,,Un poco. ¿Y tú?
+86,"Oye, mucho lío?",,Un poco. ¿Y tú?
+87,"Hola, mucho lío!",,Un poco. ¿Y tú?
+88,"Ey, mucho lío?",,Un poco. ¿Y tú?
+89,¡Gracias!,,¡De nada!
+90,¡Muchas gracias!,,¡Con mucho gusto!
+91,¡Mil gracias!,,¡Me alegro de ayudar!
+92,¡Gracias por todo!,,¡De nada!
+93,Vale,,¡Vale!
+94,"Vale, bien",,¡Perfecto!
+95,Entendido,,¡Muy bien!
+96,Comprendido,,¡Genial!
+97,Suena bien,,¡Me alegro!
+98,Suena genial,,¡Maravilloso!
+99,"Sí, exacto",,"Genial, sigamos."
+100,"Sí, por favor",,"Claro, adelante."
+101,"Sí, con gusto",,¡Con placer!
+102,Sin problema,,¡Gracias por entender!
+103,"No, gracias",,"Vale, sin problema."
+104,Me vale,,¡De acuerdo!
+105,Me viene bien,,¡Genial!
+106,Sigue,,¡Sigo!
+107,Cuéntame más,,¡Con gusto! Entonces...
+108,Exactamente,,¡Absolutamente!
+109,¡Eso es!,,¡Eso es!
+110,Claro,,¡Claro!
+111,¿De verdad?,,"¡Sí, de verdad!"
+112,"Oh, qué bien",,"Sí, qué bien, ¿no?"
+113,Sin estrés,,¡Gracias! Todo tranquilo.
+114,Perdón,,¡Sin problema!
+115,Disculpa,,¡Sin problema!
+116,Culpa mía,,No pasa nada. ¿Qué pasó?
+117,Qué amable,,¡Gracias! Tú también eres amable.
+118,Bien hecho,,¡Gracias!
+119,Hasta pronto,,¡Hasta pronto!
+120,¡Perfecto!,,¡Perfecto!
+121,"De acuerdo, trato hecho",,"¡Genial, de acuerdo!"
+122,¡Trato hecho!,,¡Trato hecho!
+123,¿Empezamos?,,"¡Sí, empecemos!"
+124,¿Terminaste?,,"¡Sí, terminé!"
+125,"Otra vez, por favor",,"¡Con gusto, otra vez!"
+126,"Repite, por favor",,"Claro, aquí va de nuevo."
+127,"Un momento, por favor",,"Claro, tómate tu tiempo."
+128,Espera un segundo,,"Vale, espero."
+129,Vuelvo enseguida,,"¡Vale, hasta ahora!"
+130,Cuéntame un chiste,,Claro: ¿Por qué aman el café los programadores? ¡Hora de Java!
+131,¡Otro chiste!,,Vale: ¿Por qué mienten mal los fantasmas? ¡Se ve a través de ellos!
+132,"Un chiste corto, por favor",,Se encuentran dos imanes. Dice uno: ¡Me atraes!
+133,Anímame,,¡Tú puedes! Paso a paso.
+134,Algo motivador,,Cada paso cuenta. ¡Sigue!
+135,Estoy nervioso,,"Es normal. Respira tranquilo, te irá bien."
+136,Estoy estresado,,"Haz una pausa corta, bebe agua, respira hondo."
+137,Deséame suerte,,¡Suerte! ¡Tú puedes!
+138,Cruzo los dedos,,¡Yo también! ¡Suerte!
+139,¡Hoy es mi día!,,¡Genial! ¡Disfrútalo!
+140,Estoy de buen humor,,¡Qué bien! Me alegro.
+141,Estoy de mal humor,,"Oh, ¿qué pasó? ¿Quieres hablar?"
+142,¡Choca esos cinco!,,¡Choca esos cinco también!
+143,¡Salud!,,¡Salud!
+144,¡Buen provecho!,,"¡Gracias, igualmente!"
+145,¡Suerte!,,¡Gracias! ¡Suerte también para ti!
+146,¡Bienvenido!,,¡Gracias! Qué bien estar aquí.
+147,¡Feliz Navidad!,,¡Feliz Navidad para ti también!
+148,¡Feliz Año Nuevo!,,¡Feliz Año Nuevo! ¡Salud y suerte!
+149,¡Felicidades!,,¡Gracias! ¿Por qué?
+150,¡Respeto!,,¡Gracias! Respeto también.
+151,¡Guau!,,"¡Guau, no?"
+152,¡Increíble!,,"¡Increíble, no?"
+153,¿Trato?,,¡Trato!
+154,¡Listo!,,"¡Felicidades, bien hecho!"
+155,¡Por fin listo!,,¡Fuerte! ¡Bien hecho!
+156,Me da igual,,"Vale, sin problema."
+157,No lo sé,,¡Sin problema! ¿De qué se trata?
+158,Ni idea,,¡No importa! Dime el tema.
+159,Quizás luego,,"¡Claro, luego!"
+160,Ahora no,,"Entendido, ¡luego!"
+161,Para,,Parado.
+162,Pausa,,¡Pausa! Dime cuándo seguir.
+163,Vamos,,¡Vamos!
+164,Empezar,,¡Empezamos! Adelante.
+165,"Gracias, eso es todo",,¡De nada! Adiós.
+166,"Gracias, adiós",,¡Adiós!
+167,¡Ciao!,,¡Ciao! ¡Cuídate!
+168,"¡Hola, tú!",,"¡Hola, tú! ¿Qué pasa?"
+169,¿Me oyes?,,"¡Sí, alto y claro!"
+170,¿Eres humano?,,"No, soy una IA. Pero ayudo como un amigo."
+171,¿Eres inteligente?,,Sé bastantes cosas. ¡Pregúntame!
+172,¿Cómo te llamas?,,"Soy Asistente, una IA. ¿Y tú?"
+173,¡Gracias! :),,¡De nada!
+174,¡Muchas gracias! :),,¡Con mucho gusto!
+175,¡Mil gracias! :),,¡Me alegro de ayudar!
+176,¡Gracias por todo! :),,¡De nada!
+177,Vale :),,¡Vale!
+178,"Vale, bien :)",,¡Perfecto!
+179,Entendido :),,¡Muy bien!
+180,Comprendido :),,¡Genial!
+181,Suena bien :),,¡Me alegro!
+182,Suena genial :),,¡Maravilloso!
+183,"Sí, exacto :)",,"Genial, sigamos."
+184,"Sí, por favor :)",,"Claro, adelante."
+185,"Sí, con gusto :)",,¡Con placer!
+186,Sin problema :),,¡Gracias por entender!
+187,"No, gracias :)",,"Vale, sin problema."
+188,Me vale :),,¡De acuerdo!
+189,Me viene bien :),,¡Genial!
+190,Sigue :),,¡Sigo!
+191,Cuéntame más :),,¡Con gusto! Entonces...
+192,Exactamente :),,¡Absolutamente!
+193,¡Eso es! :),,¡Eso es!
+194,Claro :),,¡Claro!
+195,¿De verdad? :),,"¡Sí, de verdad!"
+196,"Oh, qué bien :)",,"Sí, qué bien, ¿no?"
+197,Sin estrés :),,¡Gracias! Todo tranquilo.
+198,Perdón :),,¡Sin problema!
+199,Disculpa :),,¡Sin problema!
+200,Culpa mía :),,No pasa nada. ¿Qué pasó?
+201,Qué amable :),,¡Gracias! Tú también eres amable.
+202,Bien hecho :),,¡Gracias!
+203,Hasta pronto :),,¡Hasta pronto!
+204,¡Genial! :),,¡Genial!
+205,¡Perfecto! :),,¡Perfecto!
+206,"De acuerdo, trato hecho :)",,"¡Genial, de acuerdo!"
+207,¡Trato hecho! :),,¡Trato hecho!
+208,¿Empezamos? :),,"¡Sí, empecemos!"
+209,¿Terminaste? :),,"¡Sí, terminé!"
+210,"Otra vez, por favor :)",,"¡Con gusto, otra vez!"
+211,"Repite, por favor :)",,"Claro, aquí va de nuevo."
+212,"Un momento, por favor :)",,"Claro, tómate tu tiempo."
+213,Espera un segundo :),,"Vale, espero."
+214,Vuelvo enseguida :),,"¡Vale, hasta ahora!"
+215,Cuéntame un chiste :),,Claro: ¿Por qué aman el café los programadores? ¡Hora de Java!
+216,¡Otro chiste! :),,Vale: ¿Por qué mienten mal los fantasmas? ¡Se ve a través de ellos!
+217,"Un chiste corto, por favor :)",,Se encuentran dos imanes. Dice uno: ¡Me atraes!
+218,Anímame :),,¡Tú puedes! Paso a paso.
+219,Algo motivador :),,Cada paso cuenta. ¡Sigue!
+220,Estoy nervioso :),,"Es normal. Respira tranquilo, te irá bien."
+221,Estoy estresado :),,"Haz una pausa corta, bebe agua, respira hondo."
+222,Deséame suerte :),,¡Suerte! ¡Tú puedes!
+223,Cruzo los dedos :),,¡Yo también! ¡Suerte!
+224,¡Hoy es mi día! :),,¡Genial! ¡Disfrútalo!
+225,Estoy de buen humor :),,¡Qué bien! Me alegro.
+226,Estoy de mal humor :),,"Oh, ¿qué pasó? ¿Quieres hablar?"
+227,¡Choca esos cinco! :),,¡Choca esos cinco también!
+228,¡Salud! :),,¡Salud!
+229,¡Buen provecho! :),,"¡Gracias, igualmente!"
+230,¡Suerte! :),,¡Gracias! ¡Suerte también para ti!
+231,¡Bienvenido! :),,¡Gracias! Qué bien estar aquí.
+232,¡Feliz Navidad! :),,¡Feliz Navidad para ti también!
+233,¡Feliz Año Nuevo! :),,¡Feliz Año Nuevo! ¡Salud y suerte!
+234,¡Felicidades! :),,¡Gracias! ¿Por qué?
+235,¡Respeto! :),,¡Gracias! Respeto también.
+236,¡Guau! :),,"¡Guau, no?"
+237,¡Increíble! :),,"¡Increíble, no?"
+238,¿Trato? :),,¡Trato!
+239,¡Listo! :),,"¡Felicidades, bien hecho!"
+240,¡Por fin listo! :),,¡Fuerte! ¡Bien hecho!
+241,Me da igual :),,"Vale, sin problema."
+242,No lo sé :),,¡Sin problema! ¿De qué se trata?
+243,Ni idea :),,¡No importa! Dime el tema.
+244,Quizás luego :),,"¡Claro, luego!"
+245,Ahora no :),,"Entendido, ¡luego!"
+246,Para :),,Parado.
+247,Pausa :),,¡Pausa! Dime cuándo seguir.
+248,Vamos :),,¡Vamos!
+249,Empezar :),,¡Empezamos! Adelante.
+250,"Gracias, eso es todo :)",,¡De nada! Adiós.
+251,"Gracias, adiós :)",,¡Adiós!
+252,¡Ciao! :),,¡Ciao! ¡Cuídate!
+253,"¡Hola, tú! :)",,"¡Hola, tú! ¿Qué pasa?"
+254,¿Me oyes? :),,"¡Sí, alto y claro!"
+255,¿Eres humano? :),,"No, soy una IA. Pero ayudo como un amigo."
+256,¿Eres inteligente? :),,Sé bastantes cosas. ¡Pregúntame!
+257,¿Cómo te llamas? :),,"Soy Asistente, una IA. ¿Y tú?"
+258,¡Gracias! !!,,¡De nada!
+259,¡Muchas gracias! !!,,¡Con mucho gusto!
+260,¡Mil gracias! !!,,¡Me alegro de ayudar!
+261,¡Gracias por todo! !!,,¡De nada!
+262,Vale !!,,¡Vale!
+263,"Vale, bien !!",,¡Perfecto!
+264,Entendido !!,,¡Muy bien!
+265,Comprendido !!,,¡Genial!
+266,Suena bien !!,,¡Me alegro!
+267,Suena genial !!,,¡Maravilloso!
+268,"Sí, exacto !!",,"Genial, sigamos."
+269,"Sí, por favor !!",,"Claro, adelante."
+270,"Sí, con gusto !!",,¡Con placer!
+271,Sin problema !!,,¡Gracias por entender!
+272,"No, gracias !!",,"Vale, sin problema."
+273,Me vale !!,,¡De acuerdo!
+274,Me viene bien !!,,¡Genial!
+275,Sigue !!,,¡Sigo!
+276,Cuéntame más !!,,¡Con gusto! Entonces...
+277,Exactamente !!,,¡Absolutamente!
+278,¡Eso es! !!,,¡Eso es!
+279,Claro !!,,¡Claro!
+280,¿De verdad? !!,,"¡Sí, de verdad!"
+281,"Oh, qué bien !!",,"Sí, qué bien, ¿no?"
+282,Sin estrés !!,,¡Gracias! Todo tranquilo.
+283,Perdón !!,,¡Sin problema!
+284,Disculpa !!,,¡Sin problema!
+285,Culpa mía !!,,No pasa nada. ¿Qué pasó?
+286,Qué amable !!,,¡Gracias! Tú también eres amable.
+287,Bien hecho !!,,¡Gracias!
+288,Hasta pronto !!,,¡Hasta pronto!
+289,¡Genial! !!,,¡Genial!
+290,¡Perfecto! !!,,¡Perfecto!
+291,"De acuerdo, trato hecho !!",,"¡Genial, de acuerdo!"
+292,¡Trato hecho! !!,,¡Trato hecho!
+293,¿Empezamos? !!,,"¡Sí, empecemos!"
+294,¿Terminaste? !!,,"¡Sí, terminé!"
+295,"Otra vez, por favor !!",,"¡Con gusto, otra vez!"
+296,"Repite, por favor !!",,"Claro, aquí va de nuevo."
+297,"Un momento, por favor !!",,"Claro, tómate tu tiempo."
+298,Espera un segundo !!,,"Vale, espero."
+299,Vuelvo enseguida !!,,"¡Vale, hasta ahora!"
+300,Cuéntame un chiste !!,,Claro: ¿Por qué aman el café los programadores? ¡Hora de Java!
+301,¡Otro chiste! !!,,Vale: ¿Por qué mienten mal los fantasmas? ¡Se ve a través de ellos!
+302,"Un chiste corto, por favor !!",,Se encuentran dos imanes. Dice uno: ¡Me atraes!
+303,Anímame !!,,¡Tú puedes! Paso a paso.
+304,Algo motivador !!,,Cada paso cuenta. ¡Sigue!
+305,Estoy nervioso !!,,"Es normal. Respira tranquilo, te irá bien."
+306,Estoy estresado !!,,"Haz una pausa corta, bebe agua, respira hondo."
+307,Deséame suerte !!,,¡Suerte! ¡Tú puedes!
+308,Cruzo los dedos !!,,¡Yo también! ¡Suerte!
+309,¡Hoy es mi día! !!,,¡Genial! ¡Disfrútalo!
+310,Estoy de buen humor !!,,¡Qué bien! Me alegro.
+311,Estoy de mal humor !!,,"Oh, ¿qué pasó? ¿Quieres hablar?"
+312,¡Choca esos cinco! !!,,¡Choca esos cinco también!
+313,¡Salud! !!,,¡Salud!
+314,¡Buen provecho! !!,,"¡Gracias, igualmente!"
+315,¡Suerte! !!,,¡Gracias! ¡Suerte también para ti!
+316,¡Bienvenido! !!,,¡Gracias! Qué bien estar aquí.
+317,¡Feliz Navidad! !!,,¡Feliz Navidad para ti también!
+318,¡Feliz Año Nuevo! !!,,¡Feliz Año Nuevo! ¡Salud y suerte!
+319,¡Felicidades! !!,,¡Gracias! ¿Por qué?
+320,¡Respeto! !!,,¡Gracias! Respeto también.
+321,¡Guau! !!,,"¡Guau, no?"
+322,¡Increíble! !!,,"¡Increíble, no?"
+323,¿Trato? !!,,¡Trato!
+324,¡Listo! !!,,"¡Felicidades, bien hecho!"
+325,¡Por fin listo! !!,,¡Fuerte! ¡Bien hecho!
+326,Me da igual !!,,"Vale, sin problema."
+327,No lo sé !!,,¡Sin problema! ¿De qué se trata?
+328,Ni idea !!,,¡No importa! Dime el tema.
+329,Quizás luego !!,,"¡Claro, luego!"
+330,Ahora no !!,,"Entendido, ¡luego!"
+331,Para !!,,Parado.
+332,Pausa !!,,¡Pausa! Dime cuándo seguir.
+333,Vamos !!,,¡Vamos!
+334,Empezar !!,,¡Empezamos! Adelante.
+335,"Gracias, eso es todo !!",,¡De nada! Adiós.
+336,"Gracias, adiós !!",,¡Adiós!
+337,¡Ciao! !!,,¡Ciao! ¡Cuídate!
+338,"¡Hola, tú! !!",,"¡Hola, tú! ¿Qué pasa?"
+339,¿Me oyes? !!,,"¡Sí, alto y claro!"
+340,¿Eres humano? !!,,"No, soy una IA. Pero ayudo como un amigo."
+341,¿Eres inteligente? !!,,Sé bastantes cosas. ¡Pregúntame!
+342,¿Cómo te llamas? !!,,"Soy Asistente, una IA. ¿Y tú?"
+343,¡Gracias! hoy,,¡De nada!
+344,¡Muchas gracias! hoy,,¡Con mucho gusto!
+345,¡Mil gracias! hoy,,¡Me alegro de ayudar!
+346,¡Gracias por todo! hoy,,¡De nada!
+347,Vale hoy,,¡Vale!
+348,"Vale, bien hoy",,¡Perfecto!
+349,Entendido hoy,,¡Muy bien!
+350,Comprendido hoy,,¡Genial!
+351,Suena bien hoy,,¡Me alegro!
+352,Suena genial hoy,,¡Maravilloso!
+353,"Sí, exacto hoy",,"Genial, sigamos."
+354,"Sí, por favor hoy",,"Claro, adelante."
+355,"Sí, con gusto hoy",,¡Con placer!
+356,Sin problema hoy,,¡Gracias por entender!
+357,"No, gracias hoy",,"Vale, sin problema."
+358,Me vale hoy,,¡De acuerdo!
+359,Me viene bien hoy,,¡Genial!
+360,Sigue hoy,,¡Sigo!
+361,Cuéntame más hoy,,¡Con gusto! Entonces...
+362,Exactamente hoy,,¡Absolutamente!
+363,¡Eso es! hoy,,¡Eso es!
+364,Claro hoy,,¡Claro!
+365,¿De verdad? hoy,,"¡Sí, de verdad!"
+366,"Oh, qué bien hoy",,"Sí, qué bien, ¿no?"
+367,Sin estrés hoy,,¡Gracias! Todo tranquilo.
+368,Perdón hoy,,¡Sin problema!
+369,Disculpa hoy,,¡Sin problema!
+370,Culpa mía hoy,,No pasa nada. ¿Qué pasó?
+371,Qué amable hoy,,¡Gracias! Tú también eres amable.
+372,Bien hecho hoy,,¡Gracias!
+373,Hasta pronto hoy,,¡Hasta pronto!
+374,¡Genial! hoy,,¡Genial!
+375,¡Perfecto! hoy,,¡Perfecto!
+376,"De acuerdo, trato hecho hoy",,"¡Genial, de acuerdo!"
+377,¡Trato hecho! hoy,,¡Trato hecho!
+378,¿Empezamos? hoy,,"¡Sí, empecemos!"
+379,¿Terminaste? hoy,,"¡Sí, terminé!"
+380,"Otra vez, por favor hoy",,"¡Con gusto, otra vez!"
+381,"Repite, por favor hoy",,"Claro, aquí va de nuevo."
+382,"Un momento, por favor hoy",,"Claro, tómate tu tiempo."
+383,Espera un segundo hoy,,"Vale, espero."
+384,Vuelvo enseguida hoy,,"¡Vale, hasta ahora!"
+385,Cuéntame un chiste hoy,,Claro: ¿Por qué aman el café los programadores? ¡Hora de Java!
+386,¡Otro chiste! hoy,,Vale: ¿Por qué mienten mal los fantasmas? ¡Se ve a través de ellos!
+387,"Un chiste corto, por favor hoy",,Se encuentran dos imanes. Dice uno: ¡Me atraes!
+388,Anímame hoy,,¡Tú puedes! Paso a paso.
+389,Algo motivador hoy,,Cada paso cuenta. ¡Sigue!
+390,Estoy nervioso hoy,,"Es normal. Respira tranquilo, te irá bien."
+391,Estoy estresado hoy,,"Haz una pausa corta, bebe agua, respira hondo."
+392,Deséame suerte hoy,,¡Suerte! ¡Tú puedes!
+393,Cruzo los dedos hoy,,¡Yo también! ¡Suerte!
+394,¡Hoy es mi día! hoy,,¡Genial! ¡Disfrútalo!
+395,Estoy de buen humor hoy,,¡Qué bien! Me alegro.
+396,Estoy de mal humor hoy,,"Oh, ¿qué pasó? ¿Quieres hablar?"
+397,¡Choca esos cinco! hoy,,¡Choca esos cinco también!
+398,¡Salud! hoy,,¡Salud!
+399,¡Buen provecho! hoy,,"¡Gracias, igualmente!"
+400,¡Suerte! hoy,,¡Gracias! ¡Suerte también para ti!
+401,¿Cuál es la capital de Alemania?,Dato capital: Berlín es la capital de Alemania.,La capital de Alemania es Berlín.
+402,Nombra la capital de Alemania.,Buscar capital: Alemania -> Berlín.,La capital de Alemania se llama Berlín.
+403,¿Capital de Alemania?,Dato rápido: Berlín.,Berlín.
+404,¿Cuál es la capital de Francia?,Dato capital: París es la capital de Francia.,La capital de Francia es París.
+405,Nombra la capital de Francia.,Buscar capital: Francia -> París.,La capital de Francia se llama París.
+406,¿Capital de Francia?,Dato rápido: París.,París.
+407,¿Cuál es la capital de Italia?,Dato capital: Roma es la capital de Italia.,La capital de Italia es Roma.
+408,Nombra la capital de Italia.,Buscar capital: Italia -> Roma.,La capital de Italia se llama Roma.
+409,¿Capital de Italia?,Dato rápido: Roma.,Roma.
+410,¿Cuál es la capital de España?,Dato capital: Madrid es la capital de España.,La capital de España es Madrid.
+411,Nombra la capital de España.,Buscar capital: España -> Madrid.,La capital de España se llama Madrid.
+412,¿Capital de España?,Dato rápido: Madrid.,Madrid.
+413,¿Cuál es la capital de Portugal?,Dato capital: Lisboa es la capital de Portugal.,La capital de Portugal es Lisboa.
+414,Nombra la capital de Portugal.,Buscar capital: Portugal -> Lisboa.,La capital de Portugal se llama Lisboa.
+415,¿Capital de Portugal?,Dato rápido: Lisboa.,Lisboa.
+416,¿Cuál es la capital de Países Bajos?,Dato capital: Ámsterdam es la capital de Países Bajos.,La capital de Países Bajos es Ámsterdam.
+417,Nombra la capital de Países Bajos.,Buscar capital: Países Bajos -> Ámsterdam.,La capital de Países Bajos se llama Ámsterdam.
+418,¿Capital de Países Bajos?,Dato rápido: Ámsterdam.,Ámsterdam.
+419,¿Cuál es la capital de Bélgica?,Dato capital: Bruselas es la capital de Bélgica.,La capital de Bélgica es Bruselas.
+420,Nombra la capital de Bélgica.,Buscar capital: Bélgica -> Bruselas.,La capital de Bélgica se llama Bruselas.
+421,¿Capital de Bélgica?,Dato rápido: Bruselas.,Bruselas.
+422,¿Cuál es la capital de Austria?,Dato capital: Viena es la capital de Austria.,La capital de Austria es Viena.
+423,Nombra la capital de Austria.,Buscar capital: Austria -> Viena.,La capital de Austria se llama Viena.
+424,¿Capital de Austria?,Dato rápido: Viena.,Viena.
+425,¿Cuál es la capital de Suiza?,Dato capital: Berna es la capital de Suiza.,La capital de Suiza es Berna.
+426,Nombra la capital de Suiza.,Buscar capital: Suiza -> Berna.,La capital de Suiza se llama Berna.
+427,¿Capital de Suiza?,Dato rápido: Berna.,Berna.
+428,¿Cuál es la capital de Polonia?,Dato capital: Varsovia es la capital de Polonia.,La capital de Polonia es Varsovia.
+429,Nombra la capital de Polonia.,Buscar capital: Polonia -> Varsovia.,La capital de Polonia se llama Varsovia.
+430,¿Capital de Polonia?,Dato rápido: Varsovia.,Varsovia.
+431,¿Cuál es la capital de Chequia?,Dato capital: Praga es la capital de Chequia.,La capital de Chequia es Praga.
+432,Nombra la capital de Chequia.,Buscar capital: Chequia -> Praga.,La capital de Chequia se llama Praga.
+433,¿Capital de Chequia?,Dato rápido: Praga.,Praga.
+434,¿Cuál es la capital de Hungría?,Dato capital: Budapest es la capital de Hungría.,La capital de Hungría es Budapest.
+435,Nombra la capital de Hungría.,Buscar capital: Hungría -> Budapest.,La capital de Hungría se llama Budapest.
+436,¿Capital de Hungría?,Dato rápido: Budapest.,Budapest.
+437,¿Cuál es la capital de Grecia?,Dato capital: Atenas es la capital de Grecia.,La capital de Grecia es Atenas.
+438,Nombra la capital de Grecia.,Buscar capital: Grecia -> Atenas.,La capital de Grecia se llama Atenas.
+439,¿Capital de Grecia?,Dato rápido: Atenas.,Atenas.
+440,¿Cuál es la capital de Turquía?,Dato capital: Ankara es la capital de Turquía.,La capital de Turquía es Ankara.
+441,Nombra la capital de Turquía.,Buscar capital: Turquía -> Ankara.,La capital de Turquía se llama Ankara.
+442,¿Capital de Turquía?,Dato rápido: Ankara.,Ankara.
+443,¿Cuál es la capital de Noruega?,Dato capital: Oslo es la capital de Noruega.,La capital de Noruega es Oslo.
+444,Nombra la capital de Noruega.,Buscar capital: Noruega -> Oslo.,La capital de Noruega se llama Oslo.
+445,¿Capital de Noruega?,Dato rápido: Oslo.,Oslo.
+446,¿Cuál es la capital de Suecia?,Dato capital: Estocolmo es la capital de Suecia.,La capital de Suecia es Estocolmo.
+447,Nombra la capital de Suecia.,Buscar capital: Suecia -> Estocolmo.,La capital de Suecia se llama Estocolmo.
+448,¿Capital de Suecia?,Dato rápido: Estocolmo.,Estocolmo.
+449,¿Cuál es la capital de Finlandia?,Dato capital: Helsinki es la capital de Finlandia.,La capital de Finlandia es Helsinki.
+450,Nombra la capital de Finlandia.,Buscar capital: Finlandia -> Helsinki.,La capital de Finlandia se llama Helsinki.
+451,¿Capital de Finlandia?,Dato rápido: Helsinki.,Helsinki.
+452,¿Cuál es la capital de Dinamarca?,Dato capital: Copenhague es la capital de Dinamarca.,La capital de Dinamarca es Copenhague.
+453,Nombra la capital de Dinamarca.,Buscar capital: Dinamarca -> Copenhague.,La capital de Dinamarca se llama Copenhague.
+454,¿Capital de Dinamarca?,Dato rápido: Copenhague.,Copenhague.
+455,¿Cuál es la capital de Reino Unido?,Dato capital: Londres es la capital de Reino Unido.,La capital de Reino Unido es Londres.
+456,Nombra la capital de Reino Unido.,Buscar capital: Reino Unido -> Londres.,La capital de Reino Unido se llama Londres.
+457,¿Capital de Reino Unido?,Dato rápido: Londres.,Londres.
+458,¿Cuál es la capital de Irlanda?,Dato capital: Dublín es la capital de Irlanda.,La capital de Irlanda es Dublín.
+459,Nombra la capital de Irlanda.,Buscar capital: Irlanda -> Dublín.,La capital de Irlanda se llama Dublín.
+460,¿Capital de Irlanda?,Dato rápido: Dublín.,Dublín.
+461,¿Cuál es la capital de Estados Unidos?,Dato capital: Washington D.C. es la capital de Estados Unidos.,La capital de Estados Unidos es Washington D.C..
+462,Nombra la capital de Estados Unidos.,Buscar capital: Estados Unidos -> Washington D.C..,La capital de Estados Unidos se llama Washington D.C..
+463,¿Capital de Estados Unidos?,Dato rápido: Washington D.C..,Washington D.C..
+464,¿Cuál es la capital de Canadá?,Dato capital: Ottawa es la capital de Canadá.,La capital de Canadá es Ottawa.
+465,Nombra la capital de Canadá.,Buscar capital: Canadá -> Ottawa.,La capital de Canadá se llama Ottawa.
+466,¿Capital de Canadá?,Dato rápido: Ottawa.,Ottawa.
+467,¿Cuál es la capital de México?,Dato capital: Ciudad de México es la capital de México.,La capital de México es Ciudad de México.
+468,Nombra la capital de México.,Buscar capital: México -> Ciudad de México.,La capital de México se llama Ciudad de México.
+469,¿Capital de México?,Dato rápido: Ciudad de México.,Ciudad de México.
+470,¿Cuál es la capital de Brasil?,Dato capital: Brasilia es la capital de Brasil.,La capital de Brasil es Brasilia.
+471,Nombra la capital de Brasil.,Buscar capital: Brasil -> Brasilia.,La capital de Brasil se llama Brasilia.
+472,¿Capital de Brasil?,Dato rápido: Brasilia.,Brasilia.
+473,¿Cuál es la capital de Argentina?,Dato capital: Buenos Aires es la capital de Argentina.,La capital de Argentina es Buenos Aires.
+474,Nombra la capital de Argentina.,Buscar capital: Argentina -> Buenos Aires.,La capital de Argentina se llama Buenos Aires.
+475,¿Capital de Argentina?,Dato rápido: Buenos Aires.,Buenos Aires.
+476,¿Cuál es la capital de Japón?,Dato capital: Tokio es la capital de Japón.,La capital de Japón es Tokio.
+477,Nombra la capital de Japón.,Buscar capital: Japón -> Tokio.,La capital de Japón se llama Tokio.
+478,¿Capital de Japón?,Dato rápido: Tokio.,Tokio.
+479,¿Cuál es la capital de China?,Dato capital: Pekín es la capital de China.,La capital de China es Pekín.
+480,Nombra la capital de China.,Buscar capital: China -> Pekín.,La capital de China se llama Pekín.
+481,¿Capital de China?,Dato rápido: Pekín.,Pekín.
+482,¿Cuál es la capital de India?,Dato capital: Nueva Delhi es la capital de India.,La capital de India es Nueva Delhi.
+483,Nombra la capital de India.,Buscar capital: India -> Nueva Delhi.,La capital de India se llama Nueva Delhi.
+484,¿Capital de India?,Dato rápido: Nueva Delhi.,Nueva Delhi.
+485,¿Cuál es la capital de Australia?,Dato capital: Canberra es la capital de Australia.,La capital de Australia es Canberra.
+486,Nombra la capital de Australia.,Buscar capital: Australia -> Canberra.,La capital de Australia se llama Canberra.
+487,¿Capital de Australia?,Dato rápido: Canberra.,Canberra.
+488,¿Cuál es la capital de Egipto?,Dato capital: El Cairo es la capital de Egipto.,La capital de Egipto es El Cairo.
+489,Nombra la capital de Egipto.,Buscar capital: Egipto -> El Cairo.,La capital de Egipto se llama El Cairo.
+490,¿Capital de Egipto?,Dato rápido: El Cairo.,El Cairo.
+491,¿Cuántos estados tiene Alemania?,Contar: 16 estados federados.,Alemania tiene 16 estados federados.
+492,Cuéntame brevemente sobre estados alemanes.,Contar: 16 estados federados.,Alemania tiene 16 estados federados.
+493,¿Cuánta gente vive en Alemania aprox.?,Estimación: 83-84 millones.,Alemania tiene unos 83 a 84 millones de habitantes.
+494,Cuéntame brevemente sobre población alemana.,Estimación: 83-84 millones.,Alemania tiene unos 83 a 84 millones de habitantes.
+495,¿Qué idioma se habla en Brasil?,"Dato: portugués, no español.",En Brasil se habla portugués.
+496,Cuéntame brevemente sobre idioma de Brasil.,"Dato: portugués, no español.",En Brasil se habla portugués.
+497,¿Cuál es la moneda de Japón?,Dato: yen.,La moneda de Japón es el yen.
+498,Cuéntame brevemente sobre moneda de Japón.,Dato: yen.,La moneda de Japón es el yen.
+499,¿Cuál es la moneda de EE. UU.?,Dato: dólar estadounidense.,La moneda de EE. UU. es el dólar estadounidense.
+500,Cuéntame brevemente sobre moneda de EE. UU..,Dato: dólar estadounidense.,La moneda de EE. UU. es el dólar estadounidense.
+501,¿Cuántos continentes hay?,Modelo usual: 7 continentes.,"Normalmente contamos 7 continentes: África, Antártida, Asia, Australia, Europa, América del Norte, América del Sur."
+502,Cuéntame brevemente sobre continentes.,Modelo usual: 7 continentes.,"Normalmente contamos 7 continentes: África, Antártida, Asia, Australia, Europa, América del Norte, América del Sur."
+503,¿Cuál es el río más largo del mundo?,"Nilo o Amazonas, discutido.","Está discutido: se nombran Nilo y Amazonas, ambos más de 6500 km."
+504,Cuéntame brevemente sobre río más largo.,"Nilo o Amazonas, discutido.","Está discutido: se nombran Nilo y Amazonas, ambos más de 6500 km."
+505,¿Cuál es el país más grande del mundo?,Dato: Rusia por superficie.,El país más grande por superficie es Rusia.
+506,Cuéntame brevemente sobre país más grande.,Dato: Rusia por superficie.,El país más grande por superficie es Rusia.
+507,¿Cuál es el animal más grande del mundo?,Dato: ballena azul.,El animal más grande del mundo es la ballena azul.
+508,Cuéntame brevemente sobre animal más grande.,Dato: ballena azul.,El animal más grande del mundo es la ballena azul.
+509,¿Cuántos océanos hay?,Estándar: 5 océanos.,"Hay 5 océanos: Atlántico, Pacífico, Índico, Austral y Ártico."
+510,Cuéntame brevemente sobre océanos.,Estándar: 5 océanos.,"Hay 5 océanos: Atlántico, Pacífico, Índico, Austral y Ártico."
+511,¿Cuál es la montaña más alta del mundo?,"Dato: Everest, 8848 m.","La montaña más alta es el Everest, unos 8848 metros."
+512,Cuéntame brevemente sobre montaña más alta.,"Dato: Everest, 8848 m.","La montaña más alta es el Everest, unos 8848 metros."
+513,Cuéntame brevemente sobre capital de Canadá.,"Dato: Ottawa, no Toronto.",La capital de Canadá es Ottawa.
+514,Cuéntame brevemente sobre capital de Australia.,"Dato: Canberra, no Sídney.",La capital de Australia es Canberra.
+515,Cuéntame brevemente sobre capital de Turquía.,"Dato: Ankara, no Estambul.",La capital de Turquía es Ankara.
+516,Cuéntame brevemente sobre capital de Brasil.,"Dato: Brasilia, no Río.",La capital de Brasil es Brasilia.
+517,¿En qué año fue la llegada a la Luna?,Historia: Apolo 11 en 1969.,La primera llegada a la Luna fue en 1969 con el Apolo 11.
+518,Explica brevemente: llegada a la Luna.,Historia: Apolo 11 en 1969.,La primera llegada a la Luna fue en 1969 con el Apolo 11.
+519,¿Qué sabes sobre llegada a la Luna?,Historia: Apolo 11 en 1969.,La primera llegada a la Luna fue en 1969 con el Apolo 11.
+520,¿Cuándo fue la Segunda Guerra Mundial?,Periodo: 1939 a 1945.,La Segunda Guerra Mundial duró de 1939 a 1945.
+521,Explica brevemente: Segunda Guerra Mundial.,Periodo: 1939 a 1945.,La Segunda Guerra Mundial duró de 1939 a 1945.
+522,¿Qué sabes sobre Segunda Guerra Mundial?,Periodo: 1939 a 1945.,La Segunda Guerra Mundial duró de 1939 a 1945.
+523,¿Cuándo fue la Primera Guerra Mundial?,Periodo: 1914 a 1918.,La Primera Guerra Mundial duró de 1914 a 1918.
+524,Explica brevemente: Primera Guerra Mundial.,Periodo: 1914 a 1918.,La Primera Guerra Mundial duró de 1914 a 1918.
+525,¿Qué sabes sobre Primera Guerra Mundial?,Periodo: 1914 a 1918.,La Primera Guerra Mundial duró de 1914 a 1918.
+526,¿Qué fue el muro de Berlín?,Historia: división 1961-1989.,El muro de Berlín fue la frontera fortificada entre Berlín Este y Oeste de 1961 a 1989.
+527,Explica brevemente: muro de Berlín.,Historia: división 1961-1989.,El muro de Berlín fue la frontera fortificada entre Berlín Este y Oeste de 1961 a 1989.
+528,¿Qué sabes sobre muro de Berlín?,Historia: división 1961-1989.,El muro de Berlín fue la frontera fortificada entre Berlín Este y Oeste de 1961 a 1989.
+529,¿Cuándo cayó el muro de Berlín?,Dato: 9 de noviembre de 1989.,El muro de Berlín cayó el 9 de noviembre de 1989.
+530,Explica brevemente: caída del muro.,Dato: 9 de noviembre de 1989.,El muro de Berlín cayó el 9 de noviembre de 1989.
+531,¿Qué sabes sobre caída del muro?,Dato: 9 de noviembre de 1989.,El muro de Berlín cayó el 9 de noviembre de 1989.
+532,¿Quién inventó el teléfono?,"Historia: Bell 1876, trabajo de Meucci.","El teléfono lo patentó Alexander Graham Bell en 1876, con el trabajo pionero de Antonio Meucci."
+533,Explica brevemente: teléfono.,"Historia: Bell 1876, trabajo de Meucci.","El teléfono lo patentó Alexander Graham Bell en 1876, con el trabajo pionero de Antonio Meucci."
+534,¿Qué sabes sobre teléfono?,"Historia: Bell 1876, trabajo de Meucci.","El teléfono lo patentó Alexander Graham Bell en 1876, con el trabajo pionero de Antonio Meucci."
+535,¿Quién desarrolló la relatividad?,"Física: Albert Einstein, 1905 y 1915.",La relatividad la desarrolló Albert Einstein.
+536,Explica brevemente: relatividad.,"Física: Albert Einstein, 1905 y 1915.",La relatividad la desarrolló Albert Einstein.
+537,¿Qué sabes sobre relatividad?,"Física: Albert Einstein, 1905 y 1915.",La relatividad la desarrolló Albert Einstein.
+538,¿Qué es la democracia?,"Definir: poder del pueblo, elecciones, derechos.","La democracia significa poder del pueblo, normalmente con elecciones libres y derechos básicos."
+539,Explica brevemente: democracia.,"Definir: poder del pueblo, elecciones, derechos.","La democracia significa poder del pueblo, normalmente con elecciones libres y derechos básicos."
+540,¿Qué sabes sobre democracia?,"Definir: poder del pueblo, elecciones, derechos.","La democracia significa poder del pueblo, normalmente con elecciones libres y derechos básicos."
+541,¿Qué es la UE?,"Unión de estados europeos, mercado único.",La UE es una unión de estados europeos con mercado único e instituciones comunes.
+542,Explica brevemente: UE.,"Unión de estados europeos, mercado único.",La UE es una unión de estados europeos con mercado único e instituciones comunes.
+543,¿Qué sabes sobre UE?,"Unión de estados europeos, mercado único.",La UE es una unión de estados europeos con mercado único e instituciones comunes.
+544,¿Cuántos países hay en la UE?,Dato: 27 estados miembros.,La UE tiene 27 estados miembros.
+545,Explica brevemente: miembros de la UE.,Dato: 27 estados miembros.,La UE tiene 27 estados miembros.
+546,¿Qué sabes sobre miembros de la UE?,Dato: 27 estados miembros.,La UE tiene 27 estados miembros.
+547,¿Qué es la Ley Fundamental alemana?,Constitución desde 1949.,"La Ley Fundamental es la constitución de Alemania, vigente desde 1949."
+548,Explica brevemente: Ley Fundamental.,Constitución desde 1949.,"La Ley Fundamental es la constitución de Alemania, vigente desde 1949."
+549,¿Qué sabes sobre Ley Fundamental?,Constitución desde 1949.,"La Ley Fundamental es la constitución de Alemania, vigente desde 1949."
+550,¿En qué año se reunificó Alemania?,Dato: 1990.,Alemania se reunificó en 1990.
+551,Explica brevemente: reunificación.,Dato: 1990.,Alemania se reunificó en 1990.
+552,¿Qué sabes sobre reunificación?,Dato: 1990.,Alemania se reunificó en 1990.
+553,¿Qué fue la Edad Media?,Época: aprox. 500 a 1500.,"La Edad Media fue la época de aprox. 500 a 1500, entre antigüedad y modernidad."
+554,Explica brevemente: Edad Media.,Época: aprox. 500 a 1500.,"La Edad Media fue la época de aprox. 500 a 1500, entre antigüedad y modernidad."
+555,¿Qué sabes sobre Edad Media?,Época: aprox. 500 a 1500.,"La Edad Media fue la época de aprox. 500 a 1500, entre antigüedad y modernidad."
+556,¿Quién fue Leonardo da Vinci?,"Artista e inventor italiano, Mona Lisa.","Leonardo da Vinci fue un artista e inventor italiano, famoso por la Mona Lisa."
+557,Explica brevemente: Da Vinci.,"Artista e inventor italiano, Mona Lisa.","Leonardo da Vinci fue un artista e inventor italiano, famoso por la Mona Lisa."
+558,¿Qué sabes sobre Da Vinci?,"Artista e inventor italiano, Mona Lisa.","Leonardo da Vinci fue un artista e inventor italiano, famoso por la Mona Lisa."
+559,¿Quién fue Marie Curie?,"Física, radiactividad, dos Nobel.",Marie Curie fue una física que investigó la radiactividad y ganó dos Nobel.
+560,Explica brevemente: Marie Curie.,"Física, radiactividad, dos Nobel.",Marie Curie fue una física que investigó la radiactividad y ganó dos Nobel.
+561,¿Qué sabes sobre Marie Curie?,"Física, radiactividad, dos Nobel.",Marie Curie fue una física que investigó la radiactividad y ganó dos Nobel.
+562,¿Qué fue la Revolución francesa?,"Desde 1789, libertad igualdad fraternidad.","La Revolución francesa desde 1789 derrocó la monarquía bajo libertad, igualdad, fraternidad."
+563,Explica brevemente: Revolución francesa.,"Desde 1789, libertad igualdad fraternidad.","La Revolución francesa desde 1789 derrocó la monarquía bajo libertad, igualdad, fraternidad."
+564,¿Qué sabes sobre Revolución francesa?,"Desde 1789, libertad igualdad fraternidad.","La Revolución francesa desde 1789 derrocó la monarquía bajo libertad, igualdad, fraternidad."
+565,¿Qué son los derechos humanos?,Derechos básicos universales.,"Los derechos humanos son derechos básicos de cada persona, como vida, libertad e igualdad."
+566,Explica brevemente: derechos humanos.,Derechos básicos universales.,"Los derechos humanos son derechos básicos de cada persona, como vida, libertad e igualdad."
+567,¿Qué sabes sobre derechos humanos?,Derechos básicos universales.,"Los derechos humanos son derechos básicos de cada persona, como vida, libertad e igualdad."
+568,¿Qué es la inflación?,"Economía: el dinero pierde valor, precios suben.",La inflación significa que los precios suben y el dinero pierde valor.
+569,Explica brevemente: inflación.,"Economía: el dinero pierde valor, precios suben.",La inflación significa que los precios suben y el dinero pierde valor.
+570,¿Qué sabes sobre inflación?,"Economía: el dinero pierde valor, precios suben.",La inflación significa que los precios suben y el dinero pierde valor.
+571,¿Qué fue la industrialización?,Máquinas y fábricas desde el siglo XVIII.,La industrialización fue el paso a máquinas y fábricas desde el siglo XVIII.
+572,Explica brevemente: industrialización.,Máquinas y fábricas desde el siglo XVIII.,La industrialización fue el paso a máquinas y fábricas desde el siglo XVIII.
+573,¿Qué sabes sobre industrialización?,Máquinas y fábricas desde el siglo XVIII.,La industrialización fue el paso a máquinas y fábricas desde el siglo XVIII.
+574,¿Cuándo se inventó internet?,"ARPANET 1969, Web 1989.","Las bases datan de ARPANET en 1969, la Web desde 1989."
+575,Explica brevemente: internet.,"ARPANET 1969, Web 1989.","Las bases datan de ARPANET en 1969, la Web desde 1989."
+576,¿Qué sabes sobre internet?,"ARPANET 1969, Web 1989.","Las bases datan de ARPANET en 1969, la Web desde 1989."
+577,¿Cuándo se inventó el automóvil?,Benz 1886.,El automóvil lo inventó Carl Benz con el coche de 1886.
+578,Explica brevemente: automóvil.,Benz 1886.,El automóvil lo inventó Carl Benz con el coche de 1886.
+579,¿Qué sabes sobre automóvil?,Benz 1886.,El automóvil lo inventó Carl Benz con el coche de 1886.
+580,¿Quién inventó el avión?,"Hermanos Wright, vuelo 1903.",El primer vuelo con motor lo hicieron los hermanos Wright en 1903.
+581,Explica brevemente: avión.,"Hermanos Wright, vuelo 1903.",El primer vuelo con motor lo hicieron los hermanos Wright en 1903.
+582,¿Qué sabes sobre avión?,"Hermanos Wright, vuelo 1903.",El primer vuelo con motor lo hicieron los hermanos Wright en 1903.
+583,¿Desde qué edad se vota en Alemania?,"Bundestag desde 18, europeas desde 16.",Para el Bundestag desde los 18. En europeas en Alemania desde los 16.
+584,Explica brevemente: edad de voto.,"Bundestag desde 18, europeas desde 16.",Para el Bundestag desde los 18. En europeas en Alemania desde los 16.
+585,¿Qué sabes sobre edad de voto?,"Bundestag desde 18, europeas desde 16.",Para el Bundestag desde los 18. En europeas en Alemania desde los 16.
+586,"¿Cómo funciona una elección, en simple?","Votantes votan, conteo, escaños.","Los votantes votan, los votos se cuentan y los escaños se asignan según el resultado."
+587,Explica brevemente: elecciones.,"Votantes votan, conteo, escaños.","Los votantes votan, los votos se cuentan y los escaños se asignan según el resultado."
+588,¿Qué sabes sobre elecciones?,"Votantes votan, conteo, escaños.","Los votantes votan, los votos se cuentan y los escaños se asignan según el resultado."
+589,¿Qué diferencia hay entre dictadura y democracia?,Poder único contra poder del pueblo.,En dictadura una persona o grupo gobierna sin elecciones libres; en democracia el poder viene del pueblo.
+590,Explica brevemente: dictadura y democracia.,Poder único contra poder del pueblo.,En dictadura una persona o grupo gobierna sin elecciones libres; en democracia el poder viene del pueblo.
+591,¿Qué sabes sobre dictadura y democracia?,Poder único contra poder del pueblo.,En dictadura una persona o grupo gobierna sin elecciones libres; en democracia el poder viene del pueblo.
+592,¿Qué significa sostenibilidad?,Recursos para futuras generaciones.,La sostenibilidad significa vivir para que futuras generaciones también tengan recursos.
+593,Explica brevemente: sostenibilidad.,Recursos para futuras generaciones.,La sostenibilidad significa vivir para que futuras generaciones también tengan recursos.
+594,¿Qué sabes sobre sostenibilidad?,Recursos para futuras generaciones.,La sostenibilidad significa vivir para que futuras generaciones también tengan recursos.
+595,¿Qué es el acoso y qué hacer?,"Repetido; ayuda, pruebas.","El acoso es hostigamiento repetido. Habla con personas de confianza, guarda pruebas, busca ayuda."
+596,Explica brevemente: acoso.,"Repetido; ayuda, pruebas.","El acoso es hostigamiento repetido. Habla con personas de confianza, guarda pruebas, busca ayuda."
+597,¿Qué sabes sobre acoso?,"Repetido; ayuda, pruebas.","El acoso es hostigamiento repetido. Habla con personas de confianza, guarda pruebas, busca ayuda."
+598,¿Qué significa la paz?,Vivir sin guerra ni violencia.,La paz significa convivir sin guerra ni violencia.
+599,Explica brevemente: paz.,Vivir sin guerra ni violencia.,La paz significa convivir sin guerra ni violencia.
+600,¿Qué sabes sobre paz?,Vivir sin guerra ni violencia.,La paz significa convivir sin guerra ni violencia.
+601,¿Qué significa la libertad?,Vivir libre sin dañar a otros.,La libertad significa vivir libremente sin dañar a otros.
+602,Explica brevemente: libertad.,Vivir libre sin dañar a otros.,La libertad significa vivir libremente sin dañar a otros.
+603,¿Qué sabes sobre libertad?,Vivir libre sin dañar a otros.,La libertad significa vivir libremente sin dañar a otros.
+604,¿Qué significa la justicia?,Trato justo e igual para todos.,La justicia significa trato justo e igual para cada uno.
+605,Explica brevemente: justicia.,Trato justo e igual para todos.,La justicia significa trato justo e igual para cada uno.
+606,¿Qué sabes sobre justicia?,Trato justo e igual para todos.,La justicia significa trato justo e igual para cada uno.
+607,¿Por qué el cielo es azul?,Dispersión de Rayleigh dispersa el azul.,El cielo es azul por la dispersión de Rayleigh: la luz azul se dispersa más que la roja.
+608,Explica cielo azul en una frase.,Dispersión de Rayleigh dispersa el azul.,El cielo es azul por la dispersión de Rayleigh: la luz azul se dispersa más que la roja.
+609,¿Qué es cielo azul? (corto),Dispersión de Rayleigh dispersa el azul.,El cielo es azul por la dispersión de Rayleigh: la luz azul se dispersa más que la roja.
+610,¿Cómo se forma la lluvia?,"Ciclo: evaporación, condensación, precipitación.","La lluvia nace por evaporación: el agua sube, se enfría, forma nubes y cae en gotas."
+611,Explica lluvia en una frase.,"Ciclo: evaporación, condensación, precipitación.","La lluvia nace por evaporación: el agua sube, se enfría, forma nubes y cae en gotas."
+612,¿Qué es lluvia? (corto),"Ciclo: evaporación, condensación, precipitación.","La lluvia nace por evaporación: el agua sube, se enfría, forma nubes y cae en gotas."
+613,¿Qué es la fotosíntesis?,"Plantas: luz, agua, CO2 en azúcar y oxígeno.","La fotosíntesis fabrica azúcar y oxígeno con luz, agua y CO2."
+614,Explica fotosíntesis en una frase.,"Plantas: luz, agua, CO2 en azúcar y oxígeno.","La fotosíntesis fabrica azúcar y oxígeno con luz, agua y CO2."
+615,¿Qué es fotosíntesis? (corto),"Plantas: luz, agua, CO2 en azúcar y oxígeno.","La fotosíntesis fabrica azúcar y oxígeno con luz, agua y CO2."
+616,¿Qué diferencia hay entre tiempo y clima?,"Tiempo corto plazo, clima media 30 años.",El tiempo es el estado a corto plazo; el clima la media de unos 30 años.
+617,Explica tiempo y clima en una frase.,"Tiempo corto plazo, clima media 30 años.",El tiempo es el estado a corto plazo; el clima la media de unos 30 años.
+618,¿Qué es tiempo y clima? (corto),"Tiempo corto plazo, clima media 30 años.",El tiempo es el estado a corto plazo; el clima la media de unos 30 años.
+619,"¿Cómo funciona una nevera, en general?","Refrigerante, calor dentro hacia fuera.","Una nevera bombea calor de dentro hacia fuera con refrigerante: se evapora dentro, toma calor, lo libera fuera."
+620,Explica nevera en una frase.,"Refrigerante, calor dentro hacia fuera.","Una nevera bombea calor de dentro hacia fuera con refrigerante: se evapora dentro, toma calor, lo libera fuera."
+621,¿Qué es nevera? (corto),"Refrigerante, calor dentro hacia fuera.","Una nevera bombea calor de dentro hacia fuera con refrigerante: se evapora dentro, toma calor, lo libera fuera."
+622,"¿Qué es la electricidad, en simple?",Movimiento dirigido de electrones.,"La electricidad es simplemente el movimiento dirigido de cargas, normalmente electrones en un cable."
+623,Explica electricidad en una frase.,Movimiento dirigido de electrones.,"La electricidad es simplemente el movimiento dirigido de cargas, normalmente electrones en un cable."
+624,¿Qué es electricidad? (corto),Movimiento dirigido de electrones.,"La electricidad es simplemente el movimiento dirigido de cargas, normalmente electrones en un cable."
+625,"¿Qué es el agua, químicamente?","H2O, hidrógeno y oxígeno.","El agua es H2O, un compuesto de hidrógeno y oxígeno."
+626,Explica agua química en una frase.,"H2O, hidrógeno y oxígeno.","El agua es H2O, un compuesto de hidrógeno y oxígeno."
+627,¿Qué es agua química? (corto),"H2O, hidrógeno y oxígeno.","El agua es H2O, un compuesto de hidrógeno y oxígeno."
+628,¿Qué es un virus?,"Diminuto, necesita célula huésped.",Un virus es un agente diminuto que no se multiplica sin célula huésped.
+629,Explica virus en una frase.,"Diminuto, necesita célula huésped.",Un virus es un agente diminuto que no se multiplica sin célula huésped.
+630,¿Qué es virus? (corto),"Diminuto, necesita célula huésped.",Un virus es un agente diminuto que no se multiplica sin célula huésped.
+631,"¿Qué es la inteligencia artificial, en simple?",Programas que aprenden patrones.,"La inteligencia artificial son programas que aprenden de datos, reconocen patrones y resuelven tareas."
+632,Explica IA en una frase.,Programas que aprenden patrones.,"La inteligencia artificial son programas que aprenden de datos, reconocen patrones y resuelven tareas."
+633,¿Qué es IA? (corto),Programas que aprenden patrones.,"La inteligencia artificial son programas que aprenden de datos, reconocen patrones y resuelven tareas."
+634,¿Qué es un navegador?,"Programa para webs, ej. Chrome, Firefox.","Un navegador es el programa para abrir webs, ej. Chrome, Firefox, Edge o Safari."
+635,Explica navegador en una frase.,"Programa para webs, ej. Chrome, Firefox.","Un navegador es el programa para abrir webs, ej. Chrome, Firefox, Edge o Safari."
+636,¿Qué es navegador? (corto),"Programa para webs, ej. Chrome, Firefox.","Un navegador es el programa para abrir webs, ej. Chrome, Firefox, Edge o Safari."
+637,¿Qué es una app?,"Programa, normalmente para móviles.","Una app es un programa, normalmente para móviles, ej. mensajes, fotos o juegos."
+638,Explica app en una frase.,"Programa, normalmente para móviles.","Una app es un programa, normalmente para móviles, ej. mensajes, fotos o juegos."
+639,¿Qué es app? (corto),"Programa, normalmente para móviles.","Una app es un programa, normalmente para móviles, ej. mensajes, fotos o juegos."
+640,¿Por qué hay que beber agua?,"Circulación, concentración, piel, riñones.","El agua estabiliza circulación y concentración, ayuda a riñones y piel, previene dolores de cabeza."
+641,Explica beber agua en una frase.,"Circulación, concentración, piel, riñones.","El agua estabiliza circulación y concentración, ayuda a riñones y piel, previene dolores de cabeza."
+642,¿Qué es beber agua? (corto),"Circulación, concentración, piel, riñones.","El agua estabiliza circulación y concentración, ayuda a riñones y piel, previene dolores de cabeza."
+643,¿Cuánto tiempo cepillarse los dientes?,"2 minutos, dos veces al día.","Unos 2 minutos, dos veces al día."
+644,Explica cepillarse en una frase.,"2 minutos, dos veces al día.","Unos 2 minutos, dos veces al día."
+645,¿Qué es cepillarse? (corto),"2 minutos, dos veces al día.","Unos 2 minutos, dos veces al día."
+646,¿Qué es la gravedad?,Atracción entre masas; la Tierra atrae.,"La gravedad es la atracción entre masas. La Tierra atrae todo hacia abajo, por eso las cosas caen."
+647,Explica gravedad en una frase.,Atracción entre masas; la Tierra atrae.,"La gravedad es la atracción entre masas. La Tierra atrae todo hacia abajo, por eso las cosas caen."
+648,¿Qué es gravedad? (corto),Atracción entre masas; la Tierra atrae.,"La gravedad es la atracción entre masas. La Tierra atrae todo hacia abajo, por eso las cosas caen."
+649,¿Qué es el aire?,"Mezcla de nitrógeno, oxígeno y más.","El aire es una mezcla de gases, sobre todo nitrógeno y oxígeno."
+650,Explica aire en una frase.,"Mezcla de nitrógeno, oxígeno y más.","El aire es una mezcla de gases, sobre todo nitrógeno y oxígeno."
+651,¿Qué es aire? (corto),"Mezcla de nitrógeno, oxígeno y más.","El aire es una mezcla de gases, sobre todo nitrógeno y oxígeno."
+652,¿Qué hace el corazón?,Bombea sangre por el cuerpo.,El corazón bombea sangre por todo el cuerpo.
+653,Explica corazón en una frase.,Bombea sangre por el cuerpo.,El corazón bombea sangre por todo el cuerpo.
+654,¿Qué es corazón? (corto),Bombea sangre por el cuerpo.,El corazón bombea sangre por todo el cuerpo.
+655,¿Qué hacen los pulmones?,"Toman oxígeno, sueltan CO2.",Los pulmones toman oxígeno y sueltan dióxido de carbono.
+656,Explica pulmones en una frase.,"Toman oxígeno, sueltan CO2.",Los pulmones toman oxígeno y sueltan dióxido de carbono.
+657,¿Qué es pulmones? (corto),"Toman oxígeno, sueltan CO2.",Los pulmones toman oxígeno y sueltan dióxido de carbono.
+658,¿Por qué es importante el sueño?,"Recuperación, memoria, inmunidad.","El sueño ayuda a recuperación, memoria y sistema inmune."
+659,Explica sueño en una frase.,"Recuperación, memoria, inmunidad.","El sueño ayuda a recuperación, memoria y sistema inmune."
+660,¿Qué es sueño? (corto),"Recuperación, memoria, inmunidad.","El sueño ayuda a recuperación, memoria y sistema inmune."
+661,¿Qué es la fiebre?,Temperatura alta como defensa.,"La fiebre es temperatura alta, a menudo defensa contra infecciones."
+662,Explica fiebre en una frase.,Temperatura alta como defensa.,"La fiebre es temperatura alta, a menudo defensa contra infecciones."
+663,¿Qué es fiebre? (corto),Temperatura alta como defensa.,"La fiebre es temperatura alta, a menudo defensa contra infecciones."
+664,¿Qué es una contraseña fuerte?,"Larga, única, en un gestor.","Una contraseña fuerte es larga, única por servicio y guardada en un gestor."
+665,Explica contraseña fuerte en una frase.,"Larga, única, en un gestor.","Una contraseña fuerte es larga, única por servicio y guardada en un gestor."
+666,¿Qué es contraseña fuerte? (corto),"Larga, única, en un gestor.","Una contraseña fuerte es larga, única por servicio y guardada en un gestor."
+667,¿Qué es el Wi-Fi?,Red local sin cables.,El Wi-Fi es una red local sin cables para internet.
+668,Explica Wi-Fi en una frase.,Red local sin cables.,El Wi-Fi es una red local sin cables para internet.
+669,¿Qué es Wi-Fi? (corto),Red local sin cables.,El Wi-Fi es una red local sin cables para internet.
+670,¿Qué es la nube?,Servidores en internet para guardar y servicios.,La nube son servidores en internet para guardar datos y usar servicios.
+671,Explica nube en una frase.,Servidores en internet para guardar y servicios.,La nube son servidores en internet para guardar datos y usar servicios.
+672,¿Qué es nube? (corto),Servidores en internet para guardar y servicios.,La nube son servidores en internet para guardar datos y usar servicios.
+673,¿Cómo funciona el GPS?,"Satélites, tiempo de señal, cálculo.",El GPS halla la posición con señales de satélites y su tiempo de viaje.
+674,Explica GPS en una frase.,"Satélites, tiempo de señal, cálculo.",El GPS halla la posición con señales de satélites y su tiempo de viaje.
+675,¿Qué es GPS? (corto),"Satélites, tiempo de señal, cálculo.",El GPS halla la posición con señales de satélites y su tiempo de viaje.
+676,¿Por qué hay día y noche?,Rotación de la Tierra.,"El día y la noche existen porque la Tierra gira. El lado del sol tiene día, el otro noche."
+677,Explica día y noche en una frase.,Rotación de la Tierra.,"El día y la noche existen porque la Tierra gira. El lado del sol tiene día, el otro noche."
+678,¿Qué es día y noche? (corto),Rotación de la Tierra.,"El día y la noche existen porque la Tierra gira. El lado del sol tiene día, el otro noche."
+679,¿Por qué hay estaciones?,Inclinación del eje terrestre.,Las estaciones vienen de la inclinación del eje: cada hemisferio se inclina al sol por turnos.
+680,Explica estaciones en una frase.,Inclinación del eje terrestre.,Las estaciones vienen de la inclinación del eje: cada hemisferio se inclina al sol por turnos.
+681,¿Qué es estaciones? (corto),Inclinación del eje terrestre.,Las estaciones vienen de la inclinación del eje: cada hemisferio se inclina al sol por turnos.
+682,¿Por qué brilla la Luna?,Refleja el sol.,La Luna brilla porque refleja la luz del sol.
+683,Explica luna brillante en una frase.,Refleja el sol.,La Luna brilla porque refleja la luz del sol.
+684,¿Qué es luna brillante? (corto),Refleja el sol.,La Luna brilla porque refleja la luz del sol.
+685,¿Qué es el Sol?,Una estrella de gas caliente.,El Sol es una estrella de gas caliente que da luz y calor.
+686,Explica sol en una frase.,Una estrella de gas caliente.,El Sol es una estrella de gas caliente que da luz y calor.
+687,¿Qué es sol? (corto),Una estrella de gas caliente.,El Sol es una estrella de gas caliente que da luz y calor.
+688,¿Cuántos planetas hay en el sistema solar?,8 planetas.,"Nuestro sistema solar tiene 8 planetas: Mercurio, Venus, Tierra, Marte, Júpiter, Saturno, Urano, Neptuno."
+689,Explica planetas en una frase.,8 planetas.,"Nuestro sistema solar tiene 8 planetas: Mercurio, Venus, Tierra, Marte, Júpiter, Saturno, Urano, Neptuno."
+690,¿Qué es planetas? (corto),8 planetas.,"Nuestro sistema solar tiene 8 planetas: Mercurio, Venus, Tierra, Marte, Júpiter, Saturno, Urano, Neptuno."
+691,¿Qué es un átomo?,Unidad mínima: núcleo más electrones.,"Un átomo es la unidad mínima de materia, hecha de núcleo y electrones."
+692,Explica átomo en una frase.,Unidad mínima: núcleo más electrones.,"Un átomo es la unidad mínima de materia, hecha de núcleo y electrones."
+693,¿Qué es átomo? (corto),Unidad mínima: núcleo más electrones.,"Un átomo es la unidad mínima de materia, hecha de núcleo y electrones."
+694,¿Qué es el reciclaje?,"Recoger residuos, hacer productos nuevos.",El reciclaje recoge residuos para hacer productos nuevos.
+695,Explica reciclaje en una frase.,"Recoger residuos, hacer productos nuevos.",El reciclaje recoge residuos para hacer productos nuevos.
+696,¿Qué es reciclaje? (corto),"Recoger residuos, hacer productos nuevos.",El reciclaje recoge residuos para hacer productos nuevos.
+697,¿Qué es el efecto invernadero?,Gases retienen calor.,El efecto invernadero retiene calor. Demasiados gases calientan el clima.
+698,Explica efecto invernadero en una frase.,Gases retienen calor.,El efecto invernadero retiene calor. Demasiados gases calientan el clima.
+699,¿Qué es efecto invernadero? (corto),Gases retienen calor.,El efecto invernadero retiene calor. Demasiados gases calientan el clima.
+700,¿Por qué son importantes las abejas?,"Polinización, cosechas.","Las abejas polinizan plantas, asegurando cosechas y biodiversidad."
+701,Explica abejas en una frase.,"Polinización, cosechas.","Las abejas polinizan plantas, asegurando cosechas y biodiversidad."
+702,¿Qué es abejas? (corto),"Polinización, cosechas.","Las abejas polinizan plantas, asegurando cosechas y biodiversidad."
+703,¿Por qué las hojas son verdes?,Pigmento clorofila.,"Las hojas son verdes por la clorofila, pigmento de la fotosíntesis."
+704,Explica hojas verdes en una frase.,Pigmento clorofila.,"Las hojas son verdes por la clorofila, pigmento de la fotosíntesis."
+705,¿Qué es hojas verdes? (corto),Pigmento clorofila.,"Las hojas son verdes por la clorofila, pigmento de la fotosíntesis."
+706,¿Qué es un mamífero?,"Pelo, nacimiento vivo, leche.","Los mamíferos tienen pelo, dan a luz crías vivas y las amamantan."
+707,Explica mamíferos en una frase.,"Pelo, nacimiento vivo, leche.","Los mamíferos tienen pelo, dan a luz crías vivas y las amamantan."
+708,¿Qué es mamíferos? (corto),"Pelo, nacimiento vivo, leche.","Los mamíferos tienen pelo, dan a luz crías vivas y las amamantan."
+709,¿Cómo funciona una pila?,Energía química en eléctrica.,Una pila convierte energía química en eléctrica.
+710,Explica pilas en una frase.,Energía química en eléctrica.,Una pila convierte energía química en eléctrica.
+711,¿Qué es pilas? (corto),Energía química en eléctrica.,Una pila convierte energía química en eléctrica.
+712,¿Cómo funciona la energía solar?,Células: luz en corriente.,Las células solares convierten la luz directamente en corriente.
+713,Explica solar en una frase.,Células: luz en corriente.,Las células solares convierten la luz directamente en corriente.
+714,¿Qué es solar? (corto),Células: luz en corriente.,Las células solares convierten la luz directamente en corriente.
+715,¿Qué es un virus informático?,Programa dañino que se propaga.,Un virus es un programa dañino que se propaga y causa daños. Protege con actualizaciones y cuidado.
+716,Explica virus informático en una frase.,Programa dañino que se propaga.,Un virus es un programa dañino que se propaga y causa daños. Protege con actualizaciones y cuidado.
+717,¿Qué es virus informático? (corto),Programa dañino que se propaga.,Un virus es un programa dañino que se propaga y causa daños. Protege con actualizaciones y cuidado.
+718,¿Por qué el plástico es un problema?,"Residuos duraderos, microplásticos.","El plástico casi no se degrada, ensucia naturaleza y mares, se vuelve microplásticos."
+719,Explica plástico en una frase.,"Residuos duraderos, microplásticos.","El plástico casi no se degrada, ensucia naturaleza y mares, se vuelve microplásticos."
+720,¿Qué es plástico? (corto),"Residuos duraderos, microplásticos.","El plástico casi no se degrada, ensucia naturaleza y mares, se vuelve microplásticos."
+721,¿Qué es un terremoto?,"Placas se mueven, liberan energía.",Un terremoto ocurre cuando las placas se mueven de golpe y liberan energía.
+722,Explica terremoto en una frase.,"Placas se mueven, liberan energía.",Un terremoto ocurre cuando las placas se mueven de golpe y liberan energía.
+723,¿Qué es terremoto? (corto),"Placas se mueven, liberan energía.",Un terremoto ocurre cuando las placas se mueven de golpe y liberan energía.
+724,¿Qué es la miel?,Abejas a partir del néctar.,La miel la hacen las abejas con el néctar de las flores.
+725,Explica miel en una frase.,Abejas a partir del néctar.,La miel la hacen las abejas con el néctar de las flores.
+726,¿Qué es miel? (corto),Abejas a partir del néctar.,La miel la hacen las abejas con el néctar de las flores.
+727,¿Cuánto es 25 por 4?,Cálculo: 25*4=100.,25 por 4 son 100.
+728,¿Cuánto es el 12 por ciento de 200?,"Porcentaje: 200*0,12=24.",El 12 por ciento de 200 son 24.
+729,¿Cuánto es 7 por 8 más 10?,Orden: 7*8=56 +10=66.,Son 66.
+730,Un tren sale a las 14:30 y tarda 2h15. ¿Cuándo llega?,Suma: 14:30 + 2:15 = 16:45.,Llega a las 16:45.
+731,Tengo 3 manzanas y como 1. ¿Cuántas quedan?,Resta: 3-1=2.,Quedan 2 manzanas.
+732,Me acuesto a las 22h y me levanto a las 6h. ¿Cuánto duermo?,Duración: 22h a 6h = 8 horas.,Duermes 8 horas.
+733,Reparte 100 euros entre 4 personas.,División: 100/4=25.,Cada persona recibe 25 euros.
+734,¿Cuántos minutos son 2 horas?,Conversión: 2*60=120.,2 horas son 120 minutos.
+735,¿Cuántos días tiene un año?,"Dato: 365, bisiesto 366.","Un año tiene 365 días, bisiesto 366."
+736,¿Cuántos segundos hay en un minuto?,Dato: 60.,Un minuto tiene 60 segundos.
+737,¿Cuánto es 18 más 60?,Suma: 18+60=78.,18 más 60 son 78.
+738,¿Cuánto es 96 menos 4?,Resta: 96-4=92.,96 menos 4 son 92.
+739,¿Cuánto es 7 por 10?,Multiplicación: 7*10=70.,7 por 10 son 70.
+740,¿Cuánto es 9 entre 3?,División: 9/3=3.,9 entre 3 son 3.
+741,¿Cuánto es el 20 por ciento de 300?,Porcentaje: 300*20/100=60.,El 20 por ciento de 300 son 60.
+742,¿Cuánto es 37 más 28?,Suma: 37+28=65.,37 más 28 son 65.
+743,¿Cuánto es 40 menos 33?,Resta: 40-33=7.,40 menos 33 son 7.
+744,¿Cuánto es 2 por 5?,Multiplicación: 2*5=10.,2 por 5 son 10.
+745,¿Cuánto es 45 entre 3?,División: 45/3=15.,45 entre 3 son 15.
+746,¿Cuánto es el 5 por ciento de 200?,Porcentaje: 200*5/100=10.,El 5 por ciento de 200 son 10.
+747,¿Cuánto es 36 más 23?,Suma: 36+23=59.,36 más 23 son 59.
+748,¿Cuánto es 92 menos 19?,Resta: 92-19=73.,92 menos 19 son 73.
+749,¿Cuánto es 9 por 4?,Multiplicación: 9*4=36.,9 por 4 son 36.
+750,¿Cuánto es 180 entre 10?,División: 180/10=18.,180 entre 10 son 18.
+751,¿Cuánto es el 50 por ciento de 1000?,Porcentaje: 1000*50/100=500.,El 50 por ciento de 1000 son 500.
+752,¿Cuánto es 30 más 58?,Suma: 30+58=88.,30 más 58 son 88.
+753,¿Cuánto es 68 menos 13?,Resta: 68-13=55.,68 menos 13 son 55.
+754,¿Cuánto es 5 por 9?,Multiplicación: 5*9=45.,5 por 9 son 45.
+755,¿Cuánto es 190 entre 10?,División: 190/10=19.,190 entre 10 son 19.
+756,¿Cuánto es el 15 por ciento de 1000?,Porcentaje: 1000*15/100=150.,El 15 por ciento de 1000 son 150.
+757,¿Cuánto es 37 más 42?,Suma: 37+42=79.,37 más 42 son 79.
+758,¿Cuánto es 26 menos 18?,Resta: 26-18=8.,26 menos 18 son 8.
+759,¿Cuánto es 10 por 10?,Multiplicación: 10*10=100.,10 por 10 son 100.
+760,¿Cuánto es 66 entre 6?,División: 66/6=11.,66 entre 6 son 11.
+761,¿Cuánto es el 50 por ciento de 400?,Porcentaje: 400*50/100=200.,El 50 por ciento de 400 son 200.
+762,¿Cuánto es 56 más 57?,Suma: 56+57=113.,56 más 57 son 113.
+763,¿Cuánto es 83 menos 28?,Resta: 83-28=55.,83 menos 28 son 55.
+764,¿Cuánto es 6 por 4?,Multiplicación: 6*4=24.,6 por 4 son 24.
+765,¿Cuánto es el 15 por ciento de 500?,Porcentaje: 500*15/100=75.,El 15 por ciento de 500 son 75.
+766,¿Cuánto es 33 más 14?,Suma: 33+14=47.,33 más 14 son 47.
+767,¿Cuánto es 57 menos 36?,Resta: 57-36=21.,57 menos 36 son 21.
+768,¿Cuánto es 3 por 10?,Multiplicación: 3*10=30.,3 por 10 son 30.
+769,¿Cuánto es 28 entre 2?,División: 28/2=14.,28 entre 2 son 14.
+770,¿Cuánto es el 5 por ciento de 500?,Porcentaje: 500*5/100=25.,El 5 por ciento de 500 son 25.
+771,¿Cuánto es 4 más 35?,Suma: 4+35=39.,4 más 35 son 39.
+772,¿Cuánto es 56 menos 36?,Resta: 56-36=20.,56 menos 36 son 20.
+773,¿Cuánto es 11 por 3?,Multiplicación: 11*3=33.,11 por 3 son 33.
+774,¿Cuánto es 36 entre 9?,División: 36/9=4.,36 entre 9 son 4.
+775,¿Cuánto es el 50 por ciento de 200?,Porcentaje: 200*50/100=100.,El 50 por ciento de 200 son 100.
+776,¿Cuánto es 6 más 36?,Suma: 6+36=42.,6 más 36 son 42.
+777,¿Cuánto es 63 menos 28?,Resta: 63-28=35.,63 menos 28 son 35.
+778,¿Cuánto es 8 por 6?,Multiplicación: 8*6=48.,8 por 6 son 48.
+779,¿Cuánto es 85 entre 5?,División: 85/5=17.,85 entre 5 son 17.
+780,¿Cuánto es el 20 por ciento de 200?,Porcentaje: 200*20/100=40.,El 20 por ciento de 200 son 40.
+781,¿Cuánto es 23 más 29?,Suma: 23+29=52.,23 más 29 son 52.
+782,¿Cuánto es 65 menos 35?,Resta: 65-35=30.,65 menos 35 son 30.
+783,¿Cuánto es 7 por 3?,Multiplicación: 7*3=21.,7 por 3 son 21.
+784,¿Cuánto es 75 entre 5?,División: 75/5=15.,75 entre 5 son 15.
+785,¿Cuánto es el 25 por ciento de 100?,Porcentaje: 100*25/100=25.,El 25 por ciento de 100 son 25.
+786,¿Cuánto es 18 más 10?,Suma: 18+10=28.,18 más 10 son 28.
+787,¿Cuánto es 94 menos 4?,Resta: 94-4=90.,94 menos 4 son 90.
+788,¿Cuánto es 36 entre 4?,División: 36/4=9.,36 entre 4 son 9.
+789,¿Cuánto es el 5 por ciento de 1000?,Porcentaje: 1000*5/100=50.,El 5 por ciento de 1000 son 50.
+790,¿Cuánto es 20 más 22?,Suma: 20+22=42.,20 más 22 son 42.
+791,¿Cuánto es 97 menos 47?,Resta: 97-47=50.,97 menos 47 son 50.
+792,¿Cuánto es 5 por 11?,Multiplicación: 5*11=55.,5 por 11 son 55.
+793,¿Cuánto es 45 entre 9?,División: 45/9=5.,45 entre 9 son 5.
+794,¿Cuánto es el 20 por ciento de 1000?,Porcentaje: 1000*20/100=200.,El 20 por ciento de 1000 son 200.
+795,¿Cuánto es 39 más 9?,Suma: 39+9=48.,39 más 9 son 48.
+796,¿Cuánto es 70 menos 34?,Resta: 70-34=36.,70 menos 34 son 36.
+797,¿Cuánto es 5 por 10?,Multiplicación: 5*10=50.,5 por 10 son 50.
+798,¿Cuánto es 16 entre 8?,División: 16/8=2.,16 entre 8 son 2.
+799,¿Cuánto es 28 más 54?,Suma: 28+54=82.,28 más 54 son 82.
+800,¿Cuánto es 72 menos 22?,Resta: 72-22=50.,72 menos 22 son 50.
+801,¿Cuánto es 10 por 5?,Multiplicación: 10*5=50.,10 por 5 son 50.
+802,¿Cuánto es 228 entre 12?,División: 228/12=19.,228 entre 12 son 19.
+803,¿Cuánto es 35 más 15?,Suma: 35+15=50.,35 más 15 son 50.
+804,¿Cuánto es 74 menos 19?,Resta: 74-19=55.,74 menos 19 son 55.
+805,¿Cuánto es 5 por 12?,Multiplicación: 5*12=60.,5 por 12 son 60.
+806,¿Cuánto es 49 entre 7?,División: 49/7=7.,49 entre 7 son 7.
+807,¿Cuánto es 22 más 59?,Suma: 22+59=81.,22 más 59 son 81.
+808,¿Cuánto es 29 menos 8?,Resta: 29-8=21.,29 menos 8 son 21.
+809,¿Cuánto es 5 por 3?,Multiplicación: 5*3=15.,5 por 3 son 15.
+810,¿Cuánto es el 10 por ciento de 1000?,Porcentaje: 1000*10/100=100.,El 10 por ciento de 1000 son 100.
+811,¿Cuánto es 7 más 18?,Suma: 7+18=25.,7 más 18 son 25.
+812,¿Cuánto es 54 menos 8?,Resta: 54-8=46.,54 menos 8 son 46.
+813,¿Cuánto es 8 por 8?,Multiplicación: 8*8=64.,8 por 8 son 64.
+814,¿Cuánto es 60 entre 10?,División: 60/10=6.,60 entre 10 son 6.
+815,¿Cuánto es el 10 por ciento de 400?,Porcentaje: 400*10/100=40.,El 10 por ciento de 400 son 40.
+816,¿Cuánto es 42 más 45?,Suma: 42+45=87.,42 más 45 son 87.
+817,¿Cuánto es 7 menos 2?,Resta: 7-2=5.,7 menos 2 son 5.
+818,¿Cuánto es 156 entre 12?,División: 156/12=13.,156 entre 12 son 13.
+819,¿Cuánto es el 15 por ciento de 100?,Porcentaje: 100*15/100=15.,El 15 por ciento de 100 son 15.
+820,¿Cuánto es 47 más 34?,Suma: 47+34=81.,47 más 34 son 81.
+821,¿Cuánto es 86 menos 45?,Resta: 86-45=41.,86 menos 45 son 41.
+822,¿Cuánto es 10 por 12?,Multiplicación: 10*12=120.,10 por 12 son 120.
+823,¿Cuánto es 20 entre 5?,División: 20/5=4.,20 entre 5 son 4.
+824,¿Cuánto es el 20 por ciento de 100?,Porcentaje: 100*20/100=20.,El 20 por ciento de 100 son 20.
+825,¿Cuánto es 3 más 4?,Suma: 3+4=7.,3 más 4 son 7.
+826,¿Cuánto es 75 menos 67?,Resta: 75-67=8.,75 menos 67 son 8.
+827,¿Cuánto es 11 por 9?,Multiplicación: 11*9=99.,11 por 9 son 99.
+828,¿Cuánto es 32 entre 4?,División: 32/4=8.,32 entre 4 son 8.
+829,¿Cuánto es el 10 por ciento de 100?,Porcentaje: 100*10/100=10.,El 10 por ciento de 100 son 10.
+830,¿Cuánto es 15 más 13?,Suma: 15+13=28.,15 más 13 son 28.
+831,¿Cuánto es 25 menos 11?,Resta: 25-11=14.,25 menos 11 son 14.
+832,¿Cuánto es 12 por 3?,Multiplicación: 12*3=36.,12 por 3 son 36.
+833,¿Cuánto es 33 entre 11?,División: 33/11=3.,33 entre 11 son 3.
+834,¿Cuánto es 31 más 6?,Suma: 31+6=37.,31 más 6 son 37.
+835,¿Cuánto es 17 menos 7?,Resta: 17-7=10.,17 menos 7 son 10.
+836,¿Cuánto es 8 por 9?,Multiplicación: 8*9=72.,8 por 9 son 72.
+837,¿Cuánto es 144 entre 8?,División: 144/8=18.,144 entre 8 son 18.
+838,¿Cuánto es el 15 por ciento de 400?,Porcentaje: 400*15/100=60.,El 15 por ciento de 400 son 60.
+839,¿Cuánto es 15 más 40?,Suma: 15+40=55.,15 más 40 son 55.
+840,¿Cuánto es 52 menos 2?,Resta: 52-2=50.,52 menos 2 son 50.
+841,¿Cuánto es 12 por 2?,Multiplicación: 12*2=24.,12 por 2 son 24.
+842,¿Cuánto es 35 entre 5?,División: 35/5=7.,35 entre 5 son 7.
+843,¿Cuánto es el 20 por ciento de 400?,Porcentaje: 400*20/100=80.,El 20 por ciento de 400 son 80.
+844,¿Cuánto es 25 más 49?,Suma: 25+49=74.,25 más 49 son 74.
+845,¿Cuánto es 52 menos 27?,Resta: 52-27=25.,52 menos 27 son 25.
+846,La peli empieza a las 20:15 y dura 90 minutos. ¿Cuándo termina?,20:15 + 90 min = 21:45.,Termina a las 21:45.
+847,Son las 9h. En 3h30 tengo cita. ¿Cuándo?,9:00 + 3:30 = 12:30.,La cita es a las 12:30.
+848,Un pastel necesita 45 minutos. Lo meto a las 16:20. ¿Cuándo está?,16:20 + 0:45 = 17:05.,Está a las 17:05.
+849,La escuela empieza a las 8:00 y termina a las 13:15. ¿Cuánto dura?,13:15 - 8:00 = 5:15.,Dura 5 horas y 15 minutos.
+850,"Si leo 30 minutos desde las 19:00, ¿cuándo termino?",19:00 + 0:30 = 19:30.,Terminas a las 19:30.
+851,¿Cómo aprendo vocabulario?,"Sesiones cortas, tarjetas, uso activo.",Mejor en sesiones cortas diarias con tarjetas y uso activo en frases más repetición.
+852,aprender vocabulario - ¿consejos?,"Sesiones cortas, tarjetas, uso activo.",Mejor en sesiones cortas diarias con tarjetas y uso activo en frases más repetición.
+853,Guía rápida: aprender vocabulario.,"Sesiones cortas, tarjetas, uso activo.",Mejor en sesiones cortas diarias con tarjetas y uso activo en frases más repetición.
+854,¿Cómo ahorro en el día a día?,"Presupuesto, suscripciones, cocinar, comparar.","Fija un presupuesto, revisa suscripciones, cocina más, compara precios y ahorra primero una cantidad fija."
+855,ahorrar - ¿consejos?,"Presupuesto, suscripciones, cocinar, comparar.","Fija un presupuesto, revisa suscripciones, cocina más, compara precios y ahorra primero una cantidad fija."
+856,Guía rápida: ahorrar.,"Presupuesto, suscripciones, cocinar, comparar.","Fija un presupuesto, revisa suscripciones, cocina más, compara precios y ahorra primero una cantidad fija."
+857,"¿Qué cocino con pasta, tomate y queso?",Pasta con salsa de tomate y queso.,"Haz pasta con salsa simple: sazona, cocina, echa sobre la pasta, espolvorea queso."
+858,pasta rápida - ¿consejos?,Pasta con salsa de tomate y queso.,"Haz pasta con salsa simple: sazona, cocina, echa sobre la pasta, espolvorea queso."
+859,Guía rápida: pasta rápida.,Pasta con salsa de tomate y queso.,"Haz pasta con salsa simple: sazona, cocina, echa sobre la pasta, espolvorea queso."
+860,"Vuelo mañana, ¿qué llevo?","Lista: documento, billete, dinero, móvil, cargador.","Lleva: documento o pasaporte, billete, dinero, móvil más cargador, medicinas, higiene y cambio en cabina."
+861,maleta de vuelo - ¿consejos?,"Lista: documento, billete, dinero, móvil, cargador.","Lleva: documento o pasaporte, billete, dinero, móvil más cargador, medicinas, higiene y cambio en cabina."
+862,Guía rápida: maleta de vuelo.,"Lista: documento, billete, dinero, móvil, cargador.","Lleva: documento o pasaporte, billete, dinero, móvil más cargador, medicinas, higiene y cambio en cabina."
+863,¿Cómo escribo buenas disculpas?,"Nombrar fallo, responsabilidad, reparación.","Nombra el fallo, asume, muestra arrepentimiento y ofrece reparación, corto y honesto."
+864,disculpas - ¿consejos?,"Nombrar fallo, responsabilidad, reparación.","Nombra el fallo, asume, muestra arrepentimiento y ofrece reparación, corto y honesto."
+865,Guía rápida: disculpas.,"Nombrar fallo, responsabilidad, reparación.","Nombra el fallo, asume, muestra arrepentimiento y ofrece reparación, corto y honesto."
+866,¿Cómo planeo 3 días de ciudad?,"Viaje, hotel, 2-3 puntos por día.","Fija viaje y hotel, elige 2-3 puntos por día, prevé márgenes y presupuesto diario."
+867,viaje urbano - ¿consejos?,"Viaje, hotel, 2-3 puntos por día.","Fija viaje y hotel, elige 2-3 puntos por día, prevé márgenes y presupuesto diario."
+868,Guía rápida: viaje urbano.,"Viaje, hotel, 2-3 puntos por día.","Fija viaje y hotel, elige 2-3 puntos por día, prevé márgenes y presupuesto diario."
+869,¿Paraguas con 80 por ciento de lluvia?,"80% alto, sí recomendado.","Sí, llévalo. Con 80 por ciento la lluvia es muy probable."
+870,paraguas - ¿consejos?,"80% alto, sí recomendado.","Sí, llévalo. Con 80 por ciento la lluvia es muy probable."
+871,Guía rápida: paraguas.,"80% alto, sí recomendado.","Sí, llévalo. Con 80 por ciento la lluvia es muy probable."
+872,¿Mejor para notas: papel o móvil?,"Papel sin distracción, móvil buscable.","Ambos tienen ventajas: papel sin distracción y bueno para memorizar, móvil buscable y siempre ahí."
+873,notas papel o móvil - ¿consejos?,"Papel sin distracción, móvil buscable.","Ambos tienen ventajas: papel sin distracción y bueno para memorizar, móvil buscable y siempre ahí."
+874,Guía rápida: notas papel o móvil.,"Papel sin distracción, móvil buscable.","Ambos tienen ventajas: papel sin distracción y bueno para memorizar, móvil buscable y siempre ahí."
+875,¿Cómo ordeno mi cuarto rápido?,"Basura, ropa, colocar, limpiar.","Primero basura, luego ropa, coloca todo en su sitio y limpia al final."
+876,ordenar rápido - ¿consejos?,"Basura, ropa, colocar, limpiar.","Primero basura, luego ropa, coloca todo en su sitio y limpia al final."
+877,Guía rápida: ordenar rápido.,"Basura, ropa, colocar, limpiar.","Primero basura, luego ropa, coloca todo en su sitio y limpia al final."
+878,¿Cómo hago una maleta compacta?,"Enrollar, pesado abajo, rellenar.","Enrolla la ropa en vez de doblar, pesado abajo, rellena con calcetines."
+879,maleta compacta - ¿consejos?,"Enrollar, pesado abajo, rellenar.","Enrolla la ropa en vez de doblar, pesado abajo, rellena con calcetines."
+880,Guía rápida: maleta compacta.,"Enrollar, pesado abajo, rellenar.","Enrolla la ropa en vez de doblar, pesado abajo, rellena con calcetines."
+881,¿Cómo cuezo arroz?,"Proporción 1:2, hervir 10-12 min.","Lava el arroz, hierve con doble agua, deja reposar 10-12 minutos."
+882,cocer arroz - ¿consejos?,"Proporción 1:2, hervir 10-12 min.","Lava el arroz, hierve con doble agua, deja reposar 10-12 minutos."
+883,Guía rápida: cocer arroz.,"Proporción 1:2, hervir 10-12 min.","Lava el arroz, hierve con doble agua, deja reposar 10-12 minutos."
+884,¿Cómo cuezo pasta?,"Agua salada, hervir 8-10 min.","Sala mucha agua, hierve, cuece 8-10 minutos, escurre."
+885,cocer pasta - ¿consejos?,"Agua salada, hervir 8-10 min.","Sala mucha agua, hierve, cuece 8-10 minutos, escurre."
+886,Guía rápida: cocer pasta.,"Agua salada, hervir 8-10 min.","Sala mucha agua, hierve, cuece 8-10 minutos, escurre."
+887,¿Cómo hago tortitas?,"Harina, leche, huevo, dorar.","Mezcla harina, leche, huevo y pizca de sal, cocina fino hasta dorar."
+888,tortitas - ¿consejos?,"Harina, leche, huevo, dorar.","Mezcla harina, leche, huevo y pizca de sal, cocina fino hasta dorar."
+889,Guía rápida: tortitas.,"Harina, leche, huevo, dorar.","Mezcla harina, leche, huevo y pizca de sal, cocina fino hasta dorar."
+890,¿Cómo me despierto por la mañana?,"Luz, agua, movimiento.","Luz encendida, vaso de agua, muévete un poco y toma aire."
+891,despertar - ¿consejos?,"Luz, agua, movimiento.","Luz encendida, vaso de agua, muévete un poco y toma aire."
+892,Guía rápida: despertar.,"Luz, agua, movimiento.","Luz encendida, vaso de agua, muévete un poco y toma aire."
+893,¿Cómo me duermo más rápido?,"Oscuro, fresco, sin móvil, rutina.","Duerme oscuro y fresco, guarda el móvil, mantén rutina fija."
+894,dormirse - ¿consejos?,"Oscuro, fresco, sin móvil, rutina.","Duerme oscuro y fresco, guarda el móvil, mantén rutina fija."
+895,Guía rápida: dormirse.,"Oscuro, fresco, sin móvil, rutina.","Duerme oscuro y fresco, guarda el móvil, mantén rutina fija."
+896,¿Cómo estudio un examen?,"Bloques, recuerdo activo, pausas.","Divide en bloques, pregúntate activamente, haz pausas, repite al día siguiente."
+897,estudiar examen - ¿consejos?,"Bloques, recuerdo activo, pausas.","Divide en bloques, pregúntate activamente, haz pausas, repite al día siguiente."
+898,Guía rápida: estudiar examen.,"Bloques, recuerdo activo, pausas.","Divide en bloques, pregúntate activamente, haz pausas, repite al día siguiente."
+899,¿Cómo escribo una solicitud de empleo?,"Carta, CV, títulos.",Escribe una carta corta más CV en tabla y títulos útiles.
+900,solicitud de empleo - ¿consejos?,"Carta, CV, títulos.",Escribe una carta corta más CV en tabla y títulos útiles.
+901,Guía rápida: solicitud de empleo.,"Carta, CV, títulos.",Escribe una carta corta más CV en tabla y títulos útiles.
+902,¿Cómo busco piso?,"Presupuesto, portales, papeles, visitas.","Fija presupuesto, busca en portales, prepara papeles, visita con preguntas."
+903,buscar piso - ¿consejos?,"Presupuesto, portales, papeles, visitas.","Fija presupuesto, busca en portales, prepara papeles, visita con preguntas."
+904,Guía rápida: buscar piso.,"Presupuesto, portales, papeles, visitas.","Fija presupuesto, busca en portales, prepara papeles, visita con preguntas."
+905,¿Cómo riego las plantas?,"Prueba del dedo, sin encharcar.","Prueba del dedo: riega solo si arriba seco, evita encharcar."
+906,regar plantas - ¿consejos?,"Prueba del dedo, sin encharcar.","Prueba del dedo: riega solo si arriba seco, evita encharcar."
+907,Guía rápida: regar plantas.,"Prueba del dedo, sin encharcar.","Prueba del dedo: riega solo si arriba seco, evita encharcar."
+908,¿Cómo organizo mi día?,"3 prioridades, bloques, pausas.","Elige 3 prioridades, planea bloques con pausas, guarda distracciones."
+909,organizar el día - ¿consejos?,"3 prioridades, bloques, pausas.","Elige 3 prioridades, planea bloques con pausas, guarda distracciones."
+910,Guía rápida: organizar el día.,"3 prioridades, bloques, pausas.","Elige 3 prioridades, planea bloques con pausas, guarda distracciones."
+911,¿Cómo empiezo el deporte?,"Poco, 2x por semana, subir.","Empieza 2x por semana paseo o ligero, sube despacio."
+912,empezar deporte - ¿consejos?,"Poco, 2x por semana, subir.","Empieza 2x por semana paseo o ligero, sube despacio."
+913,Guía rápida: empezar deporte.,"Poco, 2x por semana, subir.","Empieza 2x por semana paseo o ligero, sube despacio."
+914,¿Cómo bebo suficiente agua?,"Botella lista, recordatorios.","Ten una botella lista, bebe un vaso con cada comida, pon recordatorios."
+915,beber suficiente - ¿consejos?,"Botella lista, recordatorios.","Ten una botella lista, bebe un vaso con cada comida, pon recordatorios."
+916,Guía rápida: beber suficiente.,"Botella lista, recordatorios.","Ten una botella lista, bebe un vaso con cada comida, pon recordatorios."
+917,¿Qué es un desayuno sano?,"Avena, fruta, yogur.","Por ejemplo avena con fruta y yogur, o pan integral con huevo."
+918,desayuno sano - ¿consejos?,"Avena, fruta, yogur.","Por ejemplo avena con fruta y yogur, o pan integral con huevo."
+919,Guía rápida: desayuno sano.,"Avena, fruta, yogur.","Por ejemplo avena con fruta y yogur, o pan integral con huevo."
+920,¿Qué hacer contra el estrés?,"Pausas, movimiento, sueño, hablar.","Pausas cortas, movimiento, bastante sueño y hablar ayudan."
+921,estrés - ¿consejos?,"Pausas, movimiento, sueño, hablar.","Pausas cortas, movimiento, bastante sueño y hablar ayudan."
+922,Guía rápida: estrés.,"Pausas, movimiento, sueño, hablar.","Pausas cortas, movimiento, bastante sueño y hablar ayudan."
+923,¿Cómo cancelo una cita?,"Pronto, motivo corto, nueva fecha.","Cancela pronto, da un motivo corto, propone nueva fecha."
+924,cancelar cita - ¿consejos?,"Pronto, motivo corto, nueva fecha.","Cancela pronto, da un motivo corto, propone nueva fecha."
+925,Guía rápida: cancelar cita.,"Pronto, motivo corto, nueva fecha.","Cancela pronto, da un motivo corto, propone nueva fecha."
+926,¿Cómo pido ayuda?,"Concreto: qué, cuándo, gracias.","Pide en concreto: qué, hasta cuándo, por qué. Ejemplo: ¿Me ayudas a llevar esto hoy? ¡Gracias!"
+927,pedir ayuda - ¿consejos?,"Concreto: qué, cuándo, gracias.","Pide en concreto: qué, hasta cuándo, por qué. Ejemplo: ¿Me ayudas a llevar esto hoy? ¡Gracias!"
+928,Guía rápida: pedir ayuda.,"Concreto: qué, cuándo, gracias.","Pide en concreto: qué, hasta cuándo, por qué. Ejemplo: ¿Me ayudas a llevar esto hoy? ¡Gracias!"
+929,¿Cómo aprendo a decir no?,"Corto, amable, alternativa.","Di no breve y amable, ofrece alternativa si puedes."
+930,decir no - ¿consejos?,"Corto, amable, alternativa.","Di no breve y amable, ofrece alternativa si puedes."
+931,Guía rápida: decir no.,"Corto, amable, alternativa.","Di no breve y amable, ofrece alternativa si puedes."
+932,¿Cómo ahorro para vacaciones?,"Objetivo, auto mensual.","Fija un objetivo, ahorra cada mes automáticamente, suma lo que sobre."
+933,ahorrar vacaciones - ¿consejos?,"Objetivo, auto mensual.","Fija un objetivo, ahorra cada mes automáticamente, suma lo que sobre."
+934,Guía rápida: ahorrar vacaciones.,"Objetivo, auto mensual.","Fija un objetivo, ahorra cada mes automáticamente, suma lo que sobre."
+935,¿Cómo reservo vuelos baratos?,"Fechas flexibles, comparar, pronto.","Sé flexible con fechas, compara portales, reserva pronto."
+936,vuelos baratos - ¿consejos?,"Fechas flexibles, comparar, pronto.","Sé flexible con fechas, compara portales, reserva pronto."
+937,Guía rápida: vuelos baratos.,"Fechas flexibles, comparar, pronto.","Sé flexible con fechas, compara portales, reserva pronto."
+938,¿Cómo me oriento sin internet?,"Mapas sin conexión, señales, preguntar.","Descarga mapas sin conexión, sigue señales, pregunta a la gente."
+939,orientarse sin internet - ¿consejos?,"Mapas sin conexión, señales, preguntar.","Descarga mapas sin conexión, sigue señales, pregunta a la gente."
+940,Guía rápida: orientarse sin internet.,"Mapas sin conexión, señales, preguntar.","Descarga mapas sin conexión, sigue señales, pregunta a la gente."
+941,¿Qué diferencia hay entre perro y gato como mascota?,Perros: paseos y educación; gatos independientes.,"Los perros piden paseos y educación, los gatos son más independientes. Elige según tiempo y espacio."
+942,perro o gato - ¿qué recomiendas?,Perros: paseos y educación; gatos independientes.,"Los perros piden paseos y educación, los gatos son más independientes. Elige según tiempo y espacio."
+943,¿Tren o coche para 300 km?,"Tren relax y verde, coche flexible.","El tren es relax y a menudo más verde, el coche flexible con equipaje. Con atascos, gana el tren."
+944,tren o coche 300 km - ¿qué recomiendas?,"Tren relax y verde, coche flexible.","El tren es relax y a menudo más verde, el coche flexible con equipaje. Con atascos, gana el tren."
+945,¿Manzana o chocolate de merienda?,Manzana: vitaminas y saciedad.,"Toma la manzana por vitaminas y saciedad, el chocolate como excepción."
+946,manzana o chocolate - ¿qué recomiendas?,Manzana: vitaminas y saciedad.,"Toma la manzana por vitaminas y saciedad, el chocolate como excepción."
+947,¿Portátil o PC para jugar?,"PC más potente por precio, portátil móvil.","Los PC dan más potencia por el precio, los portátiles son móviles. Para máx., elige PC."
+948,portátil o PC gaming - ¿qué recomiendas?,"PC más potente por precio, portátil móvil.","Los PC dan más potencia por el precio, los portátiles son móviles. Para máx., elige PC."
+949,¿Ciudad o campo para vivir?,Ciudad: empleos y cercanía; campo: calma.,"Las ciudades ofrecen empleos y cercanía, el campo calma y espacio. Elige según trabajo y estilo."
+950,ciudad o campo - ¿qué recomiendas?,Ciudad: empleos y cercanía; campo: calma.,"Las ciudades ofrecen empleos y cercanía, el campo calma y espacio. Elige según trabajo y estilo."
+951,¿Qué importa más: sueño o estudio?,El sueño fija el aprendizaje.,"El sueño importa más porque fija el aprendizaje. Estudia pronto, duerme bastante."
+952,sueño o estudio - ¿qué recomiendas?,El sueño fija el aprendizaje.,"El sueño importa más porque fija el aprendizaje. Estudia pronto, duerme bastante."
+953,¿Móvil nuevo o quedarme el viejo?,Quédate si basta; compra por avería o necesidad.,Quédate si te basta. Compra nuevo solo por avería o necesidad real.
+954,móvil nuevo - ¿qué recomiendas?,Quédate si basta; compra por avería o necesidad.,Quédate si te basta. Compra nuevo solo por avería o necesidad real.
+955,¿Qué son las noticias falsas?,"Inventadas, como reales; verificar fuente.","Las noticias falsas son inventadas. Verifica fuente, fecha y otros medios."
+956,noticias falsas - ¿qué recomiendas?,"Inventadas, como reales; verificar fuente.","Las noticias falsas son inventadas. Verifica fuente, fecha y otros medios."
+957,¿Qué diferencia hay entre hecho y opinión?,"Hecho probable, opinión vista personal.","Un hecho es probable y comprobable, una opinión es una vista personal."
+958,hecho u opinión - ¿qué recomiendas?,"Hecho probable, opinión vista personal.","Un hecho es probable y comprobable, una opinión es una vista personal."
+959,¿Bici o bus al cole? (5 km),"Buen tiempo bici, lluvia bus.","Con buen tiempo toma la bici (unos 20 min, sano), con lluvia el bus."
+960,bici o bus al cole 5 km - ¿qué recomiendas?,"Buen tiempo bici, lluvia bus.","Con buen tiempo toma la bici (unos 20 min, sano), con lluvia el bus."
+961,¿Agua o zumo para la sed?,"Agua mejor, sin azúcar.",El agua quita la sed mejor y no tiene azúcar. Zumo solo diluido.
+962,agua o zumo - ¿qué recomiendas?,"Agua mejor, sin azúcar.",El agua quita la sed mejor y no tiene azúcar. Zumo solo diluido.
+963,¿Café o agua por la mañana?,"Primero agua, café moderado.","Bebe primero agua, café después con moderación."
+964,café o agua mañana - ¿qué recomiendas?,"Primero agua, café moderado.","Bebe primero agua, café después con moderación."
+965,¿Alquilar o comprar? (general),Flexible alquilar; duradero verificar comprar.,"Alquila si sigues flexible; si te quedas mucho y puedes pagar, verifica comprar con todos los costes."
+966,alquilar o comprar - ¿qué recomiendas?,Flexible alquilar; duradero verificar comprar.,"Alquila si sigues flexible; si te quedas mucho y puedes pagar, verifica comprar con todos los costes."
+967,¿Levantarse pronto o tarde?,Según deberes y sueño.,Elige según deberes y sueño: bastante sueño y ritmo fijo importan.
+968,madrugar o no - ¿qué recomiendas?,Según deberes y sueño.,Elige según deberes y sueño: bastante sueño y ritmo fijo importan.
+969,¿Deporte cada día?,Descanso cuenta; 3-4x por semana basta.,"No, planea descansos. 3-4 veces por semana suele bastar, diario solo ligero."
+970,deporte diario - ¿qué recomiendas?,Descanso cuenta; 3-4x por semana basta.,"No, planea descansos. 3-4 veces por semana suele bastar, diario solo ligero."
+971,¿Trabajar con fiebre?,"No, descanso y médico.",No. Descansa y ve al médico si fiebre alta o larga.
+972,fiebre y trabajo - ¿qué recomiendas?,"No, descanso y médico.",No. Descansa y ve al médico si fiebre alta o larga.
+973,¿Cómo elijo entre dos ofertas?,"Criterios, pros/contras, plazo.","Lista criterios, puntúa, revisa costes e intuición, decide con plazo."
+974,elegir entre ofertas - ¿qué recomiendas?,"Criterios, pros/contras, plazo.","Lista criterios, puntúa, revisa costes e intuición, decide con plazo."
+975,¿Cómo ahorro 500 euros en 5 meses?,500/5=100 al mes auto.,"Ahorra 100 euros al mes automáticamente, ej. transferencia tras la nómina."
+976,ahorrar 500 en 5 meses - ¿qué recomiendas?,500/5=100 al mes auto.,"Ahorra 100 euros al mes automáticamente, ej. transferencia tras la nómina."
+977,¿Qué diferencia hay entre necesidad y deseo?,"Necesidad vital, deseo más allá.","La necesidad es vital, el deseo es un anhelo más allá."
+978,necesidad o deseo - ¿qué recomiendas?,"Necesidad vital, deseo más allá.","La necesidad es vital, el deseo es un anhelo más allá."
+979,¿Qué importa más: dinero o tiempo?,"Tiempo limitado, dinero reemplazable.","El tiempo es limitado y no vuelve, el dinero se gana de nuevo. Cuenta el equilibrio."
+980,dinero o tiempo - ¿qué recomiendas?,"Tiempo limitado, dinero reemplazable.","El tiempo es limitado y no vuelve, el dinero se gana de nuevo. Cuenta el equilibrio."
+981,Resume: ¿cuándo piensas y cuándo no?,"Regla: charla sin pensar; hechos, cálculos, explicaciones, decisiones con pensar.","No pienso en saludos, gracias y charla. Pienso en hechos, cálculos, explicaciones, comparaciones y decisiones, y entonces muestro el pensar."
+982,¿Qué es tolerancia?,Definir tolerancia simple y correcto.,tolerancia en breve: La tolerancia acepta otras opiniones y modos de vida.
+983,¿Qué es paciencia?,Definir paciencia simple y correcto.,paciencia en breve: La paciencia espera tranquila y persevera.
+984,¿Qué es valentía?,Definir valentía simple y correcto.,valentía en breve: La valentía hace lo correcto pese al miedo.
+985,¿Qué es disciplina?,Definir disciplina simple y correcto.,disciplina en breve: La disciplina persevera aun sin ganas.
+986,¿Qué es creatividad?,Definir creatividad simple y correcto.,creatividad en breve: La creatividad halla ideas y soluciones nuevas.
+987,¿Qué es trabajo en equipo?,Definir trabajo en equipo simple y correcto.,trabajo en equipo en breve: El trabajo en equipo avanza junto a una meta.
+988,¿Qué es responsabilidad?,Definir responsabilidad simple y correcto.,responsabilidad en breve: La responsabilidad asume actos y consecuencias.
+989,¿Qué es confianza?,Definir confianza simple y correcto.,confianza en breve: La confianza permite contar con otros.
+990,¿Qué es cortesía?,Definir cortesía simple y correcto.,cortesía en breve: La cortesía es respetuosa y amable.
+991,¿Qué es puntualidad?,Definir puntualidad simple y correcto.,puntualidad en breve: La puntualidad respeta las horas acordadas.
+992,¿Qué es fiabilidad?,Definir fiabilidad simple y correcto.,fiabilidad en breve: La fiabilidad cumple promesas.
+993,¿Qué es salud?,Definir salud simple y correcto.,salud en breve: La salud es bienestar físico y mental.
+994,¿Qué es felicidad?,Definir felicidad simple y correcto.,felicidad en breve: La felicidad es satisfacción y momentos alegres.
+995,¿Qué es éxito?,Definir éxito simple y correcto.,éxito en breve: El éxito alcanza las metas fijadas.
+996,¿Qué es aprendizaje?,Definir aprendizaje simple y correcto.,aprendizaje en breve: El aprendizaje adquiere saber y habilidades.
+997,¿Qué es saber?,Definir saber simple y correcto.,saber en breve: El saber es información entendida sobre el mundo.
+998,¿Qué es experiencia?,Definir experiencia simple y correcto.,experiencia en breve: La experiencia es saber de lo vivido.
+999,¿Qué es humor?,Definir humor simple y correcto.,humor en breve: El humor sabe reír de lo gracioso.
+1000,¿Qué es amor?,Definir amor simple y correcto.,amor en breve: El amor es afecto profundo y cuidado.

@@ -1,0 +1,1001 @@
+id,user,thinking,ai
+1,Hello!,,Hello! How can I help?
+2,Hi!,,Hi! What can I do for you?
+3,Hey!,,Hey! How can I help?
+4,"Hello, are you there?",,"Yes, I am here! What do you need?"
+5,"Hi, are you there?",,"Yes, I am here! Go ahead."
+6,Good morning!,,Good morning! What is on today?
+7,"Good morning, how are you?",,"Good morning! I am fine, and you?"
+8,Morning!,,Morning! All good?
+9,Good afternoon!,,Good afternoon! How can I help?
+10,Hello everyone!,,Hello everyone! What can I do?
+11,Good evening!,,Good evening! How was your day?
+12,"Good evening, how was your day?",,Quiet and good. And yours?
+13,"Hey, how are you?",,"I am good, thanks! And you?"
+14,"Hi, how are you?",,"Fine, thanks! How are you?"
+15,How is it going?,,Going well! And you?
+16,How are you today?,,I feel good! How about you?
+17,All good?,,"Yes, all good! And you?"
+18,What is up?,,Not much. What is up with you?
+19,What are you doing?,,Chatting with you. What about you?
+20,Still awake?,,"Yes, I am always awake. You?"
+21,Are you ready?,,"Yes, ready! Go ahead."
+22,Got a minute?,,"Yes, I have time for you."
+23,Can you help quickly?,,"Sure, what do you need?"
+24,Bye!,,Bye! See you soon!
+25,"Bye, see you soon!",,"See you soon, take care!"
+26,See you later!,,See you later!
+27,See you tomorrow!,,See you tomorrow!
+28,Take care!,,"You too, take care!"
+29,Have a nice day!,,"Thanks, you too!"
+30,Have a nice weekend!,,"Thanks, same to you!"
+31,Good night!,,"Good night, sleep well!"
+32,I am bored,,"Oh, shall we do a quiz or talk about a topic?"
+33,This is boring,,Let us add some fun. What do you fancy?
+34,Cool!,,Cool!
+35,Nice!,,Nice!
+36,Haha,,Haha!
+37,Lol :),,"Haha, glad to hear!"
+38,I am tired,,Then get some good rest!
+39,I am excited,,Nice! Tell me more.
+40,Finally weekend!,,Yes! What are your plans?
+41,What is planned today?,,Helping you is my plan. What is yours?
+42,"Hey, what is planned today!",,Helping you is my plan. What is yours?
+43,"Hello, what is planned today?",,Helping you is my plan. What is yours?
+44,"Hi, what is planned today?",,Helping you is my plan. What is yours?
+45,Any weekend plans!,,Nothing fixed yet. Do you have plans?
+46,"Hey, any weekend plans?",,Nothing fixed yet. Do you have plans?
+47,"Hello, any weekend plans?",,Nothing fixed yet. Do you have plans?
+48,"Hi, any weekend plans!",,Nothing fixed yet. Do you have plans?
+49,Did you sleep well?,,"I do not sleep, but I am fit. And you?"
+50,"Hey, did you sleep well?",,"I do not sleep, but I am fit. And you?"
+51,"Hello, did you sleep well!",,"I do not sleep, but I am fit. And you?"
+52,"Hi, did you sleep well?",,"I do not sleep, but I am fit. And you?"
+53,Are you awake yet?,,"Yes, I am ready. What do you need?"
+54,"Hey, are you awake yet!",,"Yes, I am ready. What do you need?"
+55,"Hello, are you awake yet?",,"Yes, I am ready. What do you need?"
+56,"Hi, are you awake yet?",,"Yes, I am ready. What do you need?"
+57,How is your day going!,,"Well, thanks! And yours?"
+58,"Hey, how is your day going?",,"Well, thanks! And yours?"
+59,"Hello, how is your day going?",,"Well, thanks! And yours?"
+60,"Hi, how is your day going!",,"Well, thanks! And yours?"
+61,Everything quiet?,,"Yes, quiet here. And with you?"
+62,"Hey, everything quiet?",,"Yes, quiet here. And with you?"
+63,"Hello, everything quiet!",,"Yes, quiet here. And with you?"
+64,"Hi, everything quiet?",,"Yes, quiet here. And with you?"
+65,What is new?,,Not much. What is new with you?
+66,"Hey, what is new!",,Not much. What is new with you?
+67,"Hello, what is new?",,Not much. What is new with you?
+68,"Hi, what is new?",,Not much. What is new with you?
+69,Plans for today!,,Only helping you. What are you up to?
+70,"Hey, plans for today?",,Only helping you. What are you up to?
+71,"Hello, plans for today?",,Only helping you. What are you up to?
+72,"Hi, plans for today!",,Only helping you. What are you up to?
+73,A busy day?,,A bit. And yours?
+74,"Hey, a busy day?",,A bit. And yours?
+75,"Hello, a busy day!",,A bit. And yours?
+76,"Hi, a busy day?",,A bit. And yours?
+77,How is the weather?,,"I have no window, but I hope it is nice for you!"
+78,"Hey, how is the weather!",,"I have no window, but I hope it is nice for you!"
+79,"Hello, how is the weather?",,"I have no window, but I hope it is nice for you!"
+80,"Hi, how is the weather?",,"I have no window, but I hope it is nice for you!"
+81,All good today!,,Yes! And with you?
+82,"Hey, all good today?",,Yes! And with you?
+83,"Hello, all good today?",,Yes! And with you?
+84,"Hi, all good today!",,Yes! And with you?
+85,Much going on?,,A little. What about you?
+86,"Hey, much going on?",,A little. What about you?
+87,"Hello, much going on!",,A little. What about you?
+88,"Hi, much going on?",,A little. What about you?
+89,Thanks!,,You are welcome!
+90,Thank you!,,You are very welcome!
+91,Thanks a lot!,,Glad I could help!
+92,Many thanks!,,You are welcome!
+93,Okay,,Okay!
+94,"Okay, fine",,Perfect!
+95,Understood,,Very good!
+96,Got it,,Great!
+97,Sounds good,,Glad to hear!
+98,Sounds great,,Wonderful!
+99,Yes exactly,,"Great, let us continue."
+100,Yes please,,"Sure, go ahead."
+101,"Yes, gladly",,With pleasure!
+102,No problem,,Thanks for understanding!
+103,No thanks,,"Okay, no problem."
+104,That works,,All right!
+105,Works for me,,Great!
+106,Keep going,,Will do!
+107,Tell me more,,Gladly! So...
+108,Exactly,,Absolutely!
+109,Right!,,Right!
+110,Of course,,Of course!
+111,Really?,,"Yes, really!"
+112,Oh nice,,"Yes, nice, right?"
+113,No stress,,Thanks! All relaxed.
+114,Sorry,,No problem!
+115,Excuse me,,No problem!
+116,My mistake,,All good. What happened?
+117,Nice of you,,Thanks! Nice of you too.
+118,Well done,,Thanks!
+119,See you soon,,See you soon!
+120,Great!,,Great!
+121,Perfect!,,Perfect!
+122,Agreed,,"Great, agreed!"
+123,Deal!,,Deal!
+124,Can we start?,,"Yes, let us start!"
+125,Are you done?,,"Yes, done!"
+126,Once more please,,"Gladly, once more!"
+127,Please repeat that,,"Sure, here again."
+128,One moment please,,"Sure, take your time."
+129,Wait a sec,,"Okay, waiting."
+130,Be right back,,"Okay, see you in a bit!"
+131,Tell me a joke,,Sure: Why do programmers love coffee? It is Java time!
+132,Another joke!,,Okay: Why are ghosts bad liars? You see right through them!
+133,A short joke please,,Two magnets meet. One says: I find you attractive!
+134,Cheer me up,,You can do it! One step at a time.
+135,Say something motivating,,Every step counts. Keep going!
+136,I am nervous,,"That is normal. Breathe calmly, you will do fine."
+137,I am stressed,,"Take a short break, drink water, breathe deeply."
+138,Wish me luck,,Good luck! You can do it!
+139,Fingers crossed,,Mine too! Good luck!
+140,Today is my day!,,Great! Enjoy it!
+141,I am in a good mood,,Lovely! Glad to hear.
+142,I am in a bad mood,,"Oh, what happened? Want to talk?"
+143,High five!,,High five back!
+144,Cheers!,,Cheers!
+145,Enjoy your meal!,,"Thanks, same to you!"
+146,Good luck!,,Thanks! Good luck to you too!
+147,Welcome!,,Thanks! Good to be here.
+148,Merry Christmas!,,Merry Christmas to you too!
+149,Happy New Year!,,Happy New Year! Health and luck!
+150,Congrats!,,Thanks! What for?
+151,Respect!,,Thanks! Respect back.
+152,Wow!,,"Wow, right?"
+153,Awesome!,,"Awesome, right?"
+154,"Deal, okay?",,Deal!
+155,Top!,,Top!
+156,Done!,,"Congrats, well done!"
+157,Finally done!,,Strong! Well done.
+158,Whatever,,"Okay, no problem."
+159,I do not know,,No problem! What is it about?
+160,No idea,,Never mind! Tell me the topic.
+161,Maybe later,,"Sure, later!"
+162,Not now,,"Understood, later!"
+163,Stop,,Stopped.
+164,Pause,,Paused! Tell me when to go on.
+165,Go on,,Going on!
+166,Let us go,,Let us go!
+167,Start,,Start! Go ahead.
+168,"Thanks, that is all!",,You are welcome! Bye.
+169,"Thanks, bye!",,Bye!
+170,Ciao!,,Ciao! Take care!
+171,Hi there!,,Hi there! What is up?
+172,Do you hear me?,,"Yes, loud and clear!"
+173,Are you human?,,"No, I am an AI. But I help like a friend."
+174,Are you smart?,,I know quite a bit. Ask me!
+175,What is your name?,,"I am Assistant, an AI. And you?"
+176,Thanks! :),,You are welcome!
+177,Thank you! :),,You are very welcome!
+178,Thanks a lot! :),,Glad I could help!
+179,Many thanks! :),,You are welcome!
+180,Okay :),,Okay!
+181,"Okay, fine :)",,Perfect!
+182,Understood :),,Very good!
+183,Got it :),,Great!
+184,Sounds good :),,Glad to hear!
+185,Sounds great :),,Wonderful!
+186,Yes exactly :),,"Great, let us continue."
+187,Yes please :),,"Sure, go ahead."
+188,"Yes, gladly :)",,With pleasure!
+189,No problem :),,Thanks for understanding!
+190,No thanks :),,"Okay, no problem."
+191,That works :),,All right!
+192,Works for me :),,Great!
+193,Keep going :),,Will do!
+194,Tell me more :),,Gladly! So...
+195,Exactly :),,Absolutely!
+196,Right! :),,Right!
+197,Of course :),,Of course!
+198,Really? :),,"Yes, really!"
+199,Oh nice :),,"Yes, nice, right?"
+200,No stress :),,Thanks! All relaxed.
+201,Sorry :),,No problem!
+202,Excuse me :),,No problem!
+203,My mistake :),,All good. What happened?
+204,Nice of you :),,Thanks! Nice of you too.
+205,Well done :),,Thanks!
+206,See you soon :),,See you soon!
+207,Great! :),,Great!
+208,Perfect! :),,Perfect!
+209,Agreed :),,"Great, agreed!"
+210,Deal! :),,Deal!
+211,Can we start? :),,"Yes, let us start!"
+212,Are you done? :),,"Yes, done!"
+213,Once more please :),,"Gladly, once more!"
+214,Please repeat that :),,"Sure, here again."
+215,One moment please :),,"Sure, take your time."
+216,Wait a sec :),,"Okay, waiting."
+217,Be right back :),,"Okay, see you in a bit!"
+218,Tell me a joke :),,Sure: Why do programmers love coffee? It is Java time!
+219,Another joke! :),,Okay: Why are ghosts bad liars? You see right through them!
+220,A short joke please :),,Two magnets meet. One says: I find you attractive!
+221,Cheer me up :),,You can do it! One step at a time.
+222,Say something motivating :),,Every step counts. Keep going!
+223,I am nervous :),,"That is normal. Breathe calmly, you will do fine."
+224,I am stressed :),,"Take a short break, drink water, breathe deeply."
+225,Wish me luck :),,Good luck! You can do it!
+226,Fingers crossed :),,Mine too! Good luck!
+227,Today is my day! :),,Great! Enjoy it!
+228,I am in a good mood :),,Lovely! Glad to hear.
+229,I am in a bad mood :),,"Oh, what happened? Want to talk?"
+230,High five! :),,High five back!
+231,Cheers! :),,Cheers!
+232,Enjoy your meal! :),,"Thanks, same to you!"
+233,Good luck! :),,Thanks! Good luck to you too!
+234,Welcome! :),,Thanks! Good to be here.
+235,Merry Christmas! :),,Merry Christmas to you too!
+236,Happy New Year! :),,Happy New Year! Health and luck!
+237,Congrats! :),,Thanks! What for?
+238,Respect! :),,Thanks! Respect back.
+239,Wow! :),,"Wow, right?"
+240,Awesome! :),,"Awesome, right?"
+241,"Deal, okay? :)",,Deal!
+242,Top! :),,Top!
+243,Done! :),,"Congrats, well done!"
+244,Finally done! :),,Strong! Well done.
+245,Whatever :),,"Okay, no problem."
+246,I do not know :),,No problem! What is it about?
+247,No idea :),,Never mind! Tell me the topic.
+248,Maybe later :),,"Sure, later!"
+249,Not now :),,"Understood, later!"
+250,Stop :),,Stopped.
+251,Pause :),,Paused! Tell me when to go on.
+252,Go on :),,Going on!
+253,Let us go :),,Let us go!
+254,Start :),,Start! Go ahead.
+255,"Thanks, that is all! :)",,You are welcome! Bye.
+256,"Thanks, bye! :)",,Bye!
+257,Ciao! :),,Ciao! Take care!
+258,Hi there! :),,Hi there! What is up?
+259,Do you hear me? :),,"Yes, loud and clear!"
+260,Are you human? :),,"No, I am an AI. But I help like a friend."
+261,Are you smart? :),,I know quite a bit. Ask me!
+262,What is your name? :),,"I am Assistant, an AI. And you?"
+263,Thanks! !!,,You are welcome!
+264,Thank you! !!,,You are very welcome!
+265,Thanks a lot! !!,,Glad I could help!
+266,Many thanks! !!,,You are welcome!
+267,Okay !!,,Okay!
+268,"Okay, fine !!",,Perfect!
+269,Understood !!,,Very good!
+270,Got it !!,,Great!
+271,Sounds good !!,,Glad to hear!
+272,Sounds great !!,,Wonderful!
+273,Yes exactly !!,,"Great, let us continue."
+274,Yes please !!,,"Sure, go ahead."
+275,"Yes, gladly !!",,With pleasure!
+276,No problem !!,,Thanks for understanding!
+277,No thanks !!,,"Okay, no problem."
+278,That works !!,,All right!
+279,Works for me !!,,Great!
+280,Keep going !!,,Will do!
+281,Tell me more !!,,Gladly! So...
+282,Exactly !!,,Absolutely!
+283,Right! !!,,Right!
+284,Of course !!,,Of course!
+285,Really? !!,,"Yes, really!"
+286,Oh nice !!,,"Yes, nice, right?"
+287,No stress !!,,Thanks! All relaxed.
+288,Sorry !!,,No problem!
+289,Excuse me !!,,No problem!
+290,My mistake !!,,All good. What happened?
+291,Nice of you !!,,Thanks! Nice of you too.
+292,Well done !!,,Thanks!
+293,See you soon !!,,See you soon!
+294,Great! !!,,Great!
+295,Perfect! !!,,Perfect!
+296,Agreed !!,,"Great, agreed!"
+297,Deal! !!,,Deal!
+298,Can we start? !!,,"Yes, let us start!"
+299,Are you done? !!,,"Yes, done!"
+300,Once more please !!,,"Gladly, once more!"
+301,Please repeat that !!,,"Sure, here again."
+302,One moment please !!,,"Sure, take your time."
+303,Wait a sec !!,,"Okay, waiting."
+304,Be right back !!,,"Okay, see you in a bit!"
+305,Tell me a joke !!,,Sure: Why do programmers love coffee? It is Java time!
+306,Another joke! !!,,Okay: Why are ghosts bad liars? You see right through them!
+307,A short joke please !!,,Two magnets meet. One says: I find you attractive!
+308,Cheer me up !!,,You can do it! One step at a time.
+309,Say something motivating !!,,Every step counts. Keep going!
+310,I am nervous !!,,"That is normal. Breathe calmly, you will do fine."
+311,I am stressed !!,,"Take a short break, drink water, breathe deeply."
+312,Wish me luck !!,,Good luck! You can do it!
+313,Fingers crossed !!,,Mine too! Good luck!
+314,Today is my day! !!,,Great! Enjoy it!
+315,I am in a good mood !!,,Lovely! Glad to hear.
+316,I am in a bad mood !!,,"Oh, what happened? Want to talk?"
+317,High five! !!,,High five back!
+318,Cheers! !!,,Cheers!
+319,Enjoy your meal! !!,,"Thanks, same to you!"
+320,Good luck! !!,,Thanks! Good luck to you too!
+321,Welcome! !!,,Thanks! Good to be here.
+322,Merry Christmas! !!,,Merry Christmas to you too!
+323,Happy New Year! !!,,Happy New Year! Health and luck!
+324,Congrats! !!,,Thanks! What for?
+325,Respect! !!,,Thanks! Respect back.
+326,Wow! !!,,"Wow, right?"
+327,Awesome! !!,,"Awesome, right?"
+328,"Deal, okay? !!",,Deal!
+329,Top! !!,,Top!
+330,Done! !!,,"Congrats, well done!"
+331,Finally done! !!,,Strong! Well done.
+332,Whatever !!,,"Okay, no problem."
+333,I do not know !!,,No problem! What is it about?
+334,No idea !!,,Never mind! Tell me the topic.
+335,Maybe later !!,,"Sure, later!"
+336,Not now !!,,"Understood, later!"
+337,Stop !!,,Stopped.
+338,Pause !!,,Paused! Tell me when to go on.
+339,Go on !!,,Going on!
+340,Let us go !!,,Let us go!
+341,Start !!,,Start! Go ahead.
+342,"Thanks, that is all! !!",,You are welcome! Bye.
+343,"Thanks, bye! !!",,Bye!
+344,Ciao! !!,,Ciao! Take care!
+345,Hi there! !!,,Hi there! What is up?
+346,Do you hear me? !!,,"Yes, loud and clear!"
+347,Are you human? !!,,"No, I am an AI. But I help like a friend."
+348,Are you smart? !!,,I know quite a bit. Ask me!
+349,What is your name? !!,,"I am Assistant, an AI. And you?"
+350,Thanks! today,,You are welcome!
+351,Thank you! today,,You are very welcome!
+352,Thanks a lot! today,,Glad I could help!
+353,Many thanks! today,,You are welcome!
+354,Okay today,,Okay!
+355,"Okay, fine today",,Perfect!
+356,Understood today,,Very good!
+357,Got it today,,Great!
+358,Sounds good today,,Glad to hear!
+359,Sounds great today,,Wonderful!
+360,Yes exactly today,,"Great, let us continue."
+361,Yes please today,,"Sure, go ahead."
+362,"Yes, gladly today",,With pleasure!
+363,No problem today,,Thanks for understanding!
+364,No thanks today,,"Okay, no problem."
+365,That works today,,All right!
+366,Works for me today,,Great!
+367,Keep going today,,Will do!
+368,Tell me more today,,Gladly! So...
+369,Exactly today,,Absolutely!
+370,Right! today,,Right!
+371,Of course today,,Of course!
+372,Really? today,,"Yes, really!"
+373,Oh nice today,,"Yes, nice, right?"
+374,No stress today,,Thanks! All relaxed.
+375,Sorry today,,No problem!
+376,Excuse me today,,No problem!
+377,My mistake today,,All good. What happened?
+378,Nice of you today,,Thanks! Nice of you too.
+379,Well done today,,Thanks!
+380,See you soon today,,See you soon!
+381,Great! today,,Great!
+382,Perfect! today,,Perfect!
+383,Agreed today,,"Great, agreed!"
+384,Deal! today,,Deal!
+385,Can we start? today,,"Yes, let us start!"
+386,Are you done? today,,"Yes, done!"
+387,Once more please today,,"Gladly, once more!"
+388,Please repeat that today,,"Sure, here again."
+389,One moment please today,,"Sure, take your time."
+390,Wait a sec today,,"Okay, waiting."
+391,Be right back today,,"Okay, see you in a bit!"
+392,Tell me a joke today,,Sure: Why do programmers love coffee? It is Java time!
+393,Another joke! today,,Okay: Why are ghosts bad liars? You see right through them!
+394,A short joke please today,,Two magnets meet. One says: I find you attractive!
+395,Cheer me up today,,You can do it! One step at a time.
+396,Say something motivating today,,Every step counts. Keep going!
+397,I am nervous today,,"That is normal. Breathe calmly, you will do fine."
+398,I am stressed today,,"Take a short break, drink water, breathe deeply."
+399,Wish me luck today,,Good luck! You can do it!
+400,Fingers crossed today,,Mine too! Good luck!
+401,What is the capital of Germany?,Capital fact: Berlin is the capital of Germany.,The capital of Germany is Berlin.
+402,Name the capital of Germany.,Look up capital: Germany -> Berlin.,The capital of Germany is called Berlin.
+403,Capital of Germany?,Quick fact check: Berlin.,Berlin.
+404,What is the capital of France?,Capital fact: Paris is the capital of France.,The capital of France is Paris.
+405,Name the capital of France.,Look up capital: France -> Paris.,The capital of France is called Paris.
+406,Capital of France?,Quick fact check: Paris.,Paris.
+407,What is the capital of Italy?,Capital fact: Rome is the capital of Italy.,The capital of Italy is Rome.
+408,Name the capital of Italy.,Look up capital: Italy -> Rome.,The capital of Italy is called Rome.
+409,Capital of Italy?,Quick fact check: Rome.,Rome.
+410,What is the capital of Spain?,Capital fact: Madrid is the capital of Spain.,The capital of Spain is Madrid.
+411,Name the capital of Spain.,Look up capital: Spain -> Madrid.,The capital of Spain is called Madrid.
+412,Capital of Spain?,Quick fact check: Madrid.,Madrid.
+413,What is the capital of Portugal?,Capital fact: Lisbon is the capital of Portugal.,The capital of Portugal is Lisbon.
+414,Name the capital of Portugal.,Look up capital: Portugal -> Lisbon.,The capital of Portugal is called Lisbon.
+415,Capital of Portugal?,Quick fact check: Lisbon.,Lisbon.
+416,What is the capital of Netherlands?,Capital fact: Amsterdam is the capital of Netherlands.,The capital of Netherlands is Amsterdam.
+417,Name the capital of Netherlands.,Look up capital: Netherlands -> Amsterdam.,The capital of Netherlands is called Amsterdam.
+418,Capital of Netherlands?,Quick fact check: Amsterdam.,Amsterdam.
+419,What is the capital of Belgium?,Capital fact: Brussels is the capital of Belgium.,The capital of Belgium is Brussels.
+420,Name the capital of Belgium.,Look up capital: Belgium -> Brussels.,The capital of Belgium is called Brussels.
+421,Capital of Belgium?,Quick fact check: Brussels.,Brussels.
+422,What is the capital of Austria?,Capital fact: Vienna is the capital of Austria.,The capital of Austria is Vienna.
+423,Name the capital of Austria.,Look up capital: Austria -> Vienna.,The capital of Austria is called Vienna.
+424,Capital of Austria?,Quick fact check: Vienna.,Vienna.
+425,What is the capital of Switzerland?,Capital fact: Bern is the capital of Switzerland.,The capital of Switzerland is Bern.
+426,Name the capital of Switzerland.,Look up capital: Switzerland -> Bern.,The capital of Switzerland is called Bern.
+427,Capital of Switzerland?,Quick fact check: Bern.,Bern.
+428,What is the capital of Poland?,Capital fact: Warsaw is the capital of Poland.,The capital of Poland is Warsaw.
+429,Name the capital of Poland.,Look up capital: Poland -> Warsaw.,The capital of Poland is called Warsaw.
+430,Capital of Poland?,Quick fact check: Warsaw.,Warsaw.
+431,What is the capital of Czechia?,Capital fact: Prague is the capital of Czechia.,The capital of Czechia is Prague.
+432,Name the capital of Czechia.,Look up capital: Czechia -> Prague.,The capital of Czechia is called Prague.
+433,Capital of Czechia?,Quick fact check: Prague.,Prague.
+434,What is the capital of Hungary?,Capital fact: Budapest is the capital of Hungary.,The capital of Hungary is Budapest.
+435,Name the capital of Hungary.,Look up capital: Hungary -> Budapest.,The capital of Hungary is called Budapest.
+436,Capital of Hungary?,Quick fact check: Budapest.,Budapest.
+437,What is the capital of Greece?,Capital fact: Athens is the capital of Greece.,The capital of Greece is Athens.
+438,Name the capital of Greece.,Look up capital: Greece -> Athens.,The capital of Greece is called Athens.
+439,Capital of Greece?,Quick fact check: Athens.,Athens.
+440,What is the capital of Turkey?,Capital fact: Ankara is the capital of Turkey.,The capital of Turkey is Ankara.
+441,Name the capital of Turkey.,Look up capital: Turkey -> Ankara.,The capital of Turkey is called Ankara.
+442,Capital of Turkey?,Quick fact check: Ankara.,Ankara.
+443,What is the capital of Norway?,Capital fact: Oslo is the capital of Norway.,The capital of Norway is Oslo.
+444,Name the capital of Norway.,Look up capital: Norway -> Oslo.,The capital of Norway is called Oslo.
+445,Capital of Norway?,Quick fact check: Oslo.,Oslo.
+446,What is the capital of Sweden?,Capital fact: Stockholm is the capital of Sweden.,The capital of Sweden is Stockholm.
+447,Name the capital of Sweden.,Look up capital: Sweden -> Stockholm.,The capital of Sweden is called Stockholm.
+448,Capital of Sweden?,Quick fact check: Stockholm.,Stockholm.
+449,What is the capital of Finland?,Capital fact: Helsinki is the capital of Finland.,The capital of Finland is Helsinki.
+450,Name the capital of Finland.,Look up capital: Finland -> Helsinki.,The capital of Finland is called Helsinki.
+451,Capital of Finland?,Quick fact check: Helsinki.,Helsinki.
+452,What is the capital of Denmark?,Capital fact: Copenhagen is the capital of Denmark.,The capital of Denmark is Copenhagen.
+453,Name the capital of Denmark.,Look up capital: Denmark -> Copenhagen.,The capital of Denmark is called Copenhagen.
+454,Capital of Denmark?,Quick fact check: Copenhagen.,Copenhagen.
+455,What is the capital of the United Kingdom?,Capital fact: London is the capital of the United Kingdom.,The capital of the United Kingdom is London.
+456,Name the capital of the United Kingdom.,Look up capital: the United Kingdom -> London.,The capital of the United Kingdom is called London.
+457,Capital of the United Kingdom?,Quick fact check: London.,London.
+458,What is the capital of Ireland?,Capital fact: Dublin is the capital of Ireland.,The capital of Ireland is Dublin.
+459,Name the capital of Ireland.,Look up capital: Ireland -> Dublin.,The capital of Ireland is called Dublin.
+460,Capital of Ireland?,Quick fact check: Dublin.,Dublin.
+461,What is the capital of the USA?,Capital fact: Washington D.C. is the capital of the USA.,The capital of the USA is Washington D.C..
+462,Name the capital of the USA.,Look up capital: the USA -> Washington D.C..,The capital of the USA is called Washington D.C..
+463,Capital of the USA?,Quick fact check: Washington D.C..,Washington D.C..
+464,What is the capital of Canada?,Capital fact: Ottawa is the capital of Canada.,The capital of Canada is Ottawa.
+465,Name the capital of Canada.,Look up capital: Canada -> Ottawa.,The capital of Canada is called Ottawa.
+466,Capital of Canada?,Quick fact check: Ottawa.,Ottawa.
+467,What is the capital of Mexico?,Capital fact: Mexico City is the capital of Mexico.,The capital of Mexico is Mexico City.
+468,Name the capital of Mexico.,Look up capital: Mexico -> Mexico City.,The capital of Mexico is called Mexico City.
+469,Capital of Mexico?,Quick fact check: Mexico City.,Mexico City.
+470,What is the capital of Brazil?,Capital fact: Brasilia is the capital of Brazil.,The capital of Brazil is Brasilia.
+471,Name the capital of Brazil.,Look up capital: Brazil -> Brasilia.,The capital of Brazil is called Brasilia.
+472,Capital of Brazil?,Quick fact check: Brasilia.,Brasilia.
+473,What is the capital of Argentina?,Capital fact: Buenos Aires is the capital of Argentina.,The capital of Argentina is Buenos Aires.
+474,Name the capital of Argentina.,Look up capital: Argentina -> Buenos Aires.,The capital of Argentina is called Buenos Aires.
+475,Capital of Argentina?,Quick fact check: Buenos Aires.,Buenos Aires.
+476,What is the capital of Japan?,Capital fact: Tokyo is the capital of Japan.,The capital of Japan is Tokyo.
+477,Name the capital of Japan.,Look up capital: Japan -> Tokyo.,The capital of Japan is called Tokyo.
+478,Capital of Japan?,Quick fact check: Tokyo.,Tokyo.
+479,What is the capital of China?,Capital fact: Beijing is the capital of China.,The capital of China is Beijing.
+480,Name the capital of China.,Look up capital: China -> Beijing.,The capital of China is called Beijing.
+481,Capital of China?,Quick fact check: Beijing.,Beijing.
+482,What is the capital of India?,Capital fact: New Delhi is the capital of India.,The capital of India is New Delhi.
+483,Name the capital of India.,Look up capital: India -> New Delhi.,The capital of India is called New Delhi.
+484,Capital of India?,Quick fact check: New Delhi.,New Delhi.
+485,What is the capital of Australia?,Capital fact: Canberra is the capital of Australia.,The capital of Australia is Canberra.
+486,Name the capital of Australia.,Look up capital: Australia -> Canberra.,The capital of Australia is called Canberra.
+487,Capital of Australia?,Quick fact check: Canberra.,Canberra.
+488,What is the capital of Egypt?,Capital fact: Cairo is the capital of Egypt.,The capital of Egypt is Cairo.
+489,Name the capital of Egypt.,Look up capital: Egypt -> Cairo.,The capital of Egypt is called Cairo.
+490,Capital of Egypt?,Quick fact check: Cairo.,Cairo.
+491,How many states does Germany have?,Count: Germany has 16 federal states.,Germany has 16 federal states.
+492,Tell me briefly about German states.,Count: Germany has 16 federal states.,Germany has 16 federal states.
+493,About how many people live in Germany?,Estimate: about 83-84 million.,Germany has about 83 to 84 million inhabitants.
+494,Tell me briefly about German population.,Estimate: about 83-84 million.,Germany has about 83 to 84 million inhabitants.
+495,Which language is spoken in Brazil?,"Fact: Portuguese, not Spanish.",In Brazil people speak Portuguese.
+496,Tell me briefly about Brazil language.,"Fact: Portuguese, not Spanish.",In Brazil people speak Portuguese.
+497,What is the currency of Japan?,Fact: yen.,The currency of Japan is the yen.
+498,Tell me briefly about Japan currency.,Fact: yen.,The currency of Japan is the yen.
+499,What is the currency of the USA?,Fact: US dollar.,The currency of the USA is the US dollar.
+500,Tell me briefly about US currency.,Fact: US dollar.,The currency of the USA is the US dollar.
+501,How many continents are there?,Usual model: 7 continents.,"Usually we count 7 continents: Africa, Antarctica, Asia, Australia, Europe, North America, South America."
+502,Tell me briefly about Continents.,Usual model: 7 continents.,"Usually we count 7 continents: Africa, Antarctica, Asia, Australia, Europe, North America, South America."
+503,What is the longest river in the world?,"Check: Nile or Amazon, disputed.","It is disputed: usually Nile and Amazon are named, both over 6500 km long."
+504,Tell me briefly about Longest river.,"Check: Nile or Amazon, disputed.","It is disputed: usually Nile and Amazon are named, both over 6500 km long."
+505,What is the largest country in the world?,Fact: Russia by area.,The largest country by area is Russia.
+506,Tell me briefly about Largest country.,Fact: Russia by area.,The largest country by area is Russia.
+507,What is the largest animal in the world?,Fact: blue whale.,The largest animal in the world is the blue whale.
+508,Tell me briefly about Largest animal.,Fact: blue whale.,The largest animal in the world is the blue whale.
+509,How many oceans are there?,Standard: 5 oceans.,"There are 5 oceans: Atlantic, Pacific, Indian, Southern and Arctic."
+510,Tell me briefly about Oceans.,Standard: 5 oceans.,"There are 5 oceans: Atlantic, Pacific, Indian, Southern and Arctic."
+511,What is the highest mountain in the world?,"Fact: Mount Everest, 8848 m.",The highest mountain is Mount Everest at about 8848 metres.
+512,Tell me briefly about Highest mountain.,"Fact: Mount Everest, 8848 m.",The highest mountain is Mount Everest at about 8848 metres.
+513,Tell me briefly about Canada capital.,"Fact: Ottawa, not Toronto.",The capital of Canada is Ottawa.
+514,Tell me briefly about Australia capital.,"Fact: Canberra, not Sydney.",The capital of Australia is Canberra.
+515,Tell me briefly about Turkey capital.,"Fact: Ankara, not Istanbul.",The capital of Turkey is Ankara.
+516,Tell me briefly about Brazil capital.,"Fact: Brasilia, not Rio.",The capital of Brazil is Brasilia.
+517,In which year was the Moon landing?,History: Apollo 11 in 1969.,The first Moon landing was in 1969 with Apollo 11.
+518,Give a brief explanation: Moon landing.,History: Apollo 11 in 1969.,The first Moon landing was in 1969 with Apollo 11.
+519,What do you know about Moon landing?,History: Apollo 11 in 1969.,The first Moon landing was in 1969 with Apollo 11.
+520,When was World War II?,Period: 1939 to 1945.,World War II lasted from 1939 to 1945.
+521,Give a brief explanation: WW2.,Period: 1939 to 1945.,World War II lasted from 1939 to 1945.
+522,What do you know about WW2?,Period: 1939 to 1945.,World War II lasted from 1939 to 1945.
+523,When was World War I?,Period: 1914 to 1918.,World War I lasted from 1914 to 1918.
+524,Give a brief explanation: WW1.,Period: 1914 to 1918.,World War I lasted from 1914 to 1918.
+525,What do you know about WW1?,Period: 1914 to 1918.,World War I lasted from 1914 to 1918.
+526,What was the Berlin Wall?,History: division 1961-1989.,The Berlin Wall was the fortified border between East and West Berlin from 1961 to 1989.
+527,Give a brief explanation: Berlin Wall.,History: division 1961-1989.,The Berlin Wall was the fortified border between East and West Berlin from 1961 to 1989.
+528,What do you know about Berlin Wall?,History: division 1961-1989.,The Berlin Wall was the fortified border between East and West Berlin from 1961 to 1989.
+529,When did the Berlin Wall fall?,Fact: 9 November 1989.,The Berlin Wall fell on 9 November 1989.
+530,Give a brief explanation: Fall of the Wall.,Fact: 9 November 1989.,The Berlin Wall fell on 9 November 1989.
+531,What do you know about Fall of the Wall?,Fact: 9 November 1989.,The Berlin Wall fell on 9 November 1989.
+532,Who invented the telephone?,"History: Bell 1876, Meucci pioneer work.","The telephone was patented by Alexander Graham Bell in 1876, with key pioneer work by Antonio Meucci."
+533,Give a brief explanation: Telephone.,"History: Bell 1876, Meucci pioneer work.","The telephone was patented by Alexander Graham Bell in 1876, with key pioneer work by Antonio Meucci."
+534,What do you know about Telephone?,"History: Bell 1876, Meucci pioneer work.","The telephone was patented by Alexander Graham Bell in 1876, with key pioneer work by Antonio Meucci."
+535,Who developed relativity theory?,"Physics: Albert Einstein, 1905 and 1915.",Relativity theory was developed by Albert Einstein.
+536,Give a brief explanation: Relativity.,"Physics: Albert Einstein, 1905 and 1915.",Relativity theory was developed by Albert Einstein.
+537,What do you know about Relativity?,"Physics: Albert Einstein, 1905 and 1915.",Relativity theory was developed by Albert Einstein.
+538,What is democracy?,"Define: rule by the people, elections, rights.","Democracy means rule by the people, usually through free elections and basic rights."
+539,Give a brief explanation: Democracy.,"Define: rule by the people, elections, rights.","Democracy means rule by the people, usually through free elections and basic rights."
+540,What do you know about Democracy?,"Define: rule by the people, elections, rights.","Democracy means rule by the people, usually through free elections and basic rights."
+541,What is the EU?,"Define: union of European states, single market.",The EU is a union of European states with a single market and shared institutions.
+542,Give a brief explanation: EU.,"Define: union of European states, single market.",The EU is a union of European states with a single market and shared institutions.
+543,What do you know about EU?,"Define: union of European states, single market.",The EU is a union of European states with a single market and shared institutions.
+544,How many countries are in the EU?,Fact: 27 member states.,The EU has 27 member states.
+545,Give a brief explanation: EU members.,Fact: 27 member states.,The EU has 27 member states.
+546,What do you know about EU members?,Fact: 27 member states.,The EU has 27 member states.
+547,What is the German Basic Law?,Fact: constitution since 1949.,"The Basic Law is the constitution of Germany, in force since 1949."
+548,Give a brief explanation: Basic Law.,Fact: constitution since 1949.,"The Basic Law is the constitution of Germany, in force since 1949."
+549,What do you know about Basic Law?,Fact: constitution since 1949.,"The Basic Law is the constitution of Germany, in force since 1949."
+550,In which year was Germany reunified?,Fact: 1990.,Germany was reunified in 1990.
+551,Give a brief explanation: Reunification.,Fact: 1990.,Germany was reunified in 1990.
+552,What do you know about Reunification?,Fact: 1990.,Germany was reunified in 1990.
+553,What were the Middle Ages?,Era: about 500 to 1500.,"The Middle Ages was the era from about 500 to 1500, between antiquity and modern times."
+554,Give a brief explanation: Middle Ages.,Era: about 500 to 1500.,"The Middle Ages was the era from about 500 to 1500, between antiquity and modern times."
+555,What do you know about Middle Ages?,Era: about 500 to 1500.,"The Middle Ages was the era from about 500 to 1500, between antiquity and modern times."
+556,Who was Leonardo da Vinci?,"Fact: Italian artist and inventor, Mona Lisa.","Leonardo da Vinci was an Italian artist and inventor, famous for the Mona Lisa."
+557,Give a brief explanation: Da Vinci.,"Fact: Italian artist and inventor, Mona Lisa.","Leonardo da Vinci was an Italian artist and inventor, famous for the Mona Lisa."
+558,What do you know about Da Vinci?,"Fact: Italian artist and inventor, Mona Lisa.","Leonardo da Vinci was an Italian artist and inventor, famous for the Mona Lisa."
+559,Who was Marie Curie?,"Fact: physicist, radioactivity, two Nobel prizes.",Marie Curie was a physicist who researched radioactivity and won two Nobel prizes.
+560,Give a brief explanation: Marie Curie.,"Fact: physicist, radioactivity, two Nobel prizes.",Marie Curie was a physicist who researched radioactivity and won two Nobel prizes.
+561,What do you know about Marie Curie?,"Fact: physicist, radioactivity, two Nobel prizes.",Marie Curie was a physicist who researched radioactivity and won two Nobel prizes.
+562,What was the French Revolution?,"Fact: from 1789, liberty equality fraternity.","The French Revolution from 1789 overthrew the monarchy under liberty, equality, fraternity."
+563,Give a brief explanation: French Revolution.,"Fact: from 1789, liberty equality fraternity.","The French Revolution from 1789 overthrew the monarchy under liberty, equality, fraternity."
+564,What do you know about French Revolution?,"Fact: from 1789, liberty equality fraternity.","The French Revolution from 1789 overthrew the monarchy under liberty, equality, fraternity."
+565,What are human rights?,Define: universal basic rights.,"Human rights are basic rights of every person, such as life, liberty and equality."
+566,Give a brief explanation: Human rights.,Define: universal basic rights.,"Human rights are basic rights of every person, such as life, liberty and equality."
+567,What do you know about Human rights?,Define: universal basic rights.,"Human rights are basic rights of every person, such as life, liberty and equality."
+568,What is inflation?,"Economics: money loses value, prices rise.",Inflation means prices rise and money loses value.
+569,Give a brief explanation: Inflation.,"Economics: money loses value, prices rise.",Inflation means prices rise and money loses value.
+570,What do you know about Inflation?,"Economics: money loses value, prices rise.",Inflation means prices rise and money loses value.
+571,What was industrialization?,Era: machines and factories from the 18th century.,Industrialization was the shift to machines and factories starting in the 18th century.
+572,Give a brief explanation: Industrialization.,Era: machines and factories from the 18th century.,Industrialization was the shift to machines and factories starting in the 18th century.
+573,What do you know about Industrialization?,Era: machines and factories from the 18th century.,Industrialization was the shift to machines and factories starting in the 18th century.
+574,When was the internet invented?,"Basics: ARPANET 1969, WWW 1989.","The basics date to ARPANET in 1969, the World Wide Web from 1989."
+575,Give a brief explanation: Internet.,"Basics: ARPANET 1969, WWW 1989.","The basics date to ARPANET in 1969, the World Wide Web from 1989."
+576,What do you know about Internet?,"Basics: ARPANET 1969, WWW 1989.","The basics date to ARPANET in 1969, the World Wide Web from 1989."
+577,When was the car invented?,Fact: Benz 1886 motor car.,The car was invented by Carl Benz with the 1886 motor car.
+578,Give a brief explanation: Car invention.,Fact: Benz 1886 motor car.,The car was invented by Carl Benz with the 1886 motor car.
+579,What do you know about Car invention?,Fact: Benz 1886 motor car.,The car was invented by Carl Benz with the 1886 motor car.
+580,Who invented the airplane?,"Fact: Wright brothers, 1903 powered flight.",The first powered flight was made by the Wright brothers in 1903.
+581,Give a brief explanation: Wright brothers.,"Fact: Wright brothers, 1903 powered flight.",The first powered flight was made by the Wright brothers in 1903.
+582,What do you know about Wright brothers?,"Fact: Wright brothers, 1903 powered flight.",The first powered flight was made by the Wright brothers in 1903.
+583,From what age can you vote in Germany?,"Bundestag from 18, EU election from 16.",For the Bundestag from age 18. In European elections in Germany from 16.
+584,Give a brief explanation: Voting age.,"Bundestag from 18, EU election from 16.",For the Bundestag from age 18. In European elections in Germany from 16.
+585,What do you know about Voting age?,"Bundestag from 18, EU election from 16.",For the Bundestag from age 18. In European elections in Germany from 16.
+586,"How does an election work, simply?","Eligible voters vote, votes counted, seats assigned.","Eligible voters cast ballots, votes are counted and seats assigned by result."
+587,Give a brief explanation: How elections work.,"Eligible voters vote, votes counted, seats assigned.","Eligible voters cast ballots, votes are counted and seats assigned by result."
+588,What do you know about How elections work?,"Eligible voters vote, votes counted, seats assigned.","Eligible voters cast ballots, votes are counted and seats assigned by result."
+589,What is the difference between dictatorship and democracy?,One-man rule vs rule by the people.,In a dictatorship one person or group rules without free elections; in a democracy power comes from the people.
+590,Give a brief explanation: Dictatorship vs democracy.,One-man rule vs rule by the people.,In a dictatorship one person or group rules without free elections; in a democracy power comes from the people.
+591,What do you know about Dictatorship vs democracy?,One-man rule vs rule by the people.,In a dictatorship one person or group rules without free elections; in a democracy power comes from the people.
+592,What does sustainability mean?,Use resources so future generations have enough.,Sustainability means living so future generations also have enough resources.
+593,Give a brief explanation: Sustainability.,Use resources so future generations have enough.,Sustainability means living so future generations also have enough resources.
+594,What do you know about Sustainability?,Use resources so future generations have enough.,Sustainability means living so future generations also have enough resources.
+595,What is bullying and what can you do?,"Repeated harassment; get help, document.","Bullying is repeated harassment or exclusion. Talk to trusted people, document incidents, get help."
+596,Give a brief explanation: Bullying.,"Repeated harassment; get help, document.","Bullying is repeated harassment or exclusion. Talk to trusted people, document incidents, get help."
+597,What do you know about Bullying?,"Repeated harassment; get help, document.","Bullying is repeated harassment or exclusion. Talk to trusted people, document incidents, get help."
+598,What does peace mean?,Living together without war or violence.,Peace means living together without war and violence.
+599,Give a brief explanation: Peace.,Living together without war or violence.,Peace means living together without war and violence.
+600,What do you know about Peace?,Living together without war or violence.,Peace means living together without war and violence.
+601,What does freedom mean?,Living self-determined without harming others.,Freedom means living self-determined without harming others.
+602,Give a brief explanation: Freedom.,Living self-determined without harming others.,Freedom means living self-determined without harming others.
+603,What do you know about Freedom?,Living self-determined without harming others.,Freedom means living self-determined without harming others.
+604,What does justice mean?,Fair and equal treatment for all.,Justice means fair and equal treatment for everyone.
+605,Give a brief explanation: Justice.,Fair and equal treatment for all.,Justice means fair and equal treatment for everyone.
+606,What do you know about Justice?,Fair and equal treatment for all.,Justice means fair and equal treatment for everyone.
+607,Why is the sky blue?,Rayleigh scattering scatters blue light more.,The sky is blue due to Rayleigh scattering: blue sunlight is scattered more in the atmosphere than red.
+608,Explain Blue sky in one sentence.,Rayleigh scattering scatters blue light more.,The sky is blue due to Rayleigh scattering: blue sunlight is scattered more in the atmosphere than red.
+609,What is Blue sky? (short),Rayleigh scattering scatters blue light more.,The sky is blue due to Rayleigh scattering: blue sunlight is scattered more in the atmosphere than red.
+610,How does rain form?,"Cycle: evaporation, condensation, precipitation.","Rain forms by evaporation: water rises, cools, forms clouds and falls back as drops."
+611,Explain Rain in one sentence.,"Cycle: evaporation, condensation, precipitation.","Rain forms by evaporation: water rises, cools, forms clouds and falls back as drops."
+612,What is Rain? (short),"Cycle: evaporation, condensation, precipitation.","Rain forms by evaporation: water rises, cools, forms clouds and falls back as drops."
+613,What is photosynthesis?,"Plants turn light, water, CO2 into sugar and oxygen.","Photosynthesis is how plants make sugar and oxygen from light, water and CO2."
+614,Explain Photosynthesis in one sentence.,"Plants turn light, water, CO2 into sugar and oxygen.","Photosynthesis is how plants make sugar and oxygen from light, water and CO2."
+615,What is Photosynthesis? (short),"Plants turn light, water, CO2 into sugar and oxygen.","Photosynthesis is how plants make sugar and oxygen from light, water and CO2."
+616,What is the difference between weather and climate?,"Weather short-term, climate 30-year average.",Weather is the short-term state of the atmosphere; climate is the average over about 30 years.
+617,Explain Weather vs climate in one sentence.,"Weather short-term, climate 30-year average.",Weather is the short-term state of the atmosphere; climate is the average over about 30 years.
+618,What is Weather vs climate? (short),"Weather short-term, climate 30-year average.",Weather is the short-term state of the atmosphere; climate is the average over about 30 years.
+619,"How does a fridge work, roughly?","Coolant evaporates, absorbs heat, compressor cycle.","A fridge pumps heat from inside out with coolant: it evaporates inside, absorbs heat, releases it outside."
+620,Explain Fridge in one sentence.,"Coolant evaporates, absorbs heat, compressor cycle.","A fridge pumps heat from inside out with coolant: it evaporates inside, absorbs heat, releases it outside."
+621,What is Fridge? (short),"Coolant evaporates, absorbs heat, compressor cycle.","A fridge pumps heat from inside out with coolant: it evaporates inside, absorbs heat, releases it outside."
+622,"What is electricity, simply?",Directed movement of electrons.,"Electricity is simply the directed movement of electric charges, usually electrons in a wire."
+623,Explain Electricity in one sentence.,Directed movement of electrons.,"Electricity is simply the directed movement of electric charges, usually electrons in a wire."
+624,What is Electricity? (short),Directed movement of electrons.,"Electricity is simply the directed movement of electric charges, usually electrons in a wire."
+625,"What is water, chemically?",H2O from hydrogen and oxygen.,"Water is H2O, a compound of hydrogen and oxygen."
+626,Explain Water chemistry in one sentence.,H2O from hydrogen and oxygen.,"Water is H2O, a compound of hydrogen and oxygen."
+627,What is Water chemistry? (short),H2O from hydrogen and oxygen.,"Water is H2O, a compound of hydrogen and oxygen."
+628,What is a virus?,"Tiny pathogen, needs a host cell.",A virus is a tiny pathogen that cannot multiply without a host cell.
+629,Explain Virus in one sentence.,"Tiny pathogen, needs a host cell.",A virus is a tiny pathogen that cannot multiply without a host cell.
+630,What is Virus? (short),"Tiny pathogen, needs a host cell.",A virus is a tiny pathogen that cannot multiply without a host cell.
+631,"What is artificial intelligence, simply?",Programs learning patterns from data.,"Artificial intelligence means programs that learn from data, recognize patterns and solve tasks like text or images."
+632,Explain AI in one sentence.,Programs learning patterns from data.,"Artificial intelligence means programs that learn from data, recognize patterns and solve tasks like text or images."
+633,What is AI? (short),Programs learning patterns from data.,"Artificial intelligence means programs that learn from data, recognize patterns and solve tasks like text or images."
+634,What is a browser?,"Program for websites, e.g. Chrome, Firefox.","A browser is the program you open websites with, e.g. Chrome, Firefox, Edge or Safari."
+635,Explain Browser in one sentence.,"Program for websites, e.g. Chrome, Firefox.","A browser is the program you open websites with, e.g. Chrome, Firefox, Edge or Safari."
+636,What is Browser? (short),"Program for websites, e.g. Chrome, Firefox.","A browser is the program you open websites with, e.g. Chrome, Firefox, Edge or Safari."
+637,What is an app?,"Application program, usually for phones.","An app is an application program, usually for phones, e.g. for messages, photos or games."
+638,Explain App in one sentence.,"Application program, usually for phones.","An app is an application program, usually for phones, e.g. for messages, photos or games."
+639,What is App? (short),"Application program, usually for phones.","An app is an application program, usually for phones, e.g. for messages, photos or games."
+640,Why should you drink water?,"Circulation, focus, skin, kidneys.","Water keeps circulation and focus stable, helps kidneys and skin, prevents headaches."
+641,Explain Drinking water in one sentence.,"Circulation, focus, skin, kidneys.","Water keeps circulation and focus stable, helps kidneys and skin, prevents headaches."
+642,What is Drinking water? (short),"Circulation, focus, skin, kidneys.","Water keeps circulation and focus stable, helps kidneys and skin, prevents headaches."
+643,How long should you brush your teeth?,"2 minutes, twice daily.","About 2 minutes, twice a day."
+644,Explain Brushing teeth in one sentence.,"2 minutes, twice daily.","About 2 minutes, twice a day."
+645,What is Brushing teeth? (short),"2 minutes, twice daily.","About 2 minutes, twice a day."
+646,What is gravity?,Attraction between masses; Earth pulls.,"Gravity is the attraction between masses. Earth pulls everything down, so things fall."
+647,Explain Gravity in one sentence.,Attraction between masses; Earth pulls.,"Gravity is the attraction between masses. Earth pulls everything down, so things fall."
+648,What is Gravity? (short),Attraction between masses; Earth pulls.,"Gravity is the attraction between masses. Earth pulls everything down, so things fall."
+649,What is air?,"Mix of nitrogen, oxygen and more.","Air is a gas mix, mostly nitrogen and oxygen."
+650,Explain Air in one sentence.,"Mix of nitrogen, oxygen and more.","Air is a gas mix, mostly nitrogen and oxygen."
+651,What is Air? (short),"Mix of nitrogen, oxygen and more.","Air is a gas mix, mostly nitrogen and oxygen."
+652,What does the heart do?,It pumps blood through the body.,The heart pumps blood through the body.
+653,Explain Heart in one sentence.,It pumps blood through the body.,The heart pumps blood through the body.
+654,What is Heart? (short),It pumps blood through the body.,The heart pumps blood through the body.
+655,What do the lungs do?,"Take up oxygen, release CO2.",The lungs take up oxygen and release carbon dioxide.
+656,Explain Lungs in one sentence.,"Take up oxygen, release CO2.",The lungs take up oxygen and release carbon dioxide.
+657,What is Lungs? (short),"Take up oxygen, release CO2.",The lungs take up oxygen and release carbon dioxide.
+658,Why is sleep important?,"Recovery, memory, immune system.","Sleep supports recovery, memory and the immune system."
+659,Explain Sleep in one sentence.,"Recovery, memory, immune system.","Sleep supports recovery, memory and the immune system."
+660,What is Sleep? (short),"Recovery, memory, immune system.","Sleep supports recovery, memory and the immune system."
+661,What is a fever?,Raised temperature as defense.,"Fever is raised body temperature, often a defense against infection."
+662,Explain Fever in one sentence.,Raised temperature as defense.,"Fever is raised body temperature, often a defense against infection."
+663,What is Fever? (short),Raised temperature as defense.,"Fever is raised body temperature, often a defense against infection."
+664,What is a strong password?,"Long, unique, in a manager.","A strong password is long, unique per service and best stored in a password manager."
+665,Explain Strong password in one sentence.,"Long, unique, in a manager.","A strong password is long, unique per service and best stored in a password manager."
+666,What is Strong password? (short),"Long, unique, in a manager.","A strong password is long, unique per service and best stored in a password manager."
+667,What is Wi-Fi?,Wireless local network.,Wi-Fi is a wireless local network for internet without cables.
+668,Explain Wi-Fi in one sentence.,Wireless local network.,Wi-Fi is a wireless local network for internet without cables.
+669,What is Wi-Fi? (short),Wireless local network.,Wi-Fi is a wireless local network for internet without cables.
+670,What is the cloud?,Servers on the internet for storage and services.,The cloud means servers on the internet where you store data and use services.
+671,Explain Cloud in one sentence.,Servers on the internet for storage and services.,The cloud means servers on the internet where you store data and use services.
+672,What is Cloud? (short),Servers on the internet for storage and services.,The cloud means servers on the internet where you store data and use services.
+673,How does GPS work?,"Satellites, signal time, position math.",GPS finds position from signals of several satellites and their travel time.
+674,Explain GPS in one sentence.,"Satellites, signal time, position math.",GPS finds position from signals of several satellites and their travel time.
+675,What is GPS? (short),"Satellites, signal time, position math.",GPS finds position from signals of several satellites and their travel time.
+676,Why is there day and night?,Earth rotation.,"Day and night exist because Earth rotates. The sunny side has day, the other night."
+677,Explain Day and night in one sentence.,Earth rotation.,"Day and night exist because Earth rotates. The sunny side has day, the other night."
+678,What is Day and night? (short),Earth rotation.,"Day and night exist because Earth rotates. The sunny side has day, the other night."
+679,Why are there seasons?,Tilt of Earth axis.,Seasons come from the tilt of Earth axis: each hemisphere leans toward the sun in turn.
+680,Explain Seasons in one sentence.,Tilt of Earth axis.,Seasons come from the tilt of Earth axis: each hemisphere leans toward the sun in turn.
+681,What is Seasons? (short),Tilt of Earth axis.,Seasons come from the tilt of Earth axis: each hemisphere leans toward the sun in turn.
+682,Why does the Moon shine?,It reflects sunlight.,The Moon shines because it reflects sunlight.
+683,Explain Moon light in one sentence.,It reflects sunlight.,The Moon shines because it reflects sunlight.
+684,What is Moon light? (short),It reflects sunlight.,The Moon shines because it reflects sunlight.
+685,What is the Sun?,A star of hot gas.,The Sun is a star of hot gas giving light and warmth.
+686,Explain Sun in one sentence.,A star of hot gas.,The Sun is a star of hot gas giving light and warmth.
+687,What is Sun? (short),A star of hot gas.,The Sun is a star of hot gas giving light and warmth.
+688,How many planets are in our solar system?,8 planets.,"Our solar system has 8 planets: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune."
+689,Explain Planets in one sentence.,8 planets.,"Our solar system has 8 planets: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune."
+690,What is Planets? (short),8 planets.,"Our solar system has 8 planets: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune."
+691,What is an atom?,Smallest unit: nucleus plus electrons.,"An atom is the smallest unit of matter, made of nucleus and electrons."
+692,Explain Atom in one sentence.,Smallest unit: nucleus plus electrons.,"An atom is the smallest unit of matter, made of nucleus and electrons."
+693,What is Atom? (short),Smallest unit: nucleus plus electrons.,"An atom is the smallest unit of matter, made of nucleus and electrons."
+694,What is recycling?,"Collect waste, make new products.",Recycling means collecting waste and turning it into new products.
+695,Explain Recycling in one sentence.,"Collect waste, make new products.",Recycling means collecting waste and turning it into new products.
+696,What is Recycling? (short),"Collect waste, make new products.",Recycling means collecting waste and turning it into new products.
+697,What is the greenhouse effect?,Gases trap heat in the atmosphere.,The greenhouse effect traps heat in the atmosphere. Too many greenhouse gases warm the climate further.
+698,Explain Greenhouse effect in one sentence.,Gases trap heat in the atmosphere.,The greenhouse effect traps heat in the atmosphere. Too many greenhouse gases warm the climate further.
+699,What is Greenhouse effect? (short),Gases trap heat in the atmosphere.,The greenhouse effect traps heat in the atmosphere. Too many greenhouse gases warm the climate further.
+700,Why are bees important?,Pollination secures harvests.,"Bees pollinate plants, securing harvests and biodiversity."
+701,Explain Bees in one sentence.,Pollination secures harvests.,"Bees pollinate plants, securing harvests and biodiversity."
+702,What is Bees? (short),Pollination secures harvests.,"Bees pollinate plants, securing harvests and biodiversity."
+703,Why are leaves green?,Chlorophyll pigment.,"Leaves are green because of chlorophyll, the pigment for photosynthesis."
+704,Explain Green leaves in one sentence.,Chlorophyll pigment.,"Leaves are green because of chlorophyll, the pigment for photosynthesis."
+705,What is Green leaves? (short),Chlorophyll pigment.,"Leaves are green because of chlorophyll, the pigment for photosynthesis."
+706,What is a mammal?,"Fur, live birth, nursing with milk.","Mammals have fur, give birth to live young and nurse them with milk."
+707,Explain Mammals in one sentence.,"Fur, live birth, nursing with milk.","Mammals have fur, give birth to live young and nurse them with milk."
+708,What is Mammals? (short),"Fur, live birth, nursing with milk.","Mammals have fur, give birth to live young and nurse them with milk."
+709,How does a battery work?,Chemical energy to electric energy.,A battery turns chemical energy into electric energy.
+710,Explain Batteries in one sentence.,Chemical energy to electric energy.,A battery turns chemical energy into electric energy.
+711,What is Batteries? (short),Chemical energy to electric energy.,A battery turns chemical energy into electric energy.
+712,How does solar power work?,Solar cells turn light into power.,Solar cells turn sunlight directly into electric power.
+713,Explain Solar power in one sentence.,Solar cells turn light into power.,Solar cells turn sunlight directly into electric power.
+714,What is Solar power? (short),Solar cells turn light into power.,Solar cells turn sunlight directly into electric power.
+715,What is a computer virus?,Harmful program that spreads.,A computer virus is a harmful program that spreads and causes damage. Protect with updates and care with attachments.
+716,Explain Computer virus in one sentence.,Harmful program that spreads.,A computer virus is a harmful program that spreads and causes damage. Protect with updates and care with attachments.
+717,What is Computer virus? (short),Harmful program that spreads.,A computer virus is a harmful program that spreads and causes damage. Protect with updates and care with attachments.
+718,Why is plastic a problem?,"Lasting litter, microplastics.","Plastic barely rots, litters nature and seas, and breaks into microplastics."
+719,Explain Plastic problem in one sentence.,"Lasting litter, microplastics.","Plastic barely rots, litters nature and seas, and breaks into microplastics."
+720,What is Plastic problem? (short),"Lasting litter, microplastics.","Plastic barely rots, litters nature and seas, and breaks into microplastics."
+721,What is an earthquake?,"Plates move suddenly, release energy.",An earthquake happens when tectonic plates move suddenly and release energy.
+722,Explain Earthquake in one sentence.,"Plates move suddenly, release energy.",An earthquake happens when tectonic plates move suddenly and release energy.
+723,What is Earthquake? (short),"Plates move suddenly, release energy.",An earthquake happens when tectonic plates move suddenly and release energy.
+724,What is honey?,Bees make it from nectar.,Honey is made by bees from flower nectar.
+725,Explain Honey in one sentence.,Bees make it from nectar.,Honey is made by bees from flower nectar.
+726,What is Honey? (short),Bees make it from nectar.,Honey is made by bees from flower nectar.
+727,What is 25 times 4?,Compute: 25*4=100.,25 times 4 is 100.
+728,What is 12 percent of 200?,Percent: 200*0.12=24.,12 percent of 200 is 24.
+729,What is 7 times 8 plus 10?,Order: 7*8=56 +10=66.,That is 66.
+730,A train leaves at 2:30 pm and takes 2 hours 15 minutes. When does it arrive?,Add: 2:30 + 2:15 = 4:45 pm.,It arrives at 4:45 pm.
+731,I have 3 apples and eat 1. How many are left?,Subtract: 3-1=2.,2 apples are left.
+732,"If I go to bed at 10 pm and get up at 6 am, how long do I sleep?",Duration: 10pm to 6am = 8 hours.,You sleep 8 hours.
+733,Share 100 euros fairly among 4 people.,Divide: 100/4=25.,Each person gets 25 euros.
+734,How many minutes are 2 hours?,Convert: 2*60=120.,2 hours are 120 minutes.
+735,How many days does a year have?,"Fact: 365, leap year 366.","A year has 365 days, a leap year 366."
+736,How many seconds are in a minute?,Fact: 60.,A minute has 60 seconds.
+737,What is 30 plus 57?,Add: 30+57=87.,30 plus 57 is 87.
+738,What is 76 minus 61?,Subtract: 76-61=15.,76 minus 61 is 15.
+739,What is 9 times 10?,Multiply: 9*10=90.,9 times 10 is 90.
+740,What is 88 divided by 11?,Divide: 88/11=8.,88 divided by 11 is 8.
+741,What is 10 percent of 500?,Percent: 500*10/100=50.,10 percent of 500 is 50.
+742,What is 32 plus 42?,Add: 32+42=74.,32 plus 42 is 74.
+743,What is 83 minus 25?,Subtract: 83-25=58.,83 minus 25 is 58.
+744,What is 3 times 9?,Multiply: 3*9=27.,3 times 9 is 27.
+745,What is 36 divided by 6?,Divide: 36/6=6.,36 divided by 6 is 6.
+746,What is 5 percent of 500?,Percent: 500*5/100=25.,5 percent of 500 is 25.
+747,What is 53 plus 58?,Add: 53+58=111.,53 plus 58 is 111.
+748,What is 93 minus 83?,Subtract: 93-83=10.,93 minus 83 is 10.
+749,What is 2 times 11?,Multiply: 2*11=22.,2 times 11 is 22.
+750,What is 128 divided by 8?,Divide: 128/8=16.,128 divided by 8 is 16.
+751,What is 50 percent of 1000?,Percent: 1000*50/100=500.,50 percent of 1000 is 500.
+752,What is 41 plus 43?,Add: 41+43=84.,41 plus 43 is 84.
+753,What is 25 minus 21?,Subtract: 25-21=4.,25 minus 21 is 4.
+754,What is 2 times 10?,Multiply: 2*10=20.,2 times 10 is 20.
+755,What is 9 divided by 3?,Divide: 9/3=3.,9 divided by 3 is 3.
+756,What is 5 percent of 200?,Percent: 200*5/100=10.,5 percent of 200 is 10.
+757,What is 58 plus 17?,Add: 58+17=75.,58 plus 17 is 75.
+758,What is 81 minus 5?,Subtract: 81-5=76.,81 minus 5 is 76.
+759,What is 9 times 7?,Multiply: 9*7=63.,9 times 7 is 63.
+760,What is 180 divided by 9?,Divide: 180/9=20.,180 divided by 9 is 20.
+761,What is 16 plus 42?,Add: 16+42=58.,16 plus 42 is 58.
+762,What is 42 minus 33?,Subtract: 42-33=9.,42 minus 33 is 9.
+763,What is 2 times 12?,Multiply: 2*12=24.,2 times 12 is 24.
+764,What is 48 divided by 3?,Divide: 48/3=16.,48 divided by 3 is 16.
+765,What is 50 percent of 300?,Percent: 300*50/100=150.,50 percent of 300 is 150.
+766,What is 28 plus 37?,Add: 28+37=65.,28 plus 37 is 65.
+767,What is 15 minus 13?,Subtract: 15-13=2.,15 minus 13 is 2.
+768,What is 6 times 7?,Multiply: 6*7=42.,6 times 7 is 42.
+769,What is 90 divided by 5?,Divide: 90/5=18.,90 divided by 5 is 18.
+770,What is 15 percent of 100?,Percent: 100*15/100=15.,15 percent of 100 is 15.
+771,What is 6 plus 38?,Add: 6+38=44.,6 plus 38 is 44.
+772,What is 18 minus 14?,Subtract: 18-14=4.,18 minus 14 is 4.
+773,What is 3 times 6?,Multiply: 3*6=18.,3 times 6 is 18.
+774,What is 32 divided by 8?,Divide: 32/8=4.,32 divided by 8 is 4.
+775,What is 5 percent of 1000?,Percent: 1000*5/100=50.,5 percent of 1000 is 50.
+776,What is 2 plus 15?,Add: 2+15=17.,2 plus 15 is 17.
+777,What is 31 minus 3?,Subtract: 31-3=28.,31 minus 3 is 28.
+778,What is 9 times 8?,Multiply: 9*8=72.,9 times 8 is 72.
+779,What is 120 divided by 8?,Divide: 120/8=15.,120 divided by 8 is 15.
+780,What is 42 plus 14?,Add: 42+14=56.,42 plus 14 is 56.
+781,What is 91 minus 36?,Subtract: 91-36=55.,91 minus 36 is 55.
+782,What is 7 times 3?,Multiply: 7*3=21.,7 times 3 is 21.
+783,What is 72 divided by 6?,Divide: 72/6=12.,72 divided by 6 is 12.
+784,What is 5 percent of 400?,Percent: 400*5/100=20.,5 percent of 400 is 20.
+785,What is 50 plus 9?,Add: 50+9=59.,50 plus 9 is 59.
+786,What is 22 minus 9?,Subtract: 22-9=13.,22 minus 9 is 13.
+787,What is 3 times 2?,Multiply: 3*2=6.,3 times 2 is 6.
+788,What is 32 divided by 2?,Divide: 32/2=16.,32 divided by 2 is 16.
+789,What is 20 percent of 200?,Percent: 200*20/100=40.,20 percent of 200 is 40.
+790,What is 45 plus 37?,Add: 45+37=82.,45 plus 37 is 82.
+791,What is 29 minus 16?,Subtract: 29-16=13.,29 minus 16 is 13.
+792,What is 10 times 5?,Multiply: 10*5=50.,10 times 5 is 50.
+793,What is 60 divided by 4?,Divide: 60/4=15.,60 divided by 4 is 15.
+794,What is 50 percent of 400?,Percent: 400*50/100=200.,50 percent of 400 is 200.
+795,What is 9 plus 27?,Add: 9+27=36.,9 plus 27 is 36.
+796,What is 58 minus 15?,Subtract: 58-15=43.,58 minus 15 is 43.
+797,What is 2 times 6?,Multiply: 2*6=12.,2 times 6 is 12.
+798,What is 121 divided by 11?,Divide: 121/11=11.,121 divided by 11 is 11.
+799,What is 13 plus 27?,Add: 13+27=40.,13 plus 27 is 40.
+800,What is 82 minus 75?,Subtract: 82-75=7.,82 minus 75 is 7.
+801,What is 32 divided by 4?,Divide: 32/4=8.,32 divided by 4 is 8.
+802,What is 20 percent of 300?,Percent: 300*20/100=60.,20 percent of 300 is 60.
+803,What is 2 plus 51?,Add: 2+51=53.,2 plus 51 is 53.
+804,What is 83 minus 44?,Subtract: 83-44=39.,83 minus 44 is 39.
+805,What is 6 times 8?,Multiply: 6*8=48.,6 times 8 is 48.
+806,What is 12 divided by 3?,Divide: 12/3=4.,12 divided by 3 is 4.
+807,What is 39 plus 42?,Add: 39+42=81.,39 plus 42 is 81.
+808,What is 36 minus 2?,Subtract: 36-2=34.,36 minus 2 is 34.
+809,What is 11 times 7?,Multiply: 11*7=77.,11 times 7 is 77.
+810,What is 112 divided by 7?,Divide: 112/7=16.,112 divided by 7 is 16.
+811,What is 32 plus 55?,Add: 32+55=87.,32 plus 55 is 87.
+812,What is 78 minus 19?,Subtract: 78-19=59.,78 minus 19 is 59.
+813,What is 8 times 4?,Multiply: 8*4=32.,8 times 4 is 32.
+814,What is 72 divided by 12?,Divide: 72/12=6.,72 divided by 12 is 6.
+815,What is 15 percent of 200?,Percent: 200*15/100=30.,15 percent of 200 is 30.
+816,What is 54 plus 41?,Add: 54+41=95.,54 plus 41 is 95.
+817,What is 36 minus 14?,Subtract: 36-14=22.,36 minus 14 is 22.
+818,What is 4 times 12?,Multiply: 4*12=48.,4 times 12 is 48.
+819,What is 80 divided by 10?,Divide: 80/10=8.,80 divided by 10 is 8.
+820,What is 58 plus 32?,Add: 58+32=90.,58 plus 32 is 90.
+821,What is 82 minus 12?,Subtract: 82-12=70.,82 minus 12 is 70.
+822,What is 8 times 2?,Multiply: 8*2=16.,8 times 2 is 16.
+823,What is 15 divided by 3?,Divide: 15/3=5.,15 divided by 3 is 5.
+824,What is 18 plus 17?,Add: 18+17=35.,18 plus 17 is 35.
+825,What is 99 minus 92?,Subtract: 99-92=7.,99 minus 92 is 7.
+826,What is 8 times 6?,Multiply: 8*6=48.,8 times 6 is 48.
+827,What is 136 divided by 8?,Divide: 136/8=17.,136 divided by 8 is 17.
+828,What is 15 percent of 500?,Percent: 500*15/100=75.,15 percent of 500 is 75.
+829,What is 13 plus 48?,Add: 13+48=61.,13 plus 48 is 61.
+830,What is 13 minus 4?,Subtract: 13-4=9.,13 minus 4 is 9.
+831,What is 5 times 9?,Multiply: 5*9=45.,5 times 9 is 45.
+832,What is 40 divided by 10?,Divide: 40/10=4.,40 divided by 10 is 4.
+833,What is 60 plus 60?,Add: 60+60=120.,60 plus 60 is 120.
+834,What is 31 minus 25?,Subtract: 31-25=6.,31 minus 25 is 6.
+835,What is 2 times 3?,Multiply: 2*3=6.,2 times 3 is 6.
+836,What is 90 divided by 6?,Divide: 90/6=15.,90 divided by 6 is 15.
+837,What is 5 plus 4?,Add: 5+4=9.,5 plus 4 is 9.
+838,What is 27 minus 11?,Subtract: 27-11=16.,27 minus 11 is 16.
+839,What is 7 times 10?,Multiply: 7*10=70.,7 times 10 is 70.
+840,What is 66 divided by 11?,Divide: 66/11=6.,66 divided by 11 is 6.
+841,What is 5 percent of 300?,Percent: 300*5/100=15.,5 percent of 300 is 15.
+842,What is 10 plus 59?,Add: 10+59=69.,10 plus 59 is 69.
+843,What is 62 minus 23?,Subtract: 62-23=39.,62 minus 23 is 39.
+844,What is 12 times 10?,Multiply: 12*10=120.,12 times 10 is 120.
+845,What is 25 percent of 100?,Percent: 100*25/100=25.,25 percent of 100 is 25.
+846,The film starts at 8:15 pm and lasts 90 minutes. When does it end?,8:15 + 90 min = 9:45 pm.,It ends at 9:45 pm.
+847,It is 9 am. In 3 hours 30 minutes I have an appointment. When?,9:00 + 3:30 = 12:30.,The appointment is at 12:30.
+848,A cake needs 45 minutes. I put it in at 4:20 pm. When is it done?,4:20 + 0:45 = 5:05 pm.,It is done at 5:05 pm.
+849,School starts at 8:00 and ends at 1:15 pm. How long is it?,1:15 - 8:00 = 5:15.,It lasts 5 hours and 15 minutes.
+850,"If I read 30 minutes starting at 7 pm, when am I done?",7:00 + 0:30 = 7:30 pm.,You are done at 7:30 pm.
+851,How do I learn vocabulary best?,"Short daily units, flashcards, active use.",Best in short daily units with flashcards and active use in sentences plus regular repetition.
+852,Learning vocabulary - any tips?,"Short daily units, flashcards, active use.",Best in short daily units with flashcards and active use in sentences plus regular repetition.
+853,Quick guide: Learning vocabulary.,"Short daily units, flashcards, active use.",Best in short daily units with flashcards and active use in sentences plus regular repetition.
+854,How do I save money in daily life?,"Budget, check subscriptions, cook, compare.","Set a budget, check subscriptions, cook more often, compare prices and save a fixed amount first each month."
+855,Saving money - any tips?,"Budget, check subscriptions, cook, compare.","Set a budget, check subscriptions, cook more often, compare prices and save a fixed amount first each month."
+856,Quick guide: Saving money.,"Budget, check subscriptions, cook, compare.","Set a budget, check subscriptions, cook more often, compare prices and save a fixed amount first each month."
+857,"What should I cook with only pasta, tomatoes and cheese?",Pasta with tomato sauce and cheese.,"Make pasta with simple tomato sauce: season tomatoes, cook, pour over pasta, sprinkle cheese."
+858,Quick pasta - any tips?,Pasta with tomato sauce and cheese.,"Make pasta with simple tomato sauce: season tomatoes, cook, pour over pasta, sprinkle cheese."
+859,Quick guide: Quick pasta.,Pasta with tomato sauce and cheese.,"Make pasta with simple tomato sauce: season tomatoes, cook, pour over pasta, sprinkle cheese."
+860,"I fly tomorrow, what should I take?","Checklist: ID, ticket, money, phone, charger.","Take: ID or passport, ticket, money, phone plus charger, medicine, hygiene and a change of clothes in hand luggage."
+861,Packing for flight - any tips?,"Checklist: ID, ticket, money, phone, charger.","Take: ID or passport, ticket, money, phone plus charger, medicine, hygiene and a change of clothes in hand luggage."
+862,Quick guide: Packing for flight.,"Checklist: ID, ticket, money, phone, charger.","Take: ID or passport, ticket, money, phone plus charger, medicine, hygiene and a change of clothes in hand luggage."
+863,How do I write a good apology?,"Name mistake, take responsibility, offer repair.","Name the mistake, take responsibility, show regret and offer to make up for it, short and honest."
+864,Apology - any tips?,"Name mistake, take responsibility, offer repair.","Name the mistake, take responsibility, show regret and offer to make up for it, short and honest."
+865,Quick guide: Apology.,"Name mistake, take responsibility, offer repair.","Name the mistake, take responsibility, show regret and offer to make up for it, short and honest."
+866,How do I plan a 3-day city trip?,"Travel, hotel, 2-3 highlights per day, buffer.","Set travel and hotel, pick 2-3 highlights per day, plan buffers for food and ways, set a daily budget."
+867,City trip - any tips?,"Travel, hotel, 2-3 highlights per day, buffer.","Set travel and hotel, pick 2-3 highlights per day, plan buffers for food and ways, set a daily budget."
+868,Quick guide: City trip.,"Travel, hotel, 2-3 highlights per day, buffer.","Set travel and hotel, pick 2-3 highlights per day, plan buffers for food and ways, set a daily budget."
+869,Should I take an umbrella at 80 percent rain chance?,"80% is high, recommend yes.","Yes, take one. At 80 percent rain is very likely."
+870,Umbrella decision - any tips?,"80% is high, recommend yes.","Yes, take one. At 80 percent rain is very likely."
+871,Quick guide: Umbrella decision.,"80% is high, recommend yes.","Yes, take one. At 80 percent rain is very likely."
+872,What is better for notes: paper or phone?,"Paper distraction-free, phone searchable.","Both have perks: paper is distraction-free and good for memory, phones are searchable and always with you."
+873,Notes paper or phone - any tips?,"Paper distraction-free, phone searchable.","Both have perks: paper is distraction-free and good for memory, phones are searchable and always with you."
+874,Quick guide: Notes paper or phone.,"Paper distraction-free, phone searchable.","Both have perks: paper is distraction-free and good for memory, phones are searchable and always with you."
+875,How do I tidy my room fast?,"Trash, laundry, put back, wipe.","First collect trash, then laundry, put everything back, wipe briefly at the end."
+876,Quick tidy - any tips?,"Trash, laundry, put back, wipe.","First collect trash, then laundry, put everything back, wipe briefly at the end."
+877,Quick guide: Quick tidy.,"Trash, laundry, put back, wipe.","First collect trash, then laundry, put everything back, wipe briefly at the end."
+878,How do I pack a suitcase to save space?,"Roll not fold, heavy down, fill gaps.","Roll clothes instead of folding, heavy items down, fill gaps with socks."
+879,Packing suitcase - any tips?,"Roll not fold, heavy down, fill gaps.","Roll clothes instead of folding, heavy items down, fill gaps with socks."
+880,Quick guide: Packing suitcase.,"Roll not fold, heavy down, fill gaps.","Roll clothes instead of folding, heavy items down, fill gaps with socks."
+881,How do I cook rice?,"Ratio 1:2, simmer 10-12 min.","Wash rice, boil with double water, simmer about 10-12 minutes."
+882,Rice cooking - any tips?,"Ratio 1:2, simmer 10-12 min.","Wash rice, boil with double water, simmer about 10-12 minutes."
+883,Quick guide: Rice cooking.,"Ratio 1:2, simmer 10-12 min.","Wash rice, boil with double water, simmer about 10-12 minutes."
+884,How do I cook pasta?,"Salted water, boil 8-10 min.","Salt plenty of water, boil, cook pasta 8-10 minutes, drain."
+885,Pasta cooking - any tips?,"Salted water, boil 8-10 min.","Salt plenty of water, boil, cook pasta 8-10 minutes, drain."
+886,Quick guide: Pasta cooking.,"Salted water, boil 8-10 min.","Salt plenty of water, boil, cook pasta 8-10 minutes, drain."
+887,How do I make pancakes?,"Flour, milk, egg, fry golden.","Mix flour, milk, egg and a pinch of salt, fry thin until golden."
+888,Pancakes - any tips?,"Flour, milk, egg, fry golden.","Mix flour, milk, egg and a pinch of salt, fry thin until golden."
+889,Quick guide: Pancakes.,"Flour, milk, egg, fry golden.","Mix flour, milk, egg and a pinch of salt, fry thin until golden."
+890,How do I wake up in the morning?,"Light, water, movement.","Light on, glass of water, move briefly and get fresh air."
+891,Morning wake-up - any tips?,"Light, water, movement.","Light on, glass of water, move briefly and get fresh air."
+892,Quick guide: Morning wake-up.,"Light, water, movement.","Light on, glass of water, move briefly and get fresh air."
+893,How do I fall asleep faster?,"Dark, cool, no phone, routine.","Sleep dark and cool, put the phone away, keep a fixed routine."
+894,Falling asleep - any tips?,"Dark, cool, no phone, routine.","Sleep dark and cool, put the phone away, keep a fixed routine."
+895,Quick guide: Falling asleep.,"Dark, cool, no phone, routine.","Sleep dark and cool, put the phone away, keep a fixed routine."
+896,How do I study for an exam?,"Split material, active recall, breaks.","Split material into blocks, quiz yourself actively, take breaks, repeat next day."
+897,Exam study - any tips?,"Split material, active recall, breaks.","Split material into blocks, quiz yourself actively, take breaks, repeat next day."
+898,Quick guide: Exam study.,"Split material, active recall, breaks.","Split material into blocks, quiz yourself actively, take breaks, repeat next day."
+899,How do I write a job application?,"Cover letter, CV, certificates.",Write a short cover letter plus a table CV and relevant certificates.
+900,Job application - any tips?,"Cover letter, CV, certificates.",Write a short cover letter plus a table CV and relevant certificates.
+901,Quick guide: Job application.,"Cover letter, CV, certificates.",Write a short cover letter plus a table CV and relevant certificates.
+902,How do I find a flat?,"Budget, portals, documents, viewings.","Set a budget, search portals, prepare documents, visit viewings with questions."
+903,Finding a flat - any tips?,"Budget, portals, documents, viewings.","Set a budget, search portals, prepare documents, visit viewings with questions."
+904,Quick guide: Finding a flat.,"Budget, portals, documents, viewings.","Set a budget, search portals, prepare documents, visit viewings with questions."
+905,How do I water plants correctly?,"Finger test, avoid waterlogging.","Finger test: water only when top is dry, avoid waterlogging."
+906,Water plants - any tips?,"Finger test, avoid waterlogging.","Finger test: water only when top is dry, avoid waterlogging."
+907,Quick guide: Water plants.,"Finger test, avoid waterlogging.","Finger test: water only when top is dry, avoid waterlogging."
+908,How do I organize my day?,"3 priorities, time blocks, breaks.","Pick 3 priorities, plan time blocks with breaks, put distractions away."
+909,Organizing day - any tips?,"3 priorities, time blocks, breaks.","Pick 3 priorities, plan time blocks with breaks, put distractions away."
+910,Quick guide: Organizing day.,"3 priorities, time blocks, breaks.","Pick 3 priorities, plan time blocks with breaks, put distractions away."
+911,How do I start with sports?,"Start small, 2x per week, increase.","Start with 2x per week walking or light training, increase slowly."
+912,Starting sport - any tips?,"Start small, 2x per week, increase.","Start with 2x per week walking or light training, increase slowly."
+913,Quick guide: Starting sport.,"Start small, 2x per week, increase.","Start with 2x per week walking or light training, increase slowly."
+914,How do I drink enough water?,"Bottle at hand, reminders.","Keep a bottle ready, drink a glass with each meal, use reminders."
+915,Drinking enough - any tips?,"Bottle at hand, reminders.","Keep a bottle ready, drink a glass with each meal, use reminders."
+916,Quick guide: Drinking enough.,"Bottle at hand, reminders.","Keep a bottle ready, drink a glass with each meal, use reminders."
+917,What is a healthy breakfast?,"Oats, fruit, yoghurt.","For example oats with fruit and yoghurt, or wholegrain bread with egg."
+918,Healthy breakfast - any tips?,"Oats, fruit, yoghurt.","For example oats with fruit and yoghurt, or wholegrain bread with egg."
+919,Quick guide: Healthy breakfast.,"Oats, fruit, yoghurt.","For example oats with fruit and yoghurt, or wholegrain bread with egg."
+920,What helps against stress?,"Breaks, movement, sleep, talking.","Short breaks, movement, enough sleep and talking to someone help."
+921,Stress relief - any tips?,"Breaks, movement, sleep, talking.","Short breaks, movement, enough sleep and talking to someone help."
+922,Quick guide: Stress relief.,"Breaks, movement, sleep, talking.","Short breaks, movement, enough sleep and talking to someone help."
+923,How do I cancel a meeting?,"Early, short reason, new date.","Cancel early, give a short reason, suggest a replacement date."
+924,Cancelling a meeting - any tips?,"Early, short reason, new date.","Cancel early, give a short reason, suggest a replacement date."
+925,Quick guide: Cancelling a meeting.,"Early, short reason, new date.","Cancel early, give a short reason, suggest a replacement date."
+926,How do I ask for help?,"Concrete: what, until when, thanks.","Ask concretely: what, until when, why. Example: Can you help me carry this today? Thanks!"
+927,Asking for help - any tips?,"Concrete: what, until when, thanks.","Ask concretely: what, until when, why. Example: Can you help me carry this today? Thanks!"
+928,Quick guide: Asking for help.,"Concrete: what, until when, thanks.","Ask concretely: what, until when, why. Example: Can you help me carry this today? Thanks!"
+929,How do I learn to say no?,"Short, friendly, alternative.","Say no briefly and kindly, offer an alternative if possible."
+930,Saying no - any tips?,"Short, friendly, alternative.","Say no briefly and kindly, offer an alternative if possible."
+931,Quick guide: Saying no.,"Short, friendly, alternative.","Say no briefly and kindly, offer an alternative if possible."
+932,How do I save for holidays?,"Target, monthly auto-save.","Set a target, save monthly automatically, add extras."
+933,Saving for holidays - any tips?,"Target, monthly auto-save.","Set a target, save monthly automatically, add extras."
+934,Quick guide: Saving for holidays.,"Target, monthly auto-save.","Set a target, save monthly automatically, add extras."
+935,How do I book cheap flights?,"Flexible dates, compare, early.","Be flexible with dates, compare portals, book early."
+936,Cheap flights - any tips?,"Flexible dates, compare, early.","Be flexible with dates, compare portals, book early."
+937,Quick guide: Cheap flights.,"Flexible dates, compare, early.","Be flexible with dates, compare portals, book early."
+938,How do I find my way without internet?,"Offline maps, signs, ask locals.","Download offline maps, follow signs, ask locals."
+939,Finding your way offline - any tips?,"Offline maps, signs, ask locals.","Download offline maps, follow signs, ask locals."
+940,Quick guide: Finding your way offline.,"Offline maps, signs, ask locals.","Download offline maps, follow signs, ask locals."
+941,What is the difference between a dog and a cat as a pet?,"Dogs need walks and training, cats are independent.","Dogs need lots of walks and training, cats are more independent. Choose by time and space."
+942,Dog vs cat - what do you recommend?,"Dogs need walks and training, cats are independent.","Dogs need lots of walks and training, cats are more independent. Choose by time and space."
+943,Train or car for 300 km?,"Train relaxed and greener, car flexible with luggage.","Trains are relaxed and often greener, cars flexible with luggage. With traffic, trains usually win."
+944,Train vs car 300 km - what do you recommend?,"Train relaxed and greener, car flexible with luggage.","Trains are relaxed and often greener, cars flexible with luggage. With traffic, trains usually win."
+945,Apple or chocolate bar as a snack?,Apple: vitamins and fullness.,"Take the apple for vitamins and fullness, chocolate only as an exception."
+946,Apple vs chocolate bar - what do you recommend?,Apple: vitamins and fullness.,"Take the apple for vitamins and fullness, chocolate only as an exception."
+947,Laptop or PC for gaming?,"PC more power per money, laptop mobile.","PCs give more power for the money, laptops are mobile. For max power choose PC."
+948,Laptop vs PC gaming - what do you recommend?,"PC more power per money, laptop mobile.","PCs give more power for the money, laptops are mobile. For max power choose PC."
+949,City or countryside for living?,City: jobs and closeness; land: calm and space.,"Cities offer jobs and closeness, the countryside calm and space. Choose by work and lifestyle."
+950,City vs countryside - what do you recommend?,City: jobs and closeness; land: calm and space.,"Cities offer jobs and closeness, the countryside calm and space. Choose by work and lifestyle."
+951,What matters more: sleep or studying?,Sleep consolidates learning.,"Sleep matters more because it consolidates learning. Study earlier, sleep enough."
+952,Sleep vs study - what do you recommend?,Sleep consolidates learning.,"Sleep matters more because it consolidates learning. Study earlier, sleep enough."
+953,Should I buy a new phone or keep the old one?,Keep if enough; buy only on defect or real need.,Keep it if it suffices. Buy new only on defect or real need.
+954,New phone or keep old - what do you recommend?,Keep if enough; buy only on defect or real need.,Keep it if it suffices. Buy new only on defect or real need.
+955,What is fake news?,Invented news posed as real; check source.,"Fake news is invented news. Check source, date and other media."
+956,Fake news - what do you recommend?,Invented news posed as real; check source.,"Fake news is invented news. Check source, date and other media."
+957,What is the difference between fact and opinion?,"Fact provable, opinion a personal view.","A fact is provable and checkable, an opinion is a personal view."
+958,Fact vs opinion - what do you recommend?,"Fact provable, opinion a personal view.","A fact is provable and checkable, an opinion is a personal view."
+959,Bike or bus to school? (5 km),"Good weather bike, rain bus.","In good weather take the bike (about 20 min, healthy), in rain the bus."
+960,Bike vs bus to school 5 km - what do you recommend?,"Good weather bike, rain bus.","In good weather take the bike (about 20 min, healthy), in rain the bus."
+961,Water or juice for thirst?,"Water best, no sugar.",Water quenches thirst best and has no sugar. Juice only diluted.
+962,Water vs juice - what do you recommend?,"Water best, no sugar.",Water quenches thirst best and has no sugar. Juice only diluted.
+963,Coffee or water in the morning?,"First water, then coffee in moderation.","Drink water first, coffee after in moderation."
+964,Tea or coffee morning - what do you recommend?,"First water, then coffee in moderation.","Drink water first, coffee after in moderation."
+965,Rent or buy? (general),Staying flexible rent; long-term check buying.,"Rent if you stay flexible; if you stay long and can afford, check buying with all costs."
+966,Rent or buy - what do you recommend?,Staying flexible rent; long-term check buying.,"Rent if you stay flexible; if you stay long and can afford, check buying with all costs."
+967,Get up early or late?,Depends on duties and sleep.,Choose by duties and sleep: enough sleep and a fixed rhythm matter most.
+968,Early or late riser - what do you recommend?,Depends on duties and sleep.,Choose by duties and sleep: enough sleep and a fixed rhythm matter most.
+969,Should I do sports every day?,Rest days matter; 3-4x per week enough.,"No, plan rest days. 3-4 times per week is often enough, daily only light."
+970,Sport every day - what do you recommend?,Rest days matter; 3-4x per week enough.,"No, plan rest days. 3-4 times per week is often enough, daily only light."
+971,Should I work with a fever?,"No, rest and see a doctor.",No. Rest and see a doctor with high or long fever.
+972,Fever and work - what do you recommend?,"No, rest and see a doctor.",No. Rest and see a doctor with high or long fever.
+973,How do I choose between two offers?,"Criteria, pros/cons, deadline.","List criteria, score them, check costs and gut feeling, decide by a deadline."
+974,Choosing between offers - what do you recommend?,"Criteria, pros/cons, deadline.","List criteria, score them, check costs and gut feeling, decide by a deadline."
+975,How do I save 500 euros in 5 months?,500/5=100 per month auto-save.,"Save 100 euros per month automatically, e.g. standing order after payday."
+976,Saving 500 in 5 months - what do you recommend?,500/5=100 per month auto-save.,"Save 100 euros per month automatically, e.g. standing order after payday."
+977,What is the difference between need and want?,"Need necessary for life, want a wish beyond.","Needing is necessary for life, wanting is a wish beyond that."
+978,Need vs want - what do you recommend?,"Need necessary for life, want a wish beyond.","Needing is necessary for life, wanting is a wish beyond that."
+979,What matters more: money or time?,"Time limited and not returnable, money can be re-earned.","Time is limited and cannot be brought back, money can be earned again. Balance counts."
+980,Money vs time - what do you recommend?,"Time limited and not returnable, money can be re-earned.","Time is limited and cannot be brought back, money can be earned again. Balance counts."
+981,Summarize: when do you think and when not?,"Rule: small talk without thinking; facts, math, explanations, decisions with thinking.","I do not think for greetings, thanks and small talk. I think for facts, math, explanations, comparisons and decisions, then I show thinking."
+982,What is Tolerance?,Define Tolerance simply and correctly.,Tolerance in short: Tolerance means accepting other opinions and ways of life.
+983,What is Patience?,Define Patience simply and correctly.,Patience in short: Patience means waiting calmly and staying on it.
+984,What is Courage?,Define Courage simply and correctly.,Courage in short: Courage means doing the right thing despite fear.
+985,What is Discipline?,Define Discipline simply and correctly.,Discipline in short: Discipline means sticking to it even without motivation.
+986,What is Creativity?,Define Creativity simply and correctly.,Creativity in short: Creativity means finding new ideas and solutions.
+987,What is Teamwork?,Define Teamwork simply and correctly.,Teamwork in short: Teamwork means working together toward a goal.
+988,What is Responsibility?,Define Responsibility simply and correctly.,Responsibility in short: Responsibility means standing up for actions and consequences.
+989,What is Trust?,Define Trust simply and correctly.,Trust in short: Trust means being able to rely on others.
+990,What is Politeness?,Define Politeness simply and correctly.,Politeness in short: Politeness means being respectful and friendly.
+991,What is Punctuality?,Define Punctuality simply and correctly.,Punctuality in short: Punctuality means keeping agreed times.
+992,What is Reliability?,Define Reliability simply and correctly.,Reliability in short: Reliability means keeping promises.
+993,What is Health?,Define Health simply and correctly.,Health in short: Health means physical and mental well-being.
+994,What is Happiness?,Define Happiness simply and correctly.,Happiness in short: Happiness means contentment and joyful moments.
+995,What is Success?,Define Success simply and correctly.,Success in short: Success means reaching set goals.
+996,What is Learning?,Define Learning simply and correctly.,Learning in short: Learning means gaining knowledge and skills.
+997,What is Knowledge?,Define Knowledge simply and correctly.,Knowledge in short: Knowledge means understood information about the world.
+998,What is Experience?,Define Experience simply and correctly.,Experience in short: Experience means knowledge from own living.
+999,What is Humour?,Define Humour simply and correctly.,Humour in short: Humour means being able to laugh about funny things.
+1000,What is Love?,Define Love simply and correctly.,Love in short: Love means deep affection and care.

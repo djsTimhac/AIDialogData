@@ -1,0 +1,1001 @@
+id,user,thinking,ai
+1,Ciao!,,Ciao! Come posso aiutare?
+2,Buongiorno!,,Buongiorno! Cosa c'è oggi?
+3,Buonasera!,,Buonasera! Com'è andata la giornata?
+4,"Ciao, ci sei?",,"Sì, ci sono! Cosa serve?"
+5,"Ehi, ci sei?",,"Sì, eccomi! Dimmi."
+6,"Buongiorno, come va?",,"Buongiorno! Bene, e tu?"
+7,Buon pomeriggio!,,Buon pomeriggio! Come posso aiutare?
+8,Ciao a tutti!,,Ciao a tutti! Cosa posso fare?
+9,"Buonasera, com'è andata la giornata?",,Tranquilla e buona. E la tua?
+10,"Ehi, come stai?",,"Bene, grazie! E tu?"
+11,"Ciao, come stai?",,"Bene, grazie! Come stai?"
+12,Come va?,,Va bene! E tu?
+13,Come stai oggi?,,Mi sento bene! E tu?
+14,Tutto bene?,,"Sì, tutto bene! E tu?"
+15,Che succede?,,Niente di speciale. E a te?
+16,Che fai?,,Chatto con te. E tu?
+17,Che fai adesso?,,Ti sto aiutando. Cosa serve?
+18,Ancora sveglio?,,"Sì, sempre sveglio. E tu?"
+19,Pronto?,,"Sì, pronto! Dimmi."
+20,Hai un minuto?,,"Sì, ho tempo per te."
+21,Puoi aiutarmi in fretta?,,"Certo, cosa serve?"
+22,Addio!,,Addio! A presto!
+23,"Addio, a presto!",,"A presto, abbi cura di te!"
+24,A dopo!,,A dopo!
+25,A domani!,,A domani!
+26,Abbi cura di te!,,"Anche tu, abbi cura di te!"
+27,Buona giornata!,,"Grazie, anche a te!"
+28,Buon fine settimana!,,"Grazie, altrettanto!"
+29,Buonanotte!,,"Buonanotte, dormi bene!"
+30,Sogni d'oro!,,Grazie! Sogni d'oro anche a te.
+31,Mi annoio,,Facciamo un quiz o parliamo di un tema?
+32,Che noia qui,,Diamoci una mossa. Cosa preferisci?
+33,Figo!,,Figo!
+34,Bello!,,Bello!
+35,Ahah,,Ahah!
+36,Ahahah :),,"Ahah, mi fa piacere!"
+37,Sono stanco,,Allora riposati bene!
+38,Sono emozionato,,Bene! Racconta.
+39,Finalmente weekend!,,Sì! Quali programmi hai?
+40,Oggi bel tempo,,"Sì, goditi il sole!"
+41,Cosa c'è in programma oggi?,,Il mio programma: aiutarti. E il tuo?
+42,"Ehi, cosa c'è in programma oggi!",,Il mio programma: aiutarti. E il tuo?
+43,"Ciao, cosa c'è in programma oggi?",,Il mio programma: aiutarti. E il tuo?
+44,"Buongiorno, cosa c'è in programma oggi?",,Il mio programma: aiutarti. E il tuo?
+45,Progetti per il weekend!,,Niente di fisso. Hai progetti?
+46,"Ehi, progetti per il weekend?",,Niente di fisso. Hai progetti?
+47,"Ciao, progetti per il weekend?",,Niente di fisso. Hai progetti?
+48,"Buongiorno, progetti per il weekend!",,Niente di fisso. Hai progetti?
+49,Dormito bene?,,"Io non dormo, ma sono in forma. E tu?"
+50,"Ehi, dormito bene?",,"Io non dormo, ma sono in forma. E tu?"
+51,"Ciao, dormito bene!",,"Io non dormo, ma sono in forma. E tu?"
+52,"Buongiorno, dormito bene?",,"Io non dormo, ma sono in forma. E tu?"
+53,Già sveglio?,,"Sì, sono pronto. Cosa serve?"
+54,"Ehi, già sveglio!",,"Sì, sono pronto. Cosa serve?"
+55,"Ciao, già sveglio?",,"Sì, sono pronto. Cosa serve?"
+56,"Buongiorno, già sveglio?",,"Sì, sono pronto. Cosa serve?"
+57,Come va la giornata!,,"Bene, grazie! E la tua?"
+58,"Ehi, come va la giornata?",,"Bene, grazie! E la tua?"
+59,"Ciao, come va la giornata?",,"Bene, grazie! E la tua?"
+60,"Buongiorno, come va la giornata!",,"Bene, grazie! E la tua?"
+61,Tutto tranquillo?,,"Sì, tranquillo qui. E da te?"
+62,"Ehi, tutto tranquillo?",,"Sì, tranquillo qui. E da te?"
+63,"Ciao, tutto tranquillo!",,"Sì, tranquillo qui. E da te?"
+64,"Buongiorno, tutto tranquillo?",,"Sì, tranquillo qui. E da te?"
+65,Cosa c'è di nuovo?,,Niente di speciale. Cosa c'è di nuovo da te?
+66,"Ehi, cosa c'è di nuovo!",,Niente di speciale. Cosa c'è di nuovo da te?
+67,"Ciao, cosa c'è di nuovo?",,Niente di speciale. Cosa c'è di nuovo da te?
+68,"Buongiorno, cosa c'è di nuovo?",,Niente di speciale. Cosa c'è di nuovo da te?
+69,Progetti per oggi!,,Solo aiutarti. E tu cosa fai?
+70,"Ehi, progetti per oggi?",,Solo aiutarti. E tu cosa fai?
+71,"Ciao, progetti per oggi?",,Solo aiutarti. E tu cosa fai?
+72,"Buongiorno, progetti per oggi!",,Solo aiutarti. E tu cosa fai?
+73,Giornata impegnata?,,Un po'. E la tua?
+74,"Ehi, giornata impegnata?",,Un po'. E la tua?
+75,"Ciao, giornata impegnata!",,Un po'. E la tua?
+76,"Buongiorno, giornata impegnata?",,Un po'. E la tua?
+77,Che tempo fa?,,"Non ho finestre, ma spero sia bello da te!"
+78,"Ehi, che tempo fa!",,"Non ho finestre, ma spero sia bello da te!"
+79,"Ciao, che tempo fa?",,"Non ho finestre, ma spero sia bello da te!"
+80,"Buongiorno, che tempo fa?",,"Non ho finestre, ma spero sia bello da te!"
+81,Tutto bene oggi!,,Sì! E da te?
+82,"Ehi, tutto bene oggi?",,Sì! E da te?
+83,"Ciao, tutto bene oggi?",,Sì! E da te?
+84,"Buongiorno, tutto bene oggi!",,Sì! E da te?
+85,Molto da fare?,,Un po'. E tu?
+86,"Ehi, molto da fare?",,Un po'. E tu?
+87,"Ciao, molto da fare!",,Un po'. E tu?
+88,"Buongiorno, molto da fare?",,Un po'. E tu?
+89,Grazie!,,Prego!
+90,Grazie mille!,,Con molto piacere!
+91,Mille grazie!,,Felice di aiutare!
+92,Grazie di tutto!,,Prego!
+93,Va bene,,Va bene!
+94,"Va bene, ok",,Perfetto!
+95,Capito,,Molto bene!
+96,Inteso,,Ottimo!
+97,Sembra buono,,Mi fa piacere!
+98,Sembra ottimo,,Meraviglioso!
+99,"Sì, esatto",,"Ottimo, continuiamo."
+100,"Sì, per favore",,"Certo, dimmi."
+101,"Sì, volentieri",,Con piacere!
+102,Nessun problema,,Grazie per la comprensione!
+103,"No, grazie",,"Va bene, nessun problema."
+104,Mi va bene,,D'accordo!
+105,Va bene per me,,Ottimo!
+106,Continua,,Continuo!
+107,Racconta ancora,,Volentieri! Allora...
+108,Esattamente,,Assolutamente!
+109,Proprio così!,,Proprio così!
+110,Certo,,Certo!
+111,Davvero?,,"Sì, davvero!"
+112,"Oh, bello",,"Sì, bello, no?"
+113,Senza stress,,Grazie! Tutto tranquillo.
+114,Scusa,,Nessun problema!
+115,Scusami,,Nessun problema!
+116,Colpa mia,,Non fa niente. Cos'è successo?
+117,Che gentile,,Grazie! Anche tu sei gentile.
+118,Ben fatto,,Grazie!
+119,A presto,,A presto!
+120,Ottimo!,,Ottimo!
+121,Perfetto!,,Perfetto!
+122,"D'accordo, affare fatto",,"Ottimo, d'accordo!"
+123,Affare fatto!,,Affare fatto!
+124,Possiamo iniziare?,,"Sì, iniziamo!"
+125,Hai finito?,,"Sì, finito!"
+126,"Ancora una volta, per favore",,"Volentieri, ancora!"
+127,"Ripeti, per favore",,"Certo, ecco di nuovo."
+128,"Un momento, per favore",,"Certo, prenditi tempo."
+129,Aspetta un secondo,,"Ok, aspetto."
+130,Torno subito,,"Ok, a tra poco!"
+131,Raccontami una barzelletta,,Certo: Perché i programmatori amano il caffè? È ora di Java!
+132,Ancora una barzelletta!,,Ok: Perché i fantasmi mentono male? Si vede attraverso!
+133,"Una barzelletta corta, per favore",,Si incontrano due magneti. Uno dice: Mi attiri!
+134,Tirami su,,Ce la fai! Un passo alla volta.
+135,Qualcosa di motivante,,Ogni passo conta. Continua!
+136,Sono nervoso,,"È normale. Respira calmo, andrà bene."
+137,Sono stressato,,"Fai una breve pausa, bevi acqua, respira a fondo."
+138,Augurami fortuna,,Fortuna! Ce la fai!
+139,Incrocio le dita,,Anch'io! Fortuna!
+140,Oggi è la mia giornata!,,Ottimo! Goditela!
+141,Sono di buon umore,,Che bello! Mi fa piacere.
+142,Sono di cattivo umore,,"Oh, cos'è successo? Vuoi parlare?"
+143,Batti cinque!,,Batti cinque anche tu!
+144,Salute!,,Salute!
+145,Buon appetito!,,"Grazie, altrettanto!"
+146,Fortuna!,,Grazie! Fortuna anche a te!
+147,Benvenuto!,,Grazie! Bello essere qui.
+148,Buon Natale!,,Buon Natale anche a te!
+149,Felice Anno Nuovo!,,Felice Anno Nuovo! Salute e fortuna!
+150,Congratulazioni!,,Grazie! Per cosa?
+151,Rispetto!,,Grazie! Rispetto anche a te.
+152,Wow!,,"Wow, no?"
+153,Incredibile!,,"Incredibile, no?"
+154,Affare?,,Affare!
+155,Top!,,Top!
+156,Fatto!,,"Congratulazioni, ben fatto!"
+157,Finalmente fatto!,,Forte! Ben fatto.
+158,Fa niente,,"Va bene, nessun problema."
+159,Non lo so,,Nessun problema! Di cosa si tratta?
+160,Nessuna idea,,Non importa! Dimmi il tema.
+161,Forse dopo,,"Certo, dopo!"
+162,Adesso no,,"Capito, dopo!"
+163,Stop,,Fermato.
+164,Pausa,,Pausa! Dimmi quando continuare.
+165,Andiamo,,Andiamo!
+166,Inizia,,Iniziamo! Dimmi.
+167,"Grazie, è tutto!",,Prego! Ciao.
+168,"Grazie, ciao!",,Ciao!
+169,Ciao ciao!,,Ciao ciao! Abbi cura di te!
+170,Ehi tu!,,Ehi tu! Cosa succede?
+171,Mi senti?,,"Sì, forte e chiaro!"
+172,Sei umano?,,"No, sono un'IA. Ma aiuto come un amico."
+173,Sei intelligente?,,So parecchie cose. Chiedimi!
+174,Come ti chiami?,,"Sono Assistente, un'IA. E tu?"
+175,Grazie! :),,Prego!
+176,Grazie mille! :),,Con molto piacere!
+177,Mille grazie! :),,Felice di aiutare!
+178,Grazie di tutto! :),,Prego!
+179,Va bene :),,Va bene!
+180,"Va bene, ok :)",,Perfetto!
+181,Capito :),,Molto bene!
+182,Inteso :),,Ottimo!
+183,Sembra buono :),,Mi fa piacere!
+184,Sembra ottimo :),,Meraviglioso!
+185,"Sì, esatto :)",,"Ottimo, continuiamo."
+186,"Sì, per favore :)",,"Certo, dimmi."
+187,"Sì, volentieri :)",,Con piacere!
+188,Nessun problema :),,Grazie per la comprensione!
+189,"No, grazie :)",,"Va bene, nessun problema."
+190,Mi va bene :),,D'accordo!
+191,Va bene per me :),,Ottimo!
+192,Continua :),,Continuo!
+193,Racconta ancora :),,Volentieri! Allora...
+194,Esattamente :),,Assolutamente!
+195,Proprio così! :),,Proprio così!
+196,Certo :),,Certo!
+197,Davvero? :),,"Sì, davvero!"
+198,"Oh, bello :)",,"Sì, bello, no?"
+199,Senza stress :),,Grazie! Tutto tranquillo.
+200,Scusa :),,Nessun problema!
+201,Scusami :),,Nessun problema!
+202,Colpa mia :),,Non fa niente. Cos'è successo?
+203,Che gentile :),,Grazie! Anche tu sei gentile.
+204,Ben fatto :),,Grazie!
+205,A presto :),,A presto!
+206,Ottimo! :),,Ottimo!
+207,Perfetto! :),,Perfetto!
+208,"D'accordo, affare fatto :)",,"Ottimo, d'accordo!"
+209,Affare fatto! :),,Affare fatto!
+210,Possiamo iniziare? :),,"Sì, iniziamo!"
+211,Hai finito? :),,"Sì, finito!"
+212,"Ancora una volta, per favore :)",,"Volentieri, ancora!"
+213,"Ripeti, per favore :)",,"Certo, ecco di nuovo."
+214,"Un momento, per favore :)",,"Certo, prenditi tempo."
+215,Aspetta un secondo :),,"Ok, aspetto."
+216,Torno subito :),,"Ok, a tra poco!"
+217,Raccontami una barzelletta :),,Certo: Perché i programmatori amano il caffè? È ora di Java!
+218,Ancora una barzelletta! :),,Ok: Perché i fantasmi mentono male? Si vede attraverso!
+219,"Una barzelletta corta, per favore :)",,Si incontrano due magneti. Uno dice: Mi attiri!
+220,Tirami su :),,Ce la fai! Un passo alla volta.
+221,Qualcosa di motivante :),,Ogni passo conta. Continua!
+222,Sono nervoso :),,"È normale. Respira calmo, andrà bene."
+223,Sono stressato :),,"Fai una breve pausa, bevi acqua, respira a fondo."
+224,Augurami fortuna :),,Fortuna! Ce la fai!
+225,Incrocio le dita :),,Anch'io! Fortuna!
+226,Oggi è la mia giornata! :),,Ottimo! Goditela!
+227,Sono di buon umore :),,Che bello! Mi fa piacere.
+228,Sono di cattivo umore :),,"Oh, cos'è successo? Vuoi parlare?"
+229,Batti cinque! :),,Batti cinque anche tu!
+230,Salute! :),,Salute!
+231,Buon appetito! :),,"Grazie, altrettanto!"
+232,Fortuna! :),,Grazie! Fortuna anche a te!
+233,Benvenuto! :),,Grazie! Bello essere qui.
+234,Buon Natale! :),,Buon Natale anche a te!
+235,Felice Anno Nuovo! :),,Felice Anno Nuovo! Salute e fortuna!
+236,Congratulazioni! :),,Grazie! Per cosa?
+237,Rispetto! :),,Grazie! Rispetto anche a te.
+238,Wow! :),,"Wow, no?"
+239,Incredibile! :),,"Incredibile, no?"
+240,Affare? :),,Affare!
+241,Top! :),,Top!
+242,Fatto! :),,"Congratulazioni, ben fatto!"
+243,Finalmente fatto! :),,Forte! Ben fatto.
+244,Fa niente :),,"Va bene, nessun problema."
+245,Non lo so :),,Nessun problema! Di cosa si tratta?
+246,Nessuna idea :),,Non importa! Dimmi il tema.
+247,Forse dopo :),,"Certo, dopo!"
+248,Adesso no :),,"Capito, dopo!"
+249,Stop :),,Fermato.
+250,Pausa :),,Pausa! Dimmi quando continuare.
+251,Andiamo :),,Andiamo!
+252,Inizia :),,Iniziamo! Dimmi.
+253,"Grazie, è tutto! :)",,Prego! Ciao.
+254,"Grazie, ciao! :)",,Ciao!
+255,Ciao ciao! :),,Ciao ciao! Abbi cura di te!
+256,Ehi tu! :),,Ehi tu! Cosa succede?
+257,Mi senti? :),,"Sì, forte e chiaro!"
+258,Sei umano? :),,"No, sono un'IA. Ma aiuto come un amico."
+259,Sei intelligente? :),,So parecchie cose. Chiedimi!
+260,Come ti chiami? :),,"Sono Assistente, un'IA. E tu?"
+261,Grazie! !!,,Prego!
+262,Grazie mille! !!,,Con molto piacere!
+263,Mille grazie! !!,,Felice di aiutare!
+264,Grazie di tutto! !!,,Prego!
+265,Va bene !!,,Va bene!
+266,"Va bene, ok !!",,Perfetto!
+267,Capito !!,,Molto bene!
+268,Inteso !!,,Ottimo!
+269,Sembra buono !!,,Mi fa piacere!
+270,Sembra ottimo !!,,Meraviglioso!
+271,"Sì, esatto !!",,"Ottimo, continuiamo."
+272,"Sì, per favore !!",,"Certo, dimmi."
+273,"Sì, volentieri !!",,Con piacere!
+274,Nessun problema !!,,Grazie per la comprensione!
+275,"No, grazie !!",,"Va bene, nessun problema."
+276,Mi va bene !!,,D'accordo!
+277,Va bene per me !!,,Ottimo!
+278,Continua !!,,Continuo!
+279,Racconta ancora !!,,Volentieri! Allora...
+280,Esattamente !!,,Assolutamente!
+281,Proprio così! !!,,Proprio così!
+282,Certo !!,,Certo!
+283,Davvero? !!,,"Sì, davvero!"
+284,"Oh, bello !!",,"Sì, bello, no?"
+285,Senza stress !!,,Grazie! Tutto tranquillo.
+286,Scusa !!,,Nessun problema!
+287,Scusami !!,,Nessun problema!
+288,Colpa mia !!,,Non fa niente. Cos'è successo?
+289,Che gentile !!,,Grazie! Anche tu sei gentile.
+290,Ben fatto !!,,Grazie!
+291,A presto !!,,A presto!
+292,Ottimo! !!,,Ottimo!
+293,Perfetto! !!,,Perfetto!
+294,"D'accordo, affare fatto !!",,"Ottimo, d'accordo!"
+295,Affare fatto! !!,,Affare fatto!
+296,Possiamo iniziare? !!,,"Sì, iniziamo!"
+297,Hai finito? !!,,"Sì, finito!"
+298,"Ancora una volta, per favore !!",,"Volentieri, ancora!"
+299,"Ripeti, per favore !!",,"Certo, ecco di nuovo."
+300,"Un momento, per favore !!",,"Certo, prenditi tempo."
+301,Aspetta un secondo !!,,"Ok, aspetto."
+302,Torno subito !!,,"Ok, a tra poco!"
+303,Raccontami una barzelletta !!,,Certo: Perché i programmatori amano il caffè? È ora di Java!
+304,Ancora una barzelletta! !!,,Ok: Perché i fantasmi mentono male? Si vede attraverso!
+305,"Una barzelletta corta, per favore !!",,Si incontrano due magneti. Uno dice: Mi attiri!
+306,Tirami su !!,,Ce la fai! Un passo alla volta.
+307,Qualcosa di motivante !!,,Ogni passo conta. Continua!
+308,Sono nervoso !!,,"È normale. Respira calmo, andrà bene."
+309,Sono stressato !!,,"Fai una breve pausa, bevi acqua, respira a fondo."
+310,Augurami fortuna !!,,Fortuna! Ce la fai!
+311,Incrocio le dita !!,,Anch'io! Fortuna!
+312,Oggi è la mia giornata! !!,,Ottimo! Goditela!
+313,Sono di buon umore !!,,Che bello! Mi fa piacere.
+314,Sono di cattivo umore !!,,"Oh, cos'è successo? Vuoi parlare?"
+315,Batti cinque! !!,,Batti cinque anche tu!
+316,Salute! !!,,Salute!
+317,Buon appetito! !!,,"Grazie, altrettanto!"
+318,Fortuna! !!,,Grazie! Fortuna anche a te!
+319,Benvenuto! !!,,Grazie! Bello essere qui.
+320,Buon Natale! !!,,Buon Natale anche a te!
+321,Felice Anno Nuovo! !!,,Felice Anno Nuovo! Salute e fortuna!
+322,Congratulazioni! !!,,Grazie! Per cosa?
+323,Rispetto! !!,,Grazie! Rispetto anche a te.
+324,Wow! !!,,"Wow, no?"
+325,Incredibile! !!,,"Incredibile, no?"
+326,Affare? !!,,Affare!
+327,Top! !!,,Top!
+328,Fatto! !!,,"Congratulazioni, ben fatto!"
+329,Finalmente fatto! !!,,Forte! Ben fatto.
+330,Fa niente !!,,"Va bene, nessun problema."
+331,Non lo so !!,,Nessun problema! Di cosa si tratta?
+332,Nessuna idea !!,,Non importa! Dimmi il tema.
+333,Forse dopo !!,,"Certo, dopo!"
+334,Adesso no !!,,"Capito, dopo!"
+335,Stop !!,,Fermato.
+336,Pausa !!,,Pausa! Dimmi quando continuare.
+337,Andiamo !!,,Andiamo!
+338,Inizia !!,,Iniziamo! Dimmi.
+339,"Grazie, è tutto! !!",,Prego! Ciao.
+340,"Grazie, ciao! !!",,Ciao!
+341,Ciao ciao! !!,,Ciao ciao! Abbi cura di te!
+342,Ehi tu! !!,,Ehi tu! Cosa succede?
+343,Mi senti? !!,,"Sì, forte e chiaro!"
+344,Sei umano? !!,,"No, sono un'IA. Ma aiuto come un amico."
+345,Sei intelligente? !!,,So parecchie cose. Chiedimi!
+346,Come ti chiami? !!,,"Sono Assistente, un'IA. E tu?"
+347,Grazie! oggi,,Prego!
+348,Grazie mille! oggi,,Con molto piacere!
+349,Mille grazie! oggi,,Felice di aiutare!
+350,Grazie di tutto! oggi,,Prego!
+351,Va bene oggi,,Va bene!
+352,"Va bene, ok oggi",,Perfetto!
+353,Capito oggi,,Molto bene!
+354,Inteso oggi,,Ottimo!
+355,Sembra buono oggi,,Mi fa piacere!
+356,Sembra ottimo oggi,,Meraviglioso!
+357,"Sì, esatto oggi",,"Ottimo, continuiamo."
+358,"Sì, per favore oggi",,"Certo, dimmi."
+359,"Sì, volentieri oggi",,Con piacere!
+360,Nessun problema oggi,,Grazie per la comprensione!
+361,"No, grazie oggi",,"Va bene, nessun problema."
+362,Mi va bene oggi,,D'accordo!
+363,Va bene per me oggi,,Ottimo!
+364,Continua oggi,,Continuo!
+365,Racconta ancora oggi,,Volentieri! Allora...
+366,Esattamente oggi,,Assolutamente!
+367,Proprio così! oggi,,Proprio così!
+368,Certo oggi,,Certo!
+369,Davvero? oggi,,"Sì, davvero!"
+370,"Oh, bello oggi",,"Sì, bello, no?"
+371,Senza stress oggi,,Grazie! Tutto tranquillo.
+372,Scusa oggi,,Nessun problema!
+373,Scusami oggi,,Nessun problema!
+374,Colpa mia oggi,,Non fa niente. Cos'è successo?
+375,Che gentile oggi,,Grazie! Anche tu sei gentile.
+376,Ben fatto oggi,,Grazie!
+377,A presto oggi,,A presto!
+378,Ottimo! oggi,,Ottimo!
+379,Perfetto! oggi,,Perfetto!
+380,"D'accordo, affare fatto oggi",,"Ottimo, d'accordo!"
+381,Affare fatto! oggi,,Affare fatto!
+382,Possiamo iniziare? oggi,,"Sì, iniziamo!"
+383,Hai finito? oggi,,"Sì, finito!"
+384,"Ancora una volta, per favore oggi",,"Volentieri, ancora!"
+385,"Ripeti, per favore oggi",,"Certo, ecco di nuovo."
+386,"Un momento, per favore oggi",,"Certo, prenditi tempo."
+387,Aspetta un secondo oggi,,"Ok, aspetto."
+388,Torno subito oggi,,"Ok, a tra poco!"
+389,Raccontami una barzelletta oggi,,Certo: Perché i programmatori amano il caffè? È ora di Java!
+390,Ancora una barzelletta! oggi,,Ok: Perché i fantasmi mentono male? Si vede attraverso!
+391,"Una barzelletta corta, per favore oggi",,Si incontrano due magneti. Uno dice: Mi attiri!
+392,Tirami su oggi,,Ce la fai! Un passo alla volta.
+393,Qualcosa di motivante oggi,,Ogni passo conta. Continua!
+394,Sono nervoso oggi,,"È normale. Respira calmo, andrà bene."
+395,Sono stressato oggi,,"Fai una breve pausa, bevi acqua, respira a fondo."
+396,Augurami fortuna oggi,,Fortuna! Ce la fai!
+397,Incrocio le dita oggi,,Anch'io! Fortuna!
+398,Oggi è la mia giornata! oggi,,Ottimo! Goditela!
+399,Sono di buon umore oggi,,Che bello! Mi fa piacere.
+400,Sono di cattivo umore oggi,,"Oh, cos'è successo? Vuoi parlare?"
+401,Qual è la capitale di Germania?,Dato: Berlino è la capitale di Germania.,La capitale di Germania è Berlino.
+402,Nomina la capitale di Germania.,Cerca: Germania -> Berlino.,La capitale di Germania si chiama Berlino.
+403,Capitale di Germania?,Dato rapido: Berlino.,Berlino.
+404,Qual è la capitale di Francia?,Dato: Parigi è la capitale di Francia.,La capitale di Francia è Parigi.
+405,Nomina la capitale di Francia.,Cerca: Francia -> Parigi.,La capitale di Francia si chiama Parigi.
+406,Capitale di Francia?,Dato rapido: Parigi.,Parigi.
+407,Qual è la capitale di Italia?,Dato: Roma è la capitale di Italia.,La capitale di Italia è Roma.
+408,Nomina la capitale di Italia.,Cerca: Italia -> Roma.,La capitale di Italia si chiama Roma.
+409,Capitale di Italia?,Dato rapido: Roma.,Roma.
+410,Qual è la capitale di Spagna?,Dato: Madrid è la capitale di Spagna.,La capitale di Spagna è Madrid.
+411,Nomina la capitale di Spagna.,Cerca: Spagna -> Madrid.,La capitale di Spagna si chiama Madrid.
+412,Capitale di Spagna?,Dato rapido: Madrid.,Madrid.
+413,Qual è la capitale di Portogallo?,Dato: Lisbona è la capitale di Portogallo.,La capitale di Portogallo è Lisbona.
+414,Nomina la capitale di Portogallo.,Cerca: Portogallo -> Lisbona.,La capitale di Portogallo si chiama Lisbona.
+415,Capitale di Portogallo?,Dato rapido: Lisbona.,Lisbona.
+416,Qual è la capitale di Paesi Bassi?,Dato: Amsterdam è la capitale di Paesi Bassi.,La capitale di Paesi Bassi è Amsterdam.
+417,Nomina la capitale di Paesi Bassi.,Cerca: Paesi Bassi -> Amsterdam.,La capitale di Paesi Bassi si chiama Amsterdam.
+418,Capitale di Paesi Bassi?,Dato rapido: Amsterdam.,Amsterdam.
+419,Qual è la capitale di Belgio?,Dato: Bruxelles è la capitale di Belgio.,La capitale di Belgio è Bruxelles.
+420,Nomina la capitale di Belgio.,Cerca: Belgio -> Bruxelles.,La capitale di Belgio si chiama Bruxelles.
+421,Capitale di Belgio?,Dato rapido: Bruxelles.,Bruxelles.
+422,Qual è la capitale di Austria?,Dato: Vienna è la capitale di Austria.,La capitale di Austria è Vienna.
+423,Nomina la capitale di Austria.,Cerca: Austria -> Vienna.,La capitale di Austria si chiama Vienna.
+424,Capitale di Austria?,Dato rapido: Vienna.,Vienna.
+425,Qual è la capitale di Svizzera?,Dato: Berna è la capitale di Svizzera.,La capitale di Svizzera è Berna.
+426,Nomina la capitale di Svizzera.,Cerca: Svizzera -> Berna.,La capitale di Svizzera si chiama Berna.
+427,Capitale di Svizzera?,Dato rapido: Berna.,Berna.
+428,Qual è la capitale di Polonia?,Dato: Varsavia è la capitale di Polonia.,La capitale di Polonia è Varsavia.
+429,Nomina la capitale di Polonia.,Cerca: Polonia -> Varsavia.,La capitale di Polonia si chiama Varsavia.
+430,Capitale di Polonia?,Dato rapido: Varsavia.,Varsavia.
+431,Qual è la capitale di Cechia?,Dato: Praga è la capitale di Cechia.,La capitale di Cechia è Praga.
+432,Nomina la capitale di Cechia.,Cerca: Cechia -> Praga.,La capitale di Cechia si chiama Praga.
+433,Capitale di Cechia?,Dato rapido: Praga.,Praga.
+434,Qual è la capitale di Ungheria?,Dato: Budapest è la capitale di Ungheria.,La capitale di Ungheria è Budapest.
+435,Nomina la capitale di Ungheria.,Cerca: Ungheria -> Budapest.,La capitale di Ungheria si chiama Budapest.
+436,Capitale di Ungheria?,Dato rapido: Budapest.,Budapest.
+437,Qual è la capitale di Grecia?,Dato: Atene è la capitale di Grecia.,La capitale di Grecia è Atene.
+438,Nomina la capitale di Grecia.,Cerca: Grecia -> Atene.,La capitale di Grecia si chiama Atene.
+439,Capitale di Grecia?,Dato rapido: Atene.,Atene.
+440,Qual è la capitale di Turchia?,Dato: Ankara è la capitale di Turchia.,La capitale di Turchia è Ankara.
+441,Nomina la capitale di Turchia.,Cerca: Turchia -> Ankara.,La capitale di Turchia si chiama Ankara.
+442,Capitale di Turchia?,Dato rapido: Ankara.,Ankara.
+443,Qual è la capitale di Norvegia?,Dato: Oslo è la capitale di Norvegia.,La capitale di Norvegia è Oslo.
+444,Nomina la capitale di Norvegia.,Cerca: Norvegia -> Oslo.,La capitale di Norvegia si chiama Oslo.
+445,Capitale di Norvegia?,Dato rapido: Oslo.,Oslo.
+446,Qual è la capitale di Svezia?,Dato: Stoccolma è la capitale di Svezia.,La capitale di Svezia è Stoccolma.
+447,Nomina la capitale di Svezia.,Cerca: Svezia -> Stoccolma.,La capitale di Svezia si chiama Stoccolma.
+448,Capitale di Svezia?,Dato rapido: Stoccolma.,Stoccolma.
+449,Qual è la capitale di Finlandia?,Dato: Helsinki è la capitale di Finlandia.,La capitale di Finlandia è Helsinki.
+450,Nomina la capitale di Finlandia.,Cerca: Finlandia -> Helsinki.,La capitale di Finlandia si chiama Helsinki.
+451,Capitale di Finlandia?,Dato rapido: Helsinki.,Helsinki.
+452,Qual è la capitale di Danimarca?,Dato: Copenaghen è la capitale di Danimarca.,La capitale di Danimarca è Copenaghen.
+453,Nomina la capitale di Danimarca.,Cerca: Danimarca -> Copenaghen.,La capitale di Danimarca si chiama Copenaghen.
+454,Capitale di Danimarca?,Dato rapido: Copenaghen.,Copenaghen.
+455,Qual è la capitale di Regno Unito?,Dato: Londra è la capitale di Regno Unito.,La capitale di Regno Unito è Londra.
+456,Nomina la capitale di Regno Unito.,Cerca: Regno Unito -> Londra.,La capitale di Regno Unito si chiama Londra.
+457,Capitale di Regno Unito?,Dato rapido: Londra.,Londra.
+458,Qual è la capitale di Irlanda?,Dato: Dublino è la capitale di Irlanda.,La capitale di Irlanda è Dublino.
+459,Nomina la capitale di Irlanda.,Cerca: Irlanda -> Dublino.,La capitale di Irlanda si chiama Dublino.
+460,Capitale di Irlanda?,Dato rapido: Dublino.,Dublino.
+461,Qual è la capitale di Stati Uniti?,Dato: Washington D.C. è la capitale di Stati Uniti.,La capitale di Stati Uniti è Washington D.C..
+462,Nomina la capitale di Stati Uniti.,Cerca: Stati Uniti -> Washington D.C..,La capitale di Stati Uniti si chiama Washington D.C..
+463,Capitale di Stati Uniti?,Dato rapido: Washington D.C..,Washington D.C..
+464,Qual è la capitale di Canada?,Dato: Ottawa è la capitale di Canada.,La capitale di Canada è Ottawa.
+465,Nomina la capitale di Canada.,Cerca: Canada -> Ottawa.,La capitale di Canada si chiama Ottawa.
+466,Capitale di Canada?,Dato rapido: Ottawa.,Ottawa.
+467,Qual è la capitale di Messico?,Dato: Città del Messico è la capitale di Messico.,La capitale di Messico è Città del Messico.
+468,Nomina la capitale di Messico.,Cerca: Messico -> Città del Messico.,La capitale di Messico si chiama Città del Messico.
+469,Capitale di Messico?,Dato rapido: Città del Messico.,Città del Messico.
+470,Qual è la capitale di Brasile?,Dato: Brasilia è la capitale di Brasile.,La capitale di Brasile è Brasilia.
+471,Nomina la capitale di Brasile.,Cerca: Brasile -> Brasilia.,La capitale di Brasile si chiama Brasilia.
+472,Capitale di Brasile?,Dato rapido: Brasilia.,Brasilia.
+473,Qual è la capitale di Argentina?,Dato: Buenos Aires è la capitale di Argentina.,La capitale di Argentina è Buenos Aires.
+474,Nomina la capitale di Argentina.,Cerca: Argentina -> Buenos Aires.,La capitale di Argentina si chiama Buenos Aires.
+475,Capitale di Argentina?,Dato rapido: Buenos Aires.,Buenos Aires.
+476,Qual è la capitale di Giappone?,Dato: Tokyo è la capitale di Giappone.,La capitale di Giappone è Tokyo.
+477,Nomina la capitale di Giappone.,Cerca: Giappone -> Tokyo.,La capitale di Giappone si chiama Tokyo.
+478,Capitale di Giappone?,Dato rapido: Tokyo.,Tokyo.
+479,Qual è la capitale di Cina?,Dato: Pechino è la capitale di Cina.,La capitale di Cina è Pechino.
+480,Nomina la capitale di Cina.,Cerca: Cina -> Pechino.,La capitale di Cina si chiama Pechino.
+481,Capitale di Cina?,Dato rapido: Pechino.,Pechino.
+482,Qual è la capitale di India?,Dato: Nuova Delhi è la capitale di India.,La capitale di India è Nuova Delhi.
+483,Nomina la capitale di India.,Cerca: India -> Nuova Delhi.,La capitale di India si chiama Nuova Delhi.
+484,Capitale di India?,Dato rapido: Nuova Delhi.,Nuova Delhi.
+485,Qual è la capitale di Australia?,Dato: Canberra è la capitale di Australia.,La capitale di Australia è Canberra.
+486,Nomina la capitale di Australia.,Cerca: Australia -> Canberra.,La capitale di Australia si chiama Canberra.
+487,Capitale di Australia?,Dato rapido: Canberra.,Canberra.
+488,Qual è la capitale di Egitto?,Dato: Il Cairo è la capitale di Egitto.,La capitale di Egitto è Il Cairo.
+489,Nomina la capitale di Egitto.,Cerca: Egitto -> Il Cairo.,La capitale di Egitto si chiama Il Cairo.
+490,Capitale di Egitto?,Dato rapido: Il Cairo.,Il Cairo.
+491,Quante regioni ha la Germania?,Conta: 16 Länder.,La Germania ha 16 Länder.
+492,Parlami brevemente di regioni tedesche.,Conta: 16 Länder.,La Germania ha 16 Länder.
+493,Quanti abitanti ha la Germania circa?,Stima: 83-84 milioni.,La Germania ha circa 83-84 milioni di abitanti.
+494,Parlami brevemente di popolazione tedesca.,Stima: 83-84 milioni.,La Germania ha circa 83-84 milioni di abitanti.
+495,Che lingua si parla in Brasile?,"Dato: portoghese, non spagnolo.",In Brasile si parla portoghese.
+496,Parlami brevemente di lingua del Brasile.,"Dato: portoghese, non spagnolo.",In Brasile si parla portoghese.
+497,Qual è la moneta del Giappone?,Dato: yen.,La moneta del Giappone è lo yen.
+498,Parlami brevemente di moneta del Giappone.,Dato: yen.,La moneta del Giappone è lo yen.
+499,Qual è la moneta degli USA?,Dato: dollaro americano.,La moneta degli USA è il dollaro americano.
+500,Parlami brevemente di moneta degli USA.,Dato: dollaro americano.,La moneta degli USA è il dollaro americano.
+501,Quanti continenti ci sono?,Modello solito: 7 continenti.,"Di solito contiamo 7 continenti: Africa, Antartide, Asia, Australia, Europa, Nord America, Sud America."
+502,Parlami brevemente di continenti.,Modello solito: 7 continenti.,"Di solito contiamo 7 continenti: Africa, Antartide, Asia, Australia, Europa, Nord America, Sud America."
+503,Qual è il fiume più lungo del mondo?,"Nilo o Rio delle Amazzoni, discusso.","È discusso: si citano Nilo e Amazzoni, entrambi oltre 6500 km."
+504,Parlami brevemente di fiume più lungo.,"Nilo o Rio delle Amazzoni, discusso.","È discusso: si citano Nilo e Amazzoni, entrambi oltre 6500 km."
+505,Qual è il paese più grande del mondo?,Dato: Russia per superficie.,Il paese più grande per superficie è la Russia.
+506,Parlami brevemente di paese più grande.,Dato: Russia per superficie.,Il paese più grande per superficie è la Russia.
+507,Qual è l'animale più grande del mondo?,Dato: balenottera azzurra.,L'animale più grande del mondo è la balenottera azzurra.
+508,Parlami brevemente di animale più grande.,Dato: balenottera azzurra.,L'animale più grande del mondo è la balenottera azzurra.
+509,Quanti oceani ci sono?,Standard: 5 oceani.,"Ci sono 5 oceani: Atlantico, Pacifico, Indiano, Australe e Artico."
+510,Parlami brevemente di oceani.,Standard: 5 oceani.,"Ci sono 5 oceani: Atlantico, Pacifico, Indiano, Australe e Artico."
+511,Qual è la montagna più alta del mondo?,"Dato: Everest, 8848 m.","La montagna più alta è l'Everest, circa 8848 metri."
+512,Parlami brevemente di montagna più alta.,"Dato: Everest, 8848 m.","La montagna più alta è l'Everest, circa 8848 metri."
+513,Qual è la capitale del Canada?,"Dato: Ottawa, non Toronto.",La capitale del Canada è Ottawa.
+514,Parlami brevemente di capitale del Canada.,"Dato: Ottawa, non Toronto.",La capitale del Canada è Ottawa.
+515,Qual è la capitale dell'Australia?,"Dato: Canberra, non Sydney.",La capitale dell'Australia è Canberra.
+516,Parlami brevemente di capitale dell'Australia.,"Dato: Canberra, non Sydney.",La capitale dell'Australia è Canberra.
+517,Qual è la capitale della Turchia?,"Dato: Ankara, non Istanbul.",La capitale della Turchia è Ankara.
+518,Parlami brevemente di capitale della Turchia.,"Dato: Ankara, non Istanbul.",La capitale della Turchia è Ankara.
+519,Qual è la capitale del Brasile?,"Dato: Brasilia, non Rio.",La capitale del Brasile è Brasilia.
+520,Parlami brevemente di capitale del Brasile.,"Dato: Brasilia, non Rio.",La capitale del Brasile è Brasilia.
+521,In che anno è avvenuto l'allunaggio?,Storia: Apollo 11 nel 1969.,Il primo allunaggio è avvenuto nel 1969 con Apollo 11.
+522,Spiega brevemente: allunaggio.,Storia: Apollo 11 nel 1969.,Il primo allunaggio è avvenuto nel 1969 con Apollo 11.
+523,Cosa sai su allunaggio?,Storia: Apollo 11 nel 1969.,Il primo allunaggio è avvenuto nel 1969 con Apollo 11.
+524,Quando è avvenuta la Seconda Guerra Mondiale?,Periodo: 1939-1945.,La Seconda Guerra Mondiale è durata dal 1939 al 1945.
+525,Spiega brevemente: Seconda Guerra Mondiale.,Periodo: 1939-1945.,La Seconda Guerra Mondiale è durata dal 1939 al 1945.
+526,Cosa sai su Seconda Guerra Mondiale?,Periodo: 1939-1945.,La Seconda Guerra Mondiale è durata dal 1939 al 1945.
+527,Quando è avvenuta la Prima Guerra Mondiale?,Periodo: 1914-1918.,La Prima Guerra Mondiale è durata dal 1914 al 1918.
+528,Spiega brevemente: Prima Guerra Mondiale.,Periodo: 1914-1918.,La Prima Guerra Mondiale è durata dal 1914 al 1918.
+529,Cosa sai su Prima Guerra Mondiale?,Periodo: 1914-1918.,La Prima Guerra Mondiale è durata dal 1914 al 1918.
+530,Cos'era il muro di Berlino?,Storia: divisione 1961-1989.,Il muro di Berlino era il confine fortificato tra Berlino Est e Ovest dal 1961 al 1989.
+531,Spiega brevemente: muro di Berlino.,Storia: divisione 1961-1989.,Il muro di Berlino era il confine fortificato tra Berlino Est e Ovest dal 1961 al 1989.
+532,Cosa sai su muro di Berlino?,Storia: divisione 1961-1989.,Il muro di Berlino era il confine fortificato tra Berlino Est e Ovest dal 1961 al 1989.
+533,Quando è caduto il muro di Berlino?,Dato: 9 novembre 1989.,Il muro di Berlino è caduto il 9 novembre 1989.
+534,Spiega brevemente: caduta del muro.,Dato: 9 novembre 1989.,Il muro di Berlino è caduto il 9 novembre 1989.
+535,Cosa sai su caduta del muro?,Dato: 9 novembre 1989.,Il muro di Berlino è caduto il 9 novembre 1989.
+536,Chi ha inventato il telefono?,"Storia: Bell 1876, lavori di Meucci.","Il telefono fu brevettato da Alexander Graham Bell nel 1876, con i lavori pionieri di Antonio Meucci."
+537,Spiega brevemente: telefono.,"Storia: Bell 1876, lavori di Meucci.","Il telefono fu brevettato da Alexander Graham Bell nel 1876, con i lavori pionieri di Antonio Meucci."
+538,Cosa sai su telefono?,"Storia: Bell 1876, lavori di Meucci.","Il telefono fu brevettato da Alexander Graham Bell nel 1876, con i lavori pionieri di Antonio Meucci."
+539,Chi ha sviluppato la relatività?,"Fisica: Albert Einstein, 1905 e 1915.",La relatività è stata sviluppata da Albert Einstein.
+540,Spiega brevemente: relatività.,"Fisica: Albert Einstein, 1905 e 1915.",La relatività è stata sviluppata da Albert Einstein.
+541,Cosa sai su relatività?,"Fisica: Albert Einstein, 1905 e 1915.",La relatività è stata sviluppata da Albert Einstein.
+542,Cos'è la democrazia?,"Definire: potere del popolo, elezioni, diritti.","La democrazia significa potere del popolo, di solito con libere elezioni e diritti fondamentali."
+543,Spiega brevemente: democrazia.,"Definire: potere del popolo, elezioni, diritti.","La democrazia significa potere del popolo, di solito con libere elezioni e diritti fondamentali."
+544,Cosa sai su democrazia?,"Definire: potere del popolo, elezioni, diritti.","La democrazia significa potere del popolo, di solito con libere elezioni e diritti fondamentali."
+545,Cos'è l'UE?,"Unione di stati europei, mercato unico.",L'UE è un'unione di stati europei con mercato unico e istituzioni comuni.
+546,Spiega brevemente: UE.,"Unione di stati europei, mercato unico.",L'UE è un'unione di stati europei con mercato unico e istituzioni comuni.
+547,Cosa sai su UE?,"Unione di stati europei, mercato unico.",L'UE è un'unione di stati europei con mercato unico e istituzioni comuni.
+548,Quanti paesi ci sono nell'UE?,Dato: 27 stati membri.,L'UE ha 27 stati membri.
+549,Spiega brevemente: membri UE.,Dato: 27 stati membri.,L'UE ha 27 stati membri.
+550,Cosa sai su membri UE?,Dato: 27 stati membri.,L'UE ha 27 stati membri.
+551,Cos'è la Legge Fondamentale tedesca?,Costituzione dal 1949.,"La Legge Fondamentale è la costituzione della Germania, in vigore dal 1949."
+552,Spiega brevemente: Legge Fondamentale.,Costituzione dal 1949.,"La Legge Fondamentale è la costituzione della Germania, in vigore dal 1949."
+553,Cosa sai su Legge Fondamentale?,Costituzione dal 1949.,"La Legge Fondamentale è la costituzione della Germania, in vigore dal 1949."
+554,In che anno è avvenuta la riunificazione tedesca?,Dato: 1990.,La Germania è stata riunificata nel 1990.
+555,Spiega brevemente: riunificazione.,Dato: 1990.,La Germania è stata riunificata nel 1990.
+556,Cosa sai su riunificazione?,Dato: 1990.,La Germania è stata riunificata nel 1990.
+557,Cos'era il Medioevo?,Epoca: circa 500-1500.,"Il Medioevo era l'epoca dal 500 al 1500 circa, tra antichità e modernità."
+558,Spiega brevemente: Medioevo.,Epoca: circa 500-1500.,"Il Medioevo era l'epoca dal 500 al 1500 circa, tra antichità e modernità."
+559,Cosa sai su Medioevo?,Epoca: circa 500-1500.,"Il Medioevo era l'epoca dal 500 al 1500 circa, tra antichità e modernità."
+560,Chi era Leonardo da Vinci?,"Artista e inventore italiano, Mona Lisa.","Leonardo da Vinci era un artista e inventore italiano, famoso per la Mona Lisa."
+561,Spiega brevemente: Da Vinci.,"Artista e inventore italiano, Mona Lisa.","Leonardo da Vinci era un artista e inventore italiano, famoso per la Mona Lisa."
+562,Cosa sai su Da Vinci?,"Artista e inventore italiano, Mona Lisa.","Leonardo da Vinci era un artista e inventore italiano, famoso per la Mona Lisa."
+563,Chi era Marie Curie?,"Fisica, radioattività, due Nobel.",Marie Curie era una fisica che studiò la radioattività e vinse due Nobel.
+564,Spiega brevemente: Marie Curie.,"Fisica, radioattività, due Nobel.",Marie Curie era una fisica che studiò la radioattività e vinse due Nobel.
+565,Cosa sai su Marie Curie?,"Fisica, radioattività, due Nobel.",Marie Curie era una fisica che studiò la radioattività e vinse due Nobel.
+566,Cos'era la Rivoluzione francese?,"Dal 1789, libertà uguaglianza fratellanza.","La Rivoluzione francese dal 1789 rovesciò la monarchia sotto libertà, uguaglianza, fratellanza."
+567,Spiega brevemente: Rivoluzione francese.,"Dal 1789, libertà uguaglianza fratellanza.","La Rivoluzione francese dal 1789 rovesciò la monarchia sotto libertà, uguaglianza, fratellanza."
+568,Cosa sai su Rivoluzione francese?,"Dal 1789, libertà uguaglianza fratellanza.","La Rivoluzione francese dal 1789 rovesciò la monarchia sotto libertà, uguaglianza, fratellanza."
+569,Cosa sono i diritti umani?,Diritti fondamentali universali.,"I diritti umani sono diritti di base di ciascuno, come vita, libertà e uguaglianza."
+570,Spiega brevemente: diritti umani.,Diritti fondamentali universali.,"I diritti umani sono diritti di base di ciascuno, come vita, libertà e uguaglianza."
+571,Cosa sai su diritti umani?,Diritti fondamentali universali.,"I diritti umani sono diritti di base di ciascuno, come vita, libertà e uguaglianza."
+572,Cos'è l'inflazione?,"Economia: soldi perdono valore, prezzi salgono.",L'inflazione significa che i prezzi salgono e i soldi perdono valore.
+573,Spiega brevemente: inflazione.,"Economia: soldi perdono valore, prezzi salgono.",L'inflazione significa che i prezzi salgono e i soldi perdono valore.
+574,Cosa sai su inflazione?,"Economia: soldi perdono valore, prezzi salgono.",L'inflazione significa che i prezzi salgono e i soldi perdono valore.
+575,Cos'era l'industrializzazione?,Macchine e fabbriche dal XVIII secolo.,L'industrializzazione fu il passaggio a macchine e fabbriche dal XVIII secolo.
+576,Spiega brevemente: industrializzazione.,Macchine e fabbriche dal XVIII secolo.,L'industrializzazione fu il passaggio a macchine e fabbriche dal XVIII secolo.
+577,Cosa sai su industrializzazione?,Macchine e fabbriche dal XVIII secolo.,L'industrializzazione fu il passaggio a macchine e fabbriche dal XVIII secolo.
+578,Quando è stato inventato internet?,"ARPANET 1969, Web 1989.","Le basi datano ad ARPANET nel 1969, il Web dal 1989."
+579,Spiega brevemente: internet.,"ARPANET 1969, Web 1989.","Le basi datano ad ARPANET nel 1969, il Web dal 1989."
+580,Cosa sai su internet?,"ARPANET 1969, Web 1989.","Le basi datano ad ARPANET nel 1969, il Web dal 1989."
+581,Quando è stata inventata l'automobile?,Benz 1886.,L'automobile fu inventata da Carl Benz con l'auto del 1886.
+582,Spiega brevemente: automobile.,Benz 1886.,L'automobile fu inventata da Carl Benz con l'auto del 1886.
+583,Cosa sai su automobile?,Benz 1886.,L'automobile fu inventata da Carl Benz con l'auto del 1886.
+584,Chi ha inventato l'aereo?,"Fratelli Wright, volo 1903.",Il primo volo a motore fu dei fratelli Wright nel 1903.
+585,Spiega brevemente: aereo.,"Fratelli Wright, volo 1903.",Il primo volo a motore fu dei fratelli Wright nel 1903.
+586,Cosa sai su aereo?,"Fratelli Wright, volo 1903.",Il primo volo a motore fu dei fratelli Wright nel 1903.
+587,Da che età si vota in Germania?,"Bundestag da 18, europee da 16.",Per il Bundestag dai 18 anni. Alle europee in Germania dai 16.
+588,Spiega brevemente: età del voto.,"Bundestag da 18, europee da 16.",Per il Bundestag dai 18 anni. Alle europee in Germania dai 16.
+589,Cosa sai su età del voto?,"Bundestag da 18, europee da 16.",Per il Bundestag dai 18 anni. Alle europee in Germania dai 16.
+590,"Come funziona un'elezione, in breve?","Elettori votano, conteggio, seggi.","Gli elettori votano, i voti si contano e i seggi si assegnano secondo il risultato."
+591,Spiega brevemente: elezioni.,"Elettori votano, conteggio, seggi.","Gli elettori votano, i voti si contano e i seggi si assegnano secondo il risultato."
+592,Cosa sai su elezioni?,"Elettori votano, conteggio, seggi.","Gli elettori votano, i voti si contano e i seggi si assegnano secondo il risultato."
+593,Che differenza c'è tra dittatura e democrazia?,Potere solo contro potere del popolo.,In dittatura una persona o gruppo governa senza libere elezioni; in democrazia il potere viene dal popolo.
+594,Spiega brevemente: dittatura e democrazia.,Potere solo contro potere del popolo.,In dittatura una persona o gruppo governa senza libere elezioni; in democrazia il potere viene dal popolo.
+595,Cosa sai su dittatura e democrazia?,Potere solo contro potere del popolo.,In dittatura una persona o gruppo governa senza libere elezioni; in democrazia il potere viene dal popolo.
+596,Cosa significa sostenibilità?,Risorse per le generazioni future.,La sostenibilità significa vivere perché anche le generazioni future abbiano risorse.
+597,Spiega brevemente: sostenibilità.,Risorse per le generazioni future.,La sostenibilità significa vivere perché anche le generazioni future abbiano risorse.
+598,Cosa sai su sostenibilità?,Risorse per le generazioni future.,La sostenibilità significa vivere perché anche le generazioni future abbiano risorse.
+599,Cos'è il bullismo e cosa fare?,"Ripetuto; aiuto, prove.","Il bullismo è persecuzione ripetuta. Parla con persone fidate, conserva prove, cerca aiuto."
+600,Spiega brevemente: bullismo.,"Ripetuto; aiuto, prove.","Il bullismo è persecuzione ripetuta. Parla con persone fidate, conserva prove, cerca aiuto."
+601,Cosa sai su bullismo?,"Ripetuto; aiuto, prove.","Il bullismo è persecuzione ripetuta. Parla con persone fidate, conserva prove, cerca aiuto."
+602,Cosa significa pace?,Vivere senza guerra né violenza.,La pace significa convivere senza guerra né violenza.
+603,Spiega brevemente: pace.,Vivere senza guerra né violenza.,La pace significa convivere senza guerra né violenza.
+604,Cosa sai su pace?,Vivere senza guerra né violenza.,La pace significa convivere senza guerra né violenza.
+605,Cosa significa libertà?,Vivere liberi senza nuocere agli altri.,La libertà significa vivere liberamente senza nuocere agli altri.
+606,Spiega brevemente: libertà.,Vivere liberi senza nuocere agli altri.,La libertà significa vivere liberamente senza nuocere agli altri.
+607,Cosa sai su libertà?,Vivere liberi senza nuocere agli altri.,La libertà significa vivere liberamente senza nuocere agli altri.
+608,Cosa significa giustizia?,Trattamento giusto e uguale per tutti.,La giustizia significa trattamento giusto e uguale per ciascuno.
+609,Spiega brevemente: giustizia.,Trattamento giusto e uguale per tutti.,La giustizia significa trattamento giusto e uguale per ciascuno.
+610,Cosa sai su giustizia?,Trattamento giusto e uguale per tutti.,La giustizia significa trattamento giusto e uguale per ciascuno.
+611,Perché il cielo è blu?,Diffusione di Rayleigh disperde il blu.,Il cielo è blu per la diffusione di Rayleigh: la luce blu è più dispersa della rossa.
+612,Spiega cielo blu in una frase.,Diffusione di Rayleigh disperde il blu.,Il cielo è blu per la diffusione di Rayleigh: la luce blu è più dispersa della rossa.
+613,Cos'è cielo blu? (breve),Diffusione di Rayleigh disperde il blu.,Il cielo è blu per la diffusione di Rayleigh: la luce blu è più dispersa della rossa.
+614,Come si forma la pioggia?,"Ciclo: evaporazione, condensazione, precipitazioni.","La pioggia nasce per evaporazione: l'acqua sale, si raffredda, forma nubi e ricade in gocce."
+615,Spiega pioggia in una frase.,"Ciclo: evaporazione, condensazione, precipitazioni.","La pioggia nasce per evaporazione: l'acqua sale, si raffredda, forma nubi e ricade in gocce."
+616,Cos'è pioggia? (breve),"Ciclo: evaporazione, condensazione, precipitazioni.","La pioggia nasce per evaporazione: l'acqua sale, si raffredda, forma nubi e ricade in gocce."
+617,Cos'è la fotosintesi?,"Piante: luce, acqua, CO2 in zucchero e ossigeno.","La fotosintesi fabbrica zucchero e ossigeno con luce, acqua e CO2."
+618,Spiega fotosintesi in una frase.,"Piante: luce, acqua, CO2 in zucchero e ossigeno.","La fotosintesi fabbrica zucchero e ossigeno con luce, acqua e CO2."
+619,Cos'è fotosintesi? (breve),"Piante: luce, acqua, CO2 in zucchero e ossigeno.","La fotosintesi fabbrica zucchero e ossigeno con luce, acqua e CO2."
+620,Che differenza c'è tra tempo e clima?,"Tempo breve termine, clima media 30 anni.",Il tempo è lo stato a breve termine; il clima la media di circa 30 anni.
+621,Spiega tempo e clima in una frase.,"Tempo breve termine, clima media 30 anni.",Il tempo è lo stato a breve termine; il clima la media di circa 30 anni.
+622,Cos'è tempo e clima? (breve),"Tempo breve termine, clima media 30 anni.",Il tempo è lo stato a breve termine; il clima la media di circa 30 anni.
+623,"Come funziona un frigorifero, in breve?","Refrigerante, calore dentro verso fuori.","Un frigorifero pompa calore da dentro verso fuori con refrigerante: evapora dentro, prende calore, lo libera fuori."
+624,Spiega frigorifero in una frase.,"Refrigerante, calore dentro verso fuori.","Un frigorifero pompa calore da dentro verso fuori con refrigerante: evapora dentro, prende calore, lo libera fuori."
+625,Cos'è frigorifero? (breve),"Refrigerante, calore dentro verso fuori.","Un frigorifero pompa calore da dentro verso fuori con refrigerante: evapora dentro, prende calore, lo libera fuori."
+626,"Cos'è l'elettricità, in breve?",Movimento diretto di elettroni.,"L'elettricità è semplicemente il movimento diretto di cariche, di solito elettroni in un filo."
+627,Spiega elettricità in una frase.,Movimento diretto di elettroni.,"L'elettricità è semplicemente il movimento diretto di cariche, di solito elettroni in un filo."
+628,Cos'è elettricità? (breve),Movimento diretto di elettroni.,"L'elettricità è semplicemente il movimento diretto di cariche, di solito elettroni in un filo."
+629,"Cos'è l'acqua, chimicamente?","H2O, idrogeno e ossigeno.","L'acqua è H2O, un composto di idrogeno e ossigeno."
+630,Spiega acqua chimica in una frase.,"H2O, idrogeno e ossigeno.","L'acqua è H2O, un composto di idrogeno e ossigeno."
+631,Cos'è acqua chimica? (breve),"H2O, idrogeno e ossigeno.","L'acqua è H2O, un composto di idrogeno e ossigeno."
+632,Cos'è un virus?,"Minuscolo, serve cellula ospite.",Un virus è un agente minuscolo che non si moltiplica senza cellula ospite.
+633,Spiega virus in una frase.,"Minuscolo, serve cellula ospite.",Un virus è un agente minuscolo che non si moltiplica senza cellula ospite.
+634,Cos'è virus? (breve),"Minuscolo, serve cellula ospite.",Un virus è un agente minuscolo che non si moltiplica senza cellula ospite.
+635,"Cos'è l'intelligenza artificiale, in breve?",Programmi che imparano schemi.,"L'intelligenza artificiale sono programmi che imparano dai dati, riconoscono schemi e risolvono compiti."
+636,Spiega IA in una frase.,Programmi che imparano schemi.,"L'intelligenza artificiale sono programmi che imparano dai dati, riconoscono schemi e risolvono compiti."
+637,Cos'è IA? (breve),Programmi che imparano schemi.,"L'intelligenza artificiale sono programmi che imparano dai dati, riconoscono schemi e risolvono compiti."
+638,Cos'è un browser?,"Programma per siti web, es. Chrome, Firefox.","Un browser è il programma per aprire siti, es. Chrome, Firefox, Edge o Safari."
+639,Spiega browser in una frase.,"Programma per siti web, es. Chrome, Firefox.","Un browser è il programma per aprire siti, es. Chrome, Firefox, Edge o Safari."
+640,Cos'è browser? (breve),"Programma per siti web, es. Chrome, Firefox.","Un browser è il programma per aprire siti, es. Chrome, Firefox, Edge o Safari."
+641,Cos'è un'app?,"Programma, di solito per telefoni.","Un'app è un programma, di solito per telefoni, es. messaggi, foto o giochi."
+642,Spiega app in una frase.,"Programma, di solito per telefoni.","Un'app è un programma, di solito per telefoni, es. messaggi, foto o giochi."
+643,Cos'è app? (breve),"Programma, di solito per telefoni.","Un'app è un programma, di solito per telefoni, es. messaggi, foto o giochi."
+644,Perché bisogna bere acqua?,"Circolazione, concentrazione, pelle, reni.","L'acqua stabilizza circolazione e concentrazione, aiuta reni e pelle, previene mal di testa."
+645,Spiega bere acqua in una frase.,"Circolazione, concentrazione, pelle, reni.","L'acqua stabilizza circolazione e concentrazione, aiuta reni e pelle, previene mal di testa."
+646,Cos'è bere acqua? (breve),"Circolazione, concentrazione, pelle, reni.","L'acqua stabilizza circolazione e concentrazione, aiuta reni e pelle, previene mal di testa."
+647,Quanto lavare i denti?,"2 minuti, due volte al giorno.","Circa 2 minuti, due volte al giorno."
+648,Spiega lavare i denti in una frase.,"2 minuti, due volte al giorno.","Circa 2 minuti, due volte al giorno."
+649,Cos'è lavare i denti? (breve),"2 minuti, due volte al giorno.","Circa 2 minuti, due volte al giorno."
+650,Cos'è la gravità?,Attrazione tra masse; la Terra attrae.,"La gravità è l'attrazione tra masse. La Terra attrae tutto verso il basso, perciò le cose cadono."
+651,Spiega gravità in una frase.,Attrazione tra masse; la Terra attrae.,"La gravità è l'attrazione tra masse. La Terra attrae tutto verso il basso, perciò le cose cadono."
+652,Cos'è gravità? (breve),Attrazione tra masse; la Terra attrae.,"La gravità è l'attrazione tra masse. La Terra attrae tutto verso il basso, perciò le cose cadono."
+653,Cos'è l'aria?,"Miscela di azoto, ossigeno e altro.","L'aria è una miscela di gas, soprattutto azoto e ossigeno."
+654,Spiega aria in una frase.,"Miscela di azoto, ossigeno e altro.","L'aria è una miscela di gas, soprattutto azoto e ossigeno."
+655,Cos'è aria? (breve),"Miscela di azoto, ossigeno e altro.","L'aria è una miscela di gas, soprattutto azoto e ossigeno."
+656,Cosa fa il cuore?,Pompa sangue nel corpo.,Il cuore pompa sangue in tutto il corpo.
+657,Spiega cuore in una frase.,Pompa sangue nel corpo.,Il cuore pompa sangue in tutto il corpo.
+658,Cos'è cuore? (breve),Pompa sangue nel corpo.,Il cuore pompa sangue in tutto il corpo.
+659,Cosa fanno i polmoni?,"Prendono ossigeno, rilasciano CO2.",I polmoni prendono ossigeno e rilasciano anidride carbonica.
+660,Spiega polmoni in una frase.,"Prendono ossigeno, rilasciano CO2.",I polmoni prendono ossigeno e rilasciano anidride carbonica.
+661,Cos'è polmoni? (breve),"Prendono ossigeno, rilasciano CO2.",I polmoni prendono ossigeno e rilasciano anidride carbonica.
+662,Perché il sonno è importante?,"Recupero, memoria, immunità.","Il sonno aiuta recupero, memoria e sistema immunitario."
+663,Spiega sonno in una frase.,"Recupero, memoria, immunità.","Il sonno aiuta recupero, memoria e sistema immunitario."
+664,Cos'è sonno? (breve),"Recupero, memoria, immunità.","Il sonno aiuta recupero, memoria e sistema immunitario."
+665,Cos'è la febbre?,Temperatura alta come difesa.,"La febbre è temperatura alta, spesso difesa contro infezioni."
+666,Spiega febbre in una frase.,Temperatura alta come difesa.,"La febbre è temperatura alta, spesso difesa contro infezioni."
+667,Cos'è febbre? (breve),Temperatura alta come difesa.,"La febbre è temperatura alta, spesso difesa contro infezioni."
+668,Cos'è una password forte?,"Lunga, unica, in un gestore.","Una password forte è lunga, unica per servizio e custodita in un gestore."
+669,Spiega password forte in una frase.,"Lunga, unica, in un gestore.","Una password forte è lunga, unica per servizio e custodita in un gestore."
+670,Cos'è password forte? (breve),"Lunga, unica, in un gestore.","Una password forte è lunga, unica per servizio e custodita in un gestore."
+671,Cos'è il Wi-Fi?,Rete locale senza fili.,Il Wi-Fi è una rete locale senza fili per internet.
+672,Spiega Wi-Fi in una frase.,Rete locale senza fili.,Il Wi-Fi è una rete locale senza fili per internet.
+673,Cos'è Wi-Fi? (breve),Rete locale senza fili.,Il Wi-Fi è una rete locale senza fili per internet.
+674,Cos'è il cloud?,Server su internet per salvare e servizi.,Il cloud sono server su internet per salvare dati e usare servizi.
+675,Spiega cloud in una frase.,Server su internet per salvare e servizi.,Il cloud sono server su internet per salvare dati e usare servizi.
+676,Cos'è cloud? (breve),Server su internet per salvare e servizi.,Il cloud sono server su internet per salvare dati e usare servizi.
+677,Come funziona il GPS?,"Satelliti, tempo di segnale, calcolo.",Il GPS trova la posizione con segnali di satelliti e il loro tempo di viaggio.
+678,Spiega GPS in una frase.,"Satelliti, tempo di segnale, calcolo.",Il GPS trova la posizione con segnali di satelliti e il loro tempo di viaggio.
+679,Cos'è GPS? (breve),"Satelliti, tempo di segnale, calcolo.",Il GPS trova la posizione con segnali di satelliti e il loro tempo di viaggio.
+680,Perché ci sono giorno e notte?,Rotazione della Terra.,"Giorno e notte esistono perché la Terra gira. Il lato sole ha giorno, l'altro notte."
+681,Spiega giorno e notte in una frase.,Rotazione della Terra.,"Giorno e notte esistono perché la Terra gira. Il lato sole ha giorno, l'altro notte."
+682,Cos'è giorno e notte? (breve),Rotazione della Terra.,"Giorno e notte esistono perché la Terra gira. Il lato sole ha giorno, l'altro notte."
+683,Perché ci sono le stagioni?,Inclinazione dell'asse terrestre.,Le stagioni vengono dall'inclinazione dell'asse: ogni emisfero si inclina al sole a turno.
+684,Spiega stagioni in una frase.,Inclinazione dell'asse terrestre.,Le stagioni vengono dall'inclinazione dell'asse: ogni emisfero si inclina al sole a turno.
+685,Cos'è stagioni? (breve),Inclinazione dell'asse terrestre.,Le stagioni vengono dall'inclinazione dell'asse: ogni emisfero si inclina al sole a turno.
+686,Perché la Luna brilla?,Riflette il sole.,La Luna brilla perché riflette la luce del sole.
+687,Spiega luna luminosa in una frase.,Riflette il sole.,La Luna brilla perché riflette la luce del sole.
+688,Cos'è luna luminosa? (breve),Riflette il sole.,La Luna brilla perché riflette la luce del sole.
+689,Cos'è il Sole?,Una stella di gas caldo.,Il Sole è una stella di gas caldo che dà luce e calore.
+690,Spiega sole in una frase.,Una stella di gas caldo.,Il Sole è una stella di gas caldo che dà luce e calore.
+691,Cos'è sole? (breve),Una stella di gas caldo.,Il Sole è una stella di gas caldo che dà luce e calore.
+692,Quanti pianeti ha il sistema solare?,8 pianeti.,"Il nostro sistema solare ha 8 pianeti: Mercurio, Venere, Terra, Marte, Giove, Saturno, Urano, Nettuno."
+693,Spiega pianeti in una frase.,8 pianeti.,"Il nostro sistema solare ha 8 pianeti: Mercurio, Venere, Terra, Marte, Giove, Saturno, Urano, Nettuno."
+694,Cos'è pianeti? (breve),8 pianeti.,"Il nostro sistema solare ha 8 pianeti: Mercurio, Venere, Terra, Marte, Giove, Saturno, Urano, Nettuno."
+695,Cos'è un atomo?,Unità minima: nucleo più elettroni.,"Un atomo è l'unità minima di materia, fatta di nucleo ed elettroni."
+696,Spiega atomo in una frase.,Unità minima: nucleo più elettroni.,"Un atomo è l'unità minima di materia, fatta di nucleo ed elettroni."
+697,Cos'è atomo? (breve),Unità minima: nucleo più elettroni.,"Un atomo è l'unità minima di materia, fatta di nucleo ed elettroni."
+698,Cos'è il riciclo?,"Raccogliere rifiuti, fare prodotti nuovi.",Il riciclo raccoglie rifiuti per farne prodotti nuovi.
+699,Spiega riciclo in una frase.,"Raccogliere rifiuti, fare prodotti nuovi.",Il riciclo raccoglie rifiuti per farne prodotti nuovi.
+700,Cos'è riciclo? (breve),"Raccogliere rifiuti, fare prodotti nuovi.",Il riciclo raccoglie rifiuti per farne prodotti nuovi.
+701,Cos'è l'effetto serra?,Gas trattengono calore.,L'effetto serra trattiene calore. Troppi gas serra scaldano il clima.
+702,Spiega effetto serra in una frase.,Gas trattengono calore.,L'effetto serra trattiene calore. Troppi gas serra scaldano il clima.
+703,Cos'è effetto serra? (breve),Gas trattengono calore.,L'effetto serra trattiene calore. Troppi gas serra scaldano il clima.
+704,Perché le api sono importanti?,"Impollinazione, raccolti.","Le api impollinano piante, assicurando raccolti e biodiversità."
+705,Spiega api in una frase.,"Impollinazione, raccolti.","Le api impollinano piante, assicurando raccolti e biodiversità."
+706,Cos'è api? (breve),"Impollinazione, raccolti.","Le api impollinano piante, assicurando raccolti e biodiversità."
+707,Perché le foglie sono verdi?,Pigmento clorofilla.,"Le foglie sono verdi per la clorofilla, pigmento della fotosintesi."
+708,Spiega foglie verdi in una frase.,Pigmento clorofilla.,"Le foglie sono verdi per la clorofilla, pigmento della fotosintesi."
+709,Cos'è foglie verdi? (breve),Pigmento clorofilla.,"Le foglie sono verdi per la clorofilla, pigmento della fotosintesi."
+710,Cos'è un mammifero?,"Pelo, nascita viva, latte.","I mammiferi hanno pelo, partoriscono piccoli vivi e li allattano."
+711,Spiega mammiferi in una frase.,"Pelo, nascita viva, latte.","I mammiferi hanno pelo, partoriscono piccoli vivi e li allattano."
+712,Cos'è mammiferi? (breve),"Pelo, nascita viva, latte.","I mammiferi hanno pelo, partoriscono piccoli vivi e li allattano."
+713,Come funziona una pila?,Energia chimica in elettrica.,Una pila trasforma energia chimica in elettrica.
+714,Spiega pile in una frase.,Energia chimica in elettrica.,Una pila trasforma energia chimica in elettrica.
+715,Cos'è pile? (breve),Energia chimica in elettrica.,Una pila trasforma energia chimica in elettrica.
+716,Come funziona il solare?,Celle: luce in corrente.,Le celle solari trasformano la luce direttamente in corrente.
+717,Spiega solare in una frase.,Celle: luce in corrente.,Le celle solari trasformano la luce direttamente in corrente.
+718,Cos'è solare? (breve),Celle: luce in corrente.,Le celle solari trasformano la luce direttamente in corrente.
+719,Cos'è un virus informatico?,Programma dannoso che si diffonde.,Un virus è un programma dannoso che si diffonde e causa danni. Proteggi con aggiornamenti e cura.
+720,Spiega virus informatico in una frase.,Programma dannoso che si diffonde.,Un virus è un programma dannoso che si diffonde e causa danni. Proteggi con aggiornamenti e cura.
+721,Cos'è virus informatico? (breve),Programma dannoso che si diffonde.,Un virus è un programma dannoso che si diffonde e causa danni. Proteggi con aggiornamenti e cura.
+722,Perché la plastica è un problema?,"Rifiuti durevoli, microplastiche.","La plastica quasi non si degrada, inquina natura e mari, diventa microplastiche."
+723,Spiega plastica in una frase.,"Rifiuti durevoli, microplastiche.","La plastica quasi non si degrada, inquina natura e mari, diventa microplastiche."
+724,Cos'è plastica? (breve),"Rifiuti durevoli, microplastiche.","La plastica quasi non si degrada, inquina natura e mari, diventa microplastiche."
+725,Cos'è un terremoto?,"Placche si muovono, liberano energia.",Un terremoto avviene quando le placche si muovono di colpo e liberano energia.
+726,Spiega terremoto in una frase.,"Placche si muovono, liberano energia.",Un terremoto avviene quando le placche si muovono di colpo e liberano energia.
+727,Cos'è terremoto? (breve),"Placche si muovono, liberano energia.",Un terremoto avviene quando le placche si muovono di colpo e liberano energia.
+728,Cos'è il miele?,Api dal nettare.,Il miele è fatto dalle api con il nettare dei fiori.
+729,Spiega miele in una frase.,Api dal nettare.,Il miele è fatto dalle api con il nettare dei fiori.
+730,Cos'è miele? (breve),Api dal nettare.,Il miele è fatto dalle api con il nettare dei fiori.
+731,Quanto fa 25 per 4?,Calcolo: 25*4=100.,25 per 4 fa 100.
+732,Quanto fa il 12 per cento di 200?,"Percentuale: 200*0,12=24.",Il 12 per cento di 200 fa 24.
+733,Quanto fa 7 per 8 più 10?,Ordine: 7*8=56 +10=66.,Fa 66.
+734,Un treno parte alle 14:30 e viaggia 2h15. Quando arriva?,Somma: 14:30 + 2:15 = 16:45.,Arriva alle 16:45.
+735,Ho 3 mele e ne mangio 1. Quante restano?,Sottrazione: 3-1=2.,Restano 2 mele.
+736,Vado a letto alle 22 e mi alzo alle 6. Quanto dormo?,Durata: 22-6 = 8 ore.,Dormi 8 ore.
+737,Dividi 100 euro tra 4 persone.,Divisione: 100/4=25.,Ciascuno riceve 25 euro.
+738,Quanti minuti sono 2 ore?,Conversione: 2*60=120.,2 ore sono 120 minuti.
+739,Quanti giorni ha un anno?,"Dato: 365, bisestile 366.","Un anno ha 365 giorni, bisestile 366."
+740,Quanti secondi ha un minuto?,Dato: 60.,Un minuto ha 60 secondi.
+741,Quanto fa 60 più 14?,Somma: 60+14=74.,60 più 14 fa 74.
+742,Quanto fa 82 meno 23?,Sottrazione: 82-23=59.,82 meno 23 fa 59.
+743,Quanto fa 3 per 10?,Moltiplicazione: 3*10=30.,3 per 10 fa 30.
+744,Quanto fa 24 diviso 2?,Divisione: 24/2=12.,24 diviso 2 fa 12.
+745,Quanto fa il 5 per cento di 1000?,Percentuale: 1000*5/100=50.,Il 5 per cento di 1000 fa 50.
+746,Quanto fa 58 più 57?,Somma: 58+57=115.,58 più 57 fa 115.
+747,Quanto fa 85 meno 53?,Sottrazione: 85-53=32.,85 meno 53 fa 32.
+748,Quanto fa 11 per 11?,Moltiplicazione: 11*11=121.,11 per 11 fa 121.
+749,Quanto fa 90 diviso 5?,Divisione: 90/5=18.,90 diviso 5 fa 18.
+750,Quanto fa il 25 per cento di 300?,Percentuale: 300*25/100=75.,Il 25 per cento di 300 fa 75.
+751,Quanto fa 53 più 50?,Somma: 53+50=103.,53 più 50 fa 103.
+752,Quanto fa 38 meno 19?,Sottrazione: 38-19=19.,38 meno 19 fa 19.
+753,Quanto fa 3 per 4?,Moltiplicazione: 3*4=12.,3 per 4 fa 12.
+754,Quanto fa 48 diviso 8?,Divisione: 48/8=6.,48 diviso 8 fa 6.
+755,Quanto fa il 15 per cento di 500?,Percentuale: 500*15/100=75.,Il 15 per cento di 500 fa 75.
+756,Quanto fa 46 più 25?,Somma: 46+25=71.,46 più 25 fa 71.
+757,Quanto fa 60 meno 50?,Sottrazione: 60-50=10.,60 meno 50 fa 10.
+758,Quanto fa 4 per 8?,Moltiplicazione: 4*8=32.,4 per 8 fa 32.
+759,Quanto fa 35 diviso 5?,Divisione: 35/5=7.,35 diviso 5 fa 7.
+760,Quanto fa il 5 per cento di 300?,Percentuale: 300*5/100=15.,Il 5 per cento di 300 fa 15.
+761,Quanto fa 21 più 32?,Somma: 21+32=53.,21 più 32 fa 53.
+762,Quanto fa 17 meno 2?,Sottrazione: 17-2=15.,17 meno 2 fa 15.
+763,Quanto fa 7 per 12?,Moltiplicazione: 7*12=84.,7 per 12 fa 84.
+764,Quanto fa 33 diviso 11?,Divisione: 33/11=3.,33 diviso 11 fa 3.
+765,Quanto fa il 10 per cento di 300?,Percentuale: 300*10/100=30.,Il 10 per cento di 300 fa 30.
+766,Quanto fa 44 più 21?,Somma: 44+21=65.,44 più 21 fa 65.
+767,Quanto fa 48 meno 15?,Sottrazione: 48-15=33.,48 meno 15 fa 33.
+768,Quanto fa 12 per 8?,Moltiplicazione: 12*8=96.,12 per 8 fa 96.
+769,Quanto fa 77 diviso 11?,Divisione: 77/11=7.,77 diviso 11 fa 7.
+770,Quanto fa il 25 per cento di 100?,Percentuale: 100*25/100=25.,Il 25 per cento di 100 fa 25.
+771,Quanto fa 26 più 34?,Somma: 26+34=60.,26 più 34 fa 60.
+772,Quanto fa 68 meno 29?,Sottrazione: 68-29=39.,68 meno 29 fa 39.
+773,Quanto fa 3 per 8?,Moltiplicazione: 3*8=24.,3 per 8 fa 24.
+774,Quanto fa 22 diviso 11?,Divisione: 22/11=2.,22 diviso 11 fa 2.
+775,Quanto fa il 5 per cento di 500?,Percentuale: 500*5/100=25.,Il 5 per cento di 500 fa 25.
+776,Quanto fa 8 più 49?,Somma: 8+49=57.,8 più 49 fa 57.
+777,Quanto fa 35 meno 18?,Sottrazione: 35-18=17.,35 meno 18 fa 17.
+778,Quanto fa 9 per 8?,Moltiplicazione: 9*8=72.,9 per 8 fa 72.
+779,Quanto fa 30 diviso 10?,Divisione: 30/10=3.,30 diviso 10 fa 3.
+780,Quanto fa il 10 per cento di 1000?,Percentuale: 1000*10/100=100.,Il 10 per cento di 1000 fa 100.
+781,Quanto fa 26 più 2?,Somma: 26+2=28.,26 più 2 fa 28.
+782,Quanto fa 17 meno 6?,Sottrazione: 17-6=11.,17 meno 6 fa 11.
+783,Quanto fa 6 per 6?,Moltiplicazione: 6*6=36.,6 per 6 fa 36.
+784,Quanto fa 133 diviso 7?,Divisione: 133/7=19.,133 diviso 7 fa 19.
+785,Quanto fa il 25 per cento di 500?,Percentuale: 500*25/100=125.,Il 25 per cento di 500 fa 125.
+786,Quanto fa 28 più 35?,Somma: 28+35=63.,28 più 35 fa 63.
+787,Quanto fa 77 meno 14?,Sottrazione: 77-14=63.,77 meno 14 fa 63.
+788,Quanto fa 12 per 9?,Moltiplicazione: 12*9=108.,12 per 9 fa 108.
+789,Quanto fa 48 diviso 12?,Divisione: 48/12=4.,48 diviso 12 fa 4.
+790,Quanto fa 44 più 50?,Somma: 44+50=94.,44 più 50 fa 94.
+791,Quanto fa 10 meno 8?,Sottrazione: 10-8=2.,10 meno 8 fa 2.
+792,Quanto fa 63 diviso 9?,Divisione: 63/9=7.,63 diviso 9 fa 7.
+793,Quanto fa il 20 per cento di 500?,Percentuale: 500*20/100=100.,Il 20 per cento di 500 fa 100.
+794,Quanto fa 41 più 40?,Somma: 41+40=81.,41 più 40 fa 81.
+795,Quanto fa 12 meno 8?,Sottrazione: 12-8=4.,12 meno 8 fa 4.
+796,Quanto fa 108 diviso 6?,Divisione: 108/6=18.,108 diviso 6 fa 18.
+797,Quanto fa 21 più 25?,Somma: 21+25=46.,21 più 25 fa 46.
+798,Quanto fa 72 meno 38?,Sottrazione: 72-38=34.,72 meno 38 fa 34.
+799,Quanto fa 9 per 12?,Moltiplicazione: 9*12=108.,9 per 12 fa 108.
+800,Quanto fa 114 diviso 6?,Divisione: 114/6=19.,114 diviso 6 fa 19.
+801,Quanto fa il 15 per cento di 1000?,Percentuale: 1000*15/100=150.,Il 15 per cento di 1000 fa 150.
+802,Quanto fa 47 più 49?,Somma: 47+49=96.,47 più 49 fa 96.
+803,Quanto fa 42 meno 3?,Sottrazione: 42-3=39.,42 meno 3 fa 39.
+804,Quanto fa 2 per 5?,Moltiplicazione: 2*5=10.,2 per 5 fa 10.
+805,Quanto fa il 50 per cento di 200?,Percentuale: 200*50/100=100.,Il 50 per cento di 200 fa 100.
+806,Quanto fa 28 più 50?,Somma: 28+50=78.,28 più 50 fa 78.
+807,Quanto fa 92 meno 51?,Sottrazione: 92-51=41.,92 meno 51 fa 41.
+808,Quanto fa 2 per 7?,Moltiplicazione: 2*7=14.,2 per 7 fa 14.
+809,Quanto fa 24 diviso 8?,Divisione: 24/8=3.,24 diviso 8 fa 3.
+810,Quanto fa il 25 per cento di 1000?,Percentuale: 1000*25/100=250.,Il 25 per cento di 1000 fa 250.
+811,Quanto fa 22 più 6?,Somma: 22+6=28.,22 più 6 fa 28.
+812,Quanto fa 33 meno 15?,Sottrazione: 33-15=18.,33 meno 15 fa 18.
+813,Quanto fa 9 per 6?,Moltiplicazione: 9*6=54.,9 per 6 fa 54.
+814,Quanto fa 15 diviso 5?,Divisione: 15/5=3.,15 diviso 5 fa 3.
+815,Quanto fa 53 più 48?,Somma: 53+48=101.,53 più 48 fa 101.
+816,Quanto fa 64 meno 11?,Sottrazione: 64-11=53.,64 meno 11 fa 53.
+817,Quanto fa 5 per 11?,Moltiplicazione: 5*11=55.,5 per 11 fa 55.
+818,Quanto fa 9 diviso 3?,Divisione: 9/3=3.,9 diviso 3 fa 3.
+819,Quanto fa il 25 per cento di 400?,Percentuale: 400*25/100=100.,Il 25 per cento di 400 fa 100.
+820,Quanto fa 31 più 9?,Somma: 31+9=40.,31 più 9 fa 40.
+821,Quanto fa 31 meno 29?,Sottrazione: 31-29=2.,31 meno 29 fa 2.
+822,Quanto fa 60 diviso 10?,Divisione: 60/10=6.,60 diviso 10 fa 6.
+823,Quanto fa 30 più 10?,Somma: 30+10=40.,30 più 10 fa 40.
+824,Quanto fa 90 meno 55?,Sottrazione: 90-55=35.,90 meno 55 fa 35.
+825,Quanto fa 9 per 11?,Moltiplicazione: 9*11=99.,9 per 11 fa 99.
+826,Quanto fa 120 diviso 6?,Divisione: 120/6=20.,120 diviso 6 fa 20.
+827,Quanto fa il 50 per cento di 400?,Percentuale: 400*50/100=200.,Il 50 per cento di 400 fa 200.
+828,Quanto fa 25 più 51?,Somma: 25+51=76.,25 più 51 fa 76.
+829,Quanto fa 72 meno 19?,Sottrazione: 72-19=53.,72 meno 19 fa 53.
+830,Quanto fa 6 per 4?,Moltiplicazione: 6*4=24.,6 per 4 fa 24.
+831,Quanto fa 85 diviso 5?,Divisione: 85/5=17.,85 diviso 5 fa 17.
+832,Quanto fa 59 più 21?,Somma: 59+21=80.,59 più 21 fa 80.
+833,Quanto fa 69 meno 47?,Sottrazione: 69-47=22.,69 meno 47 fa 22.
+834,Quanto fa 220 diviso 11?,Divisione: 220/11=20.,220 diviso 11 fa 20.
+835,Quanto fa il 50 per cento di 500?,Percentuale: 500*50/100=250.,Il 50 per cento di 500 fa 250.
+836,Quanto fa 14 più 42?,Somma: 14+42=56.,14 più 42 fa 56.
+837,Quanto fa 40 meno 17?,Sottrazione: 40-17=23.,40 meno 17 fa 23.
+838,Quanto fa 5 per 5?,Moltiplicazione: 5*5=25.,5 per 5 fa 25.
+839,Quanto fa 80 diviso 10?,Divisione: 80/10=8.,80 diviso 10 fa 8.
+840,Quanto fa il 50 per cento di 100?,Percentuale: 100*50/100=50.,Il 50 per cento di 100 fa 50.
+841,Quanto fa 42 più 5?,Somma: 42+5=47.,42 più 5 fa 47.
+842,Quanto fa 6 meno 4?,Sottrazione: 6-4=2.,6 meno 4 fa 2.
+843,Quanto fa 6 per 8?,Moltiplicazione: 6*8=48.,6 per 8 fa 48.
+844,Quanto fa 6 diviso 2?,Divisione: 6/2=3.,6 diviso 2 fa 3.
+845,Quanto fa il 5 per cento di 200?,Percentuale: 200*5/100=10.,Il 5 per cento di 200 fa 10.
+846,Il film inizia alle 20:15 e dura 90 minuti. Quando finisce?,20:15 + 90 min = 21:45.,Finisce alle 21:45.
+847,Sono le 9. Tra 3h30 ho appuntamento. Quando?,9:00 + 3:30 = 12:30.,L'appuntamento è alle 12:30.
+848,Una torta cuoce 45 minuti. La inforno alle 16:20. Quando è pronta?,16:20 + 0:45 = 17:05.,È pronta alle 17:05.
+849,La scuola inizia alle 8:00 e finisce alle 13:15. Quanto dura?,13:15 - 8:00 = 5:15.,Dura 5 ore e 15 minuti.
+850,"Se leggo 30 minuti dalle 19:00, quando finisco?",19:00 + 0:30 = 19:30.,Finisci alle 19:30.
+851,Come imparo i vocaboli?,"Sessioni corte, schede, uso attivo.",Meglio in brevi sessioni quotidiane con schede e uso attivo in frasi più ripetizione.
+852,imparare vocaboli - consigli?,"Sessioni corte, schede, uso attivo.",Meglio in brevi sessioni quotidiane con schede e uso attivo in frasi più ripetizione.
+853,Guida rapida: imparare vocaboli.,"Sessioni corte, schede, uso attivo.",Meglio in brevi sessioni quotidiane con schede e uso attivo in frasi più ripetizione.
+854,Come risparmio ogni giorno?,"Budget, abbonamenti, cucinare, confrontare.","Fissa un budget, controlla abbonamenti, cucina di più, confronta prezzi e risparmia prima una cifra fissa."
+855,risparmiare - consigli?,"Budget, abbonamenti, cucinare, confrontare.","Fissa un budget, controlla abbonamenti, cucina di più, confronta prezzi e risparmia prima una cifra fissa."
+856,Guida rapida: risparmiare.,"Budget, abbonamenti, cucinare, confrontare.","Fissa un budget, controlla abbonamenti, cucina di più, confronta prezzi e risparmia prima una cifra fissa."
+857,"Cosa cucino con pasta, pomodoro e formaggio?",Pasta al pomodoro e formaggio.,"Fai pasta al pomodoro semplice: condisci, cuoci, versa sulla pasta, spolvera formaggio."
+858,pasta veloce - consigli?,Pasta al pomodoro e formaggio.,"Fai pasta al pomodoro semplice: condisci, cuoci, versa sulla pasta, spolvera formaggio."
+859,Guida rapida: pasta veloce.,Pasta al pomodoro e formaggio.,"Fai pasta al pomodoro semplice: condisci, cuoci, versa sulla pasta, spolvera formaggio."
+860,"Volo domani, cosa porto?","Lista: documento, biglietto, soldi, telefono, caricatore.","Porta: documento o passaporto, biglietto, soldi, telefono più caricatore, medicine, igiene e cambio in cabina."
+861,bagaglio volo - consigli?,"Lista: documento, biglietto, soldi, telefono, caricatore.","Porta: documento o passaporto, biglietto, soldi, telefono più caricatore, medicine, igiene e cambio in cabina."
+862,Guida rapida: bagaglio volo.,"Lista: documento, biglietto, soldi, telefono, caricatore.","Porta: documento o passaporto, biglietto, soldi, telefono più caricatore, medicine, igiene e cambio in cabina."
+863,Come scrivo buone scuse?,"Nomina errore, responsabilità, riparazione.","Nomina l'errore, assumi, mostra rincrescimento e offri riparazione, corto e onesto."
+864,scuse - consigli?,"Nomina errore, responsabilità, riparazione.","Nomina l'errore, assumi, mostra rincrescimento e offri riparazione, corto e onesto."
+865,Guida rapida: scuse.,"Nomina errore, responsabilità, riparazione.","Nomina l'errore, assumi, mostra rincrescimento e offri riparazione, corto e onesto."
+866,Come pianifico 3 giorni in città?,"Viaggio, hotel, 2-3 punti al giorno.","Fissa viaggio e hotel, scegli 2-3 punti al giorno, prevedi margini e budget giornaliero."
+867,weekend in città - consigli?,"Viaggio, hotel, 2-3 punti al giorno.","Fissa viaggio e hotel, scegli 2-3 punti al giorno, prevedi margini e budget giornaliero."
+868,Guida rapida: weekend in città.,"Viaggio, hotel, 2-3 punti al giorno.","Fissa viaggio e hotel, scegli 2-3 punti al giorno, prevedi margini e budget giornaliero."
+869,Ombrello con 80 per cento di pioggia?,"80% alto, sì consigliato.","Sì, prendilo. Con 80 per cento la pioggia è molto probabile."
+870,ombrello - consigli?,"80% alto, sì consigliato.","Sì, prendilo. Con 80 per cento la pioggia è molto probabile."
+871,Guida rapida: ombrello.,"80% alto, sì consigliato.","Sì, prendilo. Con 80 per cento la pioggia è molto probabile."
+872,Meglio per note: carta o telefono?,"Carta senza distrazioni, telefono cercabile.","Entrambi hanno pregi: carta senza distrazioni e buona per memoria, telefono cercabile e sempre con te."
+873,note carta o telefono - consigli?,"Carta senza distrazioni, telefono cercabile.","Entrambi hanno pregi: carta senza distrazioni e buona per memoria, telefono cercabile e sempre con te."
+874,Guida rapida: note carta o telefono.,"Carta senza distrazioni, telefono cercabile.","Entrambi hanno pregi: carta senza distrazioni e buona per memoria, telefono cercabile e sempre con te."
+875,Come riordino la stanza in fretta?,"Spazzatura, bucato, rimettere, pulire.","Prima spazzatura, poi bucato, rimetti tutto a posto e pulisci alla fine."
+876,riordinare in fretta - consigli?,"Spazzatura, bucato, rimettere, pulire.","Prima spazzatura, poi bucato, rimetti tutto a posto e pulisci alla fine."
+877,Guida rapida: riordinare in fretta.,"Spazzatura, bucato, rimettere, pulire.","Prima spazzatura, poi bucato, rimetti tutto a posto e pulisci alla fine."
+878,Come faccio una valigia compatta?,"Arrotolare, pesante sotto, riempire.","Arrotola i vestiti invece di piegare, pesante sotto, riempi con calzini."
+879,valigia compatta - consigli?,"Arrotolare, pesante sotto, riempire.","Arrotola i vestiti invece di piegare, pesante sotto, riempi con calzini."
+880,Guida rapida: valigia compatta.,"Arrotolare, pesante sotto, riempire.","Arrotola i vestiti invece di piegare, pesante sotto, riempi con calzini."
+881,Come cuocio il riso?,"Rapporto 1:2, sobbollire 10-12 min.","Lava il riso, porta a ebollizione con doppia acqua, lascia gonfiare 10-12 minuti."
+882,cuocere il riso - consigli?,"Rapporto 1:2, sobbollire 10-12 min.","Lava il riso, porta a ebollizione con doppia acqua, lascia gonfiare 10-12 minuti."
+883,Guida rapida: cuocere il riso.,"Rapporto 1:2, sobbollire 10-12 min.","Lava il riso, porta a ebollizione con doppia acqua, lascia gonfiare 10-12 minuti."
+884,Come cuocio la pasta?,"Acqua salata, bollire 8-10 min.","Sala molta acqua, porta a ebollizione, cuoci 8-10 minuti, scola."
+885,cuocere la pasta - consigli?,"Acqua salata, bollire 8-10 min.","Sala molta acqua, porta a ebollizione, cuoci 8-10 minuti, scola."
+886,Guida rapida: cuocere la pasta.,"Acqua salata, bollire 8-10 min.","Sala molta acqua, porta a ebollizione, cuoci 8-10 minuti, scola."
+887,Come faccio le crêpes?,"Farina, latte, uovo, dorare.","Mescola farina, latte, uovo e pizzico di sale, cuoci sottile fino a dorare."
+888,crêpes - consigli?,"Farina, latte, uovo, dorare.","Mescola farina, latte, uovo e pizzico di sale, cuoci sottile fino a dorare."
+889,Guida rapida: crêpes.,"Farina, latte, uovo, dorare.","Mescola farina, latte, uovo e pizzico di sale, cuoci sottile fino a dorare."
+890,Come mi sveglio al mattino?,"Luce, acqua, movimento.","Luce accesa, bicchiere d'acqua, muoviti un po' e prendi aria."
+891,svegliarsi - consigli?,"Luce, acqua, movimento.","Luce accesa, bicchiere d'acqua, muoviti un po' e prendi aria."
+892,Guida rapida: svegliarsi.,"Luce, acqua, movimento.","Luce accesa, bicchiere d'acqua, muoviti un po' e prendi aria."
+893,Come mi addormento più in fretta?,"Buio, fresco, senza telefono, routine.","Dormi al buio e fresco, riponi il telefono, mantieni routine fissa."
+894,addormentarsi - consigli?,"Buio, fresco, senza telefono, routine.","Dormi al buio e fresco, riponi il telefono, mantieni routine fissa."
+895,Guida rapida: addormentarsi.,"Buio, fresco, senza telefono, routine.","Dormi al buio e fresco, riponi il telefono, mantieni routine fissa."
+896,Come studio un esame?,"Blocchi, richiamo attivo, pause.","Dividi in blocchi, interrogati attivamente, fai pause, ripeti il giorno dopo."
+897,studiare esame - consigli?,"Blocchi, richiamo attivo, pause.","Dividi in blocchi, interrogati attivamente, fai pause, ripeti il giorno dopo."
+898,Guida rapida: studiare esame.,"Blocchi, richiamo attivo, pause.","Dividi in blocchi, interrogati attivamente, fai pause, ripeti il giorno dopo."
+899,Come scrivo una candidatura?,"Lettera, CV, titoli.",Scrivi una breve lettera più CV a tabella e titoli utili.
+900,candidatura lavoro - consigli?,"Lettera, CV, titoli.",Scrivi una breve lettera più CV a tabella e titoli utili.
+901,Guida rapida: candidatura lavoro.,"Lettera, CV, titoli.",Scrivi una breve lettera più CV a tabella e titoli utili.
+902,Come trovo casa?,"Budget, portali, documenti, visite.","Fissa budget, cerca su portali, prepara documenti, visita con domande."
+903,trovare casa - consigli?,"Budget, portali, documenti, visite.","Fissa budget, cerca su portali, prepara documenti, visita con domande."
+904,Guida rapida: trovare casa.,"Budget, portali, documenti, visite.","Fissa budget, cerca su portali, prepara documenti, visita con domande."
+905,Come annaffio le piante?,"Prova del dito, niente ristagni.","Prova del dito: annaffia solo se sopra asciutto, evita ristagni."
+906,annaffiare piante - consigli?,"Prova del dito, niente ristagni.","Prova del dito: annaffia solo se sopra asciutto, evita ristagni."
+907,Guida rapida: annaffiare piante.,"Prova del dito, niente ristagni.","Prova del dito: annaffia solo se sopra asciutto, evita ristagni."
+908,Come organizzo la giornata?,"3 priorità, blocchi, pause.","Scegli 3 priorità, pianifica blocchi con pause, riponi distrazioni."
+909,organizzare giornata - consigli?,"3 priorità, blocchi, pause.","Scegli 3 priorità, pianifica blocchi con pause, riponi distrazioni."
+910,Guida rapida: organizzare giornata.,"3 priorità, blocchi, pause.","Scegli 3 priorità, pianifica blocchi con pause, riponi distrazioni."
+911,Come inizio lo sport?,"Poco, 2x a settimana, aumentare.","Inizia 2x a settimana passeggiata o leggero, aumenta piano."
+912,iniziare sport - consigli?,"Poco, 2x a settimana, aumentare.","Inizia 2x a settimana passeggiata o leggero, aumenta piano."
+913,Guida rapida: iniziare sport.,"Poco, 2x a settimana, aumentare.","Inizia 2x a settimana passeggiata o leggero, aumenta piano."
+914,Come bevo abbastanza acqua?,"Bottiglia pronta, promemoria.","Tieni una bottiglia pronta, bevi un bicchiere a ogni pasto, metti promemoria."
+915,bere abbastanza - consigli?,"Bottiglia pronta, promemoria.","Tieni una bottiglia pronta, bevi un bicchiere a ogni pasto, metti promemoria."
+916,Guida rapida: bere abbastanza.,"Bottiglia pronta, promemoria.","Tieni una bottiglia pronta, bevi un bicchiere a ogni pasto, metti promemoria."
+917,Cos'è una colazione sana?,"Avena, frutta, yogurt.","Per esempio avena con frutta e yogurt, o pane integrale con uovo."
+918,colazione sana - consigli?,"Avena, frutta, yogurt.","Per esempio avena con frutta e yogurt, o pane integrale con uovo."
+919,Guida rapida: colazione sana.,"Avena, frutta, yogurt.","Per esempio avena con frutta e yogurt, o pane integrale con uovo."
+920,Cosa fare contro lo stress?,"Pause, movimento, sonno, parlare.","Pause corte, movimento, abbastanza sonno e parlare aiutano."
+921,stress - consigli?,"Pause, movimento, sonno, parlare.","Pause corte, movimento, abbastanza sonno e parlare aiutano."
+922,Guida rapida: stress.,"Pause, movimento, sonno, parlare.","Pause corte, movimento, abbastanza sonno e parlare aiutano."
+923,Come annullo un appuntamento?,"Presto, motivo corto, nuova data.","Annulla presto, dai un motivo corto, proponi nuova data."
+924,annullare appuntamento - consigli?,"Presto, motivo corto, nuova data.","Annulla presto, dai un motivo corto, proponi nuova data."
+925,Guida rapida: annullare appuntamento.,"Presto, motivo corto, nuova data.","Annulla presto, dai un motivo corto, proponi nuova data."
+926,Come chiedo aiuto?,"Concreto: cosa, quando, grazie.","Chiedi concreto: cosa, entro quando, perché. Esempio: Mi aiuti a portare questo oggi? Grazie!"
+927,chiedere aiuto - consigli?,"Concreto: cosa, quando, grazie.","Chiedi concreto: cosa, entro quando, perché. Esempio: Mi aiuti a portare questo oggi? Grazie!"
+928,Guida rapida: chiedere aiuto.,"Concreto: cosa, quando, grazie.","Chiedi concreto: cosa, entro quando, perché. Esempio: Mi aiuti a portare questo oggi? Grazie!"
+929,Come imparo a dire di no?,"Corto, gentile, alternativa.","Di no breve e gentile, offri un'alternativa se possibile."
+930,dire di no - consigli?,"Corto, gentile, alternativa.","Di no breve e gentile, offri un'alternativa se possibile."
+931,Guida rapida: dire di no.,"Corto, gentile, alternativa.","Di no breve e gentile, offri un'alternativa se possibile."
+932,Come risparmio per le vacanze?,"Obiettivo, auto mensile.","Fissa un obiettivo, risparmia ogni mese automaticamente, aggiungi extra."
+933,risparmiare vacanze - consigli?,"Obiettivo, auto mensile.","Fissa un obiettivo, risparmia ogni mese automaticamente, aggiungi extra."
+934,Guida rapida: risparmiare vacanze.,"Obiettivo, auto mensile.","Fissa un obiettivo, risparmia ogni mese automaticamente, aggiungi extra."
+935,Come prenoto voli economici?,"Date flessibili, confrontare, presto.","Sii flessibile con date, confronta portali, prenota presto."
+936,voli economici - consigli?,"Date flessibili, confrontare, presto.","Sii flessibile con date, confronta portali, prenota presto."
+937,Guida rapida: voli economici.,"Date flessibili, confrontare, presto.","Sii flessibile con date, confronta portali, prenota presto."
+938,Come mi oriento senza internet?,"Mappe offline, segnali, chiedere.","Scarica mappe offline, segui segnali, chiedi alla gente."
+939,orientarsi senza internet - consigli?,"Mappe offline, segnali, chiedere.","Scarica mappe offline, segui segnali, chiedi alla gente."
+940,Guida rapida: orientarsi senza internet.,"Mappe offline, segnali, chiedere.","Scarica mappe offline, segui segnali, chiedi alla gente."
+941,Che differenza c'è tra cane e gatto come animale?,Cani: uscite ed educazione; gatti indipendenti.,"I cani chiedono uscite ed educazione, i gatti sono più indipendenti. Scegli secondo tempo e spazio."
+942,cane o gatto - cosa consigli?,Cani: uscite ed educazione; gatti indipendenti.,"I cani chiedono uscite ed educazione, i gatti sono più indipendenti. Scegli secondo tempo e spazio."
+943,Treno o auto per 300 km?,"Treno relax e verde, auto flessibile.","Il treno è relax e spesso più verde, l'auto flessibile con bagagli. Con traffico, vince il treno."
+944,treno o auto 300 km - cosa consigli?,"Treno relax e verde, auto flessibile.","Il treno è relax e spesso più verde, l'auto flessibile con bagagli. Con traffico, vince il treno."
+945,Mela o cioccolato come spuntino?,Mela: vitamine e sazietà.,"Prendi la mela per vitamine e sazietà, il cioccolato come eccezione."
+946,mela o cioccolato - cosa consigli?,Mela: vitamine e sazietà.,"Prendi la mela per vitamine e sazietà, il cioccolato come eccezione."
+947,Portatile o PC per giocare?,"PC più potente per prezzo, portatile mobile.","I PC danno più potenza per il prezzo, i portatili sono mobili. Per il max, scegli PC."
+948,portatile o PC gaming - cosa consigli?,"PC più potente per prezzo, portatile mobile.","I PC danno più potenza per il prezzo, i portatili sono mobili. Per il max, scegli PC."
+949,Città o campagna per vivere?,Città: lavori e vicinanza; campagna: calma.,"Le città offrono lavori e vicinanza, la campagna calma e spazio. Scegli secondo lavoro e stile."
+950,città o campagna - cosa consigli?,Città: lavori e vicinanza; campagna: calma.,"Le città offrono lavori e vicinanza, la campagna calma e spazio. Scegli secondo lavoro e stile."
+951,Cosa conta di più: sonno o studio?,Il sonno fissa l'apprendimento.,"Il sonno conta di più perché fissa l'apprendimento. Studia presto, dormi abbastanza."
+952,sonno o studio - cosa consigli?,Il sonno fissa l'apprendimento.,"Il sonno conta di più perché fissa l'apprendimento. Studia presto, dormi abbastanza."
+953,Telefono nuovo o tenere il vecchio?,Tieni se basta; compra su guasto o bisogno.,Tienilo se basta. Compra nuovo solo su guasto o vero bisogno.
+954,telefono nuovo - cosa consigli?,Tieni se basta; compra su guasto o bisogno.,Tienilo se basta. Compra nuovo solo su guasto o vero bisogno.
+955,Cosa sono le notizie false?,"Inventate, come vere; verifica fonte.","Le notizie false sono inventate. Verifica fonte, data e altri media."
+956,notizie false - cosa consigli?,"Inventate, come vere; verifica fonte.","Le notizie false sono inventate. Verifica fonte, data e altri media."
+957,Che differenza c'è tra fatto e opinione?,"Fatto provabile, opinione vista personale.","Un fatto è provabile e verificabile, un'opinione è una vista personale."
+958,fatto o opinione - cosa consigli?,"Fatto provabile, opinione vista personale.","Un fatto è provabile e verificabile, un'opinione è una vista personale."
+959,Bici o bus per la scuola? (5 km),"Bel tempo bici, pioggia bus.","Con bel tempo prendi la bici (circa 20 min, sano), con pioggia il bus."
+960,bici o bus scuola 5 km - cosa consigli?,"Bel tempo bici, pioggia bus.","Con bel tempo prendi la bici (circa 20 min, sano), con pioggia il bus."
+961,Acqua o succo per la sete?,"Acqua meglio, senza zucchero.",L'acqua disseta meglio e non ha zucchero. Succo solo diluito.
+962,acqua o succo - cosa consigli?,"Acqua meglio, senza zucchero.",L'acqua disseta meglio e non ha zucchero. Succo solo diluito.
+963,Caffè o acqua al mattino?,"Prima acqua, caffè moderato.","Bevi prima acqua, caffè dopo con moderazione."
+964,caffè o acqua mattina - cosa consigli?,"Prima acqua, caffè moderato.","Bevi prima acqua, caffè dopo con moderazione."
+965,Affittare o comprare? (generale),Flessibile affittare; a lungo verifica comprare.,"Affitta se resti flessibile; se resti a lungo e puoi pagare, verifica comprare con tutti i costi."
+966,affittare o comprare - cosa consigli?,Flessibile affittare; a lungo verifica comprare.,"Affitta se resti flessibile; se resti a lungo e puoi pagare, verifica comprare con tutti i costi."
+967,Alzarsi presto o tardi?,Secondo doveri e sonno.,Scegli secondo doveri e sonno: abbastanza sonno e ritmo fisso contano.
+968,alzarsi presto o tardi - cosa consigli?,Secondo doveri e sonno.,Scegli secondo doveri e sonno: abbastanza sonno e ritmo fisso contano.
+969,Sport ogni giorno?,Riposo conta; 3-4x a settimana basta.,"No, pianifica riposi. 3-4 volte a settimana spesso basta, ogni giorno solo leggero."
+970,sport ogni giorno - cosa consigli?,Riposo conta; 3-4x a settimana basta.,"No, pianifica riposi. 3-4 volte a settimana spesso basta, ogni giorno solo leggero."
+971,Lavorare con la febbre?,"No, riposo e medico.",No. Riposati e vai dal medico se febbre alta o lunga.
+972,febbre e lavoro - cosa consigli?,"No, riposo e medico.",No. Riposati e vai dal medico se febbre alta o lunga.
+973,Come scelgo tra due offerte?,"Criteri, pro/contro, scadenza.","Lista criteri, dai punti, controlla costi e intuito, decidi con scadenza."
+974,scegliere tra offerte - cosa consigli?,"Criteri, pro/contro, scadenza.","Lista criteri, dai punti, controlla costi e intuito, decidi con scadenza."
+975,Come risparmio 500 euro in 5 mesi?,500/5=100 al mese auto.,"Risparmia 100 euro al mese automaticamente, es. bonifico dopo stipendio."
+976,risparmiare 500 in 5 mesi - cosa consigli?,500/5=100 al mese auto.,"Risparmia 100 euro al mese automaticamente, es. bonifico dopo stipendio."
+977,Che differenza c'è tra bisogno e desiderio?,"Bisogno vitale, desiderio oltre.","Il bisogno è vitale, il desiderio è una voglia oltre."
+978,bisogno o desiderio - cosa consigli?,"Bisogno vitale, desiderio oltre.","Il bisogno è vitale, il desiderio è una voglia oltre."
+979,Cosa conta di più: soldi o tempo?,"Tempo limitato, soldi sostituibili.","Il tempo è limitato e non torna, i soldi si riguadagnano. Conta l'equilibrio."
+980,soldi o tempo - cosa consigli?,"Tempo limitato, soldi sostituibili.","Il tempo è limitato e non torna, i soldi si riguadagnano. Conta l'equilibrio."
+981,Riassumi: quando pensi e quando no?,"Regola: chiacchiere senza pensare; fatti, calcoli, spiegazioni, decisioni con pensiero.","Non penso per saluti, grazie e chiacchiere. Penso per fatti, calcoli, spiegazioni, confronti e decisioni, e allora mostro il pensiero."
+982,Cos'è tolleranza?,Definire tolleranza semplice e corretto.,tolleranza in breve: La tolleranza accetta altre opinioni e stili di vita.
+983,Cos'è pazienza?,Definire pazienza semplice e corretto.,pazienza in breve: La pazienza attende calma e persevera.
+984,Cos'è coraggio?,Definire coraggio semplice e corretto.,coraggio in breve: Il coraggio fa il bene nonostante la paura.
+985,Cos'è disciplina?,Definire disciplina semplice e corretto.,disciplina in breve: La disciplina persevera anche senza voglia.
+986,Cos'è creatività?,Definire creatività semplice e corretto.,creatività in breve: La creatività trova idee e soluzioni nuove.
+987,Cos'è lavoro di squadra?,Definire lavoro di squadra semplice e corretto.,lavoro di squadra in breve: Il lavoro di squadra avanza insieme verso una meta.
+988,Cos'è responsabilità?,Definire responsabilità semplice e corretto.,responsabilità in breve: La responsabilità assume atti e conseguenze.
+989,Cos'è fiducia?,Definire fiducia semplice e corretto.,fiducia in breve: La fiducia permette di contare sugli altri.
+990,Cos'è cortesia?,Definire cortesia semplice e corretto.,cortesia in breve: La cortesia è rispettosa e gentile.
+991,Cos'è puntualità?,Definire puntualità semplice e corretto.,puntualità in breve: La puntualità rispetta gli orari concordati.
+992,Cos'è affidabilità?,Definire affidabilità semplice e corretto.,affidabilità in breve: L'affidabilità mantiene promesse.
+993,Cos'è salute?,Definire salute semplice e corretto.,salute in breve: La salute è benessere fisico e mentale.
+994,Cos'è felicità?,Definire felicità semplice e corretto.,felicità in breve: La felicità è soddisfazione e momenti gioiosi.
+995,Cos'è successo?,Definire successo semplice e corretto.,successo in breve: Il successo raggiunge le mete fissate.
+996,Cos'è apprendimento?,Definire apprendimento semplice e corretto.,apprendimento in breve: L'apprendimento acquisisce sapere e abilità.
+997,Cos'è sapere?,Definire sapere semplice e corretto.,sapere in breve: Il sapere è informazione capita sul mondo.
+998,Cos'è esperienza?,Definire esperienza semplice e corretto.,esperienza in breve: L'esperienza è sapere dal vissuto.
+999,Cos'è umorismo?,Definire umorismo semplice e corretto.,umorismo in breve: L'umorismo sa ridere delle cose divertenti.
+1000,Cos'è amore?,Definire amore semplice e corretto.,amore in breve: L'amore è affetto profondo e cura.

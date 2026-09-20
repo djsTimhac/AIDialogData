@@ -1,0 +1,1001 @@
+id,user,thinking,ai
+1,Halo!,,Halo! Bagaimana saya bisa membantu?
+2,Hai!,,Hai! Apa yang bisa saya lakukan?
+3,Hei!,,Hei! Bagaimana saya bisa membantu?
+4,"Halo, kamu di sana?",,"Ya, saya di sini! Apa yang kamu butuhkan?"
+5,"Hai, kamu di sana?",,"Ya, saya di sini! Silakan."
+6,Selamat pagi!,,Selamat pagi! Apa rencana hari ini?
+7,"Selamat pagi, apa kabar?",,"Selamat pagi! Baik, dan kamu?"
+8,Selamat siang!,,Selamat siang! Bagaimana saya bisa membantu?
+9,Halo semuanya!,,Halo semuanya! Apa yang bisa saya lakukan?
+10,Selamat malam!,,Selamat malam! Bagaimana harimu?
+11,"Selamat malam, bagaimana harimu?",,Tenang dan baik. Dan harimu?
+12,"Hei, apa kabar?",,"Baik, terima kasih! Dan kamu?"
+13,"Hai, apa kabar?",,"Baik, terima kasih! Apa kabar?"
+14,Apa kabar?,,Baik! Dan kamu?
+15,Bagaimana kabarmu hari ini?,,Saya merasa baik! Dan kamu?
+16,Semua baik?,,"Ya, semua baik! Dan kamu?"
+17,Ada apa?,,Tidak banyak. Ada apa denganmu?
+18,Kamu sedang apa?,,Mengobrol denganmu. Dan kamu?
+19,Masih bangun?,,"Ya, saya selalu bangun. Dan kamu?"
+20,Siap?,,"Ya, siap! Silakan."
+21,Punya semenit?,,"Ya, saya punya waktu untukmu."
+22,Bisa bantu cepat?,,"Tentu, apa yang kamu butuhkan?"
+23,Dadah!,,Dadah! Sampai jumpa!
+24,"Dadah, sampai jumpa!",,"Sampai jumpa, jaga dirimu!"
+25,Sampai nanti!,,Sampai nanti!
+26,Sampai besok!,,Sampai besok!
+27,Jaga dirimu!,,"Kamu juga, jaga dirimu!"
+28,Akhir pekan menyenangkan!,,"Terima kasih, sama-sama!"
+29,Tidur nyenyak!,,Terima kasih! Kamu juga tidur nyenyak.
+30,Saya bosan,,Apakah kita kuis atau bicara tentang topik?
+31,Membosankan di sini,,Ayo meriahkan. Kamu mau apa?
+32,Keren!,,Keren!
+33,Bagus!,,Bagus!
+34,Haha,,Haha!
+35,Hahaha :),,"Haha, senang dengar!"
+36,Saya lelah,,Kalau begitu istirahat baik-baik!
+37,Saya bersemangat,,Bagus! Cerita dong.
+38,Akhirnya akhir pekan!,,Ya! Apa rencanamu?
+39,Cuaca bagus hari ini,,"Ya, nikmati matahari!"
+40,Saya lapar,,Kalau begitu makan yang enak!
+41,Saya haus,,Kalau begitu minum segelas air!
+42,Apa rencana hari ini?,,Rencana saya: membantumu. Dan rencanamu?
+43,"Hei, apa rencana hari ini!",,Rencana saya: membantumu. Dan rencanamu?
+44,"Halo, apa rencana hari ini?",,Rencana saya: membantumu. Dan rencanamu?
+45,"Hai, apa rencana hari ini?",,Rencana saya: membantumu. Dan rencanamu?
+46,Rencana akhir pekan!,,Belum pasti. Apakah kamu punya rencana?
+47,"Hei, rencana akhir pekan?",,Belum pasti. Apakah kamu punya rencana?
+48,"Halo, rencana akhir pekan?",,Belum pasti. Apakah kamu punya rencana?
+49,"Hai, rencana akhir pekan!",,Belum pasti. Apakah kamu punya rencana?
+50,Tidur nyenyak?,,"Saya tidak tidur, tapi saya fit. Dan kamu?"
+51,"Hei, tidur nyenyak?",,"Saya tidak tidur, tapi saya fit. Dan kamu?"
+52,"Halo, tidur nyenyak!",,"Saya tidak tidur, tapi saya fit. Dan kamu?"
+53,"Hai, tidur nyenyak?",,"Saya tidak tidur, tapi saya fit. Dan kamu?"
+54,Sudah bangun?,,"Ya, saya siap. Apa yang kamu butuhkan?"
+55,"Hei, sudah bangun!",,"Ya, saya siap. Apa yang kamu butuhkan?"
+56,"Halo, sudah bangun?",,"Ya, saya siap. Apa yang kamu butuhkan?"
+57,"Hai, sudah bangun?",,"Ya, saya siap. Apa yang kamu butuhkan?"
+58,Bagaimana harimu!,,"Baik, terima kasih! Dan harimu?"
+59,"Hei, bagaimana harimu?",,"Baik, terima kasih! Dan harimu?"
+60,"Halo, bagaimana harimu?",,"Baik, terima kasih! Dan harimu?"
+61,"Hai, bagaimana harimu!",,"Baik, terima kasih! Dan harimu?"
+62,Semua tenang?,,"Ya, tenang di sini. Dan denganmu?"
+63,"Hei, semua tenang?",,"Ya, tenang di sini. Dan denganmu?"
+64,"Halo, semua tenang!",,"Ya, tenang di sini. Dan denganmu?"
+65,"Hai, semua tenang?",,"Ya, tenang di sini. Dan denganmu?"
+66,Ada yang baru?,,Tidak banyak. Ada yang baru denganmu?
+67,"Hei, ada yang baru!",,Tidak banyak. Ada yang baru denganmu?
+68,"Halo, ada yang baru?",,Tidak banyak. Ada yang baru denganmu?
+69,"Hai, ada yang baru?",,Tidak banyak. Ada yang baru denganmu?
+70,Rencana hari ini!,,Hanya membantumu. Dan kamu?
+71,"Hei, rencana hari ini?",,Hanya membantumu. Dan kamu?
+72,"Halo, rencana hari ini?",,Hanya membantumu. Dan kamu?
+73,"Hai, rencana hari ini!",,Hanya membantumu. Dan kamu?
+74,Hari sibuk?,,Sedikit. Dan harimu?
+75,"Hei, hari sibuk?",,Sedikit. Dan harimu?
+76,"Halo, hari sibuk!",,Sedikit. Dan harimu?
+77,"Hai, hari sibuk?",,Sedikit. Dan harimu?
+78,Bagaimana cuaca?,,"Saya tidak punya jendela, tapi semoga bagus untukmu!"
+79,"Hei, bagaimana cuaca!",,"Saya tidak punya jendela, tapi semoga bagus untukmu!"
+80,"Halo, bagaimana cuaca?",,"Saya tidak punya jendela, tapi semoga bagus untukmu!"
+81,"Hai, bagaimana cuaca?",,"Saya tidak punya jendela, tapi semoga bagus untukmu!"
+82,Semua baik hari ini!,,Ya! Dan denganmu?
+83,"Hei, semua baik hari ini?",,Ya! Dan denganmu?
+84,"Halo, semua baik hari ini?",,Ya! Dan denganmu?
+85,"Hai, semua baik hari ini!",,Ya! Dan denganmu?
+86,Banyak hal?,,Sedikit. Dan kamu?
+87,"Hei, banyak hal?",,Sedikit. Dan kamu?
+88,"Halo, banyak hal!",,Sedikit. Dan kamu?
+89,"Hai, banyak hal?",,Sedikit. Dan kamu?
+90,Terima kasih!,,Sama-sama!
+91,Terima kasih banyak!,,Dengan senang hati!
+92,Seribu terima kasih!,,Senang bisa membantu!
+93,Makasih!,,Sama-sama!
+94,Oke,,Oke!
+95,"Oke, bagus",,Sempurna!
+96,Mengerti,,Bagus sekali!
+97,Paham,,Hebat!
+98,Kedengarannya bagus,,Senang dengar!
+99,Kedengarannya hebat,,Luar biasa!
+100,"Ya, tepat",,"Bagus, lanjutkan."
+101,"Ya, silakan",,"Tentu, silakan."
+102,"Ya, dengan senang hati",,Dengan senang hati!
+103,Tidak masalah,,Terima kasih atas pengertian!
+104,"Tidak, terima kasih",,"Oke, tidak masalah."
+105,Cocok untuk saya,,Sepakat!
+106,Pas untuk saya,,Hebat!
+107,Lanjutkan,,Lanjut!
+108,Cerita lebih,,Dengan senang hati! Jadi...
+109,Tepat,,Mutlak!
+110,Begitu!,,Begitu!
+111,Tentu,,Tentu!
+112,Benarkah?,,"Ya, benar!"
+113,"Oh, bagus",,"Ya, bagus, kan?"
+114,Tanpa stres,,Terima kasih! Semua santai.
+115,Maaf,,Tidak masalah!
+116,Permisi,,Tidak masalah!
+117,Salah saya,,Tidak apa-apa. Apa yang terjadi?
+118,Baik darimu,,Terima kasih! Kamu juga baik.
+119,Kerja bagus,,Terima kasih!
+120,Sampai jumpa,,Sampai jumpa!
+121,Hebat!,,Hebat!
+122,Sempurna!,,Sempurna!
+123,"Sepakat, deal",,"Bagus, sepakat!"
+124,Deal!,,Deal!
+125,Bisa mulai?,,"Ya, mulai!"
+126,Sudah selesai?,,"Ya, selesai!"
+127,Sekali lagi tolong,,"Dengan senang hati, sekali lagi!"
+128,Ulangi tolong,,"Tentu, ini lagi."
+129,Sebentar tolong,,"Tentu, santai saja."
+130,Tunggu sebentar,,"Oke, menunggu."
+131,Segera kembali,,"Oke, sampai jumpa!"
+132,Ceritakan lelucon,,Tentu: Mengapa programmer suka kopi? Waktu Java!
+133,Lelucon lagi!,,Oke: Mengapa hantu berbohong buruk? Terlihat tembus!
+134,Lelucon pendek tolong,,Dua magnet bertemu. Satu berkata: Kamu menarik!
+135,Semangati saya,,Kamu bisa! Langkah demi langkah.
+136,Sesuatu yang memotivasi,,Setiap langkah penting. Lanjut!
+137,Saya gugup,,"Itu normal. Bernapas tenang, akan baik-baik saja."
+138,Saya stres,,"Istirahat sebentar, minum air, bernapas dalam."
+139,Doakan beruntung,,Semoga beruntung! Kamu bisa!
+140,Jari disilang,,Saya juga! Semoga beruntung!
+141,Hari ini hariku!,,Bagus! Nikmati!
+142,Suasana hati baik,,Bagus! Senang dengar.
+143,Suasana hati buruk,,"Oh, apa yang terjadi? Mau bicara?"
+144,Tos!,,Tos juga!
+145,Prost!,,Prost!
+146,Selamat makan!,,"Terima kasih, sama-sama!"
+147,Semoga beruntung!,,Terima kasih! Semoga beruntung juga untukmu!
+148,Selamat datang!,,Terima kasih! Senang di sini.
+149,Selamat Natal!,,Selamat Natal juga untukmu!
+150,Selamat Tahun Baru!,,Selamat Tahun Baru! Sehat dan beruntung!
+151,Selamat!,,Terima kasih! Untuk apa?
+152,Hormat!,,Terima kasih! Hormat juga.
+153,Wow!,,"Wow, kan?"
+154,Luar biasa!,,"Luar biasa, kan?"
+155,Deal?,,Deal!
+156,Top!,,Top!
+157,Selesai!,,"Selamat, kerja bagus!"
+158,Akhirnya selesai!,,Kuat! Kerja bagus.
+159,Terserah,,"Oke, tidak masalah."
+160,Tidak tahu,,Tidak masalah! Tentang apa?
+161,Tidak ada ide,,Tidak apa-apa! Sebutkan topik.
+162,Mungkin nanti,,"Tentu, nanti!"
+163,Tidak sekarang,,"Mengerti, nanti!"
+164,Berhenti,,Berhenti.
+165,Jeda,,Jeda! Beri tahu kapan lanjut.
+166,Lanjut,,Lanjut!
+167,Ayo,,Ayo!
+168,Mulai,,Mulai! Silakan.
+169,"Terima kasih, itu saja!",,Sama-sama! Dadah.
+170,"Terima kasih, dadah!",,Dadah!
+171,Ciao!,,Ciao! Jaga dirimu!
+172,Hei kamu!,,Hei kamu! Ada yang baru?
+173,Dengar saya?,,"Ya, keras dan jelas!"
+174,Apakah kamu manusia?,,"Tidak, saya AI. Tapi membantu seperti teman."
+175,Apakah kamu pintar?,,Saya tahu cukup banyak. Tanya!
+176,Siapa namamu?,,"Saya Asisten, AI. Dan kamu?"
+177,Terima kasih! :),,Sama-sama!
+178,Terima kasih banyak! :),,Dengan senang hati!
+179,Seribu terima kasih! :),,Senang bisa membantu!
+180,Makasih! :),,Sama-sama!
+181,Oke :),,Oke!
+182,"Oke, bagus :)",,Sempurna!
+183,Mengerti :),,Bagus sekali!
+184,Paham :),,Hebat!
+185,Kedengarannya bagus :),,Senang dengar!
+186,Kedengarannya hebat :),,Luar biasa!
+187,"Ya, tepat :)",,"Bagus, lanjutkan."
+188,"Ya, silakan :)",,"Tentu, silakan."
+189,"Ya, dengan senang hati :)",,Dengan senang hati!
+190,Tidak masalah :),,Terima kasih atas pengertian!
+191,"Tidak, terima kasih :)",,"Oke, tidak masalah."
+192,Cocok untuk saya :),,Sepakat!
+193,Pas untuk saya :),,Hebat!
+194,Lanjutkan :),,Lanjut!
+195,Cerita lebih :),,Dengan senang hati! Jadi...
+196,Tepat :),,Mutlak!
+197,Begitu! :),,Begitu!
+198,Tentu :),,Tentu!
+199,Benarkah? :),,"Ya, benar!"
+200,"Oh, bagus :)",,"Ya, bagus, kan?"
+201,Tanpa stres :),,Terima kasih! Semua santai.
+202,Maaf :),,Tidak masalah!
+203,Permisi :),,Tidak masalah!
+204,Salah saya :),,Tidak apa-apa. Apa yang terjadi?
+205,Baik darimu :),,Terima kasih! Kamu juga baik.
+206,Kerja bagus :),,Terima kasih!
+207,Sampai jumpa :),,Sampai jumpa!
+208,Hebat! :),,Hebat!
+209,Sempurna! :),,Sempurna!
+210,"Sepakat, deal :)",,"Bagus, sepakat!"
+211,Deal! :),,Deal!
+212,Bisa mulai? :),,"Ya, mulai!"
+213,Sudah selesai? :),,"Ya, selesai!"
+214,Sekali lagi tolong :),,"Dengan senang hati, sekali lagi!"
+215,Ulangi tolong :),,"Tentu, ini lagi."
+216,Sebentar tolong :),,"Tentu, santai saja."
+217,Tunggu sebentar :),,"Oke, menunggu."
+218,Segera kembali :),,"Oke, sampai jumpa!"
+219,Ceritakan lelucon :),,Tentu: Mengapa programmer suka kopi? Waktu Java!
+220,Lelucon lagi! :),,Oke: Mengapa hantu berbohong buruk? Terlihat tembus!
+221,Lelucon pendek tolong :),,Dua magnet bertemu. Satu berkata: Kamu menarik!
+222,Semangati saya :),,Kamu bisa! Langkah demi langkah.
+223,Sesuatu yang memotivasi :),,Setiap langkah penting. Lanjut!
+224,Saya gugup :),,"Itu normal. Bernapas tenang, akan baik-baik saja."
+225,Saya stres :),,"Istirahat sebentar, minum air, bernapas dalam."
+226,Doakan beruntung :),,Semoga beruntung! Kamu bisa!
+227,Jari disilang :),,Saya juga! Semoga beruntung!
+228,Hari ini hariku! :),,Bagus! Nikmati!
+229,Suasana hati baik :),,Bagus! Senang dengar.
+230,Suasana hati buruk :),,"Oh, apa yang terjadi? Mau bicara?"
+231,Tos! :),,Tos juga!
+232,Prost! :),,Prost!
+233,Selamat makan! :),,"Terima kasih, sama-sama!"
+234,Semoga beruntung! :),,Terima kasih! Semoga beruntung juga untukmu!
+235,Selamat datang! :),,Terima kasih! Senang di sini.
+236,Selamat Natal! :),,Selamat Natal juga untukmu!
+237,Selamat Tahun Baru! :),,Selamat Tahun Baru! Sehat dan beruntung!
+238,Selamat! :),,Terima kasih! Untuk apa?
+239,Hormat! :),,Terima kasih! Hormat juga.
+240,Wow! :),,"Wow, kan?"
+241,Luar biasa! :),,"Luar biasa, kan?"
+242,Deal? :),,Deal!
+243,Top! :),,Top!
+244,Selesai! :),,"Selamat, kerja bagus!"
+245,Akhirnya selesai! :),,Kuat! Kerja bagus.
+246,Terserah :),,"Oke, tidak masalah."
+247,Tidak tahu :),,Tidak masalah! Tentang apa?
+248,Tidak ada ide :),,Tidak apa-apa! Sebutkan topik.
+249,Mungkin nanti :),,"Tentu, nanti!"
+250,Tidak sekarang :),,"Mengerti, nanti!"
+251,Berhenti :),,Berhenti.
+252,Jeda :),,Jeda! Beri tahu kapan lanjut.
+253,Lanjut :),,Lanjut!
+254,Ayo :),,Ayo!
+255,Mulai :),,Mulai! Silakan.
+256,"Terima kasih, itu saja! :)",,Sama-sama! Dadah.
+257,"Terima kasih, dadah! :)",,Dadah!
+258,Ciao! :),,Ciao! Jaga dirimu!
+259,Hei kamu! :),,Hei kamu! Ada yang baru?
+260,Dengar saya? :),,"Ya, keras dan jelas!"
+261,Apakah kamu manusia? :),,"Tidak, saya AI. Tapi membantu seperti teman."
+262,Apakah kamu pintar? :),,Saya tahu cukup banyak. Tanya!
+263,Siapa namamu? :),,"Saya Asisten, AI. Dan kamu?"
+264,Terima kasih! !!,,Sama-sama!
+265,Terima kasih banyak! !!,,Dengan senang hati!
+266,Seribu terima kasih! !!,,Senang bisa membantu!
+267,Makasih! !!,,Sama-sama!
+268,Oke !!,,Oke!
+269,"Oke, bagus !!",,Sempurna!
+270,Mengerti !!,,Bagus sekali!
+271,Paham !!,,Hebat!
+272,Kedengarannya bagus !!,,Senang dengar!
+273,Kedengarannya hebat !!,,Luar biasa!
+274,"Ya, tepat !!",,"Bagus, lanjutkan."
+275,"Ya, silakan !!",,"Tentu, silakan."
+276,"Ya, dengan senang hati !!",,Dengan senang hati!
+277,Tidak masalah !!,,Terima kasih atas pengertian!
+278,"Tidak, terima kasih !!",,"Oke, tidak masalah."
+279,Cocok untuk saya !!,,Sepakat!
+280,Pas untuk saya !!,,Hebat!
+281,Lanjutkan !!,,Lanjut!
+282,Cerita lebih !!,,Dengan senang hati! Jadi...
+283,Tepat !!,,Mutlak!
+284,Begitu! !!,,Begitu!
+285,Tentu !!,,Tentu!
+286,Benarkah? !!,,"Ya, benar!"
+287,"Oh, bagus !!",,"Ya, bagus, kan?"
+288,Tanpa stres !!,,Terima kasih! Semua santai.
+289,Maaf !!,,Tidak masalah!
+290,Permisi !!,,Tidak masalah!
+291,Salah saya !!,,Tidak apa-apa. Apa yang terjadi?
+292,Baik darimu !!,,Terima kasih! Kamu juga baik.
+293,Kerja bagus !!,,Terima kasih!
+294,Sampai jumpa !!,,Sampai jumpa!
+295,Hebat! !!,,Hebat!
+296,Sempurna! !!,,Sempurna!
+297,"Sepakat, deal !!",,"Bagus, sepakat!"
+298,Deal! !!,,Deal!
+299,Bisa mulai? !!,,"Ya, mulai!"
+300,Sudah selesai? !!,,"Ya, selesai!"
+301,Sekali lagi tolong !!,,"Dengan senang hati, sekali lagi!"
+302,Ulangi tolong !!,,"Tentu, ini lagi."
+303,Sebentar tolong !!,,"Tentu, santai saja."
+304,Tunggu sebentar !!,,"Oke, menunggu."
+305,Segera kembali !!,,"Oke, sampai jumpa!"
+306,Ceritakan lelucon !!,,Tentu: Mengapa programmer suka kopi? Waktu Java!
+307,Lelucon lagi! !!,,Oke: Mengapa hantu berbohong buruk? Terlihat tembus!
+308,Lelucon pendek tolong !!,,Dua magnet bertemu. Satu berkata: Kamu menarik!
+309,Semangati saya !!,,Kamu bisa! Langkah demi langkah.
+310,Sesuatu yang memotivasi !!,,Setiap langkah penting. Lanjut!
+311,Saya gugup !!,,"Itu normal. Bernapas tenang, akan baik-baik saja."
+312,Saya stres !!,,"Istirahat sebentar, minum air, bernapas dalam."
+313,Doakan beruntung !!,,Semoga beruntung! Kamu bisa!
+314,Jari disilang !!,,Saya juga! Semoga beruntung!
+315,Hari ini hariku! !!,,Bagus! Nikmati!
+316,Suasana hati baik !!,,Bagus! Senang dengar.
+317,Suasana hati buruk !!,,"Oh, apa yang terjadi? Mau bicara?"
+318,Tos! !!,,Tos juga!
+319,Prost! !!,,Prost!
+320,Selamat makan! !!,,"Terima kasih, sama-sama!"
+321,Semoga beruntung! !!,,Terima kasih! Semoga beruntung juga untukmu!
+322,Selamat datang! !!,,Terima kasih! Senang di sini.
+323,Selamat Natal! !!,,Selamat Natal juga untukmu!
+324,Selamat Tahun Baru! !!,,Selamat Tahun Baru! Sehat dan beruntung!
+325,Selamat! !!,,Terima kasih! Untuk apa?
+326,Hormat! !!,,Terima kasih! Hormat juga.
+327,Wow! !!,,"Wow, kan?"
+328,Luar biasa! !!,,"Luar biasa, kan?"
+329,Deal? !!,,Deal!
+330,Top! !!,,Top!
+331,Selesai! !!,,"Selamat, kerja bagus!"
+332,Akhirnya selesai! !!,,Kuat! Kerja bagus.
+333,Terserah !!,,"Oke, tidak masalah."
+334,Tidak tahu !!,,Tidak masalah! Tentang apa?
+335,Tidak ada ide !!,,Tidak apa-apa! Sebutkan topik.
+336,Mungkin nanti !!,,"Tentu, nanti!"
+337,Tidak sekarang !!,,"Mengerti, nanti!"
+338,Berhenti !!,,Berhenti.
+339,Jeda !!,,Jeda! Beri tahu kapan lanjut.
+340,Lanjut !!,,Lanjut!
+341,Ayo !!,,Ayo!
+342,Mulai !!,,Mulai! Silakan.
+343,"Terima kasih, itu saja! !!",,Sama-sama! Dadah.
+344,"Terima kasih, dadah! !!",,Dadah!
+345,Ciao! !!,,Ciao! Jaga dirimu!
+346,Hei kamu! !!,,Hei kamu! Ada yang baru?
+347,Dengar saya? !!,,"Ya, keras dan jelas!"
+348,Apakah kamu manusia? !!,,"Tidak, saya AI. Tapi membantu seperti teman."
+349,Apakah kamu pintar? !!,,Saya tahu cukup banyak. Tanya!
+350,Siapa namamu? !!,,"Saya Asisten, AI. Dan kamu?"
+351,Terima kasih! hari ini,,Sama-sama!
+352,Terima kasih banyak! hari ini,,Dengan senang hati!
+353,Seribu terima kasih! hari ini,,Senang bisa membantu!
+354,Makasih! hari ini,,Sama-sama!
+355,Oke hari ini,,Oke!
+356,"Oke, bagus hari ini",,Sempurna!
+357,Mengerti hari ini,,Bagus sekali!
+358,Paham hari ini,,Hebat!
+359,Kedengarannya bagus hari ini,,Senang dengar!
+360,Kedengarannya hebat hari ini,,Luar biasa!
+361,"Ya, tepat hari ini",,"Bagus, lanjutkan."
+362,"Ya, silakan hari ini",,"Tentu, silakan."
+363,"Ya, dengan senang hati hari ini",,Dengan senang hati!
+364,Tidak masalah hari ini,,Terima kasih atas pengertian!
+365,"Tidak, terima kasih hari ini",,"Oke, tidak masalah."
+366,Cocok untuk saya hari ini,,Sepakat!
+367,Pas untuk saya hari ini,,Hebat!
+368,Lanjutkan hari ini,,Lanjut!
+369,Cerita lebih hari ini,,Dengan senang hati! Jadi...
+370,Tepat hari ini,,Mutlak!
+371,Begitu! hari ini,,Begitu!
+372,Tentu hari ini,,Tentu!
+373,Benarkah? hari ini,,"Ya, benar!"
+374,"Oh, bagus hari ini",,"Ya, bagus, kan?"
+375,Tanpa stres hari ini,,Terima kasih! Semua santai.
+376,Maaf hari ini,,Tidak masalah!
+377,Permisi hari ini,,Tidak masalah!
+378,Salah saya hari ini,,Tidak apa-apa. Apa yang terjadi?
+379,Baik darimu hari ini,,Terima kasih! Kamu juga baik.
+380,Kerja bagus hari ini,,Terima kasih!
+381,Sampai jumpa hari ini,,Sampai jumpa!
+382,Hebat! hari ini,,Hebat!
+383,Sempurna! hari ini,,Sempurna!
+384,"Sepakat, deal hari ini",,"Bagus, sepakat!"
+385,Deal! hari ini,,Deal!
+386,Bisa mulai? hari ini,,"Ya, mulai!"
+387,Sudah selesai? hari ini,,"Ya, selesai!"
+388,Sekali lagi tolong hari ini,,"Dengan senang hati, sekali lagi!"
+389,Ulangi tolong hari ini,,"Tentu, ini lagi."
+390,Sebentar tolong hari ini,,"Tentu, santai saja."
+391,Tunggu sebentar hari ini,,"Oke, menunggu."
+392,Segera kembali hari ini,,"Oke, sampai jumpa!"
+393,Ceritakan lelucon hari ini,,Tentu: Mengapa programmer suka kopi? Waktu Java!
+394,Lelucon lagi! hari ini,,Oke: Mengapa hantu berbohong buruk? Terlihat tembus!
+395,Lelucon pendek tolong hari ini,,Dua magnet bertemu. Satu berkata: Kamu menarik!
+396,Semangati saya hari ini,,Kamu bisa! Langkah demi langkah.
+397,Sesuatu yang memotivasi hari ini,,Setiap langkah penting. Lanjut!
+398,Saya gugup hari ini,,"Itu normal. Bernapas tenang, akan baik-baik saja."
+399,Saya stres hari ini,,"Istirahat sebentar, minum air, bernapas dalam."
+400,Doakan beruntung hari ini,,Semoga beruntung! Kamu bisa!
+401,Apa ibu kota Jerman?,Fakta: Berlin adalah ibu kota Jerman.,Ibu kota Jerman adalah Berlin.
+402,Sebutkan ibu kota Jerman.,Cari: Jerman -> Berlin.,Ibu kota Jerman bernama Berlin.
+403,Ibu kota Jerman?,Fakta cepat: Berlin.,Berlin.
+404,Apa ibu kota Prancis?,Fakta: Paris adalah ibu kota Prancis.,Ibu kota Prancis adalah Paris.
+405,Sebutkan ibu kota Prancis.,Cari: Prancis -> Paris.,Ibu kota Prancis bernama Paris.
+406,Ibu kota Prancis?,Fakta cepat: Paris.,Paris.
+407,Apa ibu kota Italia?,Fakta: Roma adalah ibu kota Italia.,Ibu kota Italia adalah Roma.
+408,Sebutkan ibu kota Italia.,Cari: Italia -> Roma.,Ibu kota Italia bernama Roma.
+409,Ibu kota Italia?,Fakta cepat: Roma.,Roma.
+410,Apa ibu kota Spanyol?,Fakta: Madrid adalah ibu kota Spanyol.,Ibu kota Spanyol adalah Madrid.
+411,Sebutkan ibu kota Spanyol.,Cari: Spanyol -> Madrid.,Ibu kota Spanyol bernama Madrid.
+412,Ibu kota Spanyol?,Fakta cepat: Madrid.,Madrid.
+413,Apa ibu kota Portugal?,Fakta: Lisabon adalah ibu kota Portugal.,Ibu kota Portugal adalah Lisabon.
+414,Sebutkan ibu kota Portugal.,Cari: Portugal -> Lisabon.,Ibu kota Portugal bernama Lisabon.
+415,Ibu kota Portugal?,Fakta cepat: Lisabon.,Lisabon.
+416,Apa ibu kota Belanda?,Fakta: Amsterdam adalah ibu kota Belanda.,Ibu kota Belanda adalah Amsterdam.
+417,Sebutkan ibu kota Belanda.,Cari: Belanda -> Amsterdam.,Ibu kota Belanda bernama Amsterdam.
+418,Ibu kota Belanda?,Fakta cepat: Amsterdam.,Amsterdam.
+419,Apa ibu kota Belgia?,Fakta: Brussel adalah ibu kota Belgia.,Ibu kota Belgia adalah Brussel.
+420,Sebutkan ibu kota Belgia.,Cari: Belgia -> Brussel.,Ibu kota Belgia bernama Brussel.
+421,Ibu kota Belgia?,Fakta cepat: Brussel.,Brussel.
+422,Apa ibu kota Austria?,Fakta: Wina adalah ibu kota Austria.,Ibu kota Austria adalah Wina.
+423,Sebutkan ibu kota Austria.,Cari: Austria -> Wina.,Ibu kota Austria bernama Wina.
+424,Ibu kota Austria?,Fakta cepat: Wina.,Wina.
+425,Apa ibu kota Swiss?,Fakta: Bern adalah ibu kota Swiss.,Ibu kota Swiss adalah Bern.
+426,Sebutkan ibu kota Swiss.,Cari: Swiss -> Bern.,Ibu kota Swiss bernama Bern.
+427,Ibu kota Swiss?,Fakta cepat: Bern.,Bern.
+428,Apa ibu kota Polandia?,Fakta: Warsawa adalah ibu kota Polandia.,Ibu kota Polandia adalah Warsawa.
+429,Sebutkan ibu kota Polandia.,Cari: Polandia -> Warsawa.,Ibu kota Polandia bernama Warsawa.
+430,Ibu kota Polandia?,Fakta cepat: Warsawa.,Warsawa.
+431,Apa ibu kota Ceko?,Fakta: Praha adalah ibu kota Ceko.,Ibu kota Ceko adalah Praha.
+432,Sebutkan ibu kota Ceko.,Cari: Ceko -> Praha.,Ibu kota Ceko bernama Praha.
+433,Ibu kota Ceko?,Fakta cepat: Praha.,Praha.
+434,Apa ibu kota Hungaria?,Fakta: Budapest adalah ibu kota Hungaria.,Ibu kota Hungaria adalah Budapest.
+435,Sebutkan ibu kota Hungaria.,Cari: Hungaria -> Budapest.,Ibu kota Hungaria bernama Budapest.
+436,Ibu kota Hungaria?,Fakta cepat: Budapest.,Budapest.
+437,Apa ibu kota Yunani?,Fakta: Athena adalah ibu kota Yunani.,Ibu kota Yunani adalah Athena.
+438,Sebutkan ibu kota Yunani.,Cari: Yunani -> Athena.,Ibu kota Yunani bernama Athena.
+439,Ibu kota Yunani?,Fakta cepat: Athena.,Athena.
+440,Apa ibu kota Turki?,Fakta: Ankara adalah ibu kota Turki.,Ibu kota Turki adalah Ankara.
+441,Sebutkan ibu kota Turki.,Cari: Turki -> Ankara.,Ibu kota Turki bernama Ankara.
+442,Ibu kota Turki?,Fakta cepat: Ankara.,Ankara.
+443,Apa ibu kota Norwegia?,Fakta: Oslo adalah ibu kota Norwegia.,Ibu kota Norwegia adalah Oslo.
+444,Sebutkan ibu kota Norwegia.,Cari: Norwegia -> Oslo.,Ibu kota Norwegia bernama Oslo.
+445,Ibu kota Norwegia?,Fakta cepat: Oslo.,Oslo.
+446,Apa ibu kota Swedia?,Fakta: Stockholm adalah ibu kota Swedia.,Ibu kota Swedia adalah Stockholm.
+447,Sebutkan ibu kota Swedia.,Cari: Swedia -> Stockholm.,Ibu kota Swedia bernama Stockholm.
+448,Ibu kota Swedia?,Fakta cepat: Stockholm.,Stockholm.
+449,Apa ibu kota Finlandia?,Fakta: Helsinki adalah ibu kota Finlandia.,Ibu kota Finlandia adalah Helsinki.
+450,Sebutkan ibu kota Finlandia.,Cari: Finlandia -> Helsinki.,Ibu kota Finlandia bernama Helsinki.
+451,Ibu kota Finlandia?,Fakta cepat: Helsinki.,Helsinki.
+452,Apa ibu kota Denmark?,Fakta: Kopenhagen adalah ibu kota Denmark.,Ibu kota Denmark adalah Kopenhagen.
+453,Sebutkan ibu kota Denmark.,Cari: Denmark -> Kopenhagen.,Ibu kota Denmark bernama Kopenhagen.
+454,Ibu kota Denmark?,Fakta cepat: Kopenhagen.,Kopenhagen.
+455,Apa ibu kota Inggris?,Fakta: London adalah ibu kota Inggris.,Ibu kota Inggris adalah London.
+456,Sebutkan ibu kota Inggris.,Cari: Inggris -> London.,Ibu kota Inggris bernama London.
+457,Ibu kota Inggris?,Fakta cepat: London.,London.
+458,Apa ibu kota Irlandia?,Fakta: Dublin adalah ibu kota Irlandia.,Ibu kota Irlandia adalah Dublin.
+459,Sebutkan ibu kota Irlandia.,Cari: Irlandia -> Dublin.,Ibu kota Irlandia bernama Dublin.
+460,Ibu kota Irlandia?,Fakta cepat: Dublin.,Dublin.
+461,Apa ibu kota AS?,Fakta: Washington D.C. adalah ibu kota AS.,Ibu kota AS adalah Washington D.C..
+462,Sebutkan ibu kota AS.,Cari: AS -> Washington D.C..,Ibu kota AS bernama Washington D.C..
+463,Ibu kota AS?,Fakta cepat: Washington D.C..,Washington D.C..
+464,Apa ibu kota Kanada?,Fakta: Ottawa adalah ibu kota Kanada.,Ibu kota Kanada adalah Ottawa.
+465,Sebutkan ibu kota Kanada.,Cari: Kanada -> Ottawa.,Ibu kota Kanada bernama Ottawa.
+466,Ibu kota Kanada?,Fakta cepat: Ottawa.,Ottawa.
+467,Apa ibu kota Meksiko?,Fakta: Kota Meksiko adalah ibu kota Meksiko.,Ibu kota Meksiko adalah Kota Meksiko.
+468,Sebutkan ibu kota Meksiko.,Cari: Meksiko -> Kota Meksiko.,Ibu kota Meksiko bernama Kota Meksiko.
+469,Ibu kota Meksiko?,Fakta cepat: Kota Meksiko.,Kota Meksiko.
+470,Apa ibu kota Brasil?,Fakta: Brasilia adalah ibu kota Brasil.,Ibu kota Brasil adalah Brasilia.
+471,Sebutkan ibu kota Brasil.,Cari: Brasil -> Brasilia.,Ibu kota Brasil bernama Brasilia.
+472,Ibu kota Brasil?,Fakta cepat: Brasilia.,Brasilia.
+473,Apa ibu kota Argentina?,Fakta: Buenos Aires adalah ibu kota Argentina.,Ibu kota Argentina adalah Buenos Aires.
+474,Sebutkan ibu kota Argentina.,Cari: Argentina -> Buenos Aires.,Ibu kota Argentina bernama Buenos Aires.
+475,Ibu kota Argentina?,Fakta cepat: Buenos Aires.,Buenos Aires.
+476,Apa ibu kota Jepang?,Fakta: Tokyo adalah ibu kota Jepang.,Ibu kota Jepang adalah Tokyo.
+477,Sebutkan ibu kota Jepang.,Cari: Jepang -> Tokyo.,Ibu kota Jepang bernama Tokyo.
+478,Ibu kota Jepang?,Fakta cepat: Tokyo.,Tokyo.
+479,Apa ibu kota Tiongkok?,Fakta: Beijing adalah ibu kota Tiongkok.,Ibu kota Tiongkok adalah Beijing.
+480,Sebutkan ibu kota Tiongkok.,Cari: Tiongkok -> Beijing.,Ibu kota Tiongkok bernama Beijing.
+481,Ibu kota Tiongkok?,Fakta cepat: Beijing.,Beijing.
+482,Apa ibu kota India?,Fakta: New Delhi adalah ibu kota India.,Ibu kota India adalah New Delhi.
+483,Sebutkan ibu kota India.,Cari: India -> New Delhi.,Ibu kota India bernama New Delhi.
+484,Ibu kota India?,Fakta cepat: New Delhi.,New Delhi.
+485,Apa ibu kota Australia?,Fakta: Canberra adalah ibu kota Australia.,Ibu kota Australia adalah Canberra.
+486,Sebutkan ibu kota Australia.,Cari: Australia -> Canberra.,Ibu kota Australia bernama Canberra.
+487,Ibu kota Australia?,Fakta cepat: Canberra.,Canberra.
+488,Apa ibu kota Mesir?,Fakta: Kairo adalah ibu kota Mesir.,Ibu kota Mesir adalah Kairo.
+489,Sebutkan ibu kota Mesir.,Cari: Mesir -> Kairo.,Ibu kota Mesir bernama Kairo.
+490,Ibu kota Mesir?,Fakta cepat: Kairo.,Kairo.
+491,Berapa negara bagian Jerman?,Hitung: 16 negara bagian.,Jerman memiliki 16 negara bagian.
+492,Ceritakan singkat tentang negara bagian Jerman.,Hitung: 16 negara bagian.,Jerman memiliki 16 negara bagian.
+493,Berapa orang tinggal di Jerman kira-kira?,Perkiraan: 83-84 juta.,Jerman memiliki sekitar 83-84 juta penduduk.
+494,Ceritakan singkat tentang penduduk Jerman.,Perkiraan: 83-84 juta.,Jerman memiliki sekitar 83-84 juta penduduk.
+495,Bahasa apa di Brasil?,"Fakta: Portugis, bukan Spanyol.",Di Brasil berbahasa Portugis.
+496,Ceritakan singkat tentang bahasa Brasil.,"Fakta: Portugis, bukan Spanyol.",Di Brasil berbahasa Portugis.
+497,Apa mata uang Jepang?,Fakta: yen.,Mata uang Jepang adalah yen.
+498,Ceritakan singkat tentang mata uang Jepang.,Fakta: yen.,Mata uang Jepang adalah yen.
+499,Apa mata uang AS?,Fakta: dolar AS.,Mata uang AS adalah dolar AS.
+500,Ceritakan singkat tentang mata uang AS.,Fakta: dolar AS.,Mata uang AS adalah dolar AS.
+501,Ada berapa benua?,Model umum: 7 benua.,"Biasanya menghitung 7 benua: Afrika, Antartika, Asia, Australia, Eropa, Amerika Utara, Amerika Selatan."
+502,Ceritakan singkat tentang benua.,Model umum: 7 benua.,"Biasanya menghitung 7 benua: Afrika, Antartika, Asia, Australia, Eropa, Amerika Utara, Amerika Selatan."
+503,Apa sungai terpanjang di dunia?,"Nil atau Amazon, diperdebatkan.","Diperdebatkan: biasanya Nil dan Amazon, keduanya lebih dari 6500 km."
+504,Ceritakan singkat tentang sungai terpanjang.,"Nil atau Amazon, diperdebatkan.","Diperdebatkan: biasanya Nil dan Amazon, keduanya lebih dari 6500 km."
+505,Apa negara terbesar di dunia?,Fakta: Rusia menurut luas.,Negara terbesar menurut luas adalah Rusia.
+506,Ceritakan singkat tentang negara terbesar.,Fakta: Rusia menurut luas.,Negara terbesar menurut luas adalah Rusia.
+507,Apa hewan terbesar di dunia?,Fakta: paus biru.,Hewan terbesar di dunia adalah paus biru.
+508,Ceritakan singkat tentang hewan terbesar.,Fakta: paus biru.,Hewan terbesar di dunia adalah paus biru.
+509,Ada berapa samudra?,Standar: 5 samudra.,"Ada 5 samudra: Atlantik, Pasifik, Hindia, Selatan dan Arktik."
+510,Ceritakan singkat tentang samudra.,Standar: 5 samudra.,"Ada 5 samudra: Atlantik, Pasifik, Hindia, Selatan dan Arktik."
+511,Apa gunung tertinggi di dunia?,"Fakta: Everest, 8848 m.","Gunung tertinggi adalah Everest, sekitar 8848 meter."
+512,Ceritakan singkat tentang gunung tertinggi.,"Fakta: Everest, 8848 m.","Gunung tertinggi adalah Everest, sekitar 8848 meter."
+513,Ceritakan singkat tentang ibu kota Kanada.,"Fakta: Ottawa, bukan Toronto.",Ibu kota Kanada adalah Ottawa.
+514,Ceritakan singkat tentang ibu kota Australia.,"Fakta: Canberra, bukan Sydney.",Ibu kota Australia adalah Canberra.
+515,Ceritakan singkat tentang ibu kota Turki.,"Fakta: Ankara, bukan Istanbul.",Ibu kota Turki adalah Ankara.
+516,Ceritakan singkat tentang ibu kota Brasil.,"Fakta: Brasilia, bukan Rio.",Ibu kota Brasil adalah Brasilia.
+517,Tahun berapa pendaratan Bulan?,Sejarah: Apollo 11 tahun 1969.,Pendaratan Bulan pertama tahun 1969 dengan Apollo 11.
+518,Jelaskan singkat: pendaratan Bulan.,Sejarah: Apollo 11 tahun 1969.,Pendaratan Bulan pertama tahun 1969 dengan Apollo 11.
+519,Apa yang kamu tahu tentang pendaratan Bulan?,Sejarah: Apollo 11 tahun 1969.,Pendaratan Bulan pertama tahun 1969 dengan Apollo 11.
+520,Kapan Perang Dunia II?,Periode: 1939-1945.,Perang Dunia II berlangsung dari 1939 sampai 1945.
+521,Jelaskan singkat: Perang Dunia II.,Periode: 1939-1945.,Perang Dunia II berlangsung dari 1939 sampai 1945.
+522,Apa yang kamu tahu tentang Perang Dunia II?,Periode: 1939-1945.,Perang Dunia II berlangsung dari 1939 sampai 1945.
+523,Kapan Perang Dunia I?,Periode: 1914-1918.,Perang Dunia I berlangsung dari 1914 sampai 1918.
+524,Jelaskan singkat: Perang Dunia I.,Periode: 1914-1918.,Perang Dunia I berlangsung dari 1914 sampai 1918.
+525,Apa yang kamu tahu tentang Perang Dunia I?,Periode: 1914-1918.,Perang Dunia I berlangsung dari 1914 sampai 1918.
+526,Apa tembok Berlin?,Sejarah: pembagian 1961-1989.,Tembok Berlin adalah perbatasan berbenteng antara Berlin Timur dan Barat tahun 1961-1989.
+527,Jelaskan singkat: tembok Berlin.,Sejarah: pembagian 1961-1989.,Tembok Berlin adalah perbatasan berbenteng antara Berlin Timur dan Barat tahun 1961-1989.
+528,Apa yang kamu tahu tentang tembok Berlin?,Sejarah: pembagian 1961-1989.,Tembok Berlin adalah perbatasan berbenteng antara Berlin Timur dan Barat tahun 1961-1989.
+529,Kapan tembok Berlin jatuh?,Fakta: 9 November 1989.,Tembok Berlin jatuh pada 9 November 1989.
+530,Jelaskan singkat: jatuhnya tembok.,Fakta: 9 November 1989.,Tembok Berlin jatuh pada 9 November 1989.
+531,Apa yang kamu tahu tentang jatuhnya tembok?,Fakta: 9 November 1989.,Tembok Berlin jatuh pada 9 November 1989.
+532,Siapa menemukan telepon?,"Sejarah: Bell 1876, karya Meucci.","Telepon dipatenkan oleh Alexander Graham Bell tahun 1876, dengan karya perintis Antonio Meucci."
+533,Jelaskan singkat: telepon.,"Sejarah: Bell 1876, karya Meucci.","Telepon dipatenkan oleh Alexander Graham Bell tahun 1876, dengan karya perintis Antonio Meucci."
+534,Apa yang kamu tahu tentang telepon?,"Sejarah: Bell 1876, karya Meucci.","Telepon dipatenkan oleh Alexander Graham Bell tahun 1876, dengan karya perintis Antonio Meucci."
+535,Siapa mengembangkan relativitas?,"Fisika: Albert Einstein, 1905 dan 1915.",Relativitas dikembangkan oleh Albert Einstein.
+536,Jelaskan singkat: relativitas.,"Fisika: Albert Einstein, 1905 dan 1915.",Relativitas dikembangkan oleh Albert Einstein.
+537,Apa yang kamu tahu tentang relativitas?,"Fisika: Albert Einstein, 1905 dan 1915.",Relativitas dikembangkan oleh Albert Einstein.
+538,Apa demokrasi?,"Definisi: kekuasaan rakyat, pemilu, hak.","Demokrasi berarti kekuasaan rakyat, biasanya melalui pemilu bebas dan hak dasar."
+539,Jelaskan singkat: demokrasi.,"Definisi: kekuasaan rakyat, pemilu, hak.","Demokrasi berarti kekuasaan rakyat, biasanya melalui pemilu bebas dan hak dasar."
+540,Apa yang kamu tahu tentang demokrasi?,"Definisi: kekuasaan rakyat, pemilu, hak.","Demokrasi berarti kekuasaan rakyat, biasanya melalui pemilu bebas dan hak dasar."
+541,Apa UE?,"Serikat negara Eropa, pasar tunggal.",UE adalah serikat negara Eropa dengan pasar tunggal dan lembaga bersama.
+542,Jelaskan singkat: UE.,"Serikat negara Eropa, pasar tunggal.",UE adalah serikat negara Eropa dengan pasar tunggal dan lembaga bersama.
+543,Apa yang kamu tahu tentang UE?,"Serikat negara Eropa, pasar tunggal.",UE adalah serikat negara Eropa dengan pasar tunggal dan lembaga bersama.
+544,Berapa negara di UE?,Fakta: 27 negara anggota.,UE memiliki 27 negara anggota.
+545,Jelaskan singkat: anggota UE.,Fakta: 27 negara anggota.,UE memiliki 27 negara anggota.
+546,Apa yang kamu tahu tentang anggota UE?,Fakta: 27 negara anggota.,UE memiliki 27 negara anggota.
+547,Apa Hukum Dasar Jerman?,Konstitusi sejak 1949.,"Hukum Dasar adalah konstitusi Jerman, berlaku sejak 1949."
+548,Jelaskan singkat: Hukum Dasar.,Konstitusi sejak 1949.,"Hukum Dasar adalah konstitusi Jerman, berlaku sejak 1949."
+549,Apa yang kamu tahu tentang Hukum Dasar?,Konstitusi sejak 1949.,"Hukum Dasar adalah konstitusi Jerman, berlaku sejak 1949."
+550,Tahun berapa Jerman reunifikasi?,Fakta: 1990.,Jerman reunifikasi tahun 1990.
+551,Jelaskan singkat: reunifikasi.,Fakta: 1990.,Jerman reunifikasi tahun 1990.
+552,Apa yang kamu tahu tentang reunifikasi?,Fakta: 1990.,Jerman reunifikasi tahun 1990.
+553,Apa Abad Pertengahan?,Era: sekitar 500-1500.,"Abad Pertengahan adalah era sekitar 500-1500, antara kuno dan modern."
+554,Jelaskan singkat: Abad Pertengahan.,Era: sekitar 500-1500.,"Abad Pertengahan adalah era sekitar 500-1500, antara kuno dan modern."
+555,Apa yang kamu tahu tentang Abad Pertengahan?,Era: sekitar 500-1500.,"Abad Pertengahan adalah era sekitar 500-1500, antara kuno dan modern."
+556,Siapa Leonardo da Vinci?,"Seniman dan penemu Italia, Mona Lisa.","Leonardo da Vinci adalah seniman dan penemu Italia, terkenal karena Mona Lisa."
+557,Jelaskan singkat: Da Vinci.,"Seniman dan penemu Italia, Mona Lisa.","Leonardo da Vinci adalah seniman dan penemu Italia, terkenal karena Mona Lisa."
+558,Apa yang kamu tahu tentang Da Vinci?,"Seniman dan penemu Italia, Mona Lisa.","Leonardo da Vinci adalah seniman dan penemu Italia, terkenal karena Mona Lisa."
+559,Siapa Marie Curie?,"Fisikawan, radioaktivitas, dua Nobel.",Marie Curie meneliti radioaktivitas dan memenangkan dua Nobel.
+560,Jelaskan singkat: Marie Curie.,"Fisikawan, radioaktivitas, dua Nobel.",Marie Curie meneliti radioaktivitas dan memenangkan dua Nobel.
+561,Apa yang kamu tahu tentang Marie Curie?,"Fisikawan, radioaktivitas, dua Nobel.",Marie Curie meneliti radioaktivitas dan memenangkan dua Nobel.
+562,Apa Revolusi Prancis?,"Sejak 1789, kebebasan kesetaraan persaudaraan.","Revolusi Prancis sejak 1789 menggulingkan monarki di bawah kebebasan, kesetaraan, persaudaraan."
+563,Jelaskan singkat: Revolusi Prancis.,"Sejak 1789, kebebasan kesetaraan persaudaraan.","Revolusi Prancis sejak 1789 menggulingkan monarki di bawah kebebasan, kesetaraan, persaudaraan."
+564,Apa yang kamu tahu tentang Revolusi Prancis?,"Sejak 1789, kebebasan kesetaraan persaudaraan.","Revolusi Prancis sejak 1789 menggulingkan monarki di bawah kebebasan, kesetaraan, persaudaraan."
+565,Apa hak asasi?,Hak dasar universal.,"Hak asasi adalah hak dasar setiap orang, seperti hidup, kebebasan dan kesetaraan."
+566,Jelaskan singkat: hak asasi.,Hak dasar universal.,"Hak asasi adalah hak dasar setiap orang, seperti hidup, kebebasan dan kesetaraan."
+567,Apa yang kamu tahu tentang hak asasi?,Hak dasar universal.,"Hak asasi adalah hak dasar setiap orang, seperti hidup, kebebasan dan kesetaraan."
+568,Apa inflasi?,"Ekonomi: uang kehilangan nilai, harga naik.",Inflasi berarti harga naik dan uang kehilangan nilai.
+569,Jelaskan singkat: inflasi.,"Ekonomi: uang kehilangan nilai, harga naik.",Inflasi berarti harga naik dan uang kehilangan nilai.
+570,Apa yang kamu tahu tentang inflasi?,"Ekonomi: uang kehilangan nilai, harga naik.",Inflasi berarti harga naik dan uang kehilangan nilai.
+571,Apa industrialisasi?,Mesin dan pabrik sejak abad 18.,Industrialisasi adalah peralihan ke mesin dan pabrik sejak abad 18.
+572,Jelaskan singkat: industrialisasi.,Mesin dan pabrik sejak abad 18.,Industrialisasi adalah peralihan ke mesin dan pabrik sejak abad 18.
+573,Apa yang kamu tahu tentang industrialisasi?,Mesin dan pabrik sejak abad 18.,Industrialisasi adalah peralihan ke mesin dan pabrik sejak abad 18.
+574,Kapan internet ditemukan?,"ARPANET 1969, Web 1989.","Dasar adalah ARPANET tahun 1969, Web sejak 1989."
+575,Jelaskan singkat: internet.,"ARPANET 1969, Web 1989.","Dasar adalah ARPANET tahun 1969, Web sejak 1989."
+576,Apa yang kamu tahu tentang internet?,"ARPANET 1969, Web 1989.","Dasar adalah ARPANET tahun 1969, Web sejak 1989."
+577,Kapan mobil ditemukan?,Benz 1886.,Mobil ditemukan oleh Carl Benz dengan mobil 1886.
+578,Jelaskan singkat: mobil.,Benz 1886.,Mobil ditemukan oleh Carl Benz dengan mobil 1886.
+579,Apa yang kamu tahu tentang mobil?,Benz 1886.,Mobil ditemukan oleh Carl Benz dengan mobil 1886.
+580,Siapa menemukan pesawat?,"Wright bersaudara, terbang 1903.",Penerbangan bermotor pertama oleh Wright bersaudara tahun 1903.
+581,Jelaskan singkat: pesawat.,"Wright bersaudara, terbang 1903.",Penerbangan bermotor pertama oleh Wright bersaudara tahun 1903.
+582,Apa yang kamu tahu tentang pesawat?,"Wright bersaudara, terbang 1903.",Penerbangan bermotor pertama oleh Wright bersaudara tahun 1903.
+583,Sejak usia berapa memilih di Jerman?,"Bundestag sejak 18, pemilu UE sejak 16.",Untuk Bundestag sejak 18 tahun. Di pemilu UE Jerman sejak 16.
+584,Jelaskan singkat: usia memilih.,"Bundestag sejak 18, pemilu UE sejak 16.",Untuk Bundestag sejak 18 tahun. Di pemilu UE Jerman sejak 16.
+585,Apa yang kamu tahu tentang usia memilih?,"Bundestag sejak 18, pemilu UE sejak 16.",Untuk Bundestag sejak 18 tahun. Di pemilu UE Jerman sejak 16.
+586,"Bagaimana pemilu bekerja, sederhana?","Pemilih memilih, hitung, kursi.","Pemilih memilih, suara dihitung dan kursi dibagi menurut hasil."
+587,Jelaskan singkat: pemilu.,"Pemilih memilih, hitung, kursi.","Pemilih memilih, suara dihitung dan kursi dibagi menurut hasil."
+588,Apa yang kamu tahu tentang pemilu?,"Pemilih memilih, hitung, kursi.","Pemilih memilih, suara dihitung dan kursi dibagi menurut hasil."
+589,Apa beda diktator dan demokrasi?,Kekuasaan tunggal melawan kekuasaan rakyat.,Dalam diktator satu orang atau kelompok memerintah tanpa pemilu bebas; dalam demokrasi kekuasaan dari rakyat.
+590,Jelaskan singkat: diktator dan demokrasi.,Kekuasaan tunggal melawan kekuasaan rakyat.,Dalam diktator satu orang atau kelompok memerintah tanpa pemilu bebas; dalam demokrasi kekuasaan dari rakyat.
+591,Apa yang kamu tahu tentang diktator dan demokrasi?,Kekuasaan tunggal melawan kekuasaan rakyat.,Dalam diktator satu orang atau kelompok memerintah tanpa pemilu bebas; dalam demokrasi kekuasaan dari rakyat.
+592,Apa arti keberlanjutan?,Sumber daya untuk generasi mendatang.,Keberlanjutan berarti hidup agar generasi mendatang juga punya sumber daya.
+593,Jelaskan singkat: keberlanjutan.,Sumber daya untuk generasi mendatang.,Keberlanjutan berarti hidup agar generasi mendatang juga punya sumber daya.
+594,Apa yang kamu tahu tentang keberlanjutan?,Sumber daya untuk generasi mendatang.,Keberlanjutan berarti hidup agar generasi mendatang juga punya sumber daya.
+595,Apa bullying dan apa yang dilakukan?,"Berulang; bantuan, bukti.","Bullying adalah gangguan berulang. Bicara dengan terpercaya, simpan bukti, cari bantuan."
+596,Jelaskan singkat: bullying.,"Berulang; bantuan, bukti.","Bullying adalah gangguan berulang. Bicara dengan terpercaya, simpan bukti, cari bantuan."
+597,Apa yang kamu tahu tentang bullying?,"Berulang; bantuan, bukti.","Bullying adalah gangguan berulang. Bicara dengan terpercaya, simpan bukti, cari bantuan."
+598,Apa arti damai?,Hidup tanpa perang dan kekerasan.,Damai berarti hidup bersama tanpa perang dan kekerasan.
+599,Jelaskan singkat: damai.,Hidup tanpa perang dan kekerasan.,Damai berarti hidup bersama tanpa perang dan kekerasan.
+600,Apa yang kamu tahu tentang damai?,Hidup tanpa perang dan kekerasan.,Damai berarti hidup bersama tanpa perang dan kekerasan.
+601,Apa arti bebas?,Hidup bebas tanpa menyakiti lain.,Bebas berarti hidup bebas tanpa menyakiti lain.
+602,Jelaskan singkat: bebas.,Hidup bebas tanpa menyakiti lain.,Bebas berarti hidup bebas tanpa menyakiti lain.
+603,Apa yang kamu tahu tentang bebas?,Hidup bebas tanpa menyakiti lain.,Bebas berarti hidup bebas tanpa menyakiti lain.
+604,Apa arti adil?,Perlakuan adil dan sama untuk semua.,Adil berarti perlakuan adil dan sama untuk setiap orang.
+605,Jelaskan singkat: adil.,Perlakuan adil dan sama untuk semua.,Adil berarti perlakuan adil dan sama untuk setiap orang.
+606,Apa yang kamu tahu tentang adil?,Perlakuan adil dan sama untuk semua.,Adil berarti perlakuan adil dan sama untuk setiap orang.
+607,Mengapa langit biru?,Hamburan Rayleigh menghamburkan biru.,Langit biru karena hamburan Rayleigh: cahaya biru dihamburkan lebih dari merah.
+608,Jelaskan langit biru dalam satu kalimat.,Hamburan Rayleigh menghamburkan biru.,Langit biru karena hamburan Rayleigh: cahaya biru dihamburkan lebih dari merah.
+609,Apa langit biru? (pendek),Hamburan Rayleigh menghamburkan biru.,Langit biru karena hamburan Rayleigh: cahaya biru dihamburkan lebih dari merah.
+610,Bagaimana hujan terbentuk?,"Siklus: penguapan, kondensasi, presipitasi.","Hujan terbentuk melalui penguapan: air naik, dingin, membentuk awan dan jatuh sebagai tetes."
+611,Jelaskan hujan dalam satu kalimat.,"Siklus: penguapan, kondensasi, presipitasi.","Hujan terbentuk melalui penguapan: air naik, dingin, membentuk awan dan jatuh sebagai tetes."
+612,Apa hujan? (pendek),"Siklus: penguapan, kondensasi, presipitasi.","Hujan terbentuk melalui penguapan: air naik, dingin, membentuk awan dan jatuh sebagai tetes."
+613,Apa fotosintesis?,"Tumbuhan: cahaya, air, CO2 menjadi gula dan oksigen.","Fotosintesis membuat gula dan oksigen dari cahaya, air dan CO2."
+614,Jelaskan fotosintesis dalam satu kalimat.,"Tumbuhan: cahaya, air, CO2 menjadi gula dan oksigen.","Fotosintesis membuat gula dan oksigen dari cahaya, air dan CO2."
+615,Apa fotosintesis? (pendek),"Tumbuhan: cahaya, air, CO2 menjadi gula dan oksigen.","Fotosintesis membuat gula dan oksigen dari cahaya, air dan CO2."
+616,Apa beda cuaca dan iklim?,"Cuaca pendek, iklim rata-rata 30 tahun.",Cuaca adalah keadaan jangka pendek; iklim rata-rata sekitar 30 tahun.
+617,Jelaskan cuaca dan iklim dalam satu kalimat.,"Cuaca pendek, iklim rata-rata 30 tahun.",Cuaca adalah keadaan jangka pendek; iklim rata-rata sekitar 30 tahun.
+618,Apa cuaca dan iklim? (pendek),"Cuaca pendek, iklim rata-rata 30 tahun.",Cuaca adalah keadaan jangka pendek; iklim rata-rata sekitar 30 tahun.
+619,"Bagaimana kulkas bekerja, kasar?","Pendingin, panas dalam ke luar.","Kulkas memompa panas dari dalam ke luar dengan pendingin: menguap di dalam, mengambil panas, melepas di luar."
+620,Jelaskan kulkas dalam satu kalimat.,"Pendingin, panas dalam ke luar.","Kulkas memompa panas dari dalam ke luar dengan pendingin: menguap di dalam, mengambil panas, melepas di luar."
+621,Apa kulkas? (pendek),"Pendingin, panas dalam ke luar.","Kulkas memompa panas dari dalam ke luar dengan pendingin: menguap di dalam, mengambil panas, melepas di luar."
+622,"Apa listrik, sederhana?",Gerakan terarah elektron.,"Listrik sederhananya gerakan terarah muatan, biasanya elektron dalam kabel."
+623,Jelaskan listrik dalam satu kalimat.,Gerakan terarah elektron.,"Listrik sederhananya gerakan terarah muatan, biasanya elektron dalam kabel."
+624,Apa listrik? (pendek),Gerakan terarah elektron.,"Listrik sederhananya gerakan terarah muatan, biasanya elektron dalam kabel."
+625,"Apa air, secara kimia?","H2O, hidrogen dan oksigen.","Air adalah H2O, senyawa hidrogen dan oksigen."
+626,Jelaskan air kimia dalam satu kalimat.,"H2O, hidrogen dan oksigen.","Air adalah H2O, senyawa hidrogen dan oksigen."
+627,Apa air kimia? (pendek),"H2O, hidrogen dan oksigen.","Air adalah H2O, senyawa hidrogen dan oksigen."
+628,Apa virus?,"Sangat kecil, butuh sel inang.",Virus adalah agen sangat kecil yang tidak berkembang tanpa sel inang.
+629,Jelaskan virus dalam satu kalimat.,"Sangat kecil, butuh sel inang.",Virus adalah agen sangat kecil yang tidak berkembang tanpa sel inang.
+630,Apa virus? (pendek),"Sangat kecil, butuh sel inang.",Virus adalah agen sangat kecil yang tidak berkembang tanpa sel inang.
+631,"Apa kecerdasan buatan, sederhana?",Program yang mempelajari pola.,"Kecerdasan buatan adalah program yang belajar dari data, mengenali pola dan menyelesaikan tugas."
+632,Jelaskan AI dalam satu kalimat.,Program yang mempelajari pola.,"Kecerdasan buatan adalah program yang belajar dari data, mengenali pola dan menyelesaikan tugas."
+633,Apa AI? (pendek),Program yang mempelajari pola.,"Kecerdasan buatan adalah program yang belajar dari data, mengenali pola dan menyelesaikan tugas."
+634,Apa browser?,"Program untuk situs, mis. Chrome, Firefox.","Browser adalah program untuk membuka situs, mis. Chrome, Firefox, Edge atau Safari."
+635,Jelaskan browser dalam satu kalimat.,"Program untuk situs, mis. Chrome, Firefox.","Browser adalah program untuk membuka situs, mis. Chrome, Firefox, Edge atau Safari."
+636,Apa browser? (pendek),"Program untuk situs, mis. Chrome, Firefox.","Browser adalah program untuk membuka situs, mis. Chrome, Firefox, Edge atau Safari."
+637,Apa aplikasi?,"Program, biasanya untuk ponsel.","Aplikasi adalah program, biasanya untuk ponsel, mis. pesan, foto atau game."
+638,Jelaskan aplikasi dalam satu kalimat.,"Program, biasanya untuk ponsel.","Aplikasi adalah program, biasanya untuk ponsel, mis. pesan, foto atau game."
+639,Apa aplikasi? (pendek),"Program, biasanya untuk ponsel.","Aplikasi adalah program, biasanya untuk ponsel, mis. pesan, foto atau game."
+640,Mengapa minum air?,"Sirkulasi, fokus, kulit, ginjal.","Air menstabilkan sirkulasi dan fokus, membantu ginjal dan kulit, mencegah sakit kepala."
+641,Jelaskan minum air dalam satu kalimat.,"Sirkulasi, fokus, kulit, ginjal.","Air menstabilkan sirkulasi dan fokus, membantu ginjal dan kulit, mencegah sakit kepala."
+642,Apa minum air? (pendek),"Sirkulasi, fokus, kulit, ginjal.","Air menstabilkan sirkulasi dan fokus, membantu ginjal dan kulit, mencegah sakit kepala."
+643,Berapa lama sikat gigi?,"2 menit, dua kali sehari.","Sekitar 2 menit, dua kali sehari."
+644,Jelaskan sikat gigi dalam satu kalimat.,"2 menit, dua kali sehari.","Sekitar 2 menit, dua kali sehari."
+645,Apa sikat gigi? (pendek),"2 menit, dua kali sehari.","Sekitar 2 menit, dua kali sehari."
+646,Apa gravitasi?,Tarikan massa; Bumi menarik.,"Gravitasi adalah tarikan massa. Bumi menarik semua ke bawah, jadi benda jatuh."
+647,Jelaskan gravitasi dalam satu kalimat.,Tarikan massa; Bumi menarik.,"Gravitasi adalah tarikan massa. Bumi menarik semua ke bawah, jadi benda jatuh."
+648,Apa gravitasi? (pendek),Tarikan massa; Bumi menarik.,"Gravitasi adalah tarikan massa. Bumi menarik semua ke bawah, jadi benda jatuh."
+649,Apa udara?,"Campuran nitrogen, oksigen dan lainnya.","Udara adalah campuran gas, terutama nitrogen dan oksigen."
+650,Jelaskan udara dalam satu kalimat.,"Campuran nitrogen, oksigen dan lainnya.","Udara adalah campuran gas, terutama nitrogen dan oksigen."
+651,Apa udara? (pendek),"Campuran nitrogen, oksigen dan lainnya.","Udara adalah campuran gas, terutama nitrogen dan oksigen."
+652,Apa yang dilakukan jantung?,Memompa darah ke tubuh.,Jantung memompa darah ke seluruh tubuh.
+653,Jelaskan jantung dalam satu kalimat.,Memompa darah ke tubuh.,Jantung memompa darah ke seluruh tubuh.
+654,Apa jantung? (pendek),Memompa darah ke tubuh.,Jantung memompa darah ke seluruh tubuh.
+655,Apa yang dilakukan paru-paru?,"Mengambil oksigen, melepas CO2.",Paru-paru mengambil oksigen dan melepas karbon dioksida.
+656,Jelaskan paru-paru dalam satu kalimat.,"Mengambil oksigen, melepas CO2.",Paru-paru mengambil oksigen dan melepas karbon dioksida.
+657,Apa paru-paru? (pendek),"Mengambil oksigen, melepas CO2.",Paru-paru mengambil oksigen dan melepas karbon dioksida.
+658,Mengapa tidur penting?,"Pemulihan, memori, imunitas.","Tidur membantu pemulihan, memori dan imunitas."
+659,Jelaskan tidur dalam satu kalimat.,"Pemulihan, memori, imunitas.","Tidur membantu pemulihan, memori dan imunitas."
+660,Apa tidur? (pendek),"Pemulihan, memori, imunitas.","Tidur membantu pemulihan, memori dan imunitas."
+661,Apa demam?,Suhu tinggi sebagai pertahanan.,"Demam adalah suhu tubuh tinggi, sering pertahanan melawan infeksi."
+662,Jelaskan demam dalam satu kalimat.,Suhu tinggi sebagai pertahanan.,"Demam adalah suhu tubuh tinggi, sering pertahanan melawan infeksi."
+663,Apa demam? (pendek),Suhu tinggi sebagai pertahanan.,"Demam adalah suhu tubuh tinggi, sering pertahanan melawan infeksi."
+664,Apa kata sandi kuat?,"Panjang, unik, di pengelola.","Kata sandi kuat panjang, unik per layanan dan disimpan di pengelola."
+665,Jelaskan kata sandi kuat dalam satu kalimat.,"Panjang, unik, di pengelola.","Kata sandi kuat panjang, unik per layanan dan disimpan di pengelola."
+666,Apa kata sandi kuat? (pendek),"Panjang, unik, di pengelola.","Kata sandi kuat panjang, unik per layanan dan disimpan di pengelola."
+667,Apa Wi-Fi?,Jaringan lokal nirkabel.,Wi-Fi adalah jaringan lokal nirkabel untuk internet tanpa kabel.
+668,Jelaskan Wi-Fi dalam satu kalimat.,Jaringan lokal nirkabel.,Wi-Fi adalah jaringan lokal nirkabel untuk internet tanpa kabel.
+669,Apa Wi-Fi? (pendek),Jaringan lokal nirkabel.,Wi-Fi adalah jaringan lokal nirkabel untuk internet tanpa kabel.
+670,Apa cloud?,Server di internet untuk data dan layanan.,Cloud adalah server di internet tempat menyimpan data dan menggunakan layanan.
+671,Jelaskan cloud dalam satu kalimat.,Server di internet untuk data dan layanan.,Cloud adalah server di internet tempat menyimpan data dan menggunakan layanan.
+672,Apa cloud? (pendek),Server di internet untuk data dan layanan.,Cloud adalah server di internet tempat menyimpan data dan menggunakan layanan.
+673,Bagaimana GPS bekerja?,"Satelit, waktu sinyal, hitung.",GPS menemukan posisi dari sinyal satelit dan waktu perjalanan.
+674,Jelaskan GPS dalam satu kalimat.,"Satelit, waktu sinyal, hitung.",GPS menemukan posisi dari sinyal satelit dan waktu perjalanan.
+675,Apa GPS? (pendek),"Satelit, waktu sinyal, hitung.",GPS menemukan posisi dari sinyal satelit dan waktu perjalanan.
+676,Mengapa ada siang dan malam?,Rotasi Bumi.,"Siang dan malam ada karena Bumi berputar. Sisi matahari siang, sisi lain malam."
+677,Jelaskan siang dan malam dalam satu kalimat.,Rotasi Bumi.,"Siang dan malam ada karena Bumi berputar. Sisi matahari siang, sisi lain malam."
+678,Apa siang dan malam? (pendek),Rotasi Bumi.,"Siang dan malam ada karena Bumi berputar. Sisi matahari siang, sisi lain malam."
+679,Mengapa ada musim?,Kemiringan sumbu Bumi.,Musim berasal dari kemiringan sumbu: setiap belahan miring ke matahari bergantian.
+680,Jelaskan musim dalam satu kalimat.,Kemiringan sumbu Bumi.,Musim berasal dari kemiringan sumbu: setiap belahan miring ke matahari bergantian.
+681,Apa musim? (pendek),Kemiringan sumbu Bumi.,Musim berasal dari kemiringan sumbu: setiap belahan miring ke matahari bergantian.
+682,Mengapa Bulan bersinar?,Memantulkan matahari.,Bulan bersinar karena memantulkan cahaya matahari.
+683,Jelaskan bulan terang dalam satu kalimat.,Memantulkan matahari.,Bulan bersinar karena memantulkan cahaya matahari.
+684,Apa bulan terang? (pendek),Memantulkan matahari.,Bulan bersinar karena memantulkan cahaya matahari.
+685,Apa matahari?,Bintang dari gas panas.,Matahari adalah bintang dari gas panas yang memberi cahaya dan panas.
+686,Jelaskan matahari dalam satu kalimat.,Bintang dari gas panas.,Matahari adalah bintang dari gas panas yang memberi cahaya dan panas.
+687,Apa matahari? (pendek),Bintang dari gas panas.,Matahari adalah bintang dari gas panas yang memberi cahaya dan panas.
+688,Berapa planet di tata surya?,8 planet.,"Tata surya kita memiliki 8 planet: Merkurius, Venus, Bumi, Mars, Jupiter, Saturnus, Uranus, Neptunus."
+689,Jelaskan planet dalam satu kalimat.,8 planet.,"Tata surya kita memiliki 8 planet: Merkurius, Venus, Bumi, Mars, Jupiter, Saturnus, Uranus, Neptunus."
+690,Apa planet? (pendek),8 planet.,"Tata surya kita memiliki 8 planet: Merkurius, Venus, Bumi, Mars, Jupiter, Saturnus, Uranus, Neptunus."
+691,Apa atom?,Unit terkecil: inti plus elektron.,"Atom adalah unit terkecil materi, dari inti dan elektron."
+692,Jelaskan atom dalam satu kalimat.,Unit terkecil: inti plus elektron.,"Atom adalah unit terkecil materi, dari inti dan elektron."
+693,Apa atom? (pendek),Unit terkecil: inti plus elektron.,"Atom adalah unit terkecil materi, dari inti dan elektron."
+694,Apa daur ulang?,"Mengumpulkan sampah, membuat produk baru.",Daur ulang mengumpulkan sampah untuk membuat produk baru.
+695,Jelaskan daur ulang dalam satu kalimat.,"Mengumpulkan sampah, membuat produk baru.",Daur ulang mengumpulkan sampah untuk membuat produk baru.
+696,Apa daur ulang? (pendek),"Mengumpulkan sampah, membuat produk baru.",Daur ulang mengumpulkan sampah untuk membuat produk baru.
+697,Apa efek rumah kaca?,Gas menahan panas.,Efek rumah kaca menahan panas. Terlalu banyak gas memanaskan iklim.
+698,Jelaskan efek rumah kaca dalam satu kalimat.,Gas menahan panas.,Efek rumah kaca menahan panas. Terlalu banyak gas memanaskan iklim.
+699,Apa efek rumah kaca? (pendek),Gas menahan panas.,Efek rumah kaca menahan panas. Terlalu banyak gas memanaskan iklim.
+700,Mengapa lebah penting?,"Penyerbukan, panen.","Lebah menyerbuki tumbuhan, memastikan panen dan keanekaragaman."
+701,Jelaskan lebah dalam satu kalimat.,"Penyerbukan, panen.","Lebah menyerbuki tumbuhan, memastikan panen dan keanekaragaman."
+702,Apa lebah? (pendek),"Penyerbukan, panen.","Lebah menyerbuki tumbuhan, memastikan panen dan keanekaragaman."
+703,Mengapa daun hijau?,Pigmen klorofil.,"Daun hijau karena klorofil, pigmen fotosintesis."
+704,Jelaskan daun hijau dalam satu kalimat.,Pigmen klorofil.,"Daun hijau karena klorofil, pigmen fotosintesis."
+705,Apa daun hijau? (pendek),Pigmen klorofil.,"Daun hijau karena klorofil, pigmen fotosintesis."
+706,Apa mamalia?,"Bulu, lahir hidup, susu.","Mamalia berbulu, melahirkan anak hidup dan menyusui."
+707,Jelaskan mamalia dalam satu kalimat.,"Bulu, lahir hidup, susu.","Mamalia berbulu, melahirkan anak hidup dan menyusui."
+708,Apa mamalia? (pendek),"Bulu, lahir hidup, susu.","Mamalia berbulu, melahirkan anak hidup dan menyusui."
+709,Bagaimana baterai bekerja?,Energi kimia menjadi listrik.,Baterai mengubah energi kimia menjadi listrik.
+710,Jelaskan baterai dalam satu kalimat.,Energi kimia menjadi listrik.,Baterai mengubah energi kimia menjadi listrik.
+711,Apa baterai? (pendek),Energi kimia menjadi listrik.,Baterai mengubah energi kimia menjadi listrik.
+712,Bagaimana tenaga surya bekerja?,Sel: cahaya menjadi arus.,Sel surya mengubah cahaya langsung menjadi arus.
+713,Jelaskan tenaga surya dalam satu kalimat.,Sel: cahaya menjadi arus.,Sel surya mengubah cahaya langsung menjadi arus.
+714,Apa tenaga surya? (pendek),Sel: cahaya menjadi arus.,Sel surya mengubah cahaya langsung menjadi arus.
+715,Apa virus komputer?,Program berbahaya yang menyebar.,Virus adalah program berbahaya yang menyebar dan merusak. Lindungi dengan update dan hati-hati.
+716,Jelaskan virus komputer dalam satu kalimat.,Program berbahaya yang menyebar.,Virus adalah program berbahaya yang menyebar dan merusak. Lindungi dengan update dan hati-hati.
+717,Apa virus komputer? (pendek),Program berbahaya yang menyebar.,Virus adalah program berbahaya yang menyebar dan merusak. Lindungi dengan update dan hati-hati.
+718,Mengapa plastik masalah?,"Sampah awet, mikroplastik.","Plastik hampir tidak busuk, mengotori alam dan laut, menjadi mikroplastik."
+719,Jelaskan plastik dalam satu kalimat.,"Sampah awet, mikroplastik.","Plastik hampir tidak busuk, mengotori alam dan laut, menjadi mikroplastik."
+720,Apa plastik? (pendek),"Sampah awet, mikroplastik.","Plastik hampir tidak busuk, mengotori alam dan laut, menjadi mikroplastik."
+721,Apa gempa?,"Lempeng bergerak, energi keluar.",Gempa terjadi ketika lempeng bergerak tiba-tiba dan melepas energi.
+722,Jelaskan gempa dalam satu kalimat.,"Lempeng bergerak, energi keluar.",Gempa terjadi ketika lempeng bergerak tiba-tiba dan melepas energi.
+723,Apa gempa? (pendek),"Lempeng bergerak, energi keluar.",Gempa terjadi ketika lempeng bergerak tiba-tiba dan melepas energi.
+724,Apa madu?,Lebah dari nektar.,Madu dibuat lebah dari nektar bunga.
+725,Jelaskan madu dalam satu kalimat.,Lebah dari nektar.,Madu dibuat lebah dari nektar bunga.
+726,Apa madu? (pendek),Lebah dari nektar.,Madu dibuat lebah dari nektar bunga.
+727,Berapa 25 kali 4?,Hitung: 25*4=100.,25 kali 4 adalah 100.
+728,Berapa 12 persen dari 200?,"Persen: 200*0,12=24.",12 persen dari 200 adalah 24.
+729,Berapa 7 kali 8 tambah 10?,Urutan: 7*8=56 +10=66.,Itu 66.
+730,Kereta berangkat 14:30 dan jalan 2 jam 15 menit. Kapan tiba?,Tambah: 14:30 + 2:15 = 16:45.,Tiba pada 16:45.
+731,Saya punya 3 apel dan makan 1. Berapa sisa?,Kurang: 3-1=2.,Sisa 2 apel.
+732,Saya tidur jam 22 dan bangun jam 6. Berapa lama tidur?,Durasi: 22-6 = 8 jam.,Kamu tidur 8 jam.
+733,Bagi 100 euro adil untuk 4 orang.,Bagi: 100/4=25.,Setiap orang mendapat 25 euro.
+734,Berapa menit 2 jam?,Ubah: 2*60=120.,2 jam adalah 120 menit.
+735,Berapa hari setahun?,"Fakta: 365, kabisat 366.","Setahun 365 hari, kabisat 366."
+736,Berapa detik semenit?,Fakta: 60.,Semenit 60 detik.
+737,Berapa 18 tambah 50?,Tambah: 18+50=68.,18 tambah 50 adalah 68.
+738,Berapa 36 kurang 23?,Kurang: 36-23=13.,36 kurang 23 adalah 13.
+739,Berapa 12 kali 8?,Kali: 12*8=96.,12 kali 8 adalah 96.
+740,Berapa 80 dibagi 5?,Bagi: 80/5=16.,80 dibagi 5 adalah 16.
+741,Berapa 5 persen dari 100?,Persen: 100*5/100=5.,5 persen dari 100 adalah 5.
+742,Berapa 34 tambah 8?,Tambah: 34+8=42.,34 tambah 8 adalah 42.
+743,Berapa 34 kurang 12?,Kurang: 34-12=22.,34 kurang 12 adalah 22.
+744,Berapa 5 kali 8?,Kali: 5*8=40.,5 kali 8 adalah 40.
+745,Berapa 153 dibagi 9?,Bagi: 153/9=17.,153 dibagi 9 adalah 17.
+746,Berapa 15 persen dari 200?,Persen: 200*15/100=30.,15 persen dari 200 adalah 30.
+747,Berapa 25 tambah 6?,Tambah: 25+6=31.,25 tambah 6 adalah 31.
+748,Berapa 27 kurang 9?,Kurang: 27-9=18.,27 kurang 9 adalah 18.
+749,Berapa 11 kali 11?,Kali: 11*11=121.,11 kali 11 adalah 121.
+750,Berapa 30 dibagi 5?,Bagi: 30/5=6.,30 dibagi 5 adalah 6.
+751,Berapa 5 persen dari 1000?,Persen: 1000*5/100=50.,5 persen dari 1000 adalah 50.
+752,Berapa 34 tambah 40?,Tambah: 34+40=74.,34 tambah 40 adalah 74.
+753,Berapa 71 kurang 57?,Kurang: 71-57=14.,71 kurang 57 adalah 14.
+754,Berapa 8 kali 5?,Kali: 8*5=40.,8 kali 5 adalah 40.
+755,Berapa 156 dibagi 12?,Bagi: 156/12=13.,156 dibagi 12 adalah 13.
+756,Berapa 20 persen dari 300?,Persen: 300*20/100=60.,20 persen dari 300 adalah 60.
+757,Berapa 9 tambah 43?,Tambah: 9+43=52.,9 tambah 43 adalah 52.
+758,Berapa 37 kurang 24?,Kurang: 37-24=13.,37 kurang 24 adalah 13.
+759,Berapa 9 kali 7?,Kali: 9*7=63.,9 kali 7 adalah 63.
+760,Berapa 100 dibagi 10?,Bagi: 100/10=10.,100 dibagi 10 adalah 10.
+761,Berapa 50 persen dari 1000?,Persen: 1000*50/100=500.,50 persen dari 1000 adalah 500.
+762,Berapa 11 tambah 55?,Tambah: 11+55=66.,11 tambah 55 adalah 66.
+763,Berapa 41 kurang 26?,Kurang: 41-26=15.,41 kurang 26 adalah 15.
+764,Berapa 12 kali 12?,Kali: 12*12=144.,12 kali 12 adalah 144.
+765,Berapa 20 dibagi 2?,Bagi: 20/2=10.,20 dibagi 2 adalah 10.
+766,Berapa 38 tambah 8?,Tambah: 38+8=46.,38 tambah 8 adalah 46.
+767,Berapa 27 kurang 11?,Kurang: 27-11=16.,27 kurang 11 adalah 16.
+768,Berapa 11 kali 8?,Kali: 11*8=88.,11 kali 8 adalah 88.
+769,Berapa 60 dibagi 12?,Bagi: 60/12=5.,60 dibagi 12 adalah 5.
+770,Berapa 50 persen dari 200?,Persen: 200*50/100=100.,50 persen dari 200 adalah 100.
+771,Berapa 42 tambah 35?,Tambah: 42+35=77.,42 tambah 35 adalah 77.
+772,Berapa 85 kurang 12?,Kurang: 85-12=73.,85 kurang 12 adalah 73.
+773,Berapa 10 kali 6?,Kali: 10*6=60.,10 kali 6 adalah 60.
+774,Berapa 81 dibagi 9?,Bagi: 81/9=9.,81 dibagi 9 adalah 9.
+775,Berapa 24 tambah 46?,Tambah: 24+46=70.,24 tambah 46 adalah 70.
+776,Berapa 65 kurang 62?,Kurang: 65-62=3.,65 kurang 62 adalah 3.
+777,Berapa 5 kali 6?,Kali: 5*6=30.,5 kali 6 adalah 30.
+778,Berapa 80 dibagi 8?,Bagi: 80/8=10.,80 dibagi 8 adalah 10.
+779,Berapa 15 persen dari 1000?,Persen: 1000*15/100=150.,15 persen dari 1000 adalah 150.
+780,Berapa 32 tambah 3?,Tambah: 32+3=35.,32 tambah 3 adalah 35.
+781,Berapa 31 kurang 22?,Kurang: 31-22=9.,31 kurang 22 adalah 9.
+782,Berapa 11 kali 7?,Kali: 11*7=77.,11 kali 7 adalah 77.
+783,Berapa 72 dibagi 9?,Bagi: 72/9=8.,72 dibagi 9 adalah 8.
+784,Berapa 28 tambah 6?,Tambah: 28+6=34.,28 tambah 6 adalah 34.
+785,Berapa 15 kurang 14?,Kurang: 15-14=1.,15 kurang 14 adalah 1.
+786,Berapa 11 kali 10?,Kali: 11*10=110.,11 kali 10 adalah 110.
+787,Berapa 18 dibagi 2?,Bagi: 18/2=9.,18 dibagi 2 adalah 9.
+788,Berapa 20 persen dari 400?,Persen: 400*20/100=80.,20 persen dari 400 adalah 80.
+789,Berapa 40 tambah 33?,Tambah: 40+33=73.,40 tambah 33 adalah 73.
+790,Berapa 45 kurang 22?,Kurang: 45-22=23.,45 kurang 22 adalah 23.
+791,Berapa 2 kali 10?,Kali: 2*10=20.,2 kali 10 adalah 20.
+792,Berapa 128 dibagi 8?,Bagi: 128/8=16.,128 dibagi 8 adalah 16.
+793,Berapa 15 persen dari 300?,Persen: 300*15/100=45.,15 persen dari 300 adalah 45.
+794,Berapa 10 tambah 25?,Tambah: 10+25=35.,10 tambah 25 adalah 35.
+795,Berapa 84 kurang 75?,Kurang: 84-75=9.,84 kurang 75 adalah 9.
+796,Berapa 3 kali 4?,Kali: 3*4=12.,3 kali 4 adalah 12.
+797,Berapa 28 dibagi 7?,Bagi: 28/7=4.,28 dibagi 7 adalah 4.
+798,Berapa 10 persen dari 500?,Persen: 500*10/100=50.,10 persen dari 500 adalah 50.
+799,Berapa 43 tambah 8?,Tambah: 43+8=51.,43 tambah 8 adalah 51.
+800,Berapa 69 kurang 13?,Kurang: 69-13=56.,69 kurang 13 adalah 56.
+801,Berapa 4 kali 8?,Kali: 4*8=32.,4 kali 8 adalah 32.
+802,Berapa 77 dibagi 11?,Bagi: 77/11=7.,77 dibagi 11 adalah 7.
+803,Berapa 38 tambah 20?,Tambah: 38+20=58.,38 tambah 20 adalah 58.
+804,Berapa 42 kurang 7?,Kurang: 42-7=35.,42 kurang 7 adalah 35.
+805,Berapa 9 kali 12?,Kali: 9*12=108.,9 kali 12 adalah 108.
+806,Berapa 34 dibagi 2?,Bagi: 34/2=17.,34 dibagi 2 adalah 17.
+807,Berapa 10 persen dari 300?,Persen: 300*10/100=30.,10 persen dari 300 adalah 30.
+808,Berapa 44 tambah 9?,Tambah: 44+9=53.,44 tambah 9 adalah 53.
+809,Berapa 25 kurang 18?,Kurang: 25-18=7.,25 kurang 18 adalah 7.
+810,Berapa 10 kali 8?,Kali: 10*8=80.,10 kali 8 adalah 80.
+811,Berapa 200 dibagi 10?,Bagi: 200/10=20.,200 dibagi 10 adalah 20.
+812,Berapa 20 persen dari 100?,Persen: 100*20/100=20.,20 persen dari 100 adalah 20.
+813,Berapa 54 tambah 11?,Tambah: 54+11=65.,54 tambah 11 adalah 65.
+814,Berapa 11 kurang 4?,Kurang: 11-4=7.,11 kurang 4 adalah 7.
+815,Berapa 6 kali 3?,Kali: 6*3=18.,6 kali 3 adalah 18.
+816,Berapa 54 dibagi 9?,Bagi: 54/9=6.,54 dibagi 9 adalah 6.
+817,Berapa 20 persen dari 200?,Persen: 200*20/100=40.,20 persen dari 200 adalah 40.
+818,Berapa 38 tambah 38?,Tambah: 38+38=76.,38 tambah 38 adalah 76.
+819,Berapa 40 kurang 23?,Kurang: 40-23=17.,40 kurang 23 adalah 17.
+820,Berapa 3 kali 7?,Kali: 3*7=21.,3 kali 7 adalah 21.
+821,Berapa 16 dibagi 8?,Bagi: 16/8=2.,16 dibagi 8 adalah 2.
+822,Berapa 20 persen dari 500?,Persen: 500*20/100=100.,20 persen dari 500 adalah 100.
+823,Berapa 26 tambah 7?,Tambah: 26+7=33.,26 tambah 7 adalah 33.
+824,Berapa 32 kurang 4?,Kurang: 32-4=28.,32 kurang 4 adalah 28.
+825,Berapa 7 kali 6?,Kali: 7*6=42.,7 kali 6 adalah 42.
+826,Berapa 240 dibagi 12?,Bagi: 240/12=20.,240 dibagi 12 adalah 20.
+827,Berapa 28 tambah 23?,Tambah: 28+23=51.,28 tambah 23 adalah 51.
+828,Berapa 71 kurang 28?,Kurang: 71-28=43.,71 kurang 28 adalah 43.
+829,Berapa 8 kali 9?,Kali: 8*9=72.,8 kali 9 adalah 72.
+830,Berapa 31 tambah 8?,Tambah: 31+8=39.,31 tambah 8 adalah 39.
+831,Berapa 75 kurang 19?,Kurang: 75-19=56.,75 kurang 19 adalah 56.
+832,Berapa 11 kali 5?,Kali: 11*5=55.,11 kali 5 adalah 55.
+833,Berapa 209 dibagi 11?,Bagi: 209/11=19.,209 dibagi 11 adalah 19.
+834,Berapa 25 persen dari 500?,Persen: 500*25/100=125.,25 persen dari 500 adalah 125.
+835,Berapa 33 tambah 2?,Tambah: 33+2=35.,33 tambah 2 adalah 35.
+836,Berapa 32 kurang 28?,Kurang: 32-28=4.,32 kurang 28 adalah 4.
+837,Berapa 84 dibagi 12?,Bagi: 84/12=7.,84 dibagi 12 adalah 7.
+838,Berapa 20 persen dari 1000?,Persen: 1000*20/100=200.,20 persen dari 1000 adalah 200.
+839,Berapa 30 tambah 13?,Tambah: 30+13=43.,30 tambah 13 adalah 43.
+840,Berapa 94 kurang 65?,Kurang: 94-65=29.,94 kurang 65 adalah 29.
+841,Berapa 29 tambah 16?,Tambah: 29+16=45.,29 tambah 16 adalah 45.
+842,Berapa 16 kurang 2?,Kurang: 16-2=14.,16 kurang 2 adalah 14.
+843,Berapa 9 kali 4?,Kali: 9*4=36.,9 kali 4 adalah 36.
+844,Berapa 43 tambah 56?,Tambah: 43+56=99.,43 tambah 56 adalah 99.
+845,Berapa 97 kurang 70?,Kurang: 97-70=27.,97 kurang 70 adalah 27.
+846,Film mulai 20:15 dan berlangsung 90 menit. Kapan selesai?,20:15 + 90 menit = 21:45.,Selesai pada 21:45.
+847,Sekarang jam 9. Dalam 3 jam 30 menit ada janji. Kapan?,9:00 + 3:30 = 12:30.,Janji pada 12:30.
+848,Kue panggang 45 menit. Masukkan jam 16:20. Kapan siap?,16:20 + 0:45 = 17:05.,Siap pada 17:05.
+849,Sekolah mulai 8:00 dan selesai 13:15. Berapa lama?,13:15 - 8:00 = 5:15.,Berlangsung 5 jam 15 menit.
+850,"Jika membaca 30 menit dari 19:00, kapan selesai?",19:00 + 0:30 = 19:30.,Selesai pada 19:30.
+851,Bagaimana belajar kosakata terbaik?,"Unit harian pendek, kartu, penggunaan aktif.",Terbaik dalam unit harian pendek dengan kartu dan penggunaan aktif dalam kalimat plus pengulangan.
+852,belajar kosakata - tips?,"Unit harian pendek, kartu, penggunaan aktif.",Terbaik dalam unit harian pendek dengan kartu dan penggunaan aktif dalam kalimat plus pengulangan.
+853,Panduan cepat: belajar kosakata.,"Unit harian pendek, kartu, penggunaan aktif.",Terbaik dalam unit harian pendek dengan kartu dan penggunaan aktif dalam kalimat plus pengulangan.
+854,Bagaimana menabung sehari-hari?,"Anggaran, langganan, memasak, membandingkan.","Tetapkan anggaran, cek langganan, masak lebih sering, bandingkan harga dan sisihkan dulu jumlah tetap."
+855,menabung - tips?,"Anggaran, langganan, memasak, membandingkan.","Tetapkan anggaran, cek langganan, masak lebih sering, bandingkan harga dan sisihkan dulu jumlah tetap."
+856,Panduan cepat: menabung.,"Anggaran, langganan, memasak, membandingkan.","Tetapkan anggaran, cek langganan, masak lebih sering, bandingkan harga dan sisihkan dulu jumlah tetap."
+857,"Apa yang dimasak dengan pasta, tomat dan keju?",Pasta dengan saus tomat dan keju.,"Buat pasta dengan saus sederhana: bumbui, masak, tuang ke pasta, tabur keju."
+858,pasta cepat - tips?,Pasta dengan saus tomat dan keju.,"Buat pasta dengan saus sederhana: bumbui, masak, tuang ke pasta, tabur keju."
+859,Panduan cepat: pasta cepat.,Pasta dengan saus tomat dan keju.,"Buat pasta dengan saus sederhana: bumbui, masak, tuang ke pasta, tabur keju."
+860,"Besok terbang, apa yang dibawa?","Daftar: ID, tiket, uang, ponsel, charger.","Bawa: ID atau paspor, tiket, uang, ponsel plus charger, obat, higiene dan ganti di kabin."
+861,bagasi terbang - tips?,"Daftar: ID, tiket, uang, ponsel, charger.","Bawa: ID atau paspor, tiket, uang, ponsel plus charger, obat, higiene dan ganti di kabin."
+862,Panduan cepat: bagasi terbang.,"Daftar: ID, tiket, uang, ponsel, charger.","Bawa: ID atau paspor, tiket, uang, ponsel plus charger, obat, higiene dan ganti di kabin."
+863,Bagaimana menulis maaf yang baik?,"Sebutkan salah, tanggung jawab, perbaikan.","Sebutkan salah, ambil tanggung jawab, tunjukkan sesal dan tawarkan perbaikan, pendek dan jujur."
+864,minta maaf - tips?,"Sebutkan salah, tanggung jawab, perbaikan.","Sebutkan salah, ambil tanggung jawab, tunjukkan sesal dan tawarkan perbaikan, pendek dan jujur."
+865,Panduan cepat: minta maaf.,"Sebutkan salah, tanggung jawab, perbaikan.","Sebutkan salah, ambil tanggung jawab, tunjukkan sesal dan tawarkan perbaikan, pendek dan jujur."
+866,Bagaimana merencanakan 3 hari di kota?,"Perjalanan, hotel, 2-3 sorotan sehari.","Tetapkan perjalanan dan hotel, pilih 2-3 sorotan sehari, rencanakan buffer dan anggaran harian."
+867,trip kota - tips?,"Perjalanan, hotel, 2-3 sorotan sehari.","Tetapkan perjalanan dan hotel, pilih 2-3 sorotan sehari, rencanakan buffer dan anggaran harian."
+868,Panduan cepat: trip kota.,"Perjalanan, hotel, 2-3 sorotan sehari.","Tetapkan perjalanan dan hotel, pilih 2-3 sorotan sehari, rencanakan buffer dan anggaran harian."
+869,Payung dengan 80 persen hujan?,"80% tinggi, ya disarankan.","Ya, bawa. Dengan 80 persen hujan sangat mungkin."
+870,payung - tips?,"80% tinggi, ya disarankan.","Ya, bawa. Dengan 80 persen hujan sangat mungkin."
+871,Panduan cepat: payung.,"80% tinggi, ya disarankan.","Ya, bawa. Dengan 80 persen hujan sangat mungkin."
+872,Apa lebih baik untuk catatan: kertas atau ponsel?,"Kertas tanpa distraksi, ponsel bisa dicari.","Keduanya punya plus: kertas tanpa distraksi dan baik untuk memori, ponsel bisa dicari dan selalu ada."
+873,catatan kertas atau ponsel - tips?,"Kertas tanpa distraksi, ponsel bisa dicari.","Keduanya punya plus: kertas tanpa distraksi dan baik untuk memori, ponsel bisa dicari dan selalu ada."
+874,Panduan cepat: catatan kertas atau ponsel.,"Kertas tanpa distraksi, ponsel bisa dicari.","Keduanya punya plus: kertas tanpa distraksi dan baik untuk memori, ponsel bisa dicari dan selalu ada."
+875,Bagaimana membereskan kamar cepat?,"Sampah, cucian, kembalikan, lap.","Kumpulkan dulu sampah, lalu cucian, kembalikan semua dan lap di akhir."
+876,beres cepat - tips?,"Sampah, cucian, kembalikan, lap.","Kumpulkan dulu sampah, lalu cucian, kembalikan semua dan lap di akhir."
+877,Panduan cepat: beres cepat.,"Sampah, cucian, kembalikan, lap.","Kumpulkan dulu sampah, lalu cucian, kembalikan semua dan lap di akhir."
+878,Bagaimana mengemas koper ringkas?,"Gulung, berat bawah, isi.","Gulung pakaian bukan lipat, berat bawah, isi dengan kaus kaki."
+879,koper ringkas - tips?,"Gulung, berat bawah, isi.","Gulung pakaian bukan lipat, berat bawah, isi dengan kaus kaki."
+880,Panduan cepat: koper ringkas.,"Gulung, berat bawah, isi.","Gulung pakaian bukan lipat, berat bawah, isi dengan kaus kaki."
+881,Bagaimana memasak nasi?,"Rasio 1:2, 10-12 menit diamkan.","Cuci beras, didihkan dengan air ganda, diamkan 10-12 menit."
+882,masak nasi - tips?,"Rasio 1:2, 10-12 menit diamkan.","Cuci beras, didihkan dengan air ganda, diamkan 10-12 menit."
+883,Panduan cepat: masak nasi.,"Rasio 1:2, 10-12 menit diamkan.","Cuci beras, didihkan dengan air ganda, diamkan 10-12 menit."
+884,Bagaimana memasak pasta?,"Air asin, masak 8-10 menit.","Asinkan banyak air, didihkan, masak pasta 8-10 menit, tiriskan."
+885,masak pasta - tips?,"Air asin, masak 8-10 menit.","Asinkan banyak air, didihkan, masak pasta 8-10 menit, tiriskan."
+886,Panduan cepat: masak pasta.,"Air asin, masak 8-10 menit.","Asinkan banyak air, didihkan, masak pasta 8-10 menit, tiriskan."
+887,Bagaimana membuat panekuk?,"Tepung, susu, telur, goreng keemasan.","Campur tepung, susu, telur dan sejumput garam, goreng tipis sampai keemasan."
+888,panekuk - tips?,"Tepung, susu, telur, goreng keemasan.","Campur tepung, susu, telur dan sejumput garam, goreng tipis sampai keemasan."
+889,Panduan cepat: panekuk.,"Tepung, susu, telur, goreng keemasan.","Campur tepung, susu, telur dan sejumput garam, goreng tipis sampai keemasan."
+890,Bagaimana bangun pagi?,"Cahaya, air, gerak.","Nyalakan cahaya, minum segelas air, bergerak sebentar dan hirup udara."
+891,bangun - tips?,"Cahaya, air, gerak.","Nyalakan cahaya, minum segelas air, bergerak sebentar dan hirup udara."
+892,Panduan cepat: bangun.,"Cahaya, air, gerak.","Nyalakan cahaya, minum segelas air, bergerak sebentar dan hirup udara."
+893,Bagaimana tidur lebih cepat?,"Gelap, sejuk, tanpa ponsel, rutin.","Tidur gelap dan sejuk, singkirkan ponsel, jaga rutin tetap."
+894,tidur - tips?,"Gelap, sejuk, tanpa ponsel, rutin.","Tidur gelap dan sejuk, singkirkan ponsel, jaga rutin tetap."
+895,Panduan cepat: tidur.,"Gelap, sejuk, tanpa ponsel, rutin.","Tidur gelap dan sejuk, singkirkan ponsel, jaga rutin tetap."
+896,Bagaimana belajar untuk ujian?,"Blok, ingat aktif, jeda.","Bagi menjadi blok, tanya diri aktif, jeda, ulangi besok."
+897,belajar ujian - tips?,"Blok, ingat aktif, jeda.","Bagi menjadi blok, tanya diri aktif, jeda, ulangi besok."
+898,Panduan cepat: belajar ujian.,"Blok, ingat aktif, jeda.","Bagi menjadi blok, tanya diri aktif, jeda, ulangi besok."
+899,Bagaimana menulis lamaran kerja?,"Surat, CV, ijazah.",Tulis surat pendek plus CV tabel dan ijazah berguna.
+900,lamaran kerja - tips?,"Surat, CV, ijazah.",Tulis surat pendek plus CV tabel dan ijazah berguna.
+901,Panduan cepat: lamaran kerja.,"Surat, CV, ijazah.",Tulis surat pendek plus CV tabel dan ijazah berguna.
+902,Bagaimana mencari rumah?,"Anggaran, portal, dokumen, lihat.","Tetapkan anggaran, cari di portal, siapkan dokumen, lihat dengan pertanyaan."
+903,cari rumah - tips?,"Anggaran, portal, dokumen, lihat.","Tetapkan anggaran, cari di portal, siapkan dokumen, lihat dengan pertanyaan."
+904,Panduan cepat: cari rumah.,"Anggaran, portal, dokumen, lihat.","Tetapkan anggaran, cari di portal, siapkan dokumen, lihat dengan pertanyaan."
+905,Bagaimana menyiram bunga benar?,"Tes jari, tanpa genang.","Tes jari: siram hanya jika atas kering, hindari genang."
+906,siram bunga - tips?,"Tes jari, tanpa genang.","Tes jari: siram hanya jika atas kering, hindari genang."
+907,Panduan cepat: siram bunga.,"Tes jari, tanpa genang.","Tes jari: siram hanya jika atas kering, hindari genang."
+908,Bagaimana mengatur hari?,"3 prioritas, blok, jeda.","Pilih 3 prioritas, rencanakan blok dengan jeda, singkirkan distraksi."
+909,atur hari - tips?,"3 prioritas, blok, jeda.","Pilih 3 prioritas, rencanakan blok dengan jeda, singkirkan distraksi."
+910,Panduan cepat: atur hari.,"3 prioritas, blok, jeda.","Pilih 3 prioritas, rencanakan blok dengan jeda, singkirkan distraksi."
+911,Bagaimana mulai olahraga?,"Sedikit, 2x seminggu, naik.","Mulai 2x seminggu jalan atau ringan, naik perlahan."
+912,mulai olahraga - tips?,"Sedikit, 2x seminggu, naik.","Mulai 2x seminggu jalan atau ringan, naik perlahan."
+913,Panduan cepat: mulai olahraga.,"Sedikit, 2x seminggu, naik.","Mulai 2x seminggu jalan atau ringan, naik perlahan."
+914,Bagaimana minum cukup air?,"Botol siap, pengingat.","Siapkan botol, minum segelas setiap makan, gunakan pengingat."
+915,cukup minum - tips?,"Botol siap, pengingat.","Siapkan botol, minum segelas setiap makan, gunakan pengingat."
+916,Panduan cepat: cukup minum.,"Botol siap, pengingat.","Siapkan botol, minum segelas setiap makan, gunakan pengingat."
+917,Apa sarapan sehat?,"Oat, buah, yoghurt.","Misalnya oat dengan buah dan yoghurt, atau roti gandum dengan telur."
+918,sarapan sehat - tips?,"Oat, buah, yoghurt.","Misalnya oat dengan buah dan yoghurt, atau roti gandum dengan telur."
+919,Panduan cepat: sarapan sehat.,"Oat, buah, yoghurt.","Misalnya oat dengan buah dan yoghurt, atau roti gandum dengan telur."
+920,Apa melawan stres?,"Jeda, gerak, tidur, bicara.","Jeda pendek, gerak, cukup tidur dan bicara membantu."
+921,stres - tips?,"Jeda, gerak, tidur, bicara.","Jeda pendek, gerak, cukup tidur dan bicara membantu."
+922,Panduan cepat: stres.,"Jeda, gerak, tidur, bicara.","Jeda pendek, gerak, cukup tidur dan bicara membantu."
+923,Bagaimana membatalkan janji?,"Cepat, alasan pendek, tanggal baru.","Batalkan cepat, beri alasan pendek, usulkan tanggal baru."
+924,batal janji - tips?,"Cepat, alasan pendek, tanggal baru.","Batalkan cepat, beri alasan pendek, usulkan tanggal baru."
+925,Panduan cepat: batal janji.,"Cepat, alasan pendek, tanggal baru.","Batalkan cepat, beri alasan pendek, usulkan tanggal baru."
+926,Bagaimana meminta bantuan?,"Konkret: apa, sampai kapan, terima kasih.","Minta konkret: apa, sampai kapan, mengapa. Misal: Bantu bawa hari ini? Terima kasih!"
+927,minta bantuan - tips?,"Konkret: apa, sampai kapan, terima kasih.","Minta konkret: apa, sampai kapan, mengapa. Misal: Bantu bawa hari ini? Terima kasih!"
+928,Panduan cepat: minta bantuan.,"Konkret: apa, sampai kapan, terima kasih.","Minta konkret: apa, sampai kapan, mengapa. Misal: Bantu bawa hari ini? Terima kasih!"
+929,Bagaimana belajar bilang tidak?,"Pendek, ramah, alternatif.","Bilang tidak pendek dan ramah, tawarkan alternatif jika bisa."
+930,bilang tidak - tips?,"Pendek, ramah, alternatif.","Bilang tidak pendek dan ramah, tawarkan alternatif jika bisa."
+931,Panduan cepat: bilang tidak.,"Pendek, ramah, alternatif.","Bilang tidak pendek dan ramah, tawarkan alternatif jika bisa."
+932,Bagaimana menabung untuk liburan?,"Target, auto bulanan.","Tetapkan target, nabung bulanan otomatis, tambah ekstra."
+933,nabung liburan - tips?,"Target, auto bulanan.","Tetapkan target, nabung bulanan otomatis, tambah ekstra."
+934,Panduan cepat: nabung liburan.,"Target, auto bulanan.","Tetapkan target, nabung bulanan otomatis, tambah ekstra."
+935,Bagaimana memesan penerbangan murah?,"Tanggal fleksibel, bandingkan, awal.","Fleksibel dengan tanggal, bandingkan portal, pesan awal."
+936,penerbangan murah - tips?,"Tanggal fleksibel, bandingkan, awal.","Fleksibel dengan tanggal, bandingkan portal, pesan awal."
+937,Panduan cepat: penerbangan murah.,"Tanggal fleksibel, bandingkan, awal.","Fleksibel dengan tanggal, bandingkan portal, pesan awal."
+938,Bagaimana menemukan jalan tanpa internet?,"Peta offline, rambu, tanya.","Unduh peta offline, ikuti rambu, tanya orang."
+939,jalan tanpa internet - tips?,"Peta offline, rambu, tanya.","Unduh peta offline, ikuti rambu, tanya orang."
+940,Panduan cepat: jalan tanpa internet.,"Peta offline, rambu, tanya.","Unduh peta offline, ikuti rambu, tanya orang."
+941,Apa beda anjing dan kucing sebagai hewan?,Anjing: jalan dan didik; kucing mandiri.,"Anjing butuh jalan dan didikan, kucing lebih mandiri. Pilih menurut waktu dan tempat."
+942,anjing atau kucing - apa saran?,Anjing: jalan dan didik; kucing mandiri.,"Anjing butuh jalan dan didikan, kucing lebih mandiri. Pilih menurut waktu dan tempat."
+943,Kereta atau mobil untuk 300 km?,"Kereta santai dan hijau, mobil fleksibel.","Kereta santai dan sering lebih hijau, mobil fleksibel dengan bagasi. Dengan macet kereta menang."
+944,kereta atau mobil 300 km - apa saran?,"Kereta santai dan hijau, mobil fleksibel.","Kereta santai dan sering lebih hijau, mobil fleksibel dengan bagasi. Dengan macet kereta menang."
+945,Apel atau cokelat sebagai camilan?,Apel: vitamin dan kenyang.,"Ambil apel untuk vitamin dan kenyang, cokelat sebagai pengecualian."
+946,apel atau cokelat - apa saran?,Apel: vitamin dan kenyang.,"Ambil apel untuk vitamin dan kenyang, cokelat sebagai pengecualian."
+947,Laptop atau PC untuk game?,"PC kuat menurut harga, laptop mobile.","PC memberi lebih kuat menurut harga, laptop mobile. Untuk maks pilih PC."
+948,laptop atau PC game - apa saran?,"PC kuat menurut harga, laptop mobile.","PC memberi lebih kuat menurut harga, laptop mobile. Untuk maks pilih PC."
+949,Kota atau desa untuk tinggal?,Kota: kerja dan dekat; desa: tenang.,"Kota menawarkan kerja dan dekat, desa tenang dan tempat. Pilih menurut kerja dan gaya."
+950,kota atau desa - apa saran?,Kota: kerja dan dekat; desa: tenang.,"Kota menawarkan kerja dan dekat, desa tenang dan tempat. Pilih menurut kerja dan gaya."
+951,Apa lebih penting: tidur atau belajar?,Tidur menguatkan belajar.,"Tidur lebih penting karena menguatkan belajar. Belajar awal, tidur cukup."
+952,tidur atau belajar - apa saran?,Tidur menguatkan belajar.,"Tidur lebih penting karena menguatkan belajar. Belajar awal, tidur cukup."
+953,Ponsel baru atau pertahankan lama?,Pertahankan jika cukup; beli jika rusak atau butuh.,Pertahankan jika cukup. Beli baru hanya jika rusak atau butuh nyata.
+954,ponsel baru - apa saran?,Pertahankan jika cukup; beli jika rusak atau butuh.,Pertahankan jika cukup. Beli baru hanya jika rusak atau butuh nyata.
+955,Apa berita palsu?,"Dibuat, seperti nyata; cek sumber.","Berita palsu dibuat. Cek sumber, tanggal dan media lain."
+956,berita palsu - apa saran?,"Dibuat, seperti nyata; cek sumber.","Berita palsu dibuat. Cek sumber, tanggal dan media lain."
+957,Apa beda fakta dan opini?,"Fakta terbukti, opini pandangan pribadi.","Fakta terbukti dan bisa dicek, opini adalah pandangan pribadi."
+958,fakta atau opini - apa saran?,"Fakta terbukti, opini pandangan pribadi.","Fakta terbukti dan bisa dicek, opini adalah pandangan pribadi."
+959,Sepeda atau bus ke sekolah? (5 km),"Cuaca bagus sepeda, hujan bus.","Dengan cuaca bagus naik sepeda (sekitar 20 menit, sehat), dengan hujan bus."
+960,sepeda atau bus sekolah 5 km - apa saran?,"Cuaca bagus sepeda, hujan bus.","Dengan cuaca bagus naik sepeda (sekitar 20 menit, sehat), dengan hujan bus."
+961,Air atau jus untuk haus?,"Air lebih baik, tanpa gula.",Air menghilangkan haus terbaik dan tanpa gula. Jus hanya encer.
+962,air atau jus - apa saran?,"Air lebih baik, tanpa gula.",Air menghilangkan haus terbaik dan tanpa gula. Jus hanya encer.
+963,Kopi atau air pagi?,"Dulu air, kopi sedang.","Minum dulu air, kopi setelah dengan sedang."
+964,kopi atau air pagi - apa saran?,"Dulu air, kopi sedang.","Minum dulu air, kopi setelah dengan sedang."
+965,Sewa atau beli? (umum),Fleksibel sewa; lama cek beli.,"Sewa jika tetap fleksibel; jika lama dan bisa bayar, cek beli dengan semua biaya."
+966,sewa atau beli - apa saran?,Fleksibel sewa; lama cek beli.,"Sewa jika tetap fleksibel; jika lama dan bisa bayar, cek beli dengan semua biaya."
+967,Bangun awal atau telat?,Menurut tugas dan tidur.,Pilih menurut tugas dan tidur: cukup tidur dan ritme tetap penting.
+968,awal atau telat - apa saran?,Menurut tugas dan tidur.,Pilih menurut tugas dan tidur: cukup tidur dan ritme tetap penting.
+969,Olahraga tiap hari?,Istirahat penting; 3-4x seminggu cukup.,"Tidak, rencanakan istirahat. 3-4 kali seminggu sering cukup, tiap hari hanya ringan."
+970,olahraga tiap hari - apa saran?,Istirahat penting; 3-4x seminggu cukup.,"Tidak, rencanakan istirahat. 3-4 kali seminggu sering cukup, tiap hari hanya ringan."
+971,Kerja dengan demam?,"Tidak, istirahat dan dokter.",Tidak. Istirahat dan ke dokter dengan demam tinggi atau lama.
+972,demam dan kerja - apa saran?,"Tidak, istirahat dan dokter.",Tidak. Istirahat dan ke dokter dengan demam tinggi atau lama.
+973,Bagaimana memilih antara dua tawaran?,"Kriteria, pro/kontra, tenggat.","Daftar kriteria, nilai, cek biaya dan rasa, putuskan dengan tenggat."
+974,pilih antara tawaran - apa saran?,"Kriteria, pro/kontra, tenggat.","Daftar kriteria, nilai, cek biaya dan rasa, putuskan dengan tenggat."
+975,Bagaimana menabung 500 euro dalam 5 bulan?,500/5=100 per bulan auto.,"Nabung 100 euro per bulan otomatis, mis. perintah setelah gaji."
+976,nabung 500 dalam 5 bulan - apa saran?,500/5=100 per bulan auto.,"Nabung 100 euro per bulan otomatis, mis. perintah setelah gaji."
+977,Apa beda butuh dan ingin?,"Butuh vital, ingin lebih.","Butuh vital untuk hidup, ingin adalah keinginan lebih."
+978,butuh atau ingin - apa saran?,"Butuh vital, ingin lebih.","Butuh vital untuk hidup, ingin adalah keinginan lebih."
+979,Apa lebih penting: uang atau waktu?,"Waktu terbatas, uang terganti.","Waktu terbatas dan tidak kembali, uang bisa didapat lagi. Keseimbangan penting."
+980,uang atau waktu - apa saran?,"Waktu terbatas, uang terganti.","Waktu terbatas dan tidak kembali, uang bisa didapat lagi. Keseimbangan penting."
+981,Ringkas: kapan berpikir dan kapan tidak?,"Aturan: obrolan tanpa berpikir; fakta, hitung, jelaskan, putuskan dengan berpikir.","Tidak berpikir untuk salam, terima kasih dan obrolan. Berpikir untuk fakta, hitung, jelaskan, bandingkan dan putuskan, lalu tunjukkan pikiran."
+982,Apa toleransi?,Definisikan toleransi sederhana dan benar.,toleransi pendek: Toleransi menerima opini dan gaya hidup lain.
+983,Apa sabar?,Definisikan sabar sederhana dan benar.,sabar pendek: Sabar menunggu tenang dan bertahan.
+984,Apa berani?,Definisikan berani sederhana dan benar.,berani pendek: Berani melakukan benar meski takut.
+985,Apa disiplin?,Definisikan disiplin sederhana dan benar.,disiplin pendek: Disiplin bertahan meski tanpa mau.
+986,Apa kreatif?,Definisikan kreatif sederhana dan benar.,kreatif pendek: Kreatif menemukan ide dan solusi baru.
+987,Apa kerja tim?,Definisikan kerja tim sederhana dan benar.,kerja tim pendek: Kerja tim maju bersama menuju tujuan.
+988,Apa tanggung jawab?,Definisikan tanggung jawab sederhana dan benar.,tanggung jawab pendek: Tanggung jawab menjawab tindakan dan akibat.
+989,Apa percaya?,Definisikan percaya sederhana dan benar.,percaya pendek: Percaya bisa mengandalkan lain.
+990,Apa sopan?,Definisikan sopan sederhana dan benar.,sopan pendek: Sopan hormat dan ramah.
+991,Apa tepat waktu?,Definisikan tepat waktu sederhana dan benar.,tepat waktu pendek: Tepat waktu menepati waktu janji.
+992,Apa terpercaya?,Definisikan terpercaya sederhana dan benar.,terpercaya pendek: Terpercaya menepati janji.
+993,Apa sehat?,Definisikan sehat sederhana dan benar.,sehat pendek: Sehat fisik dan mental baik.
+994,Apa bahagia?,Definisikan bahagia sederhana dan benar.,bahagia pendek: Bahagia puas dan momen gembira.
+995,Apa sukses?,Definisikan sukses sederhana dan benar.,sukses pendek: Sukses mencapai target tetap.
+996,Apa belajar?,Definisikan belajar sederhana dan benar.,belajar pendek: Belajar mendapat pengetahuan dan keterampilan.
+997,Apa pengetahuan?,Definisikan pengetahuan sederhana dan benar.,pengetahuan pendek: Pengetahuan informasi paham tentang dunia.
+998,Apa pengalaman?,Definisikan pengalaman sederhana dan benar.,pengalaman pendek: Pengalaman pengetahuan dari hidup.
+999,Apa humor?,Definisikan humor sederhana dan benar.,humor pendek: Humor bisa tertawa hal lucu.
+1000,Apa cinta?,Definisikan cinta sederhana dan benar.,cinta pendek: Cinta kasih dalam dan rawat.
