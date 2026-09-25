@@ -29,3 +29,12 @@ Dateien: `dialog_allgemein_1000_<sprache>.csv`
   Hauptstaedte, Laender, Geschichte, Natur/Technik, Rechnen, Alltagstipps,
   Vergleiche und Begriffe. Mit Einleitung, Ueberleitungen und Schluss.
 - Dateien: `aufsatz_<sprache>.csv` (gleiche Sprachen wie oben)
+
+## Geschichten (Kreativitaet)
+
+- 22 Sprachen, je Datei 10 Kurzgeschichten (+ Header)
+- Spalten: `id,title,text`
+- Drei Erzaehlformen: Abenteuer (Quest mit Helfer), Freunde helfen,
+  Raetsel (Geraeusch, Spur, Aufloesung). Mit Anfang, Wendung, gutem Ende
+  und Moral. Grammatik bewusst einfach und korrekt gehalten.
+- Dateien: `geschichte_<sprache>.csv` (gleiche Sprachen wie oben)
