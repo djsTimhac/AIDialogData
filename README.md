@@ -32,9 +32,9 @@ Dateien: `dialog_allgemein_1000_<sprache>.csv`
 
 ## Geschichten (Kreativitaet)
 
-- 22 Sprachen, je Datei 10 Kurzgeschichten (+ Header)
+- 22 Sprachen, je Datei 1000 Kurzgeschichten (+ Header)
 - Spalten: `id,title,text`
-- Drei Erzaehlformen: Abenteuer (Quest mit Helfer), Freunde helfen,
-  Raetsel (Geraeusch, Spur, Aufloesung). Mit Anfang, Wendung, gutem Ende
-  und Moral. Grammatik bewusst einfach und korrekt gehalten.
+- Drei Erzaehlformen: Abenteuer (Quest mit Helfer, 12 Saetze),
+  Freunde helfen (10 Saetze), Raetsel (Geraeusch, Spur, Aufloesung).
+  Mit Anfang, Wendung, gutem Ende und Moral. Alle Texte einzigartig.
 - Dateien: `geschichte_<sprache>.csv` (gleiche Sprachen wie oben)
