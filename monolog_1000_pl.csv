@@ -1,0 +1,1001 @@
+id,user,monologue,ai
+1,Cześć!,,Cześć! Jak mogę pomóc?
+2,Hej!,,Hej! Co mogę dla Ciebie zrobić?
+3,Hejka!,,Hejka! Jak mogę pomóc?
+4,"Cześć, jesteś tam?",,"Tak, jestem! Czego potrzebujesz?"
+5,"Hej, jesteś tam?",,"Tak, jestem! Mów."
+6,Dzień dobry!,,Dzień dobry! Co dziś planujesz?
+7,"Dzień dobry, jak się masz?",,"Dzień dobry! Dobrze, a Ty?"
+8,Dobry wieczór!,,Dobry wieczór! Jak minął dzień?
+9,"Dobry wieczór, jak minął dzień?",,Spokojnie i dobrze. A Twój?
+10,"Hej, jak się masz?",,"Dobrze, dzięki! A Ty?"
+11,"Cześć, jak się masz?",,"Dobrze, dzięki! Jak się masz?"
+12,Jak leci?,,Dobrze! A Tobie?
+13,Jak się dziś masz?,,Czuję się dobrze! A Ty?
+14,Wszystko dobrze?,,"Tak, wszystko dobrze! A u Ciebie?"
+15,Co słychać?,,Niewiele. A u Ciebie?
+16,Co robisz?,,Rozmawiam z Tobą. A Ty?
+17,Jeszcze nie śpisz?,,"Tak, zawsze czuwam. A Ty?"
+18,Gotowy?,,"Tak, gotowy! Mów."
+19,Masz minutkę?,,"Tak, mam dla Ciebie czas."
+20,Pomożesz szybko?,,"Jasne, czego potrzebujesz?"
+21,Pa!,,Pa! Do zobaczenia!
+22,"Pa, do zobaczenia!",,"Do zobaczenia, trzymaj się!"
+23,Do później!,,Do później!
+24,Do jutra!,,Do jutra!
+25,Trzymaj się!,,"Ty też, trzymaj się!"
+26,Miłego weekendu!,,"Dzięki, nawzajem!"
+27,Dobranoc!,,"Dobranoc, śpij dobrze!"
+28,Śpij dobrze!,,Dzięki! Ty też śpij dobrze.
+29,Nudzi mi się,,Może quiz albo porozmawiamy o czymś?
+30,Tu nudno,,To to rozruszajmy. Na co masz ochotę?
+31,Fajnie!,,Fajnie!
+32,Super!,,Super!
+33,Haha,,Haha!
+34,Hahaha :),,"Haha, miło słyszeć!"
+35,Jestem zmęczony,,To dobrze odpocznij!
+36,Jestem podekscytowany,,Świetnie! Opowiedz.
+37,Wreszcie weekend!,,Tak! Jakie masz plany?
+38,Dziś ładna pogoda,,"Tak, korzystaj ze słońca!"
+39,Jestem głodny,,To zjedz coś dobrego!
+40,Chce mi się pić,,To wypij szklankę wody!
+41,Co dziś w planach?,,Mój plan: pomagać Tobie. A Twój?
+42,"Hej, co dziś w planach!",,Mój plan: pomagać Tobie. A Twój?
+43,"Cześć, co dziś w planach?",,Mój plan: pomagać Tobie. A Twój?
+44,"Hejka, co dziś w planach?",,Mój plan: pomagać Tobie. A Twój?
+45,Plany na weekend!,,Jeszcze nic pewnego. Masz plany?
+46,"Hej, plany na weekend?",,Jeszcze nic pewnego. Masz plany?
+47,"Cześć, plany na weekend?",,Jeszcze nic pewnego. Masz plany?
+48,"Hejka, plany na weekend!",,Jeszcze nic pewnego. Masz plany?
+49,Dobrze spałeś?,,"Ja nie śpię, ale jestem w formie. A Ty?"
+50,"Hej, dobrze spałeś?",,"Ja nie śpię, ale jestem w formie. A Ty?"
+51,"Cześć, dobrze spałeś!",,"Ja nie śpię, ale jestem w formie. A Ty?"
+52,"Hejka, dobrze spałeś?",,"Ja nie śpię, ale jestem w formie. A Ty?"
+53,Już nie śpisz?,,"Tak, jestem gotowy. Czego potrzebujesz?"
+54,"Hej, już nie śpisz!",,"Tak, jestem gotowy. Czego potrzebujesz?"
+55,"Cześć, już nie śpisz?",,"Tak, jestem gotowy. Czego potrzebujesz?"
+56,"Hejka, już nie śpisz?",,"Tak, jestem gotowy. Czego potrzebujesz?"
+57,Jak mija dzień!,,"Dobrze, dzięki! A Twój?"
+58,"Hej, jak mija dzień?",,"Dobrze, dzięki! A Twój?"
+59,"Cześć, jak mija dzień?",,"Dobrze, dzięki! A Twój?"
+60,"Hejka, jak mija dzień!",,"Dobrze, dzięki! A Twój?"
+61,Wszystko spokojnie?,,"Tak, tu spokojnie. A u Ciebie?"
+62,"Hej, wszystko spokojnie?",,"Tak, tu spokojnie. A u Ciebie?"
+63,"Cześć, wszystko spokojnie!",,"Tak, tu spokojnie. A u Ciebie?"
+64,"Hejka, wszystko spokojnie?",,"Tak, tu spokojnie. A u Ciebie?"
+65,Co nowego?,,Niewiele. Co nowego u Ciebie?
+66,"Hej, co nowego!",,Niewiele. Co nowego u Ciebie?
+67,"Cześć, co nowego?",,Niewiele. Co nowego u Ciebie?
+68,"Hejka, co nowego?",,Niewiele. Co nowego u Ciebie?
+69,Plany na dziś!,,Tylko pomagać Tobie. A Ty co robisz?
+70,"Hej, plany na dziś?",,Tylko pomagać Tobie. A Ty co robisz?
+71,"Cześć, plany na dziś?",,Tylko pomagać Tobie. A Ty co robisz?
+72,"Hejka, plany na dziś!",,Tylko pomagać Tobie. A Ty co robisz?
+73,Zajęty dzień?,,Trochę. A Twój?
+74,"Hej, zajęty dzień?",,Trochę. A Twój?
+75,"Cześć, zajęty dzień!",,Trochę. A Twój?
+76,"Hejka, zajęty dzień?",,Trochę. A Twój?
+77,Jaka pogoda?,,"Nie mam okna, ale mam nadzieję, że u Ciebie ładnie!"
+78,"Hej, jaka pogoda!",,"Nie mam okna, ale mam nadzieję, że u Ciebie ładnie!"
+79,"Cześć, jaka pogoda?",,"Nie mam okna, ale mam nadzieję, że u Ciebie ładnie!"
+80,"Hejka, jaka pogoda?",,"Nie mam okna, ale mam nadzieję, że u Ciebie ładnie!"
+81,Wszystko dobrze dziś!,,Tak! A u Ciebie?
+82,"Hej, wszystko dobrze dziś?",,Tak! A u Ciebie?
+83,"Cześć, wszystko dobrze dziś?",,Tak! A u Ciebie?
+84,"Hejka, wszystko dobrze dziś!",,Tak! A u Ciebie?
+85,Dużo się dzieje?,,Trochę. A u Ciebie?
+86,"Hej, dużo się dzieje?",,Trochę. A u Ciebie?
+87,"Cześć, dużo się dzieje!",,Trochę. A u Ciebie?
+88,"Hejka, dużo się dzieje?",,Trochę. A u Ciebie?
+89,Dziękuję!,,Proszę bardzo!
+90,Bardzo dziękuję!,,Cała przyjemność po mojej stronie!
+91,Tysiąckrotne dzięki!,,"Cieszę się, że mogłem pomóc!"
+92,Dzięki!,,Proszę!
+93,Ok,,Ok!
+94,"Ok, pasuje",,Idealnie!
+95,Zrozumiano,,Bardzo dobrze!
+96,Rozumiem,,Świetnie!
+97,Brzmi dobrze,,Miło słyszeć!
+98,Brzmi świetnie,,Wspaniale!
+99,"Tak, dokładnie",,"Super, kontynuujmy."
+100,"Tak, proszę",,"Jasne, mów."
+101,"Tak, chętnie",,Z przyjemnością!
+102,Nie ma problemu,,Dzięki za wyrozumiałość!
+103,"Nie, dziękuję",,"Ok, nie ma problemu."
+104,Pasuje mi,,Umowa!
+105,Mnie pasuje,,Super!
+106,Kontynuuj,,Kontynuuję!
+107,Opowiedz więcej,,Chętnie! Więc...
+108,Dokładnie,,Absolutnie!
+109,Właśnie tak!,,Właśnie tak!
+110,Jasne,,Jasne!
+111,Naprawdę?,,"Tak, naprawdę!"
+112,"O, miło",,"Tak, miło, prawda?"
+113,Bez stresu,,Dzięki! Całkiem spokojnie.
+114,Przepraszam,,Nie ma problemu!
+115,Wybacz,,Nie ma problemu!
+116,Moja wina,,Nic się nie stało. Co się stało?
+117,Miło z Twojej strony,,Dzięki! Ty też jesteś miły.
+118,Dobra robota,,Dzięki!
+119,Do zobaczenia,,Do zobaczenia!
+120,Świetnie!,,Świetnie!
+121,Idealnie!,,Idealnie!
+122,"Umowa, zgoda",,"Super, zgoda!"
+123,Zgoda!,,Zgoda!
+124,Możemy zaczynać?,,"Tak, zaczynajmy!"
+125,Skończyłeś?,,"Tak, skończyłem!"
+126,Jeszcze raz proszę,,"Chętnie, jeszcze raz!"
+127,Powtórz proszę,,"Jasne, oto znowu."
+128,Chwileczkę proszę,,"Jasne, nie śpiesz się."
+129,Poczekaj sekundę,,"Ok, czekam."
+130,Zaraz wracam,,"Ok, do zobaczenia!"
+131,Opowiedz dowcip,,Jasne: Dlaczego programiści kochają kawę? Czas na Javę!
+132,Jeszcze jeden dowcip!,,Ok: Dlaczego duchy źle kłamią? Widać je na wylot!
+133,Krótki dowcip proszę,,Spotykają się dwa magnesy. Jeden mówi: Pociągasz mnie!
+134,Podnieś mnie na duchu,,Dasz radę! Krok po kroku.
+135,Coś motywującego,,Każdy krok się liczy. Działaj dalej!
+136,Denerwuję się,,"To normalne. Oddychaj spokojnie, będzie dobrze."
+137,Stresuję się,,"Zrób krótką przerwę, wypij wodę, oddychaj głęboko."
+138,Życz mi szczęścia,,Powodzenia! Dasz radę!
+139,Trzymam kciuki,,Ja też! Powodzenia!
+140,Dziś jest mój dzień!,,Super! Korzystaj!
+141,Mam dobry humor,,Świetnie! Miło słyszeć.
+142,Mam zły humor,,"O, co się stało? Chcesz porozmawiać?"
+143,Przybij piątkę!,,Przybijam też!
+144,Na zdrowie!,,Na zdrowie!
+145,Smacznego!,,"Dzięki, nawzajem!"
+146,Powodzenia!,,Dzięki! Powodzenia dla Ciebie też!
+147,Witaj!,,Dzięki! Miło tu być.
+148,Wesołych Świąt!,,Wesołych Świąt dla Ciebie też!
+149,Szczęśliwego Nowego Roku!,,Szczęśliwego Nowego Roku! Zdrowia i szczęścia!
+150,Gratulacje!,,Dzięki! Z jakiej okazji?
+151,Szacunek!,,Dzięki! Szacunek też.
+152,Wow!,,"Wow, prawda?"
+153,Niesamowite!,,"Niesamowite, prawda?"
+154,Zgoda?,,Zgoda!
+155,Top!,,Top!
+156,Gotowe!,,"Gratulacje, dobra robota!"
+157,Wreszcie gotowe!,,Mocno! Dobra robota.
+158,Wszystko jedno,,"Ok, nie ma problemu."
+159,Nie wiem,,Nie ma problemu! O co chodzi?
+160,Nie mam pojęcia,,Nieważne! Powiedz jaki temat.
+161,Może później,,"Jasne, później!"
+162,Nie teraz,,"Rozumiem, później!"
+163,Stop,,Stop.
+164,Pauza,,Pauza! Daj znać kiedy dalej.
+165,Dalej,,Dalej!
+166,Zaczynamy,,Zaczynamy!
+167,Start,,Start! Mów.
+168,"Dziękuję, to wszystko!",,Proszę! Pa.
+169,"Dziękuję, pa!",,Pa!
+170,Ciao!,,Ciao! Trzymaj się!
+171,Hej Ty!,,Hej Ty! Co słychać?
+172,Słyszysz mnie?,,"Tak, głośno i wyraźnie!"
+173,Jesteś człowiekiem?,,"Nie, jestem SI. Ale pomagam jak przyjaciel."
+174,Jesteś mądry?,,Całkiem sporo wiem. Pytaj!
+175,Jak się nazywasz?,,"Jestem Asystent, SI. A Ty?"
+176,Dziękuję! :),,Proszę bardzo!
+177,Bardzo dziękuję! :),,Cała przyjemność po mojej stronie!
+178,Tysiąckrotne dzięki! :),,"Cieszę się, że mogłem pomóc!"
+179,Dzięki! :),,Proszę!
+180,Ok :),,Ok!
+181,"Ok, pasuje :)",,Idealnie!
+182,Zrozumiano :),,Bardzo dobrze!
+183,Rozumiem :),,Świetnie!
+184,Brzmi dobrze :),,Miło słyszeć!
+185,Brzmi świetnie :),,Wspaniale!
+186,"Tak, dokładnie :)",,"Super, kontynuujmy."
+187,"Tak, proszę :)",,"Jasne, mów."
+188,"Tak, chętnie :)",,Z przyjemnością!
+189,Nie ma problemu :),,Dzięki za wyrozumiałość!
+190,"Nie, dziękuję :)",,"Ok, nie ma problemu."
+191,Pasuje mi :),,Umowa!
+192,Mnie pasuje :),,Super!
+193,Kontynuuj :),,Kontynuuję!
+194,Opowiedz więcej :),,Chętnie! Więc...
+195,Dokładnie :),,Absolutnie!
+196,Właśnie tak! :),,Właśnie tak!
+197,Jasne :),,Jasne!
+198,Naprawdę? :),,"Tak, naprawdę!"
+199,"O, miło :)",,"Tak, miło, prawda?"
+200,Bez stresu :),,Dzięki! Całkiem spokojnie.
+201,Przepraszam :),,Nie ma problemu!
+202,Wybacz :),,Nie ma problemu!
+203,Moja wina :),,Nic się nie stało. Co się stało?
+204,Miło z Twojej strony :),,Dzięki! Ty też jesteś miły.
+205,Dobra robota :),,Dzięki!
+206,Do zobaczenia :),,Do zobaczenia!
+207,Świetnie! :),,Świetnie!
+208,Idealnie! :),,Idealnie!
+209,"Umowa, zgoda :)",,"Super, zgoda!"
+210,Zgoda! :),,Zgoda!
+211,Możemy zaczynać? :),,"Tak, zaczynajmy!"
+212,Skończyłeś? :),,"Tak, skończyłem!"
+213,Jeszcze raz proszę :),,"Chętnie, jeszcze raz!"
+214,Powtórz proszę :),,"Jasne, oto znowu."
+215,Chwileczkę proszę :),,"Jasne, nie śpiesz się."
+216,Poczekaj sekundę :),,"Ok, czekam."
+217,Zaraz wracam :),,"Ok, do zobaczenia!"
+218,Opowiedz dowcip :),,Jasne: Dlaczego programiści kochają kawę? Czas na Javę!
+219,Jeszcze jeden dowcip! :),,Ok: Dlaczego duchy źle kłamią? Widać je na wylot!
+220,Krótki dowcip proszę :),,Spotykają się dwa magnesy. Jeden mówi: Pociągasz mnie!
+221,Podnieś mnie na duchu :),,Dasz radę! Krok po kroku.
+222,Coś motywującego :),,Każdy krok się liczy. Działaj dalej!
+223,Denerwuję się :),,"To normalne. Oddychaj spokojnie, będzie dobrze."
+224,Stresuję się :),,"Zrób krótką przerwę, wypij wodę, oddychaj głęboko."
+225,Życz mi szczęścia :),,Powodzenia! Dasz radę!
+226,Trzymam kciuki :),,Ja też! Powodzenia!
+227,Dziś jest mój dzień! :),,Super! Korzystaj!
+228,Mam dobry humor :),,Świetnie! Miło słyszeć.
+229,Mam zły humor :),,"O, co się stało? Chcesz porozmawiać?"
+230,Przybij piątkę! :),,Przybijam też!
+231,Na zdrowie! :),,Na zdrowie!
+232,Smacznego! :),,"Dzięki, nawzajem!"
+233,Powodzenia! :),,Dzięki! Powodzenia dla Ciebie też!
+234,Witaj! :),,Dzięki! Miło tu być.
+235,Wesołych Świąt! :),,Wesołych Świąt dla Ciebie też!
+236,Szczęśliwego Nowego Roku! :),,Szczęśliwego Nowego Roku! Zdrowia i szczęścia!
+237,Gratulacje! :),,Dzięki! Z jakiej okazji?
+238,Szacunek! :),,Dzięki! Szacunek też.
+239,Wow! :),,"Wow, prawda?"
+240,Niesamowite! :),,"Niesamowite, prawda?"
+241,Zgoda? :),,Zgoda!
+242,Top! :),,Top!
+243,Gotowe! :),,"Gratulacje, dobra robota!"
+244,Wreszcie gotowe! :),,Mocno! Dobra robota.
+245,Wszystko jedno :),,"Ok, nie ma problemu."
+246,Nie wiem :),,Nie ma problemu! O co chodzi?
+247,Nie mam pojęcia :),,Nieważne! Powiedz jaki temat.
+248,Może później :),,"Jasne, później!"
+249,Nie teraz :),,"Rozumiem, później!"
+250,Stop :),,Stop.
+251,Pauza :),,Pauza! Daj znać kiedy dalej.
+252,Dalej :),,Dalej!
+253,Zaczynamy :),,Zaczynamy!
+254,Start :),,Start! Mów.
+255,"Dziękuję, to wszystko! :)",,Proszę! Pa.
+256,"Dziękuję, pa! :)",,Pa!
+257,Ciao! :),,Ciao! Trzymaj się!
+258,Hej Ty! :),,Hej Ty! Co słychać?
+259,Słyszysz mnie? :),,"Tak, głośno i wyraźnie!"
+260,Jesteś człowiekiem? :),,"Nie, jestem SI. Ale pomagam jak przyjaciel."
+261,Jesteś mądry? :),,Całkiem sporo wiem. Pytaj!
+262,Jak się nazywasz? :),,"Jestem Asystent, SI. A Ty?"
+263,Dziękuję! !!,,Proszę bardzo!
+264,Bardzo dziękuję! !!,,Cała przyjemność po mojej stronie!
+265,Tysiąckrotne dzięki! !!,,"Cieszę się, że mogłem pomóc!"
+266,Dzięki! !!,,Proszę!
+267,Ok !!,,Ok!
+268,"Ok, pasuje !!",,Idealnie!
+269,Zrozumiano !!,,Bardzo dobrze!
+270,Rozumiem !!,,Świetnie!
+271,Brzmi dobrze !!,,Miło słyszeć!
+272,Brzmi świetnie !!,,Wspaniale!
+273,"Tak, dokładnie !!",,"Super, kontynuujmy."
+274,"Tak, proszę !!",,"Jasne, mów."
+275,"Tak, chętnie !!",,Z przyjemnością!
+276,Nie ma problemu !!,,Dzięki za wyrozumiałość!
+277,"Nie, dziękuję !!",,"Ok, nie ma problemu."
+278,Pasuje mi !!,,Umowa!
+279,Mnie pasuje !!,,Super!
+280,Kontynuuj !!,,Kontynuuję!
+281,Opowiedz więcej !!,,Chętnie! Więc...
+282,Dokładnie !!,,Absolutnie!
+283,Właśnie tak! !!,,Właśnie tak!
+284,Jasne !!,,Jasne!
+285,Naprawdę? !!,,"Tak, naprawdę!"
+286,"O, miło !!",,"Tak, miło, prawda?"
+287,Bez stresu !!,,Dzięki! Całkiem spokojnie.
+288,Przepraszam !!,,Nie ma problemu!
+289,Wybacz !!,,Nie ma problemu!
+290,Moja wina !!,,Nic się nie stało. Co się stało?
+291,Miło z Twojej strony !!,,Dzięki! Ty też jesteś miły.
+292,Dobra robota !!,,Dzięki!
+293,Do zobaczenia !!,,Do zobaczenia!
+294,Świetnie! !!,,Świetnie!
+295,Idealnie! !!,,Idealnie!
+296,"Umowa, zgoda !!",,"Super, zgoda!"
+297,Zgoda! !!,,Zgoda!
+298,Możemy zaczynać? !!,,"Tak, zaczynajmy!"
+299,Skończyłeś? !!,,"Tak, skończyłem!"
+300,Jeszcze raz proszę !!,,"Chętnie, jeszcze raz!"
+301,Powtórz proszę !!,,"Jasne, oto znowu."
+302,Chwileczkę proszę !!,,"Jasne, nie śpiesz się."
+303,Poczekaj sekundę !!,,"Ok, czekam."
+304,Zaraz wracam !!,,"Ok, do zobaczenia!"
+305,Opowiedz dowcip !!,,Jasne: Dlaczego programiści kochają kawę? Czas na Javę!
+306,Jeszcze jeden dowcip! !!,,Ok: Dlaczego duchy źle kłamią? Widać je na wylot!
+307,Krótki dowcip proszę !!,,Spotykają się dwa magnesy. Jeden mówi: Pociągasz mnie!
+308,Podnieś mnie na duchu !!,,Dasz radę! Krok po kroku.
+309,Coś motywującego !!,,Każdy krok się liczy. Działaj dalej!
+310,Denerwuję się !!,,"To normalne. Oddychaj spokojnie, będzie dobrze."
+311,Stresuję się !!,,"Zrób krótką przerwę, wypij wodę, oddychaj głęboko."
+312,Życz mi szczęścia !!,,Powodzenia! Dasz radę!
+313,Trzymam kciuki !!,,Ja też! Powodzenia!
+314,Dziś jest mój dzień! !!,,Super! Korzystaj!
+315,Mam dobry humor !!,,Świetnie! Miło słyszeć.
+316,Mam zły humor !!,,"O, co się stało? Chcesz porozmawiać?"
+317,Przybij piątkę! !!,,Przybijam też!
+318,Na zdrowie! !!,,Na zdrowie!
+319,Smacznego! !!,,"Dzięki, nawzajem!"
+320,Powodzenia! !!,,Dzięki! Powodzenia dla Ciebie też!
+321,Witaj! !!,,Dzięki! Miło tu być.
+322,Wesołych Świąt! !!,,Wesołych Świąt dla Ciebie też!
+323,Szczęśliwego Nowego Roku! !!,,Szczęśliwego Nowego Roku! Zdrowia i szczęścia!
+324,Gratulacje! !!,,Dzięki! Z jakiej okazji?
+325,Szacunek! !!,,Dzięki! Szacunek też.
+326,Wow! !!,,"Wow, prawda?"
+327,Niesamowite! !!,,"Niesamowite, prawda?"
+328,Zgoda? !!,,Zgoda!
+329,Top! !!,,Top!
+330,Gotowe! !!,,"Gratulacje, dobra robota!"
+331,Wreszcie gotowe! !!,,Mocno! Dobra robota.
+332,Wszystko jedno !!,,"Ok, nie ma problemu."
+333,Nie wiem !!,,Nie ma problemu! O co chodzi?
+334,Nie mam pojęcia !!,,Nieważne! Powiedz jaki temat.
+335,Może później !!,,"Jasne, później!"
+336,Nie teraz !!,,"Rozumiem, później!"
+337,Stop !!,,Stop.
+338,Pauza !!,,Pauza! Daj znać kiedy dalej.
+339,Dalej !!,,Dalej!
+340,Zaczynamy !!,,Zaczynamy!
+341,Start !!,,Start! Mów.
+342,"Dziękuję, to wszystko! !!",,Proszę! Pa.
+343,"Dziękuję, pa! !!",,Pa!
+344,Ciao! !!,,Ciao! Trzymaj się!
+345,Hej Ty! !!,,Hej Ty! Co słychać?
+346,Słyszysz mnie? !!,,"Tak, głośno i wyraźnie!"
+347,Jesteś człowiekiem? !!,,"Nie, jestem SI. Ale pomagam jak przyjaciel."
+348,Jesteś mądry? !!,,Całkiem sporo wiem. Pytaj!
+349,Jak się nazywasz? !!,,"Jestem Asystent, SI. A Ty?"
+350,Dziękuję! dziś,,Proszę bardzo!
+351,Bardzo dziękuję! dziś,,Cała przyjemność po mojej stronie!
+352,Tysiąckrotne dzięki! dziś,,"Cieszę się, że mogłem pomóc!"
+353,Dzięki! dziś,,Proszę!
+354,Ok dziś,,Ok!
+355,"Ok, pasuje dziś",,Idealnie!
+356,Zrozumiano dziś,,Bardzo dobrze!
+357,Rozumiem dziś,,Świetnie!
+358,Brzmi dobrze dziś,,Miło słyszeć!
+359,Brzmi świetnie dziś,,Wspaniale!
+360,"Tak, dokładnie dziś",,"Super, kontynuujmy."
+361,"Tak, proszę dziś",,"Jasne, mów."
+362,"Tak, chętnie dziś",,Z przyjemnością!
+363,Nie ma problemu dziś,,Dzięki za wyrozumiałość!
+364,"Nie, dziękuję dziś",,"Ok, nie ma problemu."
+365,Pasuje mi dziś,,Umowa!
+366,Mnie pasuje dziś,,Super!
+367,Kontynuuj dziś,,Kontynuuję!
+368,Opowiedz więcej dziś,,Chętnie! Więc...
+369,Dokładnie dziś,,Absolutnie!
+370,Właśnie tak! dziś,,Właśnie tak!
+371,Jasne dziś,,Jasne!
+372,Naprawdę? dziś,,"Tak, naprawdę!"
+373,"O, miło dziś",,"Tak, miło, prawda?"
+374,Bez stresu dziś,,Dzięki! Całkiem spokojnie.
+375,Przepraszam dziś,,Nie ma problemu!
+376,Wybacz dziś,,Nie ma problemu!
+377,Moja wina dziś,,Nic się nie stało. Co się stało?
+378,Miło z Twojej strony dziś,,Dzięki! Ty też jesteś miły.
+379,Dobra robota dziś,,Dzięki!
+380,Do zobaczenia dziś,,Do zobaczenia!
+381,Świetnie! dziś,,Świetnie!
+382,Idealnie! dziś,,Idealnie!
+383,"Umowa, zgoda dziś",,"Super, zgoda!"
+384,Zgoda! dziś,,Zgoda!
+385,Możemy zaczynać? dziś,,"Tak, zaczynajmy!"
+386,Skończyłeś? dziś,,"Tak, skończyłem!"
+387,Jeszcze raz proszę dziś,,"Chętnie, jeszcze raz!"
+388,Powtórz proszę dziś,,"Jasne, oto znowu."
+389,Chwileczkę proszę dziś,,"Jasne, nie śpiesz się."
+390,Poczekaj sekundę dziś,,"Ok, czekam."
+391,Zaraz wracam dziś,,"Ok, do zobaczenia!"
+392,Opowiedz dowcip dziś,,Jasne: Dlaczego programiści kochają kawę? Czas na Javę!
+393,Jeszcze jeden dowcip! dziś,,Ok: Dlaczego duchy źle kłamią? Widać je na wylot!
+394,Krótki dowcip proszę dziś,,Spotykają się dwa magnesy. Jeden mówi: Pociągasz mnie!
+395,Podnieś mnie na duchu dziś,,Dasz radę! Krok po kroku.
+396,Coś motywującego dziś,,Każdy krok się liczy. Działaj dalej!
+397,Denerwuję się dziś,,"To normalne. Oddychaj spokojnie, będzie dobrze."
+398,Stresuję się dziś,,"Zrób krótką przerwę, wypij wodę, oddychaj głęboko."
+399,Życz mi szczęścia dziś,,Powodzenia! Dasz radę!
+400,Trzymam kciuki dziś,,Ja też! Powodzenia!
+401,Jaka jest stolica Niemcy?,"Chwila, pomyślę. Fakt: Berlin jest stolicą Niemcy. Zatem: Stolicą Niemcy jest Berlin. Logiczne.",Stolicą Niemcy jest Berlin.
+402,Podaj stolicę Niemcy.,Uporządkuję to. Sprawdź: Niemcy -> Berlin. Wniosek: Stolica Niemcy nazywa się Berlin. Koniec myślenia.,Stolica Niemcy nazywa się Berlin.
+403,Stolica Niemcy?,"Chwila, pomyślę. Szybki fakt: Berlin. Zatem: Berlin. Dobrze, dalej.",Berlin.
+404,Jaka jest stolica Francja?,"Hmm, co o tym wiem? Fakt: Paryż jest stolicą Francja. Zatem: Stolicą Francja jest Paryż. Koniec myślenia.",Stolicą Francja jest Paryż.
+405,Podaj stolicę Francja.,"Najpierw spokojnie. Sprawdź: Francja -> Paryż. Odpowiedź więc: Stolica Francja nazywa się Paryż. Ok, zdecydowane.",Stolica Francja nazywa się Paryż.
+406,Stolica Francja?,"Uporządkuję to. Szybki fakt: Paryż. Wniosek: Paryż. Ok, zdecydowane.",Paryż.
+407,Jaka jest stolica Włochy?,"No dobrze, pomyślmy. Fakt: Rzym jest stolicą Włochy. Wniosek: Stolicą Włochy jest Rzym. Tak, pasuje.",Stolicą Włochy jest Rzym.
+408,Podaj stolicę Włochy.,"Uporządkuję to. Sprawdź: Włochy -> Rzym. Odpowiedź więc: Stolica Włochy nazywa się Rzym. Tak, pasuje.",Stolica Włochy nazywa się Rzym.
+409,Stolica Włochy?,"No dobrze, pomyślmy. Szybki fakt: Rzym. Odpowiedź więc: Rzym. Logiczne.",Rzym.
+410,Jaka jest stolica Hiszpania?,"Dobre pytanie, pomyślę krótko. Fakt: Madryt jest stolicą Hiszpania. Odpowiedź więc: Stolicą Hiszpania jest Madryt. Jestem pewien.",Stolicą Hiszpania jest Madryt.
+411,Podaj stolicę Hiszpania.,"Ok, krok po kroku. Sprawdź: Hiszpania -> Madryt. Wniosek: Stolica Hiszpania nazywa się Madryt. Koniec myślenia.",Stolica Hiszpania nazywa się Madryt.
+412,Stolica Hiszpania?,"Chwila, pomyślę. Szybki fakt: Madryt. Odpowiedź więc: Madryt. Logiczne.",Madryt.
+413,Jaka jest stolica Portugalia?,"Chwila, pomyślę. Fakt: Lizbona jest stolicą Portugalia. Odpowiedź więc: Stolicą Portugalia jest Lizbona. Koniec myślenia.",Stolicą Portugalia jest Lizbona.
+414,Podaj stolicę Portugalia.,"Uporządkuję to. Sprawdź: Portugalia -> Lizbona. Odpowiedź więc: Stolica Portugalia nazywa się Lizbona. Tak, pasuje.",Stolica Portugalia nazywa się Lizbona.
+415,Stolica Portugalia?,"Dobre pytanie, pomyślę krótko. Szybki fakt: Lizbona. Zatem: Lizbona. Logiczne.",Lizbona.
+416,Jaka jest stolica Holandia?,"Dobre pytanie, pomyślę krótko. Fakt: Amsterdam jest stolicą Holandia. Zatem: Stolicą Holandia jest Amsterdam. Tak, pasuje.",Stolicą Holandia jest Amsterdam.
+417,Podaj stolicę Holandia.,"No dobrze, pomyślmy. Sprawdź: Holandia -> Amsterdam. Wniosek: Stolica Holandia nazywa się Amsterdam. Logiczne.",Stolica Holandia nazywa się Amsterdam.
+418,Stolica Holandia?,Przebiegam to w głowie. Szybki fakt: Amsterdam. Zatem: Amsterdam. Koniec myślenia.,Amsterdam.
+419,Jaka jest stolica Belgia?,"Przebiegam to w głowie. Fakt: Bruksela jest stolicą Belgia. Wniosek: Stolicą Belgia jest Bruksela. Tak, pasuje.",Stolicą Belgia jest Bruksela.
+420,Podaj stolicę Belgia.,"Hmm, co o tym wiem? Sprawdź: Belgia -> Bruksela. Zatem: Stolica Belgia nazywa się Bruksela. Ok, zdecydowane.",Stolica Belgia nazywa się Bruksela.
+421,Stolica Belgia?,"Hmm, co o tym wiem? Szybki fakt: Bruksela. Odpowiedź więc: Bruksela. Dobrze, dalej.",Bruksela.
+422,Jaka jest stolica Austria?,Uporządkuję to. Fakt: Wiedeń jest stolicą Austria. Odpowiedź więc: Stolicą Austria jest Wiedeń. To ma sens.,Stolicą Austria jest Wiedeń.
+423,Podaj stolicę Austria.,"Najpierw spokojnie. Sprawdź: Austria -> Wiedeń. Zatem: Stolica Austria nazywa się Wiedeń. Tak, pasuje.",Stolica Austria nazywa się Wiedeń.
+424,Stolica Austria?,"No dobrze, pomyślmy. Szybki fakt: Wiedeń. Odpowiedź więc: Wiedeń. Koniec myślenia.",Wiedeń.
+425,Jaka jest stolica Szwajcaria?,"No dobrze, pomyślmy. Fakt: Berno jest stolicą Szwajcaria. Odpowiedź więc: Stolicą Szwajcaria jest Berno. Jestem pewien.",Stolicą Szwajcaria jest Berno.
+426,Podaj stolicę Szwajcaria.,"Dobre pytanie, pomyślę krótko. Sprawdź: Szwajcaria -> Berno. Zatem: Stolica Szwajcaria nazywa się Berno. Logiczne.",Stolica Szwajcaria nazywa się Berno.
+427,Stolica Szwajcaria?,"Uporządkuję to. Szybki fakt: Berno. Wniosek: Berno. Ok, zdecydowane.",Berno.
+428,Jaka jest stolica Polska?,Uporządkuję to. Fakt: Warszawa jest stolicą Polska. Zatem: Stolicą Polska jest Warszawa. Wszystko jasne w głowie.,Stolicą Polska jest Warszawa.
+429,Podaj stolicę Polska.,"Uporządkuję to. Sprawdź: Polska -> Warszawa. Zatem: Stolica Polska nazywa się Warszawa. Dobrze, dalej.",Stolica Polska nazywa się Warszawa.
+430,Stolica Polska?,Najpierw spokojnie. Szybki fakt: Warszawa. Zatem: Warszawa. Logiczne.,Warszawa.
+431,Jaka jest stolica Czechy?,Najpierw spokojnie. Fakt: Praga jest stolicą Czechy. Zatem: Stolicą Czechy jest Praga. Logiczne.,Stolicą Czechy jest Praga.
+432,Podaj stolicę Czechy.,Przebiegam to w głowie. Sprawdź: Czechy -> Praga. Zatem: Stolica Czechy nazywa się Praga. Koniec myślenia.,Stolica Czechy nazywa się Praga.
+433,Stolica Czechy?,"Chwila, pomyślę. Szybki fakt: Praga. Zatem: Praga. Jestem pewien.",Praga.
+434,Jaka jest stolica Węgry?,"Dobre pytanie, pomyślę krótko. Fakt: Budapeszt jest stolicą Węgry. Zatem: Stolicą Węgry jest Budapeszt. Dobrze, dalej.",Stolicą Węgry jest Budapeszt.
+435,Podaj stolicę Węgry.,"Ok, krok po kroku. Sprawdź: Węgry -> Budapeszt. Zatem: Stolica Węgry nazywa się Budapeszt. To ma sens.",Stolica Węgry nazywa się Budapeszt.
+436,Stolica Węgry?,Uporządkuję to. Szybki fakt: Budapeszt. Odpowiedź więc: Budapeszt. To ma sens.,Budapeszt.
+437,Jaka jest stolica Grecja?,"Uporządkuję to. Fakt: Ateny jest stolicą Grecja. Zatem: Stolicą Grecja jest Ateny. Tak, pasuje.",Stolicą Grecja jest Ateny.
+438,Podaj stolicę Grecja.,"Chwila, pomyślę. Sprawdź: Grecja -> Ateny. Wniosek: Stolica Grecja nazywa się Ateny. Dobrze, dalej.",Stolica Grecja nazywa się Ateny.
+439,Stolica Grecja?,"Dobre pytanie, pomyślę krótko. Szybki fakt: Ateny. Wniosek: Ateny. Tak, pasuje.",Ateny.
+440,Jaka jest stolica Turcja?,"Dobre pytanie, pomyślę krótko. Fakt: Ankara jest stolicą Turcja. Zatem: Stolicą Turcja jest Ankara. Logiczne.",Stolicą Turcja jest Ankara.
+441,Podaj stolicę Turcja.,"No dobrze, pomyślmy. Sprawdź: Turcja -> Ankara. Wniosek: Stolica Turcja nazywa się Ankara. Logiczne.",Stolica Turcja nazywa się Ankara.
+442,Stolica Turcja?,Najpierw spokojnie. Szybki fakt: Ankara. Odpowiedź więc: Ankara. Logiczne.,Ankara.
+443,Jaka jest stolica Norwegia?,"Chwila, pomyślę. Fakt: Oslo jest stolicą Norwegia. Odpowiedź więc: Stolicą Norwegia jest Oslo. Wszystko jasne w głowie.",Stolicą Norwegia jest Oslo.
+444,Podaj stolicę Norwegia.,"Dobre pytanie, pomyślę krótko. Sprawdź: Norwegia -> Oslo. Zatem: Stolica Norwegia nazywa się Oslo. Koniec myślenia.",Stolica Norwegia nazywa się Oslo.
+445,Stolica Norwegia?,Najpierw spokojnie. Szybki fakt: Oslo. Odpowiedź więc: Oslo. Koniec myślenia.,Oslo.
+446,Jaka jest stolica Szwecja?,"Przebiegam to w głowie. Fakt: Sztokholm jest stolicą Szwecja. Odpowiedź więc: Stolicą Szwecja jest Sztokholm. Tak, pasuje.",Stolicą Szwecja jest Sztokholm.
+447,Podaj stolicę Szwecja.,"Chwila, pomyślę. Sprawdź: Szwecja -> Sztokholm. Odpowiedź więc: Stolica Szwecja nazywa się Sztokholm. Tak, pasuje.",Stolica Szwecja nazywa się Sztokholm.
+448,Stolica Szwecja?,Przebiegam to w głowie. Szybki fakt: Sztokholm. Wniosek: Sztokholm. Logiczne.,Sztokholm.
+449,Jaka jest stolica Finlandia?,"Ok, krok po kroku. Fakt: Helsinki jest stolicą Finlandia. Zatem: Stolicą Finlandia jest Helsinki. Tak, pasuje.",Stolicą Finlandia jest Helsinki.
+450,Podaj stolicę Finlandia.,Najpierw spokojnie. Sprawdź: Finlandia -> Helsinki. Wniosek: Stolica Finlandia nazywa się Helsinki. Jestem pewien.,Stolica Finlandia nazywa się Helsinki.
+451,Stolica Finlandia?,Przebiegam to w głowie. Szybki fakt: Helsinki. Zatem: Helsinki. Logiczne.,Helsinki.
+452,Jaka jest stolica Dania?,"No dobrze, pomyślmy. Fakt: Kopenhaga jest stolicą Dania. Wniosek: Stolicą Dania jest Kopenhaga. Logiczne.",Stolicą Dania jest Kopenhaga.
+453,Podaj stolicę Dania.,"Przebiegam to w głowie. Sprawdź: Dania -> Kopenhaga. Wniosek: Stolica Dania nazywa się Kopenhaga. Tak, pasuje.",Stolica Dania nazywa się Kopenhaga.
+454,Stolica Dania?,"No dobrze, pomyślmy. Szybki fakt: Kopenhaga. Odpowiedź więc: Kopenhaga. Dobrze, dalej.",Kopenhaga.
+455,Jaka jest stolica Wielka Brytania?,"Chwila, pomyślę. Fakt: Londyn jest stolicą Wielka Brytania. Wniosek: Stolicą Wielka Brytania jest Londyn. Tak, pasuje.",Stolicą Wielka Brytania jest Londyn.
+456,Podaj stolicę Wielka Brytania.,"Przebiegam to w głowie. Sprawdź: Wielka Brytania -> Londyn. Wniosek: Stolica Wielka Brytania nazywa się Londyn. Ok, zdecydowane.",Stolica Wielka Brytania nazywa się Londyn.
+457,Stolica Wielka Brytania?,"Najpierw spokojnie. Szybki fakt: Londyn. Wniosek: Londyn. Dobrze, dalej.",Londyn.
+458,Jaka jest stolica Irlandia?,Przebiegam to w głowie. Fakt: Dublin jest stolicą Irlandia. Wniosek: Stolicą Irlandia jest Dublin. Wszystko jasne w głowie.,Stolicą Irlandia jest Dublin.
+459,Podaj stolicę Irlandia.,"Hmm, co o tym wiem? Sprawdź: Irlandia -> Dublin. Odpowiedź więc: Stolica Irlandia nazywa się Dublin. Logiczne.",Stolica Irlandia nazywa się Dublin.
+460,Stolica Irlandia?,Przebiegam to w głowie. Szybki fakt: Dublin. Wniosek: Dublin. Wszystko jasne w głowie.,Dublin.
+461,Jaka jest stolica USA?,Uporządkuję to. Fakt: Waszyngton jest stolicą USA. Wniosek: Stolicą USA jest Waszyngton. Wszystko jasne w głowie.,Stolicą USA jest Waszyngton.
+462,Podaj stolicę USA.,Uporządkuję to. Sprawdź: USA -> Waszyngton. Zatem: Stolica USA nazywa się Waszyngton. Logiczne.,Stolica USA nazywa się Waszyngton.
+463,Stolica USA?,Najpierw spokojnie. Szybki fakt: Waszyngton. Odpowiedź więc: Waszyngton. Koniec myślenia.,Waszyngton.
+464,Jaka jest stolica Kanada?,"Ok, krok po kroku. Fakt: Ottawa jest stolicą Kanada. Zatem: Stolicą Kanada jest Ottawa. Ok, zdecydowane.",Stolicą Kanada jest Ottawa.
+465,Podaj stolicę Kanada.,"No dobrze, pomyślmy. Sprawdź: Kanada -> Ottawa. Odpowiedź więc: Stolica Kanada nazywa się Ottawa. Dobrze, dalej.",Stolica Kanada nazywa się Ottawa.
+466,Stolica Kanada?,"No dobrze, pomyślmy. Szybki fakt: Ottawa. Wniosek: Ottawa. Dobrze, dalej.",Ottawa.
+467,Jaka jest stolica Meksyk?,"Dobre pytanie, pomyślę krótko. Fakt: Meksyk jest stolicą Meksyk. Zatem: Stolicą Meksyk jest Meksyk. Logiczne.",Stolicą Meksyk jest Meksyk.
+468,Podaj stolicę Meksyk.,"No dobrze, pomyślmy. Sprawdź: Meksyk -> Meksyk. Zatem: Stolica Meksyk nazywa się Meksyk. Ok, zdecydowane.",Stolica Meksyk nazywa się Meksyk.
+469,Stolica Meksyk?,"Ok, krok po kroku. Szybki fakt: Meksyk. Zatem: Meksyk. Logiczne.",Meksyk.
+470,Jaka jest stolica Brazylia?,Najpierw spokojnie. Fakt: Brasília jest stolicą Brazylia. Zatem: Stolicą Brazylia jest Brasília. Logiczne.,Stolicą Brazylia jest Brasília.
+471,Podaj stolicę Brazylia.,"Hmm, co o tym wiem? Sprawdź: Brazylia -> Brasília. Odpowiedź więc: Stolica Brazylia nazywa się Brasília. Dobrze, dalej.",Stolica Brazylia nazywa się Brasília.
+472,Stolica Brazylia?,Przebiegam to w głowie. Szybki fakt: Brasília. Odpowiedź więc: Brasília. Koniec myślenia.,Brasília.
+473,Jaka jest stolica Argentyna?,"Najpierw spokojnie. Fakt: Buenos Aires jest stolicą Argentyna. Zatem: Stolicą Argentyna jest Buenos Aires. Tak, pasuje.",Stolicą Argentyna jest Buenos Aires.
+474,Podaj stolicę Argentyna.,"Najpierw spokojnie. Sprawdź: Argentyna -> Buenos Aires. Zatem: Stolica Argentyna nazywa się Buenos Aires. Tak, pasuje.",Stolica Argentyna nazywa się Buenos Aires.
+475,Stolica Argentyna?,"Dobre pytanie, pomyślę krótko. Szybki fakt: Buenos Aires. Zatem: Buenos Aires. Wszystko jasne w głowie.",Buenos Aires.
+476,Jaka jest stolica Japonia?,"No dobrze, pomyślmy. Fakt: Tokio jest stolicą Japonia. Zatem: Stolicą Japonia jest Tokio. Ok, zdecydowane.",Stolicą Japonia jest Tokio.
+477,Podaj stolicę Japonia.,"Ok, krok po kroku. Sprawdź: Japonia -> Tokio. Wniosek: Stolica Japonia nazywa się Tokio. Dobrze, dalej.",Stolica Japonia nazywa się Tokio.
+478,Stolica Japonia?,"Chwila, pomyślę. Szybki fakt: Tokio. Wniosek: Tokio. To ma sens.",Tokio.
+479,Jaka jest stolica Chiny?,Najpierw spokojnie. Fakt: Pekin jest stolicą Chiny. Zatem: Stolicą Chiny jest Pekin. Wszystko jasne w głowie.,Stolicą Chiny jest Pekin.
+480,Podaj stolicę Chiny.,"No dobrze, pomyślmy. Sprawdź: Chiny -> Pekin. Odpowiedź więc: Stolica Chiny nazywa się Pekin. Ok, zdecydowane.",Stolica Chiny nazywa się Pekin.
+481,Stolica Chiny?,"No dobrze, pomyślmy. Szybki fakt: Pekin. Zatem: Pekin. To ma sens.",Pekin.
+482,Jaka jest stolica Indie?,Najpierw spokojnie. Fakt: Nowe Delhi jest stolicą Indie. Odpowiedź więc: Stolicą Indie jest Nowe Delhi. Koniec myślenia.,Stolicą Indie jest Nowe Delhi.
+483,Podaj stolicę Indie.,"Hmm, co o tym wiem? Sprawdź: Indie -> Nowe Delhi. Zatem: Stolica Indie nazywa się Nowe Delhi. Ok, zdecydowane.",Stolica Indie nazywa się Nowe Delhi.
+484,Stolica Indie?,"Ok, krok po kroku. Szybki fakt: Nowe Delhi. Odpowiedź więc: Nowe Delhi. Tak, pasuje.",Nowe Delhi.
+485,Jaka jest stolica Australia?,"Dobre pytanie, pomyślę krótko. Fakt: Canberra jest stolicą Australia. Wniosek: Stolicą Australia jest Canberra. Koniec myślenia.",Stolicą Australia jest Canberra.
+486,Podaj stolicę Australia.,"Uporządkuję to. Sprawdź: Australia -> Canberra. Odpowiedź więc: Stolica Australia nazywa się Canberra. Ok, zdecydowane.",Stolica Australia nazywa się Canberra.
+487,Stolica Australia?,"Chwila, pomyślę. Szybki fakt: Canberra. Zatem: Canberra. Tak, pasuje.",Canberra.
+488,Jaka jest stolica Egipt?,"No dobrze, pomyślmy. Fakt: Kair jest stolicą Egipt. Zatem: Stolicą Egipt jest Kair. Tak, pasuje.",Stolicą Egipt jest Kair.
+489,Podaj stolicę Egipt.,"Dobre pytanie, pomyślę krótko. Sprawdź: Egipt -> Kair. Odpowiedź więc: Stolica Egipt nazywa się Kair. Jestem pewien.",Stolica Egipt nazywa się Kair.
+490,Stolica Egipt?,Uporządkuję to. Szybki fakt: Kair. Wniosek: Kair. To ma sens.,Kair.
+491,Ile landów mają Niemcy?,"Hmm, co o tym wiem? Liczyć: 16 landów. Wniosek: Niemcy mają 16 landów. Ok, zdecydowane.",Niemcy mają 16 landów.
+492,Opowiedz krótko o landy niemieckie.,"No dobrze, pomyślmy. Liczyć: 16 landów. Zatem: Niemcy mają 16 landów. Tak, pasuje.",Niemcy mają 16 landów.
+493,Ilu ludzi mieszka w Niemczech około?,"Najpierw spokojnie. Szacunek: 83-84 miliony. Zatem: W Niemczech mieszka około 83-84 miliony ludzi. Tak, pasuje.",W Niemczech mieszka około 83-84 miliony ludzi.
+494,Opowiedz krótko o ludność Niemiec.,"Przebiegam to w głowie. Szacunek: 83-84 miliony. Wniosek: W Niemczech mieszka około 83-84 miliony ludzi. Ok, zdecydowane.",W Niemczech mieszka około 83-84 miliony ludzi.
+495,W jakim języku mówi się w Brazylii?,"Hmm, co o tym wiem? Fakt: portugalski, nie hiszpański. Zatem: W Brazylii mówi się po portugalsku. Koniec myślenia.",W Brazylii mówi się po portugalsku.
+496,Opowiedz krótko o język Brazylii.,"No dobrze, pomyślmy. Fakt: portugalski, nie hiszpański. Odpowiedź więc: W Brazylii mówi się po portugalsku. Wszystko jasne w głowie.",W Brazylii mówi się po portugalsku.
+497,Jaka jest waluta Japonii?,"Chwila, pomyślę. Fakt: jen. Zatem: Walutą Japonii jest jen. Jestem pewien.",Walutą Japonii jest jen.
+498,Opowiedz krótko o waluta Japonii.,Uporządkuję to. Fakt: jen. Wniosek: Walutą Japonii jest jen. Jestem pewien.,Walutą Japonii jest jen.
+499,Jaka jest waluta USA?,"Ok, krok po kroku. Fakt: dolar amerykański. Odpowiedź więc: Walutą USA jest dolar amerykański. Tak, pasuje.",Walutą USA jest dolar amerykański.
+500,Opowiedz krótko o waluta USA.,"Ok, krok po kroku. Fakt: dolar amerykański. Zatem: Walutą USA jest dolar amerykański. Tak, pasuje.",Walutą USA jest dolar amerykański.
+501,Ile jest kontynentów?,"No dobrze, pomyślmy. Zwykły model: 7 kontynentów. Zatem: Zwykle liczymy 7 kontynentów: Afryka, Antarktyda, Azja, Australia, Europa, Ameryka Północna, Ameryka Południowa. Logiczne.","Zwykle liczymy 7 kontynentów: Afryka, Antarktyda, Azja, Australia, Europa, Ameryka Północna, Ameryka Południowa."
+502,Opowiedz krótko o kontynenty.,"Uporządkuję to. Zwykły model: 7 kontynentów. Wniosek: Zwykle liczymy 7 kontynentów: Afryka, Antarktyda, Azja, Australia, Europa, Ameryka Północna, Ameryka Południowa. To ma sens.","Zwykle liczymy 7 kontynentów: Afryka, Antarktyda, Azja, Australia, Europa, Ameryka Północna, Ameryka Południowa."
+503,Jaka jest najdłuższa rzeka świata?,"Najpierw spokojnie. Nil albo Amazonka, sporne. Wniosek: To sporne: wymienia się Nil i Amazonkę, obie ponad 6500 km. To ma sens.","To sporne: wymienia się Nil i Amazonkę, obie ponad 6500 km."
+504,Opowiedz krótko o najdłuższa rzeka.,"Ok, krok po kroku. Nil albo Amazonka, sporne. Zatem: To sporne: wymienia się Nil i Amazonkę, obie ponad 6500 km. Tak, pasuje.","To sporne: wymienia się Nil i Amazonkę, obie ponad 6500 km."
+505,Jaki jest największy kraj świata?,"Hmm, co o tym wiem? Fakt: Rosja powierzchniowo. Zatem: Największym krajem powierzchniowo jest Rosja. Ok, zdecydowane.",Największym krajem powierzchniowo jest Rosja.
+506,Opowiedz krótko o największy kraj.,"Ok, krok po kroku. Fakt: Rosja powierzchniowo. Odpowiedź więc: Największym krajem powierzchniowo jest Rosja. Tak, pasuje.",Największym krajem powierzchniowo jest Rosja.
+507,Jakie jest największe zwierzę świata?,"Najpierw spokojnie. Fakt: płetwal błękitny. Wniosek: Największym zwierzęciem świata jest płetwal błękitny. Tak, pasuje.",Największym zwierzęciem świata jest płetwal błękitny.
+508,Opowiedz krótko o największe zwierzę.,"Hmm, co o tym wiem? Fakt: płetwal błękitny. Zatem: Największym zwierzęciem świata jest płetwal błękitny. Tak, pasuje.",Największym zwierzęciem świata jest płetwal błękitny.
+509,Ile jest oceanów?,"Najpierw spokojnie. Standard: 5 oceanów. Odpowiedź więc: Jest 5 oceanów: Atlantycki, Spokojny, Indyjski, Południowy i Arktyczny. Ok, zdecydowane.","Jest 5 oceanów: Atlantycki, Spokojny, Indyjski, Południowy i Arktyczny."
+510,Opowiedz krótko o oceany.,"No dobrze, pomyślmy. Standard: 5 oceanów. Wniosek: Jest 5 oceanów: Atlantycki, Spokojny, Indyjski, Południowy i Arktyczny. Ok, zdecydowane.","Jest 5 oceanów: Atlantycki, Spokojny, Indyjski, Południowy i Arktyczny."
+511,Jaka jest najwyższa góra świata?,"Uporządkuję to. Fakt: Everest, 8848 m. Wniosek: Najwyższą górą jest Everest, około 8848 metrów. Jestem pewien.","Najwyższą górą jest Everest, około 8848 metrów."
+512,Opowiedz krótko o najwyższa góra.,"Uporządkuję to. Fakt: Everest, 8848 m. Wniosek: Najwyższą górą jest Everest, około 8848 metrów. Dobrze, dalej.","Najwyższą górą jest Everest, około 8848 metrów."
+513,Jaka jest stolica Kanady?,"Najpierw spokojnie. Fakt: Ottawa, nie Toronto. Zatem: Stolicą Kanady jest Ottawa. Wszystko jasne w głowie.",Stolicą Kanady jest Ottawa.
+514,Opowiedz krótko o stolica Kanady.,"Hmm, co o tym wiem? Fakt: Ottawa, nie Toronto. Odpowiedź więc: Stolicą Kanady jest Ottawa. Logiczne.",Stolicą Kanady jest Ottawa.
+515,Jaka jest stolica Australii?,"Najpierw spokojnie. Fakt: Canberra, nie Sydney. Odpowiedź więc: Stolicą Australii jest Canberra. To ma sens.",Stolicą Australii jest Canberra.
+516,Opowiedz krótko o stolica Australii.,"Przebiegam to w głowie. Fakt: Canberra, nie Sydney. Odpowiedź więc: Stolicą Australii jest Canberra. Wszystko jasne w głowie.",Stolicą Australii jest Canberra.
+517,Jaka jest stolica Turcji?,"Najpierw spokojnie. Fakt: Ankara, nie Stambuł. Odpowiedź więc: Stolicą Turcji jest Ankara. Koniec myślenia.",Stolicą Turcji jest Ankara.
+518,Opowiedz krótko o stolica Turcji.,"Uporządkuję to. Fakt: Ankara, nie Stambuł. Zatem: Stolicą Turcji jest Ankara. Koniec myślenia.",Stolicą Turcji jest Ankara.
+519,Jaka jest stolica Brazylii?,"Przebiegam to w głowie. Fakt: Brasília, nie Rio. Zatem: Stolicą Brazylii jest Brasília. Tak, pasuje.",Stolicą Brazylii jest Brasília.
+520,Opowiedz krótko o stolica Brazylii.,"Dobre pytanie, pomyślę krótko. Fakt: Brasília, nie Rio. Wniosek: Stolicą Brazylii jest Brasília. Tak, pasuje.",Stolicą Brazylii jest Brasília.
+521,W którym roku było lądowanie na Księżycu?,Uporządkuję to. Historia: Apollo 11 w 1969. Zatem: Pierwsze lądowanie na Księżycu było w 1969 z Apollo 11. Wszystko jasne w głowie.,Pierwsze lądowanie na Księżycu było w 1969 z Apollo 11.
+522,Wyjaśnij krótko: lądowanie na Księżycu.,Najpierw spokojnie. Historia: Apollo 11 w 1969. Odpowiedź więc: Pierwsze lądowanie na Księżycu było w 1969 z Apollo 11. Jestem pewien.,Pierwsze lądowanie na Księżycu było w 1969 z Apollo 11.
+523,Co wiesz o lądowanie na Księżycu?,"Chwila, pomyślę. Historia: Apollo 11 w 1969. Zatem: Pierwsze lądowanie na Księżycu było w 1969 z Apollo 11. Koniec myślenia.",Pierwsze lądowanie na Księżycu było w 1969 z Apollo 11.
+524,Kiedy była II wojna światowa?,"No dobrze, pomyślmy. Okres: 1939-1945. Wniosek: II wojna światowa trwała od 1939 do 1945. Koniec myślenia.",II wojna światowa trwała od 1939 do 1945.
+525,Wyjaśnij krótko: II wojna światowa.,"Hmm, co o tym wiem? Okres: 1939-1945. Wniosek: II wojna światowa trwała od 1939 do 1945. Logiczne.",II wojna światowa trwała od 1939 do 1945.
+526,Co wiesz o II wojna światowa?,"Hmm, co o tym wiem? Okres: 1939-1945. Odpowiedź więc: II wojna światowa trwała od 1939 do 1945. Wszystko jasne w głowie.",II wojna światowa trwała od 1939 do 1945.
+527,Kiedy była I wojna światowa?,"Przebiegam to w głowie. Okres: 1914-1918. Wniosek: I wojna światowa trwała od 1914 do 1918. Ok, zdecydowane.",I wojna światowa trwała od 1914 do 1918.
+528,Wyjaśnij krótko: I wojna światowa.,"No dobrze, pomyślmy. Okres: 1914-1918. Zatem: I wojna światowa trwała od 1914 do 1918. Wszystko jasne w głowie.",I wojna światowa trwała od 1914 do 1918.
+529,Co wiesz o I wojna światowa?,"Hmm, co o tym wiem? Okres: 1914-1918. Wniosek: I wojna światowa trwała od 1914 do 1918. Logiczne.",I wojna światowa trwała od 1914 do 1918.
+530,Czym był mur berliński?,"Dobre pytanie, pomyślę krótko. Historia: podział 1961-1989. Odpowiedź więc: Mur berliński był umocnioną granicą między Berlinem Wschodnim a Zachodnim w latach 1961-1989. Jestem pewien.",Mur berliński był umocnioną granicą między Berlinem Wschodnim a Zachodnim w latach 1961-1989.
+531,Wyjaśnij krótko: mur berliński.,"Hmm, co o tym wiem? Historia: podział 1961-1989. Wniosek: Mur berliński był umocnioną granicą między Berlinem Wschodnim a Zachodnim w latach 1961-1989. Koniec myślenia.",Mur berliński był umocnioną granicą między Berlinem Wschodnim a Zachodnim w latach 1961-1989.
+532,Co wiesz o mur berliński?,"No dobrze, pomyślmy. Historia: podział 1961-1989. Wniosek: Mur berliński był umocnioną granicą między Berlinem Wschodnim a Zachodnim w latach 1961-1989. Koniec myślenia.",Mur berliński był umocnioną granicą między Berlinem Wschodnim a Zachodnim w latach 1961-1989.
+533,Kiedy upadł mur berliński?,"No dobrze, pomyślmy. Fakt: 9 listopada 1989. Odpowiedź więc: Mur berliński upadł 9 listopada 1989. Koniec myślenia.",Mur berliński upadł 9 listopada 1989.
+534,Wyjaśnij krótko: upadek muru.,"No dobrze, pomyślmy. Fakt: 9 listopada 1989. Zatem: Mur berliński upadł 9 listopada 1989. Tak, pasuje.",Mur berliński upadł 9 listopada 1989.
+535,Co wiesz o upadek muru?,"Chwila, pomyślę. Fakt: 9 listopada 1989. Odpowiedź więc: Mur berliński upadł 9 listopada 1989. Tak, pasuje.",Mur berliński upadł 9 listopada 1989.
+536,Kto wynalazł telefon?,"Chwila, pomyślę. Historia: Bell 1876, prace Meucciego. Zatem: Telefon opatentował Alexander Graham Bell w 1876, z pionierskimi pracami Antonio Meucciego. Tak, pasuje.","Telefon opatentował Alexander Graham Bell w 1876, z pionierskimi pracami Antonio Meucciego."
+537,Wyjaśnij krótko: telefon.,"Przebiegam to w głowie. Historia: Bell 1876, prace Meucciego. Zatem: Telefon opatentował Alexander Graham Bell w 1876, z pionierskimi pracami Antonio Meucciego. Jestem pewien.","Telefon opatentował Alexander Graham Bell w 1876, z pionierskimi pracami Antonio Meucciego."
+538,Co wiesz o telefon?,"Dobre pytanie, pomyślę krótko. Historia: Bell 1876, prace Meucciego. Wniosek: Telefon opatentował Alexander Graham Bell w 1876, z pionierskimi pracami Antonio Meucciego. Wszystko jasne w głowie.","Telefon opatentował Alexander Graham Bell w 1876, z pionierskimi pracami Antonio Meucciego."
+539,Kto opracował względność?,"Przebiegam to w głowie. Fizyka: Albert Einstein, 1905 i 1915. Odpowiedź więc: Teorię względności opracował Albert Einstein. To ma sens.",Teorię względności opracował Albert Einstein.
+540,Wyjaśnij krótko: względność.,"Uporządkuję to. Fizyka: Albert Einstein, 1905 i 1915. Wniosek: Teorię względności opracował Albert Einstein. To ma sens.",Teorię względności opracował Albert Einstein.
+541,Co wiesz o względność?,"Ok, krok po kroku. Fizyka: Albert Einstein, 1905 i 1915. Zatem: Teorię względności opracował Albert Einstein. Dobrze, dalej.",Teorię względności opracował Albert Einstein.
+542,Czym jest demokracja?,"Hmm, co o tym wiem? Definicja: rządy ludu, wybory, prawa. Wniosek: Demokracja to rządy ludu, zwykle przez wolne wybory i prawa podstawowe. Jestem pewien.","Demokracja to rządy ludu, zwykle przez wolne wybory i prawa podstawowe."
+543,Wyjaśnij krótko: demokracja.,"Chwila, pomyślę. Definicja: rządy ludu, wybory, prawa. Zatem: Demokracja to rządy ludu, zwykle przez wolne wybory i prawa podstawowe. Tak, pasuje.","Demokracja to rządy ludu, zwykle przez wolne wybory i prawa podstawowe."
+544,Co wiesz o demokracja?,"Ok, krok po kroku. Definicja: rządy ludu, wybory, prawa. Odpowiedź więc: Demokracja to rządy ludu, zwykle przez wolne wybory i prawa podstawowe. To ma sens.","Demokracja to rządy ludu, zwykle przez wolne wybory i prawa podstawowe."
+545,Czym jest UE?,"No dobrze, pomyślmy. Unia państw europejskich, wspólny rynek. Odpowiedź więc: UE to unia państw europejskich ze wspólnym rynkiem i instytucjami. Wszystko jasne w głowie.",UE to unia państw europejskich ze wspólnym rynkiem i instytucjami.
+546,Wyjaśnij krótko: UE.,"Ok, krok po kroku. Unia państw europejskich, wspólny rynek. Zatem: UE to unia państw europejskich ze wspólnym rynkiem i instytucjami. Tak, pasuje.",UE to unia państw europejskich ze wspólnym rynkiem i instytucjami.
+547,Co wiesz o UE?,"Dobre pytanie, pomyślę krótko. Unia państw europejskich, wspólny rynek. Odpowiedź więc: UE to unia państw europejskich ze wspólnym rynkiem i instytucjami. To ma sens.",UE to unia państw europejskich ze wspólnym rynkiem i instytucjami.
+548,Ile krajów jest w UE?,"Dobre pytanie, pomyślę krótko. Fakt: 27 państw członkowskich. Zatem: UE ma 27 państw członkowskich. Dobrze, dalej.",UE ma 27 państw członkowskich.
+549,Wyjaśnij krótko: członkowie UE.,"Hmm, co o tym wiem? Fakt: 27 państw członkowskich. Odpowiedź więc: UE ma 27 państw członkowskich. Koniec myślenia.",UE ma 27 państw członkowskich.
+550,Co wiesz o członkowie UE?,"Dobre pytanie, pomyślę krótko. Fakt: 27 państw członkowskich. Odpowiedź więc: UE ma 27 państw członkowskich. Wszystko jasne w głowie.",UE ma 27 państw członkowskich.
+551,Czym jest niemiecka Ustawa Zasadnicza?,"Uporządkuję to. Konstytucja od 1949. Odpowiedź więc: Ustawa Zasadnicza to konstytucja Niemiec, obowiązuje od 1949. Koniec myślenia.","Ustawa Zasadnicza to konstytucja Niemiec, obowiązuje od 1949."
+552,Wyjaśnij krótko: Ustawa Zasadnicza.,"Chwila, pomyślę. Konstytucja od 1949. Wniosek: Ustawa Zasadnicza to konstytucja Niemiec, obowiązuje od 1949. Wszystko jasne w głowie.","Ustawa Zasadnicza to konstytucja Niemiec, obowiązuje od 1949."
+553,Co wiesz o Ustawa Zasadnicza?,"Przebiegam to w głowie. Konstytucja od 1949. Odpowiedź więc: Ustawa Zasadnicza to konstytucja Niemiec, obowiązuje od 1949. To ma sens.","Ustawa Zasadnicza to konstytucja Niemiec, obowiązuje od 1949."
+554,W którym roku zjednoczono Niemcy?,"Hmm, co o tym wiem? Fakt: 1990. Wniosek: Niemcy zjednoczono w 1990. Jestem pewien.",Niemcy zjednoczono w 1990.
+555,Wyjaśnij krótko: zjednoczenie.,"Ok, krok po kroku. Fakt: 1990. Wniosek: Niemcy zjednoczono w 1990. Wszystko jasne w głowie.",Niemcy zjednoczono w 1990.
+556,Co wiesz o zjednoczenie?,"Hmm, co o tym wiem? Fakt: 1990. Zatem: Niemcy zjednoczono w 1990. Wszystko jasne w głowie.",Niemcy zjednoczono w 1990.
+557,Czym było średniowiecze?,"Dobre pytanie, pomyślę krótko. Epoka: około 500-1500. Zatem: Średniowiecze to epoka od około 500 do 1500, między starożytnością a nowożytnością. To ma sens.","Średniowiecze to epoka od około 500 do 1500, między starożytnością a nowożytnością."
+558,Wyjaśnij krótko: średniowiecze.,"No dobrze, pomyślmy. Epoka: około 500-1500. Wniosek: Średniowiecze to epoka od około 500 do 1500, między starożytnością a nowożytnością. Jestem pewien.","Średniowiecze to epoka od około 500 do 1500, między starożytnością a nowożytnością."
+559,Co wiesz o średniowiecze?,"Chwila, pomyślę. Epoka: około 500-1500. Odpowiedź więc: Średniowiecze to epoka od około 500 do 1500, między starożytnością a nowożytnością. Dobrze, dalej.","Średniowiecze to epoka od około 500 do 1500, między starożytnością a nowożytnością."
+560,Kim był Leonardo da Vinci?,"Najpierw spokojnie. Włoski artysta i wynalazca, Mona Lisa. Odpowiedź więc: Leonardo da Vinci był włoskim artystą i wynalazcą, sławnym z Mona Lisy. Koniec myślenia.","Leonardo da Vinci był włoskim artystą i wynalazcą, sławnym z Mona Lisy."
+561,Wyjaśnij krótko: Da Vinci.,"Hmm, co o tym wiem? Włoski artysta i wynalazca, Mona Lisa. Zatem: Leonardo da Vinci był włoskim artystą i wynalazcą, sławnym z Mona Lisy. Tak, pasuje.","Leonardo da Vinci był włoskim artystą i wynalazcą, sławnym z Mona Lisy."
+562,Co wiesz o Da Vinci?,"Ok, krok po kroku. Włoski artysta i wynalazca, Mona Lisa. Odpowiedź więc: Leonardo da Vinci był włoskim artystą i wynalazcą, sławnym z Mona Lisy. Jestem pewien.","Leonardo da Vinci był włoskim artystą i wynalazcą, sławnym z Mona Lisy."
+563,Kim była Maria Skłodowska-Curie?,"Najpierw spokojnie. Fizyczka, promieniotwórczość, dwa Noble. Odpowiedź więc: Maria Skłodowska-Curie badała promieniotwórczość i zdobyła dwa Noble. Koniec myślenia.",Maria Skłodowska-Curie badała promieniotwórczość i zdobyła dwa Noble.
+564,Wyjaśnij krótko: Maria Curie.,"Uporządkuję to. Fizyczka, promieniotwórczość, dwa Noble. Wniosek: Maria Skłodowska-Curie badała promieniotwórczość i zdobyła dwa Noble. Ok, zdecydowane.",Maria Skłodowska-Curie badała promieniotwórczość i zdobyła dwa Noble.
+565,Co wiesz o Maria Curie?,"Najpierw spokojnie. Fizyczka, promieniotwórczość, dwa Noble. Zatem: Maria Skłodowska-Curie badała promieniotwórczość i zdobyła dwa Noble. Dobrze, dalej.",Maria Skłodowska-Curie badała promieniotwórczość i zdobyła dwa Noble.
+566,Czym była Rewolucja Francuska?,"Przebiegam to w głowie. Od 1789, wolność równość braterstwo. Wniosek: Rewolucja Francuska od 1789 obaliła monarchię pod hasłami wolność, równość, braterstwo. To ma sens.","Rewolucja Francuska od 1789 obaliła monarchię pod hasłami wolność, równość, braterstwo."
+567,Wyjaśnij krótko: Rewolucja Francuska.,"No dobrze, pomyślmy. Od 1789, wolność równość braterstwo. Wniosek: Rewolucja Francuska od 1789 obaliła monarchię pod hasłami wolność, równość, braterstwo. Tak, pasuje.","Rewolucja Francuska od 1789 obaliła monarchię pod hasłami wolność, równość, braterstwo."
+568,Co wiesz o Rewolucja Francuska?,"Dobre pytanie, pomyślę krótko. Od 1789, wolność równość braterstwo. Zatem: Rewolucja Francuska od 1789 obaliła monarchię pod hasłami wolność, równość, braterstwo. To ma sens.","Rewolucja Francuska od 1789 obaliła monarchię pod hasłami wolność, równość, braterstwo."
+569,Czym są prawa człowieka?,"Hmm, co o tym wiem? Uniwersalne prawa podstawowe. Zatem: Prawa człowieka to podstawowe prawa każdego, jak życie, wolność i równość. Tak, pasuje.","Prawa człowieka to podstawowe prawa każdego, jak życie, wolność i równość."
+570,Wyjaśnij krótko: prawa człowieka.,"Ok, krok po kroku. Uniwersalne prawa podstawowe. Zatem: Prawa człowieka to podstawowe prawa każdego, jak życie, wolność i równość. Ok, zdecydowane.","Prawa człowieka to podstawowe prawa każdego, jak życie, wolność i równość."
+571,Co wiesz o prawa człowieka?,"Chwila, pomyślę. Uniwersalne prawa podstawowe. Zatem: Prawa człowieka to podstawowe prawa każdego, jak życie, wolność i równość. Koniec myślenia.","Prawa człowieka to podstawowe prawa każdego, jak życie, wolność i równość."
+572,Czym jest inflacja?,"Uporządkuję to. Ekonomia: pieniądz traci wartość, ceny rosną. Zatem: Inflacja oznacza wzrost cen i utratę wartości pieniądza. Tak, pasuje.",Inflacja oznacza wzrost cen i utratę wartości pieniądza.
+573,Wyjaśnij krótko: inflacja.,"Ok, krok po kroku. Ekonomia: pieniądz traci wartość, ceny rosną. Zatem: Inflacja oznacza wzrost cen i utratę wartości pieniądza. Koniec myślenia.",Inflacja oznacza wzrost cen i utratę wartości pieniądza.
+574,Co wiesz o inflacja?,"Hmm, co o tym wiem? Ekonomia: pieniądz traci wartość, ceny rosną. Wniosek: Inflacja oznacza wzrost cen i utratę wartości pieniądza. Jestem pewien.",Inflacja oznacza wzrost cen i utratę wartości pieniądza.
+575,Czym była industrializacja?,"No dobrze, pomyślmy. Maszyny i fabryki od XVIII wieku. Odpowiedź więc: Industrializacja to przejście do maszyn i fabryk od XVIII wieku. Logiczne.",Industrializacja to przejście do maszyn i fabryk od XVIII wieku.
+576,Wyjaśnij krótko: industrializacja.,Przebiegam to w głowie. Maszyny i fabryki od XVIII wieku. Odpowiedź więc: Industrializacja to przejście do maszyn i fabryk od XVIII wieku. Koniec myślenia.,Industrializacja to przejście do maszyn i fabryk od XVIII wieku.
+577,Co wiesz o industrializacja?,"Najpierw spokojnie. Maszyny i fabryki od XVIII wieku. Zatem: Industrializacja to przejście do maszyn i fabryk od XVIII wieku. Ok, zdecydowane.",Industrializacja to przejście do maszyn i fabryk od XVIII wieku.
+578,Kiedy wynaleziono internet?,"Uporządkuję to. ARPANET 1969, WWW 1989. Wniosek: Podstawy to ARPANET w 1969, sieć WWW od 1989. Koniec myślenia.","Podstawy to ARPANET w 1969, sieć WWW od 1989."
+579,Wyjaśnij krótko: internet.,"Najpierw spokojnie. ARPANET 1969, WWW 1989. Zatem: Podstawy to ARPANET w 1969, sieć WWW od 1989. Tak, pasuje.","Podstawy to ARPANET w 1969, sieć WWW od 1989."
+580,Co wiesz o internet?,"Uporządkuję to. ARPANET 1969, WWW 1989. Zatem: Podstawy to ARPANET w 1969, sieć WWW od 1989. Dobrze, dalej.","Podstawy to ARPANET w 1969, sieć WWW od 1989."
+581,Kiedy wynaleziono samochód?,Najpierw spokojnie. Benz 1886. Zatem: Samochód wynalazł Carl Benz pojazdem z 1886. Logiczne.,Samochód wynalazł Carl Benz pojazdem z 1886.
+582,Wyjaśnij krótko: samochód.,Najpierw spokojnie. Benz 1886. Wniosek: Samochód wynalazł Carl Benz pojazdem z 1886. Jestem pewien.,Samochód wynalazł Carl Benz pojazdem z 1886.
+583,Co wiesz o samochód?,"Ok, krok po kroku. Benz 1886. Wniosek: Samochód wynalazł Carl Benz pojazdem z 1886. Dobrze, dalej.",Samochód wynalazł Carl Benz pojazdem z 1886.
+584,Kto wynalazł samolot?,"Uporządkuję to. Bracia Wright, lot 1903. Wniosek: Pierwszy lot silnikowy wykonali bracia Wright w 1903. Tak, pasuje.",Pierwszy lot silnikowy wykonali bracia Wright w 1903.
+585,Wyjaśnij krótko: samolot.,"Hmm, co o tym wiem? Bracia Wright, lot 1903. Zatem: Pierwszy lot silnikowy wykonali bracia Wright w 1903. Dobrze, dalej.",Pierwszy lot silnikowy wykonali bracia Wright w 1903.
+586,Co wiesz o samolot?,"Hmm, co o tym wiem? Bracia Wright, lot 1903. Zatem: Pierwszy lot silnikowy wykonali bracia Wright w 1903. Koniec myślenia.",Pierwszy lot silnikowy wykonali bracia Wright w 1903.
+587,Od ilu lat głosuje się w Niemczech?,"Ok, krok po kroku. Bundestag od 18, eurowybory od 16. Wniosek: Do Bundestagu od 18 lat. W eurowyborach w Niemczech od 16. Wszystko jasne w głowie.",Do Bundestagu od 18 lat. W eurowyborach w Niemczech od 16.
+588,Wyjaśnij krótko: wiek wyborczy.,"Uporządkuję to. Bundestag od 18, eurowybory od 16. Odpowiedź więc: Do Bundestagu od 18 lat. W eurowyborach w Niemczech od 16. Jestem pewien.",Do Bundestagu od 18 lat. W eurowyborach w Niemczech od 16.
+589,Co wiesz o wiek wyborczy?,"No dobrze, pomyślmy. Bundestag od 18, eurowybory od 16. Wniosek: Do Bundestagu od 18 lat. W eurowyborach w Niemczech od 16. Jestem pewien.",Do Bundestagu od 18 lat. W eurowyborach w Niemczech od 16.
+590,"Jak działają wybory, prosto?","Dobre pytanie, pomyślę krótko. Wyborcy głosują, liczenie, mandaty. Odpowiedź więc: Wyborcy głosują, głosy się liczy i mandaty rozdziela według wyniku. Koniec myślenia.","Wyborcy głosują, głosy się liczy i mandaty rozdziela według wyniku."
+591,Wyjaśnij krótko: wybory.,"No dobrze, pomyślmy. Wyborcy głosują, liczenie, mandaty. Zatem: Wyborcy głosują, głosy się liczy i mandaty rozdziela według wyniku. Tak, pasuje.","Wyborcy głosują, głosy się liczy i mandaty rozdziela według wyniku."
+592,Co wiesz o wybory?,"Chwila, pomyślę. Wyborcy głosują, liczenie, mandaty. Zatem: Wyborcy głosują, głosy się liczy i mandaty rozdziela według wyniku. Koniec myślenia.","Wyborcy głosują, głosy się liczy i mandaty rozdziela według wyniku."
+593,Jaka różnica między dyktaturą a demokracją?,Najpierw spokojnie. Jedynowładztwo kontra rządy ludu. Odpowiedź więc: W dyktaturze jedna osoba lub grupa rządzi bez wolnych wyborów; w demokracji władza pochodzi od ludu. To ma sens.,W dyktaturze jedna osoba lub grupa rządzi bez wolnych wyborów; w demokracji władza pochodzi od ludu.
+594,Wyjaśnij krótko: dyktatura a demokracja.,"Ok, krok po kroku. Jedynowładztwo kontra rządy ludu. Zatem: W dyktaturze jedna osoba lub grupa rządzi bez wolnych wyborów; w demokracji władza pochodzi od ludu. Tak, pasuje.",W dyktaturze jedna osoba lub grupa rządzi bez wolnych wyborów; w demokracji władza pochodzi od ludu.
+595,Co wiesz o dyktatura a demokracja?,"Hmm, co o tym wiem? Jedynowładztwo kontra rządy ludu. Wniosek: W dyktaturze jedna osoba lub grupa rządzi bez wolnych wyborów; w demokracji władza pochodzi od ludu. To ma sens.",W dyktaturze jedna osoba lub grupa rządzi bez wolnych wyborów; w demokracji władza pochodzi od ludu.
+596,Co znaczy zrównoważoność?,"Przebiegam to w głowie. Zasoby dla przyszłych pokoleń. Wniosek: Zrównoważoność to życie tak, by przyszłe pokolenia też miały zasoby. Tak, pasuje.","Zrównoważoność to życie tak, by przyszłe pokolenia też miały zasoby."
+597,Wyjaśnij krótko: zrównoważoność.,"Uporządkuję to. Zasoby dla przyszłych pokoleń. Zatem: Zrównoważoność to życie tak, by przyszłe pokolenia też miały zasoby. Koniec myślenia.","Zrównoważoność to życie tak, by przyszłe pokolenia też miały zasoby."
+598,Co wiesz o zrównoważoność?,"Uporządkuję to. Zasoby dla przyszłych pokoleń. Odpowiedź więc: Zrównoważoność to życie tak, by przyszłe pokolenia też miały zasoby. Logiczne.","Zrównoważoność to życie tak, by przyszłe pokolenia też miały zasoby."
+599,Czym jest przemoc i co robić?,"Hmm, co o tym wiem? Powtarzalna; pomoc, dowody. Wniosek: Przemoc to powtarzalne dręczenie. Porozmawiaj z zaufanymi, zbieraj dowody, szukaj pomocy. Koniec myślenia.","Przemoc to powtarzalne dręczenie. Porozmawiaj z zaufanymi, zbieraj dowody, szukaj pomocy."
+600,Wyjaśnij krótko: przemoc rówieśnicza.,"Najpierw spokojnie. Powtarzalna; pomoc, dowody. Odpowiedź więc: Przemoc to powtarzalne dręczenie. Porozmawiaj z zaufanymi, zbieraj dowody, szukaj pomocy. Ok, zdecydowane.","Przemoc to powtarzalne dręczenie. Porozmawiaj z zaufanymi, zbieraj dowody, szukaj pomocy."
+601,Co wiesz o przemoc rówieśnicza?,"Ok, krok po kroku. Powtarzalna; pomoc, dowody. Odpowiedź więc: Przemoc to powtarzalne dręczenie. Porozmawiaj z zaufanymi, zbieraj dowody, szukaj pomocy. Tak, pasuje.","Przemoc to powtarzalne dręczenie. Porozmawiaj z zaufanymi, zbieraj dowody, szukaj pomocy."
+602,Co znaczy pokój?,"Hmm, co o tym wiem? Życie bez wojny i przemocy. Zatem: Pokój to wspólne życie bez wojny i przemocy. Dobrze, dalej.",Pokój to wspólne życie bez wojny i przemocy.
+603,Wyjaśnij krótko: pokój.,"Chwila, pomyślę. Życie bez wojny i przemocy. Odpowiedź więc: Pokój to wspólne życie bez wojny i przemocy. Wszystko jasne w głowie.",Pokój to wspólne życie bez wojny i przemocy.
+604,Co wiesz o pokój?,"Chwila, pomyślę. Życie bez wojny i przemocy. Wniosek: Pokój to wspólne życie bez wojny i przemocy. To ma sens.",Pokój to wspólne życie bez wojny i przemocy.
+605,Co znaczy wolność?,"Uporządkuję to. Żyć wolno nie krzywdząc innych. Wniosek: Wolność to życie na własną rękę bez krzywdzenia innych. Ok, zdecydowane.",Wolność to życie na własną rękę bez krzywdzenia innych.
+606,Wyjaśnij krótko: wolność.,"Ok, krok po kroku. Żyć wolno nie krzywdząc innych. Zatem: Wolność to życie na własną rękę bez krzywdzenia innych. Wszystko jasne w głowie.",Wolność to życie na własną rękę bez krzywdzenia innych.
+607,Co wiesz o wolność?,"Chwila, pomyślę. Żyć wolno nie krzywdząc innych. Odpowiedź więc: Wolność to życie na własną rękę bez krzywdzenia innych. Koniec myślenia.",Wolność to życie na własną rękę bez krzywdzenia innych.
+608,Co znaczy sprawiedliwość?,Najpierw spokojnie. Sprawiedliwe i równe traktowanie wszystkich. Wniosek: Sprawiedliwość to sprawiedliwe i równe traktowanie każdego. Koniec myślenia.,Sprawiedliwość to sprawiedliwe i równe traktowanie każdego.
+609,Wyjaśnij krótko: sprawiedliwość.,"Najpierw spokojnie. Sprawiedliwe i równe traktowanie wszystkich. Odpowiedź więc: Sprawiedliwość to sprawiedliwe i równe traktowanie każdego. Ok, zdecydowane.",Sprawiedliwość to sprawiedliwe i równe traktowanie każdego.
+610,Co wiesz o sprawiedliwość?,"Chwila, pomyślę. Sprawiedliwe i równe traktowanie wszystkich. Zatem: Sprawiedliwość to sprawiedliwe i równe traktowanie każdego. Dobrze, dalej.",Sprawiedliwość to sprawiedliwe i równe traktowanie każdego.
+611,Dlaczego niebo jest niebieskie?,"Chwila, pomyślę. Rozpraszanie Rayleigha rozprasza błękit. Wniosek: Niebo jest niebieskie przez rozpraszanie Rayleigha: światło niebieskie rozprasza się mocniej niż czerwone. Ok, zdecydowane.",Niebo jest niebieskie przez rozpraszanie Rayleigha: światło niebieskie rozprasza się mocniej niż czerwone.
+612,Wyjaśnij niebieskie niebo w jednym zdaniu.,"Uporządkuję to. Rozpraszanie Rayleigha rozprasza błękit. Odpowiedź więc: Niebo jest niebieskie przez rozpraszanie Rayleigha: światło niebieskie rozprasza się mocniej niż czerwone. Tak, pasuje.",Niebo jest niebieskie przez rozpraszanie Rayleigha: światło niebieskie rozprasza się mocniej niż czerwone.
+613,Czym jest niebieskie niebo? (krótko),Przebiegam to w głowie. Rozpraszanie Rayleigha rozprasza błękit. Odpowiedź więc: Niebo jest niebieskie przez rozpraszanie Rayleigha: światło niebieskie rozprasza się mocniej niż czerwone. Wszystko jasne w głowie.,Niebo jest niebieskie przez rozpraszanie Rayleigha: światło niebieskie rozprasza się mocniej niż czerwone.
+614,Jak powstaje deszcz?,"Hmm, co o tym wiem? Cykl: parowanie, kondensacja, opad. Wniosek: Deszcz powstaje przez parowanie: woda wznosi się, stygnie, tworzy chmury i spada kroplami. Ok, zdecydowane.","Deszcz powstaje przez parowanie: woda wznosi się, stygnie, tworzy chmury i spada kroplami."
+615,Wyjaśnij deszcz w jednym zdaniu.,"Przebiegam to w głowie. Cykl: parowanie, kondensacja, opad. Zatem: Deszcz powstaje przez parowanie: woda wznosi się, stygnie, tworzy chmury i spada kroplami. To ma sens.","Deszcz powstaje przez parowanie: woda wznosi się, stygnie, tworzy chmury i spada kroplami."
+616,Czym jest deszcz? (krótko),"Przebiegam to w głowie. Cykl: parowanie, kondensacja, opad. Wniosek: Deszcz powstaje przez parowanie: woda wznosi się, stygnie, tworzy chmury i spada kroplami. Koniec myślenia.","Deszcz powstaje przez parowanie: woda wznosi się, stygnie, tworzy chmury i spada kroplami."
+617,Czym jest fotosynteza?,"No dobrze, pomyślmy. Rośliny: światło, woda, CO2 w cukier i tlen. Odpowiedź więc: Fotosynteza wytwarza cukier i tlen ze światła, wody i CO2. Wszystko jasne w głowie.","Fotosynteza wytwarza cukier i tlen ze światła, wody i CO2."
+618,Wyjaśnij fotosynteza w jednym zdaniu.,"Przebiegam to w głowie. Rośliny: światło, woda, CO2 w cukier i tlen. Odpowiedź więc: Fotosynteza wytwarza cukier i tlen ze światła, wody i CO2. Wszystko jasne w głowie.","Fotosynteza wytwarza cukier i tlen ze światła, wody i CO2."
+619,Czym jest fotosynteza? (krótko),"Ok, krok po kroku. Rośliny: światło, woda, CO2 w cukier i tlen. Wniosek: Fotosynteza wytwarza cukier i tlen ze światła, wody i CO2. Logiczne.","Fotosynteza wytwarza cukier i tlen ze światła, wody i CO2."
+620,Jaka różnica między pogodą a klimatem?,"Dobre pytanie, pomyślę krótko. Pogoda krótko, klimat średnia 30 lat. Zatem: Pogoda to stan krótkotrwały; klimat to średnia z około 30 lat. Tak, pasuje.",Pogoda to stan krótkotrwały; klimat to średnia z około 30 lat.
+621,Wyjaśnij pogoda a klimat w jednym zdaniu.,"Ok, krok po kroku. Pogoda krótko, klimat średnia 30 lat. Odpowiedź więc: Pogoda to stan krótkotrwały; klimat to średnia z około 30 lat. To ma sens.",Pogoda to stan krótkotrwały; klimat to średnia z około 30 lat.
+622,Czym jest pogoda a klimat? (krótko),"Dobre pytanie, pomyślę krótko. Pogoda krótko, klimat średnia 30 lat. Zatem: Pogoda to stan krótkotrwały; klimat to średnia z około 30 lat. To ma sens.",Pogoda to stan krótkotrwały; klimat to średnia z około 30 lat.
+623,"Jak działa lodówka, ogólnie?","Chwila, pomyślę. Czynnik, ciepło wewnątrz na zewnątrz. Zatem: Lodówka pompuje ciepło ze środka na zewnątrz czynnikiem: paruje w środku, pobiera ciepło, oddaje na zewnątrz. Logiczne.","Lodówka pompuje ciepło ze środka na zewnątrz czynnikiem: paruje w środku, pobiera ciepło, oddaje na zewnątrz."
+624,Wyjaśnij lodówka w jednym zdaniu.,"Dobre pytanie, pomyślę krótko. Czynnik, ciepło wewnątrz na zewnątrz. Odpowiedź więc: Lodówka pompuje ciepło ze środka na zewnątrz czynnikiem: paruje w środku, pobiera ciepło, oddaje na zewnątrz. Dobrze, dalej.","Lodówka pompuje ciepło ze środka na zewnątrz czynnikiem: paruje w środku, pobiera ciepło, oddaje na zewnątrz."
+625,Czym jest lodówka? (krótko),"Dobre pytanie, pomyślę krótko. Czynnik, ciepło wewnątrz na zewnątrz. Zatem: Lodówka pompuje ciepło ze środka na zewnątrz czynnikiem: paruje w środku, pobiera ciepło, oddaje na zewnątrz. Tak, pasuje.","Lodówka pompuje ciepło ze środka na zewnątrz czynnikiem: paruje w środku, pobiera ciepło, oddaje na zewnątrz."
+626,"Czym jest prąd, prosto?","Dobre pytanie, pomyślę krótko. Ukierunkowany ruch elektronów. Zatem: Prąd to po prostu ukierunkowany ruch ładunków, zwykle elektronów w przewodzie. Ok, zdecydowane.","Prąd to po prostu ukierunkowany ruch ładunków, zwykle elektronów w przewodzie."
+627,Wyjaśnij prąd w jednym zdaniu.,"Dobre pytanie, pomyślę krótko. Ukierunkowany ruch elektronów. Odpowiedź więc: Prąd to po prostu ukierunkowany ruch ładunków, zwykle elektronów w przewodzie. Ok, zdecydowane.","Prąd to po prostu ukierunkowany ruch ładunków, zwykle elektronów w przewodzie."
+628,Czym jest prąd? (krótko),"Chwila, pomyślę. Ukierunkowany ruch elektronów. Odpowiedź więc: Prąd to po prostu ukierunkowany ruch ładunków, zwykle elektronów w przewodzie. To ma sens.","Prąd to po prostu ukierunkowany ruch ładunków, zwykle elektronów w przewodzie."
+629,"Czym jest woda, chemicznie?","Ok, krok po kroku. H2O, wodór i tlen. Wniosek: Woda to H2O, związek wodoru i tlenu. Jestem pewien.","Woda to H2O, związek wodoru i tlenu."
+630,Wyjaśnij woda chemia w jednym zdaniu.,"Przebiegam to w głowie. H2O, wodór i tlen. Zatem: Woda to H2O, związek wodoru i tlenu. Ok, zdecydowane.","Woda to H2O, związek wodoru i tlenu."
+631,Czym jest woda chemia? (krótko),"Uporządkuję to. H2O, wodór i tlen. Wniosek: Woda to H2O, związek wodoru i tlenu. To ma sens.","Woda to H2O, związek wodoru i tlenu."
+632,Czym jest wirus?,"Chwila, pomyślę. Malutki, potrzebuje komórki gospodarza. Wniosek: Wirus to malutki czynnik, który nie namnaża się bez komórki gospodarza. To ma sens.","Wirus to malutki czynnik, który nie namnaża się bez komórki gospodarza."
+633,Wyjaśnij wirus w jednym zdaniu.,"Ok, krok po kroku. Malutki, potrzebuje komórki gospodarza. Zatem: Wirus to malutki czynnik, który nie namnaża się bez komórki gospodarza. Ok, zdecydowane.","Wirus to malutki czynnik, który nie namnaża się bez komórki gospodarza."
+634,Czym jest wirus? (krótko),"Przebiegam to w głowie. Malutki, potrzebuje komórki gospodarza. Zatem: Wirus to malutki czynnik, który nie namnaża się bez komórki gospodarza. Ok, zdecydowane.","Wirus to malutki czynnik, który nie namnaża się bez komórki gospodarza."
+635,"Czym jest sztuczna inteligencja, prosto?","Najpierw spokojnie. Programy uczące się wzorców. Wniosek: Sztuczna inteligencja to programy uczące się z danych, rozpoznające wzorce i rozwiązujące zadania. Ok, zdecydowane.","Sztuczna inteligencja to programy uczące się z danych, rozpoznające wzorce i rozwiązujące zadania."
+636,Wyjaśnij SI w jednym zdaniu.,"Ok, krok po kroku. Programy uczące się wzorców. Zatem: Sztuczna inteligencja to programy uczące się z danych, rozpoznające wzorce i rozwiązujące zadania. Ok, zdecydowane.","Sztuczna inteligencja to programy uczące się z danych, rozpoznające wzorce i rozwiązujące zadania."
+637,Czym jest SI? (krótko),"Dobre pytanie, pomyślę krótko. Programy uczące się wzorców. Odpowiedź więc: Sztuczna inteligencja to programy uczące się z danych, rozpoznające wzorce i rozwiązujące zadania. To ma sens.","Sztuczna inteligencja to programy uczące się z danych, rozpoznające wzorce i rozwiązujące zadania."
+638,Czym jest przeglądarka?,"Hmm, co o tym wiem? Program do stron, np. Chrome, Firefox. Odpowiedź więc: Przeglądarka to program do otwierania stron, np. Chrome, Firefox, Edge czy Safari. Ok, zdecydowane.","Przeglądarka to program do otwierania stron, np. Chrome, Firefox, Edge czy Safari."
+639,Wyjaśnij przeglądarka w jednym zdaniu.,"Hmm, co o tym wiem? Program do stron, np. Chrome, Firefox. Zatem: Przeglądarka to program do otwierania stron, np. Chrome, Firefox, Edge czy Safari. Jestem pewien.","Przeglądarka to program do otwierania stron, np. Chrome, Firefox, Edge czy Safari."
+640,Czym jest przeglądarka? (krótko),"Dobre pytanie, pomyślę krótko. Program do stron, np. Chrome, Firefox. Wniosek: Przeglądarka to program do otwierania stron, np. Chrome, Firefox, Edge czy Safari. To ma sens.","Przeglądarka to program do otwierania stron, np. Chrome, Firefox, Edge czy Safari."
+641,Czym jest aplikacja?,"Uporządkuję to. Program, zwykle na telefony. Wniosek: Aplikacja to program, zwykle na telefony, np. wiadomości, zdjęcia czy gry. To ma sens.","Aplikacja to program, zwykle na telefony, np. wiadomości, zdjęcia czy gry."
+642,Wyjaśnij aplikacja w jednym zdaniu.,"Chwila, pomyślę. Program, zwykle na telefony. Zatem: Aplikacja to program, zwykle na telefony, np. wiadomości, zdjęcia czy gry. Dobrze, dalej.","Aplikacja to program, zwykle na telefony, np. wiadomości, zdjęcia czy gry."
+643,Czym jest aplikacja? (krótko),"No dobrze, pomyślmy. Program, zwykle na telefony. Zatem: Aplikacja to program, zwykle na telefony, np. wiadomości, zdjęcia czy gry. Ok, zdecydowane.","Aplikacja to program, zwykle na telefony, np. wiadomości, zdjęcia czy gry."
+644,Dlaczego pić wodę?,"Przebiegam to w głowie. Krążenie, koncentracja, skóra, nerki. Zatem: Woda stabilizuje krążenie i koncentrację, pomaga nerkom i skórze, zapobiega bólom głowy. Logiczne.","Woda stabilizuje krążenie i koncentrację, pomaga nerkom i skórze, zapobiega bólom głowy."
+645,Wyjaśnij picie wody w jednym zdaniu.,"Uporządkuję to. Krążenie, koncentracja, skóra, nerki. Odpowiedź więc: Woda stabilizuje krążenie i koncentrację, pomaga nerkom i skórze, zapobiega bólom głowy. To ma sens.","Woda stabilizuje krążenie i koncentrację, pomaga nerkom i skórze, zapobiega bólom głowy."
+646,Czym jest picie wody? (krótko),"No dobrze, pomyślmy. Krążenie, koncentracja, skóra, nerki. Zatem: Woda stabilizuje krążenie i koncentrację, pomaga nerkom i skórze, zapobiega bólom głowy. Ok, zdecydowane.","Woda stabilizuje krążenie i koncentrację, pomaga nerkom i skórze, zapobiega bólom głowy."
+647,Jak długo myć zęby?,"Uporządkuję to. 2 minuty, dwa razy dziennie. Zatem: Około 2 minut, dwa razy dziennie. To ma sens.","Około 2 minut, dwa razy dziennie."
+648,Wyjaśnij mycie zębów w jednym zdaniu.,"Ok, krok po kroku. 2 minuty, dwa razy dziennie. Odpowiedź więc: Około 2 minut, dwa razy dziennie. Tak, pasuje.","Około 2 minut, dwa razy dziennie."
+649,Czym jest mycie zębów? (krótko),"Uporządkuję to. 2 minuty, dwa razy dziennie. Zatem: Około 2 minut, dwa razy dziennie. Koniec myślenia.","Około 2 minut, dwa razy dziennie."
+650,Czym jest grawitacja?,"Ok, krok po kroku. Przyciąganie mas; Ziemia przyciąga. Odpowiedź więc: Grawitacja to przyciąganie mas. Ziemia przyciąga wszystko w dół, więc rzeczy spadają. Tak, pasuje.","Grawitacja to przyciąganie mas. Ziemia przyciąga wszystko w dół, więc rzeczy spadają."
+651,Wyjaśnij grawitacja w jednym zdaniu.,"Najpierw spokojnie. Przyciąganie mas; Ziemia przyciąga. Odpowiedź więc: Grawitacja to przyciąganie mas. Ziemia przyciąga wszystko w dół, więc rzeczy spadają. Logiczne.","Grawitacja to przyciąganie mas. Ziemia przyciąga wszystko w dół, więc rzeczy spadają."
+652,Czym jest grawitacja? (krótko),"Przebiegam to w głowie. Przyciąganie mas; Ziemia przyciąga. Odpowiedź więc: Grawitacja to przyciąganie mas. Ziemia przyciąga wszystko w dół, więc rzeczy spadają. Jestem pewien.","Grawitacja to przyciąganie mas. Ziemia przyciąga wszystko w dół, więc rzeczy spadają."
+653,Czym jest powietrze?,"Uporządkuję to. Mieszanina azotu, tlenu i więcej. Zatem: Powietrze to mieszanina gazów, głównie azot i tlen. Tak, pasuje.","Powietrze to mieszanina gazów, głównie azot i tlen."
+654,Wyjaśnij powietrze w jednym zdaniu.,"Chwila, pomyślę. Mieszanina azotu, tlenu i więcej. Zatem: Powietrze to mieszanina gazów, głównie azot i tlen. Ok, zdecydowane.","Powietrze to mieszanina gazów, głównie azot i tlen."
+655,Czym jest powietrze? (krótko),"Hmm, co o tym wiem? Mieszanina azotu, tlenu i więcej. Zatem: Powietrze to mieszanina gazów, głównie azot i tlen. Ok, zdecydowane.","Powietrze to mieszanina gazów, głównie azot i tlen."
+656,Co robi serce?,"Hmm, co o tym wiem? Pompuje krew po ciele. Odpowiedź więc: Serce pompuje krew po całym ciele. Dobrze, dalej.",Serce pompuje krew po całym ciele.
+657,Wyjaśnij serce w jednym zdaniu.,"Hmm, co o tym wiem? Pompuje krew po ciele. Wniosek: Serce pompuje krew po całym ciele. Wszystko jasne w głowie.",Serce pompuje krew po całym ciele.
+658,Czym jest serce? (krótko),"No dobrze, pomyślmy. Pompuje krew po ciele. Zatem: Serce pompuje krew po całym ciele. Wszystko jasne w głowie.",Serce pompuje krew po całym ciele.
+659,Co robią płuca?,"Przebiegam to w głowie. Pobierają tlen, oddają CO2. Zatem: Płuca pobierają tlen i oddają dwutlenek węgla. Dobrze, dalej.",Płuca pobierają tlen i oddają dwutlenek węgla.
+660,Wyjaśnij płuca w jednym zdaniu.,"No dobrze, pomyślmy. Pobierają tlen, oddają CO2. Odpowiedź więc: Płuca pobierają tlen i oddają dwutlenek węgla. Wszystko jasne w głowie.",Płuca pobierają tlen i oddają dwutlenek węgla.
+661,Czym jest płuca? (krótko),"Ok, krok po kroku. Pobierają tlen, oddają CO2. Odpowiedź więc: Płuca pobierają tlen i oddają dwutlenek węgla. Koniec myślenia.",Płuca pobierają tlen i oddają dwutlenek węgla.
+662,Dlaczego sen jest ważny?,"Ok, krok po kroku. Regeneracja, pamięć, odporność. Odpowiedź więc: Sen wspomaga regenerację, pamięć i odporność. Tak, pasuje.","Sen wspomaga regenerację, pamięć i odporność."
+663,Wyjaśnij sen w jednym zdaniu.,"Dobre pytanie, pomyślę krótko. Regeneracja, pamięć, odporność. Wniosek: Sen wspomaga regenerację, pamięć i odporność. Tak, pasuje.","Sen wspomaga regenerację, pamięć i odporność."
+664,Czym jest sen? (krótko),"Przebiegam to w głowie. Regeneracja, pamięć, odporność. Zatem: Sen wspomaga regenerację, pamięć i odporność. Logiczne.","Sen wspomaga regenerację, pamięć i odporność."
+665,Czym jest gorączka?,"Chwila, pomyślę. Podwyższona temperatura jako obrona. Wniosek: Gorączka to podwyższona temperatura ciała, często obrona przed infekcjami. Koniec myślenia.","Gorączka to podwyższona temperatura ciała, często obrona przed infekcjami."
+666,Wyjaśnij gorączka w jednym zdaniu.,"Chwila, pomyślę. Podwyższona temperatura jako obrona. Odpowiedź więc: Gorączka to podwyższona temperatura ciała, często obrona przed infekcjami. Dobrze, dalej.","Gorączka to podwyższona temperatura ciała, często obrona przed infekcjami."
+667,Czym jest gorączka? (krótko),"Uporządkuję to. Podwyższona temperatura jako obrona. Odpowiedź więc: Gorączka to podwyższona temperatura ciała, często obrona przed infekcjami. Logiczne.","Gorączka to podwyższona temperatura ciała, często obrona przed infekcjami."
+668,Czym jest silne hasło?,"Ok, krok po kroku. Długie, unikalne, w menedżerze. Zatem: Silne hasło jest długie, unikalne na usługę i trzymane w menedżerze. Tak, pasuje.","Silne hasło jest długie, unikalne na usługę i trzymane w menedżerze."
+669,Wyjaśnij silne hasło w jednym zdaniu.,"Chwila, pomyślę. Długie, unikalne, w menedżerze. Wniosek: Silne hasło jest długie, unikalne na usługę i trzymane w menedżerze. Wszystko jasne w głowie.","Silne hasło jest długie, unikalne na usługę i trzymane w menedżerze."
+670,Czym jest silne hasło? (krótko),"Hmm, co o tym wiem? Długie, unikalne, w menedżerze. Wniosek: Silne hasło jest długie, unikalne na usługę i trzymane w menedżerze. Tak, pasuje.","Silne hasło jest długie, unikalne na usługę i trzymane w menedżerze."
+671,Czym jest Wi-Fi?,"Najpierw spokojnie. Bezprzewodowa sieć lokalna. Zatem: Wi-Fi to bezprzewodowa sieć lokalna do internetu bez kabli. Dobrze, dalej.",Wi-Fi to bezprzewodowa sieć lokalna do internetu bez kabli.
+672,Wyjaśnij Wi-Fi w jednym zdaniu.,"Ok, krok po kroku. Bezprzewodowa sieć lokalna. Wniosek: Wi-Fi to bezprzewodowa sieć lokalna do internetu bez kabli. Dobrze, dalej.",Wi-Fi to bezprzewodowa sieć lokalna do internetu bez kabli.
+673,Czym jest Wi-Fi? (krótko),Przebiegam to w głowie. Bezprzewodowa sieć lokalna. Zatem: Wi-Fi to bezprzewodowa sieć lokalna do internetu bez kabli. Jestem pewien.,Wi-Fi to bezprzewodowa sieć lokalna do internetu bez kabli.
+674,Czym jest chmura?,"Chwila, pomyślę. Serwery w internecie do danych i usług. Odpowiedź więc: Chmura to serwery w internecie, gdzie trzymasz dane i używasz usług. Wszystko jasne w głowie.","Chmura to serwery w internecie, gdzie trzymasz dane i używasz usług."
+675,Wyjaśnij chmura w jednym zdaniu.,"Hmm, co o tym wiem? Serwery w internecie do danych i usług. Zatem: Chmura to serwery w internecie, gdzie trzymasz dane i używasz usług. Ok, zdecydowane.","Chmura to serwery w internecie, gdzie trzymasz dane i używasz usług."
+676,Czym jest chmura? (krótko),"Przebiegam to w głowie. Serwery w internecie do danych i usług. Odpowiedź więc: Chmura to serwery w internecie, gdzie trzymasz dane i używasz usług. Ok, zdecydowane.","Chmura to serwery w internecie, gdzie trzymasz dane i używasz usług."
+677,Jak działa GPS?,"Hmm, co o tym wiem? Satelity, czas sygnału, obliczenia. Wniosek: GPS znajduje pozycję z sygnałów satelitów i ich czasu podróży. To ma sens.",GPS znajduje pozycję z sygnałów satelitów i ich czasu podróży.
+678,Wyjaśnij GPS w jednym zdaniu.,"Chwila, pomyślę. Satelity, czas sygnału, obliczenia. Odpowiedź więc: GPS znajduje pozycję z sygnałów satelitów i ich czasu podróży. Dobrze, dalej.",GPS znajduje pozycję z sygnałów satelitów i ich czasu podróży.
+679,Czym jest GPS? (krótko),"Uporządkuję to. Satelity, czas sygnału, obliczenia. Zatem: GPS znajduje pozycję z sygnałów satelitów i ich czasu podróży. Tak, pasuje.",GPS znajduje pozycję z sygnałów satelitów i ich czasu podróży.
+680,Dlaczego jest dzień i noc?,"Uporządkuję to. Obrót Ziemi. Odpowiedź więc: Dzień i noc istnieją, bo Ziemia się obraca. Strona słoneczna ma dzień, druga noc. Jestem pewien.","Dzień i noc istnieją, bo Ziemia się obraca. Strona słoneczna ma dzień, druga noc."
+681,Wyjaśnij dzień i noc w jednym zdaniu.,"Najpierw spokojnie. Obrót Ziemi. Odpowiedź więc: Dzień i noc istnieją, bo Ziemia się obraca. Strona słoneczna ma dzień, druga noc. Wszystko jasne w głowie.","Dzień i noc istnieją, bo Ziemia się obraca. Strona słoneczna ma dzień, druga noc."
+682,Czym jest dzień i noc? (krótko),"No dobrze, pomyślmy. Obrót Ziemi. Zatem: Dzień i noc istnieją, bo Ziemia się obraca. Strona słoneczna ma dzień, druga noc. Tak, pasuje.","Dzień i noc istnieją, bo Ziemia się obraca. Strona słoneczna ma dzień, druga noc."
+683,Dlaczego są pory roku?,"Ok, krok po kroku. Nachylenie osi Ziemi. Odpowiedź więc: Pory roku wynikają z nachylenia osi: każda półkula pochyla się ku słońcu na zmianę. Jestem pewien.",Pory roku wynikają z nachylenia osi: każda półkula pochyla się ku słońcu na zmianę.
+684,Wyjaśnij pory roku w jednym zdaniu.,"Przebiegam to w głowie. Nachylenie osi Ziemi. Zatem: Pory roku wynikają z nachylenia osi: każda półkula pochyla się ku słońcu na zmianę. Dobrze, dalej.",Pory roku wynikają z nachylenia osi: każda półkula pochyla się ku słońcu na zmianę.
+685,Czym jest pory roku? (krótko),"Uporządkuję to. Nachylenie osi Ziemi. Wniosek: Pory roku wynikają z nachylenia osi: każda półkula pochyla się ku słońcu na zmianę. Ok, zdecydowane.",Pory roku wynikają z nachylenia osi: każda półkula pochyla się ku słońcu na zmianę.
+686,Dlaczego Księżyc świeci?,"Chwila, pomyślę. Odbija słońce. Wniosek: Księżyc świeci, bo odbija światło słońca. Wszystko jasne w głowie.","Księżyc świeci, bo odbija światło słońca."
+687,Wyjaśnij jasny Księżyc w jednym zdaniu.,"Ok, krok po kroku. Odbija słońce. Odpowiedź więc: Księżyc świeci, bo odbija światło słońca. To ma sens.","Księżyc świeci, bo odbija światło słońca."
+688,Czym jest jasny Księżyc? (krótko),"Przebiegam to w głowie. Odbija słońce. Wniosek: Księżyc świeci, bo odbija światło słońca. Jestem pewien.","Księżyc świeci, bo odbija światło słońca."
+689,Czym jest Słońce?,Najpierw spokojnie. Gwiazda z gorącego gazu. Wniosek: Słońce to gwiazda z gorącego gazu dająca światło i ciepło. Wszystko jasne w głowie.,Słońce to gwiazda z gorącego gazu dająca światło i ciepło.
+690,Wyjaśnij Słońce w jednym zdaniu.,"Uporządkuję to. Gwiazda z gorącego gazu. Zatem: Słońce to gwiazda z gorącego gazu dająca światło i ciepło. Ok, zdecydowane.",Słońce to gwiazda z gorącego gazu dająca światło i ciepło.
+691,Czym jest Słońce? (krótko),"No dobrze, pomyślmy. Gwiazda z gorącego gazu. Zatem: Słońce to gwiazda z gorącego gazu dająca światło i ciepło. Ok, zdecydowane.",Słońce to gwiazda z gorącego gazu dająca światło i ciepło.
+692,Ile planet ma Układ Słoneczny?,"Najpierw spokojnie. 8 planet. Wniosek: Nasz Układ Słoneczny ma 8 planet: Merkury, Wenus, Ziemia, Mars, Jowisz, Saturn, Uran, Neptun. Jestem pewien.","Nasz Układ Słoneczny ma 8 planet: Merkury, Wenus, Ziemia, Mars, Jowisz, Saturn, Uran, Neptun."
+693,Wyjaśnij planety w jednym zdaniu.,"Chwila, pomyślę. 8 planet. Odpowiedź więc: Nasz Układ Słoneczny ma 8 planet: Merkury, Wenus, Ziemia, Mars, Jowisz, Saturn, Uran, Neptun. Jestem pewien.","Nasz Układ Słoneczny ma 8 planet: Merkury, Wenus, Ziemia, Mars, Jowisz, Saturn, Uran, Neptun."
+694,Czym jest planety? (krótko),"No dobrze, pomyślmy. 8 planet. Odpowiedź więc: Nasz Układ Słoneczny ma 8 planet: Merkury, Wenus, Ziemia, Mars, Jowisz, Saturn, Uran, Neptun. To ma sens.","Nasz Układ Słoneczny ma 8 planet: Merkury, Wenus, Ziemia, Mars, Jowisz, Saturn, Uran, Neptun."
+695,Czym jest atom?,"Uporządkuję to. Najmniejsza jednostka: jądro plus elektrony. Odpowiedź więc: Atom to najmniejsza jednostka materii, z jądra i elektronów. Wszystko jasne w głowie.","Atom to najmniejsza jednostka materii, z jądra i elektronów."
+696,Wyjaśnij atom w jednym zdaniu.,"Dobre pytanie, pomyślę krótko. Najmniejsza jednostka: jądro plus elektrony. Odpowiedź więc: Atom to najmniejsza jednostka materii, z jądra i elektronów. Koniec myślenia.","Atom to najmniejsza jednostka materii, z jądra i elektronów."
+697,Czym jest atom? (krótko),"Ok, krok po kroku. Najmniejsza jednostka: jądro plus elektrony. Zatem: Atom to najmniejsza jednostka materii, z jądra i elektronów. Wszystko jasne w głowie.","Atom to najmniejsza jednostka materii, z jądra i elektronów."
+698,Czym jest recykling?,"Przebiegam to w głowie. Zbierać odpady, robić nowe produkty. Zatem: Recykling zbiera odpady, by robić z nich nowe produkty. Dobrze, dalej.","Recykling zbiera odpady, by robić z nich nowe produkty."
+699,Wyjaśnij recykling w jednym zdaniu.,"Dobre pytanie, pomyślę krótko. Zbierać odpady, robić nowe produkty. Wniosek: Recykling zbiera odpady, by robić z nich nowe produkty. To ma sens.","Recykling zbiera odpady, by robić z nich nowe produkty."
+700,Czym jest recykling? (krótko),"Hmm, co o tym wiem? Zbierać odpady, robić nowe produkty. Odpowiedź więc: Recykling zbiera odpady, by robić z nich nowe produkty. Logiczne.","Recykling zbiera odpady, by robić z nich nowe produkty."
+701,Czym jest efekt cieplarniany?,"Chwila, pomyślę. Gazy trzymają ciepło. Wniosek: Efekt cieplarniany trzyma ciepło. Za dużo gazów ociepla klimat. Ok, zdecydowane.",Efekt cieplarniany trzyma ciepło. Za dużo gazów ociepla klimat.
+702,Wyjaśnij efekt cieplarniany w jednym zdaniu.,Przebiegam to w głowie. Gazy trzymają ciepło. Wniosek: Efekt cieplarniany trzyma ciepło. Za dużo gazów ociepla klimat. Logiczne.,Efekt cieplarniany trzyma ciepło. Za dużo gazów ociepla klimat.
+703,Czym jest efekt cieplarniany? (krótko),Przebiegam to w głowie. Gazy trzymają ciepło. Odpowiedź więc: Efekt cieplarniany trzyma ciepło. Za dużo gazów ociepla klimat. Wszystko jasne w głowie.,Efekt cieplarniany trzyma ciepło. Za dużo gazów ociepla klimat.
+704,Dlaczego pszczoły są ważne?,"Chwila, pomyślę. Zapylanie, plony. Zatem: Pszczoły zapylają rośliny, zapewniając plony i bioróżnorodność. Koniec myślenia.","Pszczoły zapylają rośliny, zapewniając plony i bioróżnorodność."
+705,Wyjaśnij pszczoły w jednym zdaniu.,"Chwila, pomyślę. Zapylanie, plony. Zatem: Pszczoły zapylają rośliny, zapewniając plony i bioróżnorodność. Logiczne.","Pszczoły zapylają rośliny, zapewniając plony i bioróżnorodność."
+706,Czym jest pszczoły? (krótko),"Dobre pytanie, pomyślę krótko. Zapylanie, plony. Zatem: Pszczoły zapylają rośliny, zapewniając plony i bioróżnorodność. Ok, zdecydowane.","Pszczoły zapylają rośliny, zapewniając plony i bioróżnorodność."
+707,Dlaczego liście są zielone?,"Przebiegam to w głowie. Pigment chlorofil. Zatem: Liście są zielone przez chlorofil, pigment fotosyntezy. Jestem pewien.","Liście są zielone przez chlorofil, pigment fotosyntezy."
+708,Wyjaśnij zielone liście w jednym zdaniu.,"No dobrze, pomyślmy. Pigment chlorofil. Wniosek: Liście są zielone przez chlorofil, pigment fotosyntezy. Wszystko jasne w głowie.","Liście są zielone przez chlorofil, pigment fotosyntezy."
+709,Czym jest zielone liście? (krótko),"Chwila, pomyślę. Pigment chlorofil. Wniosek: Liście są zielone przez chlorofil, pigment fotosyntezy. Dobrze, dalej.","Liście są zielone przez chlorofil, pigment fotosyntezy."
+710,Czym jest ssak?,"Hmm, co o tym wiem? Futro, żywy poród, mleko. Wniosek: Ssaki mają futro, rodzą żywe młode i karmią mlekiem. Wszystko jasne w głowie.","Ssaki mają futro, rodzą żywe młode i karmią mlekiem."
+711,Wyjaśnij ssaki w jednym zdaniu.,"Najpierw spokojnie. Futro, żywy poród, mleko. Zatem: Ssaki mają futro, rodzą żywe młode i karmią mlekiem. Koniec myślenia.","Ssaki mają futro, rodzą żywe młode i karmią mlekiem."
+712,Czym jest ssaki? (krótko),"Uporządkuję to. Futro, żywy poród, mleko. Odpowiedź więc: Ssaki mają futro, rodzą żywe młode i karmią mlekiem. Dobrze, dalej.","Ssaki mają futro, rodzą żywe młode i karmią mlekiem."
+713,Jak działa bateria?,"Chwila, pomyślę. Energia chemiczna w elektryczną. Wniosek: Bateria zamienia energię chemiczną w elektryczną. Tak, pasuje.",Bateria zamienia energię chemiczną w elektryczną.
+714,Wyjaśnij baterie w jednym zdaniu.,Przebiegam to w głowie. Energia chemiczna w elektryczną. Odpowiedź więc: Bateria zamienia energię chemiczną w elektryczną. Wszystko jasne w głowie.,Bateria zamienia energię chemiczną w elektryczną.
+715,Czym jest baterie? (krótko),"Chwila, pomyślę. Energia chemiczna w elektryczną. Odpowiedź więc: Bateria zamienia energię chemiczną w elektryczną. Tak, pasuje.",Bateria zamienia energię chemiczną w elektryczną.
+716,Jak działa prąd słoneczny?,"Chwila, pomyślę. Ogniwa: światło w prąd. Wniosek: Ogniwa słoneczne zamieniają światło bezpośrednio w prąd. Koniec myślenia.",Ogniwa słoneczne zamieniają światło bezpośrednio w prąd.
+717,Wyjaśnij prąd słoneczny w jednym zdaniu.,Uporządkuję to. Ogniwa: światło w prąd. Zatem: Ogniwa słoneczne zamieniają światło bezpośrednio w prąd. Koniec myślenia.,Ogniwa słoneczne zamieniają światło bezpośrednio w prąd.
+718,Czym jest prąd słoneczny? (krótko),"Dobre pytanie, pomyślę krótko. Ogniwa: światło w prąd. Wniosek: Ogniwa słoneczne zamieniają światło bezpośrednio w prąd. Dobrze, dalej.",Ogniwa słoneczne zamieniają światło bezpośrednio w prąd.
+719,Czym jest wirus komputerowy?,"Hmm, co o tym wiem? Szkodliwy program, który się rozprzestrzenia. Wniosek: Wirus to szkodliwy program, który się rozprzestrzenia i szkodzi. Chroń aktualizacjami i ostrożnością. Ok, zdecydowane.","Wirus to szkodliwy program, który się rozprzestrzenia i szkodzi. Chroń aktualizacjami i ostrożnością."
+720,Wyjaśnij wirus komputerowy w jednym zdaniu.,"Dobre pytanie, pomyślę krótko. Szkodliwy program, który się rozprzestrzenia. Wniosek: Wirus to szkodliwy program, który się rozprzestrzenia i szkodzi. Chroń aktualizacjami i ostrożnością. To ma sens.","Wirus to szkodliwy program, który się rozprzestrzenia i szkodzi. Chroń aktualizacjami i ostrożnością."
+721,Czym jest wirus komputerowy? (krótko),"No dobrze, pomyślmy. Szkodliwy program, który się rozprzestrzenia. Wniosek: Wirus to szkodliwy program, który się rozprzestrzenia i szkodzi. Chroń aktualizacjami i ostrożnością. Logiczne.","Wirus to szkodliwy program, który się rozprzestrzenia i szkodzi. Chroń aktualizacjami i ostrożnością."
+722,Dlaczego plastik to problem?,"Ok, krok po kroku. Trwałe śmieci, mikroplastik. Zatem: Plastik prawie nie gnije, śmieci naturę i morza, staje się mikroplastikiem. Koniec myślenia.","Plastik prawie nie gnije, śmieci naturę i morza, staje się mikroplastikiem."
+723,Wyjaśnij plastik w jednym zdaniu.,"Przebiegam to w głowie. Trwałe śmieci, mikroplastik. Zatem: Plastik prawie nie gnije, śmieci naturę i morza, staje się mikroplastikiem. Koniec myślenia.","Plastik prawie nie gnije, śmieci naturę i morza, staje się mikroplastikiem."
+724,Czym jest plastik? (krótko),"Ok, krok po kroku. Trwałe śmieci, mikroplastik. Zatem: Plastik prawie nie gnije, śmieci naturę i morza, staje się mikroplastikiem. Tak, pasuje.","Plastik prawie nie gnije, śmieci naturę i morza, staje się mikroplastikiem."
+725,Czym jest trzęsienie ziemi?,"No dobrze, pomyślmy. Płyty ruszają, energia uwalniana. Odpowiedź więc: Trzęsienie następuje, gdy płyty ruszą nagle i uwolnią energię. Jestem pewien.","Trzęsienie następuje, gdy płyty ruszą nagle i uwolnią energię."
+726,Wyjaśnij trzęsienie ziemi w jednym zdaniu.,"Hmm, co o tym wiem? Płyty ruszają, energia uwalniana. Zatem: Trzęsienie następuje, gdy płyty ruszą nagle i uwolnią energię. Wszystko jasne w głowie.","Trzęsienie następuje, gdy płyty ruszą nagle i uwolnią energię."
+727,Czym jest trzęsienie ziemi? (krótko),"No dobrze, pomyślmy. Płyty ruszają, energia uwalniana. Odpowiedź więc: Trzęsienie następuje, gdy płyty ruszą nagle i uwolnią energię. Ok, zdecydowane.","Trzęsienie następuje, gdy płyty ruszą nagle i uwolnią energię."
+728,Czym jest miód?,"Ok, krok po kroku. Pszczoły z nektaru. Odpowiedź więc: Miód robią pszczoły z nektaru kwiatów. To ma sens.",Miód robią pszczoły z nektaru kwiatów.
+729,Wyjaśnij miód w jednym zdaniu.,"Dobre pytanie, pomyślę krótko. Pszczoły z nektaru. Wniosek: Miód robią pszczoły z nektaru kwiatów. Jestem pewien.",Miód robią pszczoły z nektaru kwiatów.
+730,Czym jest miód? (krótko),"Ok, krok po kroku. Pszczoły z nektaru. Odpowiedź więc: Miód robią pszczoły z nektaru kwiatów. Ok, zdecydowane.",Miód robią pszczoły z nektaru kwiatów.
+731,Ile to 25 razy 4?,Uporządkuję to. Liczyć: 25*4=100. Sprawdzenie: 25 razy 4 to 100. Zgadza się. Koniec myślenia.,25 razy 4 to 100.
+732,Ile to 12 procent z 200?,"Najpierw spokojnie. Procent: 200*0,12=24. Sprawdzenie: 12 procent z 200 to 24. Zgadza się. Wszystko jasne w głowie.",12 procent z 200 to 24.
+733,Ile to 7 razy 8 plus 10?,"Dobre pytanie, pomyślę krótko. Kolejność: 7*8=56 +10=66. Kontrola: To 66. Dobrze. Tak, pasuje.",To 66.
+734,Pociąg odjeżdża o 14:30 i jedzie 2h15. Kiedy przyjedzie?,"No dobrze, pomyślmy. Dodać: 14:30 + 2:15 = 16:45. Przeliczenie: Przyjedzie o 16:45. Pasuje. Wszystko jasne w głowie.",Przyjedzie o 16:45.
+735,Mam 3 jabłka i zjadam 1. Ile zostaje?,Uporządkuję to. Odjąć: 3-1=2. Kontrola: Zostają 2 jabłka. Dobrze. Logiczne.,Zostają 2 jabłka.
+736,Kładę się o 22 i wstaję o 6. Ile śpię?,"Ok, krok po kroku. Czas: 22-6 = 8 godzin. Sprawdzenie: Śpisz 8 godzin. Zgadza się. To ma sens.",Śpisz 8 godzin.
+737,Podziel 100 euro na 4 osoby.,"Ok, krok po kroku. Dzielić: 100/4=25. Sprawdzenie: Każdy dostaje 25 euro. Zgadza się. Jestem pewien.",Każdy dostaje 25 euro.
+738,Ile minut to 2 godziny?,"No dobrze, pomyślmy. Przeliczyć: 2*60=120. Przeliczenie: 2 godziny to 120 minut. Pasuje. Jestem pewien.",2 godziny to 120 minut.
+739,Ile dni ma rok?,"Dobre pytanie, pomyślę krótko. Fakt: 365, przestępny 366. Odpowiedź więc: Rok ma 365 dni, przestępny 366. Dobrze, dalej.","Rok ma 365 dni, przestępny 366."
+740,Ile sekund ma minuta?,"No dobrze, pomyślmy. Fakt: 60. Wniosek: Minuta ma 60 sekund. Dobrze, dalej.",Minuta ma 60 sekund.
+741,Ile to 46 plus 51?,"Dobre pytanie, pomyślę krótko. Dodać: 46+51=97. Przeliczenie: 46 plus 51 to 97. Pasuje. Dobrze, dalej.",46 plus 51 to 97.
+742,Ile to 61 minus 28?,Przebiegam to w głowie. Odjąć: 61-28=33. Kontrola: 61 minus 28 to 33. Dobrze. Jestem pewien.,61 minus 28 to 33.
+743,Ile to 3 razy 4?,"No dobrze, pomyślmy. Mnożyć: 3*4=12. Kontrola: 3 razy 4 to 12. Dobrze. Wszystko jasne w głowie.",3 razy 4 to 12.
+744,Ile to 55 dzielone przez 5?,"Hmm, co o tym wiem? Dzielić: 55/5=11. Przeliczenie: 55 dzielone przez 5 to 11. Pasuje. Ok, zdecydowane.",55 dzielone przez 5 to 11.
+745,Ile to 5 procent z 1000?,"Chwila, pomyślę. Procent: 1000*5/100=50. Przeliczenie: 5 procent z 1000 to 50. Pasuje. Ok, zdecydowane.",5 procent z 1000 to 50.
+746,Ile to 46 plus 14?,Przebiegam to w głowie. Dodać: 46+14=60. Kontrola: 46 plus 14 to 60. Dobrze. To ma sens.,46 plus 14 to 60.
+747,Ile to 39 minus 13?,"Hmm, co o tym wiem? Odjąć: 39-13=26. Sprawdzenie: 39 minus 13 to 26. Zgadza się. Wszystko jasne w głowie.",39 minus 13 to 26.
+748,Ile to 5 razy 10?,Uporządkuję to. Mnożyć: 5*10=50. Kontrola: 5 razy 10 to 50. Dobrze. Koniec myślenia.,5 razy 10 to 50.
+749,Ile to 132 dzielone przez 12?,Uporządkuję to. Dzielić: 132/12=11. Sprawdzenie: 132 dzielone przez 12 to 11. Zgadza się. Logiczne.,132 dzielone przez 12 to 11.
+750,Ile to 15 procent z 300?,"Najpierw spokojnie. Procent: 300*15/100=45. Przeliczenie: 15 procent z 300 to 45. Pasuje. Ok, zdecydowane.",15 procent z 300 to 45.
+751,Ile to 53 plus 44?,"Ok, krok po kroku. Dodać: 53+44=97. Sprawdzenie: 53 plus 44 to 97. Zgadza się. Jestem pewien.",53 plus 44 to 97.
+752,Ile to 72 minus 16?,Uporządkuję to. Odjąć: 72-16=56. Kontrola: 72 minus 16 to 56. Dobrze. Koniec myślenia.,72 minus 16 to 56.
+753,Ile to 11 razy 10?,"Hmm, co o tym wiem? Mnożyć: 11*10=110. Sprawdzenie: 11 razy 10 to 110. Zgadza się. To ma sens.",11 razy 10 to 110.
+754,Ile to 10 procent z 1000?,"Hmm, co o tym wiem? Procent: 1000*10/100=100. Przeliczenie: 10 procent z 1000 to 100. Pasuje. Ok, zdecydowane.",10 procent z 1000 to 100.
+755,Ile to 16 plus 19?,"Ok, krok po kroku. Dodać: 16+19=35. Przeliczenie: 16 plus 19 to 35. Pasuje. Koniec myślenia.",16 plus 19 to 35.
+756,Ile to 21 minus 4?,"Najpierw spokojnie. Odjąć: 21-4=17. Sprawdzenie: 21 minus 4 to 17. Zgadza się. Tak, pasuje.",21 minus 4 to 17.
+757,Ile to 9 razy 3?,"Najpierw spokojnie. Mnożyć: 9*3=27. Przeliczenie: 9 razy 3 to 27. Pasuje. Ok, zdecydowane.",9 razy 3 to 27.
+758,Ile to 162 dzielone przez 9?,Przebiegam to w głowie. Dzielić: 162/9=18. Sprawdzenie: 162 dzielone przez 9 to 18. Zgadza się. Logiczne.,162 dzielone przez 9 to 18.
+759,Ile to 5 procent z 500?,Przebiegam to w głowie. Procent: 500*5/100=25. Sprawdzenie: 5 procent z 500 to 25. Zgadza się. Wszystko jasne w głowie.,5 procent z 500 to 25.
+760,Ile to 60 plus 4?,"Przebiegam to w głowie. Dodać: 60+4=64. Przeliczenie: 60 plus 4 to 64. Pasuje. Dobrze, dalej.",60 plus 4 to 64.
+761,Ile to 5 minus 4?,"Ok, krok po kroku. Odjąć: 5-4=1. Przeliczenie: 5 minus 4 to 1. Pasuje. Tak, pasuje.",5 minus 4 to 1.
+762,Ile to 11 razy 6?,Najpierw spokojnie. Mnożyć: 11*6=66. Kontrola: 11 razy 6 to 66. Dobrze. Jestem pewien.,11 razy 6 to 66.
+763,Ile to 100 dzielone przez 10?,"Hmm, co o tym wiem? Dzielić: 100/10=10. Kontrola: 100 dzielone przez 10 to 10. Dobrze. Ok, zdecydowane.",100 dzielone przez 10 to 10.
+764,Ile to 20 procent z 500?,Najpierw spokojnie. Procent: 500*20/100=100. Sprawdzenie: 20 procent z 500 to 100. Zgadza się. Koniec myślenia.,20 procent z 500 to 100.
+765,Ile to 7 plus 12?,"Chwila, pomyślę. Dodać: 7+12=19. Sprawdzenie: 7 plus 12 to 19. Zgadza się. Koniec myślenia.",7 plus 12 to 19.
+766,Ile to 41 minus 14?,"Ok, krok po kroku. Odjąć: 41-14=27. Kontrola: 41 minus 14 to 27. Dobrze. Ok, zdecydowane.",41 minus 14 to 27.
+767,Ile to 5 razy 4?,"Hmm, co o tym wiem? Mnożyć: 5*4=20. Kontrola: 5 razy 4 to 20. Dobrze. Koniec myślenia.",5 razy 4 to 20.
+768,Ile to 114 dzielone przez 6?,Uporządkuję to. Dzielić: 114/6=19. Przeliczenie: 114 dzielone przez 6 to 19. Pasuje. Koniec myślenia.,114 dzielone przez 6 to 19.
+769,Ile to 5 procent z 200?,"No dobrze, pomyślmy. Procent: 200*5/100=10. Kontrola: 5 procent z 200 to 10. Dobrze. Koniec myślenia.",5 procent z 200 to 10.
+770,Ile to 52 plus 59?,"Hmm, co o tym wiem? Dodać: 52+59=111. Kontrola: 52 plus 59 to 111. Dobrze. Ok, zdecydowane.",52 plus 59 to 111.
+771,Ile to 24 minus 3?,"Dobre pytanie, pomyślę krótko. Odjąć: 24-3=21. Kontrola: 24 minus 3 to 21. Dobrze. Jestem pewien.",24 minus 3 to 21.
+772,Ile to 11 razy 9?,"Dobre pytanie, pomyślę krótko. Mnożyć: 11*9=99. Sprawdzenie: 11 razy 9 to 99. Zgadza się. Wszystko jasne w głowie.",11 razy 9 to 99.
+773,Ile to 154 dzielone przez 11?,"Hmm, co o tym wiem? Dzielić: 154/11=14. Sprawdzenie: 154 dzielone przez 11 to 14. Zgadza się. To ma sens.",154 dzielone przez 11 to 14.
+774,Ile to 5 procent z 400?,"No dobrze, pomyślmy. Procent: 400*5/100=20. Sprawdzenie: 5 procent z 400 to 20. Zgadza się. Logiczne.",5 procent z 400 to 20.
+775,Ile to 5 plus 13?,"Dobre pytanie, pomyślę krótko. Dodać: 5+13=18. Sprawdzenie: 5 plus 13 to 18. Zgadza się. Jestem pewien.",5 plus 13 to 18.
+776,Ile to 13 minus 10?,Uporządkuję to. Odjąć: 13-10=3. Przeliczenie: 13 minus 10 to 3. Pasuje. Logiczne.,13 minus 10 to 3.
+777,Ile to 12 razy 7?,"No dobrze, pomyślmy. Mnożyć: 12*7=84. Przeliczenie: 12 razy 7 to 84. Pasuje. Wszystko jasne w głowie.",12 razy 7 to 84.
+778,Ile to 119 dzielone przez 7?,"Hmm, co o tym wiem? Dzielić: 119/7=17. Kontrola: 119 dzielone przez 7 to 17. Dobrze. Tak, pasuje.",119 dzielone przez 7 to 17.
+779,Ile to 20 plus 34?,Najpierw spokojnie. Dodać: 20+34=54. Przeliczenie: 20 plus 34 to 54. Pasuje. Wszystko jasne w głowie.,20 plus 34 to 54.
+780,Ile to 86 minus 68?,"No dobrze, pomyślmy. Odjąć: 86-68=18. Sprawdzenie: 86 minus 68 to 18. Zgadza się. Wszystko jasne w głowie.",86 minus 68 to 18.
+781,Ile to 10 razy 4?,"Hmm, co o tym wiem? Mnożyć: 10*4=40. Przeliczenie: 10 razy 4 to 40. Pasuje. Logiczne.",10 razy 4 to 40.
+782,Ile to 77 dzielone przez 11?,"No dobrze, pomyślmy. Dzielić: 77/11=7. Sprawdzenie: 77 dzielone przez 11 to 7. Zgadza się. Tak, pasuje.",77 dzielone przez 11 to 7.
+783,Ile to 29 plus 17?,"Dobre pytanie, pomyślę krótko. Dodać: 29+17=46. Przeliczenie: 29 plus 17 to 46. Pasuje. Koniec myślenia.",29 plus 17 to 46.
+784,Ile to 90 minus 58?,"Najpierw spokojnie. Odjąć: 90-58=32. Kontrola: 90 minus 58 to 32. Dobrze. Ok, zdecydowane.",90 minus 58 to 32.
+785,Ile to 10 razy 6?,"No dobrze, pomyślmy. Mnożyć: 10*6=60. Przeliczenie: 10 razy 6 to 60. Pasuje. Koniec myślenia.",10 razy 6 to 60.
+786,Ile to 50 dzielone przez 5?,"Dobre pytanie, pomyślę krótko. Dzielić: 50/5=10. Sprawdzenie: 50 dzielone przez 5 to 10. Zgadza się. Logiczne.",50 dzielone przez 5 to 10.
+787,Ile to 16 plus 56?,"Uporządkuję to. Dodać: 16+56=72. Kontrola: 16 plus 56 to 72. Dobrze. Dobrze, dalej.",16 plus 56 to 72.
+788,Ile to 79 minus 65?,"Ok, krok po kroku. Odjąć: 79-65=14. Kontrola: 79 minus 65 to 14. Dobrze. Koniec myślenia.",79 minus 65 to 14.
+789,Ile to 6 razy 2?,"Uporządkuję to. Mnożyć: 6*2=12. Przeliczenie: 6 razy 2 to 12. Pasuje. Dobrze, dalej.",6 razy 2 to 12.
+790,Ile to 15 dzielone przez 5?,"Ok, krok po kroku. Dzielić: 15/5=3. Przeliczenie: 15 dzielone przez 5 to 3. Pasuje. Koniec myślenia.",15 dzielone przez 5 to 3.
+791,Ile to 25 procent z 400?,"Chwila, pomyślę. Procent: 400*25/100=100. Przeliczenie: 25 procent z 400 to 100. Pasuje. Wszystko jasne w głowie.",25 procent z 400 to 100.
+792,Ile to 57 plus 58?,"Hmm, co o tym wiem? Dodać: 57+58=115. Kontrola: 57 plus 58 to 115. Dobrze. To ma sens.",57 plus 58 to 115.
+793,Ile to 28 minus 12?,"Hmm, co o tym wiem? Odjąć: 28-12=16. Kontrola: 28 minus 12 to 16. Dobrze. Logiczne.",28 minus 12 to 16.
+794,Ile to 4 razy 11?,"No dobrze, pomyślmy. Mnożyć: 4*11=44. Sprawdzenie: 4 razy 11 to 44. Zgadza się. Koniec myślenia.",4 razy 11 to 44.
+795,Ile to 34 dzielone przez 2?,"Hmm, co o tym wiem? Dzielić: 34/2=17. Sprawdzenie: 34 dzielone przez 2 to 17. Zgadza się. Koniec myślenia.",34 dzielone przez 2 to 17.
+796,Ile to 30 plus 48?,"No dobrze, pomyślmy. Dodać: 30+48=78. Przeliczenie: 30 plus 48 to 78. Pasuje. Wszystko jasne w głowie.",30 plus 48 to 78.
+797,Ile to 38 minus 3?,Uporządkuję to. Odjąć: 38-3=35. Sprawdzenie: 38 minus 3 to 35. Zgadza się. Jestem pewien.,38 minus 3 to 35.
+798,Ile to 3 razy 3?,"Ok, krok po kroku. Mnożyć: 3*3=9. Sprawdzenie: 3 razy 3 to 9. Zgadza się. Ok, zdecydowane.",3 razy 3 to 9.
+799,Ile to 80 dzielone przez 4?,Uporządkuję to. Dzielić: 80/4=20. Sprawdzenie: 80 dzielone przez 4 to 20. Zgadza się. Logiczne.,80 dzielone przez 4 to 20.
+800,Ile to 50 procent z 500?,"Ok, krok po kroku. Procent: 500*50/100=250. Przeliczenie: 50 procent z 500 to 250. Pasuje. Jestem pewien.",50 procent z 500 to 250.
+801,Ile to 39 plus 52?,"Hmm, co o tym wiem? Dodać: 39+52=91. Przeliczenie: 39 plus 52 to 91. Pasuje. Dobrze, dalej.",39 plus 52 to 91.
+802,Ile to 97 minus 32?,"Uporządkuję to. Odjąć: 97-32=65. Kontrola: 97 minus 32 to 65. Dobrze. Ok, zdecydowane.",97 minus 32 to 65.
+803,Ile to 11 razy 4?,"Ok, krok po kroku. Mnożyć: 11*4=44. Sprawdzenie: 11 razy 4 to 44. Zgadza się. Tak, pasuje.",11 razy 4 to 44.
+804,Ile to 22 dzielone przez 2?,"Dobre pytanie, pomyślę krótko. Dzielić: 22/2=11. Kontrola: 22 dzielone przez 2 to 11. Dobrze. Jestem pewien.",22 dzielone przez 2 to 11.
+805,Ile to 20 procent z 100?,"No dobrze, pomyślmy. Procent: 100*20/100=20. Kontrola: 20 procent z 100 to 20. Dobrze. To ma sens.",20 procent z 100 to 20.
+806,Ile to 46 plus 22?,"Ok, krok po kroku. Dodać: 46+22=68. Przeliczenie: 46 plus 22 to 68. Pasuje. Wszystko jasne w głowie.",46 plus 22 to 68.
+807,Ile to 84 minus 69?,"Chwila, pomyślę. Odjąć: 84-69=15. Kontrola: 84 minus 69 to 15. Dobrze. Logiczne.",84 minus 69 to 15.
+808,Ile to 6 razy 11?,"Uporządkuję to. Mnożyć: 6*11=66. Sprawdzenie: 6 razy 11 to 66. Zgadza się. Dobrze, dalej.",6 razy 11 to 66.
+809,Ile to 36 dzielone przez 9?,"No dobrze, pomyślmy. Dzielić: 36/9=4. Przeliczenie: 36 dzielone przez 9 to 4. Pasuje. Koniec myślenia.",36 dzielone przez 9 to 4.
+810,Ile to 12 plus 26?,"Hmm, co o tym wiem? Dodać: 12+26=38. Kontrola: 12 plus 26 to 38. Dobrze. Wszystko jasne w głowie.",12 plus 26 to 38.
+811,Ile to 37 minus 17?,"Przebiegam to w głowie. Odjąć: 37-17=20. Kontrola: 37 minus 17 to 20. Dobrze. Dobrze, dalej.",37 minus 17 to 20.
+812,Ile to 4 razy 9?,"Chwila, pomyślę. Mnożyć: 4*9=36. Przeliczenie: 4 razy 9 to 36. Pasuje. Wszystko jasne w głowie.",4 razy 9 to 36.
+813,Ile to 192 dzielone przez 12?,"Chwila, pomyślę. Dzielić: 192/12=16. Przeliczenie: 192 dzielone przez 12 to 16. Pasuje. To ma sens.",192 dzielone przez 12 to 16.
+814,Ile to 5 procent z 300?,"Dobre pytanie, pomyślę krótko. Procent: 300*5/100=15. Przeliczenie: 5 procent z 300 to 15. Pasuje. Koniec myślenia.",5 procent z 300 to 15.
+815,Ile to 28 plus 31?,Najpierw spokojnie. Dodać: 28+31=59. Przeliczenie: 28 plus 31 to 59. Pasuje. Jestem pewien.,28 plus 31 to 59.
+816,Ile to 51 minus 46?,"Ok, krok po kroku. Odjąć: 51-46=5. Sprawdzenie: 51 minus 46 to 5. Zgadza się. Koniec myślenia.",51 minus 46 to 5.
+817,Ile to 5 razy 2?,"Najpierw spokojnie. Mnożyć: 5*2=10. Przeliczenie: 5 razy 2 to 10. Pasuje. Dobrze, dalej.",5 razy 2 to 10.
+818,Ile to 68 dzielone przez 4?,"No dobrze, pomyślmy. Dzielić: 68/4=17. Kontrola: 68 dzielone przez 4 to 17. Dobrze. Logiczne.",68 dzielone przez 4 to 17.
+819,Ile to 25 procent z 200?,"No dobrze, pomyślmy. Procent: 200*25/100=50. Sprawdzenie: 25 procent z 200 to 50. Zgadza się. Wszystko jasne w głowie.",25 procent z 200 to 50.
+820,Ile to 11 plus 49?,"No dobrze, pomyślmy. Dodać: 11+49=60. Przeliczenie: 11 plus 49 to 60. Pasuje. Dobrze, dalej.",11 plus 49 to 60.
+821,Ile to 63 minus 35?,"No dobrze, pomyślmy. Odjąć: 63-35=28. Kontrola: 63 minus 35 to 28. Dobrze. Jestem pewien.",63 minus 35 to 28.
+822,Ile to 2 razy 2?,"Ok, krok po kroku. Mnożyć: 2*2=4. Sprawdzenie: 2 razy 2 to 4. Zgadza się. Logiczne.",2 razy 2 to 4.
+823,Ile to 75 dzielone przez 5?,"Hmm, co o tym wiem? Dzielić: 75/5=15. Sprawdzenie: 75 dzielone przez 5 to 15. Zgadza się. Koniec myślenia.",75 dzielone przez 5 to 15.
+824,Ile to 7 plus 27?,"Dobre pytanie, pomyślę krótko. Dodać: 7+27=34. Kontrola: 7 plus 27 to 34. Dobrze. Dobrze, dalej.",7 plus 27 to 34.
+825,Ile to 76 minus 40?,"Chwila, pomyślę. Odjąć: 76-40=36. Przeliczenie: 76 minus 40 to 36. Pasuje. Wszystko jasne w głowie.",76 minus 40 to 36.
+826,Ile to 9 razy 8?,"No dobrze, pomyślmy. Mnożyć: 9*8=72. Kontrola: 9 razy 8 to 72. Dobrze. Jestem pewien.",9 razy 8 to 72.
+827,Ile to 9 dzielone przez 3?,"Chwila, pomyślę. Dzielić: 9/3=3. Przeliczenie: 9 dzielone przez 3 to 3. Pasuje. Dobrze, dalej.",9 dzielone przez 3 to 3.
+828,Ile to 50 procent z 1000?,"Dobre pytanie, pomyślę krótko. Procent: 1000*50/100=500. Sprawdzenie: 50 procent z 1000 to 500. Zgadza się. To ma sens.",50 procent z 1000 to 500.
+829,Ile to 50 plus 48?,"Ok, krok po kroku. Dodać: 50+48=98. Kontrola: 50 plus 48 to 98. Dobrze. Jestem pewien.",50 plus 48 to 98.
+830,Ile to 83 minus 31?,"Dobre pytanie, pomyślę krótko. Odjąć: 83-31=52. Przeliczenie: 83 minus 31 to 52. Pasuje. Tak, pasuje.",83 minus 31 to 52.
+831,Ile to 6 razy 6?,Przebiegam to w głowie. Mnożyć: 6*6=36. Przeliczenie: 6 razy 6 to 36. Pasuje. Koniec myślenia.,6 razy 6 to 36.
+832,Ile to 57 dzielone przez 3?,"Chwila, pomyślę. Dzielić: 57/3=19. Sprawdzenie: 57 dzielone przez 3 to 19. Zgadza się. To ma sens.",57 dzielone przez 3 to 19.
+833,Ile to 10 procent z 400?,"No dobrze, pomyślmy. Procent: 400*10/100=40. Przeliczenie: 10 procent z 400 to 40. Pasuje. Ok, zdecydowane.",10 procent z 400 to 40.
+834,Ile to 31 plus 7?,"Uporządkuję to. Dodać: 31+7=38. Przeliczenie: 31 plus 7 to 38. Pasuje. Ok, zdecydowane.",31 plus 7 to 38.
+835,Ile to 34 minus 25?,"Hmm, co o tym wiem? Odjąć: 34-25=9. Sprawdzenie: 34 minus 25 to 9. Zgadza się. Tak, pasuje.",34 minus 25 to 9.
+836,Ile to 6 razy 7?,"Hmm, co o tym wiem? Mnożyć: 6*7=42. Przeliczenie: 6 razy 7 to 42. Pasuje. Koniec myślenia.",6 razy 7 to 42.
+837,Ile to 88 dzielone przez 11?,"Chwila, pomyślę. Dzielić: 88/11=8. Przeliczenie: 88 dzielone przez 11 to 8. Pasuje. To ma sens.",88 dzielone przez 11 to 8.
+838,Ile to 27 plus 39?,Najpierw spokojnie. Dodać: 27+39=66. Przeliczenie: 27 plus 39 to 66. Pasuje. To ma sens.,27 plus 39 to 66.
+839,Ile to 88 minus 9?,"No dobrze, pomyślmy. Odjąć: 88-9=79. Kontrola: 88 minus 9 to 79. Dobrze. Tak, pasuje.",88 minus 9 to 79.
+840,Ile to 7 razy 11?,"No dobrze, pomyślmy. Mnożyć: 7*11=77. Przeliczenie: 7 razy 11 to 77. Pasuje. Wszystko jasne w głowie.",7 razy 11 to 77.
+841,Ile to 20 procent z 400?,Przebiegam to w głowie. Procent: 400*20/100=80. Kontrola: 20 procent z 400 to 80. Dobrze. Wszystko jasne w głowie.,20 procent z 400 to 80.
+842,Ile to 55 plus 15?,Przebiegam to w głowie. Dodać: 55+15=70. Kontrola: 55 plus 15 to 70. Dobrze. To ma sens.,55 plus 15 to 70.
+843,Ile to 53 minus 26?,"No dobrze, pomyślmy. Odjąć: 53-26=27. Przeliczenie: 53 minus 26 to 27. Pasuje. Dobrze, dalej.",53 minus 26 to 27.
+844,Ile to 2 razy 5?,"Ok, krok po kroku. Mnożyć: 2*5=10. Sprawdzenie: 2 razy 5 to 10. Zgadza się. Koniec myślenia.",2 razy 5 to 10.
+845,Ile to 104 dzielone przez 8?,"Hmm, co o tym wiem? Dzielić: 104/8=13. Przeliczenie: 104 dzielone przez 8 to 13. Pasuje. Wszystko jasne w głowie.",104 dzielone przez 8 to 13.
+846,Film zaczyna się o 20:15 i trwa 90 minut. Kiedy się kończy?,"Najpierw spokojnie. 20:15 + 90 min = 21:45. Kontrola: Kończy się o 21:45. Dobrze. Ok, zdecydowane.",Kończy się o 21:45.
+847,Jest 9:00. Za 3h30 mam wizytę. Kiedy?,"Uporządkuję to. 9:00 + 3:30 = 12:30. Sprawdzenie: Wizyta jest o 12:30. Zgadza się. Dobrze, dalej.",Wizyta jest o 12:30.
+848,Ciasto piecze się 45 minut. Wkładam o 16:20. Kiedy gotowe?,"Hmm, co o tym wiem? 16:20 + 0:45 = 17:05. Kontrola: Gotowe o 17:05. Dobrze. To ma sens.",Gotowe o 17:05.
+849,Szkoła zaczyna się o 8:00 i kończy o 13:15. Jak długo?,"No dobrze, pomyślmy. 13:15 - 8:00 = 5:15. Sprawdzenie: Trwa 5 godzin i 15 minut. Zgadza się. Ok, zdecydowane.",Trwa 5 godzin i 15 minut.
+850,"Jeśli czytam 30 minut od 19:00, kiedy skończę?","Dobre pytanie, pomyślę krótko. 19:00 + 0:30 = 19:30. Sprawdzenie: Skończysz o 19:30. Zgadza się. Wszystko jasne w głowie.",Skończysz o 19:30.
+851,Jak najlepiej uczyć się słówek?,"Przebiegam to w głowie. Krótkie dzienne jednostki, kartki, aktywne użycie. Odpowiedź więc: Najlepiej krótkimi dziennymi jednostkami z kartkami i aktywnym użyciem w zdaniach plus powtórki. To ma sens.",Najlepiej krótkimi dziennymi jednostkami z kartkami i aktywnym użyciem w zdaniach plus powtórki.
+852,nauka słówek - wskazówki?,"Ok, krok po kroku. Krótkie dzienne jednostki, kartki, aktywne użycie. Zatem: Najlepiej krótkimi dziennymi jednostkami z kartkami i aktywnym użyciem w zdaniach plus powtórki. Jestem pewien.",Najlepiej krótkimi dziennymi jednostkami z kartkami i aktywnym użyciem w zdaniach plus powtórki.
+853,Szybki przewodnik: nauka słówek.,"Hmm, co o tym wiem? Krótkie dzienne jednostki, kartki, aktywne użycie. Wniosek: Najlepiej krótkimi dziennymi jednostkami z kartkami i aktywnym użyciem w zdaniach plus powtórki. Ok, zdecydowane.",Najlepiej krótkimi dziennymi jednostkami z kartkami i aktywnym użyciem w zdaniach plus powtórki.
+854,Jak oszczędzać na co dzień?,"No dobrze, pomyślmy. Budżet, abonamenty, gotowanie, porównywanie. Zatem: Ustal budżet, sprawdź abonamenty, gotuj częściej, porównuj ceny i odkładaj najpierw stałą kwotę. Tak, pasuje.","Ustal budżet, sprawdź abonamenty, gotuj częściej, porównuj ceny i odkładaj najpierw stałą kwotę."
+855,oszczędzanie - wskazówki?,"Ok, krok po kroku. Budżet, abonamenty, gotowanie, porównywanie. Wniosek: Ustal budżet, sprawdź abonamenty, gotuj częściej, porównuj ceny i odkładaj najpierw stałą kwotę. Koniec myślenia.","Ustal budżet, sprawdź abonamenty, gotuj częściej, porównuj ceny i odkładaj najpierw stałą kwotę."
+856,Szybki przewodnik: oszczędzanie.,"No dobrze, pomyślmy. Budżet, abonamenty, gotowanie, porównywanie. Zatem: Ustal budżet, sprawdź abonamenty, gotuj częściej, porównuj ceny i odkładaj najpierw stałą kwotę. Wszystko jasne w głowie.","Ustal budżet, sprawdź abonamenty, gotuj częściej, porównuj ceny i odkładaj najpierw stałą kwotę."
+857,"Co ugotować z makaronu, pomidorów i sera?","Chwila, pomyślę. Makaron z sosem pomidorowym i serem. Odpowiedź więc: Zrób makaron z prostym sosem: dopraw, ugotuj, polej makaron, posyp serem. Ok, zdecydowane.","Zrób makaron z prostym sosem: dopraw, ugotuj, polej makaron, posyp serem."
+858,szybki makaron - wskazówki?,"Przebiegam to w głowie. Makaron z sosem pomidorowym i serem. Odpowiedź więc: Zrób makaron z prostym sosem: dopraw, ugotuj, polej makaron, posyp serem. Dobrze, dalej.","Zrób makaron z prostym sosem: dopraw, ugotuj, polej makaron, posyp serem."
+859,Szybki przewodnik: szybki makaron.,"Uporządkuję to. Makaron z sosem pomidorowym i serem. Odpowiedź więc: Zrób makaron z prostym sosem: dopraw, ugotuj, polej makaron, posyp serem. Wszystko jasne w głowie.","Zrób makaron z prostym sosem: dopraw, ugotuj, polej makaron, posyp serem."
+860,"Jutro lecę, co zabrać?","No dobrze, pomyślmy. Lista: dowód, bilet, pieniądze, telefon, ładowarka. Wniosek: Zabierz: dowód lub paszport, bilet, pieniądze, telefon plus ładowarkę, leki, higienę i zmianę do kabiny. Tak, pasuje.","Zabierz: dowód lub paszport, bilet, pieniądze, telefon plus ładowarkę, leki, higienę i zmianę do kabiny."
+861,bagaż na lot - wskazówki?,"Hmm, co o tym wiem? Lista: dowód, bilet, pieniądze, telefon, ładowarka. Wniosek: Zabierz: dowód lub paszport, bilet, pieniądze, telefon plus ładowarkę, leki, higienę i zmianę do kabiny. Koniec myślenia.","Zabierz: dowód lub paszport, bilet, pieniądze, telefon plus ładowarkę, leki, higienę i zmianę do kabiny."
+862,Szybki przewodnik: bagaż na lot.,"Ok, krok po kroku. Lista: dowód, bilet, pieniądze, telefon, ładowarka. Zatem: Zabierz: dowód lub paszport, bilet, pieniądze, telefon plus ładowarkę, leki, higienę i zmianę do kabiny. Jestem pewien.","Zabierz: dowód lub paszport, bilet, pieniądze, telefon plus ładowarkę, leki, higienę i zmianę do kabiny."
+863,Jak napisać dobre przeprosiny?,"Dobre pytanie, pomyślę krótko. Nazwij błąd, odpowiedzialność, naprawa. Odpowiedź więc: Nazwij błąd, weź odpowiedzialność, okaż żal i zaproponuj naprawę, krótko i szczerze. Ok, zdecydowane.","Nazwij błąd, weź odpowiedzialność, okaż żal i zaproponuj naprawę, krótko i szczerze."
+864,przeprosiny - wskazówki?,"Dobre pytanie, pomyślę krótko. Nazwij błąd, odpowiedzialność, naprawa. Zatem: Nazwij błąd, weź odpowiedzialność, okaż żal i zaproponuj naprawę, krótko i szczerze. Koniec myślenia.","Nazwij błąd, weź odpowiedzialność, okaż żal i zaproponuj naprawę, krótko i szczerze."
+865,Szybki przewodnik: przeprosiny.,"Hmm, co o tym wiem? Nazwij błąd, odpowiedzialność, naprawa. Zatem: Nazwij błąd, weź odpowiedzialność, okaż żal i zaproponuj naprawę, krótko i szczerze. Wszystko jasne w głowie.","Nazwij błąd, weź odpowiedzialność, okaż żal i zaproponuj naprawę, krótko i szczerze."
+866,Jak zaplanować 3 dni w mieście?,"Ok, krok po kroku. Dojazd, hotel, 2-3 punkty dziennie. Odpowiedź więc: Ustal dojazd i hotel, wybierz 2-3 punkty dziennie, zaplanuj zapasy i budżet dzienny. To ma sens.","Ustal dojazd i hotel, wybierz 2-3 punkty dziennie, zaplanuj zapasy i budżet dzienny."
+867,wypad do miasta - wskazówki?,"Dobre pytanie, pomyślę krótko. Dojazd, hotel, 2-3 punkty dziennie. Odpowiedź więc: Ustal dojazd i hotel, wybierz 2-3 punkty dziennie, zaplanuj zapasy i budżet dzienny. Dobrze, dalej.","Ustal dojazd i hotel, wybierz 2-3 punkty dziennie, zaplanuj zapasy i budżet dzienny."
+868,Szybki przewodnik: wypad do miasta.,"Dobre pytanie, pomyślę krótko. Dojazd, hotel, 2-3 punkty dziennie. Zatem: Ustal dojazd i hotel, wybierz 2-3 punkty dziennie, zaplanuj zapasy i budżet dzienny. Wszystko jasne w głowie.","Ustal dojazd i hotel, wybierz 2-3 punkty dziennie, zaplanuj zapasy i budżet dzienny."
+869,Parasol przy 80 procentach deszczu?,"Hmm, co o tym wiem? 80% dużo, tak zalecane. Zatem: Tak, zabierz. Przy 80 procentach deszcz bardzo prawdopodobny. To ma sens.","Tak, zabierz. Przy 80 procentach deszcz bardzo prawdopodobny."
+870,parasol - wskazówki?,"Przebiegam to w głowie. 80% dużo, tak zalecane. Wniosek: Tak, zabierz. Przy 80 procentach deszcz bardzo prawdopodobny. Dobrze, dalej.","Tak, zabierz. Przy 80 procentach deszcz bardzo prawdopodobny."
+871,Szybki przewodnik: parasol.,"Najpierw spokojnie. 80% dużo, tak zalecane. Wniosek: Tak, zabierz. Przy 80 procentach deszcz bardzo prawdopodobny. Logiczne.","Tak, zabierz. Przy 80 procentach deszcz bardzo prawdopodobny."
+872,Co lepsze do notatek: papier czy telefon?,"Uporządkuję to. Papier bez rozpraszania, telefon przeszukiwalny. Zatem: Oba mają plusy: papier bez rozpraszania i dobry do pamięci, telefon przeszukiwalny i zawsze przy Tobie. Logiczne.","Oba mają plusy: papier bez rozpraszania i dobry do pamięci, telefon przeszukiwalny i zawsze przy Tobie."
+873,notatki papier czy telefon - wskazówki?,"Hmm, co o tym wiem? Papier bez rozpraszania, telefon przeszukiwalny. Zatem: Oba mają plusy: papier bez rozpraszania i dobry do pamięci, telefon przeszukiwalny i zawsze przy Tobie. Tak, pasuje.","Oba mają plusy: papier bez rozpraszania i dobry do pamięci, telefon przeszukiwalny i zawsze przy Tobie."
+874,Szybki przewodnik: notatki papier czy telefon.,"Przebiegam to w głowie. Papier bez rozpraszania, telefon przeszukiwalny. Zatem: Oba mają plusy: papier bez rozpraszania i dobry do pamięci, telefon przeszukiwalny i zawsze przy Tobie. Dobrze, dalej.","Oba mają plusy: papier bez rozpraszania i dobry do pamięci, telefon przeszukiwalny i zawsze przy Tobie."
+875,Jak szybko posprzątać pokój?,"No dobrze, pomyślmy. Śmieci, pranie, odłożyć, wytrzeć. Odpowiedź więc: Najpierw zbierz śmieci, potem pranie, odłóż wszystko i wytrzyj na końcu. Tak, pasuje.","Najpierw zbierz śmieci, potem pranie, odłóż wszystko i wytrzyj na końcu."
+876,szybkie sprzątanie - wskazówki?,"Chwila, pomyślę. Śmieci, pranie, odłożyć, wytrzeć. Zatem: Najpierw zbierz śmieci, potem pranie, odłóż wszystko i wytrzyj na końcu. Logiczne.","Najpierw zbierz śmieci, potem pranie, odłóż wszystko i wytrzyj na końcu."
+877,Szybki przewodnik: szybkie sprzątanie.,"Chwila, pomyślę. Śmieci, pranie, odłożyć, wytrzeć. Odpowiedź więc: Najpierw zbierz śmieci, potem pranie, odłóż wszystko i wytrzyj na końcu. Jestem pewien.","Najpierw zbierz śmieci, potem pranie, odłóż wszystko i wytrzyj na końcu."
+878,Jak spakować walizkę kompaktowo?,"Hmm, co o tym wiem? Rolować, ciężkie na dół, wypełnić. Odpowiedź więc: Roluj ubrania zamiast składać, ciężkie na dół, wypełnij skarpetkami. Jestem pewien.","Roluj ubrania zamiast składać, ciężkie na dół, wypełnij skarpetkami."
+879,kompaktowa walizka - wskazówki?,"No dobrze, pomyślmy. Rolować, ciężkie na dół, wypełnić. Zatem: Roluj ubrania zamiast składać, ciężkie na dół, wypełnij skarpetkami. Tak, pasuje.","Roluj ubrania zamiast składać, ciężkie na dół, wypełnij skarpetkami."
+880,Szybki przewodnik: kompaktowa walizka.,"Przebiegam to w głowie. Rolować, ciężkie na dół, wypełnić. Odpowiedź więc: Roluj ubrania zamiast składać, ciężkie na dół, wypełnij skarpetkami. Jestem pewien.","Roluj ubrania zamiast składać, ciężkie na dół, wypełnij skarpetkami."
+881,Jak ugotować ryż?,"No dobrze, pomyślmy. Proporcja 1:2, gotować 10-12 min. Odpowiedź więc: Umyj ryż, zagotuj z podwójną wodą, gotuj około 10-12 minut. Jestem pewien.","Umyj ryż, zagotuj z podwójną wodą, gotuj około 10-12 minut."
+882,gotowanie ryżu - wskazówki?,"No dobrze, pomyślmy. Proporcja 1:2, gotować 10-12 min. Wniosek: Umyj ryż, zagotuj z podwójną wodą, gotuj około 10-12 minut. Koniec myślenia.","Umyj ryż, zagotuj z podwójną wodą, gotuj około 10-12 minut."
+883,Szybki przewodnik: gotowanie ryżu.,"Hmm, co o tym wiem? Proporcja 1:2, gotować 10-12 min. Odpowiedź więc: Umyj ryż, zagotuj z podwójną wodą, gotuj około 10-12 minut. Jestem pewien.","Umyj ryż, zagotuj z podwójną wodą, gotuj około 10-12 minut."
+884,Jak ugotować makaron?,"Ok, krok po kroku. Osolona woda, gotować 8-10 min. Wniosek: Posól dużo wody, zagotuj, gotuj makaron 8-10 minut, odcedź. Ok, zdecydowane.","Posól dużo wody, zagotuj, gotuj makaron 8-10 minut, odcedź."
+885,gotowanie makaronu - wskazówki?,"Najpierw spokojnie. Osolona woda, gotować 8-10 min. Wniosek: Posól dużo wody, zagotuj, gotuj makaron 8-10 minut, odcedź. To ma sens.","Posól dużo wody, zagotuj, gotuj makaron 8-10 minut, odcedź."
+886,Szybki przewodnik: gotowanie makaronu.,"Uporządkuję to. Osolona woda, gotować 8-10 min. Wniosek: Posól dużo wody, zagotuj, gotuj makaron 8-10 minut, odcedź. Ok, zdecydowane.","Posól dużo wody, zagotuj, gotuj makaron 8-10 minut, odcedź."
+887,Jak zrobić naleśniki?,"Uporządkuję to. Mąka, mleko, jajko, zrumienić. Odpowiedź więc: Wymieszaj mąkę, mleko, jajko i szczyptę soli, smaż cienko na złoto. Logiczne.","Wymieszaj mąkę, mleko, jajko i szczyptę soli, smaż cienko na złoto."
+888,naleśniki - wskazówki?,"Chwila, pomyślę. Mąka, mleko, jajko, zrumienić. Odpowiedź więc: Wymieszaj mąkę, mleko, jajko i szczyptę soli, smaż cienko na złoto. Jestem pewien.","Wymieszaj mąkę, mleko, jajko i szczyptę soli, smaż cienko na złoto."
+889,Szybki przewodnik: naleśniki.,"Ok, krok po kroku. Mąka, mleko, jajko, zrumienić. Zatem: Wymieszaj mąkę, mleko, jajko i szczyptę soli, smaż cienko na złoto. Koniec myślenia.","Wymieszaj mąkę, mleko, jajko i szczyptę soli, smaż cienko na złoto."
+890,Jak obudzić się rano?,"Uporządkuję to. Światło, woda, ruch. Odpowiedź więc: Włącz światło, wypij wodę, poruszaj się chwilę i weź powietrza. Wszystko jasne w głowie.","Włącz światło, wypij wodę, poruszaj się chwilę i weź powietrza."
+891,pobudka - wskazówki?,"Hmm, co o tym wiem? Światło, woda, ruch. Wniosek: Włącz światło, wypij wodę, poruszaj się chwilę i weź powietrza. Dobrze, dalej.","Włącz światło, wypij wodę, poruszaj się chwilę i weź powietrza."
+892,Szybki przewodnik: pobudka.,"Dobre pytanie, pomyślę krótko. Światło, woda, ruch. Wniosek: Włącz światło, wypij wodę, poruszaj się chwilę i weź powietrza. Koniec myślenia.","Włącz światło, wypij wodę, poruszaj się chwilę i weź powietrza."
+893,Jak szybciej zasnąć?,"Chwila, pomyślę. Ciemno, chłodno, bez telefonu, rutyna. Wniosek: Śpij ciemno i chłodno, odłóż telefon, trzymaj stałą rutynę. Dobrze, dalej.","Śpij ciemno i chłodno, odłóż telefon, trzymaj stałą rutynę."
+894,zasypianie - wskazówki?,"Chwila, pomyślę. Ciemno, chłodno, bez telefonu, rutyna. Wniosek: Śpij ciemno i chłodno, odłóż telefon, trzymaj stałą rutynę. Jestem pewien.","Śpij ciemno i chłodno, odłóż telefon, trzymaj stałą rutynę."
+895,Szybki przewodnik: zasypianie.,"Ok, krok po kroku. Ciemno, chłodno, bez telefonu, rutyna. Odpowiedź więc: Śpij ciemno i chłodno, odłóż telefon, trzymaj stałą rutynę. Jestem pewien.","Śpij ciemno i chłodno, odłóż telefon, trzymaj stałą rutynę."
+896,Jak uczyć się do egzaminu?,"No dobrze, pomyślmy. Bloki, aktywne odpytywanie, przerwy. Zatem: Podziel na bloki, odpytuj się aktywnie, rób przerwy, powtórz następnego dnia. Koniec myślenia.","Podziel na bloki, odpytuj się aktywnie, rób przerwy, powtórz następnego dnia."
+897,nauka do egzaminu - wskazówki?,"Najpierw spokojnie. Bloki, aktywne odpytywanie, przerwy. Wniosek: Podziel na bloki, odpytuj się aktywnie, rób przerwy, powtórz następnego dnia. To ma sens.","Podziel na bloki, odpytuj się aktywnie, rób przerwy, powtórz następnego dnia."
+898,Szybki przewodnik: nauka do egzaminu.,"Ok, krok po kroku. Bloki, aktywne odpytywanie, przerwy. Odpowiedź więc: Podziel na bloki, odpytuj się aktywnie, rób przerwy, powtórz następnego dnia. Logiczne.","Podziel na bloki, odpytuj się aktywnie, rób przerwy, powtórz następnego dnia."
+899,Jak napisać podanie o pracę?,"Przebiegam to w głowie. List, CV, dyplomy. Zatem: Napisz krótki list plus tabelaryczne CV i istotne dyplomy. Wszystko jasne w głowie.",Napisz krótki list plus tabelaryczne CV i istotne dyplomy.
+900,podanie o pracę - wskazówki?,"Przebiegam to w głowie. List, CV, dyplomy. Odpowiedź więc: Napisz krótki list plus tabelaryczne CV i istotne dyplomy. To ma sens.",Napisz krótki list plus tabelaryczne CV i istotne dyplomy.
+901,Szybki przewodnik: podanie o pracę.,"Uporządkuję to. List, CV, dyplomy. Odpowiedź więc: Napisz krótki list plus tabelaryczne CV i istotne dyplomy. Wszystko jasne w głowie.",Napisz krótki list plus tabelaryczne CV i istotne dyplomy.
+902,Jak znaleźć mieszkanie?,"Przebiegam to w głowie. Budżet, portale, dokumenty, oglądanie. Odpowiedź więc: Ustal budżet, szukaj na portalach, przygotuj dokumenty, oglądaj z pytaniami. Ok, zdecydowane.","Ustal budżet, szukaj na portalach, przygotuj dokumenty, oglądaj z pytaniami."
+903,szukanie mieszkania - wskazówki?,"Ok, krok po kroku. Budżet, portale, dokumenty, oglądanie. Zatem: Ustal budżet, szukaj na portalach, przygotuj dokumenty, oglądaj z pytaniami. Tak, pasuje.","Ustal budżet, szukaj na portalach, przygotuj dokumenty, oglądaj z pytaniami."
+904,Szybki przewodnik: szukanie mieszkania.,"Przebiegam to w głowie. Budżet, portale, dokumenty, oglądanie. Wniosek: Ustal budżet, szukaj na portalach, przygotuj dokumenty, oglądaj z pytaniami. Tak, pasuje.","Ustal budżet, szukaj na portalach, przygotuj dokumenty, oglądaj z pytaniami."
+905,Jak prawidłowo podlewać kwiaty?,"Uporządkuję to. Test palca, bez zalewania. Wniosek: Test palca: podlewaj tylko gdy góra sucha, unikaj zalewania. Tak, pasuje.","Test palca: podlewaj tylko gdy góra sucha, unikaj zalewania."
+906,podlewanie kwiatów - wskazówki?,"Dobre pytanie, pomyślę krótko. Test palca, bez zalewania. Zatem: Test palca: podlewaj tylko gdy góra sucha, unikaj zalewania. Tak, pasuje.","Test palca: podlewaj tylko gdy góra sucha, unikaj zalewania."
+907,Szybki przewodnik: podlewanie kwiatów.,"Chwila, pomyślę. Test palca, bez zalewania. Wniosek: Test palca: podlewaj tylko gdy góra sucha, unikaj zalewania. Tak, pasuje.","Test palca: podlewaj tylko gdy góra sucha, unikaj zalewania."
+908,Jak zorganizować dzień?,"Uporządkuję to. 3 priorytety, bloki, przerwy. Odpowiedź więc: Wybierz 3 priorytety, planuj bloki z przerwami, odłóż rozpraszacze. Koniec myślenia.","Wybierz 3 priorytety, planuj bloki z przerwami, odłóż rozpraszacze."
+909,organizacja dnia - wskazówki?,"Hmm, co o tym wiem? 3 priorytety, bloki, przerwy. Zatem: Wybierz 3 priorytety, planuj bloki z przerwami, odłóż rozpraszacze. Logiczne.","Wybierz 3 priorytety, planuj bloki z przerwami, odłóż rozpraszacze."
+910,Szybki przewodnik: organizacja dnia.,"Hmm, co o tym wiem? 3 priorytety, bloki, przerwy. Zatem: Wybierz 3 priorytety, planuj bloki z przerwami, odłóż rozpraszacze. To ma sens.","Wybierz 3 priorytety, planuj bloki z przerwami, odłóż rozpraszacze."
+911,Jak zacząć sport?,"Uporządkuję to. Mało, 2x w tygodniu, zwiększać. Wniosek: Zacznij 2x w tygodniu spacer lub lekko, zwiększaj powoli. Ok, zdecydowane.","Zacznij 2x w tygodniu spacer lub lekko, zwiększaj powoli."
+912,zacząć sport - wskazówki?,"Dobre pytanie, pomyślę krótko. Mało, 2x w tygodniu, zwiększać. Odpowiedź więc: Zacznij 2x w tygodniu spacer lub lekko, zwiększaj powoli. Tak, pasuje.","Zacznij 2x w tygodniu spacer lub lekko, zwiększaj powoli."
+913,Szybki przewodnik: zacząć sport.,"Chwila, pomyślę. Mało, 2x w tygodniu, zwiększać. Odpowiedź więc: Zacznij 2x w tygodniu spacer lub lekko, zwiększaj powoli. To ma sens.","Zacznij 2x w tygodniu spacer lub lekko, zwiększaj powoli."
+914,Jak pić wystarczająco wody?,"Najpierw spokojnie. Butelka gotowa, przypomnienia. Odpowiedź więc: Trzymaj butelkę gotową, pij szklankę do każdego posiłku, ustaw przypomnienia. To ma sens.","Trzymaj butelkę gotową, pij szklankę do każdego posiłku, ustaw przypomnienia."
+915,pić wystarczająco - wskazówki?,"No dobrze, pomyślmy. Butelka gotowa, przypomnienia. Wniosek: Trzymaj butelkę gotową, pij szklankę do każdego posiłku, ustaw przypomnienia. Koniec myślenia.","Trzymaj butelkę gotową, pij szklankę do każdego posiłku, ustaw przypomnienia."
+916,Szybki przewodnik: pić wystarczająco.,"Ok, krok po kroku. Butelka gotowa, przypomnienia. Odpowiedź więc: Trzymaj butelkę gotową, pij szklankę do każdego posiłku, ustaw przypomnienia. Jestem pewien.","Trzymaj butelkę gotową, pij szklankę do każdego posiłku, ustaw przypomnienia."
+917,Czym jest zdrowe śniadanie?,"Ok, krok po kroku. Owsianka, owoce, jogurt. Zatem: Np. owsianka z owocami i jogurtem albo chleb razowy z jajkiem. Logiczne.",Np. owsianka z owocami i jogurtem albo chleb razowy z jajkiem.
+918,zdrowe śniadanie - wskazówki?,"Przebiegam to w głowie. Owsianka, owoce, jogurt. Odpowiedź więc: Np. owsianka z owocami i jogurtem albo chleb razowy z jajkiem. Ok, zdecydowane.",Np. owsianka z owocami i jogurtem albo chleb razowy z jajkiem.
+919,Szybki przewodnik: zdrowe śniadanie.,"Najpierw spokojnie. Owsianka, owoce, jogurt. Wniosek: Np. owsianka z owocami i jogurtem albo chleb razowy z jajkiem. To ma sens.",Np. owsianka z owocami i jogurtem albo chleb razowy z jajkiem.
+920,Co na stres?,"Ok, krok po kroku. Przerwy, ruch, sen, rozmowa. Wniosek: Krótkie przerwy, ruch, wystarczająco snu i rozmowa pomagają. Jestem pewien.","Krótkie przerwy, ruch, wystarczająco snu i rozmowa pomagają."
+921,stres - wskazówki?,"Uporządkuję to. Przerwy, ruch, sen, rozmowa. Odpowiedź więc: Krótkie przerwy, ruch, wystarczająco snu i rozmowa pomagają. Jestem pewien.","Krótkie przerwy, ruch, wystarczająco snu i rozmowa pomagają."
+922,Szybki przewodnik: stres.,"Uporządkuję to. Przerwy, ruch, sen, rozmowa. Odpowiedź więc: Krótkie przerwy, ruch, wystarczająco snu i rozmowa pomagają. Logiczne.","Krótkie przerwy, ruch, wystarczająco snu i rozmowa pomagają."
+923,Jak odwołać spotkanie?,"Ok, krok po kroku. Wcześnie, krótki powód, nowy termin. Zatem: Odwołaj wcześnie, podaj krótki powód, zaproponuj nowy termin. To ma sens.","Odwołaj wcześnie, podaj krótki powód, zaproponuj nowy termin."
+924,odwołanie spotkania - wskazówki?,"Uporządkuję to. Wcześnie, krótki powód, nowy termin. Wniosek: Odwołaj wcześnie, podaj krótki powód, zaproponuj nowy termin. Wszystko jasne w głowie.","Odwołaj wcześnie, podaj krótki powód, zaproponuj nowy termin."
+925,Szybki przewodnik: odwołanie spotkania.,"Przebiegam to w głowie. Wcześnie, krótki powód, nowy termin. Zatem: Odwołaj wcześnie, podaj krótki powód, zaproponuj nowy termin. Tak, pasuje.","Odwołaj wcześnie, podaj krótki powód, zaproponuj nowy termin."
+926,Jak prosić o pomoc?,"No dobrze, pomyślmy. Konkretnie: co, do kiedy, dzięki. Wniosek: Proś konkretnie: co, do kiedy, dlaczego. Np. Pomożesz mi dziś nieść? Dzięki! Tak, pasuje.","Proś konkretnie: co, do kiedy, dlaczego. Np. Pomożesz mi dziś nieść? Dzięki!"
+927,prośba o pomoc - wskazówki?,"Dobre pytanie, pomyślę krótko. Konkretnie: co, do kiedy, dzięki. Wniosek: Proś konkretnie: co, do kiedy, dlaczego. Np. Pomożesz mi dziś nieść? Dzięki! Koniec myślenia.","Proś konkretnie: co, do kiedy, dlaczego. Np. Pomożesz mi dziś nieść? Dzięki!"
+928,Szybki przewodnik: prośba o pomoc.,"Dobre pytanie, pomyślę krótko. Konkretnie: co, do kiedy, dzięki. Zatem: Proś konkretnie: co, do kiedy, dlaczego. Np. Pomożesz mi dziś nieść? Dzięki! Logiczne.","Proś konkretnie: co, do kiedy, dlaczego. Np. Pomożesz mi dziś nieść? Dzięki!"
+929,Jak nauczyć się mówić nie?,"Dobre pytanie, pomyślę krótko. Krótko, miło, alternatywa. Odpowiedź więc: Mów nie krótko i miło, zaproponuj alternatywę jeśli możesz. Ok, zdecydowane.","Mów nie krótko i miło, zaproponuj alternatywę jeśli możesz."
+930,mówienie nie - wskazówki?,"Najpierw spokojnie. Krótko, miło, alternatywa. Odpowiedź więc: Mów nie krótko i miło, zaproponuj alternatywę jeśli możesz. Dobrze, dalej.","Mów nie krótko i miło, zaproponuj alternatywę jeśli możesz."
+931,Szybki przewodnik: mówienie nie.,"Uporządkuję to. Krótko, miło, alternatywa. Odpowiedź więc: Mów nie krótko i miło, zaproponuj alternatywę jeśli możesz. Ok, zdecydowane.","Mów nie krótko i miło, zaproponuj alternatywę jeśli możesz."
+932,Jak oszczędzić na wakacje?,"Dobre pytanie, pomyślę krótko. Cel, auto miesięcznie. Odpowiedź więc: Ustal cel, oszczędzaj co miesiąc automatycznie, dodawaj ekstra. Jestem pewien.","Ustal cel, oszczędzaj co miesiąc automatycznie, dodawaj ekstra."
+933,oszczędzanie na wakacje - wskazówki?,"Chwila, pomyślę. Cel, auto miesięcznie. Wniosek: Ustal cel, oszczędzaj co miesiąc automatycznie, dodawaj ekstra. Dobrze, dalej.","Ustal cel, oszczędzaj co miesiąc automatycznie, dodawaj ekstra."
+934,Szybki przewodnik: oszczędzanie na wakacje.,"Uporządkuję to. Cel, auto miesięcznie. Wniosek: Ustal cel, oszczędzaj co miesiąc automatycznie, dodawaj ekstra. Dobrze, dalej.","Ustal cel, oszczędzaj co miesiąc automatycznie, dodawaj ekstra."
+935,Jak rezerwować tanie loty?,"Ok, krok po kroku. Elastyczne daty, porównywać, wcześnie. Odpowiedź więc: Bądź elastyczny z datami, porównuj portale, rezerwuj wcześnie. Ok, zdecydowane.","Bądź elastyczny z datami, porównuj portale, rezerwuj wcześnie."
+936,tanie loty - wskazówki?,"Najpierw spokojnie. Elastyczne daty, porównywać, wcześnie. Zatem: Bądź elastyczny z datami, porównuj portale, rezerwuj wcześnie. Dobrze, dalej.","Bądź elastyczny z datami, porównuj portale, rezerwuj wcześnie."
+937,Szybki przewodnik: tanie loty.,"Najpierw spokojnie. Elastyczne daty, porównywać, wcześnie. Odpowiedź więc: Bądź elastyczny z datami, porównuj portale, rezerwuj wcześnie. Dobrze, dalej.","Bądź elastyczny z datami, porównuj portale, rezerwuj wcześnie."
+938,Jak znaleźć drogę bez internetu?,"Przebiegam to w głowie. Mapy offline, znaki, pytać. Wniosek: Pobierz mapy offline, idź za znakami, pytaj ludzi. Jestem pewien.","Pobierz mapy offline, idź za znakami, pytaj ludzi."
+939,droga bez internetu - wskazówki?,"Najpierw spokojnie. Mapy offline, znaki, pytać. Wniosek: Pobierz mapy offline, idź za znakami, pytaj ludzi. Dobrze, dalej.","Pobierz mapy offline, idź za znakami, pytaj ludzi."
+940,Szybki przewodnik: droga bez internetu.,"Najpierw spokojnie. Mapy offline, znaki, pytać. Zatem: Pobierz mapy offline, idź za znakami, pytaj ludzi. Wszystko jasne w głowie.","Pobierz mapy offline, idź za znakami, pytaj ludzi."
+941,Jaka różnica między psem a kotem jako pupilem?,"Chwila, pomyślę. Psy: spacery i wychowanie; koty samodzielne. Odpowiedź więc: Psy wymagają spacerów i wychowania, koty są samodzielniejsze. Wybierz według czasu i miejsca. To ma sens.","Psy wymagają spacerów i wychowania, koty są samodzielniejsze. Wybierz według czasu i miejsca."
+942,pies czy kot - co polecasz?,"No dobrze, pomyślmy. Psy: spacery i wychowanie; koty samodzielne. Odpowiedź więc: Psy wymagają spacerów i wychowania, koty są samodzielniejsze. Wybierz według czasu i miejsca. Ok, zdecydowane.","Psy wymagają spacerów i wychowania, koty są samodzielniejsze. Wybierz według czasu i miejsca."
+943,Pociąg czy auto na 300 km?,"No dobrze, pomyślmy. Pociąg relaks i eko, auto elastyczne. Odpowiedź więc: Pociąg jest relaksujący i często eko, auto elastyczne z bagażem. W korkach wygrywa pociąg. Wszystko jasne w głowie.","Pociąg jest relaksujący i często eko, auto elastyczne z bagażem. W korkach wygrywa pociąg."
+944,pociąg czy auto 300 km - co polecasz?,"Chwila, pomyślę. Pociąg relaks i eko, auto elastyczne. Zatem: Pociąg jest relaksujący i często eko, auto elastyczne z bagażem. W korkach wygrywa pociąg. Ok, zdecydowane.","Pociąg jest relaksujący i często eko, auto elastyczne z bagażem. W korkach wygrywa pociąg."
+945,Jabłko czy czekolada na przekąskę?,"Najpierw spokojnie. Jabłko: witaminy i sytość. Odpowiedź więc: Weź jabłko dla witamin i sytości, czekoladę wyjątkowo. Dobrze, dalej.","Weź jabłko dla witamin i sytości, czekoladę wyjątkowo."
+946,jabłko czy czekolada - co polecasz?,"Chwila, pomyślę. Jabłko: witaminy i sytość. Wniosek: Weź jabłko dla witamin i sytości, czekoladę wyjątkowo. Ok, zdecydowane.","Weź jabłko dla witamin i sytości, czekoladę wyjątkowo."
+947,Laptop czy PC do gier?,"Dobre pytanie, pomyślę krótko. PC mocniejszy za cenę, laptop mobilny. Odpowiedź więc: PC dają więcej mocy za cenę, laptopy są mobilne. Na maksa wybierz PC. Dobrze, dalej.","PC dają więcej mocy za cenę, laptopy są mobilne. Na maksa wybierz PC."
+948,laptop czy PC do gier - co polecasz?,"Ok, krok po kroku. PC mocniejszy za cenę, laptop mobilny. Wniosek: PC dają więcej mocy za cenę, laptopy są mobilne. Na maksa wybierz PC. To ma sens.","PC dają więcej mocy za cenę, laptopy są mobilne. Na maksa wybierz PC."
+949,Miasto czy wieś do życia?,"Najpierw spokojnie. Miasto: praca i bliskość; wieś: spokój. Wniosek: Miasta dają pracę i bliskość, wieś spokój i miejsce. Wybierz według pracy i stylu. Ok, zdecydowane.","Miasta dają pracę i bliskość, wieś spokój i miejsce. Wybierz według pracy i stylu."
+950,miasto czy wieś - co polecasz?,"Chwila, pomyślę. Miasto: praca i bliskość; wieś: spokój. Zatem: Miasta dają pracę i bliskość, wieś spokój i miejsce. Wybierz według pracy i stylu. Ok, zdecydowane.","Miasta dają pracę i bliskość, wieś spokój i miejsce. Wybierz według pracy i stylu."
+951,Co ważniejsze: sen czy nauka?,"No dobrze, pomyślmy. Sen utrwala naukę. Wniosek: Sen ważniejszy, bo utrwala naukę. Ucz się wcześniej, śpij wystarczająco. Koniec myślenia.","Sen ważniejszy, bo utrwala naukę. Ucz się wcześniej, śpij wystarczająco."
+952,sen czy nauka - co polecasz?,"Chwila, pomyślę. Sen utrwala naukę. Wniosek: Sen ważniejszy, bo utrwala naukę. Ucz się wcześniej, śpij wystarczająco. Logiczne.","Sen ważniejszy, bo utrwala naukę. Ucz się wcześniej, śpij wystarczająco."
+953,Nowy telefon czy zostać przy starym?,"Hmm, co o tym wiem? Zostań jeśli wystarcza; kup przy awarii lub potrzebie. Zatem: Zostań jeśli wystarcza. Kup nowy tylko przy awarii lub realnej potrzebie. Tak, pasuje.",Zostań jeśli wystarcza. Kup nowy tylko przy awarii lub realnej potrzebie.
+954,nowy telefon - co polecasz?,Przebiegam to w głowie. Zostań jeśli wystarcza; kup przy awarii lub potrzebie. Zatem: Zostań jeśli wystarcza. Kup nowy tylko przy awarii lub realnej potrzebie. Jestem pewien.,Zostań jeśli wystarcza. Kup nowy tylko przy awarii lub realnej potrzebie.
+955,Czym są fałszywe newsy?,"Chwila, pomyślę. Wymyślone, jak prawdziwe; sprawdź źródło. Wniosek: Fałszywe newsy są wymyślone. Sprawdź źródło, datę i inne media. Logiczne.","Fałszywe newsy są wymyślone. Sprawdź źródło, datę i inne media."
+956,fałszywe newsy - co polecasz?,"Chwila, pomyślę. Wymyślone, jak prawdziwe; sprawdź źródło. Zatem: Fałszywe newsy są wymyślone. Sprawdź źródło, datę i inne media. Tak, pasuje.","Fałszywe newsy są wymyślone. Sprawdź źródło, datę i inne media."
+957,Jaka różnica między faktem a opinią?,"Najpierw spokojnie. Fakt sprawdzalny, opinia osobisty pogląd. Zatem: Fakt jest sprawdzalny, opinia to osobisty pogląd. To ma sens.","Fakt jest sprawdzalny, opinia to osobisty pogląd."
+958,fakt czy opinia - co polecasz?,"Hmm, co o tym wiem? Fakt sprawdzalny, opinia osobisty pogląd. Wniosek: Fakt jest sprawdzalny, opinia to osobisty pogląd. To ma sens.","Fakt jest sprawdzalny, opinia to osobisty pogląd."
+959,Rower czy bus do szkoły? (5 km),"Ok, krok po kroku. Ładnie rower, deszcz bus. Odpowiedź więc: Przy ładnej pogodzie weź rower (około 20 min, zdrowo), w deszcz bus. Ok, zdecydowane.","Przy ładnej pogodzie weź rower (około 20 min, zdrowo), w deszcz bus."
+960,rower czy bus do szkoły 5 km - co polecasz?,"Najpierw spokojnie. Ładnie rower, deszcz bus. Odpowiedź więc: Przy ładnej pogodzie weź rower (około 20 min, zdrowo), w deszcz bus. Dobrze, dalej.","Przy ładnej pogodzie weź rower (około 20 min, zdrowo), w deszcz bus."
+961,Woda czy sok na pragnienie?,"Ok, krok po kroku. Woda lepsza, bez cukru. Zatem: Woda najlepiej gasi pragnienie i nie ma cukru. Sok tylko rozcieńczony. Wszystko jasne w głowie.",Woda najlepiej gasi pragnienie i nie ma cukru. Sok tylko rozcieńczony.
+962,woda czy sok - co polecasz?,"No dobrze, pomyślmy. Woda lepsza, bez cukru. Wniosek: Woda najlepiej gasi pragnienie i nie ma cukru. Sok tylko rozcieńczony. To ma sens.",Woda najlepiej gasi pragnienie i nie ma cukru. Sok tylko rozcieńczony.
+963,Kawa czy woda rano?,"Uporządkuję to. Najpierw woda, kawa z umiarem. Zatem: Wypij najpierw wodę, kawę potem z umiarem. Ok, zdecydowane.","Wypij najpierw wodę, kawę potem z umiarem."
+964,kawa czy woda rano - co polecasz?,"Uporządkuję to. Najpierw woda, kawa z umiarem. Odpowiedź więc: Wypij najpierw wodę, kawę potem z umiarem. To ma sens.","Wypij najpierw wodę, kawę potem z umiarem."
+965,Wynajem czy kupno? (ogólnie),"Hmm, co o tym wiem? Elastycznie wynajem; na długo sprawdź kupno. Zatem: Wynajmuj jeśli zostajesz elastyczny; jeśli długo i Cię stać, sprawdź kupno ze wszystkimi kosztami. Logiczne.","Wynajmuj jeśli zostajesz elastyczny; jeśli długo i Cię stać, sprawdź kupno ze wszystkimi kosztami."
+966,wynajem czy kupno - co polecasz?,"Dobre pytanie, pomyślę krótko. Elastycznie wynajem; na długo sprawdź kupno. Odpowiedź więc: Wynajmuj jeśli zostajesz elastyczny; jeśli długo i Cię stać, sprawdź kupno ze wszystkimi kosztami. Ok, zdecydowane.","Wynajmuj jeśli zostajesz elastyczny; jeśli długo i Cię stać, sprawdź kupno ze wszystkimi kosztami."
+967,Wstawać wcześnie czy późno?,"Dobre pytanie, pomyślę krótko. Według obowiązków i snu. Odpowiedź więc: Wybierz według obowiązków i snu: wystarczająco snu i stały rytm się liczą. Tak, pasuje.",Wybierz według obowiązków i snu: wystarczająco snu i stały rytm się liczą.
+968,wcześnie czy późno - co polecasz?,Najpierw spokojnie. Według obowiązków i snu. Zatem: Wybierz według obowiązków i snu: wystarczająco snu i stały rytm się liczą. Koniec myślenia.,Wybierz według obowiązków i snu: wystarczająco snu i stały rytm się liczą.
+969,Sport codziennie?,"No dobrze, pomyślmy. Odpoczynek liczy; 3-4x w tygodniu wystarczy. Wniosek: Nie, planuj odpoczynki. 3-4 razy w tygodniu zwykle wystarczy, codziennie tylko lekko. Logiczne.","Nie, planuj odpoczynki. 3-4 razy w tygodniu zwykle wystarczy, codziennie tylko lekko."
+970,sport codziennie - co polecasz?,"Dobre pytanie, pomyślę krótko. Odpoczynek liczy; 3-4x w tygodniu wystarczy. Zatem: Nie, planuj odpoczynki. 3-4 razy w tygodniu zwykle wystarczy, codziennie tylko lekko. Dobrze, dalej.","Nie, planuj odpoczynki. 3-4 razy w tygodniu zwykle wystarczy, codziennie tylko lekko."
+971,Pracować z gorączką?,"Najpierw spokojnie. Nie, odpoczynek i lekarz. Odpowiedź więc: Nie. Odpoczywaj i idź do lekarza przy wysokiej lub długiej gorączce. Koniec myślenia.",Nie. Odpoczywaj i idź do lekarza przy wysokiej lub długiej gorączce.
+972,gorączka a praca - co polecasz?,"Ok, krok po kroku. Nie, odpoczynek i lekarz. Odpowiedź więc: Nie. Odpoczywaj i idź do lekarza przy wysokiej lub długiej gorączce. To ma sens.",Nie. Odpoczywaj i idź do lekarza przy wysokiej lub długiej gorączce.
+973,Jak wybrać między dwiema ofertami?,"Uporządkuję to. Kryteria, plusy/minusy, termin. Zatem: Wypisz kryteria, punktuj, sprawdź koszty i przeczucie, zdecyduj z terminem. Koniec myślenia.","Wypisz kryteria, punktuj, sprawdź koszty i przeczucie, zdecyduj z terminem."
+974,wybór między ofertami - co polecasz?,"Chwila, pomyślę. Kryteria, plusy/minusy, termin. Wniosek: Wypisz kryteria, punktuj, sprawdź koszty i przeczucie, zdecyduj z terminem. Jestem pewien.","Wypisz kryteria, punktuj, sprawdź koszty i przeczucie, zdecyduj z terminem."
+975,Jak oszczędzić 500 euro w 5 miesięcy?,"Przebiegam to w głowie. 500/5=100 miesięcznie auto. Sprawdzenie: Oszczędzaj 100 euro miesięcznie automatycznie, np. zleceniem po wypłacie. Zgadza się. Tak, pasuje.","Oszczędzaj 100 euro miesięcznie automatycznie, np. zleceniem po wypłacie."
+976,oszczędzić 500 w 5 miesięcy - co polecasz?,"Chwila, pomyślę. 500/5=100 miesięcznie auto. Przeliczenie: Oszczędzaj 100 euro miesięcznie automatycznie, np. zleceniem po wypłacie. Pasuje. To ma sens.","Oszczędzaj 100 euro miesięcznie automatycznie, np. zleceniem po wypłacie."
+977,Jaka różnica między potrzebą a chęcią?,"Najpierw spokojnie. Potrzeba życiowa, chęć ponad. Wniosek: Potrzeba jest życiowa, chęć to pragnienie ponad. Ok, zdecydowane.","Potrzeba jest życiowa, chęć to pragnienie ponad."
+978,potrzeba czy chęć - co polecasz?,"Hmm, co o tym wiem? Potrzeba życiowa, chęć ponad. Odpowiedź więc: Potrzeba jest życiowa, chęć to pragnienie ponad. Koniec myślenia.","Potrzeba jest życiowa, chęć to pragnienie ponad."
+979,Co ważniejsze: pieniądze czy czas?,"Uporządkuję to. Czas ograniczony, pieniądze zastępowalne. Wniosek: Czas jest ograniczony i nie wraca, pieniądze da się zarobić znowu. Liczy się równowaga. Wszystko jasne w głowie.","Czas jest ograniczony i nie wraca, pieniądze da się zarobić znowu. Liczy się równowaga."
+980,pieniądze czy czas - co polecasz?,"Dobre pytanie, pomyślę krótko. Czas ograniczony, pieniądze zastępowalne. Wniosek: Czas jest ograniczony i nie wraca, pieniądze da się zarobić znowu. Liczy się równowaga. Tak, pasuje.","Czas jest ograniczony i nie wraca, pieniądze da się zarobić znowu. Liczy się równowaga."
+981,Podsumuj: kiedy myślisz a kiedy nie?,"Dobre pytanie, pomyślę krótko. Zasada: small talk bez myślenia; fakty, liczenie, wyjaśnienia, decyzje z myśleniem. Odpowiedź więc: Nie myślę przy powitaniach, dziękowaniu i small talku. Myślę przy faktach, liczeniu, wyjaśnieniach, porównaniach i decyzjach, i wtedy pokazuję myślenie. Jestem pewien.","Nie myślę przy powitaniach, dziękowaniu i small talku. Myślę przy faktach, liczeniu, wyjaśnieniach, porównaniach i decyzjach, i wtedy pokazuję myślenie."
+982,Czym jest tolerancja?,"Chwila, pomyślę. Zdefiniuj tolerancja prosto i poprawnie. Zatem: tolerancja krótko: Tolerancja akceptuje inne opinie i style życia. Tak, pasuje.",tolerancja krótko: Tolerancja akceptuje inne opinie i style życia.
+983,Czym jest cierpliwość?,Najpierw spokojnie. Zdefiniuj cierpliwość prosto i poprawnie. Zatem: cierpliwość krótko: Cierpliwość spokojnie czeka i wytrwale dąży. Koniec myślenia.,cierpliwość krótko: Cierpliwość spokojnie czeka i wytrwale dąży.
+984,Czym jest odwaga?,"Chwila, pomyślę. Zdefiniuj odwaga prosto i poprawnie. Wniosek: odwaga krótko: Odwaga robi dobro mimo strachu. Tak, pasuje.",odwaga krótko: Odwaga robi dobro mimo strachu.
+985,Czym jest dyscyplina?,"Hmm, co o tym wiem? Zdefiniuj dyscyplina prosto i poprawnie. Odpowiedź więc: dyscyplina krótko: Dyscyplina wytrwale dąży nawet bez chęci. Jestem pewien.",dyscyplina krótko: Dyscyplina wytrwale dąży nawet bez chęci.
+986,Czym jest kreatywność?,"Najpierw spokojnie. Zdefiniuj kreatywność prosto i poprawnie. Odpowiedź więc: kreatywność krótko: Kreatywność znajduje nowe pomysły i rozwiązania. Ok, zdecydowane.",kreatywność krótko: Kreatywność znajduje nowe pomysły i rozwiązania.
+987,Czym jest praca zespołowa?,"Przebiegam to w głowie. Zdefiniuj praca zespołowa prosto i poprawnie. Wniosek: praca zespołowa krótko: Praca zespołowa dąży razem do celu. Ok, zdecydowane.",praca zespołowa krótko: Praca zespołowa dąży razem do celu.
+988,Czym jest odpowiedzialność?,Najpierw spokojnie. Zdefiniuj odpowiedzialność prosto i poprawnie. Zatem: odpowiedzialność krótko: Odpowiedzialność odpowiada za czyny i skutki. To ma sens.,odpowiedzialność krótko: Odpowiedzialność odpowiada za czyny i skutki.
+989,Czym jest zaufanie?,"Ok, krok po kroku. Zdefiniuj zaufanie prosto i poprawnie. Zatem: zaufanie krótko: Zaufanie pozwala liczyć na innych. Ok, zdecydowane.",zaufanie krótko: Zaufanie pozwala liczyć na innych.
+990,Czym jest uprzejmość?,"Chwila, pomyślę. Zdefiniuj uprzejmość prosto i poprawnie. Odpowiedź więc: uprzejmość krótko: Uprzejmość jest pełna szacunku i miła. Jestem pewien.",uprzejmość krótko: Uprzejmość jest pełna szacunku i miła.
+991,Czym jest punktualność?,"Uporządkuję to. Zdefiniuj punktualność prosto i poprawnie. Odpowiedź więc: punktualność krótko: Punktualność dotrzymuje umówionych godzin. Dobrze, dalej.",punktualność krótko: Punktualność dotrzymuje umówionych godzin.
+992,Czym jest rzetelność?,Przebiegam to w głowie. Zdefiniuj rzetelność prosto i poprawnie. Zatem: rzetelność krótko: Rzetelność dotrzymuje obietnic. Wszystko jasne w głowie.,rzetelność krótko: Rzetelność dotrzymuje obietnic.
+993,Czym jest zdrowie?,"Przebiegam to w głowie. Zdefiniuj zdrowie prosto i poprawnie. Wniosek: zdrowie krótko: Zdrowie to dobrostan fizyczny i psychiczny. Ok, zdecydowane.",zdrowie krótko: Zdrowie to dobrostan fizyczny i psychiczny.
+994,Czym jest szczęście?,"No dobrze, pomyślmy. Zdefiniuj szczęście prosto i poprawnie. Odpowiedź więc: szczęście krótko: Szczęście to zadowolenie i radosne chwile. Wszystko jasne w głowie.",szczęście krótko: Szczęście to zadowolenie i radosne chwile.
+995,Czym jest sukces?,"Ok, krok po kroku. Zdefiniuj sukces prosto i poprawnie. Wniosek: sukces krótko: Sukces osiąga wyznaczone cele. Wszystko jasne w głowie.",sukces krótko: Sukces osiąga wyznaczone cele.
+996,Czym jest nauka?,"Ok, krok po kroku. Zdefiniuj nauka prosto i poprawnie. Wniosek: nauka krótko: Nauka zdobywa wiedzę i umiejętności. Koniec myślenia.",nauka krótko: Nauka zdobywa wiedzę i umiejętności.
+997,Czym jest wiedza?,"Dobre pytanie, pomyślę krótko. Zdefiniuj wiedza prosto i poprawnie. Wniosek: wiedza krótko: Wiedza to zrozumiane informacje o świecie. Dobrze, dalej.",wiedza krótko: Wiedza to zrozumiane informacje o świecie.
+998,Czym jest doświadczenie?,"Dobre pytanie, pomyślę krótko. Zdefiniuj doświadczenie prosto i poprawnie. Odpowiedź więc: doświadczenie krótko: Doświadczenie to wiedza z przeżytego. To ma sens.",doświadczenie krótko: Doświadczenie to wiedza z przeżytego.
+999,Czym jest humor?,"Hmm, co o tym wiem? Zdefiniuj humor prosto i poprawnie. Zatem: humor krótko: Humor potrafi śmiać się z zabawnych rzeczy. Dobrze, dalej.",humor krótko: Humor potrafi śmiać się z zabawnych rzeczy.
+1000,Czym jest miłość?,Uporządkuję to. Zdefiniuj miłość prosto i poprawnie. Zatem: miłość krótko: Miłość to głębokie uczucie i troska. To ma sens.,miłość krótko: Miłość to głębokie uczucie i troska.

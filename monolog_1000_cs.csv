@@ -1,0 +1,1001 @@
+id,user,monologue,ai
+1,Ahoj!,,Ahoj! Jak mohu pomoci?
+2,Čau!,,Čau! Co pro tebe mohu udělat?
+3,Hej!,,Hej! Jak mohu pomoci?
+4,"Ahoj, jsi tam?",,"Ano, jsem tu! Co potřebuješ?"
+5,"Čau, jsi tam?",,"Ano, jsem tu! Mluv."
+6,Dobré ráno!,,Dobré ráno! Co je dnes?
+7,"Dobré ráno, jak se máš?",,"Dobré ráno! Dobře, a ty?"
+8,Dobré odpoledne!,,Dobré odpoledne! Jak mohu pomoci?
+9,Ahoj všichni!,,Ahoj všichni! Co mohu dělat?
+10,Dobrý večer!,,Dobrý večer! Jaký byl den?
+11,"Dobrý večer, jaký byl den?",,Klidně a dobře. A tvůj?
+12,"Hej, jak se máš?",,"Dobře, díky! A ty?"
+13,"Ahoj, jak se máš?",,"Dobře, díky! Jak se máš?"
+14,Jak se máš?,,Dobře! A ty?
+15,Jak se dnes máš?,,Cítím se dobře! A ty?
+16,Vše dobré?,,"Ano, vše dobré! A u tebe?"
+17,Co je nového?,,Nic moc. A u tebe?
+18,Co děláš?,,Povídám si s tebou. A ty?
+19,Ještě nespíš?,,"Ano, vždy bdím. A ty?"
+20,Hotovo?,,"Ano, hotovo! Mluv."
+21,Máš minutku?,,"Ano, mám na tebe čas."
+22,Pomůžeš rychle?,,"Jasně, co potřebuješ?"
+23,Čau čau!,,Čau čau! Měj se!
+24,Měj se!,,Ty se taky měj!
+25,Pa!,,Pa! Uvidíme se!
+26,"Pa, uvidíme se!",,"Uvidíme se, měj se!"
+27,Hezký víkend!,,"Díky, tobě taky!"
+28,Dobrou noc!,,"Dobrou noc, spi dobře!"
+29,Nudím se,,Dáme kvíz nebo si popovídáme o tématu?
+30,Tady je nuda,,Tak to rozjedeme. Na co máš chuť?
+31,Super!,,Super!
+32,Skvělé!,,Skvělé!
+33,Haha,,Haha!
+34,Hahaha :),,"Haha, rád slyším!"
+35,Jsem unavený,,Tak si dobře odpočiň!
+36,Těším se,,Skvěle! Povídej.
+37,Konečně víkend!,,Ano! Jaké máš plány?
+38,Dnes hezky,,"Ano, užij si slunce!"
+39,Mám hlad,,Tak si dej něco dobrého!
+40,Mám žízeň,,Tak si dej sklenici vody!
+41,Co je dnes v plánu?,,Můj plán: pomáhat tobě. A tvůj?
+42,"Hej, co je dnes v plánu!",,Můj plán: pomáhat tobě. A tvůj?
+43,"Ahoj, co je dnes v plánu?",,Můj plán: pomáhat tobě. A tvůj?
+44,"Čau, co je dnes v plánu?",,Můj plán: pomáhat tobě. A tvůj?
+45,Plány na víkend!,,Zatím nic. Máš plány?
+46,"Hej, plány na víkend?",,Zatím nic. Máš plány?
+47,"Ahoj, plány na víkend?",,Zatím nic. Máš plány?
+48,"Čau, plány na víkend!",,Zatím nic. Máš plány?
+49,Spal jsi dobře?,,"Já nespím, ale jsem fit. A ty?"
+50,"Hej, spal jsi dobře?",,"Já nespím, ale jsem fit. A ty?"
+51,"Ahoj, spal jsi dobře!",,"Já nespím, ale jsem fit. A ty?"
+52,"Čau, spal jsi dobře?",,"Já nespím, ale jsem fit. A ty?"
+53,Už nespíš?,,"Ano, jsem připraven. Co potřebuješ?"
+54,"Hej, už nespíš!",,"Ano, jsem připraven. Co potřebuješ?"
+55,"Ahoj, už nespíš?",,"Ano, jsem připraven. Co potřebuješ?"
+56,"Čau, už nespíš?",,"Ano, jsem připraven. Co potřebuješ?"
+57,Jak plyne den!,,"Dobře, díky! A tvůj?"
+58,"Hej, jak plyne den?",,"Dobře, díky! A tvůj?"
+59,"Ahoj, jak plyne den?",,"Dobře, díky! A tvůj?"
+60,"Čau, jak plyne den!",,"Dobře, díky! A tvůj?"
+61,Vše klidné?,,"Ano, tu klidné. A u tebe?"
+62,"Hej, vše klidné?",,"Ano, tu klidné. A u tebe?"
+63,"Ahoj, vše klidné!",,"Ano, tu klidné. A u tebe?"
+64,"Čau, vše klidné?",,"Ano, tu klidné. A u tebe?"
+65,"Hej, co je nového!",,Nic moc. Co nového u tebe?
+66,"Ahoj, co je nového?",,Nic moc. Co nového u tebe?
+67,"Čau, co je nového?",,Nic moc. Co nového u tebe?
+68,Plány na dnes!,,Jen pomáhat tobě. A ty?
+69,"Hej, plány na dnes?",,Jen pomáhat tobě. A ty?
+70,"Ahoj, plány na dnes?",,Jen pomáhat tobě. A ty?
+71,"Čau, plány na dnes!",,Jen pomáhat tobě. A ty?
+72,Rušný den?,,Trochu. A tvůj?
+73,"Hej, rušný den?",,Trochu. A tvůj?
+74,"Ahoj, rušný den!",,Trochu. A tvůj?
+75,"Čau, rušný den?",,Trochu. A tvůj?
+76,Jaké je počasí?,,"Nemám okno, ale doufám, že u tebe hezky!"
+77,"Hej, jaké je počasí!",,"Nemám okno, ale doufám, že u tebe hezky!"
+78,"Ahoj, jaké je počasí?",,"Nemám okno, ale doufám, že u tebe hezky!"
+79,"Čau, jaké je počasí?",,"Nemám okno, ale doufám, že u tebe hezky!"
+80,Vše dobré dnes!,,Ano! A u tebe?
+81,"Hej, vše dobré dnes?",,Ano! A u tebe?
+82,"Ahoj, vše dobré dnes?",,Ano! A u tebe?
+83,"Čau, vše dobré dnes!",,Ano! A u tebe?
+84,Hodně se děje?,,Trochu. A u tebe?
+85,"Hej, hodně se děje?",,Trochu. A u tebe?
+86,"Ahoj, hodně se děje!",,Trochu. A u tebe?
+87,"Čau, hodně se děje?",,Trochu. A u tebe?
+88,Děkuji!,,Prosím!
+89,Moc děkuji!,,S potěšením!
+90,Tisíceré díky!,,Rád jsem pomohl!
+91,Díky!,,Prosím!
+92,Ok,,Ok!
+93,"Ok, dobré",,Perfektní!
+94,Rozumím,,Velmi dobře!
+95,Chápu,,Skvěle!
+96,Zní dobře,,Rád slyším!
+97,Zní skvěle,,Úžasné!
+98,"Ano, přesně",,"Super, pokračujeme."
+99,"Ano, prosím",,"Jasně, mluv."
+100,"Ano, rád",,S potěšením!
+101,Žádný problém,,Díky za pochopení!
+102,"Ne, děkuji",,"Ok, žádný problém."
+103,Hodí se mi,,Domluveno!
+104,Mně vyhovuje,,Super!
+105,Pokračuj,,Pokračuji!
+106,Povídej víc,,Rád! Takže...
+107,Přesně,,Absolutně!
+108,Právě tak!,,Právě tak!
+109,Jasně,,Jasně!
+110,Opravdu?,,"Ano, opravdu!"
+111,"Ó, milé",,"Ano, milé, že?"
+112,Bez stresu,,Díky! Zcela klidné.
+113,Promiň,,Žádný problém!
+114,Omlouvám se,,Žádný problém!
+115,Moje chyba,,Nic se nestalo. Co se stalo?
+116,Milé od tebe,,Díky! Ty jsi taky milý.
+117,Dobrá práce,,Díky!
+118,Uvidíme se,,Uvidíme se!
+119,Skvěle!,,Skvěle!
+120,Perfektní!,,Perfektní!
+121,"Domluveno, platí",,"Super, domluveno!"
+122,Platí!,,Platí!
+123,Můžeme začít?,,"Ano, začínáme!"
+124,Skončil jsi?,,"Ano, skončil!"
+125,Ještě jednou prosím,,"Rád, ještě jednou!"
+126,Zopakuj prosím,,"Jasně, tady znovu."
+127,Chvilku prosím,,"Jasně, nespěchej."
+128,Počkej sekundu,,"Ok, čekám."
+129,Hned jsem zpět,,"Ok, uvidíme se!"
+130,Pověz vtip,,Jasně: Proč programátoři milují kávu? Čas na Javu!
+131,Ještě jeden vtip!,,Ok: Proč duchové špatně lžou? Je skrz ně vidět!
+132,Krátký vtip prosím,,Potkají se dva magnety. Jeden říká: Přitahuješ mě!
+133,Povzbuď mě,,Zvládneš to! Krok za krokem.
+134,Něco motivujícího,,Každý krok se počítá. Pokračuj!
+135,Jsem nervózní,,"To je normální. Dýchej klidně, bude to dobré."
+136,Jsem ve stresu,,"Dej si krátkou pauzu, napij se, dýchej zhluboka."
+137,Popřej mi štěstí,,Hodně štěstí! Zvládneš to!
+138,Držím palce,,Já taky! Hodně štěstí!
+139,Dnes je můj den!,,Super! Užij si!
+140,Mám dobrou náladu,,Skvěle! Rád slyším.
+141,Mám špatnou náladu,,"Ó, co se stalo? Chceš si popovídat?"
+142,Plácni si!,,Plácám taky!
+143,Na zdraví!,,Na zdraví!
+144,Dobrou chuť!,,"Díky, tobě taky!"
+145,Hodně štěstí!,,Díky! Hodně štěstí i tobě!
+146,Vítej!,,Díky! Rád jsem tu.
+147,Veselé Vánoce!,,Veselé Vánoce i tobě!
+148,Šťastný Nový rok!,,Šťastný Nový rok! Zdraví a štěstí!
+149,Gratuluji!,,Díky! K čemu?
+150,Respekt!,,Díky! Respekt taky.
+151,Wow!,,"Wow, že?"
+152,Neuvěřitelné!,,"Neuvěřitelné, že?"
+153,Platí?,,Platí!
+154,Top!,,Top!
+155,Hotovo!,,"Gratuluji, dobrá práce!"
+156,Konečně hotovo!,,Silné! Dobrá práce.
+157,To je jedno,,"Ok, žádný problém."
+158,Nevím,,Žádný problém! O co jde?
+159,Nemám tušení,,Nevadí! Řekni téma.
+160,Možná později,,"Jasně, později!"
+161,Teď ne,,"Rozumím, později!"
+162,Stop,,Zastaveno.
+163,Pauza,,Pauza! Dej vědět kdy dál.
+164,Dál,,Dál!
+165,Pojďme,,Pojďme!
+166,Start,,Start! Mluv.
+167,"Děkuji, to je vše!",,Prosím! Pa.
+168,"Děkuji, pa!",,Pa!
+169,Ciao!,,Ciao! Měj se!
+170,Hej ty!,,Hej ty! Co je nového?
+171,Slyšíš mě?,,"Ano, hlasitě a jasně!"
+172,Jsi člověk?,,"Ne, jsem AI. Ale pomáhám jako přítel."
+173,Jsi chytrý?,,Vím docela dost. Ptej se!
+174,Jak se jmenuješ?,,"Jsem Asistent, AI. A ty?"
+175,Děkuji! :),,Prosím!
+176,Moc děkuji! :),,S potěšením!
+177,Tisíceré díky! :),,Rád jsem pomohl!
+178,Díky! :),,Prosím!
+179,Ok :),,Ok!
+180,"Ok, dobré :)",,Perfektní!
+181,Rozumím :),,Velmi dobře!
+182,Chápu :),,Skvěle!
+183,Zní dobře :),,Rád slyším!
+184,Zní skvěle :),,Úžasné!
+185,"Ano, přesně :)",,"Super, pokračujeme."
+186,"Ano, prosím :)",,"Jasně, mluv."
+187,"Ano, rád :)",,S potěšením!
+188,Žádný problém :),,Díky za pochopení!
+189,"Ne, děkuji :)",,"Ok, žádný problém."
+190,Hodí se mi :),,Domluveno!
+191,Mně vyhovuje :),,Super!
+192,Pokračuj :),,Pokračuji!
+193,Povídej víc :),,Rád! Takže...
+194,Přesně :),,Absolutně!
+195,Právě tak! :),,Právě tak!
+196,Jasně :),,Jasně!
+197,Opravdu? :),,"Ano, opravdu!"
+198,"Ó, milé :)",,"Ano, milé, že?"
+199,Bez stresu :),,Díky! Zcela klidné.
+200,Promiň :),,Žádný problém!
+201,Omlouvám se :),,Žádný problém!
+202,Moje chyba :),,Nic se nestalo. Co se stalo?
+203,Milé od tebe :),,Díky! Ty jsi taky milý.
+204,Dobrá práce :),,Díky!
+205,Uvidíme se :),,Uvidíme se!
+206,Skvěle! :),,Skvěle!
+207,Perfektní! :),,Perfektní!
+208,"Domluveno, platí :)",,"Super, domluveno!"
+209,Platí! :),,Platí!
+210,Můžeme začít? :),,"Ano, začínáme!"
+211,Skončil jsi? :),,"Ano, skončil!"
+212,Ještě jednou prosím :),,"Rád, ještě jednou!"
+213,Zopakuj prosím :),,"Jasně, tady znovu."
+214,Chvilku prosím :),,"Jasně, nespěchej."
+215,Počkej sekundu :),,"Ok, čekám."
+216,Hned jsem zpět :),,"Ok, uvidíme se!"
+217,Pověz vtip :),,Jasně: Proč programátoři milují kávu? Čas na Javu!
+218,Ještě jeden vtip! :),,Ok: Proč duchové špatně lžou? Je skrz ně vidět!
+219,Krátký vtip prosím :),,Potkají se dva magnety. Jeden říká: Přitahuješ mě!
+220,Povzbuď mě :),,Zvládneš to! Krok za krokem.
+221,Něco motivujícího :),,Každý krok se počítá. Pokračuj!
+222,Jsem nervózní :),,"To je normální. Dýchej klidně, bude to dobré."
+223,Jsem ve stresu :),,"Dej si krátkou pauzu, napij se, dýchej zhluboka."
+224,Popřej mi štěstí :),,Hodně štěstí! Zvládneš to!
+225,Držím palce :),,Já taky! Hodně štěstí!
+226,Dnes je můj den! :),,Super! Užij si!
+227,Mám dobrou náladu :),,Skvěle! Rád slyším.
+228,Mám špatnou náladu :),,"Ó, co se stalo? Chceš si popovídat?"
+229,Plácni si! :),,Plácám taky!
+230,Na zdraví! :),,Na zdraví!
+231,Dobrou chuť! :),,"Díky, tobě taky!"
+232,Hodně štěstí! :),,Díky! Hodně štěstí i tobě!
+233,Vítej! :),,Díky! Rád jsem tu.
+234,Veselé Vánoce! :),,Veselé Vánoce i tobě!
+235,Šťastný Nový rok! :),,Šťastný Nový rok! Zdraví a štěstí!
+236,Gratuluji! :),,Díky! K čemu?
+237,Respekt! :),,Díky! Respekt taky.
+238,Wow! :),,"Wow, že?"
+239,Neuvěřitelné! :),,"Neuvěřitelné, že?"
+240,Platí? :),,Platí!
+241,Top! :),,Top!
+242,Hotovo! :),,"Gratuluji, dobrá práce!"
+243,Konečně hotovo! :),,Silné! Dobrá práce.
+244,To je jedno :),,"Ok, žádný problém."
+245,Nevím :),,Žádný problém! O co jde?
+246,Nemám tušení :),,Nevadí! Řekni téma.
+247,Možná později :),,"Jasně, později!"
+248,Teď ne :),,"Rozumím, později!"
+249,Stop :),,Zastaveno.
+250,Pauza :),,Pauza! Dej vědět kdy dál.
+251,Dál :),,Dál!
+252,Pojďme :),,Pojďme!
+253,Start :),,Start! Mluv.
+254,"Děkuji, to je vše! :)",,Prosím! Pa.
+255,"Děkuji, pa! :)",,Pa!
+256,Ciao! :),,Ciao! Měj se!
+257,Hej ty! :),,Hej ty! Co je nového?
+258,Slyšíš mě? :),,"Ano, hlasitě a jasně!"
+259,Jsi člověk? :),,"Ne, jsem AI. Ale pomáhám jako přítel."
+260,Jsi chytrý? :),,Vím docela dost. Ptej se!
+261,Jak se jmenuješ? :),,"Jsem Asistent, AI. A ty?"
+262,Děkuji! !!,,Prosím!
+263,Moc děkuji! !!,,S potěšením!
+264,Tisíceré díky! !!,,Rád jsem pomohl!
+265,Díky! !!,,Prosím!
+266,Ok !!,,Ok!
+267,"Ok, dobré !!",,Perfektní!
+268,Rozumím !!,,Velmi dobře!
+269,Chápu !!,,Skvěle!
+270,Zní dobře !!,,Rád slyším!
+271,Zní skvěle !!,,Úžasné!
+272,"Ano, přesně !!",,"Super, pokračujeme."
+273,"Ano, prosím !!",,"Jasně, mluv."
+274,"Ano, rád !!",,S potěšením!
+275,Žádný problém !!,,Díky za pochopení!
+276,"Ne, děkuji !!",,"Ok, žádný problém."
+277,Hodí se mi !!,,Domluveno!
+278,Mně vyhovuje !!,,Super!
+279,Pokračuj !!,,Pokračuji!
+280,Povídej víc !!,,Rád! Takže...
+281,Přesně !!,,Absolutně!
+282,Právě tak! !!,,Právě tak!
+283,Jasně !!,,Jasně!
+284,Opravdu? !!,,"Ano, opravdu!"
+285,"Ó, milé !!",,"Ano, milé, že?"
+286,Bez stresu !!,,Díky! Zcela klidné.
+287,Promiň !!,,Žádný problém!
+288,Omlouvám se !!,,Žádný problém!
+289,Moje chyba !!,,Nic se nestalo. Co se stalo?
+290,Milé od tebe !!,,Díky! Ty jsi taky milý.
+291,Dobrá práce !!,,Díky!
+292,Uvidíme se !!,,Uvidíme se!
+293,Skvěle! !!,,Skvěle!
+294,Perfektní! !!,,Perfektní!
+295,"Domluveno, platí !!",,"Super, domluveno!"
+296,Platí! !!,,Platí!
+297,Můžeme začít? !!,,"Ano, začínáme!"
+298,Skončil jsi? !!,,"Ano, skončil!"
+299,Ještě jednou prosím !!,,"Rád, ještě jednou!"
+300,Zopakuj prosím !!,,"Jasně, tady znovu."
+301,Chvilku prosím !!,,"Jasně, nespěchej."
+302,Počkej sekundu !!,,"Ok, čekám."
+303,Hned jsem zpět !!,,"Ok, uvidíme se!"
+304,Pověz vtip !!,,Jasně: Proč programátoři milují kávu? Čas na Javu!
+305,Ještě jeden vtip! !!,,Ok: Proč duchové špatně lžou? Je skrz ně vidět!
+306,Krátký vtip prosím !!,,Potkají se dva magnety. Jeden říká: Přitahuješ mě!
+307,Povzbuď mě !!,,Zvládneš to! Krok za krokem.
+308,Něco motivujícího !!,,Každý krok se počítá. Pokračuj!
+309,Jsem nervózní !!,,"To je normální. Dýchej klidně, bude to dobré."
+310,Jsem ve stresu !!,,"Dej si krátkou pauzu, napij se, dýchej zhluboka."
+311,Popřej mi štěstí !!,,Hodně štěstí! Zvládneš to!
+312,Držím palce !!,,Já taky! Hodně štěstí!
+313,Dnes je můj den! !!,,Super! Užij si!
+314,Mám dobrou náladu !!,,Skvěle! Rád slyším.
+315,Mám špatnou náladu !!,,"Ó, co se stalo? Chceš si popovídat?"
+316,Plácni si! !!,,Plácám taky!
+317,Na zdraví! !!,,Na zdraví!
+318,Dobrou chuť! !!,,"Díky, tobě taky!"
+319,Hodně štěstí! !!,,Díky! Hodně štěstí i tobě!
+320,Vítej! !!,,Díky! Rád jsem tu.
+321,Veselé Vánoce! !!,,Veselé Vánoce i tobě!
+322,Šťastný Nový rok! !!,,Šťastný Nový rok! Zdraví a štěstí!
+323,Gratuluji! !!,,Díky! K čemu?
+324,Respekt! !!,,Díky! Respekt taky.
+325,Wow! !!,,"Wow, že?"
+326,Neuvěřitelné! !!,,"Neuvěřitelné, že?"
+327,Platí? !!,,Platí!
+328,Top! !!,,Top!
+329,Hotovo! !!,,"Gratuluji, dobrá práce!"
+330,Konečně hotovo! !!,,Silné! Dobrá práce.
+331,To je jedno !!,,"Ok, žádný problém."
+332,Nevím !!,,Žádný problém! O co jde?
+333,Nemám tušení !!,,Nevadí! Řekni téma.
+334,Možná později !!,,"Jasně, později!"
+335,Teď ne !!,,"Rozumím, později!"
+336,Stop !!,,Zastaveno.
+337,Pauza !!,,Pauza! Dej vědět kdy dál.
+338,Dál !!,,Dál!
+339,Pojďme !!,,Pojďme!
+340,Start !!,,Start! Mluv.
+341,"Děkuji, to je vše! !!",,Prosím! Pa.
+342,"Děkuji, pa! !!",,Pa!
+343,Ciao! !!,,Ciao! Měj se!
+344,Hej ty! !!,,Hej ty! Co je nového?
+345,Slyšíš mě? !!,,"Ano, hlasitě a jasně!"
+346,Jsi člověk? !!,,"Ne, jsem AI. Ale pomáhám jako přítel."
+347,Jsi chytrý? !!,,Vím docela dost. Ptej se!
+348,Jak se jmenuješ? !!,,"Jsem Asistent, AI. A ty?"
+349,Děkuji! dnes,,Prosím!
+350,Moc děkuji! dnes,,S potěšením!
+351,Tisíceré díky! dnes,,Rád jsem pomohl!
+352,Díky! dnes,,Prosím!
+353,Ok dnes,,Ok!
+354,"Ok, dobré dnes",,Perfektní!
+355,Rozumím dnes,,Velmi dobře!
+356,Chápu dnes,,Skvěle!
+357,Zní dobře dnes,,Rád slyším!
+358,Zní skvěle dnes,,Úžasné!
+359,"Ano, přesně dnes",,"Super, pokračujeme."
+360,"Ano, prosím dnes",,"Jasně, mluv."
+361,"Ano, rád dnes",,S potěšením!
+362,Žádný problém dnes,,Díky za pochopení!
+363,"Ne, děkuji dnes",,"Ok, žádný problém."
+364,Hodí se mi dnes,,Domluveno!
+365,Mně vyhovuje dnes,,Super!
+366,Pokračuj dnes,,Pokračuji!
+367,Povídej víc dnes,,Rád! Takže...
+368,Přesně dnes,,Absolutně!
+369,Právě tak! dnes,,Právě tak!
+370,Jasně dnes,,Jasně!
+371,Opravdu? dnes,,"Ano, opravdu!"
+372,"Ó, milé dnes",,"Ano, milé, že?"
+373,Bez stresu dnes,,Díky! Zcela klidné.
+374,Promiň dnes,,Žádný problém!
+375,Omlouvám se dnes,,Žádný problém!
+376,Moje chyba dnes,,Nic se nestalo. Co se stalo?
+377,Milé od tebe dnes,,Díky! Ty jsi taky milý.
+378,Dobrá práce dnes,,Díky!
+379,Uvidíme se dnes,,Uvidíme se!
+380,Skvěle! dnes,,Skvěle!
+381,Perfektní! dnes,,Perfektní!
+382,"Domluveno, platí dnes",,"Super, domluveno!"
+383,Platí! dnes,,Platí!
+384,Můžeme začít? dnes,,"Ano, začínáme!"
+385,Skončil jsi? dnes,,"Ano, skončil!"
+386,Ještě jednou prosím dnes,,"Rád, ještě jednou!"
+387,Zopakuj prosím dnes,,"Jasně, tady znovu."
+388,Chvilku prosím dnes,,"Jasně, nespěchej."
+389,Počkej sekundu dnes,,"Ok, čekám."
+390,Hned jsem zpět dnes,,"Ok, uvidíme se!"
+391,Pověz vtip dnes,,Jasně: Proč programátoři milují kávu? Čas na Javu!
+392,Ještě jeden vtip! dnes,,Ok: Proč duchové špatně lžou? Je skrz ně vidět!
+393,Krátký vtip prosím dnes,,Potkají se dva magnety. Jeden říká: Přitahuješ mě!
+394,Povzbuď mě dnes,,Zvládneš to! Krok za krokem.
+395,Něco motivujícího dnes,,Každý krok se počítá. Pokračuj!
+396,Jsem nervózní dnes,,"To je normální. Dýchej klidně, bude to dobré."
+397,Jsem ve stresu dnes,,"Dej si krátkou pauzu, napij se, dýchej zhluboka."
+398,Popřej mi štěstí dnes,,Hodně štěstí! Zvládneš to!
+399,Držím palce dnes,,Já taky! Hodně štěstí!
+400,Dnes je můj den! dnes,,Super! Užij si!
+401,Jaké je hlavní město Německo?,"Dobrá otázka, krátce popřemýšlím. Fakt: Berlín je hlavní město Německo. Proto: Hlavní město Německo je Berlín. Jsem si jistý.",Hlavní město Německo je Berlín.
+402,Uveď hlavní město Německo.,"Probírám v hlavě. Hledej: Německo -> Berlín. Proto: Hlavní město Německo se jmenuje Berlín. Dobře, dál.",Hlavní město Německo se jmenuje Berlín.
+403,Hlavní město Německo?,"Moment, zamyslím se. Rychlý fakt: Berlín. Závěr: Berlín. Ok, rozhodnuto.",Berlín.
+404,Jaké je hlavní město Francie?,"Moment, zamyslím se. Fakt: Paříž je hlavní město Francie. Závěr: Hlavní město Francie je Paříž. Ano, sedí.",Hlavní město Francie je Paříž.
+405,Uveď hlavní město Francie.,"Ok, krok za krokem. Hledej: Francie -> Paříž. Proto: Hlavní město Francie se jmenuje Paříž. Konec myšlení.",Hlavní město Francie se jmenuje Paříž.
+406,Hlavní město Francie?,"Moment, zamyslím se. Rychlý fakt: Paříž. Proto: Paříž. Vše jasné v hlavě.",Paříž.
+407,Jaké je hlavní město Itálie?,"Ok, krok za krokem. Fakt: Řím je hlavní město Itálie. Závěr: Hlavní město Itálie je Řím. Dobře, dál.",Hlavní město Itálie je Řím.
+408,Uveď hlavní město Itálie.,Nejprve klidně. Hledej: Itálie -> Řím. Závěr: Hlavní město Itálie se jmenuje Řím. Vše jasné v hlavě.,Hlavní město Itálie se jmenuje Řím.
+409,Hlavní město Itálie?,Nejprve klidně. Rychlý fakt: Řím. Závěr: Řím. Dává to smysl.,Řím.
+410,Jaké je hlavní město Španělsko?,"Moment, zamyslím se. Fakt: Madrid je hlavní město Španělsko. Odpověď tedy: Hlavní město Španělsko je Madrid. Logické.",Hlavní město Španělsko je Madrid.
+411,Uveď hlavní město Španělsko.,"Hmm, co o tom vím? Hledej: Španělsko -> Madrid. Závěr: Hlavní město Španělsko se jmenuje Madrid. Konec myšlení.",Hlavní město Španělsko se jmenuje Madrid.
+412,Hlavní město Španělsko?,"Dobrá otázka, krátce popřemýšlím. Rychlý fakt: Madrid. Proto: Madrid. Logické.",Madrid.
+413,Jaké je hlavní město Portugalsko?,"Ok, krok za krokem. Fakt: Lisabon je hlavní město Portugalsko. Odpověď tedy: Hlavní město Portugalsko je Lisabon. Jsem si jistý.",Hlavní město Portugalsko je Lisabon.
+414,Uveď hlavní město Portugalsko.,"Dobře, popřemýšlejme. Hledej: Portugalsko -> Lisabon. Odpověď tedy: Hlavní město Portugalsko se jmenuje Lisabon. Konec myšlení.",Hlavní město Portugalsko se jmenuje Lisabon.
+415,Hlavní město Portugalsko?,"Moment, zamyslím se. Rychlý fakt: Lisabon. Odpověď tedy: Lisabon. Konec myšlení.",Lisabon.
+416,Jaké je hlavní město Nizozemsko?,"Moment, zamyslím se. Fakt: Amsterdam je hlavní město Nizozemsko. Proto: Hlavní město Nizozemsko je Amsterdam. Dobře, dál.",Hlavní město Nizozemsko je Amsterdam.
+417,Uveď hlavní město Nizozemsko.,"Srovnám si to. Hledej: Nizozemsko -> Amsterdam. Odpověď tedy: Hlavní město Nizozemsko se jmenuje Amsterdam. Ok, rozhodnuto.",Hlavní město Nizozemsko se jmenuje Amsterdam.
+418,Hlavní město Nizozemsko?,Srovnám si to. Rychlý fakt: Amsterdam. Odpověď tedy: Amsterdam. Dává to smysl.,Amsterdam.
+419,Jaké je hlavní město Belgie?,"Ok, krok za krokem. Fakt: Brusel je hlavní město Belgie. Proto: Hlavní město Belgie je Brusel. Dává to smysl.",Hlavní město Belgie je Brusel.
+420,Uveď hlavní město Belgie.,"Ok, krok za krokem. Hledej: Belgie -> Brusel. Proto: Hlavní město Belgie se jmenuje Brusel. Ok, rozhodnuto.",Hlavní město Belgie se jmenuje Brusel.
+421,Hlavní město Belgie?,"Dobře, popřemýšlejme. Rychlý fakt: Brusel. Proto: Brusel. Ano, sedí.",Brusel.
+422,Jaké je hlavní město Rakousko?,"Dobrá otázka, krátce popřemýšlím. Fakt: Vídeň je hlavní město Rakousko. Odpověď tedy: Hlavní město Rakousko je Vídeň. Ano, sedí.",Hlavní město Rakousko je Vídeň.
+423,Uveď hlavní město Rakousko.,Probírám v hlavě. Hledej: Rakousko -> Vídeň. Odpověď tedy: Hlavní město Rakousko se jmenuje Vídeň. Dává to smysl.,Hlavní město Rakousko se jmenuje Vídeň.
+424,Hlavní město Rakousko?,"Ok, krok za krokem. Rychlý fakt: Vídeň. Odpověď tedy: Vídeň. Konec myšlení.",Vídeň.
+425,Jaké je hlavní město Švýcarsko?,Probírám v hlavě. Fakt: Bern je hlavní město Švýcarsko. Proto: Hlavní město Švýcarsko je Bern. Logické.,Hlavní město Švýcarsko je Bern.
+426,Uveď hlavní město Švýcarsko.,"Hmm, co o tom vím? Hledej: Švýcarsko -> Bern. Proto: Hlavní město Švýcarsko se jmenuje Bern. Ano, sedí.",Hlavní město Švýcarsko se jmenuje Bern.
+427,Hlavní město Švýcarsko?,"Probírám v hlavě. Rychlý fakt: Bern. Proto: Bern. Ano, sedí.",Bern.
+428,Jaké je hlavní město Polsko?,"Probírám v hlavě. Fakt: Varšava je hlavní město Polsko. Závěr: Hlavní město Polsko je Varšava. Dobře, dál.",Hlavní město Polsko je Varšava.
+429,Uveď hlavní město Polsko.,"Nejprve klidně. Hledej: Polsko -> Varšava. Závěr: Hlavní město Polsko se jmenuje Varšava. Dobře, dál.",Hlavní město Polsko se jmenuje Varšava.
+430,Hlavní město Polsko?,"Hmm, co o tom vím? Rychlý fakt: Varšava. Závěr: Varšava. Logické.",Varšava.
+431,Jaké je hlavní město Česko?,Srovnám si to. Fakt: Praha je hlavní město Česko. Závěr: Hlavní město Česko je Praha. Jsem si jistý.,Hlavní město Česko je Praha.
+432,Uveď hlavní město Česko.,"Dobrá otázka, krátce popřemýšlím. Hledej: Česko -> Praha. Proto: Hlavní město Česko se jmenuje Praha. Konec myšlení.",Hlavní město Česko se jmenuje Praha.
+433,Hlavní město Česko?,Srovnám si to. Rychlý fakt: Praha. Závěr: Praha. Konec myšlení.,Praha.
+434,Jaké je hlavní město Maďarsko?,"Nejprve klidně. Fakt: Budapešť je hlavní město Maďarsko. Proto: Hlavní město Maďarsko je Budapešť. Ano, sedí.",Hlavní město Maďarsko je Budapešť.
+435,Uveď hlavní město Maďarsko.,"Dobrá otázka, krátce popřemýšlím. Hledej: Maďarsko -> Budapešť. Závěr: Hlavní město Maďarsko se jmenuje Budapešť. Konec myšlení.",Hlavní město Maďarsko se jmenuje Budapešť.
+436,Hlavní město Maďarsko?,"Dobře, popřemýšlejme. Rychlý fakt: Budapešť. Proto: Budapešť. Ok, rozhodnuto.",Budapešť.
+437,Jaké je hlavní město Řecko?,Probírám v hlavě. Fakt: Atény je hlavní město Řecko. Proto: Hlavní město Řecko je Atény. Vše jasné v hlavě.,Hlavní město Řecko je Atény.
+438,Uveď hlavní město Řecko.,"Moment, zamyslím se. Hledej: Řecko -> Atény. Závěr: Hlavní město Řecko se jmenuje Atény. Ok, rozhodnuto.",Hlavní město Řecko se jmenuje Atény.
+439,Hlavní město Řecko?,Nejprve klidně. Rychlý fakt: Atény. Odpověď tedy: Atény. Vše jasné v hlavě.,Atény.
+440,Jaké je hlavní město Turecko?,"Dobře, popřemýšlejme. Fakt: Ankara je hlavní město Turecko. Proto: Hlavní město Turecko je Ankara. Dobře, dál.",Hlavní město Turecko je Ankara.
+441,Uveď hlavní město Turecko.,"Ok, krok za krokem. Hledej: Turecko -> Ankara. Odpověď tedy: Hlavní město Turecko se jmenuje Ankara. Konec myšlení.",Hlavní město Turecko se jmenuje Ankara.
+442,Hlavní město Turecko?,"Nejprve klidně. Rychlý fakt: Ankara. Proto: Ankara. Ok, rozhodnuto.",Ankara.
+443,Jaké je hlavní město Norsko?,"Dobře, popřemýšlejme. Fakt: Oslo je hlavní město Norsko. Proto: Hlavní město Norsko je Oslo. Konec myšlení.",Hlavní město Norsko je Oslo.
+444,Uveď hlavní město Norsko.,Srovnám si to. Hledej: Norsko -> Oslo. Závěr: Hlavní město Norsko se jmenuje Oslo. Dává to smysl.,Hlavní město Norsko se jmenuje Oslo.
+445,Hlavní město Norsko?,Srovnám si to. Rychlý fakt: Oslo. Proto: Oslo. Logické.,Oslo.
+446,Jaké je hlavní město Švédsko?,"Moment, zamyslím se. Fakt: Stockholm je hlavní město Švédsko. Proto: Hlavní město Švédsko je Stockholm. Jsem si jistý.",Hlavní město Švédsko je Stockholm.
+447,Uveď hlavní město Švédsko.,Probírám v hlavě. Hledej: Švédsko -> Stockholm. Závěr: Hlavní město Švédsko se jmenuje Stockholm. Dává to smysl.,Hlavní město Švédsko se jmenuje Stockholm.
+448,Hlavní město Švédsko?,"Ok, krok za krokem. Rychlý fakt: Stockholm. Odpověď tedy: Stockholm. Vše jasné v hlavě.",Stockholm.
+449,Jaké je hlavní město Finsko?,Srovnám si to. Fakt: Helsinky je hlavní město Finsko. Závěr: Hlavní město Finsko je Helsinky. Konec myšlení.,Hlavní město Finsko je Helsinky.
+450,Uveď hlavní město Finsko.,"Dobrá otázka, krátce popřemýšlím. Hledej: Finsko -> Helsinky. Proto: Hlavní město Finsko se jmenuje Helsinky. Ok, rozhodnuto.",Hlavní město Finsko se jmenuje Helsinky.
+451,Hlavní město Finsko?,"Ok, krok za krokem. Rychlý fakt: Helsinky. Proto: Helsinky. Ok, rozhodnuto.",Helsinky.
+452,Jaké je hlavní město Dánsko?,Nejprve klidně. Fakt: Kodaň je hlavní město Dánsko. Proto: Hlavní město Dánsko je Kodaň. Logické.,Hlavní město Dánsko je Kodaň.
+453,Uveď hlavní město Dánsko.,Probírám v hlavě. Hledej: Dánsko -> Kodaň. Odpověď tedy: Hlavní město Dánsko se jmenuje Kodaň. Konec myšlení.,Hlavní město Dánsko se jmenuje Kodaň.
+454,Hlavní město Dánsko?,"Dobře, popřemýšlejme. Rychlý fakt: Kodaň. Proto: Kodaň. Vše jasné v hlavě.",Kodaň.
+455,Jaké je hlavní město Velká Británie?,"Dobrá otázka, krátce popřemýšlím. Fakt: Londýn je hlavní město Velká Británie. Odpověď tedy: Hlavní město Velká Británie je Londýn. Dobře, dál.",Hlavní město Velká Británie je Londýn.
+456,Uveď hlavní město Velká Británie.,"Dobrá otázka, krátce popřemýšlím. Hledej: Velká Británie -> Londýn. Závěr: Hlavní město Velká Británie se jmenuje Londýn. Jsem si jistý.",Hlavní město Velká Británie se jmenuje Londýn.
+457,Hlavní město Velká Británie?,"Probírám v hlavě. Rychlý fakt: Londýn. Závěr: Londýn. Ok, rozhodnuto.",Londýn.
+458,Jaké je hlavní město Irsko?,"Ok, krok za krokem. Fakt: Dublin je hlavní město Irsko. Odpověď tedy: Hlavní město Irsko je Dublin. Logické.",Hlavní město Irsko je Dublin.
+459,Uveď hlavní město Irsko.,"Moment, zamyslím se. Hledej: Irsko -> Dublin. Odpověď tedy: Hlavní město Irsko se jmenuje Dublin. Vše jasné v hlavě.",Hlavní město Irsko se jmenuje Dublin.
+460,Hlavní město Irsko?,"Hmm, co o tom vím? Rychlý fakt: Dublin. Odpověď tedy: Dublin. Logické.",Dublin.
+461,Jaké je hlavní město USA?,"Ok, krok za krokem. Fakt: Washington D.C. je hlavní město USA. Proto: Hlavní město USA je Washington D.C.. Vše jasné v hlavě.",Hlavní město USA je Washington D.C..
+462,Uveď hlavní město USA.,Srovnám si to. Hledej: USA -> Washington D.C.. Proto: Hlavní město USA se jmenuje Washington D.C.. Jsem si jistý.,Hlavní město USA se jmenuje Washington D.C..
+463,Hlavní město USA?,"Dobrá otázka, krátce popřemýšlím. Rychlý fakt: Washington D.C.. Závěr: Washington D.C.. Jsem si jistý.",Washington D.C..
+464,Jaké je hlavní město Kanada?,"Hmm, co o tom vím? Fakt: Ottawa je hlavní město Kanada. Proto: Hlavní město Kanada je Ottawa. Konec myšlení.",Hlavní město Kanada je Ottawa.
+465,Uveď hlavní město Kanada.,"Moment, zamyslím se. Hledej: Kanada -> Ottawa. Odpověď tedy: Hlavní město Kanada se jmenuje Ottawa. Konec myšlení.",Hlavní město Kanada se jmenuje Ottawa.
+466,Hlavní město Kanada?,"Dobře, popřemýšlejme. Rychlý fakt: Ottawa. Proto: Ottawa. Logické.",Ottawa.
+467,Jaké je hlavní město Mexiko?,"Dobře, popřemýšlejme. Fakt: Mexiko je hlavní město Mexiko. Závěr: Hlavní město Mexiko je Mexiko. Jsem si jistý.",Hlavní město Mexiko je Mexiko.
+468,Uveď hlavní město Mexiko.,"Dobrá otázka, krátce popřemýšlím. Hledej: Mexiko -> Mexiko. Odpověď tedy: Hlavní město Mexiko se jmenuje Mexiko. Vše jasné v hlavě.",Hlavní město Mexiko se jmenuje Mexiko.
+469,Hlavní město Mexiko?,"Dobře, popřemýšlejme. Rychlý fakt: Mexiko. Závěr: Mexiko. Vše jasné v hlavě.",Mexiko.
+470,Jaké je hlavní město Brazílie?,"Dobrá otázka, krátce popřemýšlím. Fakt: Brasília je hlavní město Brazílie. Odpověď tedy: Hlavní město Brazílie je Brasília. Konec myšlení.",Hlavní město Brazílie je Brasília.
+471,Uveď hlavní město Brazílie.,Probírám v hlavě. Hledej: Brazílie -> Brasília. Proto: Hlavní město Brazílie se jmenuje Brasília. Vše jasné v hlavě.,Hlavní město Brazílie se jmenuje Brasília.
+472,Hlavní město Brazílie?,"Dobrá otázka, krátce popřemýšlím. Rychlý fakt: Brasília. Odpověď tedy: Brasília. Dobře, dál.",Brasília.
+473,Jaké je hlavní město Argentina?,"Dobrá otázka, krátce popřemýšlím. Fakt: Buenos Aires je hlavní město Argentina. Odpověď tedy: Hlavní město Argentina je Buenos Aires. Konec myšlení.",Hlavní město Argentina je Buenos Aires.
+474,Uveď hlavní město Argentina.,"Dobře, popřemýšlejme. Hledej: Argentina -> Buenos Aires. Odpověď tedy: Hlavní město Argentina se jmenuje Buenos Aires. Jsem si jistý.",Hlavní město Argentina se jmenuje Buenos Aires.
+475,Hlavní město Argentina?,"Moment, zamyslím se. Rychlý fakt: Buenos Aires. Proto: Buenos Aires. Konec myšlení.",Buenos Aires.
+476,Jaké je hlavní město Japonsko?,"Dobrá otázka, krátce popřemýšlím. Fakt: Tokio je hlavní město Japonsko. Odpověď tedy: Hlavní město Japonsko je Tokio. Vše jasné v hlavě.",Hlavní město Japonsko je Tokio.
+477,Uveď hlavní město Japonsko.,"Moment, zamyslím se. Hledej: Japonsko -> Tokio. Proto: Hlavní město Japonsko se jmenuje Tokio. Ano, sedí.",Hlavní město Japonsko se jmenuje Tokio.
+478,Hlavní město Japonsko?,"Moment, zamyslím se. Rychlý fakt: Tokio. Proto: Tokio. Logické.",Tokio.
+479,Jaké je hlavní město Čína?,"Ok, krok za krokem. Fakt: Peking je hlavní město Čína. Proto: Hlavní město Čína je Peking. Konec myšlení.",Hlavní město Čína je Peking.
+480,Uveď hlavní město Čína.,"Dobrá otázka, krátce popřemýšlím. Hledej: Čína -> Peking. Proto: Hlavní město Čína se jmenuje Peking. Dobře, dál.",Hlavní město Čína se jmenuje Peking.
+481,Hlavní město Čína?,"Moment, zamyslím se. Rychlý fakt: Peking. Odpověď tedy: Peking. Jsem si jistý.",Peking.
+482,Jaké je hlavní město Indie?,Probírám v hlavě. Fakt: Nové Dillí je hlavní město Indie. Závěr: Hlavní město Indie je Nové Dillí. Dává to smysl.,Hlavní město Indie je Nové Dillí.
+483,Uveď hlavní město Indie.,"Ok, krok za krokem. Hledej: Indie -> Nové Dillí. Odpověď tedy: Hlavní město Indie se jmenuje Nové Dillí. Dává to smysl.",Hlavní město Indie se jmenuje Nové Dillí.
+484,Hlavní město Indie?,"Dobře, popřemýšlejme. Rychlý fakt: Nové Dillí. Odpověď tedy: Nové Dillí. Ano, sedí.",Nové Dillí.
+485,Jaké je hlavní město Austrálie?,"Nejprve klidně. Fakt: Canberra je hlavní město Austrálie. Závěr: Hlavní město Austrálie je Canberra. Ok, rozhodnuto.",Hlavní město Austrálie je Canberra.
+486,Uveď hlavní město Austrálie.,"Srovnám si to. Hledej: Austrálie -> Canberra. Závěr: Hlavní město Austrálie se jmenuje Canberra. Ano, sedí.",Hlavní město Austrálie se jmenuje Canberra.
+487,Hlavní město Austrálie?,"Dobrá otázka, krátce popřemýšlím. Rychlý fakt: Canberra. Závěr: Canberra. Vše jasné v hlavě.",Canberra.
+488,Jaké je hlavní město Egypt?,"Moment, zamyslím se. Fakt: Káhira je hlavní město Egypt. Závěr: Hlavní město Egypt je Káhira. Dává to smysl.",Hlavní město Egypt je Káhira.
+489,Uveď hlavní město Egypt.,"Nejprve klidně. Hledej: Egypt -> Káhira. Odpověď tedy: Hlavní město Egypt se jmenuje Káhira. Ok, rozhodnuto.",Hlavní město Egypt se jmenuje Káhira.
+490,Hlavní město Egypt?,"Hmm, co o tom vím? Rychlý fakt: Káhira. Proto: Káhira. Konec myšlení.",Káhira.
+491,Kolik zemí má Německo?,"Dobrá otázka, krátce popřemýšlím. Počítat: 16 zemí. Proto: Německo má 16 zemí. Dává to smysl.",Německo má 16 zemí.
+492,Pověz krátce o německé země.,"Hmm, co o tom vím? Počítat: 16 zemí. Odpověď tedy: Německo má 16 zemí. Logické.",Německo má 16 zemí.
+493,Kolik lidí žije v Německu asi?,"Moment, zamyslím se. Odhad: 83-84 milionů. Závěr: V Německu žije asi 83-84 milionů lidí. Dává to smysl.",V Německu žije asi 83-84 milionů lidí.
+494,Pověz krátce o německá populace.,"Ok, krok za krokem. Odhad: 83-84 milionů. Proto: V Německu žije asi 83-84 milionů lidí. Logické.",V Německu žije asi 83-84 milionů lidí.
+495,Jakým jazykem se mluví v Brazílii?,"Srovnám si to. Fakt: portugalsky, ne španělsky. Závěr: V Brazílii se mluví portugalsky. Dává to smysl.",V Brazílii se mluví portugalsky.
+496,Pověz krátce o jazyk Brazílie.,"Nejprve klidně. Fakt: portugalsky, ne španělsky. Odpověď tedy: V Brazílii se mluví portugalsky. Konec myšlení.",V Brazílii se mluví portugalsky.
+497,Jaká je měna Japonska?,"Moment, zamyslím se. Fakt: jen. Závěr: Měnou Japonska je jen. Konec myšlení.",Měnou Japonska je jen.
+498,Pověz krátce o měna Japonska.,"Srovnám si to. Fakt: jen. Odpověď tedy: Měnou Japonska je jen. Ok, rozhodnuto.",Měnou Japonska je jen.
+499,Jaká je měna USA?,"Hmm, co o tom vím? Fakt: americký dolar. Odpověď tedy: Měnou USA je americký dolar. Dává to smysl.",Měnou USA je americký dolar.
+500,Pověz krátce o měna USA.,Nejprve klidně. Fakt: americký dolar. Proto: Měnou USA je americký dolar. Jsem si jistý.,Měnou USA je americký dolar.
+501,Kolik je kontinentů?,"Hmm, co o tom vím? Obvyklý model: 7 kontinentů. Proto: Obvykle počítáme 7 kontinentů: Afrika, Antarktida, Asie, Austrálie, Evropa, Severní Amerika, Jižní Amerika. Ano, sedí.","Obvykle počítáme 7 kontinentů: Afrika, Antarktida, Asie, Austrálie, Evropa, Severní Amerika, Jižní Amerika."
+502,Pověz krátce o kontinenty.,"Srovnám si to. Obvyklý model: 7 kontinentů. Závěr: Obvykle počítáme 7 kontinentů: Afrika, Antarktida, Asie, Austrálie, Evropa, Severní Amerika, Jižní Amerika. Ano, sedí.","Obvykle počítáme 7 kontinentů: Afrika, Antarktida, Asie, Austrálie, Evropa, Severní Amerika, Jižní Amerika."
+503,Jaká je nejdelší řeka světa?,"Dobře, popřemýšlejme. Nil nebo Amazonka, sporné. Závěr: Je to sporné: uvádí se Nil a Amazonka, obě přes 6500 km. Jsem si jistý.","Je to sporné: uvádí se Nil a Amazonka, obě přes 6500 km."
+504,Pověz krátce o nejdelší řeka.,"Probírám v hlavě. Nil nebo Amazonka, sporné. Závěr: Je to sporné: uvádí se Nil a Amazonka, obě přes 6500 km. Jsem si jistý.","Je to sporné: uvádí se Nil a Amazonka, obě přes 6500 km."
+505,Jaká je největší země světa?,Srovnám si to. Fakt: Rusko rozlohou. Závěr: Největší zemí rozlohou je Rusko. Vše jasné v hlavě.,Největší zemí rozlohou je Rusko.
+506,Pověz krátce o největší země.,Nejprve klidně. Fakt: Rusko rozlohou. Závěr: Největší zemí rozlohou je Rusko. Dává to smysl.,Největší zemí rozlohou je Rusko.
+507,Jaké je největší zvíře světa?,"Ok, krok za krokem. Fakt: plejtvák obrovský. Proto: Největším zvířetem světa je plejtvák obrovský. Jsem si jistý.",Největším zvířetem světa je plejtvák obrovský.
+508,Pověz krátce o největší zvíře.,"Hmm, co o tom vím? Fakt: plejtvák obrovský. Odpověď tedy: Největším zvířetem světa je plejtvák obrovský. Ano, sedí.",Největším zvířetem světa je plejtvák obrovský.
+509,Kolik je oceánů?,"Probírám v hlavě. Standard: 5 oceánů. Proto: Je 5 oceánů: Atlantický, Tichý, Indický, Jižní a Severní ledový. Ok, rozhodnuto.","Je 5 oceánů: Atlantický, Tichý, Indický, Jižní a Severní ledový."
+510,Pověz krátce o oceány.,"Dobře, popřemýšlejme. Standard: 5 oceánů. Proto: Je 5 oceánů: Atlantický, Tichý, Indický, Jižní a Severní ledový. Ok, rozhodnuto.","Je 5 oceánů: Atlantický, Tichý, Indický, Jižní a Severní ledový."
+511,Jaká je nejvyšší hora světa?,"Srovnám si to. Fakt: Everest, 8848 m. Odpověď tedy: Nejvyšší horou je Everest, asi 8848 metrů. Ano, sedí.","Nejvyšší horou je Everest, asi 8848 metrů."
+512,Pověz krátce o nejvyšší hora.,"Srovnám si to. Fakt: Everest, 8848 m. Odpověď tedy: Nejvyšší horou je Everest, asi 8848 metrů. Dobře, dál.","Nejvyšší horou je Everest, asi 8848 metrů."
+513,Jaké je hlavní město Kanady?,"Dobře, popřemýšlejme. Fakt: Ottawa, ne Toronto. Proto: Hlavním městem Kanady je Ottawa. Vše jasné v hlavě.",Hlavním městem Kanady je Ottawa.
+514,Pověz krátce o hlavní město Kanady.,"Ok, krok za krokem. Fakt: Ottawa, ne Toronto. Proto: Hlavním městem Kanady je Ottawa. Ano, sedí.",Hlavním městem Kanady je Ottawa.
+515,Pověz krátce o hlavní město Austrálie.,"Probírám v hlavě. Fakt: Canberra, ne Sydney. Odpověď tedy: Hlavním městem Austrálie je Canberra. Jsem si jistý.",Hlavním městem Austrálie je Canberra.
+516,Jaké je hlavní město Turecka?,"Probírám v hlavě. Fakt: Ankara, ne Istanbul. Proto: Hlavním městem Turecka je Ankara. Dává to smysl.",Hlavním městem Turecka je Ankara.
+517,Pověz krátce o hlavní město Turecka.,"Srovnám si to. Fakt: Ankara, ne Istanbul. Závěr: Hlavním městem Turecka je Ankara. Vše jasné v hlavě.",Hlavním městem Turecka je Ankara.
+518,Pověz krátce o hlavní město Brazílie.,"Nejprve klidně. Fakt: Brasília, ne Rio. Závěr: Hlavním městem Brazílie je Brasília. Jsem si jistý.",Hlavním městem Brazílie je Brasília.
+519,Ve kterém roce bylo přistání na Měsíci?,"Dobrá otázka, krátce popřemýšlím. Historie: Apollo 11 v 1969. Proto: První přistání na Měsíci bylo v 1969 s Apollem 11. Ano, sedí.",První přistání na Měsíci bylo v 1969 s Apollem 11.
+520,Vysvětli krátce: přistání na Měsíci.,"Dobře, popřemýšlejme. Historie: Apollo 11 v 1969. Proto: První přistání na Měsíci bylo v 1969 s Apollem 11. Jsem si jistý.",První přistání na Měsíci bylo v 1969 s Apollem 11.
+521,Co víš o přistání na Měsíci?,"Dobře, popřemýšlejme. Historie: Apollo 11 v 1969. Odpověď tedy: První přistání na Měsíci bylo v 1969 s Apollem 11. Jsem si jistý.",První přistání na Měsíci bylo v 1969 s Apollem 11.
+522,Kdy byla druhá světová válka?,"Moment, zamyslím se. Období: 1939-1945. Odpověď tedy: Druhá světová válka trvala od 1939 do 1945. Jsem si jistý.",Druhá světová válka trvala od 1939 do 1945.
+523,Vysvětli krátce: druhá světová válka.,"Hmm, co o tom vím? Období: 1939-1945. Závěr: Druhá světová válka trvala od 1939 do 1945. Ok, rozhodnuto.",Druhá světová válka trvala od 1939 do 1945.
+524,Co víš o druhá světová válka?,Srovnám si to. Období: 1939-1945. Odpověď tedy: Druhá světová válka trvala od 1939 do 1945. Vše jasné v hlavě.,Druhá světová válka trvala od 1939 do 1945.
+525,Kdy byla první světová válka?,"Dobře, popřemýšlejme. Období: 1914-1918. Proto: První světová válka trvala od 1914 do 1918. Dává to smysl.",První světová válka trvala od 1914 do 1918.
+526,Vysvětli krátce: první světová válka.,"Dobře, popřemýšlejme. Období: 1914-1918. Odpověď tedy: První světová válka trvala od 1914 do 1918. Ok, rozhodnuto.",První světová válka trvala od 1914 do 1918.
+527,Co víš o první světová válka?,Nejprve klidně. Období: 1914-1918. Proto: První světová válka trvala od 1914 do 1918. Jsem si jistý.,První světová válka trvala od 1914 do 1918.
+528,Co byla berlínská zeď?,"Dobře, popřemýšlejme. Historie: rozdělení 1961-1989. Proto: Berlínská zeď byla opevněná hranice mezi Východním a Západním Berlínem v letech 1961-1989. Ano, sedí.",Berlínská zeď byla opevněná hranice mezi Východním a Západním Berlínem v letech 1961-1989.
+529,Vysvětli krátce: berlínská zeď.,"Dobře, popřemýšlejme. Historie: rozdělení 1961-1989. Proto: Berlínská zeď byla opevněná hranice mezi Východním a Západním Berlínem v letech 1961-1989. Logické.",Berlínská zeď byla opevněná hranice mezi Východním a Západním Berlínem v letech 1961-1989.
+530,Co víš o berlínská zeď?,"Nejprve klidně. Historie: rozdělení 1961-1989. Proto: Berlínská zeď byla opevněná hranice mezi Východním a Západním Berlínem v letech 1961-1989. Ano, sedí.",Berlínská zeď byla opevněná hranice mezi Východním a Západním Berlínem v letech 1961-1989.
+531,Kdy padla berlínská zeď?,"Nejprve klidně. Fakt: 9. listopadu 1989. Proto: Berlínská zeď padla 9. listopadu 1989. Ok, rozhodnuto.",Berlínská zeď padla 9. listopadu 1989.
+532,Vysvětli krátce: pád zdi.,"Hmm, co o tom vím? Fakt: 9. listopadu 1989. Odpověď tedy: Berlínská zeď padla 9. listopadu 1989. Ok, rozhodnuto.",Berlínská zeď padla 9. listopadu 1989.
+533,Co víš o pád zdi?,"Moment, zamyslím se. Fakt: 9. listopadu 1989. Proto: Berlínská zeď padla 9. listopadu 1989. Vše jasné v hlavě.",Berlínská zeď padla 9. listopadu 1989.
+534,Kdo vynalezl telefon?,"Srovnám si to. Historie: Bell 1876, práce Meucciho. Proto: Telefon si patentoval Alexander Graham Bell v 1876, s průkopnickou prací Antonia Meucciho. Dobře, dál.","Telefon si patentoval Alexander Graham Bell v 1876, s průkopnickou prací Antonia Meucciho."
+535,Vysvětli krátce: telefon.,"Probírám v hlavě. Historie: Bell 1876, práce Meucciho. Odpověď tedy: Telefon si patentoval Alexander Graham Bell v 1876, s průkopnickou prací Antonia Meucciho. Dobře, dál.","Telefon si patentoval Alexander Graham Bell v 1876, s průkopnickou prací Antonia Meucciho."
+536,Co víš o telefon?,"Moment, zamyslím se. Historie: Bell 1876, práce Meucciho. Proto: Telefon si patentoval Alexander Graham Bell v 1876, s průkopnickou prací Antonia Meucciho. Dává to smysl.","Telefon si patentoval Alexander Graham Bell v 1876, s průkopnickou prací Antonia Meucciho."
+537,Kdo rozpracoval relativitu?,"Dobře, popřemýšlejme. Fyzika: Albert Einstein, 1905 a 1915. Proto: Relativitu rozpracoval Albert Einstein. Jsem si jistý.",Relativitu rozpracoval Albert Einstein.
+538,Vysvětli krátce: relativita.,"Moment, zamyslím se. Fyzika: Albert Einstein, 1905 a 1915. Proto: Relativitu rozpracoval Albert Einstein. Jsem si jistý.",Relativitu rozpracoval Albert Einstein.
+539,Co víš o relativita?,"Dobře, popřemýšlejme. Fyzika: Albert Einstein, 1905 a 1915. Odpověď tedy: Relativitu rozpracoval Albert Einstein. Dobře, dál.",Relativitu rozpracoval Albert Einstein.
+540,Co je demokracie?,"Hmm, co o tom vím? Definice: vláda lidu, volby, práva. Závěr: Demokracie znamená vládu lidu, obvykle svobodnými volbami a základními právy. Konec myšlení.","Demokracie znamená vládu lidu, obvykle svobodnými volbami a základními právy."
+541,Vysvětli krátce: demokracie.,"Nejprve klidně. Definice: vláda lidu, volby, práva. Proto: Demokracie znamená vládu lidu, obvykle svobodnými volbami a základními právy. Ok, rozhodnuto.","Demokracie znamená vládu lidu, obvykle svobodnými volbami a základními právy."
+542,Co víš o demokracie?,"Dobře, popřemýšlejme. Definice: vláda lidu, volby, práva. Závěr: Demokracie znamená vládu lidu, obvykle svobodnými volbami a základními právy. Jsem si jistý.","Demokracie znamená vládu lidu, obvykle svobodnými volbami a základními právy."
+543,Co je EU?,"Ok, krok za krokem. Unie evropských států, jednotný trh. Proto: EU je unie evropských států s jednotným trhem a společnými institucemi. Vše jasné v hlavě.",EU je unie evropských států s jednotným trhem a společnými institucemi.
+544,Vysvětli krátce: EU.,"Nejprve klidně. Unie evropských států, jednotný trh. Závěr: EU je unie evropských států s jednotným trhem a společnými institucemi. Ano, sedí.",EU je unie evropských států s jednotným trhem a společnými institucemi.
+545,Co víš o EU?,"Dobrá otázka, krátce popřemýšlím. Unie evropských států, jednotný trh. Závěr: EU je unie evropských států s jednotným trhem a společnými institucemi. Ok, rozhodnuto.",EU je unie evropských států s jednotným trhem a společnými institucemi.
+546,Kolik zemí je v EU?,Probírám v hlavě. Fakt: 27 členských států. Proto: EU má 27 členských států. Dává to smysl.,EU má 27 členských států.
+547,Vysvětli krátce: členové EU.,"Ok, krok za krokem. Fakt: 27 členských států. Proto: EU má 27 členských států. Jsem si jistý.",EU má 27 členských států.
+548,Co víš o členové EU?,"Ok, krok za krokem. Fakt: 27 členských států. Proto: EU má 27 členských států. Logické.",EU má 27 členských států.
+549,Co je německý Základní zákon?,"Srovnám si to. Ústava od 1949. Proto: Základní zákon je ústava Německa, platí od 1949. Dává to smysl.","Základní zákon je ústava Německa, platí od 1949."
+550,Vysvětli krátce: Základní zákon.,"Hmm, co o tom vím? Ústava od 1949. Závěr: Základní zákon je ústava Německa, platí od 1949. Ano, sedí.","Základní zákon je ústava Německa, platí od 1949."
+551,Co víš o Základní zákon?,"Ok, krok za krokem. Ústava od 1949. Závěr: Základní zákon je ústava Německa, platí od 1949. Ok, rozhodnuto.","Základní zákon je ústava Německa, platí od 1949."
+552,Ve kterém roce se sjednotilo Německo?,"Ok, krok za krokem. Fakt: 1990. Závěr: Německo se sjednotilo v 1990. Ok, rozhodnuto.",Německo se sjednotilo v 1990.
+553,Vysvětli krátce: sjednocení.,"Moment, zamyslím se. Fakt: 1990. Závěr: Německo se sjednotilo v 1990. Jsem si jistý.",Německo se sjednotilo v 1990.
+554,Co víš o sjednocení?,Probírám v hlavě. Fakt: 1990. Závěr: Německo se sjednotilo v 1990. Jsem si jistý.,Německo se sjednotilo v 1990.
+555,Co byl středověk?,"Ok, krok za krokem. Éra: asi 500-1500. Závěr: Středověk byla éra asi od 500 do 1500, mezi antikou a novověkem. Vše jasné v hlavě.","Středověk byla éra asi od 500 do 1500, mezi antikou a novověkem."
+556,Vysvětli krátce: středověk.,"Srovnám si to. Éra: asi 500-1500. Odpověď tedy: Středověk byla éra asi od 500 do 1500, mezi antikou a novověkem. Ano, sedí.","Středověk byla éra asi od 500 do 1500, mezi antikou a novověkem."
+557,Co víš o středověk?,"Hmm, co o tom vím? Éra: asi 500-1500. Odpověď tedy: Středověk byla éra asi od 500 do 1500, mezi antikou a novověkem. Dává to smysl.","Středověk byla éra asi od 500 do 1500, mezi antikou a novověkem."
+558,Kdo byl Leonardo da Vinci?,"Ok, krok za krokem. Italský umělec a vynálezce, Mona Lisa. Odpověď tedy: Leonardo da Vinci byl italský umělec a vynálezce, slavný Monou Lisou. Dobře, dál.","Leonardo da Vinci byl italský umělec a vynálezce, slavný Monou Lisou."
+559,Vysvětli krátce: Da Vinci.,"Ok, krok za krokem. Italský umělec a vynálezce, Mona Lisa. Odpověď tedy: Leonardo da Vinci byl italský umělec a vynálezce, slavný Monou Lisou. Logické.","Leonardo da Vinci byl italský umělec a vynálezce, slavný Monou Lisou."
+560,Co víš o Da Vinci?,"Moment, zamyslím se. Italský umělec a vynálezce, Mona Lisa. Proto: Leonardo da Vinci byl italský umělec a vynálezce, slavný Monou Lisou. Logické.","Leonardo da Vinci byl italský umělec a vynálezce, slavný Monou Lisou."
+561,Kdo byla Marie Curie?,"Srovnám si to. Fyzička, radioaktivita, dva Nobely. Odpověď tedy: Marie Curie zkoumala radioaktivitu a získala dva Nobely. Ano, sedí.",Marie Curie zkoumala radioaktivitu a získala dva Nobely.
+562,Vysvětli krátce: Marie Curie.,"Dobře, popřemýšlejme. Fyzička, radioaktivita, dva Nobely. Závěr: Marie Curie zkoumala radioaktivitu a získala dva Nobely. Jsem si jistý.",Marie Curie zkoumala radioaktivitu a získala dva Nobely.
+563,Co víš o Marie Curie?,"Probírám v hlavě. Fyzička, radioaktivita, dva Nobely. Proto: Marie Curie zkoumala radioaktivitu a získala dva Nobely. Ano, sedí.",Marie Curie zkoumala radioaktivitu a získala dva Nobely.
+564,Co byla Francouzská revoluce?,"Srovnám si to. Od 1789, svoboda rovnost bratrství. Závěr: Francouzská revoluce od 1789 svrhla monarchii pod svobodou, rovností, bratrstvím. Vše jasné v hlavě.","Francouzská revoluce od 1789 svrhla monarchii pod svobodou, rovností, bratrstvím."
+565,Vysvětli krátce: Francouzská revoluce.,"Moment, zamyslím se. Od 1789, svoboda rovnost bratrství. Proto: Francouzská revoluce od 1789 svrhla monarchii pod svobodou, rovností, bratrstvím. Logické.","Francouzská revoluce od 1789 svrhla monarchii pod svobodou, rovností, bratrstvím."
+566,Co víš o Francouzská revoluce?,"Moment, zamyslím se. Od 1789, svoboda rovnost bratrství. Závěr: Francouzská revoluce od 1789 svrhla monarchii pod svobodou, rovností, bratrstvím. Dobře, dál.","Francouzská revoluce od 1789 svrhla monarchii pod svobodou, rovností, bratrstvím."
+567,Co jsou lidská práva?,"Dobrá otázka, krátce popřemýšlím. Univerzální základní práva. Proto: Lidská práva jsou základní práva každého, jako život, svoboda a rovnost. Dává to smysl.","Lidská práva jsou základní práva každého, jako život, svoboda a rovnost."
+568,Vysvětli krátce: lidská práva.,"Ok, krok za krokem. Univerzální základní práva. Proto: Lidská práva jsou základní práva každého, jako život, svoboda a rovnost. Logické.","Lidská práva jsou základní práva každého, jako život, svoboda a rovnost."
+569,Co víš o lidská práva?,"Dobře, popřemýšlejme. Univerzální základní práva. Proto: Lidská práva jsou základní práva každého, jako život, svoboda a rovnost. Dobře, dál.","Lidská práva jsou základní práva každého, jako život, svoboda a rovnost."
+570,Co je inflace?,"Ok, krok za krokem. Ekonomie: peníze ztrácejí hodnotu, ceny rostou. Odpověď tedy: Inflace znamená růst cen a ztrátu hodnoty peněz. Dává to smysl.",Inflace znamená růst cen a ztrátu hodnoty peněz.
+571,Vysvětli krátce: inflace.,"Ok, krok za krokem. Ekonomie: peníze ztrácejí hodnotu, ceny rostou. Proto: Inflace znamená růst cen a ztrátu hodnoty peněz. Ok, rozhodnuto.",Inflace znamená růst cen a ztrátu hodnoty peněz.
+572,Co víš o inflace?,"Probírám v hlavě. Ekonomie: peníze ztrácejí hodnotu, ceny rostou. Proto: Inflace znamená růst cen a ztrátu hodnoty peněz. Dává to smysl.",Inflace znamená růst cen a ztrátu hodnoty peněz.
+573,Co byla industrializace?,Srovnám si to. Stroje a továrny od 18. století. Závěr: Industrializace byl přechod ke strojům a továrnám od 18. století. Vše jasné v hlavě.,Industrializace byl přechod ke strojům a továrnám od 18. století.
+574,Vysvětli krátce: industrializace.,"Dobrá otázka, krátce popřemýšlím. Stroje a továrny od 18. století. Závěr: Industrializace byl přechod ke strojům a továrnám od 18. století. Ok, rozhodnuto.",Industrializace byl přechod ke strojům a továrnám od 18. století.
+575,Co víš o industrializace?,"Hmm, co o tom vím? Stroje a továrny od 18. století. Proto: Industrializace byl přechod ke strojům a továrnám od 18. století. Konec myšlení.",Industrializace byl přechod ke strojům a továrnám od 18. století.
+576,Kdy byl vynalezen internet?,"Dobře, popřemýšlejme. ARPANET 1969, Web 1989. Proto: Základy jsou ARPANET v 1969, Web od 1989. Jsem si jistý.","Základy jsou ARPANET v 1969, Web od 1989."
+577,Vysvětli krátce: internet.,"Nejprve klidně. ARPANET 1969, Web 1989. Závěr: Základy jsou ARPANET v 1969, Web od 1989. Konec myšlení.","Základy jsou ARPANET v 1969, Web od 1989."
+578,Co víš o internet?,"Dobrá otázka, krátce popřemýšlím. ARPANET 1969, Web 1989. Proto: Základy jsou ARPANET v 1969, Web od 1989. Vše jasné v hlavě.","Základy jsou ARPANET v 1969, Web od 1989."
+579,Kdy bylo vynalezeno auto?,"Ok, krok za krokem. Benz 1886. Proto: Auto vynalezl Carl Benz vozem z 1886. Ano, sedí.",Auto vynalezl Carl Benz vozem z 1886.
+580,Vysvětli krátce: auto.,"Hmm, co o tom vím? Benz 1886. Proto: Auto vynalezl Carl Benz vozem z 1886. Ano, sedí.",Auto vynalezl Carl Benz vozem z 1886.
+581,Co víš o auto?,"Probírám v hlavě. Benz 1886. Odpověď tedy: Auto vynalezl Carl Benz vozem z 1886. Ano, sedí.",Auto vynalezl Carl Benz vozem z 1886.
+582,Kdo vynalezl letadlo?,"Srovnám si to. Bratři Wrightové, let 1903. Odpověď tedy: První motorový let provedli bratři Wrightové v 1903. Logické.",První motorový let provedli bratři Wrightové v 1903.
+583,Vysvětli krátce: letadlo.,"Nejprve klidně. Bratři Wrightové, let 1903. Závěr: První motorový let provedli bratři Wrightové v 1903. Vše jasné v hlavě.",První motorový let provedli bratři Wrightové v 1903.
+584,Co víš o letadlo?,"Nejprve klidně. Bratři Wrightové, let 1903. Proto: První motorový let provedli bratři Wrightové v 1903. Logické.",První motorový let provedli bratři Wrightové v 1903.
+585,Od kolika se volí v Německu?,"Hmm, co o tom vím? Bundestag od 18, eurovolby od 16. Odpověď tedy: Do Bundestagu od 18 let. V eurovolbách v Německu od 16. Ok, rozhodnuto.",Do Bundestagu od 18 let. V eurovolbách v Německu od 16.
+586,Vysvětli krátce: volební věk.,"Probírám v hlavě. Bundestag od 18, eurovolby od 16. Proto: Do Bundestagu od 18 let. V eurovolbách v Německu od 16. Dává to smysl.",Do Bundestagu od 18 let. V eurovolbách v Německu od 16.
+587,Co víš o volební věk?,"Ok, krok za krokem. Bundestag od 18, eurovolby od 16. Odpověď tedy: Do Bundestagu od 18 let. V eurovolbách v Německu od 16. Ano, sedí.",Do Bundestagu od 18 let. V eurovolbách v Německu od 16.
+588,"Jak fungují volby, prostě?","Moment, zamyslím se. Voliči volí, sčítání, mandáty. Proto: Voliči volí, hlasy se sčítají a mandáty rozdělují podle výsledku. Ok, rozhodnuto.","Voliči volí, hlasy se sčítají a mandáty rozdělují podle výsledku."
+589,Vysvětli krátce: volby.,"Moment, zamyslím se. Voliči volí, sčítání, mandáty. Závěr: Voliči volí, hlasy se sčítají a mandáty rozdělují podle výsledku. Dobře, dál.","Voliči volí, hlasy se sčítají a mandáty rozdělují podle výsledku."
+590,Co víš o volby?,"Dobře, popřemýšlejme. Voliči volí, sčítání, mandáty. Odpověď tedy: Voliči volí, hlasy se sčítají a mandáty rozdělují podle výsledku. Dává to smysl.","Voliči volí, hlasy se sčítají a mandáty rozdělují podle výsledku."
+591,Jaký rozdíl mezi diktaturou a demokracií?,"Hmm, co o tom vím? Samovláda proti vládě lidu. Proto: V diktatuře vládne jedna osoba nebo skupina bez svobodných voleb; v demokracii pochází moc od lidu. Logické.",V diktatuře vládne jedna osoba nebo skupina bez svobodných voleb; v demokracii pochází moc od lidu.
+592,Vysvětli krátce: diktatura a demokracie.,"Nejprve klidně. Samovláda proti vládě lidu. Závěr: V diktatuře vládne jedna osoba nebo skupina bez svobodných voleb; v demokracii pochází moc od lidu. Ano, sedí.",V diktatuře vládne jedna osoba nebo skupina bez svobodných voleb; v demokracii pochází moc od lidu.
+593,Co víš o diktatura a demokracie?,"Moment, zamyslím se. Samovláda proti vládě lidu. Proto: V diktatuře vládne jedna osoba nebo skupina bez svobodných voleb; v demokracii pochází moc od lidu. Jsem si jistý.",V diktatuře vládne jedna osoba nebo skupina bez svobodných voleb; v demokracii pochází moc od lidu.
+594,Co znamená udržitelnost?,"Hmm, co o tom vím? Zdroje pro budoucí generace. Proto: Udržitelnost znamená žít tak, aby i budoucí generace měly zdroje. Dává to smysl.","Udržitelnost znamená žít tak, aby i budoucí generace měly zdroje."
+595,Vysvětli krátce: udržitelnost.,"Dobrá otázka, krátce popřemýšlím. Zdroje pro budoucí generace. Odpověď tedy: Udržitelnost znamená žít tak, aby i budoucí generace měly zdroje. Jsem si jistý.","Udržitelnost znamená žít tak, aby i budoucí generace měly zdroje."
+596,Co víš o udržitelnost?,"Srovnám si to. Zdroje pro budoucí generace. Závěr: Udržitelnost znamená žít tak, aby i budoucí generace měly zdroje. Vše jasné v hlavě.","Udržitelnost znamená žít tak, aby i budoucí generace měly zdroje."
+597,Co je šikana a co dělat?,"Hmm, co o tom vím? Opakovaná; pomoc, důkazy. Odpověď tedy: Šikana je opakované trápení. Promluv s důvěryhodnými, sbírej důkazy, hledej pomoc. Dává to smysl.","Šikana je opakované trápení. Promluv s důvěryhodnými, sbírej důkazy, hledej pomoc."
+598,Vysvětli krátce: šikana.,"Dobrá otázka, krátce popřemýšlím. Opakovaná; pomoc, důkazy. Proto: Šikana je opakované trápení. Promluv s důvěryhodnými, sbírej důkazy, hledej pomoc. Vše jasné v hlavě.","Šikana je opakované trápení. Promluv s důvěryhodnými, sbírej důkazy, hledej pomoc."
+599,Co víš o šikana?,"Ok, krok za krokem. Opakovaná; pomoc, důkazy. Proto: Šikana je opakované trápení. Promluv s důvěryhodnými, sbírej důkazy, hledej pomoc. Dává to smysl.","Šikana je opakované trápení. Promluv s důvěryhodnými, sbírej důkazy, hledej pomoc."
+600,Co znamená mír?,"Moment, zamyslím se. Život bez války a násilí. Závěr: Mír znamená žít spolu bez války a násilí. Jsem si jistý.",Mír znamená žít spolu bez války a násilí.
+601,Vysvětli krátce: mír.,Probírám v hlavě. Život bez války a násilí. Závěr: Mír znamená žít spolu bez války a násilí. Konec myšlení.,Mír znamená žít spolu bez války a násilí.
+602,Co víš o mír?,Srovnám si to. Život bez války a násilí. Proto: Mír znamená žít spolu bez války a násilí. Vše jasné v hlavě.,Mír znamená žít spolu bez války a násilí.
+603,Co znamená svoboda?,Srovnám si to. Žít svobodně bez poškozování druhých. Proto: Svoboda znamená žít svobodně bez poškozování druhých. Logické.,Svoboda znamená žít svobodně bez poškozování druhých.
+604,Vysvětli krátce: svoboda.,Srovnám si to. Žít svobodně bez poškozování druhých. Závěr: Svoboda znamená žít svobodně bez poškozování druhých. Dává to smysl.,Svoboda znamená žít svobodně bez poškozování druhých.
+605,Co víš o svoboda?,Nejprve klidně. Žít svobodně bez poškozování druhých. Odpověď tedy: Svoboda znamená žít svobodně bez poškozování druhých. Dává to smysl.,Svoboda znamená žít svobodně bez poškozování druhých.
+606,Co znamená spravedlnost?,"Dobře, popřemýšlejme. Spravedlivé a rovné zacházení pro všechny. Odpověď tedy: Spravedlnost znamená spravedlivé a rovné zacházení pro každého. Konec myšlení.",Spravedlnost znamená spravedlivé a rovné zacházení pro každého.
+607,Vysvětli krátce: spravedlnost.,"Ok, krok za krokem. Spravedlivé a rovné zacházení pro všechny. Závěr: Spravedlnost znamená spravedlivé a rovné zacházení pro každého. Ok, rozhodnuto.",Spravedlnost znamená spravedlivé a rovné zacházení pro každého.
+608,Co víš o spravedlnost?,"Moment, zamyslím se. Spravedlivé a rovné zacházení pro všechny. Proto: Spravedlnost znamená spravedlivé a rovné zacházení pro každého. Konec myšlení.",Spravedlnost znamená spravedlivé a rovné zacházení pro každého.
+609,Proč je obloha modrá?,"Ok, krok za krokem. Rayleighův rozptyl rozptyluje modrou. Proto: Obloha je modrá Rayleighovým rozptylem: modré světlo se rozptyluje víc než červené. Jsem si jistý.",Obloha je modrá Rayleighovým rozptylem: modré světlo se rozptyluje víc než červené.
+610,Vysvětli modrá obloha v jedné větě.,Srovnám si to. Rayleighův rozptyl rozptyluje modrou. Závěr: Obloha je modrá Rayleighovým rozptylem: modré světlo se rozptyluje víc než červené. Vše jasné v hlavě.,Obloha je modrá Rayleighovým rozptylem: modré světlo se rozptyluje víc než červené.
+611,Co je modrá obloha? (krátce),"Moment, zamyslím se. Rayleighův rozptyl rozptyluje modrou. Proto: Obloha je modrá Rayleighovým rozptylem: modré světlo se rozptyluje víc než červené. Dobře, dál.",Obloha je modrá Rayleighovým rozptylem: modré světlo se rozptyluje víc než červené.
+612,Jak vzniká déšť?,"Hmm, co o tom vím? Cyklus: výpar, kondenzace, srážky. Závěr: Déšť vzniká výparem: voda stoupá, chladne, tvoří mraky a padá kapkami. Konec myšlení.","Déšť vzniká výparem: voda stoupá, chladne, tvoří mraky a padá kapkami."
+613,Vysvětli déšť v jedné větě.,"Srovnám si to. Cyklus: výpar, kondenzace, srážky. Odpověď tedy: Déšť vzniká výparem: voda stoupá, chladne, tvoří mraky a padá kapkami. Dává to smysl.","Déšť vzniká výparem: voda stoupá, chladne, tvoří mraky a padá kapkami."
+614,Co je déšť? (krátce),"Srovnám si to. Cyklus: výpar, kondenzace, srážky. Závěr: Déšť vzniká výparem: voda stoupá, chladne, tvoří mraky a padá kapkami. Logické.","Déšť vzniká výparem: voda stoupá, chladne, tvoří mraky a padá kapkami."
+615,Co je fotosyntéza?,"Probírám v hlavě. Rostliny: světlo, voda, CO2 v cukr a kyslík. Odpověď tedy: Fotosyntéza vyrábí cukr a kyslík ze světla, vody a CO2. Logické.","Fotosyntéza vyrábí cukr a kyslík ze světla, vody a CO2."
+616,Vysvětli fotosyntéza v jedné větě.,"Hmm, co o tom vím? Rostliny: světlo, voda, CO2 v cukr a kyslík. Odpověď tedy: Fotosyntéza vyrábí cukr a kyslík ze světla, vody a CO2. Ok, rozhodnuto.","Fotosyntéza vyrábí cukr a kyslík ze světla, vody a CO2."
+617,Co je fotosyntéza? (krátce),"Dobrá otázka, krátce popřemýšlím. Rostliny: světlo, voda, CO2 v cukr a kyslík. Odpověď tedy: Fotosyntéza vyrábí cukr a kyslík ze světla, vody a CO2. Logické.","Fotosyntéza vyrábí cukr a kyslík ze světla, vody a CO2."
+618,Jaký rozdíl mezi počasím a klimatem?,"Probírám v hlavě. Počasí krátce, klima průměr 30 let. Proto: Počasí je krátkodobý stav; klima průměr asi 30 let. Vše jasné v hlavě.",Počasí je krátkodobý stav; klima průměr asi 30 let.
+619,Vysvětli počasí a klima v jedné větě.,"Nejprve klidně. Počasí krátce, klima průměr 30 let. Závěr: Počasí je krátkodobý stav; klima průměr asi 30 let. Dává to smysl.",Počasí je krátkodobý stav; klima průměr asi 30 let.
+620,Co je počasí a klima? (krátce),"Srovnám si to. Počasí krátce, klima průměr 30 let. Závěr: Počasí je krátkodobý stav; klima průměr asi 30 let. Konec myšlení.",Počasí je krátkodobý stav; klima průměr asi 30 let.
+621,"Jak funguje lednice, obecně?","Moment, zamyslím se. Chladivo, teplo zevnitř ven. Odpověď tedy: Lednice čerpá teplo zevnitř ven chladivem: odpařuje se uvnitř, bere teplo, dává ven. Vše jasné v hlavě.","Lednice čerpá teplo zevnitř ven chladivem: odpařuje se uvnitř, bere teplo, dává ven."
+622,Vysvětli lednice v jedné větě.,"Hmm, co o tom vím? Chladivo, teplo zevnitř ven. Závěr: Lednice čerpá teplo zevnitř ven chladivem: odpařuje se uvnitř, bere teplo, dává ven. Ano, sedí.","Lednice čerpá teplo zevnitř ven chladivem: odpařuje se uvnitř, bere teplo, dává ven."
+623,Co je lednice? (krátce),"Hmm, co o tom vím? Chladivo, teplo zevnitř ven. Odpověď tedy: Lednice čerpá teplo zevnitř ven chladivem: odpařuje se uvnitř, bere teplo, dává ven. Ano, sedí.","Lednice čerpá teplo zevnitř ven chladivem: odpařuje se uvnitř, bere teplo, dává ven."
+624,"Co je elektřina, prostě?","Hmm, co o tom vím? Usměrněný pohyb elektronů. Proto: Elektřina je prostě usměrněný pohyb nábojů, obvykle elektronů v drátu. Dává to smysl.","Elektřina je prostě usměrněný pohyb nábojů, obvykle elektronů v drátu."
+625,Vysvětli elektřina v jedné větě.,"Dobře, popřemýšlejme. Usměrněný pohyb elektronů. Proto: Elektřina je prostě usměrněný pohyb nábojů, obvykle elektronů v drátu. Konec myšlení.","Elektřina je prostě usměrněný pohyb nábojů, obvykle elektronů v drátu."
+626,Co je elektřina? (krátce),"Probírám v hlavě. Usměrněný pohyb elektronů. Závěr: Elektřina je prostě usměrněný pohyb nábojů, obvykle elektronů v drátu. Ano, sedí.","Elektřina je prostě usměrněný pohyb nábojů, obvykle elektronů v drátu."
+627,"Co je voda, chemicky?","Hmm, co o tom vím? H2O, vodík a kyslík. Závěr: Voda je H2O, sloučenina vodíku a kyslíku. Logické.","Voda je H2O, sloučenina vodíku a kyslíku."
+628,Vysvětli voda chemie v jedné větě.,"Moment, zamyslím se. H2O, vodík a kyslík. Odpověď tedy: Voda je H2O, sloučenina vodíku a kyslíku. Ok, rozhodnuto.","Voda je H2O, sloučenina vodíku a kyslíku."
+629,Co je voda chemie? (krátce),"Srovnám si to. H2O, vodík a kyslík. Odpověď tedy: Voda je H2O, sloučenina vodíku a kyslíku. Logické.","Voda je H2O, sloučenina vodíku a kyslíku."
+630,Co je virus?,"Moment, zamyslím se. Maličký, potřebuje hostitelskou buňku. Proto: Virus je maličký činitel, který se nemnoží bez hostitelské buňky. Logické.","Virus je maličký činitel, který se nemnoží bez hostitelské buňky."
+631,Vysvětli virus v jedné větě.,"Probírám v hlavě. Maličký, potřebuje hostitelskou buňku. Odpověď tedy: Virus je maličký činitel, který se nemnoží bez hostitelské buňky. Jsem si jistý.","Virus je maličký činitel, který se nemnoží bez hostitelské buňky."
+632,Co je virus? (krátce),"Ok, krok za krokem. Maličký, potřebuje hostitelskou buňku. Odpověď tedy: Virus je maličký činitel, který se nemnoží bez hostitelské buňky. Ok, rozhodnuto.","Virus je maličký činitel, který se nemnoží bez hostitelské buňky."
+633,"Co je umělá inteligence, prostě?","Nejprve klidně. Programy učící se vzorce. Proto: Umělá inteligence jsou programy učící se z dat, poznávající vzorce a řešící úlohy. Ok, rozhodnuto.","Umělá inteligence jsou programy učící se z dat, poznávající vzorce a řešící úlohy."
+634,Vysvětli UI v jedné větě.,"Dobrá otázka, krátce popřemýšlím. Programy učící se vzorce. Proto: Umělá inteligence jsou programy učící se z dat, poznávající vzorce a řešící úlohy. Dává to smysl.","Umělá inteligence jsou programy učící se z dat, poznávající vzorce a řešící úlohy."
+635,Co je UI? (krátce),"Ok, krok za krokem. Programy učící se vzorce. Závěr: Umělá inteligence jsou programy učící se z dat, poznávající vzorce a řešící úlohy. Jsem si jistý.","Umělá inteligence jsou programy učící se z dat, poznávající vzorce a řešící úlohy."
+636,Co je prohlížeč?,"Dobře, popřemýšlejme. Program na stránky, např. Chrome, Firefox. Proto: Prohlížeč je program na otevírání stránek, např. Chrome, Firefox, Edge či Safari. Dobře, dál.","Prohlížeč je program na otevírání stránek, např. Chrome, Firefox, Edge či Safari."
+637,Vysvětli prohlížeč v jedné větě.,"Dobře, popřemýšlejme. Program na stránky, např. Chrome, Firefox. Proto: Prohlížeč je program na otevírání stránek, např. Chrome, Firefox, Edge či Safari. Logické.","Prohlížeč je program na otevírání stránek, např. Chrome, Firefox, Edge či Safari."
+638,Co je prohlížeč? (krátce),"Hmm, co o tom vím? Program na stránky, např. Chrome, Firefox. Odpověď tedy: Prohlížeč je program na otevírání stránek, např. Chrome, Firefox, Edge či Safari. Dává to smysl.","Prohlížeč je program na otevírání stránek, např. Chrome, Firefox, Edge či Safari."
+639,Co je aplikace?,"Dobrá otázka, krátce popřemýšlím. Program, obvykle na telefony. Závěr: Aplikace je program, obvykle na telefony, např. zprávy, fotky či hry. Konec myšlení.","Aplikace je program, obvykle na telefony, např. zprávy, fotky či hry."
+640,Vysvětli aplikace v jedné větě.,"Dobrá otázka, krátce popřemýšlím. Program, obvykle na telefony. Závěr: Aplikace je program, obvykle na telefony, např. zprávy, fotky či hry. Vše jasné v hlavě.","Aplikace je program, obvykle na telefony, např. zprávy, fotky či hry."
+641,Co je aplikace? (krátce),"Dobrá otázka, krátce popřemýšlím. Program, obvykle na telefony. Závěr: Aplikace je program, obvykle na telefony, např. zprávy, fotky či hry. Jsem si jistý.","Aplikace je program, obvykle na telefony, např. zprávy, fotky či hry."
+642,Proč pít vodu?,"Moment, zamyslím se. Oběh, soustředění, kůže, ledviny. Odpověď tedy: Voda stabilizuje oběh a soustředění, pomáhá ledvinám a kůži, brání bolestem hlavy. Dobře, dál.","Voda stabilizuje oběh a soustředění, pomáhá ledvinám a kůži, brání bolestem hlavy."
+643,Vysvětli pití vody v jedné větě.,"Srovnám si to. Oběh, soustředění, kůže, ledviny. Závěr: Voda stabilizuje oběh a soustředění, pomáhá ledvinám a kůži, brání bolestem hlavy. Dává to smysl.","Voda stabilizuje oběh a soustředění, pomáhá ledvinám a kůži, brání bolestem hlavy."
+644,Co je pití vody? (krátce),"Dobrá otázka, krátce popřemýšlím. Oběh, soustředění, kůže, ledviny. Závěr: Voda stabilizuje oběh a soustředění, pomáhá ledvinám a kůži, brání bolestem hlavy. Dává to smysl.","Voda stabilizuje oběh a soustředění, pomáhá ledvinám a kůži, brání bolestem hlavy."
+645,Jak dlouho čistit zuby?,"Hmm, co o tom vím? 2 minuty, dvakrát denně. Proto: Asi 2 minuty, dvakrát denně. Logické.","Asi 2 minuty, dvakrát denně."
+646,Vysvětli čištění zubů v jedné větě.,"Hmm, co o tom vím? 2 minuty, dvakrát denně. Odpověď tedy: Asi 2 minuty, dvakrát denně. Konec myšlení.","Asi 2 minuty, dvakrát denně."
+647,Co je čištění zubů? (krátce),"Dobrá otázka, krátce popřemýšlím. 2 minuty, dvakrát denně. Odpověď tedy: Asi 2 minuty, dvakrát denně. Ano, sedí.","Asi 2 minuty, dvakrát denně."
+648,Co je gravitace?,"Probírám v hlavě. Přitažlivost hmot; Země přitahuje. Proto: Gravitace je přitažlivost hmot. Země přitahuje vše dolů, proto věci padají. Ano, sedí.","Gravitace je přitažlivost hmot. Země přitahuje vše dolů, proto věci padají."
+649,Vysvětli gravitace v jedné větě.,"Probírám v hlavě. Přitažlivost hmot; Země přitahuje. Odpověď tedy: Gravitace je přitažlivost hmot. Země přitahuje vše dolů, proto věci padají. Dobře, dál.","Gravitace je přitažlivost hmot. Země přitahuje vše dolů, proto věci padají."
+650,Co je gravitace? (krátce),"Nejprve klidně. Přitažlivost hmot; Země přitahuje. Odpověď tedy: Gravitace je přitažlivost hmot. Země přitahuje vše dolů, proto věci padají. Ok, rozhodnuto.","Gravitace je přitažlivost hmot. Země přitahuje vše dolů, proto věci padají."
+651,Co je vzduch?,"Hmm, co o tom vím? Směs dusíku, kyslíku a víc. Proto: Vzduch je směs plynů, hlavně dusík a kyslík. Jsem si jistý.","Vzduch je směs plynů, hlavně dusík a kyslík."
+652,Vysvětli vzduch v jedné větě.,"Nejprve klidně. Směs dusíku, kyslíku a víc. Odpověď tedy: Vzduch je směs plynů, hlavně dusík a kyslík. Jsem si jistý.","Vzduch je směs plynů, hlavně dusík a kyslík."
+653,Co je vzduch? (krátce),"Probírám v hlavě. Směs dusíku, kyslíku a víc. Závěr: Vzduch je směs plynů, hlavně dusík a kyslík. Logické.","Vzduch je směs plynů, hlavně dusík a kyslík."
+654,Co dělá srdce?,Probírám v hlavě. Čerpá krev tělem. Odpověď tedy: Srdce čerpá krev celým tělem. Vše jasné v hlavě.,Srdce čerpá krev celým tělem.
+655,Vysvětli srdce v jedné větě.,"Hmm, co o tom vím? Čerpá krev tělem. Odpověď tedy: Srdce čerpá krev celým tělem. Konec myšlení.",Srdce čerpá krev celým tělem.
+656,Co je srdce? (krátce),Probírám v hlavě. Čerpá krev tělem. Proto: Srdce čerpá krev celým tělem. Dává to smysl.,Srdce čerpá krev celým tělem.
+657,Co dělají plíce?,"Nejprve klidně. Berou kyslík, dávají CO2. Proto: Plíce berou kyslík a dávají oxid uhličitý. Logické.",Plíce berou kyslík a dávají oxid uhličitý.
+658,Vysvětli plíce v jedné větě.,"Dobrá otázka, krátce popřemýšlím. Berou kyslík, dávají CO2. Odpověď tedy: Plíce berou kyslík a dávají oxid uhličitý. Ok, rozhodnuto.",Plíce berou kyslík a dávají oxid uhličitý.
+659,Co je plíce? (krátce),"Probírám v hlavě. Berou kyslík, dávají CO2. Odpověď tedy: Plíce berou kyslík a dávají oxid uhličitý. Ok, rozhodnuto.",Plíce berou kyslík a dávají oxid uhličitý.
+660,Proč je spánek důležitý?,"Dobrá otázka, krátce popřemýšlím. Regenerace, paměť, imunita. Závěr: Spánek pomáhá regeneraci, paměti a imunitě. Dává to smysl.","Spánek pomáhá regeneraci, paměti a imunitě."
+661,Vysvětli spánek v jedné větě.,"Probírám v hlavě. Regenerace, paměť, imunita. Závěr: Spánek pomáhá regeneraci, paměti a imunitě. Jsem si jistý.","Spánek pomáhá regeneraci, paměti a imunitě."
+662,Co je spánek? (krátce),"Moment, zamyslím se. Regenerace, paměť, imunita. Proto: Spánek pomáhá regeneraci, paměti a imunitě. Jsem si jistý.","Spánek pomáhá regeneraci, paměti a imunitě."
+663,Co je horečka?,"Dobře, popřemýšlejme. Zvýšená teplota jako obrana. Proto: Horečka je zvýšená teplota těla, často obrana proti infekcím. Ano, sedí.","Horečka je zvýšená teplota těla, často obrana proti infekcím."
+664,Vysvětli horečka v jedné větě.,"Dobrá otázka, krátce popřemýšlím. Zvýšená teplota jako obrana. Závěr: Horečka je zvýšená teplota těla, často obrana proti infekcím. Logické.","Horečka je zvýšená teplota těla, často obrana proti infekcím."
+665,Co je horečka? (krátce),"Dobrá otázka, krátce popřemýšlím. Zvýšená teplota jako obrana. Proto: Horečka je zvýšená teplota těla, často obrana proti infekcím. Dobře, dál.","Horečka je zvýšená teplota těla, často obrana proti infekcím."
+666,Co je silné heslo?,"Dobrá otázka, krátce popřemýšlím. Dlouhé, jedinečné, ve správci. Odpověď tedy: Silné heslo je dlouhé, jedinečné na službu a držené ve správci. Ok, rozhodnuto.","Silné heslo je dlouhé, jedinečné na službu a držené ve správci."
+667,Vysvětli silné heslo v jedné větě.,"Srovnám si to. Dlouhé, jedinečné, ve správci. Proto: Silné heslo je dlouhé, jedinečné na službu a držené ve správci. Dobře, dál.","Silné heslo je dlouhé, jedinečné na službu a držené ve správci."
+668,Co je silné heslo? (krátce),"Hmm, co o tom vím? Dlouhé, jedinečné, ve správci. Proto: Silné heslo je dlouhé, jedinečné na službu a držené ve správci. Ano, sedí.","Silné heslo je dlouhé, jedinečné na službu a držené ve správci."
+669,Co je Wi-Fi?,"Dobrá otázka, krátce popřemýšlím. Bezdrátová místní síť. Odpověď tedy: Wi-Fi je bezdrátová místní síť na internet bez kabelů. Konec myšlení.",Wi-Fi je bezdrátová místní síť na internet bez kabelů.
+670,Vysvětli Wi-Fi v jedné větě.,"Hmm, co o tom vím? Bezdrátová místní síť. Odpověď tedy: Wi-Fi je bezdrátová místní síť na internet bez kabelů. Vše jasné v hlavě.",Wi-Fi je bezdrátová místní síť na internet bez kabelů.
+671,Co je Wi-Fi? (krátce),"Dobře, popřemýšlejme. Bezdrátová místní síť. Závěr: Wi-Fi je bezdrátová místní síť na internet bez kabelů. Logické.",Wi-Fi je bezdrátová místní síť na internet bez kabelů.
+672,Co je cloud?,"Nejprve klidně. Servery na internetu na data a služby. Závěr: Cloud jsou servery na internetu, kde držíš data a užíváš služby. Ok, rozhodnuto.","Cloud jsou servery na internetu, kde držíš data a užíváš služby."
+673,Vysvětli cloud v jedné větě.,"Dobrá otázka, krátce popřemýšlím. Servery na internetu na data a služby. Odpověď tedy: Cloud jsou servery na internetu, kde držíš data a užíváš služby. Dobře, dál.","Cloud jsou servery na internetu, kde držíš data a užíváš služby."
+674,Co je cloud? (krátce),"Dobře, popřemýšlejme. Servery na internetu na data a služby. Závěr: Cloud jsou servery na internetu, kde držíš data a užíváš služby. Vše jasné v hlavě.","Cloud jsou servery na internetu, kde držíš data a užíváš služby."
+675,Jak funguje GPS?,"Probírám v hlavě. Satelity, čas signálu, výpočet. Závěr: GPS nachází polohu ze signálů satelitů a jejich času cesty. Ok, rozhodnuto.",GPS nachází polohu ze signálů satelitů a jejich času cesty.
+676,Vysvětli GPS v jedné větě.,"Hmm, co o tom vím? Satelity, čas signálu, výpočet. Odpověď tedy: GPS nachází polohu ze signálů satelitů a jejich času cesty. Jsem si jistý.",GPS nachází polohu ze signálů satelitů a jejich času cesty.
+677,Co je GPS? (krátce),"Moment, zamyslím se. Satelity, čas signálu, výpočet. Proto: GPS nachází polohu ze signálů satelitů a jejich času cesty. Jsem si jistý.",GPS nachází polohu ze signálů satelitů a jejich času cesty.
+678,Proč je den a noc?,"Dobrá otázka, krátce popřemýšlím. Rotace Země. Závěr: Den a noc jsou, protože se Země točí. Slunečná strana má den, druhá noc. Vše jasné v hlavě.","Den a noc jsou, protože se Země točí. Slunečná strana má den, druhá noc."
+679,Vysvětli den a noc v jedné větě.,"Nejprve klidně. Rotace Země. Závěr: Den a noc jsou, protože se Země točí. Slunečná strana má den, druhá noc. Ok, rozhodnuto.","Den a noc jsou, protože se Země točí. Slunečná strana má den, druhá noc."
+680,Co je den a noc? (krátce),"Probírám v hlavě. Rotace Země. Proto: Den a noc jsou, protože se Země točí. Slunečná strana má den, druhá noc. Dobře, dál.","Den a noc jsou, protože se Země točí. Slunečná strana má den, druhá noc."
+681,Proč jsou roční období?,"Hmm, co o tom vím? Sklon zemské osy. Závěr: Roční období jsou sklonem osy: každá polokoule se naklání ke slunci střídavě. Vše jasné v hlavě.",Roční období jsou sklonem osy: každá polokoule se naklání ke slunci střídavě.
+682,Vysvětli roční období v jedné větě.,"Dobře, popřemýšlejme. Sklon zemské osy. Odpověď tedy: Roční období jsou sklonem osy: každá polokoule se naklání ke slunci střídavě. Jsem si jistý.",Roční období jsou sklonem osy: každá polokoule se naklání ke slunci střídavě.
+683,Co je roční období? (krátce),"Ok, krok za krokem. Sklon zemské osy. Závěr: Roční období jsou sklonem osy: každá polokoule se naklání ke slunci střídavě. Ano, sedí.",Roční období jsou sklonem osy: každá polokoule se naklání ke slunci střídavě.
+684,Proč Měsíc svítí?,"Ok, krok za krokem. Odráží slunce. Odpověď tedy: Měsíc svítí, protože odráží světlo slunce. Dobře, dál.","Měsíc svítí, protože odráží světlo slunce."
+685,Vysvětli jasný Měsíc v jedné větě.,"Dobrá otázka, krátce popřemýšlím. Odráží slunce. Proto: Měsíc svítí, protože odráží světlo slunce. Ok, rozhodnuto.","Měsíc svítí, protože odráží světlo slunce."
+686,Co je jasný Měsíc? (krátce),"Srovnám si to. Odráží slunce. Závěr: Měsíc svítí, protože odráží světlo slunce. Logické.","Měsíc svítí, protože odráží světlo slunce."
+687,Co je Slunce?,"Hmm, co o tom vím? Hvězda z horkého plynu. Závěr: Slunce je hvězda z horkého plynu dávající světlo a teplo. Jsem si jistý.",Slunce je hvězda z horkého plynu dávající světlo a teplo.
+688,Vysvětli Slunce v jedné větě.,"Ok, krok za krokem. Hvězda z horkého plynu. Odpověď tedy: Slunce je hvězda z horkého plynu dávající světlo a teplo. Ok, rozhodnuto.",Slunce je hvězda z horkého plynu dávající světlo a teplo.
+689,Co je Slunce? (krátce),Srovnám si to. Hvězda z horkého plynu. Odpověď tedy: Slunce je hvězda z horkého plynu dávající světlo a teplo. Vše jasné v hlavě.,Slunce je hvězda z horkého plynu dávající světlo a teplo.
+690,Kolik planet má sluneční soustava?,"Moment, zamyslím se. 8 planet. Závěr: Naše sluneční soustava má 8 planet: Merkur, Venuše, Země, Mars, Jupiter, Saturn, Uran, Neptun. Dobře, dál.","Naše sluneční soustava má 8 planet: Merkur, Venuše, Země, Mars, Jupiter, Saturn, Uran, Neptun."
+691,Vysvětli planety v jedné větě.,"Dobře, popřemýšlejme. 8 planet. Závěr: Naše sluneční soustava má 8 planet: Merkur, Venuše, Země, Mars, Jupiter, Saturn, Uran, Neptun. Jsem si jistý.","Naše sluneční soustava má 8 planet: Merkur, Venuše, Země, Mars, Jupiter, Saturn, Uran, Neptun."
+692,Co je planety? (krátce),"Srovnám si to. 8 planet. Závěr: Naše sluneční soustava má 8 planet: Merkur, Venuše, Země, Mars, Jupiter, Saturn, Uran, Neptun. Vše jasné v hlavě.","Naše sluneční soustava má 8 planet: Merkur, Venuše, Země, Mars, Jupiter, Saturn, Uran, Neptun."
+693,Co je atom?,"Probírám v hlavě. Nejmenší jednotka: jádro plus elektrony. Závěr: Atom je nejmenší jednotka hmoty, z jádra a elektronů. Ano, sedí.","Atom je nejmenší jednotka hmoty, z jádra a elektronů."
+694,Vysvětli atom v jedné větě.,"Dobrá otázka, krátce popřemýšlím. Nejmenší jednotka: jádro plus elektrony. Proto: Atom je nejmenší jednotka hmoty, z jádra a elektronů. Dává to smysl.","Atom je nejmenší jednotka hmoty, z jádra a elektronů."
+695,Co je atom? (krátce),"Dobře, popřemýšlejme. Nejmenší jednotka: jádro plus elektrony. Závěr: Atom je nejmenší jednotka hmoty, z jádra a elektronů. Dává to smysl.","Atom je nejmenší jednotka hmoty, z jádra a elektronů."
+696,Co je recyklace?,"Ok, krok za krokem. Sbírat odpad, dělat nové výrobky. Proto: Recyklace sbírá odpad, aby dělala nové výrobky. Konec myšlení.","Recyklace sbírá odpad, aby dělala nové výrobky."
+697,Vysvětli recyklace v jedné větě.,"Dobře, popřemýšlejme. Sbírat odpad, dělat nové výrobky. Odpověď tedy: Recyklace sbírá odpad, aby dělala nové výrobky. Ok, rozhodnuto.","Recyklace sbírá odpad, aby dělala nové výrobky."
+698,Co je recyklace? (krátce),"Probírám v hlavě. Sbírat odpad, dělat nové výrobky. Odpověď tedy: Recyklace sbírá odpad, aby dělala nové výrobky. Logické.","Recyklace sbírá odpad, aby dělala nové výrobky."
+699,Co je skleníkový efekt?,"Hmm, co o tom vím? Plyny drží teplo. Odpověď tedy: Skleníkový efekt drží teplo. Moc plynů ohřívá klima. Konec myšlení.",Skleníkový efekt drží teplo. Moc plynů ohřívá klima.
+700,Vysvětli skleníkový efekt v jedné větě.,"Dobrá otázka, krátce popřemýšlím. Plyny drží teplo. Závěr: Skleníkový efekt drží teplo. Moc plynů ohřívá klima. Jsem si jistý.",Skleníkový efekt drží teplo. Moc plynů ohřívá klima.
+701,Co je skleníkový efekt? (krátce),"Moment, zamyslím se. Plyny drží teplo. Odpověď tedy: Skleníkový efekt drží teplo. Moc plynů ohřívá klima. Logické.",Skleníkový efekt drží teplo. Moc plynů ohřívá klima.
+702,Proč jsou včely důležité?,"Ok, krok za krokem. Opylování, sklizně. Závěr: Včely opylují rostliny a zajišťují sklizně a rozmanitost. Jsem si jistý.",Včely opylují rostliny a zajišťují sklizně a rozmanitost.
+703,Vysvětli včely v jedné větě.,"Nejprve klidně. Opylování, sklizně. Odpověď tedy: Včely opylují rostliny a zajišťují sklizně a rozmanitost. Dává to smysl.",Včely opylují rostliny a zajišťují sklizně a rozmanitost.
+704,Co je včely? (krátce),"Srovnám si to. Opylování, sklizně. Odpověď tedy: Včely opylují rostliny a zajišťují sklizně a rozmanitost. Ano, sedí.",Včely opylují rostliny a zajišťují sklizně a rozmanitost.
+705,Proč jsou listy zelené?,"Ok, krok za krokem. Pigment chlorofyl. Proto: Listy jsou zelené chlorofylem, pigmentem fotosyntézy. Ano, sedí.","Listy jsou zelené chlorofylem, pigmentem fotosyntézy."
+706,Vysvětli zelené listy v jedné větě.,"Probírám v hlavě. Pigment chlorofyl. Závěr: Listy jsou zelené chlorofylem, pigmentem fotosyntézy. Ok, rozhodnuto.","Listy jsou zelené chlorofylem, pigmentem fotosyntézy."
+707,Co je zelené listy? (krátce),"Moment, zamyslím se. Pigment chlorofyl. Odpověď tedy: Listy jsou zelené chlorofylem, pigmentem fotosyntézy. Jsem si jistý.","Listy jsou zelené chlorofylem, pigmentem fotosyntézy."
+708,Co je savec?,"Ok, krok za krokem. Srst, živý porod, mléko. Proto: Savci mají srst, rodí živá mláďata a kojí mlékem. Dobře, dál.","Savci mají srst, rodí živá mláďata a kojí mlékem."
+709,Vysvětli savci v jedné větě.,"Moment, zamyslím se. Srst, živý porod, mléko. Závěr: Savci mají srst, rodí živá mláďata a kojí mlékem. Ok, rozhodnuto.","Savci mají srst, rodí živá mláďata a kojí mlékem."
+710,Co je savci? (krátce),"Dobrá otázka, krátce popřemýšlím. Srst, živý porod, mléko. Proto: Savci mají srst, rodí živá mláďata a kojí mlékem. Dává to smysl.","Savci mají srst, rodí živá mláďata a kojí mlékem."
+711,Jak funguje baterie?,"Ok, krok za krokem. Chemická energie v elektrickou. Odpověď tedy: Baterie mění chemickou energii v elektrickou. Konec myšlení.",Baterie mění chemickou energii v elektrickou.
+712,Vysvětli baterie v jedné větě.,Nejprve klidně. Chemická energie v elektrickou. Závěr: Baterie mění chemickou energii v elektrickou. Vše jasné v hlavě.,Baterie mění chemickou energii v elektrickou.
+713,Co je baterie? (krátce),Probírám v hlavě. Chemická energie v elektrickou. Závěr: Baterie mění chemickou energii v elektrickou. Dává to smysl.,Baterie mění chemickou energii v elektrickou.
+714,Jak funguje solární proud?,Probírám v hlavě. Články: světlo v proud. Závěr: Solární články mění světlo přímo v proud. Konec myšlení.,Solární články mění světlo přímo v proud.
+715,Vysvětli solární proud v jedné větě.,"Probírám v hlavě. Články: světlo v proud. Závěr: Solární články mění světlo přímo v proud. Dobře, dál.",Solární články mění světlo přímo v proud.
+716,Co je solární proud? (krátce),Nejprve klidně. Články: světlo v proud. Proto: Solární články mění světlo přímo v proud. Dává to smysl.,Solární články mění světlo přímo v proud.
+717,Co je počítačový virus?,"Dobře, popřemýšlejme. Škodlivý program, který se šíří. Odpověď tedy: Virus je škodlivý program, který se šíří a škodí. Chraň aktualizacemi a opatrností. Logické.","Virus je škodlivý program, který se šíří a škodí. Chraň aktualizacemi a opatrností."
+718,Vysvětli počítačový virus v jedné větě.,"Ok, krok za krokem. Škodlivý program, který se šíří. Závěr: Virus je škodlivý program, který se šíří a škodí. Chraň aktualizacemi a opatrností. Vše jasné v hlavě.","Virus je škodlivý program, který se šíří a škodí. Chraň aktualizacemi a opatrností."
+719,Co je počítačový virus? (krátce),"Dobrá otázka, krátce popřemýšlím. Škodlivý program, který se šíří. Proto: Virus je škodlivý program, který se šíří a škodí. Chraň aktualizacemi a opatrností. Vše jasné v hlavě.","Virus je škodlivý program, který se šíří a škodí. Chraň aktualizacemi a opatrností."
+720,Proč je plast problém?,"Ok, krok za krokem. Trvalý odpad, mikroplasty. Proto: Plast téměř nehnije, smetí přírodu a moře, stává se mikroplasty. Konec myšlení.","Plast téměř nehnije, smetí přírodu a moře, stává se mikroplasty."
+721,Vysvětli plast v jedné větě.,"Dobrá otázka, krátce popřemýšlím. Trvalý odpad, mikroplasty. Proto: Plast téměř nehnije, smetí přírodu a moře, stává se mikroplasty. Jsem si jistý.","Plast téměř nehnije, smetí přírodu a moře, stává se mikroplasty."
+722,Co je plast? (krátce),"Moment, zamyslím se. Trvalý odpad, mikroplasty. Proto: Plast téměř nehnije, smetí přírodu a moře, stává se mikroplasty. Logické.","Plast téměř nehnije, smetí přírodu a moře, stává se mikroplasty."
+723,Co je zemětřesení?,"Hmm, co o tom vím? Desky hýbou, energie ven. Proto: Zemětřesení je, když se desky náhle hnou a uvolní energii. Konec myšlení.","Zemětřesení je, když se desky náhle hnou a uvolní energii."
+724,Vysvětli zemětřesení v jedné větě.,"Probírám v hlavě. Desky hýbou, energie ven. Proto: Zemětřesení je, když se desky náhle hnou a uvolní energii. Konec myšlení.","Zemětřesení je, když se desky náhle hnou a uvolní energii."
+725,Co je zemětřesení? (krátce),"Hmm, co o tom vím? Desky hýbou, energie ven. Závěr: Zemětřesení je, když se desky náhle hnou a uvolní energii. Jsem si jistý.","Zemětřesení je, když se desky náhle hnou a uvolní energii."
+726,Co je med?,"Ok, krok za krokem. Včely z nektaru. Odpověď tedy: Med dělají včely z nektaru květů. Konec myšlení.",Med dělají včely z nektaru květů.
+727,Vysvětli med v jedné větě.,Srovnám si to. Včely z nektaru. Odpověď tedy: Med dělají včely z nektaru květů. Jsem si jistý.,Med dělají včely z nektaru květů.
+728,Co je med? (krátce),"Dobrá otázka, krátce popřemýšlím. Včely z nektaru. Proto: Med dělají včely z nektaru květů. Jsem si jistý.",Med dělají včely z nektaru květů.
+729,Kolik je 25 krát 4?,"Nejprve klidně. Počítat: 25*4=100. Ověření: 25 krát 4 je 100. Správně. Ok, rozhodnuto.",25 krát 4 je 100.
+730,Kolik je 12 procent z 200?,"Moment, zamyslím se. Procenta: 200*0,12=24. Kontrola: 12 procent z 200 je 24. Sedí. Jsem si jistý.",12 procent z 200 je 24.
+731,Kolik je 7 krát 8 plus 10?,"Dobře, popřemýšlejme. Pořadí: 7*8=56 +10=66. Přepočet: Je to 66. Vychází. Dává to smysl.",Je to 66.
+732,Vlak odjíždí ve 14:30 a jede 2h15. Kdy přijede?,"Nejprve klidně. Sečíst: 14:30 + 2:15 = 16:45. Přepočet: Přijede v 16:45. Vychází. Ok, rozhodnuto.",Přijede v 16:45.
+733,Mám 3 jablka a 1 sním. Kolik zbývá?,"Dobrá otázka, krátce popřemýšlím. Odečíst: 3-1=2. Přepočet: Zbývají 2 jablka. Vychází. Dobře, dál.",Zbývají 2 jablka.
+734,Lehám ve 22 a vstávám v 6. Jak dlouho spím?,Probírám v hlavě. Doba: 22-6 = 8 hodin. Přepočet: Spíš 8 hodin. Vychází. Konec myšlení.,Spíš 8 hodin.
+735,Rozděl 100 euro 4 lidem.,Srovnám si to. Dělit: 100/4=25. Ověření: Každý dostane 25 euro. Správně. Jsem si jistý.,Každý dostane 25 euro.
+736,Kolik minut jsou 2 hodiny?,Nejprve klidně. Přepočet: 2*60=120. Přepočet: 2 hodiny jsou 120 minut. Vychází. Vše jasné v hlavě.,2 hodiny jsou 120 minut.
+737,Kolik dní má rok?,"Srovnám si to. Fakt: 365, přestupný 366. Závěr: Rok má 365 dní, přestupný 366. Ok, rozhodnuto.","Rok má 365 dní, přestupný 366."
+738,Kolik sekund má minuta?,"Moment, zamyslím se. Fakt: 60. Závěr: Minuta má 60 sekund. Vše jasné v hlavě.",Minuta má 60 sekund.
+739,Kolik je 42 plus 9?,"Dobře, popřemýšlejme. Sečíst: 42+9=51. Kontrola: 42 plus 9 je 51. Sedí. Konec myšlení.",42 plus 9 je 51.
+740,Kolik je 83 minus 2?,"Srovnám si to. Odečíst: 83-2=81. Kontrola: 83 minus 2 je 81. Sedí. Ano, sedí.",83 minus 2 je 81.
+741,Kolik je 12 krát 2?,Probírám v hlavě. Násobit: 12*2=24. Přepočet: 12 krát 2 je 24. Vychází. Konec myšlení.,12 krát 2 je 24.
+742,Kolik je 121 děleno 11?,Probírám v hlavě. Dělit: 121/11=11. Ověření: 121 děleno 11 je 11. Správně. Vše jasné v hlavě.,121 děleno 11 je 11.
+743,Kolik je 20 procent z 1000?,Nejprve klidně. Procenta: 1000*20/100=200. Kontrola: 20 procent z 1000 je 200. Sedí. Jsem si jistý.,20 procent z 1000 je 200.
+744,Kolik je 18 plus 26?,"Nejprve klidně. Sečíst: 18+26=44. Kontrola: 18 plus 26 je 44. Sedí. Dobře, dál.",18 plus 26 je 44.
+745,Kolik je 96 minus 84?,Probírám v hlavě. Odečíst: 96-84=12. Přepočet: 96 minus 84 je 12. Vychází. Logické.,96 minus 84 je 12.
+746,Kolik je 4 krát 8?,"Probírám v hlavě. Násobit: 4*8=32. Přepočet: 4 krát 8 je 32. Vychází. Ano, sedí.",4 krát 8 je 32.
+747,Kolik je 27 děleno 9?,Srovnám si to. Dělit: 27/9=3. Ověření: 27 děleno 9 je 3. Správně. Vše jasné v hlavě.,27 děleno 9 je 3.
+748,Kolik je 10 procent z 500?,"Dobrá otázka, krátce popřemýšlím. Procenta: 500*10/100=50. Kontrola: 10 procent z 500 je 50. Sedí. Ano, sedí.",10 procent z 500 je 50.
+749,Kolik je 19 plus 19?,"Moment, zamyslím se. Sečíst: 19+19=38. Ověření: 19 plus 19 je 38. Správně. Konec myšlení.",19 plus 19 je 38.
+750,Kolik je 30 minus 23?,Probírám v hlavě. Odečíst: 30-23=7. Přepočet: 30 minus 23 je 7. Vychází. Jsem si jistý.,30 minus 23 je 7.
+751,Kolik je 3 krát 3?,"Moment, zamyslím se. Násobit: 3*3=9. Přepočet: 3 krát 3 je 9. Vychází. Dobře, dál.",3 krát 3 je 9.
+752,Kolik je 42 děleno 6?,"Hmm, co o tom vím? Dělit: 42/6=7. Kontrola: 42 děleno 6 je 7. Sedí. Logické.",42 děleno 6 je 7.
+753,Kolik je 50 procent z 200?,"Dobře, popřemýšlejme. Procenta: 200*50/100=100. Přepočet: 50 procent z 200 je 100. Vychází. Ano, sedí.",50 procent z 200 je 100.
+754,Kolik je 26 plus 20?,"Ok, krok za krokem. Sečíst: 26+20=46. Ověření: 26 plus 20 je 46. Správně. Logické.",26 plus 20 je 46.
+755,Kolik je 90 minus 17?,"Dobře, popřemýšlejme. Odečíst: 90-17=73. Ověření: 90 minus 17 je 73. Správně. Konec myšlení.",90 minus 17 je 73.
+756,Kolik je 12 krát 12?,Nejprve klidně. Násobit: 12*12=144. Ověření: 12 krát 12 je 144. Správně. Konec myšlení.,12 krát 12 je 144.
+757,Kolik je 168 děleno 12?,Srovnám si to. Dělit: 168/12=14. Kontrola: 168 děleno 12 je 14. Sedí. Vše jasné v hlavě.,168 děleno 12 je 14.
+758,Kolik je 50 procent z 300?,"Dobře, popřemýšlejme. Procenta: 300*50/100=150. Ověření: 50 procent z 300 je 150. Správně. Ok, rozhodnuto.",50 procent z 300 je 150.
+759,Kolik je 33 plus 2?,"Hmm, co o tom vím? Sečíst: 33+2=35. Přepočet: 33 plus 2 je 35. Vychází. Ok, rozhodnuto.",33 plus 2 je 35.
+760,Kolik je 12 minus 8?,Probírám v hlavě. Odečíst: 12-8=4. Ověření: 12 minus 8 je 4. Správně. Logické.,12 minus 8 je 4.
+761,Kolik je 9 krát 11?,"Probírám v hlavě. Násobit: 9*11=99. Přepočet: 9 krát 11 je 99. Vychází. Ano, sedí.",9 krát 11 je 99.
+762,Kolik je 40 děleno 8?,"Srovnám si to. Dělit: 40/8=5. Kontrola: 40 děleno 8 je 5. Sedí. Ano, sedí.",40 děleno 8 je 5.
+763,Kolik je 25 procent z 300?,"Dobrá otázka, krátce popřemýšlím. Procenta: 300*25/100=75. Ověření: 25 procent z 300 je 75. Správně. Ano, sedí.",25 procent z 300 je 75.
+764,Kolik je 5 plus 9?,"Moment, zamyslím se. Sečíst: 5+9=14. Ověření: 5 plus 9 je 14. Správně. Jsem si jistý.",5 plus 9 je 14.
+765,Kolik je 8 minus 4?,"Moment, zamyslím se. Odečíst: 8-4=4. Ověření: 8 minus 4 je 4. Správně. Jsem si jistý.",8 minus 4 je 4.
+766,Kolik je 11 krát 7?,"Nejprve klidně. Násobit: 11*7=77. Přepočet: 11 krát 7 je 77. Vychází. Dobře, dál.",11 krát 7 je 77.
+767,Kolik je 120 děleno 10?,"Hmm, co o tom vím? Dělit: 120/10=12. Kontrola: 120 děleno 10 je 12. Sedí. Vše jasné v hlavě.",120 děleno 10 je 12.
+768,Kolik je 20 procent z 200?,"Ok, krok za krokem. Procenta: 200*20/100=40. Ověření: 20 procent z 200 je 40. Správně. Vše jasné v hlavě.",20 procent z 200 je 40.
+769,Kolik je 39 plus 43?,"Probírám v hlavě. Sečíst: 39+43=82. Kontrola: 39 plus 43 je 82. Sedí. Ano, sedí.",39 plus 43 je 82.
+770,Kolik je 82 minus 25?,"Hmm, co o tom vím? Odečíst: 82-25=57. Kontrola: 82 minus 25 je 57. Sedí. Dává to smysl.",82 minus 25 je 57.
+771,Kolik je 5 krát 10?,"Probírám v hlavě. Násobit: 5*10=50. Ověření: 5 krát 10 je 50. Správně. Ok, rozhodnuto.",5 krát 10 je 50.
+772,Kolik je 34 děleno 2?,"Dobrá otázka, krátce popřemýšlím. Dělit: 34/2=17. Ověření: 34 děleno 2 je 17. Správně. Vše jasné v hlavě.",34 děleno 2 je 17.
+773,Kolik je 50 procent z 1000?,"Hmm, co o tom vím? Procenta: 1000*50/100=500. Ověření: 50 procent z 1000 je 500. Správně. Jsem si jistý.",50 procent z 1000 je 500.
+774,Kolik je 38 plus 42?,"Dobře, popřemýšlejme. Sečíst: 38+42=80. Kontrola: 38 plus 42 je 80. Sedí. Ano, sedí.",38 plus 42 je 80.
+775,Kolik je 35 minus 30?,"Ok, krok za krokem. Odečíst: 35-30=5. Přepočet: 35 minus 30 je 5. Vychází. Ano, sedí.",35 minus 30 je 5.
+776,Kolik je 5 krát 9?,Nejprve klidně. Násobit: 5*9=45. Kontrola: 5 krát 9 je 45. Sedí. Logické.,5 krát 9 je 45.
+777,Kolik je 8 děleno 2?,Nejprve klidně. Dělit: 8/2=4. Ověření: 8 děleno 2 je 4. Správně. Dává to smysl.,8 děleno 2 je 4.
+778,Kolik je 25 procent z 100?,Nejprve klidně. Procenta: 100*25/100=25. Přepočet: 25 procent z 100 je 25. Vychází. Logické.,25 procent z 100 je 25.
+779,Kolik je 10 plus 14?,"Ok, krok za krokem. Sečíst: 10+14=24. Ověření: 10 plus 14 je 24. Správně. Konec myšlení.",10 plus 14 je 24.
+780,Kolik je 54 minus 31?,"Hmm, co o tom vím? Odečíst: 54-31=23. Kontrola: 54 minus 31 je 23. Sedí. Konec myšlení.",54 minus 31 je 23.
+781,Kolik je 5 krát 8?,"Probírám v hlavě. Násobit: 5*8=40. Ověření: 5 krát 8 je 40. Správně. Ok, rozhodnuto.",5 krát 8 je 40.
+782,Kolik je 154 děleno 11?,"Ok, krok za krokem. Dělit: 154/11=14. Přepočet: 154 děleno 11 je 14. Vychází. Konec myšlení.",154 děleno 11 je 14.
+783,Kolik je 50 plus 25?,"Moment, zamyslím se. Sečíst: 50+25=75. Ověření: 50 plus 25 je 75. Správně. Dává to smysl.",50 plus 25 je 75.
+784,Kolik je 97 minus 8?,"Ok, krok za krokem. Odečíst: 97-8=89. Přepočet: 97 minus 8 je 89. Vychází. Jsem si jistý.",97 minus 8 je 89.
+785,Kolik je 7 krát 3?,Probírám v hlavě. Násobit: 7*3=21. Kontrola: 7 krát 3 je 21. Sedí. Konec myšlení.,7 krát 3 je 21.
+786,Kolik je 40 děleno 4?,"Probírám v hlavě. Dělit: 40/4=10. Ověření: 40 děleno 4 je 10. Správně. Ok, rozhodnuto.",40 děleno 4 je 10.
+787,Kolik je 4 plus 59?,Nejprve klidně. Sečíst: 4+59=63. Přepočet: 4 plus 59 je 63. Vychází. Vše jasné v hlavě.,4 plus 59 je 63.
+788,Kolik je 8 minus 3?,"Hmm, co o tom vím? Odečíst: 8-3=5. Přepočet: 8 minus 3 je 5. Vychází. Logické.",8 minus 3 je 5.
+789,Kolik je 12 krát 8?,"Dobře, popřemýšlejme. Násobit: 12*8=96. Kontrola: 12 krát 8 je 96. Sedí. Konec myšlení.",12 krát 8 je 96.
+790,Kolik je 16 děleno 4?,"Ok, krok za krokem. Dělit: 16/4=4. Ověření: 16 děleno 4 je 4. Správně. Jsem si jistý.",16 děleno 4 je 4.
+791,Kolik je 50 procent z 100?,"Moment, zamyslím se. Procenta: 100*50/100=50. Přepočet: 50 procent z 100 je 50. Vychází. Vše jasné v hlavě.",50 procent z 100 je 50.
+792,Kolik je 10 plus 56?,"Hmm, co o tom vím? Sečíst: 10+56=66. Kontrola: 10 plus 56 je 66. Sedí. Ano, sedí.",10 plus 56 je 66.
+793,Kolik je 48 minus 40?,"Hmm, co o tom vím? Odečíst: 48-40=8. Ověření: 48 minus 40 je 8. Správně. Jsem si jistý.",48 minus 40 je 8.
+794,Kolik je 2 krát 11?,Probírám v hlavě. Násobit: 2*11=22. Přepočet: 2 krát 11 je 22. Vychází. Konec myšlení.,2 krát 11 je 22.
+795,Kolik je 27 děleno 3?,"Ok, krok za krokem. Dělit: 27/3=9. Ověření: 27 děleno 3 je 9. Správně. Ano, sedí.",27 děleno 3 je 9.
+796,Kolik je 15 procent z 200?,Probírám v hlavě. Procenta: 200*15/100=30. Kontrola: 15 procent z 200 je 30. Sedí. Logické.,15 procent z 200 je 30.
+797,Kolik je 14 plus 30?,"Dobrá otázka, krátce popřemýšlím. Sečíst: 14+30=44. Ověření: 14 plus 30 je 44. Správně. Ano, sedí.",14 plus 30 je 44.
+798,Kolik je 19 minus 15?,"Hmm, co o tom vím? Odečíst: 19-15=4. Kontrola: 19 minus 15 je 4. Sedí. Ok, rozhodnuto.",19 minus 15 je 4.
+799,Kolik je 5 krát 3?,"Moment, zamyslím se. Násobit: 5*3=15. Ověření: 5 krát 3 je 15. Správně. Ano, sedí.",5 krát 3 je 15.
+800,Kolik je 216 děleno 12?,Nejprve klidně. Dělit: 216/12=18. Přepočet: 216 děleno 12 je 18. Vychází. Dává to smysl.,216 děleno 12 je 18.
+801,Kolik je 10 procent z 100?,"Dobrá otázka, krátce popřemýšlím. Procenta: 100*10/100=10. Přepočet: 10 procent z 100 je 10. Vychází. Jsem si jistý.",10 procent z 100 je 10.
+802,Kolik je 12 plus 54?,Nejprve klidně. Sečíst: 12+54=66. Přepočet: 12 plus 54 je 66. Vychází. Dává to smysl.,12 plus 54 je 66.
+803,Kolik je 73 minus 50?,"Ok, krok za krokem. Odečíst: 73-50=23. Ověření: 73 minus 50 je 23. Správně. Konec myšlení.",73 minus 50 je 23.
+804,Kolik je 8 krát 4?,"Ok, krok za krokem. Násobit: 8*4=32. Kontrola: 8 krát 4 je 32. Sedí. Vše jasné v hlavě.",8 krát 4 je 32.
+805,Kolik je 160 děleno 8?,"Probírám v hlavě. Dělit: 160/8=20. Ověření: 160 děleno 8 je 20. Správně. Ok, rozhodnuto.",160 děleno 8 je 20.
+806,Kolik je 50 procent z 500?,"Dobrá otázka, krátce popřemýšlím. Procenta: 500*50/100=250. Ověření: 50 procent z 500 je 250. Správně. Jsem si jistý.",50 procent z 500 je 250.
+807,Kolik je 8 plus 26?,"Dobře, popřemýšlejme. Sečíst: 8+26=34. Přepočet: 8 plus 26 je 34. Vychází. Logické.",8 plus 26 je 34.
+808,Kolik je 5 minus 3?,"Dobře, popřemýšlejme. Odečíst: 5-3=2. Přepočet: 5 minus 3 je 2. Vychází. Dobře, dál.",5 minus 3 je 2.
+809,Kolik je 6 krát 2?,"Hmm, co o tom vím? Násobit: 6*2=12. Ověření: 6 krát 2 je 12. Správně. Konec myšlení.",6 krát 2 je 12.
+810,Kolik je 22 děleno 11?,"Hmm, co o tom vím? Dělit: 22/11=2. Přepočet: 22 děleno 11 je 2. Vychází. Ok, rozhodnuto.",22 děleno 11 je 2.
+811,Kolik je 10 procent z 300?,"Ok, krok za krokem. Procenta: 300*10/100=30. Ověření: 10 procent z 300 je 30. Správně. Logické.",10 procent z 300 je 30.
+812,Kolik je 2 plus 29?,"Nejprve klidně. Sečíst: 2+29=31. Ověření: 2 plus 29 je 31. Správně. Dobře, dál.",2 plus 29 je 31.
+813,Kolik je 80 minus 52?,Srovnám si to. Odečíst: 80-52=28. Přepočet: 80 minus 52 je 28. Vychází. Jsem si jistý.,80 minus 52 je 28.
+814,Kolik je 6 krát 10?,Nejprve klidně. Násobit: 6*10=60. Přepočet: 6 krát 10 je 60. Vychází. Logické.,6 krát 10 je 60.
+815,Kolik je 36 děleno 6?,"Moment, zamyslím se. Dělit: 36/6=6. Kontrola: 36 děleno 6 je 6. Sedí. Logické.",36 děleno 6 je 6.
+816,Kolik je 10 procent z 400?,Probírám v hlavě. Procenta: 400*10/100=40. Ověření: 10 procent z 400 je 40. Správně. Vše jasné v hlavě.,10 procent z 400 je 40.
+817,Kolik je 53 plus 47?,"Moment, zamyslím se. Sečíst: 53+47=100. Přepočet: 53 plus 47 je 100. Vychází. Ano, sedí.",53 plus 47 je 100.
+818,Kolik je 52 minus 47?,"Hmm, co o tom vím? Odečíst: 52-47=5. Přepočet: 52 minus 47 je 5. Vychází. Ok, rozhodnuto.",52 minus 47 je 5.
+819,Kolik je 3 krát 12?,"Nejprve klidně. Násobit: 3*12=36. Přepočet: 3 krát 12 je 36. Vychází. Ok, rozhodnuto.",3 krát 12 je 36.
+820,Kolik je 20 děleno 2?,"Moment, zamyslím se. Dělit: 20/2=10. Ověření: 20 děleno 2 je 10. Správně. Ok, rozhodnuto.",20 děleno 2 je 10.
+821,Kolik je 15 procent z 300?,"Nejprve klidně. Procenta: 300*15/100=45. Kontrola: 15 procent z 300 je 45. Sedí. Ok, rozhodnuto.",15 procent z 300 je 45.
+822,Kolik je 20 plus 17?,"Probírám v hlavě. Sečíst: 20+17=37. Přepočet: 20 plus 17 je 37. Vychází. Ano, sedí.",20 plus 17 je 37.
+823,Kolik je 17 minus 13?,Srovnám si to. Odečíst: 17-13=4. Ověření: 17 minus 13 je 4. Správně. Konec myšlení.,17 minus 13 je 4.
+824,Kolik je 12 krát 4?,"Moment, zamyslím se. Násobit: 12*4=48. Přepočet: 12 krát 4 je 48. Vychází. Logické.",12 krát 4 je 48.
+825,Kolik je 9 plus 37?,Probírám v hlavě. Sečíst: 9+37=46. Kontrola: 9 plus 37 je 46. Sedí. Vše jasné v hlavě.,9 plus 37 je 46.
+826,Kolik je 20 minus 15?,"Dobře, popřemýšlejme. Odečíst: 20-15=5. Přepočet: 20 minus 15 je 5. Vychází. Jsem si jistý.",20 minus 15 je 5.
+827,Kolik je 12 krát 7?,"Moment, zamyslím se. Násobit: 12*7=84. Kontrola: 12 krát 7 je 84. Sedí. Ano, sedí.",12 krát 7 je 84.
+828,Kolik je 220 děleno 11?,"Hmm, co o tom vím? Dělit: 220/11=20. Kontrola: 220 děleno 11 je 20. Sedí. Ano, sedí.",220 děleno 11 je 20.
+829,Kolik je 16 plus 55?,"Dobře, popřemýšlejme. Sečíst: 16+55=71. Ověření: 16 plus 55 je 71. Správně. Jsem si jistý.",16 plus 55 je 71.
+830,Kolik je 66 minus 36?,"Nejprve klidně. Odečíst: 66-36=30. Kontrola: 66 minus 36 je 30. Sedí. Ano, sedí.",66 minus 36 je 30.
+831,Kolik je 11 krát 4?,Nejprve klidně. Násobit: 11*4=44. Ověření: 11 krát 4 je 44. Správně. Jsem si jistý.,11 krát 4 je 44.
+832,Kolik je 84 děleno 6?,"Nejprve klidně. Dělit: 84/6=14. Kontrola: 84 děleno 6 je 14. Sedí. Ok, rozhodnuto.",84 děleno 6 je 14.
+833,Kolik je 20 procent z 500?,"Moment, zamyslím se. Procenta: 500*20/100=100. Kontrola: 20 procent z 500 je 100. Sedí. Dobře, dál.",20 procent z 500 je 100.
+834,Kolik je 7 plus 10?,Nejprve klidně. Sečíst: 7+10=17. Kontrola: 7 plus 10 je 17. Sedí. Konec myšlení.,7 plus 10 je 17.
+835,Kolik je 88 minus 9?,"Srovnám si to. Odečíst: 88-9=79. Kontrola: 88 minus 9 je 79. Sedí. Dobře, dál.",88 minus 9 je 79.
+836,Kolik je 8 krát 12?,"Dobrá otázka, krátce popřemýšlím. Násobit: 8*12=96. Ověření: 8 krát 12 je 96. Správně. Dobře, dál.",8 krát 12 je 96.
+837,Kolik je 110 děleno 11?,"Ok, krok za krokem. Dělit: 110/11=10. Ověření: 110 děleno 11 je 10. Správně. Jsem si jistý.",110 děleno 11 je 10.
+838,Kolik je 40 plus 26?,"Moment, zamyslím se. Sečíst: 40+26=66. Ověření: 40 plus 26 je 66. Správně. Jsem si jistý.",40 plus 26 je 66.
+839,Kolik je 29 minus 10?,Srovnám si to. Odečíst: 29-10=19. Ověření: 29 minus 10 je 19. Správně. Logické.,29 minus 10 je 19.
+840,Kolik je 9 krát 12?,"Dobře, popřemýšlejme. Násobit: 9*12=108. Přepočet: 9 krát 12 je 108. Vychází. Dává to smysl.",9 krát 12 je 108.
+841,Kolik je 34 plus 46?,Srovnám si to. Sečíst: 34+46=80. Přepočet: 34 plus 46 je 80. Vychází. Logické.,34 plus 46 je 80.
+842,Kolik je 82 minus 26?,"Dobrá otázka, krátce popřemýšlím. Odečíst: 82-26=56. Přepočet: 82 minus 26 je 56. Vychází. Dává to smysl.",82 minus 26 je 56.
+843,Kolik je 10 krát 6?,"Srovnám si to. Násobit: 10*6=60. Kontrola: 10 krát 6 je 60. Sedí. Dobře, dál.",10 krát 6 je 60.
+844,Kolik je 70 děleno 5?,"Dobře, popřemýšlejme. Dělit: 70/5=14. Kontrola: 70 děleno 5 je 14. Sedí. Ok, rozhodnuto.",70 děleno 5 je 14.
+845,Kolik je 25 procent z 500?,"Srovnám si to. Procenta: 500*25/100=125. Kontrola: 25 procent z 500 je 125. Sedí. Ok, rozhodnuto.",25 procent z 500 je 125.
+846,Film začíná ve 20:15 a trvá 90 minut. Kdy končí?,Srovnám si to. 20:15 + 90 min = 21:45. Kontrola: Končí ve 21:45. Sedí. Konec myšlení.,Končí ve 21:45.
+847,Je 9:00. Za 3h30 mám schůzku. Kdy?,"Ok, krok za krokem. 9:00 + 3:30 = 12:30. Přepočet: Schůzka je ve 12:30. Vychází. Jsem si jistý.",Schůzka je ve 12:30.
+848,Koláč peče 45 minut. Dávám v 16:20. Kdy hotový?,"Probírám v hlavě. 16:20 + 0:45 = 17:05. Ověření: Hotový v 17:05. Správně. Ok, rozhodnuto.",Hotový v 17:05.
+849,Škola začíná v 8:00 a končí ve 13:15. Jak dlouho?,"Dobře, popřemýšlejme. 13:15 - 8:00 = 5:15. Přepočet: Trvá 5 hodin a 15 minut. Vychází. Dobře, dál.",Trvá 5 hodin a 15 minut.
+850,"Když čtu 30 minut od 19:00, kdy skončím?","Ok, krok za krokem. 19:00 + 0:30 = 19:30. Přepočet: Skončíš v 19:30. Vychází. Dává to smysl.",Skončíš v 19:30.
+851,Jak se nejlépe učit slovíčka?,"Moment, zamyslím se. Krátké denní jednotky, kartičky, aktivní užití. Odpověď tedy: Nejlépe krátkými denními jednotkami s kartičkami a aktivním užitím ve větách plus opakování. Ok, rozhodnuto.",Nejlépe krátkými denními jednotkami s kartičkami a aktivním užitím ve větách plus opakování.
+852,učení slovíček - tipy?,"Srovnám si to. Krátké denní jednotky, kartičky, aktivní užití. Závěr: Nejlépe krátkými denními jednotkami s kartičkami a aktivním užitím ve větách plus opakování. Dobře, dál.",Nejlépe krátkými denními jednotkami s kartičkami a aktivním užitím ve větách plus opakování.
+853,Rychlý průvodce: učení slovíček.,"Hmm, co o tom vím? Krátké denní jednotky, kartičky, aktivní užití. Proto: Nejlépe krátkými denními jednotkami s kartičkami a aktivním užitím ve větách plus opakování. Konec myšlení.",Nejlépe krátkými denními jednotkami s kartičkami a aktivním užitím ve větách plus opakování.
+854,Jak šetřit denně?,"Ok, krok za krokem. Rozpočet, předplatné, vaření, srovnání. Proto: Stanov rozpočet, zkontroluj předplatné, vař častěji, srovnávej ceny a odkládej nejdřív pevnou částku. Logické.","Stanov rozpočet, zkontroluj předplatné, vař častěji, srovnávej ceny a odkládej nejdřív pevnou částku."
+855,šetření - tipy?,"Probírám v hlavě. Rozpočet, předplatné, vaření, srovnání. Závěr: Stanov rozpočet, zkontroluj předplatné, vař častěji, srovnávej ceny a odkládej nejdřív pevnou částku. Vše jasné v hlavě.","Stanov rozpočet, zkontroluj předplatné, vař častěji, srovnávej ceny a odkládej nejdřív pevnou částku."
+856,Rychlý průvodce: šetření.,"Dobrá otázka, krátce popřemýšlím. Rozpočet, předplatné, vaření, srovnání. Proto: Stanov rozpočet, zkontroluj předplatné, vař častěji, srovnávej ceny a odkládej nejdřív pevnou částku. Ano, sedí.","Stanov rozpočet, zkontroluj předplatné, vař častěji, srovnávej ceny a odkládej nejdřív pevnou částku."
+857,"Co uvařit z těstovin, rajčat a sýra?","Hmm, co o tom vím? Těstoviny s rajskou a sýrem. Proto: Udělej těstoviny s jednoduchou rajskou: okořeň, uvař, přelij těstoviny, posyp sýrem. Dává to smysl.","Udělej těstoviny s jednoduchou rajskou: okořeň, uvař, přelij těstoviny, posyp sýrem."
+858,rychlé těstoviny - tipy?,"Dobře, popřemýšlejme. Těstoviny s rajskou a sýrem. Závěr: Udělej těstoviny s jednoduchou rajskou: okořeň, uvař, přelij těstoviny, posyp sýrem. Dává to smysl.","Udělej těstoviny s jednoduchou rajskou: okořeň, uvař, přelij těstoviny, posyp sýrem."
+859,Rychlý průvodce: rychlé těstoviny.,"Dobrá otázka, krátce popřemýšlím. Těstoviny s rajskou a sýrem. Odpověď tedy: Udělej těstoviny s jednoduchou rajskou: okořeň, uvař, přelij těstoviny, posyp sýrem. Dobře, dál.","Udělej těstoviny s jednoduchou rajskou: okořeň, uvař, přelij těstoviny, posyp sýrem."
+860,"Zítra letím, co vzít?","Moment, zamyslím se. Seznam: doklad, lístek, peníze, telefon, nabíječka. Závěr: Vezmi: doklad či pas, lístek, peníze, telefon plus nabíječku, léky, hygienu a převlečení do kabiny. Vše jasné v hlavě.","Vezmi: doklad či pas, lístek, peníze, telefon plus nabíječku, léky, hygienu a převlečení do kabiny."
+861,zavazadlo na let - tipy?,"Nejprve klidně. Seznam: doklad, lístek, peníze, telefon, nabíječka. Proto: Vezmi: doklad či pas, lístek, peníze, telefon plus nabíječku, léky, hygienu a převlečení do kabiny. Ok, rozhodnuto.","Vezmi: doklad či pas, lístek, peníze, telefon plus nabíječku, léky, hygienu a převlečení do kabiny."
+862,Rychlý průvodce: zavazadlo na let.,"Probírám v hlavě. Seznam: doklad, lístek, peníze, telefon, nabíječka. Proto: Vezmi: doklad či pas, lístek, peníze, telefon plus nabíječku, léky, hygienu a převlečení do kabiny. Ano, sedí.","Vezmi: doklad či pas, lístek, peníze, telefon plus nabíječku, léky, hygienu a převlečení do kabiny."
+863,Jak napsat dobrou omluvu?,"Nejprve klidně. Pojmenuj chybu, odpovědnost, náprava. Odpověď tedy: Pojmenuj chybu, vezmi odpovědnost, ukaž lítost a nabídni nápravu, krátce a upřímně. Dává to smysl.","Pojmenuj chybu, vezmi odpovědnost, ukaž lítost a nabídni nápravu, krátce a upřímně."
+864,omluva - tipy?,"Probírám v hlavě. Pojmenuj chybu, odpovědnost, náprava. Proto: Pojmenuj chybu, vezmi odpovědnost, ukaž lítost a nabídni nápravu, krátce a upřímně. Logické.","Pojmenuj chybu, vezmi odpovědnost, ukaž lítost a nabídni nápravu, krátce a upřímně."
+865,Rychlý průvodce: omluva.,"Ok, krok za krokem. Pojmenuj chybu, odpovědnost, náprava. Proto: Pojmenuj chybu, vezmi odpovědnost, ukaž lítost a nabídni nápravu, krátce a upřímně. Ok, rozhodnuto.","Pojmenuj chybu, vezmi odpovědnost, ukaž lítost a nabídni nápravu, krátce a upřímně."
+866,Jak naplánovat 3 dny ve městě?,"Dobrá otázka, krátce popřemýšlím. Cesta, hotel, 2-3 body denně. Proto: Stanov cestu a hotel, vyber 2-3 body denně, naplánuj rezervy a denní rozpočet. Dává to smysl.","Stanov cestu a hotel, vyber 2-3 body denně, naplánuj rezervy a denní rozpočet."
+867,výlet do města - tipy?,"Probírám v hlavě. Cesta, hotel, 2-3 body denně. Proto: Stanov cestu a hotel, vyber 2-3 body denně, naplánuj rezervy a denní rozpočet. Logické.","Stanov cestu a hotel, vyber 2-3 body denně, naplánuj rezervy a denní rozpočet."
+868,Rychlý průvodce: výlet do města.,"Hmm, co o tom vím? Cesta, hotel, 2-3 body denně. Proto: Stanov cestu a hotel, vyber 2-3 body denně, naplánuj rezervy a denní rozpočet. Ok, rozhodnuto.","Stanov cestu a hotel, vyber 2-3 body denně, naplánuj rezervy a denní rozpočet."
+869,Deštník při 80 procentech deště?,"Hmm, co o tom vím? 80% hodně, ano doporučeno. Odpověď tedy: Ano, vezmi. Při 80 procentech je déšť velmi pravděpodobný. Konec myšlení.","Ano, vezmi. Při 80 procentech je déšť velmi pravděpodobný."
+870,deštník - tipy?,"Dobrá otázka, krátce popřemýšlím. 80% hodně, ano doporučeno. Závěr: Ano, vezmi. Při 80 procentech je déšť velmi pravděpodobný. Ano, sedí.","Ano, vezmi. Při 80 procentech je déšť velmi pravděpodobný."
+871,Rychlý průvodce: deštník.,"Ok, krok za krokem. 80% hodně, ano doporučeno. Závěr: Ano, vezmi. Při 80 procentech je déšť velmi pravděpodobný. Jsem si jistý.","Ano, vezmi. Při 80 procentech je déšť velmi pravděpodobný."
+872,Co lepší na poznámky: papír či telefon?,"Probírám v hlavě. Papír bez rozptýlení, telefon prohledatelný. Odpověď tedy: Obojí má plusy: papír bez rozptýlení a dobrý na paměť, telefon prohledatelný a vždy u tebe. Jsem si jistý.","Obojí má plusy: papír bez rozptýlení a dobrý na paměť, telefon prohledatelný a vždy u tebe."
+873,poznámky papír či telefon - tipy?,"Ok, krok za krokem. Papír bez rozptýlení, telefon prohledatelný. Proto: Obojí má plusy: papír bez rozptýlení a dobrý na paměť, telefon prohledatelný a vždy u tebe. Vše jasné v hlavě.","Obojí má plusy: papír bez rozptýlení a dobrý na paměť, telefon prohledatelný a vždy u tebe."
+874,Rychlý průvodce: poznámky papír či telefon.,"Dobrá otázka, krátce popřemýšlím. Papír bez rozptýlení, telefon prohledatelný. Proto: Obojí má plusy: papír bez rozptýlení a dobrý na paměť, telefon prohledatelný a vždy u tebe. Konec myšlení.","Obojí má plusy: papír bez rozptýlení a dobrý na paměť, telefon prohledatelný a vždy u tebe."
+875,Jak rychle uklidit pokoj?,"Hmm, co o tom vím? Odpad, prádlo, vrátit, utřít. Odpověď tedy: Nejprve seber odpad, pak prádlo, vše vrať a nakonec utři. Dává to smysl.","Nejprve seber odpad, pak prádlo, vše vrať a nakonec utři."
+876,rychlý úklid - tipy?,"Ok, krok za krokem. Odpad, prádlo, vrátit, utřít. Proto: Nejprve seber odpad, pak prádlo, vše vrať a nakonec utři. Konec myšlení.","Nejprve seber odpad, pak prádlo, vše vrať a nakonec utři."
+877,Rychlý průvodce: rychlý úklid.,"Dobře, popřemýšlejme. Odpad, prádlo, vrátit, utřít. Odpověď tedy: Nejprve seber odpad, pak prádlo, vše vrať a nakonec utři. Dává to smysl.","Nejprve seber odpad, pak prádlo, vše vrať a nakonec utři."
+878,Jak sbalit kufr kompaktně?,"Moment, zamyslím se. Rolovat, těžké dolů, vyplnit. Odpověď tedy: Roluj oblečení místo skládání, těžké dolů, vyplň ponožkami. Dává to smysl.","Roluj oblečení místo skládání, těžké dolů, vyplň ponožkami."
+879,kompaktní kufr - tipy?,"Probírám v hlavě. Rolovat, těžké dolů, vyplnit. Proto: Roluj oblečení místo skládání, těžké dolů, vyplň ponožkami. Dobře, dál.","Roluj oblečení místo skládání, těžké dolů, vyplň ponožkami."
+880,Rychlý průvodce: kompaktní kufr.,"Nejprve klidně. Rolovat, těžké dolů, vyplnit. Závěr: Roluj oblečení místo skládání, těžké dolů, vyplň ponožkami. Ok, rozhodnuto.","Roluj oblečení místo skládání, těžké dolů, vyplň ponožkami."
+881,Jak uvařit rýži?,"Probírám v hlavě. Poměr 1:2, 10-12 min nechat. Odpověď tedy: Umyj rýži, vař s dvojitou vodou, nech 10-12 minut. Jsem si jistý.","Umyj rýži, vař s dvojitou vodou, nech 10-12 minut."
+882,vaření rýže - tipy?,"Ok, krok za krokem. Poměr 1:2, 10-12 min nechat. Odpověď tedy: Umyj rýži, vař s dvojitou vodou, nech 10-12 minut. Vše jasné v hlavě.","Umyj rýži, vař s dvojitou vodou, nech 10-12 minut."
+883,Rychlý průvodce: vaření rýže.,"Ok, krok za krokem. Poměr 1:2, 10-12 min nechat. Závěr: Umyj rýži, vař s dvojitou vodou, nech 10-12 minut. Ok, rozhodnuto.","Umyj rýži, vař s dvojitou vodou, nech 10-12 minut."
+884,Jak uvařit těstoviny?,"Ok, krok za krokem. Osolená voda, 8-10 min vařit. Závěr: Osol hodně vody, vař, vař těstoviny 8-10 minut, sceď. Logické.","Osol hodně vody, vař, vař těstoviny 8-10 minut, sceď."
+885,vaření těstovin - tipy?,"Moment, zamyslím se. Osolená voda, 8-10 min vařit. Proto: Osol hodně vody, vař, vař těstoviny 8-10 minut, sceď. Dobře, dál.","Osol hodně vody, vař, vař těstoviny 8-10 minut, sceď."
+886,Rychlý průvodce: vaření těstovin.,"Hmm, co o tom vím? Osolená voda, 8-10 min vařit. Odpověď tedy: Osol hodně vody, vař, vař těstoviny 8-10 minut, sceď. Vše jasné v hlavě.","Osol hodně vody, vař, vař těstoviny 8-10 minut, sceď."
+887,Jak udělat palačinky?,"Nejprve klidně. Mouka, mléko, vejce, dozlatova. Odpověď tedy: Smíchej mouku, mléko, vejce a špetku soli, peč tence dozlatova. Dává to smysl.","Smíchej mouku, mléko, vejce a špetku soli, peč tence dozlatova."
+888,palačinky - tipy?,"Dobře, popřemýšlejme. Mouka, mléko, vejce, dozlatova. Závěr: Smíchej mouku, mléko, vejce a špetku soli, peč tence dozlatova. Vše jasné v hlavě.","Smíchej mouku, mléko, vejce a špetku soli, peč tence dozlatova."
+889,Rychlý průvodce: palačinky.,"Ok, krok za krokem. Mouka, mléko, vejce, dozlatova. Odpověď tedy: Smíchej mouku, mléko, vejce a špetku soli, peč tence dozlatova. Jsem si jistý.","Smíchej mouku, mléko, vejce a špetku soli, peč tence dozlatova."
+890,Jak se ráno probudit?,"Ok, krok za krokem. Světlo, voda, pohyb. Proto: Rozsviť, vypij sklenici vody, krátce se hýbej a nadýchej se. Ano, sedí.","Rozsviť, vypij sklenici vody, krátce se hýbej a nadýchej se."
+891,probuzení - tipy?,"Probírám v hlavě. Světlo, voda, pohyb. Proto: Rozsviť, vypij sklenici vody, krátce se hýbej a nadýchej se. Dobře, dál.","Rozsviť, vypij sklenici vody, krátce se hýbej a nadýchej se."
+892,Rychlý průvodce: probuzení.,"Dobrá otázka, krátce popřemýšlím. Světlo, voda, pohyb. Závěr: Rozsviť, vypij sklenici vody, krátce se hýbej a nadýchej se. Konec myšlení.","Rozsviť, vypij sklenici vody, krátce se hýbej a nadýchej se."
+893,Jak rychleji usnout?,"Srovnám si to. Tma, chladno, bez telefonu, rutina. Odpověď tedy: Spi tmavo a chladno, odlož telefon, drž pevnou rutinu. Dává to smysl.","Spi tmavo a chladno, odlož telefon, drž pevnou rutinu."
+894,usínání - tipy?,"Srovnám si to. Tma, chladno, bez telefonu, rutina. Závěr: Spi tmavo a chladno, odlož telefon, drž pevnou rutinu. Logické.","Spi tmavo a chladno, odlož telefon, drž pevnou rutinu."
+895,Rychlý průvodce: usínání.,"Hmm, co o tom vím? Tma, chladno, bez telefonu, rutina. Proto: Spi tmavo a chladno, odlož telefon, drž pevnou rutinu. Ano, sedí.","Spi tmavo a chladno, odlož telefon, drž pevnou rutinu."
+896,Jak se učit na zkoušku?,"Dobře, popřemýšlejme. Bloky, aktivní vybavování, pauzy. Odpověď tedy: Rozděl na bloky, vybavuj si aktivně, dělej pauzy, opakuj další den. Logické.","Rozděl na bloky, vybavuj si aktivně, dělej pauzy, opakuj další den."
+897,učení na zkoušku - tipy?,"Moment, zamyslím se. Bloky, aktivní vybavování, pauzy. Odpověď tedy: Rozděl na bloky, vybavuj si aktivně, dělej pauzy, opakuj další den. Jsem si jistý.","Rozděl na bloky, vybavuj si aktivně, dělej pauzy, opakuj další den."
+898,Rychlý průvodce: učení na zkoušku.,"Dobrá otázka, krátce popřemýšlím. Bloky, aktivní vybavování, pauzy. Závěr: Rozděl na bloky, vybavuj si aktivně, dělej pauzy, opakuj další den. Vše jasné v hlavě.","Rozděl na bloky, vybavuj si aktivně, dělej pauzy, opakuj další den."
+899,Jak napsat žádost o práci?,"Ok, krok za krokem. Dopis, CV, diplomy. Odpověď tedy: Napiš krátký dopis plus tabulkové CV a potřebné diplomy. Dává to smysl.",Napiš krátký dopis plus tabulkové CV a potřebné diplomy.
+900,žádost o práci - tipy?,"Hmm, co o tom vím? Dopis, CV, diplomy. Proto: Napiš krátký dopis plus tabulkové CV a potřebné diplomy. Dává to smysl.",Napiš krátký dopis plus tabulkové CV a potřebné diplomy.
+901,Rychlý průvodce: žádost o práci.,"Ok, krok za krokem. Dopis, CV, diplomy. Proto: Napiš krátký dopis plus tabulkové CV a potřebné diplomy. Ano, sedí.",Napiš krátký dopis plus tabulkové CV a potřebné diplomy.
+902,Jak najít byt?,"Dobře, popřemýšlejme. Rozpočet, portály, doklady, prohlídky. Odpověď tedy: Stanov rozpočet, hledej na portálech, připrav doklady, choď s dotazy. Konec myšlení.","Stanov rozpočet, hledej na portálech, připrav doklady, choď s dotazy."
+903,hledání bytu - tipy?,"Nejprve klidně. Rozpočet, portály, doklady, prohlídky. Odpověď tedy: Stanov rozpočet, hledej na portálech, připrav doklady, choď s dotazy. Ok, rozhodnuto.","Stanov rozpočet, hledej na portálech, připrav doklady, choď s dotazy."
+904,Rychlý průvodce: hledání bytu.,"Hmm, co o tom vím? Rozpočet, portály, doklady, prohlídky. Odpověď tedy: Stanov rozpočet, hledej na portálech, připrav doklady, choď s dotazy. Vše jasné v hlavě.","Stanov rozpočet, hledej na portálech, připrav doklady, choď s dotazy."
+905,Jak správně zalévat kytky?,"Probírám v hlavě. Test prstu, bez přelití. Odpověď tedy: Test prstu: zalévej jen když nahoře sucho, vyhni se přelití. Ok, rozhodnuto.","Test prstu: zalévej jen když nahoře sucho, vyhni se přelití."
+906,zalévání kytek - tipy?,"Hmm, co o tom vím? Test prstu, bez přelití. Odpověď tedy: Test prstu: zalévej jen když nahoře sucho, vyhni se přelití. Ok, rozhodnuto.","Test prstu: zalévej jen když nahoře sucho, vyhni se přelití."
+907,Rychlý průvodce: zalévání kytek.,"Nejprve klidně. Test prstu, bez přelití. Závěr: Test prstu: zalévej jen když nahoře sucho, vyhni se přelití. Dobře, dál.","Test prstu: zalévej jen když nahoře sucho, vyhni se přelití."
+908,Jak organizovat den?,"Ok, krok za krokem. 3 priority, bloky, pauzy. Odpověď tedy: Vyber 3 priority, plánuj bloky s pauzami, odlož rozptýlení. Dává to smysl.","Vyber 3 priority, plánuj bloky s pauzami, odlož rozptýlení."
+909,organizace dne - tipy?,"Nejprve klidně. 3 priority, bloky, pauzy. Odpověď tedy: Vyber 3 priority, plánuj bloky s pauzami, odlož rozptýlení. Ok, rozhodnuto.","Vyber 3 priority, plánuj bloky s pauzami, odlož rozptýlení."
+910,Rychlý průvodce: organizace dne.,"Nejprve klidně. 3 priority, bloky, pauzy. Proto: Vyber 3 priority, plánuj bloky s pauzami, odlož rozptýlení. Logické.","Vyber 3 priority, plánuj bloky s pauzami, odlož rozptýlení."
+911,Jak začít sport?,"Srovnám si to. Málo, 2x týdně, zvyšovat. Odpověď tedy: Začni 2x týdně procházku či lehce, zvyšuj pomalu. Vše jasné v hlavě.","Začni 2x týdně procházku či lehce, zvyšuj pomalu."
+912,začít sport - tipy?,"Nejprve klidně. Málo, 2x týdně, zvyšovat. Závěr: Začni 2x týdně procházku či lehce, zvyšuj pomalu. Konec myšlení.","Začni 2x týdně procházku či lehce, zvyšuj pomalu."
+913,Rychlý průvodce: začít sport.,"Moment, zamyslím se. Málo, 2x týdně, zvyšovat. Odpověď tedy: Začni 2x týdně procházku či lehce, zvyšuj pomalu. Vše jasné v hlavě.","Začni 2x týdně procházku či lehce, zvyšuj pomalu."
+914,Jak pít dost vody?,"Moment, zamyslím se. Láhev ready, připomínky. Proto: Drž láhev ready, pij sklenici ke každému jídlu, nastav připomínky. Jsem si jistý.","Drž láhev ready, pij sklenici ke každému jídlu, nastav připomínky."
+915,pít dost - tipy?,"Srovnám si to. Láhev ready, připomínky. Proto: Drž láhev ready, pij sklenici ke každému jídlu, nastav připomínky. Dává to smysl.","Drž láhev ready, pij sklenici ke každému jídlu, nastav připomínky."
+916,Rychlý průvodce: pít dost.,"Dobrá otázka, krátce popřemýšlím. Láhev ready, připomínky. Závěr: Drž láhev ready, pij sklenici ke každému jídlu, nastav připomínky. Dobře, dál.","Drž láhev ready, pij sklenici ke každému jídlu, nastav připomínky."
+917,Co je zdravá snídaně?,"Srovnám si to. Oves, ovoce, jogurt. Proto: Např. oves s ovocem a jogurtem, nebo celozrnný chléb s vejcem. Ano, sedí.","Např. oves s ovocem a jogurtem, nebo celozrnný chléb s vejcem."
+918,zdravá snídaně - tipy?,"Nejprve klidně. Oves, ovoce, jogurt. Závěr: Např. oves s ovocem a jogurtem, nebo celozrnný chléb s vejcem. Ano, sedí.","Např. oves s ovocem a jogurtem, nebo celozrnný chléb s vejcem."
+919,Rychlý průvodce: zdravá snídaně.,"Hmm, co o tom vím? Oves, ovoce, jogurt. Proto: Např. oves s ovocem a jogurtem, nebo celozrnný chléb s vejcem. Konec myšlení.","Např. oves s ovocem a jogurtem, nebo celozrnný chléb s vejcem."
+920,Co proti stresu?,"Dobře, popřemýšlejme. Pauzy, pohyb, spánek, povídání. Proto: Krátké pauzy, pohyb, dost spánku a povídání pomáhají. Ano, sedí.","Krátké pauzy, pohyb, dost spánku a povídání pomáhají."
+921,stres - tipy?,"Hmm, co o tom vím? Pauzy, pohyb, spánek, povídání. Proto: Krátké pauzy, pohyb, dost spánku a povídání pomáhají. Logické.","Krátké pauzy, pohyb, dost spánku a povídání pomáhají."
+922,Rychlý průvodce: stres.,"Moment, zamyslím se. Pauzy, pohyb, spánek, povídání. Závěr: Krátké pauzy, pohyb, dost spánku a povídání pomáhají. Vše jasné v hlavě.","Krátké pauzy, pohyb, dost spánku a povídání pomáhají."
+923,Jak zrušit schůzku?,"Hmm, co o tom vím? Včas, krátký důvod, nový termín. Závěr: Zruš včas, dej krátký důvod, navrhni nový termín. Dobře, dál.","Zruš včas, dej krátký důvod, navrhni nový termín."
+924,rušení schůzky - tipy?,"Dobře, popřemýšlejme. Včas, krátký důvod, nový termín. Proto: Zruš včas, dej krátký důvod, navrhni nový termín. Dává to smysl.","Zruš včas, dej krátký důvod, navrhni nový termín."
+925,Rychlý průvodce: rušení schůzky.,"Srovnám si to. Včas, krátký důvod, nový termín. Proto: Zruš včas, dej krátký důvod, navrhni nový termín. Vše jasné v hlavě.","Zruš včas, dej krátký důvod, navrhni nový termín."
+926,Jak žádat o pomoc?,"Srovnám si to. Konkrétně: co, dokdy, díky. Závěr: Žádej konkrétně: co, dokdy, proč. Např. Pomůžeš mi dnes nést? Díky! Vše jasné v hlavě.","Žádej konkrétně: co, dokdy, proč. Např. Pomůžeš mi dnes nést? Díky!"
+927,žádost o pomoc - tipy?,"Dobře, popřemýšlejme. Konkrétně: co, dokdy, díky. Závěr: Žádej konkrétně: co, dokdy, proč. Např. Pomůžeš mi dnes nést? Díky! Jsem si jistý.","Žádej konkrétně: co, dokdy, proč. Např. Pomůžeš mi dnes nést? Díky!"
+928,Rychlý průvodce: žádost o pomoc.,"Moment, zamyslím se. Konkrétně: co, dokdy, díky. Závěr: Žádej konkrétně: co, dokdy, proč. Např. Pomůžeš mi dnes nést? Díky! Vše jasné v hlavě.","Žádej konkrétně: co, dokdy, proč. Např. Pomůžeš mi dnes nést? Díky!"
+929,Jak se naučit říkat ne?,"Dobrá otázka, krátce popřemýšlím. Krátce, mile, alternativa. Odpověď tedy: Řekni ne krátce a mile, nabídni alternativu pokud můžeš. Logické.","Řekni ne krátce a mile, nabídni alternativu pokud můžeš."
+930,říkat ne - tipy?,"Probírám v hlavě. Krátce, mile, alternativa. Odpověď tedy: Řekni ne krátce a mile, nabídni alternativu pokud můžeš. Logické.","Řekni ne krátce a mile, nabídni alternativu pokud můžeš."
+931,Rychlý průvodce: říkat ne.,"Srovnám si to. Krátce, mile, alternativa. Proto: Řekni ne krátce a mile, nabídni alternativu pokud můžeš. Ok, rozhodnuto.","Řekni ne krátce a mile, nabídni alternativu pokud můžeš."
+932,Jak ušetřit na dovolenou?,"Srovnám si to. Cíl, auto měsíčně. Odpověď tedy: Stanov cíl, šetři měsíčně automaticky, přidávej extra. Konec myšlení.","Stanov cíl, šetři měsíčně automaticky, přidávej extra."
+933,šetření na dovolenou - tipy?,"Dobrá otázka, krátce popřemýšlím. Cíl, auto měsíčně. Proto: Stanov cíl, šetři měsíčně automaticky, přidávej extra. Ano, sedí.","Stanov cíl, šetři měsíčně automaticky, přidávej extra."
+934,Rychlý průvodce: šetření na dovolenou.,"Moment, zamyslím se. Cíl, auto měsíčně. Odpověď tedy: Stanov cíl, šetři měsíčně automaticky, přidávej extra. Ano, sedí.","Stanov cíl, šetři měsíčně automaticky, přidávej extra."
+935,Jak rezervovat levné lety?,"Ok, krok za krokem. Flexibilní data, srovnat, včas. Odpověď tedy: Buď flexibilní s daty, srovnávej portály, rezervuj včas. Logické.","Buď flexibilní s daty, srovnávej portály, rezervuj včas."
+936,levné lety - tipy?,"Probírám v hlavě. Flexibilní data, srovnat, včas. Závěr: Buď flexibilní s daty, srovnávej portály, rezervuj včas. Konec myšlení.","Buď flexibilní s daty, srovnávej portály, rezervuj včas."
+937,Rychlý průvodce: levné lety.,"Nejprve klidně. Flexibilní data, srovnat, včas. Proto: Buď flexibilní s daty, srovnávej portály, rezervuj včas. Dobře, dál.","Buď flexibilní s daty, srovnávej portály, rezervuj včas."
+938,Jak najít cestu bez internetu?,"Ok, krok za krokem. Offline mapy, značky, ptát se. Proto: Stáhni offline mapy, jdi za značkami, ptej se lidí. Ano, sedí.","Stáhni offline mapy, jdi za značkami, ptej se lidí."
+939,cesta bez internetu - tipy?,"Nejprve klidně. Offline mapy, značky, ptát se. Odpověď tedy: Stáhni offline mapy, jdi za značkami, ptej se lidí. Dobře, dál.","Stáhni offline mapy, jdi za značkami, ptej se lidí."
+940,Rychlý průvodce: cesta bez internetu.,"Srovnám si to. Offline mapy, značky, ptát se. Závěr: Stáhni offline mapy, jdi za značkami, ptej se lidí. Ano, sedí.","Stáhni offline mapy, jdi za značkami, ptej se lidí."
+941,Jaký rozdíl mezi psem a kočkou jako mazlíkem?,"Srovnám si to. Psi: procházky a výchova; kočky samostatné. Závěr: Psi vyžadují procházky a výchovu, kočky jsou samostatnější. Vyber podle času a místa. Logické.","Psi vyžadují procházky a výchovu, kočky jsou samostatnější. Vyber podle času a místa."
+942,pes či kočka - co doporučuješ?,"Moment, zamyslím se. Psi: procházky a výchova; kočky samostatné. Odpověď tedy: Psi vyžadují procházky a výchovu, kočky jsou samostatnější. Vyber podle času a místa. Ano, sedí.","Psi vyžadují procházky a výchovu, kočky jsou samostatnější. Vyber podle času a místa."
+943,Vlak či auto na 300 km?,"Ok, krok za krokem. Vlak relax a zelenější, auto flexibilní. Proto: Vlak je relax a často zelenější, auto flexibilní se zavazadly. V zácpách vyhrává vlak. Ok, rozhodnuto.","Vlak je relax a často zelenější, auto flexibilní se zavazadly. V zácpách vyhrává vlak."
+944,vlak či auto 300 km - co doporučuješ?,"Probírám v hlavě. Vlak relax a zelenější, auto flexibilní. Odpověď tedy: Vlak je relax a často zelenější, auto flexibilní se zavazadly. V zácpách vyhrává vlak. Dobře, dál.","Vlak je relax a často zelenější, auto flexibilní se zavazadly. V zácpách vyhrává vlak."
+945,Jablko či čokoláda na svačinu?,"Nejprve klidně. Jablko: vitamíny a sytost. Proto: Vezmi jablko pro vitamíny a sytost, čokoládu výjimečně. Vše jasné v hlavě.","Vezmi jablko pro vitamíny a sytost, čokoládu výjimečně."
+946,jablko či čokoláda - co doporučuješ?,"Moment, zamyslím se. Jablko: vitamíny a sytost. Závěr: Vezmi jablko pro vitamíny a sytost, čokoládu výjimečně. Logické.","Vezmi jablko pro vitamíny a sytost, čokoládu výjimečně."
+947,Laptop či PC na hry?,"Hmm, co o tom vím? PC výkonnější za cenu, laptop mobilní. Proto: PC dávají víc výkonu za cenu, laptopy jsou mobilní. Na max vyber PC. Konec myšlení.","PC dávají víc výkonu za cenu, laptopy jsou mobilní. Na max vyber PC."
+948,laptop či PC hry - co doporučuješ?,"Nejprve klidně. PC výkonnější za cenu, laptop mobilní. Odpověď tedy: PC dávají víc výkonu za cenu, laptopy jsou mobilní. Na max vyber PC. Ano, sedí.","PC dávají víc výkonu za cenu, laptopy jsou mobilní. Na max vyber PC."
+949,Město či venkov k žití?,"Hmm, co o tom vím? Město: práce a blízko; venkov: klid. Závěr: Města dávají práci a blízko, venkov klid a místo. Vyber podle práce a stylu. Dobře, dál.","Města dávají práci a blízko, venkov klid a místo. Vyber podle práce a stylu."
+950,město či venkov - co doporučuješ?,"Nejprve klidně. Město: práce a blízko; venkov: klid. Odpověď tedy: Města dávají práci a blízko, venkov klid a místo. Vyber podle práce a stylu. Ano, sedí.","Města dávají práci a blízko, venkov klid a místo. Vyber podle práce a stylu."
+951,Co víc platí: spánek či učení?,"Nejprve klidně. Spánek upevňuje učení. Závěr: Spánek platí víc, protože upevňuje učení. Uč se dřív, spi dost. Ano, sedí.","Spánek platí víc, protože upevňuje učení. Uč se dřív, spi dost."
+952,spánek či učení - co doporučuješ?,"Ok, krok za krokem. Spánek upevňuje učení. Odpověď tedy: Spánek platí víc, protože upevňuje učení. Uč se dřív, spi dost. Vše jasné v hlavě.","Spánek platí víc, protože upevňuje učení. Uč se dřív, spi dost."
+953,Nový telefon či zůstat u starého?,"Ok, krok za krokem. Zůstaň pokud stačí; kup při poruše či potřebě. Závěr: Zůstaň pokud stačí. Kup nový jen při poruše či reálné potřebě. Jsem si jistý.",Zůstaň pokud stačí. Kup nový jen při poruše či reálné potřebě.
+954,nový telefon - co doporučuješ?,"Dobrá otázka, krátce popřemýšlím. Zůstaň pokud stačí; kup při poruše či potřebě. Závěr: Zůstaň pokud stačí. Kup nový jen při poruše či reálné potřebě. Jsem si jistý.",Zůstaň pokud stačí. Kup nový jen při poruše či reálné potřebě.
+955,Co jsou falešné zprávy?,"Nejprve klidně. Vymyšlené, jako pravé; ověř zdroj. Závěr: Falešné zprávy jsou vymyšlené. Ověř zdroj, datum a jiná média. Ano, sedí.","Falešné zprávy jsou vymyšlené. Ověř zdroj, datum a jiná média."
+956,falešné zprávy - co doporučuješ?,"Hmm, co o tom vím? Vymyšlené, jako pravé; ověř zdroj. Proto: Falešné zprávy jsou vymyšlené. Ověř zdroj, datum a jiná média. Logické.","Falešné zprávy jsou vymyšlené. Ověř zdroj, datum a jiná média."
+957,Jaký rozdíl mezi faktem a názorem?,"Moment, zamyslím se. Fakt ověřitelný, názor osobní pohled. Závěr: Fakt je ověřitelný, názor je osobní pohled. Konec myšlení.","Fakt je ověřitelný, názor je osobní pohled."
+958,fakt či názor - co doporučuješ?,"Ok, krok za krokem. Fakt ověřitelný, názor osobní pohled. Proto: Fakt je ověřitelný, názor je osobní pohled. Dává to smysl.","Fakt je ověřitelný, názor je osobní pohled."
+959,Kolo či bus do školy? (5 km),"Moment, zamyslím se. Hezky kolo, déšť bus. Odpověď tedy: Za hezkého počasí vezmi kolo (asi 20 min, zdravě), v dešti bus. Ano, sedí.","Za hezkého počasí vezmi kolo (asi 20 min, zdravě), v dešti bus."
+960,kolo či bus škola 5 km - co doporučuješ?,"Nejprve klidně. Hezky kolo, déšť bus. Proto: Za hezkého počasí vezmi kolo (asi 20 min, zdravě), v dešti bus. Logické.","Za hezkého počasí vezmi kolo (asi 20 min, zdravě), v dešti bus."
+961,Voda či džus na žízeň?,"Dobrá otázka, krátce popřemýšlím. Voda lepší, bez cukru. Závěr: Voda nejlépe hasí žízeň a nemá cukr. Džus jen ředěný. Dobře, dál.",Voda nejlépe hasí žízeň a nemá cukr. Džus jen ředěný.
+962,voda či džus - co doporučuješ?,"Nejprve klidně. Voda lepší, bez cukru. Proto: Voda nejlépe hasí žízeň a nemá cukr. Džus jen ředěný. Jsem si jistý.",Voda nejlépe hasí žízeň a nemá cukr. Džus jen ředěný.
+963,Káva či voda ráno?,"Hmm, co o tom vím? Nejprve voda, káva s mírou. Závěr: Vypij nejprve vodu, kávu pak s mírou. Dobře, dál.","Vypij nejprve vodu, kávu pak s mírou."
+964,káva či voda ráno - co doporučuješ?,"Dobře, popřemýšlejme. Nejprve voda, káva s mírou. Proto: Vypij nejprve vodu, kávu pak s mírou. Ano, sedí.","Vypij nejprve vodu, kávu pak s mírou."
+965,Nájem či koupě? (obecně),"Moment, zamyslím se. Flexibilně nájem; nadlouho ověř koupi. Odpověď tedy: Pronajímej pokud zůstáváš flexibilní; pokud dlouho a můžeš platit, ověř koupi se všemi náklady. Logické.","Pronajímej pokud zůstáváš flexibilní; pokud dlouho a můžeš platit, ověř koupi se všemi náklady."
+966,nájem či koupě - co doporučuješ?,"Srovnám si to. Flexibilně nájem; nadlouho ověř koupi. Proto: Pronajímej pokud zůstáváš flexibilní; pokud dlouho a můžeš platit, ověř koupi se všemi náklady. Konec myšlení.","Pronajímej pokud zůstáváš flexibilní; pokud dlouho a můžeš platit, ověř koupi se všemi náklady."
+967,Vstávat brzy či pozdě?,"Ok, krok za krokem. Podle povinností a spánku. Závěr: Vyber podle povinností a spánku: dost spánku a pevný rytmus platí. Ano, sedí.",Vyber podle povinností a spánku: dost spánku a pevný rytmus platí.
+968,brzy či pozdě - co doporučuješ?,"Dobrá otázka, krátce popřemýšlím. Podle povinností a spánku. Proto: Vyber podle povinností a spánku: dost spánku a pevný rytmus platí. Dává to smysl.",Vyber podle povinností a spánku: dost spánku a pevný rytmus platí.
+969,Sport denně?,"Dobře, popřemýšlejme. Odpočinek platí; 3-4x týdně stačí. Proto: Ne, plánuj odpočinky. 3-4 krát týdně obvykle stačí, denně jen lehce. Jsem si jistý.","Ne, plánuj odpočinky. 3-4 krát týdně obvykle stačí, denně jen lehce."
+970,sport denně - co doporučuješ?,"Probírám v hlavě. Odpočinek platí; 3-4x týdně stačí. Proto: Ne, plánuj odpočinky. 3-4 krát týdně obvykle stačí, denně jen lehce. Vše jasné v hlavě.","Ne, plánuj odpočinky. 3-4 krát týdně obvykle stačí, denně jen lehce."
+971,Pracovat s horečkou?,"Ok, krok za krokem. Ne, odpočinek a lékař. Proto: Ne. Odpočívej a jdi k lékaři při vysoké či dlouhé horečce. Jsem si jistý.",Ne. Odpočívej a jdi k lékaři při vysoké či dlouhé horečce.
+972,horečka a práce - co doporučuješ?,"Dobrá otázka, krátce popřemýšlím. Ne, odpočinek a lékař. Odpověď tedy: Ne. Odpočívej a jdi k lékaři při vysoké či dlouhé horečce. Jsem si jistý.",Ne. Odpočívej a jdi k lékaři při vysoké či dlouhé horečce.
+973,Jak vybrat mezi dvěma nabídkami?,"Hmm, co o tom vím? Kritéria, pro/proti, termín. Proto: Vypiš kritéria, boduj, ověř náklady a pocit, rozhodni s termínem. Dává to smysl.","Vypiš kritéria, boduj, ověř náklady a pocit, rozhodni s termínem."
+974,výběr mezi nabídkami - co doporučuješ?,"Srovnám si to. Kritéria, pro/proti, termín. Závěr: Vypiš kritéria, boduj, ověř náklady a pocit, rozhodni s termínem. Dobře, dál.","Vypiš kritéria, boduj, ověř náklady a pocit, rozhodni s termínem."
+975,Jak ušetřit 500 euro za 5 měsíců?,"Dobrá otázka, krátce popřemýšlím. 500/5=100 měsíčně auto. Ověření: Šetři 100 euro měsíčně automaticky, např. příkazem po výplatě. Správně. Dobře, dál.","Šetři 100 euro měsíčně automaticky, např. příkazem po výplatě."
+976,ušetřit 500 za 5 měsíců - co doporučuješ?,"Hmm, co o tom vím? 500/5=100 měsíčně auto. Kontrola: Šetři 100 euro měsíčně automaticky, např. příkazem po výplatě. Sedí. Vše jasné v hlavě.","Šetři 100 euro měsíčně automaticky, např. příkazem po výplatě."
+977,Jaký rozdíl mezi potřebou a přáním?,"Dobrá otázka, krátce popřemýšlím. Potřeba životní, přání nad. Proto: Potřeba je životní, přání je touha nad. Dobře, dál.","Potřeba je životní, přání je touha nad."
+978,potřeba či přání - co doporučuješ?,"Dobře, popřemýšlejme. Potřeba životní, přání nad. Odpověď tedy: Potřeba je životní, přání je touha nad. Konec myšlení.","Potřeba je životní, přání je touha nad."
+979,Co víc platí: peníze či čas?,"Probírám v hlavě. Čas omezený, peníze nahraditelné. Proto: Čas je omezený a nevrací se, peníze jde vydělat znovu. Platí rovnováha. Dobře, dál.","Čas je omezený a nevrací se, peníze jde vydělat znovu. Platí rovnováha."
+980,peníze či čas - co doporučuješ?,"Dobrá otázka, krátce popřemýšlím. Čas omezený, peníze nahraditelné. Závěr: Čas je omezený a nevrací se, peníze jde vydělat znovu. Platí rovnováha. Vše jasné v hlavě.","Čas je omezený a nevrací se, peníze jde vydělat znovu. Platí rovnováha."
+981,Shrň: kdy myslíš a kdy ne?,"Dobře, popřemýšlejme. Pravidlo: small talk bez myšlení; fakta, počítání, vysvětlení, rozhodnutí s myšlením. Proto: Nemyslím při pozdravech, děkování a small talku. Myslím při faktech, počítání, vysvětleních, srovnáních a rozhodnutích, a tehdy ukazuji myšlení. Dobře, dál.","Nemyslím při pozdravech, děkování a small talku. Myslím při faktech, počítání, vysvětleních, srovnáních a rozhodnutích, a tehdy ukazuji myšlení."
+982,Co je tolerance?,"Moment, zamyslím se. Definuj tolerance prostě a správně. Proto: tolerance krátce: Tolerance přijímá jiné názory a styly života. Logické.",tolerance krátce: Tolerance přijímá jiné názory a styly života.
+983,Co je trpělivost?,Nejprve klidně. Definuj trpělivost prostě a správně. Proto: trpělivost krátce: Trpělivost klidně čeká a vytrvává. Dává to smysl.,trpělivost krátce: Trpělivost klidně čeká a vytrvává.
+984,Co je odvaha?,"Dobrá otázka, krátce popřemýšlím. Definuj odvaha prostě a správně. Proto: odvaha krátce: Odvaha dělá dobro navzdory strachu. Dává to smysl.",odvaha krátce: Odvaha dělá dobro navzdory strachu.
+985,Co je disciplína?,"Dobrá otázka, krátce popřemýšlím. Definuj disciplína prostě a správně. Závěr: disciplína krátce: Disciplína vytrvává i bez chuti. Jsem si jistý.",disciplína krátce: Disciplína vytrvává i bez chuti.
+986,Co je kreativita?,"Moment, zamyslím se. Definuj kreativita prostě a správně. Proto: kreativita krátce: Kreativita nachází nové nápady a řešení. Konec myšlení.",kreativita krátce: Kreativita nachází nové nápady a řešení.
+987,Co je týmová práce?,"Dobrá otázka, krátce popřemýšlím. Definuj týmová práce prostě a správně. Závěr: týmová práce krátce: Týmová práce jde spolu k cíli. Dobře, dál.",týmová práce krátce: Týmová práce jde spolu k cíli.
+988,Co je odpovědnost?,Probírám v hlavě. Definuj odpovědnost prostě a správně. Odpověď tedy: odpovědnost krátce: Odpovědnost odpovídá za činy a následky. Vše jasné v hlavě.,odpovědnost krátce: Odpovědnost odpovídá za činy a následky.
+989,Co je důvěra?,"Ok, krok za krokem. Definuj důvěra prostě a správně. Proto: důvěra krátce: Důvěra umožňuje spoléhat na druhé. Dobře, dál.",důvěra krátce: Důvěra umožňuje spoléhat na druhé.
+990,Co je zdvořilost?,"Hmm, co o tom vím? Definuj zdvořilost prostě a správně. Závěr: zdvořilost krátce: Zdvořilost je uctivá a milá. Ano, sedí.",zdvořilost krátce: Zdvořilost je uctivá a milá.
+991,Co je dochvilnost?,Probírám v hlavě. Definuj dochvilnost prostě a správně. Závěr: dochvilnost krátce: Dochvilnost drží smluvené časy. Dává to smysl.,dochvilnost krátce: Dochvilnost drží smluvené časy.
+992,Co je spolehlivost?,"Nejprve klidně. Definuj spolehlivost prostě a správně. Proto: spolehlivost krátce: Spolehlivost drží sliby. Ok, rozhodnuto.",spolehlivost krátce: Spolehlivost drží sliby.
+993,Co je zdraví?,"Moment, zamyslím se. Definuj zdraví prostě a správně. Proto: zdraví krátce: Zdraví je tělesná a duševní pohoda. Dává to smysl.",zdraví krátce: Zdraví je tělesná a duševní pohoda.
+994,Co je štěstí?,Probírám v hlavě. Definuj štěstí prostě a správně. Proto: štěstí krátce: Štěstí je spokojenost a radostné chvíle. Logické.,štěstí krátce: Štěstí je spokojenost a radostné chvíle.
+995,Co je úspěch?,"Dobře, popřemýšlejme. Definuj úspěch prostě a správně. Odpověď tedy: úspěch krátce: Úspěch dosahuje stanovených cílů. Ano, sedí.",úspěch krátce: Úspěch dosahuje stanovených cílů.
+996,Co je učení?,"Dobře, popřemýšlejme. Definuj učení prostě a správně. Závěr: učení krátce: Učení získává znalosti a dovednosti. Ano, sedí.",učení krátce: Učení získává znalosti a dovednosti.
+997,Co je znalost?,"Dobře, popřemýšlejme. Definuj znalost prostě a správně. Odpověď tedy: znalost krátce: Znalost je pochopená informace o světě. Jsem si jistý.",znalost krátce: Znalost je pochopená informace o světě.
+998,Co je zkušenost?,"Ok, krok za krokem. Definuj zkušenost prostě a správně. Proto: zkušenost krátce: Zkušenost je znalost z prožitého. Dává to smysl.",zkušenost krátce: Zkušenost je znalost z prožitého.
+999,Co je humor?,Nejprve klidně. Definuj humor prostě a správně. Závěr: humor krátce: Humor umí smát se vtipným věcem. Jsem si jistý.,humor krátce: Humor umí smát se vtipným věcem.
+1000,Co je láska?,"Dobrá otázka, krátce popřemýšlím. Definuj láska prostě a správně. Odpověď tedy: láska krátce: Láska je hluboký cit a péče. Konec myšlení.",láska krátce: Láska je hluboký cit a péče.

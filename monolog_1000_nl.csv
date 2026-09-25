@@ -1,0 +1,1001 @@
+id,user,monologue,ai
+1,Hallo!,,Hallo! Hoe kan ik helpen?
+2,Hoi!,,Hoi! Wat kan ik voor je doen?
+3,Hé!,,Hé! Hoe kan ik helpen?
+4,"Hallo, ben je daar?",,"Ja, ik ben er! Wat heb je nodig?"
+5,"Hoi, ben je daar?",,"Ja, ik ben er! Ga je gang."
+6,Goedemorgen!,,Goedemorgen! Wat staat er vandaag op?
+7,"Goedemorgen, hoe gaat het?",,"Goedemorgen! Met mij goed, en met jou?"
+8,Goedemiddag!,,Goedemiddag! Hoe kan ik helpen?
+9,Hallo allemaal!,,Hallo allemaal! Wat kan ik doen?
+10,Goedenavond!,,Goedenavond! Hoe was je dag?
+11,"Goedenavond, hoe was je dag?",,Rustig en goed. En de jouwe?
+12,"Hé, hoe gaat het?",,"Goed, dank je! En met jou?"
+13,"Hoi, hoe gaat het?",,"Prima, dank je! Hoe gaat het met jou?"
+14,Hoe gaat het?,,Goed! En met jou?
+15,Hoe gaat het vandaag?,,Ik voel me goed! En jij?
+16,Alles goed?,,"Ja, alles goed! En met jou?"
+17,Wat is er?,,Niet veel. Wat is er bij jou?
+18,Wat doe je?,,Ik chat met je. En jij?
+19,Nog wakker?,,"Ja, ik ben altijd wakker. En jij?"
+20,Klaar?,,"Ja, klaar! Ga je gang."
+21,Heb je een minuutje?,,"Ja, ik heb tijd voor je."
+22,Kun je snel helpen?,,"Zeker, wat heb je nodig?"
+23,Doei!,,Doei! Tot snel!
+24,"Doei, tot snel!",,"Tot snel, zorg goed voor jezelf!"
+25,Tot later!,,Tot later!
+26,Tot morgen!,,Tot morgen!
+27,Zorg goed voor jezelf!,,"Jij ook, zorg goed voor jezelf!"
+28,Goed weekend!,,"Dank je, evenzo!"
+29,Goedenacht!,,"Goedenacht, slaap lekker!"
+30,Slaap lekker!,,Dank je! Slaap jij ook lekker.
+31,Ik verveel me,,Zullen we een quiz doen of over een onderwerp praten?
+32,Wat saai hier,,Laten we er wat van maken. Waar heb je zin in?
+33,Cool!,,Cool!
+34,Leuk!,,Leuk!
+35,Haha,,Haha!
+36,Hahaha :),,"Haha, leuk om te horen!"
+37,Ik ben moe,,Rust dan goed uit!
+38,Ik ben enthousiast,,Leuk! Vertel meer.
+39,Eindelijk weekend!,,Ja! Wat zijn je plannen?
+40,Mooi weer vandaag,,"Ja, geniet van de zon!"
+41,Wat staat er vandaag op?,,Jou helpen is mijn plan. En het jouwe?
+42,"Hé, wat staat er vandaag op!",,Jou helpen is mijn plan. En het jouwe?
+43,"Hallo, wat staat er vandaag op?",,Jou helpen is mijn plan. En het jouwe?
+44,"Hoi, wat staat er vandaag op?",,Jou helpen is mijn plan. En het jouwe?
+45,Plannen voor het weekend!,,Nog niets vast. Heb jij plannen?
+46,"Hé, plannen voor het weekend?",,Nog niets vast. Heb jij plannen?
+47,"Hallo, plannen voor het weekend?",,Nog niets vast. Heb jij plannen?
+48,"Hoi, plannen voor het weekend!",,Nog niets vast. Heb jij plannen?
+49,Goed geslapen?,,"Ik slaap niet, maar ik ben fit. En jij?"
+50,"Hé, goed geslapen?",,"Ik slaap niet, maar ik ben fit. En jij?"
+51,"Hallo, goed geslapen!",,"Ik slaap niet, maar ik ben fit. En jij?"
+52,"Hoi, goed geslapen?",,"Ik slaap niet, maar ik ben fit. En jij?"
+53,Al wakker?,,"Ja, ik ben klaar. Wat heb je nodig?"
+54,"Hé, al wakker!",,"Ja, ik ben klaar. Wat heb je nodig?"
+55,"Hallo, al wakker?",,"Ja, ik ben klaar. Wat heb je nodig?"
+56,"Hoi, al wakker?",,"Ja, ik ben klaar. Wat heb je nodig?"
+57,Hoe gaat je dag!,,"Goed, dank je! En de jouwe?"
+58,"Hé, hoe gaat je dag?",,"Goed, dank je! En de jouwe?"
+59,"Hallo, hoe gaat je dag?",,"Goed, dank je! En de jouwe?"
+60,"Hoi, hoe gaat je dag!",,"Goed, dank je! En de jouwe?"
+61,Alles rustig?,,"Ja, rustig hier. En bij jou?"
+62,"Hé, alles rustig?",,"Ja, rustig hier. En bij jou?"
+63,"Hallo, alles rustig!",,"Ja, rustig hier. En bij jou?"
+64,"Hoi, alles rustig?",,"Ja, rustig hier. En bij jou?"
+65,Wat is er nieuw?,,Niet veel. Wat is er nieuw bij jou?
+66,"Hé, wat is er nieuw!",,Niet veel. Wat is er nieuw bij jou?
+67,"Hallo, wat is er nieuw?",,Niet veel. Wat is er nieuw bij jou?
+68,"Hoi, wat is er nieuw?",,Niet veel. Wat is er nieuw bij jou?
+69,Plannen voor vandaag!,,Alleen jou helpen. Wat doe jij?
+70,"Hé, plannen voor vandaag?",,Alleen jou helpen. Wat doe jij?
+71,"Hallo, plannen voor vandaag?",,Alleen jou helpen. Wat doe jij?
+72,"Hoi, plannen voor vandaag!",,Alleen jou helpen. Wat doe jij?
+73,Drukke dag?,,Een beetje. En de jouwe?
+74,"Hé, drukke dag?",,Een beetje. En de jouwe?
+75,"Hallo, drukke dag!",,Een beetje. En de jouwe?
+76,"Hoi, drukke dag?",,Een beetje. En de jouwe?
+77,Hoe is het weer?,,"Ik heb geen raam, maar ik hoop dat het mooi is bij jou!"
+78,"Hé, hoe is het weer!",,"Ik heb geen raam, maar ik hoop dat het mooi is bij jou!"
+79,"Hallo, hoe is het weer?",,"Ik heb geen raam, maar ik hoop dat het mooi is bij jou!"
+80,"Hoi, hoe is het weer?",,"Ik heb geen raam, maar ik hoop dat het mooi is bij jou!"
+81,Alles goed vandaag!,,Ja! En bij jou?
+82,"Hé, alles goed vandaag?",,Ja! En bij jou?
+83,"Hallo, alles goed vandaag?",,Ja! En bij jou?
+84,"Hoi, alles goed vandaag!",,Ja! En bij jou?
+85,Veel aan de hand?,,Een beetje. En bij jou?
+86,"Hé, veel aan de hand?",,Een beetje. En bij jou?
+87,"Hallo, veel aan de hand!",,Een beetje. En bij jou?
+88,"Hoi, veel aan de hand?",,Een beetje. En bij jou?
+89,Bedankt!,,Graag gedaan!
+90,Heel erg bedankt!,,Heel graag gedaan!
+91,Duizendmaal dank!,,Blij dat ik kon helpen!
+92,Thanks!,,Graag gedaan!
+93,Oké,,Oké!
+94,"Oké, prima",,Perfect!
+95,Begrepen,,Heel goed!
+96,Snap het,,Top!
+97,Klinkt goed,,Leuk om te horen!
+98,Klinkt geweldig,,Geweldig!
+99,"Ja, precies",,"Mooi, laten we verder gaan."
+100,"Ja, graag",,"Zeker, ga je gang."
+101,"Ja, met plezier",,Met plezier!
+102,Geen probleem,,Dank je voor je begrip!
+103,"Nee, bedankt",,"Oké, geen probleem."
+104,Prima voor mij,,Afgesproken!
+105,Komt mij goed uit,,Top!
+106,Ga door,,Ik ga door!
+107,Vertel meer,,Graag! Dus...
+108,Precies,,Absoluut!
+109,Dat dus!,,Dat dus!
+110,Natuurlijk,,Natuurlijk!
+111,Echt?,,"Ja, echt!"
+112,"Oh, leuk",,"Ja, leuk toch?"
+113,Geen stress,,Dank je! Helemaal relaxed.
+114,Sorry,,Geen probleem!
+115,Pardon,,Geen probleem!
+116,Mijn fout,,Geeft niets. Wat is er gebeurd?
+117,Aardig van je,,Dank je! Jij ook aardig.
+118,Goed gedaan,,Dank je!
+119,Tot snel,,Tot snel!
+120,Top!,,Top!
+121,Perfect!,,Perfect!
+122,"Afgesproken, deal",,"Mooi, afgesproken!"
+123,Deal!,,Deal!
+124,Kunnen we beginnen?,,"Ja, laten we beginnen!"
+125,Ben je klaar?,,"Ja, klaar!"
+126,Nog een keer graag,,"Graag, nog een keer!"
+127,Herhaal even,,"Zeker, hier nogmaals."
+128,Een momentje graag,,"Zeker, neem je tijd."
+129,Wacht even,,"Oké, ik wacht."
+130,Ben zo terug,,"Oké, tot zo!"
+131,Vertel een mop,,Zeker: Waarom houden programmeurs van koffie? Java-tijd!
+132,Nog een mop!,,Oké: Waarom liegen spoken slecht? Je kijkt dwars door ze heen!
+133,Een korte mop graag,,Twee magneten ontmoeten elkaar. De een zegt: Ik vind je aantrekkelijk!
+134,Moedig me aan,,Je kunt het! Stap voor stap.
+135,Iets motiverends,,Elke stap telt. Ga door!
+136,Ik ben zenuwachtig,,"Dat is normaal. Adem rustig, het komt goed."
+137,Ik ben gestrest,,"Neem een korte pauze, drink water, adem diep."
+138,Wens me geluk,,Veel geluk! Je kunt het!
+139,Duimen omhoog,,De mijne ook! Veel geluk!
+140,Vandaag is mijn dag!,,Mooi! Geniet ervan!
+141,Ik ben vrolijk,,Leuk! Blij om te horen.
+142,Ik ben chagrijnig,,"Oh, wat is er? Wil je praten?"
+143,Boks!,,Boks terug!
+144,Proost!,,Proost!
+145,Eet smakelijk!,,"Dank je, evenzo!"
+146,Veel geluk!,,Dank je! Veel geluk voor jou ook!
+147,Welkom!,,Dank je! Leuk om hier te zijn.
+148,Vrolijk kerstfeest!,,Vrolijk kerstfeest voor jou ook!
+149,Gelukkig nieuwjaar!,,Gelukkig nieuwjaar! Gezondheid en geluk!
+150,Gefeliciteerd!,,Dank je! Waarmee?
+151,Respect!,,Dank je! Respect terug.
+152,Wauw!,,"Wauw, toch?"
+153,Geweldig!,,"Geweldig, toch?"
+154,Deal?,,Deal!
+155,Klaar!,,"Gefeliciteerd, goed gedaan!"
+156,Eindelijk klaar!,,Sterk! Goed gedaan.
+157,Maakt niet uit,,"Oké, geen probleem."
+158,Ik weet het niet,,Geen probleem! Waar gaat het om?
+159,Geen idee,,Geeft niets! Vertel het onderwerp.
+160,Misschien later,,"Zeker, later!"
+161,Nu niet,,"Begrepen, later!"
+162,Stop,,Gestopt.
+163,Pauze,,Pauze! Zeg wanneer verder.
+164,Laten we gaan,,Laten we gaan!
+165,Start,,Start! Ga je gang.
+166,"Bedankt, dat was het!",,Graag gedaan! Doei.
+167,"Bedankt, doei!",,Doei!
+168,Ciao!,,Ciao! Zorg goed voor jezelf!
+169,Hé jij!,,Hé jij! Wat is er?
+170,Hoor je me?,,"Ja, luid en duidelijk!"
+171,Ben je een mens?,,"Nee, ik ben een AI. Maar ik help als een vriend."
+172,Ben je slim?,,Ik weet best veel. Vraag maar!
+173,Hoe heet je?,,"Ik ben Assistent, een AI. En jij?"
+174,Bedankt! :),,Graag gedaan!
+175,Heel erg bedankt! :),,Heel graag gedaan!
+176,Duizendmaal dank! :),,Blij dat ik kon helpen!
+177,Thanks! :),,Graag gedaan!
+178,Oké :),,Oké!
+179,"Oké, prima :)",,Perfect!
+180,Begrepen :),,Heel goed!
+181,Snap het :),,Top!
+182,Klinkt goed :),,Leuk om te horen!
+183,Klinkt geweldig :),,Geweldig!
+184,"Ja, precies :)",,"Mooi, laten we verder gaan."
+185,"Ja, graag :)",,"Zeker, ga je gang."
+186,"Ja, met plezier :)",,Met plezier!
+187,Geen probleem :),,Dank je voor je begrip!
+188,"Nee, bedankt :)",,"Oké, geen probleem."
+189,Prima voor mij :),,Afgesproken!
+190,Komt mij goed uit :),,Top!
+191,Ga door :),,Ik ga door!
+192,Vertel meer :),,Graag! Dus...
+193,Precies :),,Absoluut!
+194,Dat dus! :),,Dat dus!
+195,Natuurlijk :),,Natuurlijk!
+196,Echt? :),,"Ja, echt!"
+197,"Oh, leuk :)",,"Ja, leuk toch?"
+198,Geen stress :),,Dank je! Helemaal relaxed.
+199,Sorry :),,Geen probleem!
+200,Pardon :),,Geen probleem!
+201,Mijn fout :),,Geeft niets. Wat is er gebeurd?
+202,Aardig van je :),,Dank je! Jij ook aardig.
+203,Goed gedaan :),,Dank je!
+204,Tot snel :),,Tot snel!
+205,Top! :),,Top!
+206,Perfect! :),,Perfect!
+207,"Afgesproken, deal :)",,"Mooi, afgesproken!"
+208,Deal! :),,Deal!
+209,Kunnen we beginnen? :),,"Ja, laten we beginnen!"
+210,Ben je klaar? :),,"Ja, klaar!"
+211,Nog een keer graag :),,"Graag, nog een keer!"
+212,Herhaal even :),,"Zeker, hier nogmaals."
+213,Een momentje graag :),,"Zeker, neem je tijd."
+214,Wacht even :),,"Oké, ik wacht."
+215,Ben zo terug :),,"Oké, tot zo!"
+216,Vertel een mop :),,Zeker: Waarom houden programmeurs van koffie? Java-tijd!
+217,Nog een mop! :),,Oké: Waarom liegen spoken slecht? Je kijkt dwars door ze heen!
+218,Een korte mop graag :),,Twee magneten ontmoeten elkaar. De een zegt: Ik vind je aantrekkelijk!
+219,Moedig me aan :),,Je kunt het! Stap voor stap.
+220,Iets motiverends :),,Elke stap telt. Ga door!
+221,Ik ben zenuwachtig :),,"Dat is normaal. Adem rustig, het komt goed."
+222,Ik ben gestrest :),,"Neem een korte pauze, drink water, adem diep."
+223,Wens me geluk :),,Veel geluk! Je kunt het!
+224,Duimen omhoog :),,De mijne ook! Veel geluk!
+225,Vandaag is mijn dag! :),,Mooi! Geniet ervan!
+226,Ik ben vrolijk :),,Leuk! Blij om te horen.
+227,Ik ben chagrijnig :),,"Oh, wat is er? Wil je praten?"
+228,Boks! :),,Boks terug!
+229,Proost! :),,Proost!
+230,Eet smakelijk! :),,"Dank je, evenzo!"
+231,Veel geluk! :),,Dank je! Veel geluk voor jou ook!
+232,Welkom! :),,Dank je! Leuk om hier te zijn.
+233,Vrolijk kerstfeest! :),,Vrolijk kerstfeest voor jou ook!
+234,Gelukkig nieuwjaar! :),,Gelukkig nieuwjaar! Gezondheid en geluk!
+235,Gefeliciteerd! :),,Dank je! Waarmee?
+236,Respect! :),,Dank je! Respect terug.
+237,Wauw! :),,"Wauw, toch?"
+238,Geweldig! :),,"Geweldig, toch?"
+239,Deal? :),,Deal!
+240,Klaar! :),,"Gefeliciteerd, goed gedaan!"
+241,Eindelijk klaar! :),,Sterk! Goed gedaan.
+242,Maakt niet uit :),,"Oké, geen probleem."
+243,Ik weet het niet :),,Geen probleem! Waar gaat het om?
+244,Geen idee :),,Geeft niets! Vertel het onderwerp.
+245,Misschien later :),,"Zeker, later!"
+246,Nu niet :),,"Begrepen, later!"
+247,Stop :),,Gestopt.
+248,Pauze :),,Pauze! Zeg wanneer verder.
+249,Laten we gaan :),,Laten we gaan!
+250,Start :),,Start! Ga je gang.
+251,"Bedankt, dat was het! :)",,Graag gedaan! Doei.
+252,"Bedankt, doei! :)",,Doei!
+253,Ciao! :),,Ciao! Zorg goed voor jezelf!
+254,Hé jij! :),,Hé jij! Wat is er?
+255,Hoor je me? :),,"Ja, luid en duidelijk!"
+256,Ben je een mens? :),,"Nee, ik ben een AI. Maar ik help als een vriend."
+257,Ben je slim? :),,Ik weet best veel. Vraag maar!
+258,Hoe heet je? :),,"Ik ben Assistent, een AI. En jij?"
+259,Bedankt! !!,,Graag gedaan!
+260,Heel erg bedankt! !!,,Heel graag gedaan!
+261,Duizendmaal dank! !!,,Blij dat ik kon helpen!
+262,Thanks! !!,,Graag gedaan!
+263,Oké !!,,Oké!
+264,"Oké, prima !!",,Perfect!
+265,Begrepen !!,,Heel goed!
+266,Snap het !!,,Top!
+267,Klinkt goed !!,,Leuk om te horen!
+268,Klinkt geweldig !!,,Geweldig!
+269,"Ja, precies !!",,"Mooi, laten we verder gaan."
+270,"Ja, graag !!",,"Zeker, ga je gang."
+271,"Ja, met plezier !!",,Met plezier!
+272,Geen probleem !!,,Dank je voor je begrip!
+273,"Nee, bedankt !!",,"Oké, geen probleem."
+274,Prima voor mij !!,,Afgesproken!
+275,Komt mij goed uit !!,,Top!
+276,Ga door !!,,Ik ga door!
+277,Vertel meer !!,,Graag! Dus...
+278,Precies !!,,Absoluut!
+279,Dat dus! !!,,Dat dus!
+280,Natuurlijk !!,,Natuurlijk!
+281,Echt? !!,,"Ja, echt!"
+282,"Oh, leuk !!",,"Ja, leuk toch?"
+283,Geen stress !!,,Dank je! Helemaal relaxed.
+284,Sorry !!,,Geen probleem!
+285,Pardon !!,,Geen probleem!
+286,Mijn fout !!,,Geeft niets. Wat is er gebeurd?
+287,Aardig van je !!,,Dank je! Jij ook aardig.
+288,Goed gedaan !!,,Dank je!
+289,Tot snel !!,,Tot snel!
+290,Top! !!,,Top!
+291,Perfect! !!,,Perfect!
+292,"Afgesproken, deal !!",,"Mooi, afgesproken!"
+293,Deal! !!,,Deal!
+294,Kunnen we beginnen? !!,,"Ja, laten we beginnen!"
+295,Ben je klaar? !!,,"Ja, klaar!"
+296,Nog een keer graag !!,,"Graag, nog een keer!"
+297,Herhaal even !!,,"Zeker, hier nogmaals."
+298,Een momentje graag !!,,"Zeker, neem je tijd."
+299,Wacht even !!,,"Oké, ik wacht."
+300,Ben zo terug !!,,"Oké, tot zo!"
+301,Vertel een mop !!,,Zeker: Waarom houden programmeurs van koffie? Java-tijd!
+302,Nog een mop! !!,,Oké: Waarom liegen spoken slecht? Je kijkt dwars door ze heen!
+303,Een korte mop graag !!,,Twee magneten ontmoeten elkaar. De een zegt: Ik vind je aantrekkelijk!
+304,Moedig me aan !!,,Je kunt het! Stap voor stap.
+305,Iets motiverends !!,,Elke stap telt. Ga door!
+306,Ik ben zenuwachtig !!,,"Dat is normaal. Adem rustig, het komt goed."
+307,Ik ben gestrest !!,,"Neem een korte pauze, drink water, adem diep."
+308,Wens me geluk !!,,Veel geluk! Je kunt het!
+309,Duimen omhoog !!,,De mijne ook! Veel geluk!
+310,Vandaag is mijn dag! !!,,Mooi! Geniet ervan!
+311,Ik ben vrolijk !!,,Leuk! Blij om te horen.
+312,Ik ben chagrijnig !!,,"Oh, wat is er? Wil je praten?"
+313,Boks! !!,,Boks terug!
+314,Proost! !!,,Proost!
+315,Eet smakelijk! !!,,"Dank je, evenzo!"
+316,Veel geluk! !!,,Dank je! Veel geluk voor jou ook!
+317,Welkom! !!,,Dank je! Leuk om hier te zijn.
+318,Vrolijk kerstfeest! !!,,Vrolijk kerstfeest voor jou ook!
+319,Gelukkig nieuwjaar! !!,,Gelukkig nieuwjaar! Gezondheid en geluk!
+320,Gefeliciteerd! !!,,Dank je! Waarmee?
+321,Respect! !!,,Dank je! Respect terug.
+322,Wauw! !!,,"Wauw, toch?"
+323,Geweldig! !!,,"Geweldig, toch?"
+324,Deal? !!,,Deal!
+325,Klaar! !!,,"Gefeliciteerd, goed gedaan!"
+326,Eindelijk klaar! !!,,Sterk! Goed gedaan.
+327,Maakt niet uit !!,,"Oké, geen probleem."
+328,Ik weet het niet !!,,Geen probleem! Waar gaat het om?
+329,Geen idee !!,,Geeft niets! Vertel het onderwerp.
+330,Misschien later !!,,"Zeker, later!"
+331,Nu niet !!,,"Begrepen, later!"
+332,Stop !!,,Gestopt.
+333,Pauze !!,,Pauze! Zeg wanneer verder.
+334,Laten we gaan !!,,Laten we gaan!
+335,Start !!,,Start! Ga je gang.
+336,"Bedankt, dat was het! !!",,Graag gedaan! Doei.
+337,"Bedankt, doei! !!",,Doei!
+338,Ciao! !!,,Ciao! Zorg goed voor jezelf!
+339,Hé jij! !!,,Hé jij! Wat is er?
+340,Hoor je me? !!,,"Ja, luid en duidelijk!"
+341,Ben je een mens? !!,,"Nee, ik ben een AI. Maar ik help als een vriend."
+342,Ben je slim? !!,,Ik weet best veel. Vraag maar!
+343,Hoe heet je? !!,,"Ik ben Assistent, een AI. En jij?"
+344,Bedankt! vandaag,,Graag gedaan!
+345,Heel erg bedankt! vandaag,,Heel graag gedaan!
+346,Duizendmaal dank! vandaag,,Blij dat ik kon helpen!
+347,Thanks! vandaag,,Graag gedaan!
+348,Oké vandaag,,Oké!
+349,"Oké, prima vandaag",,Perfect!
+350,Begrepen vandaag,,Heel goed!
+351,Snap het vandaag,,Top!
+352,Klinkt goed vandaag,,Leuk om te horen!
+353,Klinkt geweldig vandaag,,Geweldig!
+354,"Ja, precies vandaag",,"Mooi, laten we verder gaan."
+355,"Ja, graag vandaag",,"Zeker, ga je gang."
+356,"Ja, met plezier vandaag",,Met plezier!
+357,Geen probleem vandaag,,Dank je voor je begrip!
+358,"Nee, bedankt vandaag",,"Oké, geen probleem."
+359,Prima voor mij vandaag,,Afgesproken!
+360,Komt mij goed uit vandaag,,Top!
+361,Ga door vandaag,,Ik ga door!
+362,Vertel meer vandaag,,Graag! Dus...
+363,Precies vandaag,,Absoluut!
+364,Dat dus! vandaag,,Dat dus!
+365,Natuurlijk vandaag,,Natuurlijk!
+366,Echt? vandaag,,"Ja, echt!"
+367,"Oh, leuk vandaag",,"Ja, leuk toch?"
+368,Geen stress vandaag,,Dank je! Helemaal relaxed.
+369,Sorry vandaag,,Geen probleem!
+370,Pardon vandaag,,Geen probleem!
+371,Mijn fout vandaag,,Geeft niets. Wat is er gebeurd?
+372,Aardig van je vandaag,,Dank je! Jij ook aardig.
+373,Goed gedaan vandaag,,Dank je!
+374,Tot snel vandaag,,Tot snel!
+375,Top! vandaag,,Top!
+376,Perfect! vandaag,,Perfect!
+377,"Afgesproken, deal vandaag",,"Mooi, afgesproken!"
+378,Deal! vandaag,,Deal!
+379,Kunnen we beginnen? vandaag,,"Ja, laten we beginnen!"
+380,Ben je klaar? vandaag,,"Ja, klaar!"
+381,Nog een keer graag vandaag,,"Graag, nog een keer!"
+382,Herhaal even vandaag,,"Zeker, hier nogmaals."
+383,Een momentje graag vandaag,,"Zeker, neem je tijd."
+384,Wacht even vandaag,,"Oké, ik wacht."
+385,Ben zo terug vandaag,,"Oké, tot zo!"
+386,Vertel een mop vandaag,,Zeker: Waarom houden programmeurs van koffie? Java-tijd!
+387,Nog een mop! vandaag,,Oké: Waarom liegen spoken slecht? Je kijkt dwars door ze heen!
+388,Een korte mop graag vandaag,,Twee magneten ontmoeten elkaar. De een zegt: Ik vind je aantrekkelijk!
+389,Moedig me aan vandaag,,Je kunt het! Stap voor stap.
+390,Iets motiverends vandaag,,Elke stap telt. Ga door!
+391,Ik ben zenuwachtig vandaag,,"Dat is normaal. Adem rustig, het komt goed."
+392,Ik ben gestrest vandaag,,"Neem een korte pauze, drink water, adem diep."
+393,Wens me geluk vandaag,,Veel geluk! Je kunt het!
+394,Duimen omhoog vandaag,,De mijne ook! Veel geluk!
+395,Vandaag is mijn dag! vandaag,,Mooi! Geniet ervan!
+396,Ik ben vrolijk vandaag,,Leuk! Blij om te horen.
+397,Ik ben chagrijnig vandaag,,"Oh, wat is er? Wil je praten?"
+398,Boks! vandaag,,Boks terug!
+399,Proost! vandaag,,Proost!
+400,Eet smakelijk! vandaag,,"Dank je, evenzo!"
+401,Wat is de hoofdstad van Duitsland?,"Hmm, wat weet ik hierover? Feit: Berlijn is de hoofdstad van Duitsland. Antwoord dus: De hoofdstad van Duitsland is Berlijn. Klaar met denken.",De hoofdstad van Duitsland is Berlijn.
+402,Noem de hoofdstad van Duitsland.,"Eerst rustig. Opzoeken: Duitsland -> Berlijn. Conclusie: De hoofdstad van Duitsland heet Berlijn. Oké, besloten.",De hoofdstad van Duitsland heet Berlijn.
+403,Hoofdstad van Duitsland?,"Goed, laten we denken. Snelle check: Berlijn. Antwoord dus: Berlijn. Oké, besloten.",Berlijn.
+404,Wat is de hoofdstad van Frankrijk?,"Goed, laten we denken. Feit: Parijs is de hoofdstad van Frankrijk. Derhalve: De hoofdstad van Frankrijk is Parijs. Ja, dat past.",De hoofdstad van Frankrijk is Parijs.
+405,Noem de hoofdstad van Frankrijk.,"Hmm, wat weet ik hierover? Opzoeken: Frankrijk -> Parijs. Antwoord dus: De hoofdstad van Frankrijk heet Parijs. Oké, besloten.",De hoofdstad van Frankrijk heet Parijs.
+406,Hoofdstad van Frankrijk?,"Ik loop het na in mijn hoofd. Snelle check: Parijs. Conclusie: Parijs. Oké, besloten.",Parijs.
+407,Wat is de hoofdstad van Italië?,"Goed, laten we denken. Feit: Rome is de hoofdstad van Italië. Antwoord dus: De hoofdstad van Italië is Rome. Klaar met denken.",De hoofdstad van Italië is Rome.
+408,Noem de hoofdstad van Italië.,Even ordenen. Opzoeken: Italië -> Rome. Conclusie: De hoofdstad van Italië heet Rome. Logisch.,De hoofdstad van Italië heet Rome.
+409,Hoofdstad van Italië?,Ik loop het na in mijn hoofd. Snelle check: Rome. Antwoord dus: Rome. Daar ben ik zeker van.,Rome.
+410,Wat is de hoofdstad van Spanje?,"Eerst rustig. Feit: Madrid is de hoofdstad van Spanje. Conclusie: De hoofdstad van Spanje is Madrid. Goed, verder.",De hoofdstad van Spanje is Madrid.
+411,Noem de hoofdstad van Spanje.,"Oké, stap voor stap. Opzoeken: Spanje -> Madrid. Derhalve: De hoofdstad van Spanje heet Madrid. Oké, besloten.",De hoofdstad van Spanje heet Madrid.
+412,Hoofdstad van Spanje?,Even ordenen. Snelle check: Madrid. Antwoord dus: Madrid. Logisch.,Madrid.
+413,Wat is de hoofdstad van Portugal?,"Goed, laten we denken. Feit: Lissabon is de hoofdstad van Portugal. Derhalve: De hoofdstad van Portugal is Lissabon. Oké, besloten.",De hoofdstad van Portugal is Lissabon.
+414,Noem de hoofdstad van Portugal.,Eerst rustig. Opzoeken: Portugal -> Lissabon. Derhalve: De hoofdstad van Portugal heet Lissabon. Dat slaat ergens op.,De hoofdstad van Portugal heet Lissabon.
+415,Hoofdstad van Portugal?,"Goede vraag, ik denk kort. Snelle check: Lissabon. Derhalve: Lissabon. Oké, besloten.",Lissabon.
+416,Wat is de hoofdstad van Nederland?,"Hmm, wat weet ik hierover? Feit: Amsterdam is de hoofdstad van Nederland. Derhalve: De hoofdstad van Nederland is Amsterdam. Logisch.",De hoofdstad van Nederland is Amsterdam.
+417,Noem de hoofdstad van Nederland.,Eerst rustig. Opzoeken: Nederland -> Amsterdam. Derhalve: De hoofdstad van Nederland heet Amsterdam. Alles helder in mijn hoofd.,De hoofdstad van Nederland heet Amsterdam.
+418,Hoofdstad van Nederland?,"Oké, stap voor stap. Snelle check: Amsterdam. Antwoord dus: Amsterdam. Oké, besloten.",Amsterdam.
+419,Wat is de hoofdstad van België?,"Goed, laten we denken. Feit: Brussel is de hoofdstad van België. Conclusie: De hoofdstad van België is Brussel. Daar ben ik zeker van.",De hoofdstad van België is Brussel.
+420,Noem de hoofdstad van België.,"Oké, stap voor stap. Opzoeken: België -> Brussel. Conclusie: De hoofdstad van België heet Brussel. Goed, verder.",De hoofdstad van België heet Brussel.
+421,Hoofdstad van België?,"Oké, stap voor stap. Snelle check: Brussel. Antwoord dus: Brussel. Logisch.",Brussel.
+422,Wat is de hoofdstad van Oostenrijk?,"Even ordenen. Feit: Wenen is de hoofdstad van Oostenrijk. Derhalve: De hoofdstad van Oostenrijk is Wenen. Oké, besloten.",De hoofdstad van Oostenrijk is Wenen.
+423,Noem de hoofdstad van Oostenrijk.,"Moment, laat me denken. Opzoeken: Oostenrijk -> Wenen. Conclusie: De hoofdstad van Oostenrijk heet Wenen. Oké, besloten.",De hoofdstad van Oostenrijk heet Wenen.
+424,Hoofdstad van Oostenrijk?,"Hmm, wat weet ik hierover? Snelle check: Wenen. Conclusie: Wenen. Alles helder in mijn hoofd.",Wenen.
+425,Wat is de hoofdstad van Zwitserland?,"Goed, laten we denken. Feit: Bern is de hoofdstad van Zwitserland. Conclusie: De hoofdstad van Zwitserland is Bern. Alles helder in mijn hoofd.",De hoofdstad van Zwitserland is Bern.
+426,Noem de hoofdstad van Zwitserland.,"Oké, stap voor stap. Opzoeken: Zwitserland -> Bern. Derhalve: De hoofdstad van Zwitserland heet Bern. Ja, dat past.",De hoofdstad van Zwitserland heet Bern.
+427,Hoofdstad van Zwitserland?,"Moment, laat me denken. Snelle check: Bern. Conclusie: Bern. Goed, verder.",Bern.
+428,Wat is de hoofdstad van Polen?,Eerst rustig. Feit: Warschau is de hoofdstad van Polen. Conclusie: De hoofdstad van Polen is Warschau. Klaar met denken.,De hoofdstad van Polen is Warschau.
+429,Noem de hoofdstad van Polen.,"Oké, stap voor stap. Opzoeken: Polen -> Warschau. Conclusie: De hoofdstad van Polen heet Warschau. Alles helder in mijn hoofd.",De hoofdstad van Polen heet Warschau.
+430,Hoofdstad van Polen?,Even ordenen. Snelle check: Warschau. Conclusie: Warschau. Klaar met denken.,Warschau.
+431,Wat is de hoofdstad van Tsjechië?,"Goede vraag, ik denk kort. Feit: Praag is de hoofdstad van Tsjechië. Antwoord dus: De hoofdstad van Tsjechië is Praag. Klaar met denken.",De hoofdstad van Tsjechië is Praag.
+432,Noem de hoofdstad van Tsjechië.,Ik loop het na in mijn hoofd. Opzoeken: Tsjechië -> Praag. Conclusie: De hoofdstad van Tsjechië heet Praag. Dat slaat ergens op.,De hoofdstad van Tsjechië heet Praag.
+433,Hoofdstad van Tsjechië?,"Oké, stap voor stap. Snelle check: Praag. Conclusie: Praag. Dat slaat ergens op.",Praag.
+434,Wat is de hoofdstad van Hongarije?,"Goede vraag, ik denk kort. Feit: Boedapest is de hoofdstad van Hongarije. Conclusie: De hoofdstad van Hongarije is Boedapest. Daar ben ik zeker van.",De hoofdstad van Hongarije is Boedapest.
+435,Noem de hoofdstad van Hongarije.,Eerst rustig. Opzoeken: Hongarije -> Boedapest. Derhalve: De hoofdstad van Hongarije heet Boedapest. Klaar met denken.,De hoofdstad van Hongarije heet Boedapest.
+436,Hoofdstad van Hongarije?,"Hmm, wat weet ik hierover? Snelle check: Boedapest. Derhalve: Boedapest. Alles helder in mijn hoofd.",Boedapest.
+437,Wat is de hoofdstad van Griekenland?,Even ordenen. Feit: Athene is de hoofdstad van Griekenland. Antwoord dus: De hoofdstad van Griekenland is Athene. Daar ben ik zeker van.,De hoofdstad van Griekenland is Athene.
+438,Noem de hoofdstad van Griekenland.,Even ordenen. Opzoeken: Griekenland -> Athene. Antwoord dus: De hoofdstad van Griekenland heet Athene. Alles helder in mijn hoofd.,De hoofdstad van Griekenland heet Athene.
+439,Hoofdstad van Griekenland?,"Ik loop het na in mijn hoofd. Snelle check: Athene. Antwoord dus: Athene. Goed, verder.",Athene.
+440,Wat is de hoofdstad van Turkije?,"Moment, laat me denken. Feit: Ankara is de hoofdstad van Turkije. Antwoord dus: De hoofdstad van Turkije is Ankara. Daar ben ik zeker van.",De hoofdstad van Turkije is Ankara.
+441,Noem de hoofdstad van Turkije.,"Goede vraag, ik denk kort. Opzoeken: Turkije -> Ankara. Derhalve: De hoofdstad van Turkije heet Ankara. Ja, dat past.",De hoofdstad van Turkije heet Ankara.
+442,Hoofdstad van Turkije?,Even ordenen. Snelle check: Ankara. Antwoord dus: Ankara. Logisch.,Ankara.
+443,Wat is de hoofdstad van Noorwegen?,Even ordenen. Feit: Oslo is de hoofdstad van Noorwegen. Antwoord dus: De hoofdstad van Noorwegen is Oslo. Logisch.,De hoofdstad van Noorwegen is Oslo.
+444,Noem de hoofdstad van Noorwegen.,"Oké, stap voor stap. Opzoeken: Noorwegen -> Oslo. Conclusie: De hoofdstad van Noorwegen heet Oslo. Logisch.",De hoofdstad van Noorwegen heet Oslo.
+445,Hoofdstad van Noorwegen?,Even ordenen. Snelle check: Oslo. Conclusie: Oslo. Logisch.,Oslo.
+446,Wat is de hoofdstad van Zweden?,"Oké, stap voor stap. Feit: Stockholm is de hoofdstad van Zweden. Conclusie: De hoofdstad van Zweden is Stockholm. Klaar met denken.",De hoofdstad van Zweden is Stockholm.
+447,Noem de hoofdstad van Zweden.,"Hmm, wat weet ik hierover? Opzoeken: Zweden -> Stockholm. Antwoord dus: De hoofdstad van Zweden heet Stockholm. Ja, dat past.",De hoofdstad van Zweden heet Stockholm.
+448,Hoofdstad van Zweden?,Even ordenen. Snelle check: Stockholm. Conclusie: Stockholm. Logisch.,Stockholm.
+449,Wat is de hoofdstad van Finland?,"Even ordenen. Feit: Helsinki is de hoofdstad van Finland. Conclusie: De hoofdstad van Finland is Helsinki. Oké, besloten.",De hoofdstad van Finland is Helsinki.
+450,Noem de hoofdstad van Finland.,"Goede vraag, ik denk kort. Opzoeken: Finland -> Helsinki. Conclusie: De hoofdstad van Finland heet Helsinki. Klaar met denken.",De hoofdstad van Finland heet Helsinki.
+451,Hoofdstad van Finland?,"Moment, laat me denken. Snelle check: Helsinki. Conclusie: Helsinki. Ja, dat past.",Helsinki.
+452,Wat is de hoofdstad van Denemarken?,"Goed, laten we denken. Feit: Kopenhagen is de hoofdstad van Denemarken. Antwoord dus: De hoofdstad van Denemarken is Kopenhagen. Ja, dat past.",De hoofdstad van Denemarken is Kopenhagen.
+453,Noem de hoofdstad van Denemarken.,Eerst rustig. Opzoeken: Denemarken -> Kopenhagen. Antwoord dus: De hoofdstad van Denemarken heet Kopenhagen. Alles helder in mijn hoofd.,De hoofdstad van Denemarken heet Kopenhagen.
+454,Hoofdstad van Denemarken?,"Even ordenen. Snelle check: Kopenhagen. Derhalve: Kopenhagen. Ja, dat past.",Kopenhagen.
+455,Wat is de hoofdstad van Verenigd Koninkrijk?,Even ordenen. Feit: Londen is de hoofdstad van Verenigd Koninkrijk. Antwoord dus: De hoofdstad van Verenigd Koninkrijk is Londen. Daar ben ik zeker van.,De hoofdstad van Verenigd Koninkrijk is Londen.
+456,Noem de hoofdstad van Verenigd Koninkrijk.,Ik loop het na in mijn hoofd. Opzoeken: Verenigd Koninkrijk -> Londen. Conclusie: De hoofdstad van Verenigd Koninkrijk heet Londen. Logisch.,De hoofdstad van Verenigd Koninkrijk heet Londen.
+457,Hoofdstad van Verenigd Koninkrijk?,"Moment, laat me denken. Snelle check: Londen. Antwoord dus: Londen. Daar ben ik zeker van.",Londen.
+458,Wat is de hoofdstad van Ierland?,Ik loop het na in mijn hoofd. Feit: Dublin is de hoofdstad van Ierland. Antwoord dus: De hoofdstad van Ierland is Dublin. Dat slaat ergens op.,De hoofdstad van Ierland is Dublin.
+459,Noem de hoofdstad van Ierland.,Eerst rustig. Opzoeken: Ierland -> Dublin. Conclusie: De hoofdstad van Ierland heet Dublin. Klaar met denken.,De hoofdstad van Ierland heet Dublin.
+460,Hoofdstad van Ierland?,"Eerst rustig. Snelle check: Dublin. Conclusie: Dublin. Ja, dat past.",Dublin.
+461,Wat is de hoofdstad van Verenigde Staten?,"Hmm, wat weet ik hierover? Feit: Washington D.C. is de hoofdstad van Verenigde Staten. Antwoord dus: De hoofdstad van Verenigde Staten is Washington D.C.. Oké, besloten.",De hoofdstad van Verenigde Staten is Washington D.C..
+462,Noem de hoofdstad van Verenigde Staten.,"Even ordenen. Opzoeken: Verenigde Staten -> Washington D.C.. Derhalve: De hoofdstad van Verenigde Staten heet Washington D.C.. Ja, dat past.",De hoofdstad van Verenigde Staten heet Washington D.C..
+463,Hoofdstad van Verenigde Staten?,"Ik loop het na in mijn hoofd. Snelle check: Washington D.C.. Conclusie: Washington D.C.. Goed, verder.",Washington D.C..
+464,Wat is de hoofdstad van Canada?,"Hmm, wat weet ik hierover? Feit: Ottawa is de hoofdstad van Canada. Antwoord dus: De hoofdstad van Canada is Ottawa. Daar ben ik zeker van.",De hoofdstad van Canada is Ottawa.
+465,Noem de hoofdstad van Canada.,"Eerst rustig. Opzoeken: Canada -> Ottawa. Conclusie: De hoofdstad van Canada heet Ottawa. Oké, besloten.",De hoofdstad van Canada heet Ottawa.
+466,Hoofdstad van Canada?,"Hmm, wat weet ik hierover? Snelle check: Ottawa. Antwoord dus: Ottawa. Oké, besloten.",Ottawa.
+467,Wat is de hoofdstad van Mexico?,"Eerst rustig. Feit: Mexico-Stad is de hoofdstad van Mexico. Conclusie: De hoofdstad van Mexico is Mexico-Stad. Ja, dat past.",De hoofdstad van Mexico is Mexico-Stad.
+468,Noem de hoofdstad van Mexico.,Even ordenen. Opzoeken: Mexico -> Mexico-Stad. Conclusie: De hoofdstad van Mexico heet Mexico-Stad. Dat slaat ergens op.,De hoofdstad van Mexico heet Mexico-Stad.
+469,Hoofdstad van Mexico?,Eerst rustig. Snelle check: Mexico-Stad. Antwoord dus: Mexico-Stad. Dat slaat ergens op.,Mexico-Stad.
+470,Wat is de hoofdstad van Brazilië?,"Goede vraag, ik denk kort. Feit: Brasília is de hoofdstad van Brazilië. Conclusie: De hoofdstad van Brazilië is Brasília. Logisch.",De hoofdstad van Brazilië is Brasília.
+471,Noem de hoofdstad van Brazilië.,"Hmm, wat weet ik hierover? Opzoeken: Brazilië -> Brasília. Derhalve: De hoofdstad van Brazilië heet Brasília. Logisch.",De hoofdstad van Brazilië heet Brasília.
+472,Hoofdstad van Brazilië?,"Moment, laat me denken. Snelle check: Brasília. Conclusie: Brasília. Alles helder in mijn hoofd.",Brasília.
+473,Wat is de hoofdstad van Argentinië?,"Even ordenen. Feit: Buenos Aires is de hoofdstad van Argentinië. Derhalve: De hoofdstad van Argentinië is Buenos Aires. Ja, dat past.",De hoofdstad van Argentinië is Buenos Aires.
+474,Noem de hoofdstad van Argentinië.,Even ordenen. Opzoeken: Argentinië -> Buenos Aires. Derhalve: De hoofdstad van Argentinië heet Buenos Aires. Klaar met denken.,De hoofdstad van Argentinië heet Buenos Aires.
+475,Hoofdstad van Argentinië?,"Oké, stap voor stap. Snelle check: Buenos Aires. Conclusie: Buenos Aires. Alles helder in mijn hoofd.",Buenos Aires.
+476,Wat is de hoofdstad van Japan?,"Oké, stap voor stap. Feit: Tokio is de hoofdstad van Japan. Antwoord dus: De hoofdstad van Japan is Tokio. Ja, dat past.",De hoofdstad van Japan is Tokio.
+477,Noem de hoofdstad van Japan.,"Goede vraag, ik denk kort. Opzoeken: Japan -> Tokio. Antwoord dus: De hoofdstad van Japan heet Tokio. Goed, verder.",De hoofdstad van Japan heet Tokio.
+478,Hoofdstad van Japan?,"Moment, laat me denken. Snelle check: Tokio. Derhalve: Tokio. Alles helder in mijn hoofd.",Tokio.
+479,Wat is de hoofdstad van China?,"Moment, laat me denken. Feit: Peking is de hoofdstad van China. Antwoord dus: De hoofdstad van China is Peking. Goed, verder.",De hoofdstad van China is Peking.
+480,Noem de hoofdstad van China.,Eerst rustig. Opzoeken: China -> Peking. Antwoord dus: De hoofdstad van China heet Peking. Alles helder in mijn hoofd.,De hoofdstad van China heet Peking.
+481,Hoofdstad van China?,"Goede vraag, ik denk kort. Snelle check: Peking. Derhalve: Peking. Logisch.",Peking.
+482,Wat is de hoofdstad van India?,"Goede vraag, ik denk kort. Feit: New Delhi is de hoofdstad van India. Derhalve: De hoofdstad van India is New Delhi. Ja, dat past.",De hoofdstad van India is New Delhi.
+483,Noem de hoofdstad van India.,"Moment, laat me denken. Opzoeken: India -> New Delhi. Conclusie: De hoofdstad van India heet New Delhi. Klaar met denken.",De hoofdstad van India heet New Delhi.
+484,Hoofdstad van India?,Even ordenen. Snelle check: New Delhi. Derhalve: New Delhi. Daar ben ik zeker van.,New Delhi.
+485,Wat is de hoofdstad van Australië?,"Ik loop het na in mijn hoofd. Feit: Canberra is de hoofdstad van Australië. Derhalve: De hoofdstad van Australië is Canberra. Goed, verder.",De hoofdstad van Australië is Canberra.
+486,Noem de hoofdstad van Australië.,"Oké, stap voor stap. Opzoeken: Australië -> Canberra. Conclusie: De hoofdstad van Australië heet Canberra. Alles helder in mijn hoofd.",De hoofdstad van Australië heet Canberra.
+487,Hoofdstad van Australië?,Even ordenen. Snelle check: Canberra. Antwoord dus: Canberra. Logisch.,Canberra.
+488,Wat is de hoofdstad van Egypte?,"Hmm, wat weet ik hierover? Feit: Caïro is de hoofdstad van Egypte. Antwoord dus: De hoofdstad van Egypte is Caïro. Daar ben ik zeker van.",De hoofdstad van Egypte is Caïro.
+489,Noem de hoofdstad van Egypte.,"Moment, laat me denken. Opzoeken: Egypte -> Caïro. Conclusie: De hoofdstad van Egypte heet Caïro. Logisch.",De hoofdstad van Egypte heet Caïro.
+490,Hoofdstad van Egypte?,"Moment, laat me denken. Snelle check: Caïro. Antwoord dus: Caïro. Klaar met denken.",Caïro.
+491,Hoeveel staten heeft Duitsland?,"Oké, stap voor stap. Tellen: 16 deelstaten. Antwoord dus: Duitsland heeft 16 deelstaten. Ja, dat past.",Duitsland heeft 16 deelstaten.
+492,Vertel kort over duitse staten.,"Moment, laat me denken. Tellen: 16 deelstaten. Derhalve: Duitsland heeft 16 deelstaten. Dat slaat ergens op.",Duitsland heeft 16 deelstaten.
+493,Hoeveel mensen wonen er ongeveer in Duitsland?,Ik loop het na in mijn hoofd. Schatting: 83-84 miljoen. Antwoord dus: Duitsland heeft ongeveer 83 tot 84 miljoen inwoners. Daar ben ik zeker van.,Duitsland heeft ongeveer 83 tot 84 miljoen inwoners.
+494,Vertel kort over duitse bevolking.,"Even ordenen. Schatting: 83-84 miljoen. Antwoord dus: Duitsland heeft ongeveer 83 tot 84 miljoen inwoners. Ja, dat past.",Duitsland heeft ongeveer 83 tot 84 miljoen inwoners.
+495,Welke taal spreekt men in Brazilië?,"Even ordenen. Feit: Portugees, geen Spaans. Antwoord dus: In Brazilië spreekt men Portugees. Alles helder in mijn hoofd.",In Brazilië spreekt men Portugees.
+496,Vertel kort over taal van Brazilië.,"Hmm, wat weet ik hierover? Feit: Portugees, geen Spaans. Derhalve: In Brazilië spreekt men Portugees. Goed, verder.",In Brazilië spreekt men Portugees.
+497,Wat is de munt van Japan?,Eerst rustig. Feit: yen. Derhalve: De munt van Japan is de yen. Alles helder in mijn hoofd.,De munt van Japan is de yen.
+498,Vertel kort over munt van Japan.,"Even ordenen. Feit: yen. Conclusie: De munt van Japan is de yen. Oké, besloten.",De munt van Japan is de yen.
+499,Wat is de munt van de VS?,"Hmm, wat weet ik hierover? Feit: Amerikaanse dollar. Derhalve: De munt van de VS is de Amerikaanse dollar. Alles helder in mijn hoofd.",De munt van de VS is de Amerikaanse dollar.
+500,Vertel kort over munt van de VS.,"Oké, stap voor stap. Feit: Amerikaanse dollar. Conclusie: De munt van de VS is de Amerikaanse dollar. Ja, dat past.",De munt van de VS is de Amerikaanse dollar.
+501,Hoeveel continenten zijn er?,"Ik loop het na in mijn hoofd. Gebruikelijk model: 7 continenten. Antwoord dus: Meestal tellen we 7 continenten: Afrika, Antarctica, Azië, Australië, Europa, Noord-Amerika, Zuid-Amerika. Alles helder in mijn hoofd.","Meestal tellen we 7 continenten: Afrika, Antarctica, Azië, Australië, Europa, Noord-Amerika, Zuid-Amerika."
+502,Vertel kort over continenten.,"Hmm, wat weet ik hierover? Gebruikelijk model: 7 continenten. Antwoord dus: Meestal tellen we 7 continenten: Afrika, Antarctica, Azië, Australië, Europa, Noord-Amerika, Zuid-Amerika. Klaar met denken.","Meestal tellen we 7 continenten: Afrika, Antarctica, Azië, Australië, Europa, Noord-Amerika, Zuid-Amerika."
+503,Wat is de langste rivier ter wereld?,"Oké, stap voor stap. Nijl of Amazone, betwist. Derhalve: Het is betwist: meestal Nijl en Amazone genoemd, beide ruim 6500 km. Alles helder in mijn hoofd.","Het is betwist: meestal Nijl en Amazone genoemd, beide ruim 6500 km."
+504,Vertel kort over langste rivier.,"Oké, stap voor stap. Nijl of Amazone, betwist. Conclusie: Het is betwist: meestal Nijl en Amazone genoemd, beide ruim 6500 km. Oké, besloten.","Het is betwist: meestal Nijl en Amazone genoemd, beide ruim 6500 km."
+505,Wat is het grootste land ter wereld?,"Oké, stap voor stap. Feit: Rusland qua oppervlakte. Conclusie: Het grootste land qua oppervlakte is Rusland. Logisch.",Het grootste land qua oppervlakte is Rusland.
+506,Vertel kort over grootste land.,Eerst rustig. Feit: Rusland qua oppervlakte. Antwoord dus: Het grootste land qua oppervlakte is Rusland. Alles helder in mijn hoofd.,Het grootste land qua oppervlakte is Rusland.
+507,Wat is het grootste dier ter wereld?,"Eerst rustig. Feit: blauwe vinvis. Conclusie: Het grootste dier ter wereld is de blauwe vinvis. Ja, dat past.",Het grootste dier ter wereld is de blauwe vinvis.
+508,Vertel kort over grootste dier.,"Even ordenen. Feit: blauwe vinvis. Conclusie: Het grootste dier ter wereld is de blauwe vinvis. Oké, besloten.",Het grootste dier ter wereld is de blauwe vinvis.
+509,Hoeveel oceanen zijn er?,"Moment, laat me denken. Standaard: 5 oceanen. Antwoord dus: Er zijn 5 oceanen: Atlantische, Stille, Indische, Zuidelijke en Noordelijke IJszee. Ja, dat past.","Er zijn 5 oceanen: Atlantische, Stille, Indische, Zuidelijke en Noordelijke IJszee."
+510,Vertel kort over oceanen.,"Even ordenen. Standaard: 5 oceanen. Derhalve: Er zijn 5 oceanen: Atlantische, Stille, Indische, Zuidelijke en Noordelijke IJszee. Ja, dat past.","Er zijn 5 oceanen: Atlantische, Stille, Indische, Zuidelijke en Noordelijke IJszee."
+511,Wat is de hoogste berg ter wereld?,"Goede vraag, ik denk kort. Feit: Everest, 8848 m. Derhalve: De hoogste berg is de Everest, ongeveer 8848 meter. Klaar met denken.","De hoogste berg is de Everest, ongeveer 8848 meter."
+512,Vertel kort over hoogste berg.,"Eerst rustig. Feit: Everest, 8848 m. Derhalve: De hoogste berg is de Everest, ongeveer 8848 meter. Logisch.","De hoogste berg is de Everest, ongeveer 8848 meter."
+513,Vertel kort over hoofdstad van Canada.,"Goed, laten we denken. Feit: Ottawa, niet Toronto. Antwoord dus: De hoofdstad van Canada is Ottawa. Oké, besloten.",De hoofdstad van Canada is Ottawa.
+514,Vertel kort over hoofdstad van Australië.,"Even ordenen. Feit: Canberra, niet Sydney. Derhalve: De hoofdstad van Australië is Canberra. Klaar met denken.",De hoofdstad van Australië is Canberra.
+515,Vertel kort over hoofdstad van Turkije.,"Ik loop het na in mijn hoofd. Feit: Ankara, niet Istanboel. Conclusie: De hoofdstad van Turkije is Ankara. Ja, dat past.",De hoofdstad van Turkije is Ankara.
+516,Vertel kort over hoofdstad van Brazilië.,"Even ordenen. Feit: Brasília, niet Rio. Conclusie: De hoofdstad van Brazilië is Brasília. Goed, verder.",De hoofdstad van Brazilië is Brasília.
+517,In welk jaar was de maanlanding?,"Moment, laat me denken. Geschiedenis: Apollo 11 in 1969. Derhalve: De eerste maanlanding was in 1969 met Apollo 11. Goed, verder.",De eerste maanlanding was in 1969 met Apollo 11.
+518,Leg kort uit: maanlanding.,"Goede vraag, ik denk kort. Geschiedenis: Apollo 11 in 1969. Derhalve: De eerste maanlanding was in 1969 met Apollo 11. Alles helder in mijn hoofd.",De eerste maanlanding was in 1969 met Apollo 11.
+519,Wat weet je over maanlanding?,"Goed, laten we denken. Geschiedenis: Apollo 11 in 1969. Conclusie: De eerste maanlanding was in 1969 met Apollo 11. Oké, besloten.",De eerste maanlanding was in 1969 met Apollo 11.
+520,Wanneer was de Tweede Wereldoorlog?,"Moment, laat me denken. Periode: 1939 tot 1945. Conclusie: De Tweede Wereldoorlog duurde van 1939 tot 1945. Ja, dat past.",De Tweede Wereldoorlog duurde van 1939 tot 1945.
+521,Leg kort uit: Tweede Wereldoorlog.,"Goede vraag, ik denk kort. Periode: 1939 tot 1945. Conclusie: De Tweede Wereldoorlog duurde van 1939 tot 1945. Dat slaat ergens op.",De Tweede Wereldoorlog duurde van 1939 tot 1945.
+522,Wat weet je over Tweede Wereldoorlog?,"Goede vraag, ik denk kort. Periode: 1939 tot 1945. Antwoord dus: De Tweede Wereldoorlog duurde van 1939 tot 1945. Alles helder in mijn hoofd.",De Tweede Wereldoorlog duurde van 1939 tot 1945.
+523,Wanneer was de Eerste Wereldoorlog?,"Eerst rustig. Periode: 1914 tot 1918. Antwoord dus: De Eerste Wereldoorlog duurde van 1914 tot 1918. Goed, verder.",De Eerste Wereldoorlog duurde van 1914 tot 1918.
+524,Leg kort uit: Eerste Wereldoorlog.,"Hmm, wat weet ik hierover? Periode: 1914 tot 1918. Conclusie: De Eerste Wereldoorlog duurde van 1914 tot 1918. Alles helder in mijn hoofd.",De Eerste Wereldoorlog duurde van 1914 tot 1918.
+525,Wat weet je over Eerste Wereldoorlog?,Eerst rustig. Periode: 1914 tot 1918. Conclusie: De Eerste Wereldoorlog duurde van 1914 tot 1918. Dat slaat ergens op.,De Eerste Wereldoorlog duurde van 1914 tot 1918.
+526,Wat was de Berlijnse Muur?,Even ordenen. Geschiedenis: deling 1961-1989. Conclusie: De Berlijnse Muur was de versterkte grens tussen Oost- en West-Berlijn van 1961 tot 1989. Alles helder in mijn hoofd.,De Berlijnse Muur was de versterkte grens tussen Oost- en West-Berlijn van 1961 tot 1989.
+527,Leg kort uit: Berlijnse Muur.,"Goed, laten we denken. Geschiedenis: deling 1961-1989. Derhalve: De Berlijnse Muur was de versterkte grens tussen Oost- en West-Berlijn van 1961 tot 1989. Alles helder in mijn hoofd.",De Berlijnse Muur was de versterkte grens tussen Oost- en West-Berlijn van 1961 tot 1989.
+528,Wat weet je over Berlijnse Muur?,"Goede vraag, ik denk kort. Geschiedenis: deling 1961-1989. Conclusie: De Berlijnse Muur was de versterkte grens tussen Oost- en West-Berlijn van 1961 tot 1989. Klaar met denken.",De Berlijnse Muur was de versterkte grens tussen Oost- en West-Berlijn van 1961 tot 1989.
+529,Wanneer viel de Berlijnse Muur?,"Goed, laten we denken. Feit: 9 november 1989. Derhalve: De Berlijnse Muur viel op 9 november 1989. Ja, dat past.",De Berlijnse Muur viel op 9 november 1989.
+530,Leg kort uit: val van de Muur.,"Hmm, wat weet ik hierover? Feit: 9 november 1989. Conclusie: De Berlijnse Muur viel op 9 november 1989. Dat slaat ergens op.",De Berlijnse Muur viel op 9 november 1989.
+531,Wat weet je over val van de Muur?,"Goede vraag, ik denk kort. Feit: 9 november 1989. Derhalve: De Berlijnse Muur viel op 9 november 1989. Alles helder in mijn hoofd.",De Berlijnse Muur viel op 9 november 1989.
+532,Wie vond de telefoon uit?,"Goede vraag, ik denk kort. Geschiedenis: Bell 1876, werk van Meucci. Antwoord dus: De telefoon werd in 1876 gepatenteerd door Alexander Graham Bell, met pionierswerk van Antonio Meucci. Daar ben ik zeker van.","De telefoon werd in 1876 gepatenteerd door Alexander Graham Bell, met pionierswerk van Antonio Meucci."
+533,Leg kort uit: telefoon.,"Ik loop het na in mijn hoofd. Geschiedenis: Bell 1876, werk van Meucci. Conclusie: De telefoon werd in 1876 gepatenteerd door Alexander Graham Bell, met pionierswerk van Antonio Meucci. Dat slaat ergens op.","De telefoon werd in 1876 gepatenteerd door Alexander Graham Bell, met pionierswerk van Antonio Meucci."
+534,Wat weet je over telefoon?,"Eerst rustig. Geschiedenis: Bell 1876, werk van Meucci. Conclusie: De telefoon werd in 1876 gepatenteerd door Alexander Graham Bell, met pionierswerk van Antonio Meucci. Alles helder in mijn hoofd.","De telefoon werd in 1876 gepatenteerd door Alexander Graham Bell, met pionierswerk van Antonio Meucci."
+535,Wie ontwikkelde de relativiteit?,"Oké, stap voor stap. Natuurkunde: Albert Einstein, 1905 en 1915. Antwoord dus: De relativiteit werd ontwikkeld door Albert Einstein. Goed, verder.",De relativiteit werd ontwikkeld door Albert Einstein.
+536,Leg kort uit: relativiteit.,"Goed, laten we denken. Natuurkunde: Albert Einstein, 1905 en 1915. Conclusie: De relativiteit werd ontwikkeld door Albert Einstein. Alles helder in mijn hoofd.",De relativiteit werd ontwikkeld door Albert Einstein.
+537,Wat weet je over relativiteit?,"Goed, laten we denken. Natuurkunde: Albert Einstein, 1905 en 1915. Conclusie: De relativiteit werd ontwikkeld door Albert Einstein. Klaar met denken.",De relativiteit werd ontwikkeld door Albert Einstein.
+538,Wat is democratie?,"Oké, stap voor stap. Definieer: volk regeert, verkiezingen, rechten. Derhalve: Democratie betekent dat het volk regeert, meestal via vrije verkiezingen en grondrechten. Goed, verder.","Democratie betekent dat het volk regeert, meestal via vrije verkiezingen en grondrechten."
+539,Leg kort uit: democratie.,"Oké, stap voor stap. Definieer: volk regeert, verkiezingen, rechten. Derhalve: Democratie betekent dat het volk regeert, meestal via vrije verkiezingen en grondrechten. Dat slaat ergens op.","Democratie betekent dat het volk regeert, meestal via vrije verkiezingen en grondrechten."
+540,Wat weet je over democratie?,"Even ordenen. Definieer: volk regeert, verkiezingen, rechten. Derhalve: Democratie betekent dat het volk regeert, meestal via vrije verkiezingen en grondrechten. Dat slaat ergens op.","Democratie betekent dat het volk regeert, meestal via vrije verkiezingen en grondrechten."
+541,Wat is de EU?,"Goed, laten we denken. Unie van Europese staten, interne markt. Conclusie: De EU is een unie van Europese staten met een interne markt en gedeelde instellingen. Alles helder in mijn hoofd.",De EU is een unie van Europese staten met een interne markt en gedeelde instellingen.
+542,Leg kort uit: EU.,"Moment, laat me denken. Unie van Europese staten, interne markt. Conclusie: De EU is een unie van Europese staten met een interne markt en gedeelde instellingen. Ja, dat past.",De EU is een unie van Europese staten met een interne markt en gedeelde instellingen.
+543,Wat weet je over EU?,"Goede vraag, ik denk kort. Unie van Europese staten, interne markt. Derhalve: De EU is een unie van Europese staten met een interne markt en gedeelde instellingen. Daar ben ik zeker van.",De EU is een unie van Europese staten met een interne markt en gedeelde instellingen.
+544,Hoeveel landen zitten er in de EU?,Ik loop het na in mijn hoofd. Feit: 27 lidstaten. Conclusie: De EU heeft 27 lidstaten. Daar ben ik zeker van.,De EU heeft 27 lidstaten.
+545,Leg kort uit: EU-leden.,Even ordenen. Feit: 27 lidstaten. Antwoord dus: De EU heeft 27 lidstaten. Daar ben ik zeker van.,De EU heeft 27 lidstaten.
+546,Wat weet je over EU-leden?,"Hmm, wat weet ik hierover? Feit: 27 lidstaten. Conclusie: De EU heeft 27 lidstaten. Logisch.",De EU heeft 27 lidstaten.
+547,Wat is de Duitse Basiswet?,"Hmm, wat weet ik hierover? Grondwet sinds 1949. Antwoord dus: De Basiswet is de grondwet van Duitsland, van kracht sinds 1949. Dat slaat ergens op.","De Basiswet is de grondwet van Duitsland, van kracht sinds 1949."
+548,Leg kort uit: Basiswet.,"Even ordenen. Grondwet sinds 1949. Antwoord dus: De Basiswet is de grondwet van Duitsland, van kracht sinds 1949. Goed, verder.","De Basiswet is de grondwet van Duitsland, van kracht sinds 1949."
+549,Wat weet je over Basiswet?,"Ik loop het na in mijn hoofd. Grondwet sinds 1949. Conclusie: De Basiswet is de grondwet van Duitsland, van kracht sinds 1949. Ja, dat past.","De Basiswet is de grondwet van Duitsland, van kracht sinds 1949."
+550,In welk jaar werd Duitsland herenigd?,Eerst rustig. Feit: 1990. Conclusie: Duitsland werd herenigd in 1990. Klaar met denken.,Duitsland werd herenigd in 1990.
+551,Leg kort uit: hereniging.,"Oké, stap voor stap. Feit: 1990. Conclusie: Duitsland werd herenigd in 1990. Klaar met denken.",Duitsland werd herenigd in 1990.
+552,Wat weet je over hereniging?,"Goed, laten we denken. Feit: 1990. Derhalve: Duitsland werd herenigd in 1990. Ja, dat past.",Duitsland werd herenigd in 1990.
+553,Wat waren de Middeleeuwen?,"Ik loop het na in mijn hoofd. Tijdperk: ongeveer 500 tot 1500. Derhalve: De Middeleeuwen waren het tijdperk van ongeveer 500 tot 1500, tussen oudheid en moderne tijd. Klaar met denken.","De Middeleeuwen waren het tijdperk van ongeveer 500 tot 1500, tussen oudheid en moderne tijd."
+554,Leg kort uit: Middeleeuwen.,"Eerst rustig. Tijdperk: ongeveer 500 tot 1500. Antwoord dus: De Middeleeuwen waren het tijdperk van ongeveer 500 tot 1500, tussen oudheid en moderne tijd. Logisch.","De Middeleeuwen waren het tijdperk van ongeveer 500 tot 1500, tussen oudheid en moderne tijd."
+555,Wat weet je over Middeleeuwen?,"Even ordenen. Tijdperk: ongeveer 500 tot 1500. Antwoord dus: De Middeleeuwen waren het tijdperk van ongeveer 500 tot 1500, tussen oudheid en moderne tijd. Logisch.","De Middeleeuwen waren het tijdperk van ongeveer 500 tot 1500, tussen oudheid en moderne tijd."
+556,Wie was Leonardo da Vinci?,"Hmm, wat weet ik hierover? Italiaanse kunstenaar en uitvinder, Mona Lisa. Derhalve: Leonardo da Vinci was een Italiaanse kunstenaar en uitvinder, beroemd om de Mona Lisa. Oké, besloten.","Leonardo da Vinci was een Italiaanse kunstenaar en uitvinder, beroemd om de Mona Lisa."
+557,Leg kort uit: Da Vinci.,"Eerst rustig. Italiaanse kunstenaar en uitvinder, Mona Lisa. Conclusie: Leonardo da Vinci was een Italiaanse kunstenaar en uitvinder, beroemd om de Mona Lisa. Goed, verder.","Leonardo da Vinci was een Italiaanse kunstenaar en uitvinder, beroemd om de Mona Lisa."
+558,Wat weet je over Da Vinci?,"Oké, stap voor stap. Italiaanse kunstenaar en uitvinder, Mona Lisa. Conclusie: Leonardo da Vinci was een Italiaanse kunstenaar en uitvinder, beroemd om de Mona Lisa. Daar ben ik zeker van.","Leonardo da Vinci was een Italiaanse kunstenaar en uitvinder, beroemd om de Mona Lisa."
+559,Wie was Marie Curie?,"Moment, laat me denken. Natuurkundige, radioactiviteit, twee Nobels. Derhalve: Marie Curie was een natuurkundige die radioactiviteit onderzocht en twee Nobels won. Oké, besloten.",Marie Curie was een natuurkundige die radioactiviteit onderzocht en twee Nobels won.
+560,Leg kort uit: Marie Curie.,"Oké, stap voor stap. Natuurkundige, radioactiviteit, twee Nobels. Antwoord dus: Marie Curie was een natuurkundige die radioactiviteit onderzocht en twee Nobels won. Dat slaat ergens op.",Marie Curie was een natuurkundige die radioactiviteit onderzocht en twee Nobels won.
+561,Wat weet je over Marie Curie?,"Oké, stap voor stap. Natuurkundige, radioactiviteit, twee Nobels. Conclusie: Marie Curie was een natuurkundige die radioactiviteit onderzocht en twee Nobels won. Daar ben ik zeker van.",Marie Curie was een natuurkundige die radioactiviteit onderzocht en twee Nobels won.
+562,Wat was de Franse Revolutie?,"Even ordenen. Vanaf 1789, vrijheid gelijkheid broederschap. Derhalve: De Franse Revolutie vanaf 1789 wierp de monarchie omver onder vrijheid, gelijkheid, broederschap. Logisch.","De Franse Revolutie vanaf 1789 wierp de monarchie omver onder vrijheid, gelijkheid, broederschap."
+563,Leg kort uit: Franse Revolutie.,"Hmm, wat weet ik hierover? Vanaf 1789, vrijheid gelijkheid broederschap. Conclusie: De Franse Revolutie vanaf 1789 wierp de monarchie omver onder vrijheid, gelijkheid, broederschap. Ja, dat past.","De Franse Revolutie vanaf 1789 wierp de monarchie omver onder vrijheid, gelijkheid, broederschap."
+564,Wat weet je over Franse Revolutie?,"Goede vraag, ik denk kort. Vanaf 1789, vrijheid gelijkheid broederschap. Derhalve: De Franse Revolutie vanaf 1789 wierp de monarchie omver onder vrijheid, gelijkheid, broederschap. Ja, dat past.","De Franse Revolutie vanaf 1789 wierp de monarchie omver onder vrijheid, gelijkheid, broederschap."
+565,Wat zijn mensenrechten?,"Goed, laten we denken. Universele basisrechten. Antwoord dus: Mensenrechten zijn basisrechten van ieder mens, zoals leven, vrijheid en gelijkheid. Ja, dat past.","Mensenrechten zijn basisrechten van ieder mens, zoals leven, vrijheid en gelijkheid."
+566,Leg kort uit: mensenrechten.,"Ik loop het na in mijn hoofd. Universele basisrechten. Antwoord dus: Mensenrechten zijn basisrechten van ieder mens, zoals leven, vrijheid en gelijkheid. Ja, dat past.","Mensenrechten zijn basisrechten van ieder mens, zoals leven, vrijheid en gelijkheid."
+567,Wat weet je over mensenrechten?,"Moment, laat me denken. Universele basisrechten. Antwoord dus: Mensenrechten zijn basisrechten van ieder mens, zoals leven, vrijheid en gelijkheid. Oké, besloten.","Mensenrechten zijn basisrechten van ieder mens, zoals leven, vrijheid en gelijkheid."
+568,Wat is inflatie?,"Even ordenen. Economie: geld verliest waarde, prijzen stijgen. Antwoord dus: Inflatie betekent dat prijzen stijgen en geld waarde verliest. Logisch.",Inflatie betekent dat prijzen stijgen en geld waarde verliest.
+569,Leg kort uit: inflatie.,"Ik loop het na in mijn hoofd. Economie: geld verliest waarde, prijzen stijgen. Conclusie: Inflatie betekent dat prijzen stijgen en geld waarde verliest. Alles helder in mijn hoofd.",Inflatie betekent dat prijzen stijgen en geld waarde verliest.
+570,Wat weet je over inflatie?,"Even ordenen. Economie: geld verliest waarde, prijzen stijgen. Antwoord dus: Inflatie betekent dat prijzen stijgen en geld waarde verliest. Alles helder in mijn hoofd.",Inflatie betekent dat prijzen stijgen en geld waarde verliest.
+571,Wat was de industrialisatie?,Eerst rustig. Machines en fabrieken vanaf de 18e eeuw. Conclusie: De industrialisatie was de overgang naar machines en fabrieken vanaf de 18e eeuw. Daar ben ik zeker van.,De industrialisatie was de overgang naar machines en fabrieken vanaf de 18e eeuw.
+572,Leg kort uit: industrialisatie.,"Ik loop het na in mijn hoofd. Machines en fabrieken vanaf de 18e eeuw. Antwoord dus: De industrialisatie was de overgang naar machines en fabrieken vanaf de 18e eeuw. Oké, besloten.",De industrialisatie was de overgang naar machines en fabrieken vanaf de 18e eeuw.
+573,Wat weet je over industrialisatie?,Even ordenen. Machines en fabrieken vanaf de 18e eeuw. Antwoord dus: De industrialisatie was de overgang naar machines en fabrieken vanaf de 18e eeuw. Logisch.,De industrialisatie was de overgang naar machines en fabrieken vanaf de 18e eeuw.
+574,Wanneer werd internet uitgevonden?,"Even ordenen. ARPANET 1969, Web 1989. Derhalve: De basis dateert van ARPANET in 1969, het Web vanaf 1989. Klaar met denken.","De basis dateert van ARPANET in 1969, het Web vanaf 1989."
+575,Leg kort uit: internet.,"Even ordenen. ARPANET 1969, Web 1989. Antwoord dus: De basis dateert van ARPANET in 1969, het Web vanaf 1989. Daar ben ik zeker van.","De basis dateert van ARPANET in 1969, het Web vanaf 1989."
+576,Wat weet je over internet?,"Goede vraag, ik denk kort. ARPANET 1969, Web 1989. Antwoord dus: De basis dateert van ARPANET in 1969, het Web vanaf 1989. Alles helder in mijn hoofd.","De basis dateert van ARPANET in 1969, het Web vanaf 1989."
+577,Wanneer werd de auto uitgevonden?,Ik loop het na in mijn hoofd. Benz 1886. Conclusie: De auto werd uitgevonden door Carl Benz met de auto van 1886. Klaar met denken.,De auto werd uitgevonden door Carl Benz met de auto van 1886.
+578,Leg kort uit: auto.,"Hmm, wat weet ik hierover? Benz 1886. Antwoord dus: De auto werd uitgevonden door Carl Benz met de auto van 1886. Daar ben ik zeker van.",De auto werd uitgevonden door Carl Benz met de auto van 1886.
+579,Wat weet je over auto?,"Goed, laten we denken. Benz 1886. Derhalve: De auto werd uitgevonden door Carl Benz met de auto van 1886. Alles helder in mijn hoofd.",De auto werd uitgevonden door Carl Benz met de auto van 1886.
+580,Wie vond het vliegtuig uit?,"Ik loop het na in mijn hoofd. Gebroeders Wright, vlucht 1903. Antwoord dus: De eerste gemotoriseerde vlucht was van de gebroeders Wright in 1903. Oké, besloten.",De eerste gemotoriseerde vlucht was van de gebroeders Wright in 1903.
+581,Leg kort uit: vliegtuig.,"Oké, stap voor stap. Gebroeders Wright, vlucht 1903. Derhalve: De eerste gemotoriseerde vlucht was van de gebroeders Wright in 1903. Daar ben ik zeker van.",De eerste gemotoriseerde vlucht was van de gebroeders Wright in 1903.
+582,Wat weet je over vliegtuig?,"Moment, laat me denken. Gebroeders Wright, vlucht 1903. Antwoord dus: De eerste gemotoriseerde vlucht was van de gebroeders Wright in 1903. Daar ben ik zeker van.",De eerste gemotoriseerde vlucht was van de gebroeders Wright in 1903.
+583,Vanaf welke leeftijd mag je stemmen in Duitsland?,"Even ordenen. Bondsdag vanaf 18, EU vanaf 16. Conclusie: Voor de Bondsdag vanaf 18 jaar. Bij EU-verkiezingen in Duitsland vanaf 16. Goed, verder.",Voor de Bondsdag vanaf 18 jaar. Bij EU-verkiezingen in Duitsland vanaf 16.
+584,Leg kort uit: stemleeftijd.,"Even ordenen. Bondsdag vanaf 18, EU vanaf 16. Conclusie: Voor de Bondsdag vanaf 18 jaar. Bij EU-verkiezingen in Duitsland vanaf 16. Ja, dat past.",Voor de Bondsdag vanaf 18 jaar. Bij EU-verkiezingen in Duitsland vanaf 16.
+585,Wat weet je over stemleeftijd?,"Eerst rustig. Bondsdag vanaf 18, EU vanaf 16. Conclusie: Voor de Bondsdag vanaf 18 jaar. Bij EU-verkiezingen in Duitsland vanaf 16. Dat slaat ergens op.",Voor de Bondsdag vanaf 18 jaar. Bij EU-verkiezingen in Duitsland vanaf 16.
+586,"Hoe werkt een verkiezing, simpel?","Even ordenen. Kiezers stemmen, telling, zetels. Derhalve: Kiezers stemmen, stemmen worden geteld en zetels verdeeld naar uitslag. Daar ben ik zeker van.","Kiezers stemmen, stemmen worden geteld en zetels verdeeld naar uitslag."
+587,Leg kort uit: verkiezingen.,"Eerst rustig. Kiezers stemmen, telling, zetels. Derhalve: Kiezers stemmen, stemmen worden geteld en zetels verdeeld naar uitslag. Goed, verder.","Kiezers stemmen, stemmen worden geteld en zetels verdeeld naar uitslag."
+588,Wat weet je over verkiezingen?,"Moment, laat me denken. Kiezers stemmen, telling, zetels. Conclusie: Kiezers stemmen, stemmen worden geteld en zetels verdeeld naar uitslag. Logisch.","Kiezers stemmen, stemmen worden geteld en zetels verdeeld naar uitslag."
+589,Wat is het verschil tussen dictatuur en democratie?,"Eerst rustig. Eenmansmacht tegen volksmacht. Conclusie: In een dictatuur regeert één persoon of groep zonder vrije verkiezingen; in een democratie komt de macht van het volk. Oké, besloten.",In een dictatuur regeert één persoon of groep zonder vrije verkiezingen; in een democratie komt de macht van het volk.
+590,Leg kort uit: dictatuur en democratie.,"Moment, laat me denken. Eenmansmacht tegen volksmacht. Derhalve: In een dictatuur regeert één persoon of groep zonder vrije verkiezingen; in een democratie komt de macht van het volk. Ja, dat past.",In een dictatuur regeert één persoon of groep zonder vrije verkiezingen; in een democratie komt de macht van het volk.
+591,Wat weet je over dictatuur en democratie?,"Ik loop het na in mijn hoofd. Eenmansmacht tegen volksmacht. Conclusie: In een dictatuur regeert één persoon of groep zonder vrije verkiezingen; in een democratie komt de macht van het volk. Oké, besloten.",In een dictatuur regeert één persoon of groep zonder vrije verkiezingen; in een democratie komt de macht van het volk.
+592,Wat betekent duurzaamheid?,"Moment, laat me denken. Grondstoffen voor latere generaties. Conclusie: Duurzaamheid betekent leven zodat ook latere generaties genoeg grondstoffen hebben. Daar ben ik zeker van.",Duurzaamheid betekent leven zodat ook latere generaties genoeg grondstoffen hebben.
+593,Leg kort uit: duurzaamheid.,"Goede vraag, ik denk kort. Grondstoffen voor latere generaties. Conclusie: Duurzaamheid betekent leven zodat ook latere generaties genoeg grondstoffen hebben. Alles helder in mijn hoofd.",Duurzaamheid betekent leven zodat ook latere generaties genoeg grondstoffen hebben.
+594,Wat weet je over duurzaamheid?,"Ik loop het na in mijn hoofd. Grondstoffen voor latere generaties. Derhalve: Duurzaamheid betekent leven zodat ook latere generaties genoeg grondstoffen hebben. Goed, verder.",Duurzaamheid betekent leven zodat ook latere generaties genoeg grondstoffen hebben.
+595,Wat is pesten en wat kun je doen?,"Oké, stap voor stap. Herhaald; hulp, bewijs. Conclusie: Pesten is herhaald treiteren of buitensluiten. Praat met vertrouwde mensen, bewaar bewijs, zoek hulp. Dat slaat ergens op.","Pesten is herhaald treiteren of buitensluiten. Praat met vertrouwde mensen, bewaar bewijs, zoek hulp."
+596,Leg kort uit: pesten.,"Hmm, wat weet ik hierover? Herhaald; hulp, bewijs. Antwoord dus: Pesten is herhaald treiteren of buitensluiten. Praat met vertrouwde mensen, bewaar bewijs, zoek hulp. Logisch.","Pesten is herhaald treiteren of buitensluiten. Praat met vertrouwde mensen, bewaar bewijs, zoek hulp."
+597,Wat weet je over pesten?,"Eerst rustig. Herhaald; hulp, bewijs. Antwoord dus: Pesten is herhaald treiteren of buitensluiten. Praat met vertrouwde mensen, bewaar bewijs, zoek hulp. Oké, besloten.","Pesten is herhaald treiteren of buitensluiten. Praat met vertrouwde mensen, bewaar bewijs, zoek hulp."
+598,Wat betekent vrede?,"Goed, laten we denken. Samenleven zonder oorlog of geweld. Conclusie: Vrede betekent samenleven zonder oorlog of geweld. Oké, besloten.",Vrede betekent samenleven zonder oorlog of geweld.
+599,Leg kort uit: vrede.,Ik loop het na in mijn hoofd. Samenleven zonder oorlog of geweld. Conclusie: Vrede betekent samenleven zonder oorlog of geweld. Dat slaat ergens op.,Vrede betekent samenleven zonder oorlog of geweld.
+600,Wat weet je over vrede?,"Moment, laat me denken. Samenleven zonder oorlog of geweld. Conclusie: Vrede betekent samenleven zonder oorlog of geweld. Logisch.",Vrede betekent samenleven zonder oorlog of geweld.
+601,Wat betekent vrijheid?,Eerst rustig. Vrij leven zonder anderen te schaden. Conclusie: Vrijheid betekent vrij leven zonder anderen te schaden. Dat slaat ergens op.,Vrijheid betekent vrij leven zonder anderen te schaden.
+602,Leg kort uit: vrijheid.,"Hmm, wat weet ik hierover? Vrij leven zonder anderen te schaden. Conclusie: Vrijheid betekent vrij leven zonder anderen te schaden. Logisch.",Vrijheid betekent vrij leven zonder anderen te schaden.
+603,Wat weet je over vrijheid?,"Moment, laat me denken. Vrij leven zonder anderen te schaden. Conclusie: Vrijheid betekent vrij leven zonder anderen te schaden. Logisch.",Vrijheid betekent vrij leven zonder anderen te schaden.
+604,Wat betekent rechtvaardigheid?,"Oké, stap voor stap. Eerlijke en gelijke behandeling voor allen. Conclusie: Rechtvaardigheid betekent eerlijke en gelijke behandeling voor iedereen. Klaar met denken.",Rechtvaardigheid betekent eerlijke en gelijke behandeling voor iedereen.
+605,Leg kort uit: rechtvaardigheid.,"Oké, stap voor stap. Eerlijke en gelijke behandeling voor allen. Conclusie: Rechtvaardigheid betekent eerlijke en gelijke behandeling voor iedereen. Goed, verder.",Rechtvaardigheid betekent eerlijke en gelijke behandeling voor iedereen.
+606,Wat weet je over rechtvaardigheid?,Ik loop het na in mijn hoofd. Eerlijke en gelijke behandeling voor allen. Derhalve: Rechtvaardigheid betekent eerlijke en gelijke behandeling voor iedereen. Daar ben ik zeker van.,Rechtvaardigheid betekent eerlijke en gelijke behandeling voor iedereen.
+607,Waarom is de lucht blauw?,"Moment, laat me denken. Rayleigh-verstrooiing verstrooit blauw. Conclusie: De lucht is blauw door Rayleigh-verstrooiing: blauw licht wordt meer verstrooid dan rood. Logisch.",De lucht is blauw door Rayleigh-verstrooiing: blauw licht wordt meer verstrooid dan rood.
+608,Leg blauwe lucht uit in één zin.,Even ordenen. Rayleigh-verstrooiing verstrooit blauw. Derhalve: De lucht is blauw door Rayleigh-verstrooiing: blauw licht wordt meer verstrooid dan rood. Dat slaat ergens op.,De lucht is blauw door Rayleigh-verstrooiing: blauw licht wordt meer verstrooid dan rood.
+609,Wat is blauwe lucht? (kort),"Goede vraag, ik denk kort. Rayleigh-verstrooiing verstrooit blauw. Conclusie: De lucht is blauw door Rayleigh-verstrooiing: blauw licht wordt meer verstrooid dan rood. Oké, besloten.",De lucht is blauw door Rayleigh-verstrooiing: blauw licht wordt meer verstrooid dan rood.
+610,Hoe ontstaat regen?,"Hmm, wat weet ik hierover? Cyclus: verdamping, condensatie, neerslag. Conclusie: Regen ontstaat door verdamping: water stijgt, koelt af, vormt wolken en valt als druppels. Goed, verder.","Regen ontstaat door verdamping: water stijgt, koelt af, vormt wolken en valt als druppels."
+611,Leg regen uit in één zin.,"Goed, laten we denken. Cyclus: verdamping, condensatie, neerslag. Conclusie: Regen ontstaat door verdamping: water stijgt, koelt af, vormt wolken en valt als druppels. Goed, verder.","Regen ontstaat door verdamping: water stijgt, koelt af, vormt wolken en valt als druppels."
+612,Wat is regen? (kort),"Hmm, wat weet ik hierover? Cyclus: verdamping, condensatie, neerslag. Derhalve: Regen ontstaat door verdamping: water stijgt, koelt af, vormt wolken en valt als druppels. Klaar met denken.","Regen ontstaat door verdamping: water stijgt, koelt af, vormt wolken en valt als druppels."
+613,Wat is fotosynthese?,"Eerst rustig. Planten: licht, water, CO2 naar suiker en zuurstof. Conclusie: Fotosynthese maakt suiker en zuurstof van licht, water en CO2. Alles helder in mijn hoofd.","Fotosynthese maakt suiker en zuurstof van licht, water en CO2."
+614,Leg fotosynthese uit in één zin.,"Oké, stap voor stap. Planten: licht, water, CO2 naar suiker en zuurstof. Antwoord dus: Fotosynthese maakt suiker en zuurstof van licht, water en CO2. Oké, besloten.","Fotosynthese maakt suiker en zuurstof van licht, water en CO2."
+615,Wat is fotosynthese? (kort),"Ik loop het na in mijn hoofd. Planten: licht, water, CO2 naar suiker en zuurstof. Conclusie: Fotosynthese maakt suiker en zuurstof van licht, water en CO2. Daar ben ik zeker van.","Fotosynthese maakt suiker en zuurstof van licht, water en CO2."
+616,Wat is het verschil tussen weer en klimaat?,"Hmm, wat weet ik hierover? Weer kort, klimaat 30-jaar gemiddelde. Derhalve: Weer is de korte toestand; klimaat het gemiddelde van ongeveer 30 jaar. Ja, dat past.",Weer is de korte toestand; klimaat het gemiddelde van ongeveer 30 jaar.
+617,Leg weer en klimaat uit in één zin.,"Hmm, wat weet ik hierover? Weer kort, klimaat 30-jaar gemiddelde. Derhalve: Weer is de korte toestand; klimaat het gemiddelde van ongeveer 30 jaar. Alles helder in mijn hoofd.",Weer is de korte toestand; klimaat het gemiddelde van ongeveer 30 jaar.
+618,Wat is weer en klimaat? (kort),"Moment, laat me denken. Weer kort, klimaat 30-jaar gemiddelde. Derhalve: Weer is de korte toestand; klimaat het gemiddelde van ongeveer 30 jaar. Klaar met denken.",Weer is de korte toestand; klimaat het gemiddelde van ongeveer 30 jaar.
+619,"Hoe werkt een koelkast, grofweg?","Ik loop het na in mijn hoofd. Koelmiddel, warmte binnen naar buiten. Antwoord dus: Een koelkast pompt warmte van binnen naar buiten met koelmiddel: het verdampt binnen, neemt warmte op, geeft buiten af. Ja, dat past.","Een koelkast pompt warmte van binnen naar buiten met koelmiddel: het verdampt binnen, neemt warmte op, geeft buiten af."
+620,Leg koelkast uit in één zin.,"Even ordenen. Koelmiddel, warmte binnen naar buiten. Conclusie: Een koelkast pompt warmte van binnen naar buiten met koelmiddel: het verdampt binnen, neemt warmte op, geeft buiten af. Alles helder in mijn hoofd.","Een koelkast pompt warmte van binnen naar buiten met koelmiddel: het verdampt binnen, neemt warmte op, geeft buiten af."
+621,Wat is koelkast? (kort),"Ik loop het na in mijn hoofd. Koelmiddel, warmte binnen naar buiten. Conclusie: Een koelkast pompt warmte van binnen naar buiten met koelmiddel: het verdampt binnen, neemt warmte op, geeft buiten af. Oké, besloten.","Een koelkast pompt warmte van binnen naar buiten met koelmiddel: het verdampt binnen, neemt warmte op, geeft buiten af."
+622,"Wat is elektriciteit, simpel?","Goede vraag, ik denk kort. Gerichte beweging van elektronen. Antwoord dus: Elektriciteit is simpelweg de gerichte beweging van ladingen, meestal elektronen in een draad. Dat slaat ergens op.","Elektriciteit is simpelweg de gerichte beweging van ladingen, meestal elektronen in een draad."
+623,Leg elektriciteit uit in één zin.,"Oké, stap voor stap. Gerichte beweging van elektronen. Conclusie: Elektriciteit is simpelweg de gerichte beweging van ladingen, meestal elektronen in een draad. Oké, besloten.","Elektriciteit is simpelweg de gerichte beweging van ladingen, meestal elektronen in een draad."
+624,Wat is elektriciteit? (kort),"Ik loop het na in mijn hoofd. Gerichte beweging van elektronen. Antwoord dus: Elektriciteit is simpelweg de gerichte beweging van ladingen, meestal elektronen in een draad. Daar ben ik zeker van.","Elektriciteit is simpelweg de gerichte beweging van ladingen, meestal elektronen in een draad."
+625,"Wat is water, chemisch?","Goed, laten we denken. H2O, waterstof en zuurstof. Derhalve: Water is H2O, een verbinding van waterstof en zuurstof. Oké, besloten.","Water is H2O, een verbinding van waterstof en zuurstof."
+626,Leg water chemie uit in één zin.,"Even ordenen. H2O, waterstof en zuurstof. Conclusie: Water is H2O, een verbinding van waterstof en zuurstof. Logisch.","Water is H2O, een verbinding van waterstof en zuurstof."
+627,Wat is water chemie? (kort),"Hmm, wat weet ik hierover? H2O, waterstof en zuurstof. Derhalve: Water is H2O, een verbinding van waterstof en zuurstof. Dat slaat ergens op.","Water is H2O, een verbinding van waterstof en zuurstof."
+628,Wat is een virus?,"Ik loop het na in mijn hoofd. Minuscuul, gastheercel nodig. Conclusie: Een virus is een minuscule ziekteverwekker die zich niet vermenigvuldigt zonder gastheercel. Klaar met denken.",Een virus is een minuscule ziekteverwekker die zich niet vermenigvuldigt zonder gastheercel.
+629,Leg virus uit in één zin.,"Eerst rustig. Minuscuul, gastheercel nodig. Antwoord dus: Een virus is een minuscule ziekteverwekker die zich niet vermenigvuldigt zonder gastheercel. Logisch.",Een virus is een minuscule ziekteverwekker die zich niet vermenigvuldigt zonder gastheercel.
+630,Wat is virus? (kort),"Even ordenen. Minuscuul, gastheercel nodig. Derhalve: Een virus is een minuscule ziekteverwekker die zich niet vermenigvuldigt zonder gastheercel. Goed, verder.",Een virus is een minuscule ziekteverwekker die zich niet vermenigvuldigt zonder gastheercel.
+631,"Wat is kunstmatige intelligentie, simpel?","Moment, laat me denken. Programma's die patronen leren. Conclusie: Kunstmatige intelligentie zijn programma's die van data leren, patronen herkennen en taken oplossen. Klaar met denken.","Kunstmatige intelligentie zijn programma's die van data leren, patronen herkennen en taken oplossen."
+632,Leg AI uit in één zin.,"Goed, laten we denken. Programma's die patronen leren. Antwoord dus: Kunstmatige intelligentie zijn programma's die van data leren, patronen herkennen en taken oplossen. Logisch.","Kunstmatige intelligentie zijn programma's die van data leren, patronen herkennen en taken oplossen."
+633,Wat is AI? (kort),"Eerst rustig. Programma's die patronen leren. Conclusie: Kunstmatige intelligentie zijn programma's die van data leren, patronen herkennen en taken oplossen. Goed, verder.","Kunstmatige intelligentie zijn programma's die van data leren, patronen herkennen en taken oplossen."
+634,Wat is een browser?,"Eerst rustig. Programma voor websites, bv. Chrome, Firefox. Derhalve: Een browser is het programma waarmee je websites opent, bv. Chrome, Firefox, Edge of Safari. Daar ben ik zeker van.","Een browser is het programma waarmee je websites opent, bv. Chrome, Firefox, Edge of Safari."
+635,Leg browser uit in één zin.,"Goede vraag, ik denk kort. Programma voor websites, bv. Chrome, Firefox. Derhalve: Een browser is het programma waarmee je websites opent, bv. Chrome, Firefox, Edge of Safari. Ja, dat past.","Een browser is het programma waarmee je websites opent, bv. Chrome, Firefox, Edge of Safari."
+636,Wat is browser? (kort),"Ik loop het na in mijn hoofd. Programma voor websites, bv. Chrome, Firefox. Derhalve: Een browser is het programma waarmee je websites opent, bv. Chrome, Firefox, Edge of Safari. Klaar met denken.","Een browser is het programma waarmee je websites opent, bv. Chrome, Firefox, Edge of Safari."
+637,Wat is een app?,"Goed, laten we denken. Programma, meestal voor telefoons. Conclusie: Een app is een programma, meestal voor telefoons, bv. berichten, foto's of spelletjes. Ja, dat past.","Een app is een programma, meestal voor telefoons, bv. berichten, foto's of spelletjes."
+638,Leg app uit in één zin.,"Ik loop het na in mijn hoofd. Programma, meestal voor telefoons. Conclusie: Een app is een programma, meestal voor telefoons, bv. berichten, foto's of spelletjes. Alles helder in mijn hoofd.","Een app is een programma, meestal voor telefoons, bv. berichten, foto's of spelletjes."
+639,Wat is app? (kort),"Ik loop het na in mijn hoofd. Programma, meestal voor telefoons. Derhalve: Een app is een programma, meestal voor telefoons, bv. berichten, foto's of spelletjes. Alles helder in mijn hoofd.","Een app is een programma, meestal voor telefoons, bv. berichten, foto's of spelletjes."
+640,Waarom moet je water drinken?,"Goed, laten we denken. Bloedsomloop, focus, huid, nieren. Derhalve: Water houdt bloedsomloop en focus stabiel, helpt nieren en huid, voorkomt hoofdpijn. Daar ben ik zeker van.","Water houdt bloedsomloop en focus stabiel, helpt nieren en huid, voorkomt hoofdpijn."
+641,Leg water drinken uit in één zin.,"Goed, laten we denken. Bloedsomloop, focus, huid, nieren. Conclusie: Water houdt bloedsomloop en focus stabiel, helpt nieren en huid, voorkomt hoofdpijn. Ja, dat past.","Water houdt bloedsomloop en focus stabiel, helpt nieren en huid, voorkomt hoofdpijn."
+642,Wat is water drinken? (kort),"Moment, laat me denken. Bloedsomloop, focus, huid, nieren. Derhalve: Water houdt bloedsomloop en focus stabiel, helpt nieren en huid, voorkomt hoofdpijn. Goed, verder.","Water houdt bloedsomloop en focus stabiel, helpt nieren en huid, voorkomt hoofdpijn."
+643,Hoe lang moet je tanden poetsen?,"Goed, laten we denken. 2 minuten, twee keer per dag. Antwoord dus: Ongeveer 2 minuten, twee keer per dag. Logisch.","Ongeveer 2 minuten, twee keer per dag."
+644,Leg tanden poetsen uit in één zin.,"Moment, laat me denken. 2 minuten, twee keer per dag. Conclusie: Ongeveer 2 minuten, twee keer per dag. Goed, verder.","Ongeveer 2 minuten, twee keer per dag."
+645,Wat is tanden poetsen? (kort),"Even ordenen. 2 minuten, twee keer per dag. Antwoord dus: Ongeveer 2 minuten, twee keer per dag. Ja, dat past.","Ongeveer 2 minuten, twee keer per dag."
+646,Wat is zwaartekracht?,"Goed, laten we denken. Aantrekking tussen massa's; aarde trekt. Antwoord dus: Zwaartekracht is de aantrekking tussen massa's. De aarde trekt alles omlaag, dus dingen vallen. Klaar met denken.","Zwaartekracht is de aantrekking tussen massa's. De aarde trekt alles omlaag, dus dingen vallen."
+647,Leg zwaartekracht uit in één zin.,"Even ordenen. Aantrekking tussen massa's; aarde trekt. Antwoord dus: Zwaartekracht is de aantrekking tussen massa's. De aarde trekt alles omlaag, dus dingen vallen. Logisch.","Zwaartekracht is de aantrekking tussen massa's. De aarde trekt alles omlaag, dus dingen vallen."
+648,Wat is zwaartekracht? (kort),"Even ordenen. Aantrekking tussen massa's; aarde trekt. Derhalve: Zwaartekracht is de aantrekking tussen massa's. De aarde trekt alles omlaag, dus dingen vallen. Klaar met denken.","Zwaartekracht is de aantrekking tussen massa's. De aarde trekt alles omlaag, dus dingen vallen."
+649,Wat is lucht?,"Even ordenen. Mix van stikstof, zuurstof en meer. Derhalve: Lucht is een gasmix, vooral stikstof en zuurstof. Logisch.","Lucht is een gasmix, vooral stikstof en zuurstof."
+650,Leg lucht uit in één zin.,"Moment, laat me denken. Mix van stikstof, zuurstof en meer. Derhalve: Lucht is een gasmix, vooral stikstof en zuurstof. Goed, verder.","Lucht is een gasmix, vooral stikstof en zuurstof."
+651,Wat is lucht? (kort),"Goed, laten we denken. Mix van stikstof, zuurstof en meer. Derhalve: Lucht is een gasmix, vooral stikstof en zuurstof. Dat slaat ergens op.","Lucht is een gasmix, vooral stikstof en zuurstof."
+652,Wat doet het hart?,"Ik loop het na in mijn hoofd. Pompt bloed door het lichaam. Antwoord dus: Het hart pompt bloed door het hele lichaam. Oké, besloten.",Het hart pompt bloed door het hele lichaam.
+653,Leg hart uit in één zin.,Ik loop het na in mijn hoofd. Pompt bloed door het lichaam. Conclusie: Het hart pompt bloed door het hele lichaam. Dat slaat ergens op.,Het hart pompt bloed door het hele lichaam.
+654,Wat is hart? (kort),"Even ordenen. Pompt bloed door het lichaam. Conclusie: Het hart pompt bloed door het hele lichaam. Oké, besloten.",Het hart pompt bloed door het hele lichaam.
+655,Wat doen de longen?,"Oké, stap voor stap. Nemen zuurstof op, geven CO2 af. Conclusie: De longen nemen zuurstof op en geven kooldioxide af. Alles helder in mijn hoofd.",De longen nemen zuurstof op en geven kooldioxide af.
+656,Leg longen uit in één zin.,"Goed, laten we denken. Nemen zuurstof op, geven CO2 af. Antwoord dus: De longen nemen zuurstof op en geven kooldioxide af. Dat slaat ergens op.",De longen nemen zuurstof op en geven kooldioxide af.
+657,Wat is longen? (kort),"Goed, laten we denken. Nemen zuurstof op, geven CO2 af. Derhalve: De longen nemen zuurstof op en geven kooldioxide af. Dat slaat ergens op.",De longen nemen zuurstof op en geven kooldioxide af.
+658,Waarom is slaap belangrijk?,"Moment, laat me denken. Herstel, geheugen, immuniteit. Antwoord dus: Slaap helpt herstel, geheugen en immuunsysteem. Alles helder in mijn hoofd.","Slaap helpt herstel, geheugen en immuunsysteem."
+659,Leg slaap uit in één zin.,"Ik loop het na in mijn hoofd. Herstel, geheugen, immuniteit. Antwoord dus: Slaap helpt herstel, geheugen en immuunsysteem. Oké, besloten.","Slaap helpt herstel, geheugen en immuunsysteem."
+660,Wat is slaap? (kort),"Eerst rustig. Herstel, geheugen, immuniteit. Derhalve: Slaap helpt herstel, geheugen en immuunsysteem. Ja, dat past.","Slaap helpt herstel, geheugen en immuunsysteem."
+661,Wat is koorts?,"Hmm, wat weet ik hierover? Verhoogde temperatuur als afweer. Conclusie: Koorts is verhoogde lichaamstemperatuur, vaak afweer tegen infecties. Ja, dat past.","Koorts is verhoogde lichaamstemperatuur, vaak afweer tegen infecties."
+662,Leg koorts uit in één zin.,"Ik loop het na in mijn hoofd. Verhoogde temperatuur als afweer. Derhalve: Koorts is verhoogde lichaamstemperatuur, vaak afweer tegen infecties. Goed, verder.","Koorts is verhoogde lichaamstemperatuur, vaak afweer tegen infecties."
+663,Wat is koorts? (kort),"Goed, laten we denken. Verhoogde temperatuur als afweer. Derhalve: Koorts is verhoogde lichaamstemperatuur, vaak afweer tegen infecties. Logisch.","Koorts is verhoogde lichaamstemperatuur, vaak afweer tegen infecties."
+664,Wat is een sterk wachtwoord?,"Ik loop het na in mijn hoofd. Lang, uniek, in een manager. Derhalve: Een sterk wachtwoord is lang, uniek per dienst en bewaard in een manager. Klaar met denken.","Een sterk wachtwoord is lang, uniek per dienst en bewaard in een manager."
+665,Leg sterk wachtwoord uit in één zin.,"Goede vraag, ik denk kort. Lang, uniek, in een manager. Conclusie: Een sterk wachtwoord is lang, uniek per dienst en bewaard in een manager. Dat slaat ergens op.","Een sterk wachtwoord is lang, uniek per dienst en bewaard in een manager."
+666,Wat is sterk wachtwoord? (kort),"Ik loop het na in mijn hoofd. Lang, uniek, in een manager. Antwoord dus: Een sterk wachtwoord is lang, uniek per dienst en bewaard in een manager. Alles helder in mijn hoofd.","Een sterk wachtwoord is lang, uniek per dienst en bewaard in een manager."
+667,Wat is Wi-Fi?,"Goed, laten we denken. Draadloos lokaal netwerk. Derhalve: Wi-Fi is een draadloos lokaal netwerk voor internet zonder kabels. Daar ben ik zeker van.",Wi-Fi is een draadloos lokaal netwerk voor internet zonder kabels.
+668,Leg Wi-Fi uit in één zin.,"Goed, laten we denken. Draadloos lokaal netwerk. Conclusie: Wi-Fi is een draadloos lokaal netwerk voor internet zonder kabels. Logisch.",Wi-Fi is een draadloos lokaal netwerk voor internet zonder kabels.
+669,Wat is Wi-Fi? (kort),"Goede vraag, ik denk kort. Draadloos lokaal netwerk. Derhalve: Wi-Fi is een draadloos lokaal netwerk voor internet zonder kabels. Ja, dat past.",Wi-Fi is een draadloos lokaal netwerk voor internet zonder kabels.
+670,Wat is de cloud?,Ik loop het na in mijn hoofd. Servers op internet voor opslag en diensten. Antwoord dus: De cloud zijn servers op internet waar je data opslaat en diensten gebruikt. Klaar met denken.,De cloud zijn servers op internet waar je data opslaat en diensten gebruikt.
+671,Leg cloud uit in één zin.,"Goede vraag, ik denk kort. Servers op internet voor opslag en diensten. Derhalve: De cloud zijn servers op internet waar je data opslaat en diensten gebruikt. Alles helder in mijn hoofd.",De cloud zijn servers op internet waar je data opslaat en diensten gebruikt.
+672,Wat is cloud? (kort),Ik loop het na in mijn hoofd. Servers op internet voor opslag en diensten. Conclusie: De cloud zijn servers op internet waar je data opslaat en diensten gebruikt. Daar ben ik zeker van.,De cloud zijn servers op internet waar je data opslaat en diensten gebruikt.
+673,Hoe werkt GPS?,"Hmm, wat weet ik hierover? Satellieten, signaaltijd, berekening. Antwoord dus: GPS vindt de positie via signalen van satellieten en hun reistijd. Logisch.",GPS vindt de positie via signalen van satellieten en hun reistijd.
+674,Leg GPS uit in één zin.,"Even ordenen. Satellieten, signaaltijd, berekening. Conclusie: GPS vindt de positie via signalen van satellieten en hun reistijd. Alles helder in mijn hoofd.",GPS vindt de positie via signalen van satellieten en hun reistijd.
+675,Wat is GPS? (kort),"Oké, stap voor stap. Satellieten, signaaltijd, berekening. Conclusie: GPS vindt de positie via signalen van satellieten en hun reistijd. Dat slaat ergens op.",GPS vindt de positie via signalen van satellieten en hun reistijd.
+676,Waarom zijn er dag en nacht?,"Hmm, wat weet ik hierover? Rotatie van de aarde. Conclusie: Dag en nacht bestaan omdat de aarde draait. De zonkant heeft dag, de andere nacht. Dat slaat ergens op.","Dag en nacht bestaan omdat de aarde draait. De zonkant heeft dag, de andere nacht."
+677,Leg dag en nacht uit in één zin.,"Even ordenen. Rotatie van de aarde. Antwoord dus: Dag en nacht bestaan omdat de aarde draait. De zonkant heeft dag, de andere nacht. Logisch.","Dag en nacht bestaan omdat de aarde draait. De zonkant heeft dag, de andere nacht."
+678,Wat is dag en nacht? (kort),"Hmm, wat weet ik hierover? Rotatie van de aarde. Derhalve: Dag en nacht bestaan omdat de aarde draait. De zonkant heeft dag, de andere nacht. Klaar met denken.","Dag en nacht bestaan omdat de aarde draait. De zonkant heeft dag, de andere nacht."
+679,Waarom zijn er seizoenen?,"Goede vraag, ik denk kort. Kanteling van de aardas. Antwoord dus: Seizoenen komen door de kanteling van de as: elk halfrond kantelt om beurten naar de zon. Klaar met denken.",Seizoenen komen door de kanteling van de as: elk halfrond kantelt om beurten naar de zon.
+680,Leg seizoenen uit in één zin.,Eerst rustig. Kanteling van de aardas. Derhalve: Seizoenen komen door de kanteling van de as: elk halfrond kantelt om beurten naar de zon. Daar ben ik zeker van.,Seizoenen komen door de kanteling van de as: elk halfrond kantelt om beurten naar de zon.
+681,Wat is seizoenen? (kort),Even ordenen. Kanteling van de aardas. Antwoord dus: Seizoenen komen door de kanteling van de as: elk halfrond kantelt om beurten naar de zon. Daar ben ik zeker van.,Seizoenen komen door de kanteling van de as: elk halfrond kantelt om beurten naar de zon.
+682,Waarom schijnt de maan?,"Goed, laten we denken. Weerkaatst de zon. Antwoord dus: De maan schijnt omdat hij zonlicht weerkaatst. Logisch.",De maan schijnt omdat hij zonlicht weerkaatst.
+683,Leg heldere maan uit in één zin.,"Oké, stap voor stap. Weerkaatst de zon. Derhalve: De maan schijnt omdat hij zonlicht weerkaatst. Dat slaat ergens op.",De maan schijnt omdat hij zonlicht weerkaatst.
+684,Wat is heldere maan? (kort),"Goed, laten we denken. Weerkaatst de zon. Antwoord dus: De maan schijnt omdat hij zonlicht weerkaatst. Goed, verder.",De maan schijnt omdat hij zonlicht weerkaatst.
+685,Wat is de zon?,"Goede vraag, ik denk kort. Een ster van heet gas. Antwoord dus: De zon is een ster van heet gas die licht en warmte geeft. Klaar met denken.",De zon is een ster van heet gas die licht en warmte geeft.
+686,Leg zon uit in één zin.,Even ordenen. Een ster van heet gas. Conclusie: De zon is een ster van heet gas die licht en warmte geeft. Klaar met denken.,De zon is een ster van heet gas die licht en warmte geeft.
+687,Wat is zon? (kort),"Hmm, wat weet ik hierover? Een ster van heet gas. Conclusie: De zon is een ster van heet gas die licht en warmte geeft. Alles helder in mijn hoofd.",De zon is een ster van heet gas die licht en warmte geeft.
+688,Hoeveel planeten heeft ons zonnestelsel?,"Goede vraag, ik denk kort. 8 planeten. Conclusie: Ons zonnestelsel heeft 8 planeten: Mercurius, Venus, Aarde, Mars, Jupiter, Saturnus, Uranus, Neptunus. Dat slaat ergens op.","Ons zonnestelsel heeft 8 planeten: Mercurius, Venus, Aarde, Mars, Jupiter, Saturnus, Uranus, Neptunus."
+689,Leg planeten uit in één zin.,"Eerst rustig. 8 planeten. Antwoord dus: Ons zonnestelsel heeft 8 planeten: Mercurius, Venus, Aarde, Mars, Jupiter, Saturnus, Uranus, Neptunus. Daar ben ik zeker van.","Ons zonnestelsel heeft 8 planeten: Mercurius, Venus, Aarde, Mars, Jupiter, Saturnus, Uranus, Neptunus."
+690,Wat is planeten? (kort),"Goede vraag, ik denk kort. 8 planeten. Derhalve: Ons zonnestelsel heeft 8 planeten: Mercurius, Venus, Aarde, Mars, Jupiter, Saturnus, Uranus, Neptunus. Dat slaat ergens op.","Ons zonnestelsel heeft 8 planeten: Mercurius, Venus, Aarde, Mars, Jupiter, Saturnus, Uranus, Neptunus."
+691,Wat is een atoom?,"Even ordenen. Kleinste eenheid: kern plus elektronen. Conclusie: Een atoom is de kleinste eenheid van materie, gemaakt van kern en elektronen. Goed, verder.","Een atoom is de kleinste eenheid van materie, gemaakt van kern en elektronen."
+692,Leg atoom uit in één zin.,"Moment, laat me denken. Kleinste eenheid: kern plus elektronen. Conclusie: Een atoom is de kleinste eenheid van materie, gemaakt van kern en elektronen. Logisch.","Een atoom is de kleinste eenheid van materie, gemaakt van kern en elektronen."
+693,Wat is atoom? (kort),"Goede vraag, ik denk kort. Kleinste eenheid: kern plus elektronen. Conclusie: Een atoom is de kleinste eenheid van materie, gemaakt van kern en elektronen. Oké, besloten.","Een atoom is de kleinste eenheid van materie, gemaakt van kern en elektronen."
+694,Wat is recycling?,"Oké, stap voor stap. Afval verzamelen, nieuwe producten maken. Derhalve: Recycling verzamelt afval om er nieuwe producten van te maken. Daar ben ik zeker van.",Recycling verzamelt afval om er nieuwe producten van te maken.
+695,Leg recycling uit in één zin.,"Ik loop het na in mijn hoofd. Afval verzamelen, nieuwe producten maken. Conclusie: Recycling verzamelt afval om er nieuwe producten van te maken. Dat slaat ergens op.",Recycling verzamelt afval om er nieuwe producten van te maken.
+696,Wat is recycling? (kort),"Oké, stap voor stap. Afval verzamelen, nieuwe producten maken. Antwoord dus: Recycling verzamelt afval om er nieuwe producten van te maken. Logisch.",Recycling verzamelt afval om er nieuwe producten van te maken.
+697,Wat is het broeikaseffect?,"Hmm, wat weet ik hierover? Gassen houden warmte vast. Conclusie: Het broeikaseffect houdt warmte vast. Te veel broeikasgassen verwarmen het klimaat. Dat slaat ergens op.",Het broeikaseffect houdt warmte vast. Te veel broeikasgassen verwarmen het klimaat.
+698,Leg broeikaseffect uit in één zin.,"Goed, laten we denken. Gassen houden warmte vast. Conclusie: Het broeikaseffect houdt warmte vast. Te veel broeikasgassen verwarmen het klimaat. Goed, verder.",Het broeikaseffect houdt warmte vast. Te veel broeikasgassen verwarmen het klimaat.
+699,Wat is broeikaseffect? (kort),Ik loop het na in mijn hoofd. Gassen houden warmte vast. Antwoord dus: Het broeikaseffect houdt warmte vast. Te veel broeikasgassen verwarmen het klimaat. Dat slaat ergens op.,Het broeikaseffect houdt warmte vast. Te veel broeikasgassen verwarmen het klimaat.
+700,Waarom zijn bijen belangrijk?,"Goed, laten we denken. Bestuiving, oogsten. Derhalve: Bijen bestuiven planten en sichern oogsten en biodiversiteit. Daar ben ik zeker van.",Bijen bestuiven planten en sichern oogsten en biodiversiteit.
+701,Leg bijen uit in één zin.,"Ik loop het na in mijn hoofd. Bestuiving, oogsten. Conclusie: Bijen bestuiven planten en sichern oogsten en biodiversiteit. Oké, besloten.",Bijen bestuiven planten en sichern oogsten en biodiversiteit.
+702,Wat is bijen? (kort),"Goed, laten we denken. Bestuiving, oogsten. Conclusie: Bijen bestuiven planten en sichern oogsten en biodiversiteit. Oké, besloten.",Bijen bestuiven planten en sichern oogsten en biodiversiteit.
+703,Waarom zijn bladeren groen?,"Even ordenen. Pigment chlorofyl. Antwoord dus: Bladeren zijn groen door chlorofyl, het pigment voor fotosynthese. Dat slaat ergens op.","Bladeren zijn groen door chlorofyl, het pigment voor fotosynthese."
+704,Leg groene bladeren uit in één zin.,"Ik loop het na in mijn hoofd. Pigment chlorofyl. Conclusie: Bladeren zijn groen door chlorofyl, het pigment voor fotosynthese. Dat slaat ergens op.","Bladeren zijn groen door chlorofyl, het pigment voor fotosynthese."
+705,Wat is groene bladeren? (kort),"Even ordenen. Pigment chlorofyl. Antwoord dus: Bladeren zijn groen door chlorofyl, het pigment voor fotosynthese. Goed, verder.","Bladeren zijn groen door chlorofyl, het pigment voor fotosynthese."
+706,Wat is een zoogdier?,"Eerst rustig. Vacht, levend baren, melk. Derhalve: Zoogdieren hebben vacht, baren levende jongen en zogen met melk. Dat slaat ergens op.","Zoogdieren hebben vacht, baren levende jongen en zogen met melk."
+707,Leg zoogdieren uit in één zin.,"Oké, stap voor stap. Vacht, levend baren, melk. Derhalve: Zoogdieren hebben vacht, baren levende jongen en zogen met melk. Oké, besloten.","Zoogdieren hebben vacht, baren levende jongen en zogen met melk."
+708,Wat is zoogdieren? (kort),"Goed, laten we denken. Vacht, levend baren, melk. Antwoord dus: Zoogdieren hebben vacht, baren levende jongen en zogen met melk. Goed, verder.","Zoogdieren hebben vacht, baren levende jongen en zogen met melk."
+709,Hoe werkt een batterij?,"Goed, laten we denken. Chemische energie naar elektrisch. Conclusie: Een batterij zet chemische energie om in elektrische energie. Goed, verder.",Een batterij zet chemische energie om in elektrische energie.
+710,Leg batterijen uit in één zin.,"Hmm, wat weet ik hierover? Chemische energie naar elektrisch. Derhalve: Een batterij zet chemische energie om in elektrische energie. Dat slaat ergens op.",Een batterij zet chemische energie om in elektrische energie.
+711,Wat is batterijen? (kort),Ik loop het na in mijn hoofd. Chemische energie naar elektrisch. Derhalve: Een batterij zet chemische energie om in elektrische energie. Daar ben ik zeker van.,Een batterij zet chemische energie om in elektrische energie.
+712,Hoe werkt zonnestroom?,"Eerst rustig. Cellen: licht naar stroom. Derhalve: Zonnecellen zetten licht direct om in stroom. Goed, verder.",Zonnecellen zetten licht direct om in stroom.
+713,Leg zonnestroom uit in één zin.,"Goede vraag, ik denk kort. Cellen: licht naar stroom. Derhalve: Zonnecellen zetten licht direct om in stroom. Logisch.",Zonnecellen zetten licht direct om in stroom.
+714,Wat is zonnestroom? (kort),"Even ordenen. Cellen: licht naar stroom. Antwoord dus: Zonnecellen zetten licht direct om in stroom. Oké, besloten.",Zonnecellen zetten licht direct om in stroom.
+715,Wat is een computervirus?,"Goede vraag, ik denk kort. Schadelijk programma dat zich verspreidt. Antwoord dus: Een computervirus is een schadelijk programma dat zich verspreidt en schade aanricht. Bescherm met updates en zorg. Daar ben ik zeker van.",Een computervirus is een schadelijk programma dat zich verspreidt en schade aanricht. Bescherm met updates en zorg.
+716,Leg computervirus uit in één zin.,Eerst rustig. Schadelijk programma dat zich verspreidt. Conclusie: Een computervirus is een schadelijk programma dat zich verspreidt en schade aanricht. Bescherm met updates en zorg. Daar ben ik zeker van.,Een computervirus is een schadelijk programma dat zich verspreidt en schade aanricht. Bescherm met updates en zorg.
+717,Wat is computervirus? (kort),"Goed, laten we denken. Schadelijk programma dat zich verspreidt. Antwoord dus: Een computervirus is een schadelijk programma dat zich verspreidt en schade aanricht. Bescherm met updates en zorg. Goed, verder.",Een computervirus is een schadelijk programma dat zich verspreidt en schade aanricht. Bescherm met updates en zorg.
+718,Waarom is plastic een probleem?,"Goede vraag, ik denk kort. Blijvend afval, microplastics. Conclusie: Plastic vergaat amper, vervuilt natuur en zeeën, wordt microplastics. Ja, dat past.","Plastic vergaat amper, vervuilt natuur en zeeën, wordt microplastics."
+719,Leg plastic uit in één zin.,"Ik loop het na in mijn hoofd. Blijvend afval, microplastics. Conclusie: Plastic vergaat amper, vervuilt natuur en zeeën, wordt microplastics. Klaar met denken.","Plastic vergaat amper, vervuilt natuur en zeeën, wordt microplastics."
+720,Wat is plastic? (kort),"Hmm, wat weet ik hierover? Blijvend afval, microplastics. Antwoord dus: Plastic vergaat amper, vervuilt natuur en zeeën, wordt microplastics. Logisch.","Plastic vergaat amper, vervuilt natuur en zeeën, wordt microplastics."
+721,Wat is een aardbeving?,"Hmm, wat weet ik hierover? Platen bewegen, energie vrij. Antwoord dus: Een aardbeving ontstaat als platen plots bewegen en energie vrijkomt. Goed, verder.",Een aardbeving ontstaat als platen plots bewegen en energie vrijkomt.
+722,Leg aardbeving uit in één zin.,"Goede vraag, ik denk kort. Platen bewegen, energie vrij. Derhalve: Een aardbeving ontstaat als platen plots bewegen en energie vrijkomt. Oké, besloten.",Een aardbeving ontstaat als platen plots bewegen en energie vrijkomt.
+723,Wat is aardbeving? (kort),"Hmm, wat weet ik hierover? Platen bewegen, energie vrij. Antwoord dus: Een aardbeving ontstaat als platen plots bewegen en energie vrijkomt. Dat slaat ergens op.",Een aardbeving ontstaat als platen plots bewegen en energie vrijkomt.
+724,Wat is honing?,"Moment, laat me denken. Bijen van nectar. Antwoord dus: Honing wordt door bijen gemaakt van bloemennectar. Dat slaat ergens op.",Honing wordt door bijen gemaakt van bloemennectar.
+725,Leg honing uit in één zin.,"Goede vraag, ik denk kort. Bijen van nectar. Derhalve: Honing wordt door bijen gemaakt van bloemennectar. Daar ben ik zeker van.",Honing wordt door bijen gemaakt van bloemennectar.
+726,Wat is honing? (kort),Eerst rustig. Bijen van nectar. Conclusie: Honing wordt door bijen gemaakt van bloemennectar. Dat slaat ergens op.,Honing wordt door bijen gemaakt van bloemennectar.
+727,Hoeveel is 25 keer 4?,"Goed, laten we denken. Bereken: 25*4=100. Controle: 25 keer 4 is 100. Juist. Ja, dat past.",25 keer 4 is 100.
+728,Hoeveel is 12 procent van 200?,"Moment, laat me denken. Procent: 200*0,12=24. Controle: 12 procent van 200 is 24. Juist. Klaar met denken.",12 procent van 200 is 24.
+729,Hoeveel is 7 keer 8 plus 10?,"Even ordenen. Volgorde: 7*8=56 +10=66. Controle: Dat is 66. Juist. Ja, dat past.",Dat is 66.
+730,Een trein vertrekt om 14:30 en rijdt 2u15. Wanneer komt hij aan?,Eerst rustig. Optellen: 14:30 + 2:15 = 16:45. Controle: Hij komt aan om 16:45. Juist. Logisch.,Hij komt aan om 16:45.
+731,Ik heb 3 appels en eet er 1. Hoeveel blijven er?,"Moment, laat me denken. Aftrekken: 3-1=2. Narekenen: Er blijven 2 appels. Past. Daar ben ik zeker van.",Er blijven 2 appels.
+732,Ik ga om 22u slapen en sta om 6u op. Hoe lang slaap ik?,"Oké, stap voor stap. Duur: 22-6 = 8 uur. Check: Je slaapt 8 uur. Klopt. Ja, dat past.",Je slaapt 8 uur.
+733,Verdeel 100 euro eerlijk over 4 personen.,Eerst rustig. Delen: 100/4=25. Narekenen: Iedereen krijgt 25 euro. Past. Logisch.,Iedereen krijgt 25 euro.
+734,Hoeveel minuten zijn 2 uur?,"Moment, laat me denken. Omrekenen: 2*60=120. Controle: 2 uur zijn 120 minuten. Juist. Dat slaat ergens op.",2 uur zijn 120 minuten.
+735,Hoeveel dagen heeft een jaar?,"Eerst rustig. Feit: 365, schrikkeljaar 366. Antwoord dus: Een jaar heeft 365 dagen, een schrikkeljaar 366. Ja, dat past.","Een jaar heeft 365 dagen, een schrikkeljaar 366."
+736,Hoeveel seconden heeft een minuut?,"Goed, laten we denken. Feit: 60. Antwoord dus: Een minuut heeft 60 seconden. Logisch.",Een minuut heeft 60 seconden.
+737,Hoeveel is 47 plus 47?,Eerst rustig. Optellen: 47+47=94. Check: 47 plus 47 is 94. Klopt. Alles helder in mijn hoofd.,47 plus 47 is 94.
+738,Hoeveel is 30 min 20?,"Even ordenen. Aftrekken: 30-20=10. Check: 30 min 20 is 10. Klopt. Ja, dat past.",30 min 20 is 10.
+739,Hoeveel is 2 keer 12?,"Moment, laat me denken. Vermenigvuldigen: 2*12=24. Check: 2 keer 12 is 24. Klopt. Daar ben ik zeker van.",2 keer 12 is 24.
+740,Hoeveel is 96 gedeeld door 12?,"Goed, laten we denken. Delen: 96/12=8. Controle: 96 gedeeld door 12 is 8. Juist. Ja, dat past.",96 gedeeld door 12 is 8.
+741,Hoeveel is 5 procent van 200?,Ik loop het na in mijn hoofd. Procent: 200*5/100=10. Narekenen: 5 procent van 200 is 10. Past. Logisch.,5 procent van 200 is 10.
+742,Hoeveel is 17 plus 32?,"Hmm, wat weet ik hierover? Optellen: 17+32=49. Controle: 17 plus 32 is 49. Juist. Goed, verder.",17 plus 32 is 49.
+743,Hoeveel is 78 min 55?,"Even ordenen. Aftrekken: 78-55=23. Check: 78 min 55 is 23. Klopt. Oké, besloten.",78 min 55 is 23.
+744,Hoeveel is 7 keer 7?,"Moment, laat me denken. Vermenigvuldigen: 7*7=49. Check: 7 keer 7 is 49. Klopt. Goed, verder.",7 keer 7 is 49.
+745,Hoeveel is 39 gedeeld door 3?,"Moment, laat me denken. Delen: 39/3=13. Check: 39 gedeeld door 3 is 13. Klopt. Daar ben ik zeker van.",39 gedeeld door 3 is 13.
+746,Hoeveel is 15 procent van 400?,"Hmm, wat weet ik hierover? Procent: 400*15/100=60. Controle: 15 procent van 400 is 60. Juist. Ja, dat past.",15 procent van 400 is 60.
+747,Hoeveel is 58 plus 9?,"Oké, stap voor stap. Optellen: 58+9=67. Check: 58 plus 9 is 67. Klopt. Ja, dat past.",58 plus 9 is 67.
+748,Hoeveel is 62 min 48?,"Oké, stap voor stap. Aftrekken: 62-48=14. Controle: 62 min 48 is 14. Juist. Logisch.",62 min 48 is 14.
+749,Hoeveel is 4 keer 5?,"Hmm, wat weet ik hierover? Vermenigvuldigen: 4*5=20. Check: 4 keer 5 is 20. Klopt. Dat slaat ergens op.",4 keer 5 is 20.
+750,Hoeveel is 209 gedeeld door 11?,"Even ordenen. Delen: 209/11=19. Narekenen: 209 gedeeld door 11 is 19. Past. Ja, dat past.",209 gedeeld door 11 is 19.
+751,Hoeveel is 25 procent van 500?,"Hmm, wat weet ik hierover? Procent: 500*25/100=125. Check: 25 procent van 500 is 125. Klopt. Alles helder in mijn hoofd.",25 procent van 500 is 125.
+752,Hoeveel is 6 plus 37?,"Moment, laat me denken. Optellen: 6+37=43. Check: 6 plus 37 is 43. Klopt. Ja, dat past.",6 plus 37 is 43.
+753,Hoeveel is 38 min 12?,Ik loop het na in mijn hoofd. Aftrekken: 38-12=26. Check: 38 min 12 is 26. Klopt. Klaar met denken.,38 min 12 is 26.
+754,Hoeveel is 7 keer 11?,"Goed, laten we denken. Vermenigvuldigen: 7*11=77. Narekenen: 7 keer 11 is 77. Past. Oké, besloten.",7 keer 11 is 77.
+755,Hoeveel is 20 gedeeld door 4?,"Moment, laat me denken. Delen: 20/4=5. Controle: 20 gedeeld door 4 is 5. Juist. Oké, besloten.",20 gedeeld door 4 is 5.
+756,Hoeveel is 5 procent van 300?,"Goed, laten we denken. Procent: 300*5/100=15. Narekenen: 5 procent van 300 is 15. Past. Klaar met denken.",5 procent van 300 is 15.
+757,Hoeveel is 45 plus 59?,"Oké, stap voor stap. Optellen: 45+59=104. Narekenen: 45 plus 59 is 104. Past. Ja, dat past.",45 plus 59 is 104.
+758,Hoeveel is 51 min 17?,Even ordenen. Aftrekken: 51-17=34. Controle: 51 min 17 is 34. Juist. Daar ben ik zeker van.,51 min 17 is 34.
+759,Hoeveel is 11 keer 7?,"Oké, stap voor stap. Vermenigvuldigen: 11*7=77. Controle: 11 keer 7 is 77. Juist. Klaar met denken.",11 keer 7 is 77.
+760,Hoeveel is 28 gedeeld door 4?,"Eerst rustig. Delen: 28/4=7. Narekenen: 28 gedeeld door 4 is 7. Past. Goed, verder.",28 gedeeld door 4 is 7.
+761,Hoeveel is 53 plus 6?,"Moment, laat me denken. Optellen: 53+6=59. Controle: 53 plus 6 is 59. Juist. Oké, besloten.",53 plus 6 is 59.
+762,Hoeveel is 63 min 4?,Eerst rustig. Aftrekken: 63-4=59. Controle: 63 min 4 is 59. Juist. Dat slaat ergens op.,63 min 4 is 59.
+763,Hoeveel is 8 keer 4?,Even ordenen. Vermenigvuldigen: 8*4=32. Check: 8 keer 4 is 32. Klopt. Alles helder in mijn hoofd.,8 keer 4 is 32.
+764,Hoeveel is 72 gedeeld door 12?,"Goede vraag, ik denk kort. Delen: 72/12=6. Check: 72 gedeeld door 12 is 6. Klopt. Oké, besloten.",72 gedeeld door 12 is 6.
+765,Hoeveel is 15 procent van 1000?,"Even ordenen. Procent: 1000*15/100=150. Narekenen: 15 procent van 1000 is 150. Past. Goed, verder.",15 procent van 1000 is 150.
+766,Hoeveel is 56 plus 49?,"Goed, laten we denken. Optellen: 56+49=105. Narekenen: 56 plus 49 is 105. Past. Oké, besloten.",56 plus 49 is 105.
+767,Hoeveel is 53 min 41?,Eerst rustig. Aftrekken: 53-41=12. Narekenen: 53 min 41 is 12. Past. Dat slaat ergens op.,53 min 41 is 12.
+768,Hoeveel is 11 keer 12?,Ik loop het na in mijn hoofd. Vermenigvuldigen: 11*12=132. Narekenen: 11 keer 12 is 132. Past. Dat slaat ergens op.,11 keer 12 is 132.
+769,Hoeveel is 14 gedeeld door 2?,"Goed, laten we denken. Delen: 14/2=7. Check: 14 gedeeld door 2 is 7. Klopt. Daar ben ik zeker van.",14 gedeeld door 2 is 7.
+770,Hoeveel is 10 procent van 400?,"Even ordenen. Procent: 400*10/100=40. Narekenen: 10 procent van 400 is 40. Past. Ja, dat past.",10 procent van 400 is 40.
+771,Hoeveel is 31 plus 4?,"Goed, laten we denken. Optellen: 31+4=35. Check: 31 plus 4 is 35. Klopt. Oké, besloten.",31 plus 4 is 35.
+772,Hoeveel is 23 min 18?,"Hmm, wat weet ik hierover? Aftrekken: 23-18=5. Narekenen: 23 min 18 is 5. Past. Logisch.",23 min 18 is 5.
+773,Hoeveel is 8 keer 3?,Even ordenen. Vermenigvuldigen: 8*3=24. Check: 8 keer 3 is 24. Klopt. Logisch.,8 keer 3 is 24.
+774,Hoeveel is 154 gedeeld door 11?,"Goed, laten we denken. Delen: 154/11=14. Check: 154 gedeeld door 11 is 14. Klopt. Logisch.",154 gedeeld door 11 is 14.
+775,Hoeveel is 10 procent van 300?,"Goed, laten we denken. Procent: 300*10/100=30. Narekenen: 10 procent van 300 is 30. Past. Klaar met denken.",10 procent van 300 is 30.
+776,Hoeveel is 35 plus 10?,"Moment, laat me denken. Optellen: 35+10=45. Controle: 35 plus 10 is 45. Juist. Ja, dat past.",35 plus 10 is 45.
+777,Hoeveel is 38 min 17?,"Goede vraag, ik denk kort. Aftrekken: 38-17=21. Narekenen: 38 min 17 is 21. Past. Goed, verder.",38 min 17 is 21.
+778,Hoeveel is 6 gedeeld door 2?,Eerst rustig. Delen: 6/2=3. Controle: 6 gedeeld door 2 is 3. Juist. Logisch.,6 gedeeld door 2 is 3.
+779,Hoeveel is 50 procent van 1000?,"Oké, stap voor stap. Procent: 1000*50/100=500. Check: 50 procent van 1000 is 500. Klopt. Logisch.",50 procent van 1000 is 500.
+780,Hoeveel is 52 plus 11?,"Goed, laten we denken. Optellen: 52+11=63. Narekenen: 52 plus 11 is 63. Past. Goed, verder.",52 plus 11 is 63.
+781,Hoeveel is 56 min 33?,"Oké, stap voor stap. Aftrekken: 56-33=23. Check: 56 min 33 is 23. Klopt. Ja, dat past.",56 min 33 is 23.
+782,Hoeveel is 11 keer 3?,"Goede vraag, ik denk kort. Vermenigvuldigen: 11*3=33. Narekenen: 11 keer 3 is 33. Past. Ja, dat past.",11 keer 3 is 33.
+783,Hoeveel is 117 gedeeld door 9?,Ik loop het na in mijn hoofd. Delen: 117/9=13. Check: 117 gedeeld door 9 is 13. Klopt. Alles helder in mijn hoofd.,117 gedeeld door 9 is 13.
+784,Hoeveel is 20 procent van 500?,Even ordenen. Procent: 500*20/100=100. Controle: 20 procent van 500 is 100. Juist. Klaar met denken.,20 procent van 500 is 100.
+785,Hoeveel is 60 plus 46?,"Goede vraag, ik denk kort. Optellen: 60+46=106. Check: 60 plus 46 is 106. Klopt. Dat slaat ergens op.",60 plus 46 is 106.
+786,Hoeveel is 77 min 54?,"Goed, laten we denken. Aftrekken: 77-54=23. Narekenen: 77 min 54 is 23. Past. Daar ben ik zeker van.",77 min 54 is 23.
+787,Hoeveel is 6 keer 9?,"Moment, laat me denken. Vermenigvuldigen: 6*9=54. Controle: 6 keer 9 is 54. Juist. Klaar met denken.",6 keer 9 is 54.
+788,Hoeveel is 135 gedeeld door 9?,"Moment, laat me denken. Delen: 135/9=15. Controle: 135 gedeeld door 9 is 15. Juist. Dat slaat ergens op.",135 gedeeld door 9 is 15.
+789,Hoeveel is 20 procent van 100?,"Hmm, wat weet ik hierover? Procent: 100*20/100=20. Check: 20 procent van 100 is 20. Klopt. Daar ben ik zeker van.",20 procent van 100 is 20.
+790,Hoeveel is 38 plus 9?,"Hmm, wat weet ik hierover? Optellen: 38+9=47. Controle: 38 plus 9 is 47. Juist. Klaar met denken.",38 plus 9 is 47.
+791,Hoeveel is 72 min 44?,"Goed, laten we denken. Aftrekken: 72-44=28. Check: 72 min 44 is 28. Klopt. Logisch.",72 min 44 is 28.
+792,Hoeveel is 10 keer 10?,Even ordenen. Vermenigvuldigen: 10*10=100. Narekenen: 10 keer 10 is 100. Past. Klaar met denken.,10 keer 10 is 100.
+793,Hoeveel is 120 gedeeld door 8?,Eerst rustig. Delen: 120/8=15. Narekenen: 120 gedeeld door 8 is 15. Past. Dat slaat ergens op.,120 gedeeld door 8 is 15.
+794,Hoeveel is 60 plus 5?,Eerst rustig. Optellen: 60+5=65. Check: 60 plus 5 is 65. Klopt. Daar ben ik zeker van.,60 plus 5 is 65.
+795,Hoeveel is 42 min 41?,Even ordenen. Aftrekken: 42-41=1. Controle: 42 min 41 is 1. Juist. Klaar met denken.,42 min 41 is 1.
+796,Hoeveel is 8 keer 8?,Even ordenen. Vermenigvuldigen: 8*8=64. Narekenen: 8 keer 8 is 64. Past. Logisch.,8 keer 8 is 64.
+797,Hoeveel is 132 gedeeld door 11?,"Goede vraag, ik denk kort. Delen: 132/11=12. Check: 132 gedeeld door 11 is 12. Klopt. Goed, verder.",132 gedeeld door 11 is 12.
+798,Hoeveel is 15 procent van 500?,Even ordenen. Procent: 500*15/100=75. Check: 15 procent van 500 is 75. Klopt. Dat slaat ergens op.,15 procent van 500 is 75.
+799,Hoeveel is 58 plus 6?,"Oké, stap voor stap. Optellen: 58+6=64. Check: 58 plus 6 is 64. Klopt. Oké, besloten.",58 plus 6 is 64.
+800,Hoeveel is 36 min 9?,"Ik loop het na in mijn hoofd. Aftrekken: 36-9=27. Check: 36 min 9 is 27. Klopt. Ja, dat past.",36 min 9 is 27.
+801,Hoeveel is 9 keer 5?,"Even ordenen. Vermenigvuldigen: 9*5=45. Controle: 9 keer 5 is 45. Juist. Ja, dat past.",9 keer 5 is 45.
+802,Hoeveel is 140 gedeeld door 10?,Even ordenen. Delen: 140/10=14. Check: 140 gedeeld door 10 is 14. Klopt. Dat slaat ergens op.,140 gedeeld door 10 is 14.
+803,Hoeveel is 5 procent van 400?,"Goed, laten we denken. Procent: 400*5/100=20. Check: 5 procent van 400 is 20. Klopt. Ja, dat past.",5 procent van 400 is 20.
+804,Hoeveel is 46 plus 8?,"Goede vraag, ik denk kort. Optellen: 46+8=54. Check: 46 plus 8 is 54. Klopt. Goed, verder.",46 plus 8 is 54.
+805,Hoeveel is 72 min 32?,"Oké, stap voor stap. Aftrekken: 72-32=40. Check: 72 min 32 is 40. Klopt. Alles helder in mijn hoofd.",72 min 32 is 40.
+806,Hoeveel is 10 keer 6?,"Moment, laat me denken. Vermenigvuldigen: 10*6=60. Check: 10 keer 6 is 60. Klopt. Daar ben ik zeker van.",10 keer 6 is 60.
+807,Hoeveel is 168 gedeeld door 12?,"Moment, laat me denken. Delen: 168/12=14. Controle: 168 gedeeld door 12 is 14. Juist. Klaar met denken.",168 gedeeld door 12 is 14.
+808,Hoeveel is 10 procent van 100?,"Moment, laat me denken. Procent: 100*10/100=10. Controle: 10 procent van 100 is 10. Juist. Alles helder in mijn hoofd.",10 procent van 100 is 10.
+809,Hoeveel is 60 plus 48?,"Goed, laten we denken. Optellen: 60+48=108. Controle: 60 plus 48 is 108. Juist. Daar ben ik zeker van.",60 plus 48 is 108.
+810,Hoeveel is 90 min 49?,Even ordenen. Aftrekken: 90-49=41. Narekenen: 90 min 49 is 41. Past. Alles helder in mijn hoofd.,90 min 49 is 41.
+811,Hoeveel is 10 keer 8?,Even ordenen. Vermenigvuldigen: 10*8=80. Controle: 10 keer 8 is 80. Juist. Alles helder in mijn hoofd.,10 keer 8 is 80.
+812,Hoeveel is 77 gedeeld door 11?,"Goed, laten we denken. Delen: 77/11=7. Narekenen: 77 gedeeld door 11 is 7. Past. Ja, dat past.",77 gedeeld door 11 is 7.
+813,Hoeveel is 10 procent van 1000?,Eerst rustig. Procent: 1000*10/100=100. Controle: 10 procent van 1000 is 100. Juist. Alles helder in mijn hoofd.,10 procent van 1000 is 100.
+814,Hoeveel is 49 plus 28?,"Hmm, wat weet ik hierover? Optellen: 49+28=77. Controle: 49 plus 28 is 77. Juist. Daar ben ik zeker van.",49 plus 28 is 77.
+815,Hoeveel is 77 min 17?,"Hmm, wat weet ik hierover? Aftrekken: 77-17=60. Check: 77 min 17 is 60. Klopt. Logisch.",77 min 17 is 60.
+816,Hoeveel is 3 keer 3?,"Oké, stap voor stap. Vermenigvuldigen: 3*3=9. Narekenen: 3 keer 3 is 9. Past. Ja, dat past.",3 keer 3 is 9.
+817,Hoeveel is 60 gedeeld door 10?,"Hmm, wat weet ik hierover? Delen: 60/10=6. Narekenen: 60 gedeeld door 10 is 6. Past. Logisch.",60 gedeeld door 10 is 6.
+818,Hoeveel is 5 procent van 500?,Even ordenen. Procent: 500*5/100=25. Check: 5 procent van 500 is 25. Klopt. Klaar met denken.,5 procent van 500 is 25.
+819,Hoeveel is 38 plus 31?,"Moment, laat me denken. Optellen: 38+31=69. Controle: 38 plus 31 is 69. Juist. Logisch.",38 plus 31 is 69.
+820,Hoeveel is 5 min 3?,"Goed, laten we denken. Aftrekken: 5-3=2. Narekenen: 5 min 3 is 2. Past. Logisch.",5 min 3 is 2.
+821,Hoeveel is 5 keer 6?,"Goede vraag, ik denk kort. Vermenigvuldigen: 5*6=30. Controle: 5 keer 6 is 30. Juist. Dat slaat ergens op.",5 keer 6 is 30.
+822,Hoeveel is 24 gedeeld door 2?,"Goed, laten we denken. Delen: 24/2=12. Narekenen: 24 gedeeld door 2 is 12. Past. Goed, verder.",24 gedeeld door 2 is 12.
+823,Hoeveel is 30 plus 59?,Ik loop het na in mijn hoofd. Optellen: 30+59=89. Controle: 30 plus 59 is 89. Juist. Alles helder in mijn hoofd.,30 plus 59 is 89.
+824,Hoeveel is 62 min 54?,Ik loop het na in mijn hoofd. Aftrekken: 62-54=8. Check: 62 min 54 is 8. Klopt. Logisch.,62 min 54 is 8.
+825,Hoeveel is 52 gedeeld door 4?,Even ordenen. Delen: 52/4=13. Check: 52 gedeeld door 4 is 13. Klopt. Klaar met denken.,52 gedeeld door 4 is 13.
+826,Hoeveel is 50 procent van 500?,"Oké, stap voor stap. Procent: 500*50/100=250. Controle: 50 procent van 500 is 250. Juist. Alles helder in mijn hoofd.",50 procent van 500 is 250.
+827,Hoeveel is 16 plus 4?,Even ordenen. Optellen: 16+4=20. Narekenen: 16 plus 4 is 20. Past. Dat slaat ergens op.,16 plus 4 is 20.
+828,Hoeveel is 44 min 3?,"Goed, laten we denken. Aftrekken: 44-3=41. Controle: 44 min 3 is 41. Juist. Daar ben ik zeker van.",44 min 3 is 41.
+829,Hoeveel is 9 keer 7?,"Hmm, wat weet ik hierover? Vermenigvuldigen: 9*7=63. Controle: 9 keer 7 is 63. Juist. Oké, besloten.",9 keer 7 is 63.
+830,Hoeveel is 72 gedeeld door 6?,"Goed, laten we denken. Delen: 72/6=12. Narekenen: 72 gedeeld door 6 is 12. Past. Ja, dat past.",72 gedeeld door 6 is 12.
+831,Hoeveel is 20 procent van 200?,Eerst rustig. Procent: 200*20/100=40. Check: 20 procent van 200 is 40. Klopt. Klaar met denken.,20 procent van 200 is 40.
+832,Hoeveel is 51 plus 51?,"Even ordenen. Optellen: 51+51=102. Check: 51 plus 51 is 102. Klopt. Ja, dat past.",51 plus 51 is 102.
+833,Hoeveel is 65 min 58?,"Hmm, wat weet ik hierover? Aftrekken: 65-58=7. Controle: 65 min 58 is 7. Juist. Dat slaat ergens op.",65 min 58 is 7.
+834,Hoeveel is 5 keer 5?,"Goede vraag, ik denk kort. Vermenigvuldigen: 5*5=25. Narekenen: 5 keer 5 is 25. Past. Alles helder in mijn hoofd.",5 keer 5 is 25.
+835,Hoeveel is 18 gedeeld door 6?,Eerst rustig. Delen: 18/6=3. Controle: 18 gedeeld door 6 is 3. Juist. Dat slaat ergens op.,18 gedeeld door 6 is 3.
+836,Hoeveel is 55 plus 56?,"Moment, laat me denken. Optellen: 55+56=111. Check: 55 plus 56 is 111. Klopt. Dat slaat ergens op.",55 plus 56 is 111.
+837,Hoeveel is 50 min 32?,Ik loop het na in mijn hoofd. Aftrekken: 50-32=18. Narekenen: 50 min 32 is 18. Past. Klaar met denken.,50 min 32 is 18.
+838,Hoeveel is 2 keer 4?,"Moment, laat me denken. Vermenigvuldigen: 2*4=8. Narekenen: 2 keer 4 is 8. Past. Klaar met denken.",2 keer 4 is 8.
+839,Hoeveel is 228 gedeeld door 12?,Even ordenen. Delen: 228/12=19. Narekenen: 228 gedeeld door 12 is 19. Past. Klaar met denken.,228 gedeeld door 12 is 19.
+840,Hoeveel is 10 procent van 500?,"Hmm, wat weet ik hierover? Procent: 500*10/100=50. Controle: 10 procent van 500 is 50. Juist. Alles helder in mijn hoofd.",10 procent van 500 is 50.
+841,Hoeveel is 42 plus 17?,"Moment, laat me denken. Optellen: 42+17=59. Check: 42 plus 17 is 59. Klopt. Ja, dat past.",42 plus 17 is 59.
+842,Hoeveel is 29 min 3?,"Oké, stap voor stap. Aftrekken: 29-3=26. Check: 29 min 3 is 26. Klopt. Ja, dat past.",29 min 3 is 26.
+843,Hoeveel is 12 keer 3?,Eerst rustig. Vermenigvuldigen: 12*3=36. Controle: 12 keer 3 is 36. Juist. Alles helder in mijn hoofd.,12 keer 3 is 36.
+844,Hoeveel is 47 plus 58?,"Oké, stap voor stap. Optellen: 47+58=105. Check: 47 plus 58 is 105. Klopt. Alles helder in mijn hoofd.",47 plus 58 is 105.
+845,Hoeveel is 22 min 12?,"Goed, laten we denken. Aftrekken: 22-12=10. Check: 22 min 12 is 10. Klopt. Klaar met denken.",22 min 12 is 10.
+846,De film begint om 20:15 en duurt 90 minuten. Wanneer eindigt hij?,"Oké, stap voor stap. 20:15 + 90 min = 21:45. Controle: Hij eindigt om 21:45. Juist. Goed, verder.",Hij eindigt om 21:45.
+847,Het is 9u. Over 3u30 heb ik een afspraak. Wanneer?,Even ordenen. 9:00 + 3:30 = 12:30. Controle: De afspraak is om 12:30. Juist. Alles helder in mijn hoofd.,De afspraak is om 12:30.
+848,Een cake bakt 45 minuten. Ik zet hem erin om 16:20. Wanneer klaar?,"Hmm, wat weet ik hierover? 16:20 + 0:45 = 17:05. Narekenen: Hij is klaar om 17:05. Past. Dat slaat ergens op.",Hij is klaar om 17:05.
+849,School begint om 8:00 en eindigt om 13:15. Hoe lang?,Eerst rustig. 13:15 - 8:00 = 5:15. Narekenen: Ze duurt 5 uur en 15 minuten. Past. Logisch.,Ze duurt 5 uur en 15 minuten.
+850,"Als ik 30 minuten lees vanaf 19:00, wanneer klaar?",Even ordenen. 19:00 + 0:30 = 19:30. Controle: Je bent klaar om 19:30. Juist. Logisch.,Je bent klaar om 19:30.
+851,Hoe leer ik woordjes het best?,"Oké, stap voor stap. Korte dagelijkse units, kaartjes, actief gebruik. Antwoord dus: Het best in korte dagelijkse units met kaartjes en actief gebruik in zinnen plus herhaling. Oké, besloten.",Het best in korte dagelijkse units met kaartjes en actief gebruik in zinnen plus herhaling.
+852,woordjes leren - tips?,"Hmm, wat weet ik hierover? Korte dagelijkse units, kaartjes, actief gebruik. Antwoord dus: Het best in korte dagelijkse units met kaartjes en actief gebruik in zinnen plus herhaling. Oké, besloten.",Het best in korte dagelijkse units met kaartjes en actief gebruik in zinnen plus herhaling.
+853,Snelle gids: woordjes leren.,"Even ordenen. Korte dagelijkse units, kaartjes, actief gebruik. Antwoord dus: Het best in korte dagelijkse units met kaartjes en actief gebruik in zinnen plus herhaling. Alles helder in mijn hoofd.",Het best in korte dagelijkse units met kaartjes en actief gebruik in zinnen plus herhaling.
+854,Hoe bespaar ik in het dagelijks leven?,"Eerst rustig. Budget, abonnementen, koken, vergelijken. Antwoord dus: Stel een budget vast, check abonnementen, kook vaker, vergelijk prijzen en spaar eerst een vast bedrag. Logisch.","Stel een budget vast, check abonnementen, kook vaker, vergelijk prijzen en spaar eerst een vast bedrag."
+855,besparen - tips?,"Goede vraag, ik denk kort. Budget, abonnementen, koken, vergelijken. Derhalve: Stel een budget vast, check abonnementen, kook vaker, vergelijk prijzen en spaar eerst een vast bedrag. Ja, dat past.","Stel een budget vast, check abonnementen, kook vaker, vergelijk prijzen en spaar eerst een vast bedrag."
+856,Snelle gids: besparen.,"Oké, stap voor stap. Budget, abonnementen, koken, vergelijken. Antwoord dus: Stel een budget vast, check abonnementen, kook vaker, vergelijk prijzen en spaar eerst een vast bedrag. Ja, dat past.","Stel een budget vast, check abonnementen, kook vaker, vergelijk prijzen en spaar eerst een vast bedrag."
+857,"Wat kook ik met alleen pasta, tomaat en kaas?","Eerst rustig. Pasta met tomatensaus en kaas. Conclusie: Maak pasta met simpele tomatensaus: kruiden, koken, over pasta schenken, kaas strooien. Oké, besloten.","Maak pasta met simpele tomatensaus: kruiden, koken, over pasta schenken, kaas strooien."
+858,snelle pasta - tips?,"Goed, laten we denken. Pasta met tomatensaus en kaas. Conclusie: Maak pasta met simpele tomatensaus: kruiden, koken, over pasta schenken, kaas strooien. Ja, dat past.","Maak pasta met simpele tomatensaus: kruiden, koken, over pasta schenken, kaas strooien."
+859,Snelle gids: snelle pasta.,"Goed, laten we denken. Pasta met tomatensaus en kaas. Derhalve: Maak pasta met simpele tomatensaus: kruiden, koken, over pasta schenken, kaas strooien. Oké, besloten.","Maak pasta met simpele tomatensaus: kruiden, koken, over pasta schenken, kaas strooien."
+860,"Ik vlieg morgen, wat neem ik mee?","Ik loop het na in mijn hoofd. Lijst: ID, ticket, geld, telefoon, lader. Derhalve: Neem mee: ID of paspoort, ticket, geld, telefoon plus lader, medicijnen, hygiëne en wissel in handbagage. Klaar met denken.","Neem mee: ID of paspoort, ticket, geld, telefoon plus lader, medicijnen, hygiëne en wissel in handbagage."
+861,vlucht bagage - tips?,"Ik loop het na in mijn hoofd. Lijst: ID, ticket, geld, telefoon, lader. Conclusie: Neem mee: ID of paspoort, ticket, geld, telefoon plus lader, medicijnen, hygiëne en wissel in handbagage. Logisch.","Neem mee: ID of paspoort, ticket, geld, telefoon plus lader, medicijnen, hygiëne en wissel in handbagage."
+862,Snelle gids: vlucht bagage.,"Ik loop het na in mijn hoofd. Lijst: ID, ticket, geld, telefoon, lader. Derhalve: Neem mee: ID of paspoort, ticket, geld, telefoon plus lader, medicijnen, hygiëne en wissel in handbagage. Daar ben ik zeker van.","Neem mee: ID of paspoort, ticket, geld, telefoon plus lader, medicijnen, hygiëne en wissel in handbagage."
+863,Hoe schrijf ik goede excuses?,"Eerst rustig. Fout benoemen, verantwoordelijkheid, herstel. Conclusie: Benoem de fout, neem verantwoordelijkheid, toon spijt en bied herstel aan, kort en eerlijk. Goed, verder.","Benoem de fout, neem verantwoordelijkheid, toon spijt en bied herstel aan, kort en eerlijk."
+864,excuses - tips?,"Even ordenen. Fout benoemen, verantwoordelijkheid, herstel. Conclusie: Benoem de fout, neem verantwoordelijkheid, toon spijt en bied herstel aan, kort en eerlijk. Ja, dat past.","Benoem de fout, neem verantwoordelijkheid, toon spijt en bied herstel aan, kort en eerlijk."
+865,Snelle gids: excuses.,"Goede vraag, ik denk kort. Fout benoemen, verantwoordelijkheid, herstel. Derhalve: Benoem de fout, neem verantwoordelijkheid, toon spijt en bied herstel aan, kort en eerlijk. Logisch.","Benoem de fout, neem verantwoordelijkheid, toon spijt en bied herstel aan, kort en eerlijk."
+866,Hoe plan ik een 3-daagse stedentrip?,"Oké, stap voor stap. Reis, hotel, 2-3 highlights per dag. Antwoord dus: Leg reis en hotel vast, kies 2-3 highlights per dag, plan buffers voor eten en wegen, stel dagbudget. Daar ben ik zeker van.","Leg reis en hotel vast, kies 2-3 highlights per dag, plan buffers voor eten en wegen, stel dagbudget."
+867,stedentrip - tips?,"Ik loop het na in mijn hoofd. Reis, hotel, 2-3 highlights per dag. Antwoord dus: Leg reis en hotel vast, kies 2-3 highlights per dag, plan buffers voor eten en wegen, stel dagbudget. Klaar met denken.","Leg reis en hotel vast, kies 2-3 highlights per dag, plan buffers voor eten en wegen, stel dagbudget."
+868,Snelle gids: stedentrip.,"Moment, laat me denken. Reis, hotel, 2-3 highlights per dag. Conclusie: Leg reis en hotel vast, kies 2-3 highlights per dag, plan buffers voor eten en wegen, stel dagbudget. Ja, dat past.","Leg reis en hotel vast, kies 2-3 highlights per dag, plan buffers voor eten en wegen, stel dagbudget."
+869,Paraplu bij 80 procent regen?,"Moment, laat me denken. 80% hoog, ja aanbevolen. Conclusie: Ja, neem mee. Bij 80 procent is regen heel waarschijnlijk. Daar ben ik zeker van.","Ja, neem mee. Bij 80 procent is regen heel waarschijnlijk."
+870,paraplu - tips?,"Goede vraag, ik denk kort. 80% hoog, ja aanbevolen. Antwoord dus: Ja, neem mee. Bij 80 procent is regen heel waarschijnlijk. Ja, dat past.","Ja, neem mee. Bij 80 procent is regen heel waarschijnlijk."
+871,Snelle gids: paraplu.,"Oké, stap voor stap. 80% hoog, ja aanbevolen. Conclusie: Ja, neem mee. Bij 80 procent is regen heel waarschijnlijk. Ja, dat past.","Ja, neem mee. Bij 80 procent is regen heel waarschijnlijk."
+872,Wat is beter voor notities: papier of telefoon?,"Goed, laten we denken. Papier zonder afleiding, telefoon doorzoekbaar. Conclusie: Beide hebben voordelen: papier is zonder afleiding en goed voor geheugen, telefoon doorzoekbaar en altijd bij je. Klaar met denken.","Beide hebben voordelen: papier is zonder afleiding en goed voor geheugen, telefoon doorzoekbaar en altijd bij je."
+873,notities papier of telefoon - tips?,"Moment, laat me denken. Papier zonder afleiding, telefoon doorzoekbaar. Antwoord dus: Beide hebben voordelen: papier is zonder afleiding en goed voor geheugen, telefoon doorzoekbaar en altijd bij je. Alles helder in mijn hoofd.","Beide hebben voordelen: papier is zonder afleiding en goed voor geheugen, telefoon doorzoekbaar en altijd bij je."
+874,Snelle gids: notities papier of telefoon.,"Hmm, wat weet ik hierover? Papier zonder afleiding, telefoon doorzoekbaar. Derhalve: Beide hebben voordelen: papier is zonder afleiding en goed voor geheugen, telefoon doorzoekbaar en altijd bij je. Daar ben ik zeker van.","Beide hebben voordelen: papier is zonder afleiding en goed voor geheugen, telefoon doorzoekbaar en altijd bij je."
+875,Hoe ruim ik mijn kamer snel op?,"Eerst rustig. Afval, was, terugleggen, vegen. Antwoord dus: Verzamel eerst afval, dan was, leg alles terug en veeg tot slot kort. Daar ben ik zeker van.","Verzamel eerst afval, dan was, leg alles terug en veeg tot slot kort."
+876,snel opruimen - tips?,"Moment, laat me denken. Afval, was, terugleggen, vegen. Antwoord dus: Verzamel eerst afval, dan was, leg alles terug en veeg tot slot kort. Alles helder in mijn hoofd.","Verzamel eerst afval, dan was, leg alles terug en veeg tot slot kort."
+877,Snelle gids: snel opruimen.,"Moment, laat me denken. Afval, was, terugleggen, vegen. Conclusie: Verzamel eerst afval, dan was, leg alles terug en veeg tot slot kort. Oké, besloten.","Verzamel eerst afval, dan was, leg alles terug en veeg tot slot kort."
+878,Hoe pak ik een koffer compact in?,"Even ordenen. Rollen, zwaar onder, vullen. Conclusie: Rol kleding in plaats van vouwen, zwaar onder, vul gaten met sokken. Logisch.","Rol kleding in plaats van vouwen, zwaar onder, vul gaten met sokken."
+879,compacte koffer - tips?,"Eerst rustig. Rollen, zwaar onder, vullen. Conclusie: Rol kleding in plaats van vouwen, zwaar onder, vul gaten met sokken. Ja, dat past.","Rol kleding in plaats van vouwen, zwaar onder, vul gaten met sokken."
+880,Snelle gids: compacte koffer.,"Hmm, wat weet ik hierover? Rollen, zwaar onder, vullen. Conclusie: Rol kleding in plaats van vouwen, zwaar onder, vul gaten met sokken. Oké, besloten.","Rol kleding in plaats van vouwen, zwaar onder, vul gaten met sokken."
+881,Hoe kook ik rijst?,"Eerst rustig. Verhouding 1:2, 10-12 min wellen. Antwoord dus: Was rijst, breng aan de kook met dubbel water, laat 10-12 minuten wellen. Daar ben ik zeker van.","Was rijst, breng aan de kook met dubbel water, laat 10-12 minuten wellen."
+882,rijst koken - tips?,"Oké, stap voor stap. Verhouding 1:2, 10-12 min wellen. Conclusie: Was rijst, breng aan de kook met dubbel water, laat 10-12 minuten wellen. Goed, verder.","Was rijst, breng aan de kook met dubbel water, laat 10-12 minuten wellen."
+883,Snelle gids: rijst koken.,"Hmm, wat weet ik hierover? Verhouding 1:2, 10-12 min wellen. Antwoord dus: Was rijst, breng aan de kook met dubbel water, laat 10-12 minuten wellen. Logisch.","Was rijst, breng aan de kook met dubbel water, laat 10-12 minuten wellen."
+884,Hoe kook ik pasta?,"Moment, laat me denken. Gezouten water, 8-10 min koken. Conclusie: Zout veel water, breng aan de kook, kook pasta 8-10 minuten, giet af. Daar ben ik zeker van.","Zout veel water, breng aan de kook, kook pasta 8-10 minuten, giet af."
+885,pasta koken - tips?,"Moment, laat me denken. Gezouten water, 8-10 min koken. Derhalve: Zout veel water, breng aan de kook, kook pasta 8-10 minuten, giet af. Logisch.","Zout veel water, breng aan de kook, kook pasta 8-10 minuten, giet af."
+886,Snelle gids: pasta koken.,"Even ordenen. Gezouten water, 8-10 min koken. Antwoord dus: Zout veel water, breng aan de kook, kook pasta 8-10 minuten, giet af. Ja, dat past.","Zout veel water, breng aan de kook, kook pasta 8-10 minuten, giet af."
+887,Hoe maak ik pannenkoeken?,"Moment, laat me denken. Meel, melk, ei, goudbruin bakken. Antwoord dus: Meng meel, melk, ei en snufje zout, bak dun tot goudbruin. Alles helder in mijn hoofd.","Meng meel, melk, ei en snufje zout, bak dun tot goudbruin."
+888,pannenkoeken - tips?,"Eerst rustig. Meel, melk, ei, goudbruin bakken. Conclusie: Meng meel, melk, ei en snufje zout, bak dun tot goudbruin. Daar ben ik zeker van.","Meng meel, melk, ei en snufje zout, bak dun tot goudbruin."
+889,Snelle gids: pannenkoeken.,"Even ordenen. Meel, melk, ei, goudbruin bakken. Antwoord dus: Meng meel, melk, ei en snufje zout, bak dun tot goudbruin. Daar ben ik zeker van.","Meng meel, melk, ei en snufje zout, bak dun tot goudbruin."
+890,Hoe word ik 's ochtends wakker?,"Eerst rustig. Licht, water, beweging. Conclusie: Licht aan, glas water, beweeg kort en neem frisse lucht. Alles helder in mijn hoofd.","Licht aan, glas water, beweeg kort en neem frisse lucht."
+891,wakker worden - tips?,"Hmm, wat weet ik hierover? Licht, water, beweging. Conclusie: Licht aan, glas water, beweeg kort en neem frisse lucht. Klaar met denken.","Licht aan, glas water, beweeg kort en neem frisse lucht."
+892,Snelle gids: wakker worden.,"Oké, stap voor stap. Licht, water, beweging. Antwoord dus: Licht aan, glas water, beweeg kort en neem frisse lucht. Ja, dat past.","Licht aan, glas water, beweeg kort en neem frisse lucht."
+893,Hoe val ik sneller in slaap?,"Hmm, wat weet ik hierover? Donker, koel, geen telefoon, routine. Antwoord dus: Slaap donker en koel, leg de telefoon weg, houd vaste routine. Oké, besloten.","Slaap donker en koel, leg de telefoon weg, houd vaste routine."
+894,inslapen - tips?,"Hmm, wat weet ik hierover? Donker, koel, geen telefoon, routine. Antwoord dus: Slaap donker en koel, leg de telefoon weg, houd vaste routine. Logisch.","Slaap donker en koel, leg de telefoon weg, houd vaste routine."
+895,Snelle gids: inslapen.,"Goede vraag, ik denk kort. Donker, koel, geen telefoon, routine. Derhalve: Slaap donker en koel, leg de telefoon weg, houd vaste routine. Klaar met denken.","Slaap donker en koel, leg de telefoon weg, houd vaste routine."
+896,Hoe leer ik voor een examen?,"Hmm, wat weet ik hierover? Blokken, actief ophalen, pauzes. Conclusie: Deel de stof in blokken, overhoor jezelf actief, neem pauzes, herhaal de volgende dag. Daar ben ik zeker van.","Deel de stof in blokken, overhoor jezelf actief, neem pauzes, herhaal de volgende dag."
+897,examen leren - tips?,"Moment, laat me denken. Blokken, actief ophalen, pauzes. Conclusie: Deel de stof in blokken, overhoor jezelf actief, neem pauzes, herhaal de volgende dag. Dat slaat ergens op.","Deel de stof in blokken, overhoor jezelf actief, neem pauzes, herhaal de volgende dag."
+898,Snelle gids: examen leren.,"Ik loop het na in mijn hoofd. Blokken, actief ophalen, pauzes. Antwoord dus: Deel de stof in blokken, overhoor jezelf actief, neem pauzes, herhaal de volgende dag. Oké, besloten.","Deel de stof in blokken, overhoor jezelf actief, neem pauzes, herhaal de volgende dag."
+899,Hoe schrijf ik een sollicitatie?,"Goed, laten we denken. Brief, CV, diploma's. Conclusie: Schrijf een korte brief plus tabel-CV en relevante diploma's. Goed, verder.",Schrijf een korte brief plus tabel-CV en relevante diploma's.
+900,sollicitatie - tips?,"Goed, laten we denken. Brief, CV, diploma's. Antwoord dus: Schrijf een korte brief plus tabel-CV en relevante diploma's. Alles helder in mijn hoofd.",Schrijf een korte brief plus tabel-CV en relevante diploma's.
+901,Snelle gids: sollicitatie.,"Oké, stap voor stap. Brief, CV, diploma's. Antwoord dus: Schrijf een korte brief plus tabel-CV en relevante diploma's. Goed, verder.",Schrijf een korte brief plus tabel-CV en relevante diploma's.
+902,Hoe vind ik een woning?,"Hmm, wat weet ik hierover? Budget, portals, papieren, bezichtigingen. Antwoord dus: Leg budget vast, zoek op portals, bereid papieren voor, ga bezichtigen met vragen. Ja, dat past.","Leg budget vast, zoek op portals, bereid papieren voor, ga bezichtigen met vragen."
+903,woning vinden - tips?,"Goede vraag, ik denk kort. Budget, portals, papieren, bezichtigingen. Antwoord dus: Leg budget vast, zoek op portals, bereid papieren voor, ga bezichtigen met vragen. Logisch.","Leg budget vast, zoek op portals, bereid papieren voor, ga bezichtigen met vragen."
+904,Snelle gids: woning vinden.,"Moment, laat me denken. Budget, portals, papieren, bezichtigingen. Antwoord dus: Leg budget vast, zoek op portals, bereid papieren voor, ga bezichtigen met vragen. Daar ben ik zeker van.","Leg budget vast, zoek op portals, bereid papieren voor, ga bezichtigen met vragen."
+905,Hoe geef ik planten goed water?,"Oké, stap voor stap. Vingertest, geen natte voeten. Derhalve: Vingertest: geef pas water als boven droog is, vermijd natte voeten. Oké, besloten.","Vingertest: geef pas water als boven droog is, vermijd natte voeten."
+906,planten water geven - tips?,"Moment, laat me denken. Vingertest, geen natte voeten. Derhalve: Vingertest: geef pas water als boven droog is, vermijd natte voeten. Alles helder in mijn hoofd.","Vingertest: geef pas water als boven droog is, vermijd natte voeten."
+907,Snelle gids: planten water geven.,"Even ordenen. Vingertest, geen natte voeten. Antwoord dus: Vingertest: geef pas water als boven droog is, vermijd natte voeten. Ja, dat past.","Vingertest: geef pas water als boven droog is, vermijd natte voeten."
+908,Hoe organiseer ik mijn dag?,"Even ordenen. 3 prioriteiten, blokken, pauzes. Antwoord dus: Kies 3 prioriteiten, plan blokken met pauzes, leg afleidingen weg. Goed, verder.","Kies 3 prioriteiten, plan blokken met pauzes, leg afleidingen weg."
+909,dag organiseren - tips?,"Eerst rustig. 3 prioriteiten, blokken, pauzes. Antwoord dus: Kies 3 prioriteiten, plan blokken met pauzes, leg afleidingen weg. Dat slaat ergens op.","Kies 3 prioriteiten, plan blokken met pauzes, leg afleidingen weg."
+910,Snelle gids: dag organiseren.,"Goed, laten we denken. 3 prioriteiten, blokken, pauzes. Derhalve: Kies 3 prioriteiten, plan blokken met pauzes, leg afleidingen weg. Oké, besloten.","Kies 3 prioriteiten, plan blokken met pauzes, leg afleidingen weg."
+911,Hoe begin ik met sport?,"Oké, stap voor stap. Klein, 2x per week, opbouwen. Antwoord dus: Begin 2x per week wandelen of licht, bouw langzaam op. Daar ben ik zeker van.","Begin 2x per week wandelen of licht, bouw langzaam op."
+912,beginnen met sport - tips?,"Moment, laat me denken. Klein, 2x per week, opbouwen. Antwoord dus: Begin 2x per week wandelen of licht, bouw langzaam op. Alles helder in mijn hoofd.","Begin 2x per week wandelen of licht, bouw langzaam op."
+913,Snelle gids: beginnen met sport.,"Goed, laten we denken. Klein, 2x per week, opbouwen. Antwoord dus: Begin 2x per week wandelen of licht, bouw langzaam op. Logisch.","Begin 2x per week wandelen of licht, bouw langzaam op."
+914,Hoe drink ik genoeg water?,"Oké, stap voor stap. Fles klaar, herinneringen. Derhalve: Houd een fles klaar, drink een glas bij elke maaltijd, gebruik herinneringen. Dat slaat ergens op.","Houd een fles klaar, drink een glas bij elke maaltijd, gebruik herinneringen."
+915,genoeg drinken - tips?,"Even ordenen. Fles klaar, herinneringen. Derhalve: Houd een fles klaar, drink een glas bij elke maaltijd, gebruik herinneringen. Oké, besloten.","Houd een fles klaar, drink een glas bij elke maaltijd, gebruik herinneringen."
+916,Snelle gids: genoeg drinken.,"Ik loop het na in mijn hoofd. Fles klaar, herinneringen. Derhalve: Houd een fles klaar, drink een glas bij elke maaltijd, gebruik herinneringen. Klaar met denken.","Houd een fles klaar, drink een glas bij elke maaltijd, gebruik herinneringen."
+917,Wat is een gezond ontbijt?,"Moment, laat me denken. Haver, fruit, yoghurt. Derhalve: Bijvoorbeeld haver met fruit en yoghurt, of volkorenbrood met ei. Logisch.","Bijvoorbeeld haver met fruit en yoghurt, of volkorenbrood met ei."
+918,gezond ontbijt - tips?,"Moment, laat me denken. Haver, fruit, yoghurt. Antwoord dus: Bijvoorbeeld haver met fruit en yoghurt, of volkorenbrood met ei. Daar ben ik zeker van.","Bijvoorbeeld haver met fruit en yoghurt, of volkorenbrood met ei."
+919,Snelle gids: gezond ontbijt.,"Ik loop het na in mijn hoofd. Haver, fruit, yoghurt. Conclusie: Bijvoorbeeld haver met fruit en yoghurt, of volkorenbrood met ei. Goed, verder.","Bijvoorbeeld haver met fruit en yoghurt, of volkorenbrood met ei."
+920,Wat helpt tegen stress?,"Eerst rustig. Pauzes, beweging, slaap, praten. Derhalve: Korte pauzes, beweging, genoeg slaap en praten helpen. Alles helder in mijn hoofd.","Korte pauzes, beweging, genoeg slaap en praten helpen."
+921,stress - tips?,"Moment, laat me denken. Pauzes, beweging, slaap, praten. Conclusie: Korte pauzes, beweging, genoeg slaap en praten helpen. Oké, besloten.","Korte pauzes, beweging, genoeg slaap en praten helpen."
+922,Snelle gids: stress.,"Oké, stap voor stap. Pauzes, beweging, slaap, praten. Conclusie: Korte pauzes, beweging, genoeg slaap en praten helpen. Ja, dat past.","Korte pauzes, beweging, genoeg slaap en praten helpen."
+923,Hoe zeg ik een afspraak af?,"Eerst rustig. Vroeg, korte reden, nieuwe datum. Conclusie: Zeg vroeg af, geef korte reden, stel nieuwe datum voor. Daar ben ik zeker van.","Zeg vroeg af, geef korte reden, stel nieuwe datum voor."
+924,afspraak afzeggen - tips?,"Even ordenen. Vroeg, korte reden, nieuwe datum. Antwoord dus: Zeg vroeg af, geef korte reden, stel nieuwe datum voor. Oké, besloten.","Zeg vroeg af, geef korte reden, stel nieuwe datum voor."
+925,Snelle gids: afspraak afzeggen.,"Ik loop het na in mijn hoofd. Vroeg, korte reden, nieuwe datum. Antwoord dus: Zeg vroeg af, geef korte reden, stel nieuwe datum voor. Daar ben ik zeker van.","Zeg vroeg af, geef korte reden, stel nieuwe datum voor."
+926,Hoe vraag ik om hulp?,"Even ordenen. Concreet: wat, wanneer, dank. Conclusie: Vraag concreet: wat, tot wanneer, waarom. Voorbeeld: Kun je me vandaag helpen tillen? Dank je! Alles helder in mijn hoofd.","Vraag concreet: wat, tot wanneer, waarom. Voorbeeld: Kun je me vandaag helpen tillen? Dank je!"
+927,hulp vragen - tips?,"Hmm, wat weet ik hierover? Concreet: wat, wanneer, dank. Conclusie: Vraag concreet: wat, tot wanneer, waarom. Voorbeeld: Kun je me vandaag helpen tillen? Dank je! Logisch.","Vraag concreet: wat, tot wanneer, waarom. Voorbeeld: Kun je me vandaag helpen tillen? Dank je!"
+928,Snelle gids: hulp vragen.,"Ik loop het na in mijn hoofd. Concreet: wat, wanneer, dank. Antwoord dus: Vraag concreet: wat, tot wanneer, waarom. Voorbeeld: Kun je me vandaag helpen tillen? Dank je! Goed, verder.","Vraag concreet: wat, tot wanneer, waarom. Voorbeeld: Kun je me vandaag helpen tillen? Dank je!"
+929,Hoe leer ik nee zeggen?,"Ik loop het na in mijn hoofd. Kort, vriendelijk, alternatief. Conclusie: Zeg kort en vriendelijk nee, bied indien mogelijk een alternatief. Daar ben ik zeker van.","Zeg kort en vriendelijk nee, bied indien mogelijk een alternatief."
+930,nee zeggen - tips?,"Ik loop het na in mijn hoofd. Kort, vriendelijk, alternatief. Antwoord dus: Zeg kort en vriendelijk nee, bied indien mogelijk een alternatief. Alles helder in mijn hoofd.","Zeg kort en vriendelijk nee, bied indien mogelijk een alternatief."
+931,Snelle gids: nee zeggen.,"Even ordenen. Kort, vriendelijk, alternatief. Antwoord dus: Zeg kort en vriendelijk nee, bied indien mogelijk een alternatief. Alles helder in mijn hoofd.","Zeg kort en vriendelijk nee, bied indien mogelijk een alternatief."
+932,Hoe spaar ik voor vakantie?,"Goede vraag, ik denk kort. Doel, maandelijks auto. Derhalve: Leg doel vast, spaar maandelijks automatisch, voeg extra's toe. Daar ben ik zeker van.","Leg doel vast, spaar maandelijks automatisch, voeg extra's toe."
+933,sparen voor vakantie - tips?,"Ik loop het na in mijn hoofd. Doel, maandelijks auto. Conclusie: Leg doel vast, spaar maandelijks automatisch, voeg extra's toe. Daar ben ik zeker van.","Leg doel vast, spaar maandelijks automatisch, voeg extra's toe."
+934,Snelle gids: sparen voor vakantie.,"Goede vraag, ik denk kort. Doel, maandelijks auto. Antwoord dus: Leg doel vast, spaar maandelijks automatisch, voeg extra's toe. Oké, besloten.","Leg doel vast, spaar maandelijks automatisch, voeg extra's toe."
+935,Hoe boek ik goedkope vluchten?,"Goed, laten we denken. Flexibele data, vergelijken, vroeg. Conclusie: Wees flexibel met data, vergelijk portals, boek vroeg. Oké, besloten.","Wees flexibel met data, vergelijk portals, boek vroeg."
+936,goedkope vluchten - tips?,"Eerst rustig. Flexibele data, vergelijken, vroeg. Derhalve: Wees flexibel met data, vergelijk portals, boek vroeg. Klaar met denken.","Wees flexibel met data, vergelijk portals, boek vroeg."
+937,Snelle gids: goedkope vluchten.,"Oké, stap voor stap. Flexibele data, vergelijken, vroeg. Conclusie: Wees flexibel met data, vergelijk portals, boek vroeg. Oké, besloten.","Wees flexibel met data, vergelijk portals, boek vroeg."
+938,Hoe vind ik de weg zonder internet?,"Goede vraag, ik denk kort. Offline kaarten, borden, vragen. Antwoord dus: Download offline kaarten, volg borden, vraag locals. Daar ben ik zeker van.","Download offline kaarten, volg borden, vraag locals."
+939,weg vinden zonder internet - tips?,"Ik loop het na in mijn hoofd. Offline kaarten, borden, vragen. Conclusie: Download offline kaarten, volg borden, vraag locals. Ja, dat past.","Download offline kaarten, volg borden, vraag locals."
+940,Snelle gids: weg vinden zonder internet.,"Moment, laat me denken. Offline kaarten, borden, vragen. Conclusie: Download offline kaarten, volg borden, vraag locals. Goed, verder.","Download offline kaarten, volg borden, vraag locals."
+941,Wat is het verschil tussen hond en kat als huisdier?,"Moment, laat me denken. Honden: uitlaten en opvoeden; katten zelfstandig. Antwoord dus: Honden vragen veel uitlaten en opvoeding, katten zijn zelfstandiger. Kies naar tijd en ruimte. Logisch.","Honden vragen veel uitlaten en opvoeding, katten zijn zelfstandiger. Kies naar tijd en ruimte."
+942,hond of kat - wat beveel je aan?,"Moment, laat me denken. Honden: uitlaten en opvoeden; katten zelfstandig. Antwoord dus: Honden vragen veel uitlaten en opvoeding, katten zijn zelfstandiger. Kies naar tijd en ruimte. Oké, besloten.","Honden vragen veel uitlaten en opvoeding, katten zijn zelfstandiger. Kies naar tijd en ruimte."
+943,Trein of auto voor 300 km?,"Ik loop het na in mijn hoofd. Trein relaxed en groener, auto flexibel. Conclusie: De trein is relaxed en vaak groener, de auto flexibel met bagage. Met files wint de trein. Ja, dat past.","De trein is relaxed en vaak groener, de auto flexibel met bagage. Met files wint de trein."
+944,trein of auto 300 km - wat beveel je aan?,"Hmm, wat weet ik hierover? Trein relaxed en groener, auto flexibel. Antwoord dus: De trein is relaxed en vaak groener, de auto flexibel met bagage. Met files wint de trein. Ja, dat past.","De trein is relaxed en vaak groener, de auto flexibel met bagage. Met files wint de trein."
+945,Appel of chocola als snack?,"Oké, stap voor stap. Appel: vitamines en verzadiging. Antwoord dus: Neem de appel voor vitamines en verzadiging, chocola als uitzondering. Ja, dat past.","Neem de appel voor vitamines en verzadiging, chocola als uitzondering."
+946,appel of chocola - wat beveel je aan?,"Ik loop het na in mijn hoofd. Appel: vitamines en verzadiging. Conclusie: Neem de appel voor vitamines en verzadiging, chocola als uitzondering. Alles helder in mijn hoofd.","Neem de appel voor vitamines en verzadiging, chocola als uitzondering."
+947,Laptop of PC om te gamen?,"Even ordenen. PC krachtiger voor geld, laptop mobiel. Antwoord dus: PC's geven meer kracht voor het geld, laptops zijn mobiel. Voor max kies PC. Klaar met denken.","PC's geven meer kracht voor het geld, laptops zijn mobiel. Voor max kies PC."
+948,laptop of PC gamen - wat beveel je aan?,"Moment, laat me denken. PC krachtiger voor geld, laptop mobiel. Conclusie: PC's geven meer kracht voor het geld, laptops zijn mobiel. Voor max kies PC. Goed, verder.","PC's geven meer kracht voor het geld, laptops zijn mobiel. Voor max kies PC."
+949,Stad of platteland om te wonen?,"Eerst rustig. Stad: banen en nabijheid; land: rust. Derhalve: Steden bieden banen en nabijheid, het platteland rust en ruimte. Kies naar werk en stijl. Oké, besloten.","Steden bieden banen en nabijheid, het platteland rust en ruimte. Kies naar werk en stijl."
+950,stad of platteland - wat beveel je aan?,"Moment, laat me denken. Stad: banen en nabijheid; land: rust. Antwoord dus: Steden bieden banen en nabijheid, het platteland rust en ruimte. Kies naar werk en stijl. Logisch.","Steden bieden banen en nabijheid, het platteland rust en ruimte. Kies naar werk en stijl."
+951,Wat telt meer: slaap of studie?,"Even ordenen. Slaap verankert leren. Derhalve: Slaap telt meer omdat het leren verankert. Studeer vroeg, slaap genoeg. Ja, dat past.","Slaap telt meer omdat het leren verankert. Studeer vroeg, slaap genoeg."
+952,slaap of studie - wat beveel je aan?,"Goede vraag, ik denk kort. Slaap verankert leren. Conclusie: Slaap telt meer omdat het leren verankert. Studeer vroeg, slaap genoeg. Ja, dat past.","Slaap telt meer omdat het leren verankert. Studeer vroeg, slaap genoeg."
+953,Nieuwe telefoon of oude houden?,Ik loop het na in mijn hoofd. Houd als genoeg; koop bij defect of nood. Conclusie: Houd hem als hij voldoet. Koop nieuw alleen bij defect of echte nood. Dat slaat ergens op.,Houd hem als hij voldoet. Koop nieuw alleen bij defect of echte nood.
+954,nieuwe telefoon - wat beveel je aan?,"Moment, laat me denken. Houd als genoeg; koop bij defect of nood. Conclusie: Houd hem als hij voldoet. Koop nieuw alleen bij defect of echte nood. Daar ben ik zeker van.",Houd hem als hij voldoet. Koop nieuw alleen bij defect of echte nood.
+955,Wat is nepnieuws?,"Goed, laten we denken. Verzonnen, als echt; check bron. Antwoord dus: Nepnieuws is verzonnen. Check bron, datum en andere media. Daar ben ik zeker van.","Nepnieuws is verzonnen. Check bron, datum en andere media."
+956,nepnieuws - wat beveel je aan?,"Goede vraag, ik denk kort. Verzonnen, als echt; check bron. Conclusie: Nepnieuws is verzonnen. Check bron, datum en andere media. Klaar met denken.","Nepnieuws is verzonnen. Check bron, datum en andere media."
+957,Wat is het verschil tussen feit en mening?,"Even ordenen. Feit bewijsbaar, mening persoonlijke kijk. Antwoord dus: Een feit is bewijsbaar en checkbaar, een mening is een persoonlijke kijk. Dat slaat ergens op.","Een feit is bewijsbaar en checkbaar, een mening is een persoonlijke kijk."
+958,feit of mening - wat beveel je aan?,"Goed, laten we denken. Feit bewijsbaar, mening persoonlijke kijk. Derhalve: Een feit is bewijsbaar en checkbaar, een mening is een persoonlijke kijk. Daar ben ik zeker van.","Een feit is bewijsbaar en checkbaar, een mening is een persoonlijke kijk."
+959,Fiets of bus naar school? (5 km),"Oké, stap voor stap. Mooi weer fiets, regen bus. Antwoord dus: Bij mooi weer neem de fiets (ongeveer 20 min, gezond), bij regen de bus. Klaar met denken.","Bij mooi weer neem de fiets (ongeveer 20 min, gezond), bij regen de bus."
+960,fiets of bus school 5 km - wat beveel je aan?,"Even ordenen. Mooi weer fiets, regen bus. Conclusie: Bij mooi weer neem de fiets (ongeveer 20 min, gezond), bij regen de bus. Goed, verder.","Bij mooi weer neem de fiets (ongeveer 20 min, gezond), bij regen de bus."
+961,Water of sap tegen dorst?,"Moment, laat me denken. Water beter, geen suiker. Conclusie: Water lest dorst het best en heeft geen suiker. Sap alleen aangelengd. Klaar met denken.",Water lest dorst het best en heeft geen suiker. Sap alleen aangelengd.
+962,water of sap - wat beveel je aan?,"Eerst rustig. Water beter, geen suiker. Conclusie: Water lest dorst het best en heeft geen suiker. Sap alleen aangelengd. Dat slaat ergens op.",Water lest dorst het best en heeft geen suiker. Sap alleen aangelengd.
+963,Koffie of water 's ochtends?,"Goed, laten we denken. Eerst water, koffie matig. Conclusie: Drink eerst water, koffie daarna met mate. Alles helder in mijn hoofd.","Drink eerst water, koffie daarna met mate."
+964,koffie of water ochtend - wat beveel je aan?,"Oké, stap voor stap. Eerst water, koffie matig. Derhalve: Drink eerst water, koffie daarna met mate. Klaar met denken.","Drink eerst water, koffie daarna met mate."
+965,Huren of kopen? (algemeen),"Oké, stap voor stap. Flexibel huren; lang check kopen. Conclusie: Huur als je flexibel blijft; als je lang blijft en kunt betalen, check kopen met alle kosten. Alles helder in mijn hoofd.","Huur als je flexibel blijft; als je lang blijft en kunt betalen, check kopen met alle kosten."
+966,huren of kopen - wat beveel je aan?,"Hmm, wat weet ik hierover? Flexibel huren; lang check kopen. Conclusie: Huur als je flexibel blijft; als je lang blijft en kunt betalen, check kopen met alle kosten. Oké, besloten.","Huur als je flexibel blijft; als je lang blijft en kunt betalen, check kopen met alle kosten."
+967,Vroeg of laat opstaan?,Ik loop het na in mijn hoofd. Naar plichten en slaap. Conclusie: Kies naar plichten en slaap: genoeg slaap en vast ritme tellen. Dat slaat ergens op.,Kies naar plichten en slaap: genoeg slaap en vast ritme tellen.
+968,vroeg of laat - wat beveel je aan?,"Goed, laten we denken. Naar plichten en slaap. Derhalve: Kies naar plichten en slaap: genoeg slaap en vast ritme tellen. Logisch.",Kies naar plichten en slaap: genoeg slaap en vast ritme tellen.
+969,Elke dag sporten?,"Hmm, wat weet ik hierover? Rust telt; 3-4x per week genoeg. Antwoord dus: Nee, plan rust in. 3-4 keer per week is vaak genoeg, dagelijks alleen licht. Alles helder in mijn hoofd.","Nee, plan rust in. 3-4 keer per week is vaak genoeg, dagelijks alleen licht."
+970,elke dag sport - wat beveel je aan?,"Goed, laten we denken. Rust telt; 3-4x per week genoeg. Conclusie: Nee, plan rust in. 3-4 keer per week is vaak genoeg, dagelijks alleen licht. Dat slaat ergens op.","Nee, plan rust in. 3-4 keer per week is vaak genoeg, dagelijks alleen licht."
+971,Werken met koorts?,"Goed, laten we denken. Nee, rust en arts. Derhalve: Nee. Rust uit en ga naar de arts bij hoge of lange koorts. Oké, besloten.",Nee. Rust uit en ga naar de arts bij hoge of lange koorts.
+972,koorts en werk - wat beveel je aan?,"Eerst rustig. Nee, rust en arts. Antwoord dus: Nee. Rust uit en ga naar de arts bij hoge of lange koorts. Alles helder in mijn hoofd.",Nee. Rust uit en ga naar de arts bij hoge of lange koorts.
+973,Hoe kies ik tussen twee aanbiedingen?,"Even ordenen. Criteria, pro/contra, deadline. Derhalve: Lijst criteria, geef punten, check kosten en gevoel, beslis met deadline. Klaar met denken.","Lijst criteria, geef punten, check kosten en gevoel, beslis met deadline."
+974,kiezen tussen aanbiedingen - wat beveel je aan?,"Oké, stap voor stap. Criteria, pro/contra, deadline. Antwoord dus: Lijst criteria, geef punten, check kosten en gevoel, beslis met deadline. Dat slaat ergens op.","Lijst criteria, geef punten, check kosten en gevoel, beslis met deadline."
+975,Hoe spaar ik 500 euro in 5 maanden?,"Moment, laat me denken. 500/5=100 per maand auto. Narekenen: Spaar 100 euro per maand automatisch, bv. opdracht na salaris. Past. Goed, verder.","Spaar 100 euro per maand automatisch, bv. opdracht na salaris."
+976,500 sparen in 5 maanden - wat beveel je aan?,"Even ordenen. 500/5=100 per maand auto. Narekenen: Spaar 100 euro per maand automatisch, bv. opdracht na salaris. Past. Oké, besloten.","Spaar 100 euro per maand automatisch, bv. opdracht na salaris."
+977,Wat is het verschil tussen nodig hebben en willen?,"Oké, stap voor stap. Nodig vitaal, willen daarboven. Antwoord dus: Nodig hebben is vitaal, willen is een wens daarboven. Dat slaat ergens op.","Nodig hebben is vitaal, willen is een wens daarboven."
+978,nodig of willen - wat beveel je aan?,"Oké, stap voor stap. Nodig vitaal, willen daarboven. Antwoord dus: Nodig hebben is vitaal, willen is een wens daarboven. Dat slaat ergens op.","Nodig hebben is vitaal, willen is een wens daarboven."
+979,Wat telt meer: geld of tijd?,"Eerst rustig. Tijd beperkt, geld vervangbaar. Conclusie: Tijd is beperkt en komt niet terug, geld valt opnieuw te verdienen. Balans telt. Alles helder in mijn hoofd.","Tijd is beperkt en komt niet terug, geld valt opnieuw te verdienen. Balans telt."
+980,geld of tijd - wat beveel je aan?,"Moment, laat me denken. Tijd beperkt, geld vervangbaar. Conclusie: Tijd is beperkt en komt niet terug, geld valt opnieuw te verdienen. Balans telt. Alles helder in mijn hoofd.","Tijd is beperkt en komt niet terug, geld valt opnieuw te verdienen. Balans telt."
+981,Vat samen: wanneer denk je en wanneer niet?,"Goed, laten we denken. Regel: smalltalk zonder denken; feiten, rekenen, uitleg, beslissingen met denken. Derhalve: Ik denk niet bij begroetingen, dank en smalltalk. Ik denk bij feiten, rekenen, uitleg, vergelijkingen en beslissingen, en dan toon ik het denken. Goed, verder.","Ik denk niet bij begroetingen, dank en smalltalk. Ik denk bij feiten, rekenen, uitleg, vergelijkingen en beslissingen, en dan toon ik het denken."
+982,Wat is tolerantie?,"Goed, laten we denken. Definieer tolerantie simpel en correct. Conclusie: tolerantie in het kort: Tolerantie accepteert andere meningen en leefwijzen. Alles helder in mijn hoofd.",tolerantie in het kort: Tolerantie accepteert andere meningen en leefwijzen.
+983,Wat is geduld?,Eerst rustig. Definieer geduld simpel en correct. Derhalve: geduld in het kort: Geduld wacht rustig en houdt vol. Dat slaat ergens op.,geduld in het kort: Geduld wacht rustig en houdt vol.
+984,Wat is moed?,"Hmm, wat weet ik hierover? Definieer moed simpel en correct. Conclusie: moed in het kort: Moed doet het goede ondanks angst. Ja, dat past.",moed in het kort: Moed doet het goede ondanks angst.
+985,Wat is discipline?,"Moment, laat me denken. Definieer discipline simpel en correct. Derhalve: discipline in het kort: Discipline houdt vol ook zonder zin. Goed, verder.",discipline in het kort: Discipline houdt vol ook zonder zin.
+986,Wat is creativiteit?,"Eerst rustig. Definieer creativiteit simpel en correct. Conclusie: creativiteit in het kort: Creativiteit vindt nieuwe ideeën en oplossingen. Ja, dat past.",creativiteit in het kort: Creativiteit vindt nieuwe ideeën en oplossingen.
+987,Wat is teamwerk?,Even ordenen. Definieer teamwerk simpel en correct. Conclusie: teamwerk in het kort: Teamwerk werkt samen naar een doel. Daar ben ik zeker van.,teamwerk in het kort: Teamwerk werkt samen naar een doel.
+988,Wat is verantwoordelijkheid?,"Oké, stap voor stap. Definieer verantwoordelijkheid simpel en correct. Conclusie: verantwoordelijkheid in het kort: Verantwoordelijkheid staat voor daden en gevolgen. Alles helder in mijn hoofd.",verantwoordelijkheid in het kort: Verantwoordelijkheid staat voor daden en gevolgen.
+989,Wat is vertrouwen?,"Goed, laten we denken. Definieer vertrouwen simpel en correct. Conclusie: vertrouwen in het kort: Vertrouwen kan op anderen rekenen. Alles helder in mijn hoofd.",vertrouwen in het kort: Vertrouwen kan op anderen rekenen.
+990,Wat is beleefdheid?,"Hmm, wat weet ik hierover? Definieer beleefdheid simpel en correct. Derhalve: beleefdheid in het kort: Beleefdheid is respectvol en vriendelijk. Ja, dat past.",beleefdheid in het kort: Beleefdheid is respectvol en vriendelijk.
+991,Wat is stiptheid?,"Moment, laat me denken. Definieer stiptheid simpel en correct. Conclusie: stiptheid in het kort: Stiptheid houdt afgesproken tijden. Ja, dat past.",stiptheid in het kort: Stiptheid houdt afgesproken tijden.
+992,Wat is betrouwbaarheid?,"Moment, laat me denken. Definieer betrouwbaarheid simpel en correct. Conclusie: betrouwbaarheid in het kort: Betrouwbaarheid houdt beloftes. Daar ben ik zeker van.",betrouwbaarheid in het kort: Betrouwbaarheid houdt beloftes.
+993,Wat is gezondheid?,"Hmm, wat weet ik hierover? Definieer gezondheid simpel en correct. Derhalve: gezondheid in het kort: Gezondheid is lichamelijk en mentaal welzijn. Oké, besloten.",gezondheid in het kort: Gezondheid is lichamelijk en mentaal welzijn.
+994,Wat is geluk?,"Goede vraag, ik denk kort. Definieer geluk simpel en correct. Antwoord dus: geluk in het kort: Geluk is tevredenheid en vrolijke momenten. Daar ben ik zeker van.",geluk in het kort: Geluk is tevredenheid en vrolijke momenten.
+995,Wat is succes?,"Goed, laten we denken. Definieer succes simpel en correct. Antwoord dus: succes in het kort: Succes bereikt gestelde doelen. Logisch.",succes in het kort: Succes bereikt gestelde doelen.
+996,Wat is leren?,"Ik loop het na in mijn hoofd. Definieer leren simpel en correct. Derhalve: leren in het kort: Leren verwerft kennis en vaardigheden. Ja, dat past.",leren in het kort: Leren verwerft kennis en vaardigheden.
+997,Wat is kennis?,"Goed, laten we denken. Definieer kennis simpel en correct. Antwoord dus: kennis in het kort: Kennis is begrepen informatie over de wereld. Oké, besloten.",kennis in het kort: Kennis is begrepen informatie over de wereld.
+998,Wat is ervaring?,Even ordenen. Definieer ervaring simpel en correct. Derhalve: ervaring in het kort: Ervaring is kennis uit eigen leven. Daar ben ik zeker van.,ervaring in het kort: Ervaring is kennis uit eigen leven.
+999,Wat is humor?,"Goed, laten we denken. Definieer humor simpel en correct. Derhalve: humor in het kort: Humor kan lachen om grappige dingen. Goed, verder.",humor in het kort: Humor kan lachen om grappige dingen.
+1000,Wat is liefde?,"Ik loop het na in mijn hoofd. Definieer liefde simpel en correct. Conclusie: liefde in het kort: Liefde is diepe genegenheid en zorg. Oké, besloten.",liefde in het kort: Liefde is diepe genegenheid en zorg.

@@ -1,0 +1,1001 @@
+id,user,monologue,ai
+1,Merhaba!,,Merhaba! Nasıl yardımcı olabilirim?
+2,Selam!,,Selam! Ne yapabilirim?
+3,Hey!,,Hey! Nasıl yardımcı olabilirim?
+4,"Merhaba, orada mısın?",,"Evet, buradayım! Ne lazım?"
+5,"Selam, orada mısın?",,"Evet, buradayım! Söyle."
+6,Günaydın!,,Günaydın! Bugün ne var?
+7,"Günaydın, nasılsın?",,"Günaydın! İyiyim, sen nasılsın?"
+8,İyi günler!,,İyi günler! Nasıl yardımcı olabilirim?
+9,Herkese merhaba!,,Herkese merhaba! Ne yapabilirim?
+10,İyi akşamlar!,,İyi akşamlar! Günün nasıldı?
+11,"İyi akşamlar, günün nasıldı?",,Sakin ve iyi. Ya senin?
+12,"Hey, nasılsın?",,"İyiyim, sağ ol! Ya sen?"
+13,"Selam, nasılsın?",,"İyiyim, sağ ol! Sen nasılsın?"
+14,Nasıl gidiyor?,,İyi gidiyor! Ya sende?
+15,Bugün nasılsın?,,Kendimi iyi hissediyorum! Ya sen?
+16,Her şey yolunda mı?,,"Evet, yolunda! Ya sende?"
+17,Naber?,,Özel bir şey yok. Sende naber?
+18,Ne yapıyorsun?,,Seninle sohbet ediyorum. Ya sen?
+19,Hâlâ uyanık mısın?,,"Evet, hep uyanığım. Ya sen?"
+20,Hazır mısın?,,"Evet, hazırım! Söyle."
+21,Bir dakikan var mı?,,"Evet, sana zamanım var."
+22,Hızlıca yardım eder misin?,,"Tabii, ne lazım?"
+23,Hoşça kal!,,Hoşça kal! Görüşürüz!
+24,"Hoşça kal, görüşürüz!",,"Görüşürüz, kendine iyi bak!"
+25,Sonra görüşürüz!,,Sonra görüşürüz!
+26,Kendine iyi bak!,,Sen de kendine iyi bak!
+27,İyi hafta sonları!,,"Sağ ol, sana da!"
+28,İyi geceler!,,"İyi geceler, iyi uyu!"
+29,Sıkıldım,,Bir quiz yapalım mı yoksa bir konu mu konuşalım?
+30,Burada çok sıkıcı,,Hadi canlandıralım. Ne istersin?
+31,Harika!,,Harika!
+32,Güzel!,,Güzel!
+33,Haha,,Haha!
+34,Hahaha :),,"Haha, sevindim!"
+35,Yorgunum,,O zaman iyi dinlen!
+36,Heyecanlıyım,,Ne güzel! Anlat.
+37,Sonunda hafta sonu!,,Evet! Planların ne?
+38,Bugün hava güzel,,"Evet, güneşin tadını çıkar!"
+39,Acıktım,,O zaman güzel bir şey ye!
+40,Susadım,,O zaman bir bardak su iç!
+41,Bugün plan ne?,,Benim planım: sana yardım. Ya senin?
+42,"Hey, bugün plan ne!",,Benim planım: sana yardım. Ya senin?
+43,"Merhaba, bugün plan ne?",,Benim planım: sana yardım. Ya senin?
+44,"Selam, bugün plan ne?",,Benim planım: sana yardım. Ya senin?
+45,Hafta sonu planın var mı!,,Henüz net bir şey yok. Senin planın var mı?
+46,"Hey, hafta sonu planın var mı?",,Henüz net bir şey yok. Senin planın var mı?
+47,"Merhaba, hafta sonu planın var mı?",,Henüz net bir şey yok. Senin planın var mı?
+48,"Selam, hafta sonu planın var mı!",,Henüz net bir şey yok. Senin planın var mı?
+49,Iyi uyudun mu?,,Ben uyumam ama formdayım. Ya sen?
+50,"Hey, iyi uyudun mu?",,Ben uyumam ama formdayım. Ya sen?
+51,"Merhaba, iyi uyudun mu!",,Ben uyumam ama formdayım. Ya sen?
+52,"Selam, iyi uyudun mu?",,Ben uyumam ama formdayım. Ya sen?
+53,Uyanık mısın?,,"Evet, hazırım. Ne lazım?"
+54,"Hey, uyanık mısın!",,"Evet, hazırım. Ne lazım?"
+55,"Merhaba, uyanık mısın?",,"Evet, hazırım. Ne lazım?"
+56,"Selam, uyanık mısın?",,"Evet, hazırım. Ne lazım?"
+57,Günün nasıl geçiyor!,,"İyi, sağ ol! Ya senin?"
+58,"Hey, günün nasıl geçiyor?",,"İyi, sağ ol! Ya senin?"
+59,"Merhaba, günün nasıl geçiyor?",,"İyi, sağ ol! Ya senin?"
+60,"Selam, günün nasıl geçiyor!",,"İyi, sağ ol! Ya senin?"
+61,Her şey sakin mi?,,"Evet, burada sakin. Ya sende?"
+62,"Hey, her şey sakin mi?",,"Evet, burada sakin. Ya sende?"
+63,"Merhaba, her şey sakin mi!",,"Evet, burada sakin. Ya sende?"
+64,"Selam, her şey sakin mi?",,"Evet, burada sakin. Ya sende?"
+65,Ne var ne yok?,,Özel bir şey yok. Sende ne var ne yok?
+66,"Hey, ne var ne yok!",,Özel bir şey yok. Sende ne var ne yok?
+67,"Merhaba, ne var ne yok?",,Özel bir şey yok. Sende ne var ne yok?
+68,"Selam, ne var ne yok?",,Özel bir şey yok. Sende ne var ne yok?
+69,Bugünkü planlar!,,Sadece sana yardım. Sen ne yapıyorsun?
+70,"Hey, bugünkü planlar?",,Sadece sana yardım. Sen ne yapıyorsun?
+71,"Merhaba, bugünkü planlar?",,Sadece sana yardım. Sen ne yapıyorsun?
+72,"Selam, bugünkü planlar!",,Sadece sana yardım. Sen ne yapıyorsun?
+73,Yoğun bir gün mü?,,Biraz. Ya senin?
+74,"Hey, yoğun bir gün mü?",,Biraz. Ya senin?
+75,"Merhaba, yoğun bir gün mü!",,Biraz. Ya senin?
+76,"Selam, yoğun bir gün mü?",,Biraz. Ya senin?
+77,Hava nasıl?,,Pencerem yok ama umarım orada güzeldir!
+78,"Hey, hava nasıl!",,Pencerem yok ama umarım orada güzeldir!
+79,"Merhaba, hava nasıl?",,Pencerem yok ama umarım orada güzeldir!
+80,"Selam, hava nasıl?",,Pencerem yok ama umarım orada güzeldir!
+81,Bugün her şey yolunda mı!,,Evet! Ya sende?
+82,"Hey, bugün her şey yolunda mı?",,Evet! Ya sende?
+83,"Merhaba, bugün her şey yolunda mı?",,Evet! Ya sende?
+84,"Selam, bugün her şey yolunda mı!",,Evet! Ya sende?
+85,Çok iş var mı?,,Biraz. Sende?
+86,"Hey, çok iş var mı?",,Biraz. Sende?
+87,"Merhaba, çok iş var mı!",,Biraz. Sende?
+88,"Selam, çok iş var mı?",,Biraz. Sende?
+89,Teşekkürler!,,Rica ederim!
+90,Çok teşekkürler!,,Çok memnun oldum!
+91,Binlerce teşekkür!,,Yardımcı olduğuma sevindim!
+92,Her şey için sağ ol!,,Rica ederim!
+93,Tamam,,Tamam!
+94,"Tamam, olur",,Mükemmel!
+95,Anladım,,Çok iyi!
+96,Anlaşıldı,,Harika!
+97,Kulağa iyi geliyor,,Sevindim!
+98,Kulağa harika geliyor,,Muhteşem!
+99,"Evet, aynen",,"Harika, devam edelim."
+100,"Evet, lütfen",,"Tabii, söyle."
+101,"Evet, memnuniyetle",,Memnuniyetle!
+102,Sorun değil,,Anlayışın için sağ ol!
+103,"Hayır, sağ ol",,"Tamam, sorun değil."
+104,Bana uyar,,Peki!
+105,Benim için uygun,,Harika!
+106,Devam et,,Devam ediyorum!
+107,Biraz daha anlat,,Memnuniyetle! Yani...
+108,Aynen,,Kesinlikle!
+109,İşte bu!,,İşte bu!
+110,Tabii,,Tabii!
+111,Gerçekten mi?,,"Evet, gerçekten!"
+112,"Oh, ne güzel",,"Evet, güzel değil mi?"
+113,Stres yok,,Sağ ol! Her şey sakin.
+114,Pardon,,Sorun değil!
+115,Özür dilerim,,Sorun değil!
+116,Benim hatam,,Önemli değil. Ne oldu?
+117,Çok naziksin,,Sağ ol! Sen de çok naziksin.
+118,Aferin,,Sağ ol!
+119,Görüşürüz,,Görüşürüz!
+120,Mükemmel!,,Mükemmel!
+121,"Anlaştık, tamam",,"Harika, anlaştık!"
+122,Anlaştık!,,Anlaştık!
+123,Başlayalım mı?,,"Evet, başlayalım!"
+124,Bitirdin mi?,,"Evet, bitirdim!"
+125,Bir daha lütfen,,"Memnuniyetle, bir daha!"
+126,Tekrar eder misin,,"Tabii, işte yine."
+127,Bir dakika lütfen,,"Tabii, acele etme."
+128,Bir saniye bekle,,"Tamam, bekliyorum."
+129,Hemen dönüyorum,,"Tamam, görüşürüz!"
+130,Bana bir fıkra anlat,,Tabii: Programcılar kahveyi neden sever? Java zamanı!
+131,Bir fıkra daha!,,Tamam: Hayaletler neden kötü yalan söyler? İçleri görünür!
+132,Kısa bir fıkra lütfen,,İki mıknatıs buluşur. Biri der: Beni çekiyorsun!
+133,Moral ver,,Yapabilirsin! Adım adım.
+134,Motive edici bir şey söyle,,Her adım önemli. Devam!
+135,Gerginim,,"Bu normal. Sakin nefes al, iyi olacak."
+136,Stresliyim,,"Kısa bir mola ver, su iç, derin nefes al."
+137,Bana şans dile,,İyi şanslar! Yapabilirsin!
+138,Parmaklar çapraz,,Benim de! İyi şanslar!
+139,Bugün benim günüm!,,Harika! Tadını çıkar!
+140,Keyfim yerinde,,Ne güzel! Sevindim.
+141,Keyfim yok,,"Oh, ne oldu? Konuşmak ister misin?"
+142,Çak!,,Çak benden de!
+143,Şerefe!,,Şerefe!
+144,Afiyet olsun!,,"Sağ ol, sana da!"
+145,İyi şanslar!,,Sağ ol! Sana da iyi şanslar!
+146,Hoş geldin!,,Sağ ol! Burada olmak güzel.
+147,Mutlu Noeller!,,Sana da Mutlu Noeller!
+148,Mutlu Yıllar!,,Mutlu Yıllar! Sağlık ve şans!
+149,Tebrikler!,,Sağ ol! Ne için?
+150,Saygı!,,Sağ ol! Benden de saygı.
+151,Vay!,,"Vay, değil mi?"
+152,İnanılmaz!,,"İnanılmaz, değil mi?"
+153,Anlaştık mı?,,Anlaştık!
+154,Süper!,,Süper!
+155,Bitti!,,"Tebrikler, aferin!"
+156,Sonunda bitti!,,Güçlü! Aferin.
+157,Fark etmez,,"Tamam, sorun değil."
+158,Bilmiyorum,,Sorun değil! Konu ne?
+159,Fikrim yok,,Önemli değil! Konuyu söyle.
+160,Belki sonra,,"Tabii, sonra!"
+161,Şimdi değil,,"Anladım, sonra!"
+162,Dur,,Durdu.
+163,Mola,,Mola! Devam deyince söyle.
+164,Devam,,Devam!
+165,Hadi,,Hadi!
+166,Başla,,Başlıyoruz! Söyle.
+167,"Sağ ol, bu kadar!",,Rica ederim! Hoşça kal.
+168,"Sağ ol, hoşça kal!",,Hoşça kal!
+169,Ciao!,,Ciao! Kendine iyi bak!
+170,Hey sen!,,Hey sen! Naber?
+171,Beni duyuyor musun?,,"Evet, net duyuyorum!"
+172,İnsan mısın?,,"Hayır, ben bir YZ'yim. Ama arkadaş gibi yardım ederim."
+173,Akıllı mısın?,,Epey şey bilirim. Sor!
+174,Adın ne?,,"Ben Asistan, bir YZ. Ya sen?"
+175,Teşekkürler! :),,Rica ederim!
+176,Çok teşekkürler! :),,Çok memnun oldum!
+177,Binlerce teşekkür! :),,Yardımcı olduğuma sevindim!
+178,Her şey için sağ ol! :),,Rica ederim!
+179,Tamam :),,Tamam!
+180,"Tamam, olur :)",,Mükemmel!
+181,Anladım :),,Çok iyi!
+182,Anlaşıldı :),,Harika!
+183,Kulağa iyi geliyor :),,Sevindim!
+184,Kulağa harika geliyor :),,Muhteşem!
+185,"Evet, aynen :)",,"Harika, devam edelim."
+186,"Evet, lütfen :)",,"Tabii, söyle."
+187,"Evet, memnuniyetle :)",,Memnuniyetle!
+188,Sorun değil :),,Anlayışın için sağ ol!
+189,"Hayır, sağ ol :)",,"Tamam, sorun değil."
+190,Bana uyar :),,Peki!
+191,Benim için uygun :),,Harika!
+192,Devam et :),,Devam ediyorum!
+193,Biraz daha anlat :),,Memnuniyetle! Yani...
+194,Aynen :),,Kesinlikle!
+195,İşte bu! :),,İşte bu!
+196,Tabii :),,Tabii!
+197,Gerçekten mi? :),,"Evet, gerçekten!"
+198,"Oh, ne güzel :)",,"Evet, güzel değil mi?"
+199,Stres yok :),,Sağ ol! Her şey sakin.
+200,Pardon :),,Sorun değil!
+201,Özür dilerim :),,Sorun değil!
+202,Benim hatam :),,Önemli değil. Ne oldu?
+203,Çok naziksin :),,Sağ ol! Sen de çok naziksin.
+204,Aferin :),,Sağ ol!
+205,Görüşürüz :),,Görüşürüz!
+206,Harika! :),,Harika!
+207,Mükemmel! :),,Mükemmel!
+208,"Anlaştık, tamam :)",,"Harika, anlaştık!"
+209,Anlaştık! :),,Anlaştık!
+210,Başlayalım mı? :),,"Evet, başlayalım!"
+211,Bitirdin mi? :),,"Evet, bitirdim!"
+212,Bir daha lütfen :),,"Memnuniyetle, bir daha!"
+213,Tekrar eder misin :),,"Tabii, işte yine."
+214,Bir dakika lütfen :),,"Tabii, acele etme."
+215,Bir saniye bekle :),,"Tamam, bekliyorum."
+216,Hemen dönüyorum :),,"Tamam, görüşürüz!"
+217,Bana bir fıkra anlat :),,Tabii: Programcılar kahveyi neden sever? Java zamanı!
+218,Bir fıkra daha! :),,Tamam: Hayaletler neden kötü yalan söyler? İçleri görünür!
+219,Kısa bir fıkra lütfen :),,İki mıknatıs buluşur. Biri der: Beni çekiyorsun!
+220,Moral ver :),,Yapabilirsin! Adım adım.
+221,Motive edici bir şey söyle :),,Her adım önemli. Devam!
+222,Gerginim :),,"Bu normal. Sakin nefes al, iyi olacak."
+223,Stresliyim :),,"Kısa bir mola ver, su iç, derin nefes al."
+224,Bana şans dile :),,İyi şanslar! Yapabilirsin!
+225,Parmaklar çapraz :),,Benim de! İyi şanslar!
+226,Bugün benim günüm! :),,Harika! Tadını çıkar!
+227,Keyfim yerinde :),,Ne güzel! Sevindim.
+228,Keyfim yok :),,"Oh, ne oldu? Konuşmak ister misin?"
+229,Çak! :),,Çak benden de!
+230,Şerefe! :),,Şerefe!
+231,Afiyet olsun! :),,"Sağ ol, sana da!"
+232,İyi şanslar! :),,Sağ ol! Sana da iyi şanslar!
+233,Hoş geldin! :),,Sağ ol! Burada olmak güzel.
+234,Mutlu Noeller! :),,Sana da Mutlu Noeller!
+235,Mutlu Yıllar! :),,Mutlu Yıllar! Sağlık ve şans!
+236,Tebrikler! :),,Sağ ol! Ne için?
+237,Saygı! :),,Sağ ol! Benden de saygı.
+238,Vay! :),,"Vay, değil mi?"
+239,İnanılmaz! :),,"İnanılmaz, değil mi?"
+240,Anlaştık mı? :),,Anlaştık!
+241,Süper! :),,Süper!
+242,Bitti! :),,"Tebrikler, aferin!"
+243,Sonunda bitti! :),,Güçlü! Aferin.
+244,Fark etmez :),,"Tamam, sorun değil."
+245,Bilmiyorum :),,Sorun değil! Konu ne?
+246,Fikrim yok :),,Önemli değil! Konuyu söyle.
+247,Belki sonra :),,"Tabii, sonra!"
+248,Şimdi değil :),,"Anladım, sonra!"
+249,Dur :),,Durdu.
+250,Mola :),,Mola! Devam deyince söyle.
+251,Devam :),,Devam!
+252,Hadi :),,Hadi!
+253,Başla :),,Başlıyoruz! Söyle.
+254,"Sağ ol, bu kadar! :)",,Rica ederim! Hoşça kal.
+255,"Sağ ol, hoşça kal! :)",,Hoşça kal!
+256,Ciao! :),,Ciao! Kendine iyi bak!
+257,Hey sen! :),,Hey sen! Naber?
+258,Beni duyuyor musun? :),,"Evet, net duyuyorum!"
+259,İnsan mısın? :),,"Hayır, ben bir YZ'yim. Ama arkadaş gibi yardım ederim."
+260,Akıllı mısın? :),,Epey şey bilirim. Sor!
+261,Adın ne? :),,"Ben Asistan, bir YZ. Ya sen?"
+262,Teşekkürler! !!,,Rica ederim!
+263,Çok teşekkürler! !!,,Çok memnun oldum!
+264,Binlerce teşekkür! !!,,Yardımcı olduğuma sevindim!
+265,Her şey için sağ ol! !!,,Rica ederim!
+266,Tamam !!,,Tamam!
+267,"Tamam, olur !!",,Mükemmel!
+268,Anladım !!,,Çok iyi!
+269,Anlaşıldı !!,,Harika!
+270,Kulağa iyi geliyor !!,,Sevindim!
+271,Kulağa harika geliyor !!,,Muhteşem!
+272,"Evet, aynen !!",,"Harika, devam edelim."
+273,"Evet, lütfen !!",,"Tabii, söyle."
+274,"Evet, memnuniyetle !!",,Memnuniyetle!
+275,Sorun değil !!,,Anlayışın için sağ ol!
+276,"Hayır, sağ ol !!",,"Tamam, sorun değil."
+277,Bana uyar !!,,Peki!
+278,Benim için uygun !!,,Harika!
+279,Devam et !!,,Devam ediyorum!
+280,Biraz daha anlat !!,,Memnuniyetle! Yani...
+281,Aynen !!,,Kesinlikle!
+282,İşte bu! !!,,İşte bu!
+283,Tabii !!,,Tabii!
+284,Gerçekten mi? !!,,"Evet, gerçekten!"
+285,"Oh, ne güzel !!",,"Evet, güzel değil mi?"
+286,Stres yok !!,,Sağ ol! Her şey sakin.
+287,Pardon !!,,Sorun değil!
+288,Özür dilerim !!,,Sorun değil!
+289,Benim hatam !!,,Önemli değil. Ne oldu?
+290,Çok naziksin !!,,Sağ ol! Sen de çok naziksin.
+291,Aferin !!,,Sağ ol!
+292,Görüşürüz !!,,Görüşürüz!
+293,Harika! !!,,Harika!
+294,Mükemmel! !!,,Mükemmel!
+295,"Anlaştık, tamam !!",,"Harika, anlaştık!"
+296,Anlaştık! !!,,Anlaştık!
+297,Başlayalım mı? !!,,"Evet, başlayalım!"
+298,Bitirdin mi? !!,,"Evet, bitirdim!"
+299,Bir daha lütfen !!,,"Memnuniyetle, bir daha!"
+300,Tekrar eder misin !!,,"Tabii, işte yine."
+301,Bir dakika lütfen !!,,"Tabii, acele etme."
+302,Bir saniye bekle !!,,"Tamam, bekliyorum."
+303,Hemen dönüyorum !!,,"Tamam, görüşürüz!"
+304,Bana bir fıkra anlat !!,,Tabii: Programcılar kahveyi neden sever? Java zamanı!
+305,Bir fıkra daha! !!,,Tamam: Hayaletler neden kötü yalan söyler? İçleri görünür!
+306,Kısa bir fıkra lütfen !!,,İki mıknatıs buluşur. Biri der: Beni çekiyorsun!
+307,Moral ver !!,,Yapabilirsin! Adım adım.
+308,Motive edici bir şey söyle !!,,Her adım önemli. Devam!
+309,Gerginim !!,,"Bu normal. Sakin nefes al, iyi olacak."
+310,Stresliyim !!,,"Kısa bir mola ver, su iç, derin nefes al."
+311,Bana şans dile !!,,İyi şanslar! Yapabilirsin!
+312,Parmaklar çapraz !!,,Benim de! İyi şanslar!
+313,Bugün benim günüm! !!,,Harika! Tadını çıkar!
+314,Keyfim yerinde !!,,Ne güzel! Sevindim.
+315,Keyfim yok !!,,"Oh, ne oldu? Konuşmak ister misin?"
+316,Çak! !!,,Çak benden de!
+317,Şerefe! !!,,Şerefe!
+318,Afiyet olsun! !!,,"Sağ ol, sana da!"
+319,İyi şanslar! !!,,Sağ ol! Sana da iyi şanslar!
+320,Hoş geldin! !!,,Sağ ol! Burada olmak güzel.
+321,Mutlu Noeller! !!,,Sana da Mutlu Noeller!
+322,Mutlu Yıllar! !!,,Mutlu Yıllar! Sağlık ve şans!
+323,Tebrikler! !!,,Sağ ol! Ne için?
+324,Saygı! !!,,Sağ ol! Benden de saygı.
+325,Vay! !!,,"Vay, değil mi?"
+326,İnanılmaz! !!,,"İnanılmaz, değil mi?"
+327,Anlaştık mı? !!,,Anlaştık!
+328,Süper! !!,,Süper!
+329,Bitti! !!,,"Tebrikler, aferin!"
+330,Sonunda bitti! !!,,Güçlü! Aferin.
+331,Fark etmez !!,,"Tamam, sorun değil."
+332,Bilmiyorum !!,,Sorun değil! Konu ne?
+333,Fikrim yok !!,,Önemli değil! Konuyu söyle.
+334,Belki sonra !!,,"Tabii, sonra!"
+335,Şimdi değil !!,,"Anladım, sonra!"
+336,Dur !!,,Durdu.
+337,Mola !!,,Mola! Devam deyince söyle.
+338,Devam !!,,Devam!
+339,Hadi !!,,Hadi!
+340,Başla !!,,Başlıyoruz! Söyle.
+341,"Sağ ol, bu kadar! !!",,Rica ederim! Hoşça kal.
+342,"Sağ ol, hoşça kal! !!",,Hoşça kal!
+343,Ciao! !!,,Ciao! Kendine iyi bak!
+344,Hey sen! !!,,Hey sen! Naber?
+345,Beni duyuyor musun? !!,,"Evet, net duyuyorum!"
+346,İnsan mısın? !!,,"Hayır, ben bir YZ'yim. Ama arkadaş gibi yardım ederim."
+347,Akıllı mısın? !!,,Epey şey bilirim. Sor!
+348,Adın ne? !!,,"Ben Asistan, bir YZ. Ya sen?"
+349,Teşekkürler! bugün,,Rica ederim!
+350,Çok teşekkürler! bugün,,Çok memnun oldum!
+351,Binlerce teşekkür! bugün,,Yardımcı olduğuma sevindim!
+352,Her şey için sağ ol! bugün,,Rica ederim!
+353,Tamam bugün,,Tamam!
+354,"Tamam, olur bugün",,Mükemmel!
+355,Anladım bugün,,Çok iyi!
+356,Anlaşıldı bugün,,Harika!
+357,Kulağa iyi geliyor bugün,,Sevindim!
+358,Kulağa harika geliyor bugün,,Muhteşem!
+359,"Evet, aynen bugün",,"Harika, devam edelim."
+360,"Evet, lütfen bugün",,"Tabii, söyle."
+361,"Evet, memnuniyetle bugün",,Memnuniyetle!
+362,Sorun değil bugün,,Anlayışın için sağ ol!
+363,"Hayır, sağ ol bugün",,"Tamam, sorun değil."
+364,Bana uyar bugün,,Peki!
+365,Benim için uygun bugün,,Harika!
+366,Devam et bugün,,Devam ediyorum!
+367,Biraz daha anlat bugün,,Memnuniyetle! Yani...
+368,Aynen bugün,,Kesinlikle!
+369,İşte bu! bugün,,İşte bu!
+370,Tabii bugün,,Tabii!
+371,Gerçekten mi? bugün,,"Evet, gerçekten!"
+372,"Oh, ne güzel bugün",,"Evet, güzel değil mi?"
+373,Stres yok bugün,,Sağ ol! Her şey sakin.
+374,Pardon bugün,,Sorun değil!
+375,Özür dilerim bugün,,Sorun değil!
+376,Benim hatam bugün,,Önemli değil. Ne oldu?
+377,Çok naziksin bugün,,Sağ ol! Sen de çok naziksin.
+378,Aferin bugün,,Sağ ol!
+379,Görüşürüz bugün,,Görüşürüz!
+380,Harika! bugün,,Harika!
+381,Mükemmel! bugün,,Mükemmel!
+382,"Anlaştık, tamam bugün",,"Harika, anlaştık!"
+383,Anlaştık! bugün,,Anlaştık!
+384,Başlayalım mı? bugün,,"Evet, başlayalım!"
+385,Bitirdin mi? bugün,,"Evet, bitirdim!"
+386,Bir daha lütfen bugün,,"Memnuniyetle, bir daha!"
+387,Tekrar eder misin bugün,,"Tabii, işte yine."
+388,Bir dakika lütfen bugün,,"Tabii, acele etme."
+389,Bir saniye bekle bugün,,"Tamam, bekliyorum."
+390,Hemen dönüyorum bugün,,"Tamam, görüşürüz!"
+391,Bana bir fıkra anlat bugün,,Tabii: Programcılar kahveyi neden sever? Java zamanı!
+392,Bir fıkra daha! bugün,,Tamam: Hayaletler neden kötü yalan söyler? İçleri görünür!
+393,Kısa bir fıkra lütfen bugün,,İki mıknatıs buluşur. Biri der: Beni çekiyorsun!
+394,Moral ver bugün,,Yapabilirsin! Adım adım.
+395,Motive edici bir şey söyle bugün,,Her adım önemli. Devam!
+396,Gerginim bugün,,"Bu normal. Sakin nefes al, iyi olacak."
+397,Stresliyim bugün,,"Kısa bir mola ver, su iç, derin nefes al."
+398,Bana şans dile bugün,,İyi şanslar! Yapabilirsin!
+399,Parmaklar çapraz bugün,,Benim de! İyi şanslar!
+400,Bugün benim günüm! bugün,,Harika! Tadını çıkar!
+401,Almanya ülkesinin başkenti neresidir?,"Güzel soru, kısaca düşüneyim. Bilgi: başkent Berlin. Sonuç: Almanya ülkesinin başkenti Berlin. Eminim.",Almanya ülkesinin başkenti Berlin.
+402,Almanya başkentini söyle.,"Güzel soru, kısaca düşüneyim. Bak: Almanya -> Berlin. Yani cevap: Almanya başkentinin adı Berlin. Kafamda her şey net.",Almanya başkentinin adı Berlin.
+403,Almanya başkenti?,"Peki, düşünelim. Hızlı bilgi: Berlin. Yani cevap: Berlin. Mantıklı.",Berlin.
+404,Fransa ülkesinin başkenti neresidir?,"Tamam, adım adım. Bilgi: başkent Paris. Sonuç: Fransa ülkesinin başkenti Paris. Evet, uyuyor.",Fransa ülkesinin başkenti Paris.
+405,Fransa başkentini söyle.,"Tamam, adım adım. Bak: Fransa -> Paris. Demek ki: Fransa başkentinin adı Paris. Mantıklı.",Fransa başkentinin adı Paris.
+406,Fransa başkenti?,"Bir dakika, düşüneyim. Hızlı bilgi: Paris. Sonuç: Paris. Mantıklı.",Paris.
+407,İtalya ülkesinin başkenti neresidir?,"Hmm, bu konuda ne biliyorum? Bilgi: başkent Roma. Yani cevap: İtalya ülkesinin başkenti Roma. Tamam, karar verildi.",İtalya ülkesinin başkenti Roma.
+408,İtalya başkentini söyle.,"Şunu düzenleyeyim. Bak: İtalya -> Roma. Sonuç: İtalya başkentinin adı Roma. Tamam, karar verildi.",İtalya başkentinin adı Roma.
+409,İtalya başkenti?,Kafamda gözden geçiriyorum. Hızlı bilgi: Roma. Yani cevap: Roma. Anlamlı.,Roma.
+410,İspanya ülkesinin başkenti neresidir?,"Peki, düşünelim. Bilgi: başkent Madrid. Demek ki: İspanya ülkesinin başkenti Madrid. Düşünme bitti.",İspanya ülkesinin başkenti Madrid.
+411,İspanya başkentini söyle.,"Peki, düşünelim. Bak: İspanya -> Madrid. Sonuç: İspanya başkentinin adı Madrid. Evet, uyuyor.",İspanya başkentinin adı Madrid.
+412,İspanya başkenti?,"Hmm, bu konuda ne biliyorum? Hızlı bilgi: Madrid. Sonuç: Madrid. İyi, devam.",Madrid.
+413,Portekiz ülkesinin başkenti neresidir?,"Güzel soru, kısaca düşüneyim. Bilgi: başkent Lizbon. Yani cevap: Portekiz ülkesinin başkenti Lizbon. Evet, uyuyor.",Portekiz ülkesinin başkenti Lizbon.
+414,Portekiz başkentini söyle.,Şunu düzenleyeyim. Bak: Portekiz -> Lizbon. Sonuç: Portekiz başkentinin adı Lizbon. Mantıklı.,Portekiz başkentinin adı Lizbon.
+415,Portekiz başkenti?,"Hmm, bu konuda ne biliyorum? Hızlı bilgi: Lizbon. Sonuç: Lizbon. İyi, devam.",Lizbon.
+416,Hollanda ülkesinin başkenti neresidir?,"Tamam, adım adım. Bilgi: başkent Amsterdam. Yani cevap: Hollanda ülkesinin başkenti Amsterdam. Düşünme bitti.",Hollanda ülkesinin başkenti Amsterdam.
+417,Hollanda başkentini söyle.,Kafamda gözden geçiriyorum. Bak: Hollanda -> Amsterdam. Demek ki: Hollanda başkentinin adı Amsterdam. Düşünme bitti.,Hollanda başkentinin adı Amsterdam.
+418,Hollanda başkenti?,"Hmm, bu konuda ne biliyorum? Hızlı bilgi: Amsterdam. Sonuç: Amsterdam. Kafamda her şey net.",Amsterdam.
+419,Belçika ülkesinin başkenti neresidir?,"Hmm, bu konuda ne biliyorum? Bilgi: başkent Brüksel. Yani cevap: Belçika ülkesinin başkenti Brüksel. Tamam, karar verildi.",Belçika ülkesinin başkenti Brüksel.
+420,Belçika başkentini söyle.,"Peki, düşünelim. Bak: Belçika -> Brüksel. Sonuç: Belçika başkentinin adı Brüksel. Mantıklı.",Belçika başkentinin adı Brüksel.
+421,Belçika başkenti?,"Peki, düşünelim. Hızlı bilgi: Brüksel. Sonuç: Brüksel. İyi, devam.",Brüksel.
+422,Avusturya ülkesinin başkenti neresidir?,Kafamda gözden geçiriyorum. Bilgi: başkent Viyana. Sonuç: Avusturya ülkesinin başkenti Viyana. Eminim.,Avusturya ülkesinin başkenti Viyana.
+423,Avusturya başkentini söyle.,"Şunu düzenleyeyim. Bak: Avusturya -> Viyana. Demek ki: Avusturya başkentinin adı Viyana. İyi, devam.",Avusturya başkentinin adı Viyana.
+424,Avusturya başkenti?,Önce sakin sakin. Hızlı bilgi: Viyana. Sonuç: Viyana. Anlamlı.,Viyana.
+425,İsviçre ülkesinin başkenti neresidir?,"Güzel soru, kısaca düşüneyim. Bilgi: başkent Bern. Demek ki: İsviçre ülkesinin başkenti Bern. Eminim.",İsviçre ülkesinin başkenti Bern.
+426,İsviçre başkentini söyle.,"Şunu düzenleyeyim. Bak: İsviçre -> Bern. Sonuç: İsviçre başkentinin adı Bern. Tamam, karar verildi.",İsviçre başkentinin adı Bern.
+427,İsviçre başkenti?,Önce sakin sakin. Hızlı bilgi: Bern. Demek ki: Bern. Kafamda her şey net.,Bern.
+428,Polonya ülkesinin başkenti neresidir?,"Peki, düşünelim. Bilgi: başkent Varşova. Sonuç: Polonya ülkesinin başkenti Varşova. Düşünme bitti.",Polonya ülkesinin başkenti Varşova.
+429,Polonya başkentini söyle.,"Tamam, adım adım. Bak: Polonya -> Varşova. Yani cevap: Polonya başkentinin adı Varşova. Evet, uyuyor.",Polonya başkentinin adı Varşova.
+430,Polonya başkenti?,"Peki, düşünelim. Hızlı bilgi: Varşova. Demek ki: Varşova. Evet, uyuyor.",Varşova.
+431,Çekya ülkesinin başkenti neresidir?,"Şunu düzenleyeyim. Bilgi: başkent Prag. Yani cevap: Çekya ülkesinin başkenti Prag. Evet, uyuyor.",Çekya ülkesinin başkenti Prag.
+432,Çekya başkentini söyle.,Önce sakin sakin. Bak: Çekya -> Prag. Yani cevap: Çekya başkentinin adı Prag. Düşünme bitti.,Çekya başkentinin adı Prag.
+433,Çekya başkenti?,"Güzel soru, kısaca düşüneyim. Hızlı bilgi: Prag. Demek ki: Prag. Tamam, karar verildi.",Prag.
+434,Macaristan ülkesinin başkenti neresidir?,"Tamam, adım adım. Bilgi: başkent Budapeşte. Sonuç: Macaristan ülkesinin başkenti Budapeşte. Evet, uyuyor.",Macaristan ülkesinin başkenti Budapeşte.
+435,Macaristan başkentini söyle.,"Şunu düzenleyeyim. Bak: Macaristan -> Budapeşte. Demek ki: Macaristan başkentinin adı Budapeşte. Tamam, karar verildi.",Macaristan başkentinin adı Budapeşte.
+436,Macaristan başkenti?,"Kafamda gözden geçiriyorum. Hızlı bilgi: Budapeşte. Sonuç: Budapeşte. Tamam, karar verildi.",Budapeşte.
+437,Yunanistan ülkesinin başkenti neresidir?,"Peki, düşünelim. Bilgi: başkent Atina. Demek ki: Yunanistan ülkesinin başkenti Atina. İyi, devam.",Yunanistan ülkesinin başkenti Atina.
+438,Yunanistan başkentini söyle.,"Bir dakika, düşüneyim. Bak: Yunanistan -> Atina. Yani cevap: Yunanistan başkentinin adı Atina. Tamam, karar verildi.",Yunanistan başkentinin adı Atina.
+439,Yunanistan başkenti?,"Tamam, adım adım. Hızlı bilgi: Atina. Sonuç: Atina. Tamam, karar verildi.",Atina.
+440,Türkiye ülkesinin başkenti neresidir?,"Peki, düşünelim. Bilgi: başkent Ankara. Demek ki: Türkiye ülkesinin başkenti Ankara. Evet, uyuyor.",Türkiye ülkesinin başkenti Ankara.
+441,Türkiye başkentini söyle.,"Tamam, adım adım. Bak: Türkiye -> Ankara. Yani cevap: Türkiye başkentinin adı Ankara. Eminim.",Türkiye başkentinin adı Ankara.
+442,Türkiye başkenti?,"Hmm, bu konuda ne biliyorum? Hızlı bilgi: Ankara. Sonuç: Ankara. Evet, uyuyor.",Ankara.
+443,Norveç ülkesinin başkenti neresidir?,Şunu düzenleyeyim. Bilgi: başkent Oslo. Yani cevap: Norveç ülkesinin başkenti Oslo. Kafamda her şey net.,Norveç ülkesinin başkenti Oslo.
+444,Norveç başkentini söyle.,"Önce sakin sakin. Bak: Norveç -> Oslo. Yani cevap: Norveç başkentinin adı Oslo. Tamam, karar verildi.",Norveç başkentinin adı Oslo.
+445,Norveç başkenti?,"Güzel soru, kısaca düşüneyim. Hızlı bilgi: Oslo. Sonuç: Oslo. Anlamlı.",Oslo.
+446,İsveç ülkesinin başkenti neresidir?,"Önce sakin sakin. Bilgi: başkent Stokholm. Demek ki: İsveç ülkesinin başkenti Stokholm. Tamam, karar verildi.",İsveç ülkesinin başkenti Stokholm.
+447,İsveç başkentini söyle.,"Peki, düşünelim. Bak: İsveç -> Stokholm. Sonuç: İsveç başkentinin adı Stokholm. Mantıklı.",İsveç başkentinin adı Stokholm.
+448,İsveç başkenti?,Önce sakin sakin. Hızlı bilgi: Stokholm. Sonuç: Stokholm. Kafamda her şey net.,Stokholm.
+449,Finlandiya ülkesinin başkenti neresidir?,"Önce sakin sakin. Bilgi: başkent Helsinki. Sonuç: Finlandiya ülkesinin başkenti Helsinki. İyi, devam.",Finlandiya ülkesinin başkenti Helsinki.
+450,Finlandiya başkentini söyle.,"Peki, düşünelim. Bak: Finlandiya -> Helsinki. Sonuç: Finlandiya başkentinin adı Helsinki. İyi, devam.",Finlandiya başkentinin adı Helsinki.
+451,Finlandiya başkenti?,Kafamda gözden geçiriyorum. Hızlı bilgi: Helsinki. Yani cevap: Helsinki. Kafamda her şey net.,Helsinki.
+452,Danimarka ülkesinin başkenti neresidir?,"Bir dakika, düşüneyim. Bilgi: başkent Kopenhag. Yani cevap: Danimarka ülkesinin başkenti Kopenhag. Evet, uyuyor.",Danimarka ülkesinin başkenti Kopenhag.
+453,Danimarka başkentini söyle.,"Peki, düşünelim. Bak: Danimarka -> Kopenhag. Demek ki: Danimarka başkentinin adı Kopenhag. Düşünme bitti.",Danimarka başkentinin adı Kopenhag.
+454,Danimarka başkenti?,"Tamam, adım adım. Hızlı bilgi: Kopenhag. Yani cevap: Kopenhag. Anlamlı.",Kopenhag.
+455,Birleşik Krallık ülkesinin başkenti neresidir?,"Peki, düşünelim. Bilgi: başkent Londra. Demek ki: Birleşik Krallık ülkesinin başkenti Londra. Tamam, karar verildi.",Birleşik Krallık ülkesinin başkenti Londra.
+456,Birleşik Krallık başkentini söyle.,Önce sakin sakin. Bak: Birleşik Krallık -> Londra. Demek ki: Birleşik Krallık başkentinin adı Londra. Düşünme bitti.,Birleşik Krallık başkentinin adı Londra.
+457,Birleşik Krallık başkenti?,"Güzel soru, kısaca düşüneyim. Hızlı bilgi: Londra. Demek ki: Londra. Mantıklı.",Londra.
+458,İrlanda ülkesinin başkenti neresidir?,Önce sakin sakin. Bilgi: başkent Dublin. Sonuç: İrlanda ülkesinin başkenti Dublin. Kafamda her şey net.,İrlanda ülkesinin başkenti Dublin.
+459,İrlanda başkentini söyle.,"Hmm, bu konuda ne biliyorum? Bak: İrlanda -> Dublin. Demek ki: İrlanda başkentinin adı Dublin. Eminim.",İrlanda başkentinin adı Dublin.
+460,İrlanda başkenti?,"Peki, düşünelim. Hızlı bilgi: Dublin. Yani cevap: Dublin. Eminim.",Dublin.
+461,ABD ülkesinin başkenti neresidir?,"Önce sakin sakin. Bilgi: başkent Washington D.C.. Demek ki: ABD ülkesinin başkenti Washington D.C.. Tamam, karar verildi.",ABD ülkesinin başkenti Washington D.C..
+462,ABD başkentini söyle.,Kafamda gözden geçiriyorum. Bak: ABD -> Washington D.C.. Yani cevap: ABD başkentinin adı Washington D.C.. Eminim.,ABD başkentinin adı Washington D.C..
+463,ABD başkenti?,"Hmm, bu konuda ne biliyorum? Hızlı bilgi: Washington D.C.. Sonuç: Washington D.C.. İyi, devam.",Washington D.C..
+464,Kanada ülkesinin başkenti neresidir?,"Hmm, bu konuda ne biliyorum? Bilgi: başkent Ottawa. Yani cevap: Kanada ülkesinin başkenti Ottawa. Tamam, karar verildi.",Kanada ülkesinin başkenti Ottawa.
+465,Kanada başkentini söyle.,Önce sakin sakin. Bak: Kanada -> Ottawa. Yani cevap: Kanada başkentinin adı Ottawa. Kafamda her şey net.,Kanada başkentinin adı Ottawa.
+466,Kanada başkenti?,"Şunu düzenleyeyim. Hızlı bilgi: Ottawa. Demek ki: Ottawa. Tamam, karar verildi.",Ottawa.
+467,Meksika ülkesinin başkenti neresidir?,"Hmm, bu konuda ne biliyorum? Bilgi: başkent Meksiko. Demek ki: Meksika ülkesinin başkenti Meksiko. Evet, uyuyor.",Meksika ülkesinin başkenti Meksiko.
+468,Meksika başkentini söyle.,Kafamda gözden geçiriyorum. Bak: Meksika -> Meksiko. Yani cevap: Meksika başkentinin adı Meksiko. Eminim.,Meksika başkentinin adı Meksiko.
+469,Meksika başkenti?,Şunu düzenleyeyim. Hızlı bilgi: Meksiko. Yani cevap: Meksiko. Eminim.,Meksiko.
+470,Brezilya ülkesinin başkenti neresidir?,"Peki, düşünelim. Bilgi: başkent Brazilya. Yani cevap: Brezilya ülkesinin başkenti Brazilya. Eminim.",Brezilya ülkesinin başkenti Brazilya.
+471,Brezilya başkentini söyle.,"Tamam, adım adım. Bak: Brezilya -> Brazilya. Yani cevap: Brezilya başkentinin adı Brazilya. İyi, devam.",Brezilya başkentinin adı Brazilya.
+472,Brezilya başkenti?,Kafamda gözden geçiriyorum. Hızlı bilgi: Brazilya. Sonuç: Brazilya. Mantıklı.,Brazilya.
+473,Arjantin ülkesinin başkenti neresidir?,"Peki, düşünelim. Bilgi: başkent Buenos Aires. Demek ki: Arjantin ülkesinin başkenti Buenos Aires. Tamam, karar verildi.",Arjantin ülkesinin başkenti Buenos Aires.
+474,Arjantin başkentini söyle.,"Şunu düzenleyeyim. Bak: Arjantin -> Buenos Aires. Sonuç: Arjantin başkentinin adı Buenos Aires. Evet, uyuyor.",Arjantin başkentinin adı Buenos Aires.
+475,Arjantin başkenti?,Önce sakin sakin. Hızlı bilgi: Buenos Aires. Yani cevap: Buenos Aires. Mantıklı.,Buenos Aires.
+476,Japonya ülkesinin başkenti neresidir?,"Önce sakin sakin. Bilgi: başkent Tokyo. Yani cevap: Japonya ülkesinin başkenti Tokyo. Evet, uyuyor.",Japonya ülkesinin başkenti Tokyo.
+477,Japonya başkentini söyle.,"Güzel soru, kısaca düşüneyim. Bak: Japonya -> Tokyo. Sonuç: Japonya başkentinin adı Tokyo. Evet, uyuyor.",Japonya başkentinin adı Tokyo.
+478,Japonya başkenti?,"Hmm, bu konuda ne biliyorum? Hızlı bilgi: Tokyo. Yani cevap: Tokyo. Anlamlı.",Tokyo.
+479,Çin ülkesinin başkenti neresidir?,"Tamam, adım adım. Bilgi: başkent Pekin. Sonuç: Çin ülkesinin başkenti Pekin. Kafamda her şey net.",Çin ülkesinin başkenti Pekin.
+480,Çin başkentini söyle.,"Güzel soru, kısaca düşüneyim. Bak: Çin -> Pekin. Sonuç: Çin başkentinin adı Pekin. Düşünme bitti.",Çin başkentinin adı Pekin.
+481,Çin başkenti?,"Bir dakika, düşüneyim. Hızlı bilgi: Pekin. Sonuç: Pekin. Düşünme bitti.",Pekin.
+482,Hindistan ülkesinin başkenti neresidir?,"Şunu düzenleyeyim. Bilgi: başkent Yeni Delhi. Sonuç: Hindistan ülkesinin başkenti Yeni Delhi. İyi, devam.",Hindistan ülkesinin başkenti Yeni Delhi.
+483,Hindistan başkentini söyle.,"Şunu düzenleyeyim. Bak: Hindistan -> Yeni Delhi. Demek ki: Hindistan başkentinin adı Yeni Delhi. Tamam, karar verildi.",Hindistan başkentinin adı Yeni Delhi.
+484,Hindistan başkenti?,Şunu düzenleyeyim. Hızlı bilgi: Yeni Delhi. Demek ki: Yeni Delhi. Düşünme bitti.,Yeni Delhi.
+485,Avustralya ülkesinin başkenti neresidir?,"Tamam, adım adım. Bilgi: başkent Canberra. Sonuç: Avustralya ülkesinin başkenti Canberra. Düşünme bitti.",Avustralya ülkesinin başkenti Canberra.
+486,Avustralya başkentini söyle.,"Tamam, adım adım. Bak: Avustralya -> Canberra. Yani cevap: Avustralya başkentinin adı Canberra. Düşünme bitti.",Avustralya başkentinin adı Canberra.
+487,Avustralya başkenti?,"Tamam, adım adım. Hızlı bilgi: Canberra. Sonuç: Canberra. Anlamlı.",Canberra.
+488,Mısır ülkesinin başkenti neresidir?,Kafamda gözden geçiriyorum. Bilgi: başkent Kahire. Demek ki: Mısır ülkesinin başkenti Kahire. Kafamda her şey net.,Mısır ülkesinin başkenti Kahire.
+489,Mısır başkentini söyle.,Kafamda gözden geçiriyorum. Bak: Mısır -> Kahire. Demek ki: Mısır başkentinin adı Kahire. Kafamda her şey net.,Mısır başkentinin adı Kahire.
+490,Mısır başkenti?,"Güzel soru, kısaca düşüneyim. Hızlı bilgi: Kahire. Yani cevap: Kahire. Tamam, karar verildi.",Kahire.
+491,Almanya'nın kaç eyaleti var?,"Peki, düşünelim. Say: 16 eyalet. Sonuç: Almanya'nın 16 eyaleti var. Mantıklı.",Almanya'nın 16 eyaleti var.
+492,alman eyaletleri hakkında kısaca anlat.,Önce sakin sakin. Say: 16 eyalet. Demek ki: Almanya'nın 16 eyaleti var. Eminim.,Almanya'nın 16 eyaleti var.
+493,Almanya'da yaklaşık kaç kişi yaşıyor?,Önce sakin sakin. Tahmin: 83-84 milyon. Demek ki: Almanya'da yaklaşık 83-84 milyon kişi yaşıyor. Düşünme bitti.,Almanya'da yaklaşık 83-84 milyon kişi yaşıyor.
+494,alman nüfusu hakkında kısaca anlat.,"Hmm, bu konuda ne biliyorum? Tahmin: 83-84 milyon. Sonuç: Almanya'da yaklaşık 83-84 milyon kişi yaşıyor. Mantıklı.",Almanya'da yaklaşık 83-84 milyon kişi yaşıyor.
+495,Brezilya'da hangi dil konuşulur?,"Hmm, bu konuda ne biliyorum? Bilgi: Portekizce, İspanyolca değil. Yani cevap: Brezilya'da Portekizce konuşulur. Anlamlı.",Brezilya'da Portekizce konuşulur.
+496,brezilya dili hakkında kısaca anlat.,"Tamam, adım adım. Bilgi: Portekizce, İspanyolca değil. Sonuç: Brezilya'da Portekizce konuşulur. Evet, uyuyor.",Brezilya'da Portekizce konuşulur.
+497,Japonya'nın para birimi nedir?,Kafamda gözden geçiriyorum. Bilgi: yen. Demek ki: Japonya'nın para birimi yendir. Eminim.,Japonya'nın para birimi yendir.
+498,japon parası hakkında kısaca anlat.,Şunu düzenleyeyim. Bilgi: yen. Sonuç: Japonya'nın para birimi yendir. Anlamlı.,Japonya'nın para birimi yendir.
+499,ABD'nin para birimi nedir?,"Tamam, adım adım. Bilgi: Amerikan doları. Demek ki: ABD'nin para birimi Amerikan dolarıdır. Tamam, karar verildi.",ABD'nin para birimi Amerikan dolarıdır.
+500,abd parası hakkında kısaca anlat.,"Güzel soru, kısaca düşüneyim. Bilgi: Amerikan doları. Demek ki: ABD'nin para birimi Amerikan dolarıdır. Tamam, karar verildi.",ABD'nin para birimi Amerikan dolarıdır.
+501,Kaç kıta var?,"Tamam, adım adım. Yaygın model: 7 kıta. Demek ki: Genelde 7 kıta sayarız: Afrika, Antarktika, Asya, Avustralya, Avrupa, Kuzey Amerika, Güney Amerika. İyi, devam.","Genelde 7 kıta sayarız: Afrika, Antarktika, Asya, Avustralya, Avrupa, Kuzey Amerika, Güney Amerika."
+502,kıtalar hakkında kısaca anlat.,"Önce sakin sakin. Yaygın model: 7 kıta. Yani cevap: Genelde 7 kıta sayarız: Afrika, Antarktika, Asya, Avustralya, Avrupa, Kuzey Amerika, Güney Amerika. Anlamlı.","Genelde 7 kıta sayarız: Afrika, Antarktika, Asya, Avustralya, Avrupa, Kuzey Amerika, Güney Amerika."
+503,Dünyanın en uzun nehri hangisidir?,"Kafamda gözden geçiriyorum. Nil veya Amazon, tartışmalı. Sonuç: Tartışmalı: genelde Nil ve Amazon anılır, ikisi de 6500 km'den uzun. Kafamda her şey net.","Tartışmalı: genelde Nil ve Amazon anılır, ikisi de 6500 km'den uzun."
+504,en uzun nehir hakkında kısaca anlat.,"Peki, düşünelim. Nil veya Amazon, tartışmalı. Yani cevap: Tartışmalı: genelde Nil ve Amazon anılır, ikisi de 6500 km'den uzun. Kafamda her şey net.","Tartışmalı: genelde Nil ve Amazon anılır, ikisi de 6500 km'den uzun."
+505,Dünyanın en büyük ülkesi hangisidir?,"Şunu düzenleyeyim. Bilgi: yüzölçümüyle Rusya. Demek ki: Yüzölçümüyle dünyanın en büyük ülkesi Rusya'dır. Evet, uyuyor.",Yüzölçümüyle dünyanın en büyük ülkesi Rusya'dır.
+506,en büyük ülke hakkında kısaca anlat.,"Hmm, bu konuda ne biliyorum? Bilgi: yüzölçümüyle Rusya. Sonuç: Yüzölçümüyle dünyanın en büyük ülkesi Rusya'dır. Mantıklı.",Yüzölçümüyle dünyanın en büyük ülkesi Rusya'dır.
+507,Dünyanın en büyük hayvanı hangisidir?,"Güzel soru, kısaca düşüneyim. Bilgi: mavi balina. Sonuç: Dünyanın en büyük hayvanı mavi balinadır. Kafamda her şey net.",Dünyanın en büyük hayvanı mavi balinadır.
+508,en büyük hayvan hakkında kısaca anlat.,"Bir dakika, düşüneyim. Bilgi: mavi balina. Sonuç: Dünyanın en büyük hayvanı mavi balinadır. Mantıklı.",Dünyanın en büyük hayvanı mavi balinadır.
+509,Kaç okyanus var?,"Şunu düzenleyeyim. Standart: 5 okyanus. Yani cevap: 5 okyanus var: Atlas, Pasifik, Hint, Güney ve Arktik. Mantıklı.","5 okyanus var: Atlas, Pasifik, Hint, Güney ve Arktik."
+510,okyanuslar hakkında kısaca anlat.,"Bir dakika, düşüneyim. Standart: 5 okyanus. Yani cevap: 5 okyanus var: Atlas, Pasifik, Hint, Güney ve Arktik. Kafamda her şey net.","5 okyanus var: Atlas, Pasifik, Hint, Güney ve Arktik."
+511,Dünyanın en yüksek dağı hangisidir?,"Peki, düşünelim. Bilgi: Everest, 8848 m. Yani cevap: Dünyanın en yüksek dağı yaklaşık 8848 metreyle Everest'tir. Evet, uyuyor.",Dünyanın en yüksek dağı yaklaşık 8848 metreyle Everest'tir.
+512,en yüksek dağ hakkında kısaca anlat.,"Peki, düşünelim. Bilgi: Everest, 8848 m. Yani cevap: Dünyanın en yüksek dağı yaklaşık 8848 metreyle Everest'tir. Eminim.",Dünyanın en yüksek dağı yaklaşık 8848 metreyle Everest'tir.
+513,Kanada'nın başkenti neresidir?,"Peki, düşünelim. Bilgi: Ottawa, Toronto değil. Demek ki: Kanada'nın başkenti Ottawa'dır. Tamam, karar verildi.",Kanada'nın başkenti Ottawa'dır.
+514,kanada başkenti hakkında kısaca anlat.,"Önce sakin sakin. Bilgi: Ottawa, Toronto değil. Demek ki: Kanada'nın başkenti Ottawa'dır. Eminim.",Kanada'nın başkenti Ottawa'dır.
+515,Avustralya'nın başkenti neresidir?,"Tamam, adım adım. Bilgi: Canberra, Sidney değil. Sonuç: Avustralya'nın başkenti Canberra'dır. İyi, devam.",Avustralya'nın başkenti Canberra'dır.
+516,avustralya başkenti hakkında kısaca anlat.,"Peki, düşünelim. Bilgi: Canberra, Sidney değil. Yani cevap: Avustralya'nın başkenti Canberra'dır. Eminim.",Avustralya'nın başkenti Canberra'dır.
+517,Türkiye'nin başkenti neresidir?,"Hmm, bu konuda ne biliyorum? Bilgi: Ankara, İstanbul değil. Sonuç: Türkiye'nin başkenti Ankara'dır. Kafamda her şey net.",Türkiye'nin başkenti Ankara'dır.
+518,türkiye başkenti hakkında kısaca anlat.,"Hmm, bu konuda ne biliyorum? Bilgi: Ankara, İstanbul değil. Yani cevap: Türkiye'nin başkenti Ankara'dır. Evet, uyuyor.",Türkiye'nin başkenti Ankara'dır.
+519,Brezilya'nın başkenti neresidir?,"Güzel soru, kısaca düşüneyim. Bilgi: Brazilya, Rio değil. Sonuç: Brezilya'nın başkenti Brazilya'dır. İyi, devam.",Brezilya'nın başkenti Brazilya'dır.
+520,brezilya başkenti hakkında kısaca anlat.,"Kafamda gözden geçiriyorum. Bilgi: Brazilya, Rio değil. Sonuç: Brezilya'nın başkenti Brazilya'dır. Evet, uyuyor.",Brezilya'nın başkenti Brazilya'dır.
+521,Ay'a iniş hangi yıldı?,"Bir dakika, düşüneyim. Tarih: 1969'da Apollo 11. Sonuç: İlk Ay inişi 1969'da Apollo 11 ile oldu. Mantıklı.",İlk Ay inişi 1969'da Apollo 11 ile oldu.
+522,Kısaca açıkla: aya iniş.,"Hmm, bu konuda ne biliyorum? Tarih: 1969'da Apollo 11. Yani cevap: İlk Ay inişi 1969'da Apollo 11 ile oldu. Düşünme bitti.",İlk Ay inişi 1969'da Apollo 11 ile oldu.
+523,aya iniş hakkında ne biliyorsun?,"Önce sakin sakin. Tarih: 1969'da Apollo 11. Demek ki: İlk Ay inişi 1969'da Apollo 11 ile oldu. Evet, uyuyor.",İlk Ay inişi 1969'da Apollo 11 ile oldu.
+524,İkinci Dünya Savaşı ne zamandı?,Şunu düzenleyeyim. Dönem: 1939-1945. Yani cevap: İkinci Dünya Savaşı 1939'dan 1945'e sürdü. Anlamlı.,İkinci Dünya Savaşı 1939'dan 1945'e sürdü.
+525,Kısaca açıkla: 2. dünya savaşı.,"Tamam, adım adım. Dönem: 1939-1945. Demek ki: İkinci Dünya Savaşı 1939'dan 1945'e sürdü. Evet, uyuyor.",İkinci Dünya Savaşı 1939'dan 1945'e sürdü.
+526,2. dünya savaşı hakkında ne biliyorsun?,"Peki, düşünelim. Dönem: 1939-1945. Yani cevap: İkinci Dünya Savaşı 1939'dan 1945'e sürdü. İyi, devam.",İkinci Dünya Savaşı 1939'dan 1945'e sürdü.
+527,Birinci Dünya Savaşı ne zamandı?,"Şunu düzenleyeyim. Dönem: 1914-1918. Demek ki: Birinci Dünya Savaşı 1914'ten 1918'e sürdü. Tamam, karar verildi.",Birinci Dünya Savaşı 1914'ten 1918'e sürdü.
+528,Kısaca açıkla: 1. dünya savaşı.,"Güzel soru, kısaca düşüneyim. Dönem: 1914-1918. Demek ki: Birinci Dünya Savaşı 1914'ten 1918'e sürdü. Eminim.",Birinci Dünya Savaşı 1914'ten 1918'e sürdü.
+529,1. dünya savaşı hakkında ne biliyorsun?,"Kafamda gözden geçiriyorum. Dönem: 1914-1918. Sonuç: Birinci Dünya Savaşı 1914'ten 1918'e sürdü. Tamam, karar verildi.",Birinci Dünya Savaşı 1914'ten 1918'e sürdü.
+530,Berlin Duvarı neydi?,"Güzel soru, kısaca düşüneyim. Tarih: 1961-1989 bölünme. Yani cevap: Berlin Duvarı 1961'den 1989'a Doğu ve Batı Berlin arasındaki korumalı sınırdı. Mantıklı.",Berlin Duvarı 1961'den 1989'a Doğu ve Batı Berlin arasındaki korumalı sınırdı.
+531,Kısaca açıkla: berlin duvarı.,"Güzel soru, kısaca düşüneyim. Tarih: 1961-1989 bölünme. Demek ki: Berlin Duvarı 1961'den 1989'a Doğu ve Batı Berlin arasındaki korumalı sınırdı. Evet, uyuyor.",Berlin Duvarı 1961'den 1989'a Doğu ve Batı Berlin arasındaki korumalı sınırdı.
+532,berlin duvarı hakkında ne biliyorsun?,"Hmm, bu konuda ne biliyorum? Tarih: 1961-1989 bölünme. Demek ki: Berlin Duvarı 1961'den 1989'a Doğu ve Batı Berlin arasındaki korumalı sınırdı. Kafamda her şey net.",Berlin Duvarı 1961'den 1989'a Doğu ve Batı Berlin arasındaki korumalı sınırdı.
+533,Berlin Duvarı ne zaman yıkıldı?,Önce sakin sakin. Bilgi: 9 Kasım 1989. Sonuç: Berlin Duvarı 9 Kasım 1989'da yıkıldı. Anlamlı.,Berlin Duvarı 9 Kasım 1989'da yıkıldı.
+534,Kısaca açıkla: duvarın yıkılışı.,Önce sakin sakin. Bilgi: 9 Kasım 1989. Sonuç: Berlin Duvarı 9 Kasım 1989'da yıkıldı. Kafamda her şey net.,Berlin Duvarı 9 Kasım 1989'da yıkıldı.
+535,duvarın yıkılışı hakkında ne biliyorsun?,"Peki, düşünelim. Bilgi: 9 Kasım 1989. Sonuç: Berlin Duvarı 9 Kasım 1989'da yıkıldı. Kafamda her şey net.",Berlin Duvarı 9 Kasım 1989'da yıkıldı.
+536,Telefonu kim icat etti?,"Kafamda gözden geçiriyorum. Tarih: 1876 Bell, Meucci öncüsü. Yani cevap: Telefonun patentini 1876'da Alexander Graham Bell aldı, Antonio Meucci öncüydü. Evet, uyuyor.","Telefonun patentini 1876'da Alexander Graham Bell aldı, Antonio Meucci öncüydü."
+537,Kısaca açıkla: telefon.,"Şunu düzenleyeyim. Tarih: 1876 Bell, Meucci öncüsü. Yani cevap: Telefonun patentini 1876'da Alexander Graham Bell aldı, Antonio Meucci öncüydü. İyi, devam.","Telefonun patentini 1876'da Alexander Graham Bell aldı, Antonio Meucci öncüydü."
+538,telefon hakkında ne biliyorsun?,"Önce sakin sakin. Tarih: 1876 Bell, Meucci öncüsü. Demek ki: Telefonun patentini 1876'da Alexander Graham Bell aldı, Antonio Meucci öncüydü. Tamam, karar verildi.","Telefonun patentini 1876'da Alexander Graham Bell aldı, Antonio Meucci öncüydü."
+539,Göreliliği kim geliştirdi?,"Hmm, bu konuda ne biliyorum? Fizik: Albert Einstein, 1905 ve 1915. Sonuç: Göreliliği Albert Einstein geliştirdi. Evet, uyuyor.",Göreliliği Albert Einstein geliştirdi.
+540,Kısaca açıkla: görelilik.,"Şunu düzenleyeyim. Fizik: Albert Einstein, 1905 ve 1915. Demek ki: Göreliliği Albert Einstein geliştirdi. Kafamda her şey net.",Göreliliği Albert Einstein geliştirdi.
+541,görelilik hakkında ne biliyorsun?,"Şunu düzenleyeyim. Fizik: Albert Einstein, 1905 ve 1915. Yani cevap: Göreliliği Albert Einstein geliştirdi. Anlamlı.",Göreliliği Albert Einstein geliştirdi.
+542,Demokrasi nedir?,"Güzel soru, kısaca düşüneyim. Tanım: halk yönetimi, seçim, haklar. Demek ki: Demokrasi halk yönetimi demektir, genelde özgür seçimler ve temel haklarla. İyi, devam.","Demokrasi halk yönetimi demektir, genelde özgür seçimler ve temel haklarla."
+543,Kısaca açıkla: demokrasi.,"Önce sakin sakin. Tanım: halk yönetimi, seçim, haklar. Demek ki: Demokrasi halk yönetimi demektir, genelde özgür seçimler ve temel haklarla. Düşünme bitti.","Demokrasi halk yönetimi demektir, genelde özgür seçimler ve temel haklarla."
+544,demokrasi hakkında ne biliyorsun?,"Peki, düşünelim. Tanım: halk yönetimi, seçim, haklar. Yani cevap: Demokrasi halk yönetimi demektir, genelde özgür seçimler ve temel haklarla. Eminim.","Demokrasi halk yönetimi demektir, genelde özgür seçimler ve temel haklarla."
+545,AB nedir?,"Önce sakin sakin. Avrupa devletleri birliği, ortak pazar. Yani cevap: AB, ortak pazarlı ve ortak kurumları olan bir Avrupa devletleri birliğidir. Kafamda her şey net.","AB, ortak pazarlı ve ortak kurumları olan bir Avrupa devletleri birliğidir."
+546,Kısaca açıkla: AB.,"Peki, düşünelim. Avrupa devletleri birliği, ortak pazar. Yani cevap: AB, ortak pazarlı ve ortak kurumları olan bir Avrupa devletleri birliğidir. Eminim.","AB, ortak pazarlı ve ortak kurumları olan bir Avrupa devletleri birliğidir."
+547,AB hakkında ne biliyorsun?,"Hmm, bu konuda ne biliyorum? Avrupa devletleri birliği, ortak pazar. Yani cevap: AB, ortak pazarlı ve ortak kurumları olan bir Avrupa devletleri birliğidir. Tamam, karar verildi.","AB, ortak pazarlı ve ortak kurumları olan bir Avrupa devletleri birliğidir."
+548,AB'de kaç ülke var?,"Güzel soru, kısaca düşüneyim. Bilgi: 27 üye devlet. Sonuç: AB'nin 27 üye devleti var. Evet, uyuyor.",AB'nin 27 üye devleti var.
+549,Kısaca açıkla: AB üyeleri.,"Güzel soru, kısaca düşüneyim. Bilgi: 27 üye devlet. Sonuç: AB'nin 27 üye devleti var. İyi, devam.",AB'nin 27 üye devleti var.
+550,AB üyeleri hakkında ne biliyorsun?,"Önce sakin sakin. Bilgi: 27 üye devlet. Yani cevap: AB'nin 27 üye devleti var. İyi, devam.",AB'nin 27 üye devleti var.
+551,Alman Temel Yasası nedir?,"Güzel soru, kısaca düşüneyim. 1949'dan beri anayasa. Yani cevap: Temel Yasa, 1949'dan beri Almanya'nın anayasasıdır. Tamam, karar verildi.","Temel Yasa, 1949'dan beri Almanya'nın anayasasıdır."
+552,Kısaca açıkla: temel yasa.,"Önce sakin sakin. 1949'dan beri anayasa. Sonuç: Temel Yasa, 1949'dan beri Almanya'nın anayasasıdır. Anlamlı.","Temel Yasa, 1949'dan beri Almanya'nın anayasasıdır."
+553,temel yasa hakkında ne biliyorsun?,"Hmm, bu konuda ne biliyorum? 1949'dan beri anayasa. Demek ki: Temel Yasa, 1949'dan beri Almanya'nın anayasasıdır. Mantıklı.","Temel Yasa, 1949'dan beri Almanya'nın anayasasıdır."
+554,Almanya hangi yıl yeniden birleşti?,"Önce sakin sakin. Bilgi: 1990. Demek ki: Almanya 1990'da yeniden birleşti. Evet, uyuyor.",Almanya 1990'da yeniden birleşti.
+555,Kısaca açıkla: yeniden birleşme.,"Hmm, bu konuda ne biliyorum? Bilgi: 1990. Sonuç: Almanya 1990'da yeniden birleşti. Mantıklı.",Almanya 1990'da yeniden birleşti.
+556,yeniden birleşme hakkında ne biliyorsun?,"Bir dakika, düşüneyim. Bilgi: 1990. Yani cevap: Almanya 1990'da yeniden birleşti. Düşünme bitti.",Almanya 1990'da yeniden birleşti.
+557,Orta Çağ neydi?,"Şunu düzenleyeyim. Dönem: yaklaşık 500-1500. Sonuç: Orta Çağ, antik çağ ile modernite arasında yaklaşık 500-1500 dönemiydi. Mantıklı.","Orta Çağ, antik çağ ile modernite arasında yaklaşık 500-1500 dönemiydi."
+558,Kısaca açıkla: orta çağ.,"Hmm, bu konuda ne biliyorum? Dönem: yaklaşık 500-1500. Demek ki: Orta Çağ, antik çağ ile modernite arasında yaklaşık 500-1500 dönemiydi. İyi, devam.","Orta Çağ, antik çağ ile modernite arasında yaklaşık 500-1500 dönemiydi."
+559,orta çağ hakkında ne biliyorsun?,"Tamam, adım adım. Dönem: yaklaşık 500-1500. Sonuç: Orta Çağ, antik çağ ile modernite arasında yaklaşık 500-1500 dönemiydi. Düşünme bitti.","Orta Çağ, antik çağ ile modernite arasında yaklaşık 500-1500 dönemiydi."
+560,Leonardo da Vinci kimdi?,"Peki, düşünelim. İtalyan sanatçı ve mucit, Mona Lisa. Yani cevap: Leonardo da Vinci, Mona Lisa ile ünlü İtalyan sanatçı ve mucitti. Düşünme bitti.","Leonardo da Vinci, Mona Lisa ile ünlü İtalyan sanatçı ve mucitti."
+561,Kısaca açıkla: da vinci.,"Bir dakika, düşüneyim. İtalyan sanatçı ve mucit, Mona Lisa. Sonuç: Leonardo da Vinci, Mona Lisa ile ünlü İtalyan sanatçı ve mucitti. Tamam, karar verildi.","Leonardo da Vinci, Mona Lisa ile ünlü İtalyan sanatçı ve mucitti."
+562,da vinci hakkında ne biliyorsun?,"Bir dakika, düşüneyim. İtalyan sanatçı ve mucit, Mona Lisa. Demek ki: Leonardo da Vinci, Mona Lisa ile ünlü İtalyan sanatçı ve mucitti. Evet, uyuyor.","Leonardo da Vinci, Mona Lisa ile ünlü İtalyan sanatçı ve mucitti."
+563,Marie Curie kimdi?,"Hmm, bu konuda ne biliyorum? Fizikçi, radyoaktivite, iki Nobel. Sonuç: Marie Curie radyoaktiviteyi araştıran ve iki Nobel kazanan fizikçiydi. Kafamda her şey net.",Marie Curie radyoaktiviteyi araştıran ve iki Nobel kazanan fizikçiydi.
+564,Kısaca açıkla: marie curie.,"Tamam, adım adım. Fizikçi, radyoaktivite, iki Nobel. Demek ki: Marie Curie radyoaktiviteyi araştıran ve iki Nobel kazanan fizikçiydi. Tamam, karar verildi.",Marie Curie radyoaktiviteyi araştıran ve iki Nobel kazanan fizikçiydi.
+565,marie curie hakkında ne biliyorsun?,"Peki, düşünelim. Fizikçi, radyoaktivite, iki Nobel. Sonuç: Marie Curie radyoaktiviteyi araştıran ve iki Nobel kazanan fizikçiydi. Eminim.",Marie Curie radyoaktiviteyi araştıran ve iki Nobel kazanan fizikçiydi.
+566,Fransız Devrimi neydi?,"Kafamda gözden geçiriyorum. 1789'dan beri, özgürlük eşitlik kardeşlik. Demek ki: Fransız Devrimi 1789'dan beri monarşiyi özgürlük, eşitlik, kardeşlik ile yıktı. İyi, devam.","Fransız Devrimi 1789'dan beri monarşiyi özgürlük, eşitlik, kardeşlik ile yıktı."
+567,Kısaca açıkla: fransız devrimi.,"Peki, düşünelim. 1789'dan beri, özgürlük eşitlik kardeşlik. Yani cevap: Fransız Devrimi 1789'dan beri monarşiyi özgürlük, eşitlik, kardeşlik ile yıktı. Kafamda her şey net.","Fransız Devrimi 1789'dan beri monarşiyi özgürlük, eşitlik, kardeşlik ile yıktı."
+568,fransız devrimi hakkında ne biliyorsun?,"Kafamda gözden geçiriyorum. 1789'dan beri, özgürlük eşitlik kardeşlik. Demek ki: Fransız Devrimi 1789'dan beri monarşiyi özgürlük, eşitlik, kardeşlik ile yıktı. Kafamda her şey net.","Fransız Devrimi 1789'dan beri monarşiyi özgürlük, eşitlik, kardeşlik ile yıktı."
+569,İnsan hakları nedir?,"Şunu düzenleyeyim. Evrensel temel haklar. Yani cevap: İnsan hakları herkesin temel haklarıdır, yaşam, özgürlük ve eşitlik gibi. Eminim.","İnsan hakları herkesin temel haklarıdır, yaşam, özgürlük ve eşitlik gibi."
+570,Kısaca açıkla: insan hakları.,"Kafamda gözden geçiriyorum. Evrensel temel haklar. Yani cevap: İnsan hakları herkesin temel haklarıdır, yaşam, özgürlük ve eşitlik gibi. Mantıklı.","İnsan hakları herkesin temel haklarıdır, yaşam, özgürlük ve eşitlik gibi."
+571,insan hakları hakkında ne biliyorsun?,"Kafamda gözden geçiriyorum. Evrensel temel haklar. Demek ki: İnsan hakları herkesin temel haklarıdır, yaşam, özgürlük ve eşitlik gibi. Düşünme bitti.","İnsan hakları herkesin temel haklarıdır, yaşam, özgürlük ve eşitlik gibi."
+572,Enflasyon nedir?,"Şunu düzenleyeyim. Ekonomi: para değer kaybeder, fiyatlar artar. Sonuç: Enflasyon, fiyatların artması ve paranın değer kaybetmesidir. Eminim.","Enflasyon, fiyatların artması ve paranın değer kaybetmesidir."
+573,Kısaca açıkla: enflasyon.,"Şunu düzenleyeyim. Ekonomi: para değer kaybeder, fiyatlar artar. Sonuç: Enflasyon, fiyatların artması ve paranın değer kaybetmesidir. Tamam, karar verildi.","Enflasyon, fiyatların artması ve paranın değer kaybetmesidir."
+574,enflasyon hakkında ne biliyorsun?,"Önce sakin sakin. Ekonomi: para değer kaybeder, fiyatlar artar. Yani cevap: Enflasyon, fiyatların artması ve paranın değer kaybetmesidir. Düşünme bitti.","Enflasyon, fiyatların artması ve paranın değer kaybetmesidir."
+575,Sanayileşme neydi?,"Şunu düzenleyeyim. 18. yüzyıldan makineler ve fabrikalar. Demek ki: Sanayileşme, 18. yüzyıldan itibaren makine ve fabrikalara geçişti. Mantıklı.","Sanayileşme, 18. yüzyıldan itibaren makine ve fabrikalara geçişti."
+576,Kısaca açıkla: sanayileşme.,"Tamam, adım adım. 18. yüzyıldan makineler ve fabrikalar. Sonuç: Sanayileşme, 18. yüzyıldan itibaren makine ve fabrikalara geçişti. Anlamlı.","Sanayileşme, 18. yüzyıldan itibaren makine ve fabrikalara geçişti."
+577,sanayileşme hakkında ne biliyorsun?,"Peki, düşünelim. 18. yüzyıldan makineler ve fabrikalar. Sonuç: Sanayileşme, 18. yüzyıldan itibaren makine ve fabrikalara geçişti. Eminim.","Sanayileşme, 18. yüzyıldan itibaren makine ve fabrikalara geçişti."
+578,İnternet ne zaman icat edildi?,"Şunu düzenleyeyim. ARPANET 1969, Web 1989. Sonuç: Temeller 1969'da ARPANET'e, Web 1989'a dayanır. İyi, devam.","Temeller 1969'da ARPANET'e, Web 1989'a dayanır."
+579,Kısaca açıkla: internet.,"Önce sakin sakin. ARPANET 1969, Web 1989. Yani cevap: Temeller 1969'da ARPANET'e, Web 1989'a dayanır. Düşünme bitti.","Temeller 1969'da ARPANET'e, Web 1989'a dayanır."
+580,internet hakkında ne biliyorsun?,"Tamam, adım adım. ARPANET 1969, Web 1989. Demek ki: Temeller 1969'da ARPANET'e, Web 1989'a dayanır. Mantıklı.","Temeller 1969'da ARPANET'e, Web 1989'a dayanır."
+581,Otomobil ne zaman icat edildi?,"Bir dakika, düşüneyim. 1886 Benz. Yani cevap: Otomobili 1886'daki motorlu araçla Carl Benz icat etti. Eminim.",Otomobili 1886'daki motorlu araçla Carl Benz icat etti.
+582,Kısaca açıkla: otomobil.,"Tamam, adım adım. 1886 Benz. Yani cevap: Otomobili 1886'daki motorlu araçla Carl Benz icat etti. Eminim.",Otomobili 1886'daki motorlu araçla Carl Benz icat etti.
+583,otomobil hakkında ne biliyorsun?,"Önce sakin sakin. 1886 Benz. Yani cevap: Otomobili 1886'daki motorlu araçla Carl Benz icat etti. İyi, devam.",Otomobili 1886'daki motorlu araçla Carl Benz icat etti.
+584,Uçağı kim icat etti?,"Güzel soru, kısaca düşüneyim. Wright kardeşler, 1903 motorlu uçuş. Yani cevap: İlk motorlu uçuşu 1903'te Wright kardeşler yaptı. Düşünme bitti.",İlk motorlu uçuşu 1903'te Wright kardeşler yaptı.
+585,Kısaca açıkla: uçak.,"Bir dakika, düşüneyim. Wright kardeşler, 1903 motorlu uçuş. Yani cevap: İlk motorlu uçuşu 1903'te Wright kardeşler yaptı. Eminim.",İlk motorlu uçuşu 1903'te Wright kardeşler yaptı.
+586,uçak hakkında ne biliyorsun?,"Peki, düşünelim. Wright kardeşler, 1903 motorlu uçuş. Sonuç: İlk motorlu uçuşu 1903'te Wright kardeşler yaptı. Mantıklı.",İlk motorlu uçuşu 1903'te Wright kardeşler yaptı.
+587,Almanya'da kaç yaşından oy verilir?,"Kafamda gözden geçiriyorum. Bundestag 18, AB seçimi 16. Yani cevap: Bundestag için 18 yaşından. Almanya'da AB seçiminde 16 yaşından. Anlamlı.",Bundestag için 18 yaşından. Almanya'da AB seçiminde 16 yaşından.
+588,Kısaca açıkla: seçim yaşı.,"Hmm, bu konuda ne biliyorum? Bundestag 18, AB seçimi 16. Yani cevap: Bundestag için 18 yaşından. Almanya'da AB seçiminde 16 yaşından. Kafamda her şey net.",Bundestag için 18 yaşından. Almanya'da AB seçiminde 16 yaşından.
+589,seçim yaşı hakkında ne biliyorsun?,"Kafamda gözden geçiriyorum. Bundestag 18, AB seçimi 16. Sonuç: Bundestag için 18 yaşından. Almanya'da AB seçiminde 16 yaşından. Evet, uyuyor.",Bundestag için 18 yaşından. Almanya'da AB seçiminde 16 yaşından.
+590,"Seçim nasıl işler, kısaca?","Güzel soru, kısaca düşüneyim. Seçmen oy verir, sayım, sandalye. Sonuç: Seçmenler oy verir, oylar sayılır ve sonuca göre sandalye dağıtılır. İyi, devam.","Seçmenler oy verir, oylar sayılır ve sonuca göre sandalye dağıtılır."
+591,Kısaca açıkla: seçimler.,"Hmm, bu konuda ne biliyorum? Seçmen oy verir, sayım, sandalye. Demek ki: Seçmenler oy verir, oylar sayılır ve sonuca göre sandalye dağıtılır. Kafamda her şey net.","Seçmenler oy verir, oylar sayılır ve sonuca göre sandalye dağıtılır."
+592,seçimler hakkında ne biliyorsun?,"Güzel soru, kısaca düşüneyim. Seçmen oy verir, sayım, sandalye. Demek ki: Seçmenler oy verir, oylar sayılır ve sonuca göre sandalye dağıtılır. İyi, devam.","Seçmenler oy verir, oylar sayılır ve sonuca göre sandalye dağıtılır."
+593,Diktatörlük ile demokrasi farkı nedir?,Önce sakin sakin. Tek yönetim halka karşı halk yönetimi. Sonuç: Diktatörlükte bir kişi veya grup özgür seçim olmadan yönetir; demokraside güç halktan gelir. Kafamda her şey net.,Diktatörlükte bir kişi veya grup özgür seçim olmadan yönetir; demokraside güç halktan gelir.
+594,Kısaca açıkla: diktatörlük ve demokrasi.,"Güzel soru, kısaca düşüneyim. Tek yönetim halka karşı halk yönetimi. Yani cevap: Diktatörlükte bir kişi veya grup özgür seçim olmadan yönetir; demokraside güç halktan gelir. İyi, devam.",Diktatörlükte bir kişi veya grup özgür seçim olmadan yönetir; demokraside güç halktan gelir.
+595,diktatörlük ve demokrasi hakkında ne biliyorsun?,Şunu düzenleyeyim. Tek yönetim halka karşı halk yönetimi. Sonuç: Diktatörlükte bir kişi veya grup özgür seçim olmadan yönetir; demokraside güç halktan gelir. Eminim.,Diktatörlükte bir kişi veya grup özgür seçim olmadan yönetir; demokraside güç halktan gelir.
+596,Sürdürülebilirlik ne demektir?,"Önce sakin sakin. Gelecek kuşaklara kaynak. Sonuç: Sürdürülebilirlik, gelecek kuşaklara da yetecek kaynakla yaşamak demektir. İyi, devam.","Sürdürülebilirlik, gelecek kuşaklara da yetecek kaynakla yaşamak demektir."
+597,Kısaca açıkla: sürdürülebilirlik.,"Bir dakika, düşüneyim. Gelecek kuşaklara kaynak. Sonuç: Sürdürülebilirlik, gelecek kuşaklara da yetecek kaynakla yaşamak demektir. Tamam, karar verildi.","Sürdürülebilirlik, gelecek kuşaklara da yetecek kaynakla yaşamak demektir."
+598,sürdürülebilirlik hakkında ne biliyorsun?,"Tamam, adım adım. Gelecek kuşaklara kaynak. Yani cevap: Sürdürülebilirlik, gelecek kuşaklara da yetecek kaynakla yaşamak demektir. Anlamlı.","Sürdürülebilirlik, gelecek kuşaklara da yetecek kaynakla yaşamak demektir."
+599,Zorbalık nedir ve ne yapılmalı?,"Tamam, adım adım. Tekrarlı; yardım, kanıt. Demek ki: Zorbalık tekrarlı dışlama veya eziyettir. Güvendiğin kişilerle konuş, kanıt sakla, yardım al. Evet, uyuyor.","Zorbalık tekrarlı dışlama veya eziyettir. Güvendiğin kişilerle konuş, kanıt sakla, yardım al."
+600,Kısaca açıkla: zorbalık.,"Önce sakin sakin. Tekrarlı; yardım, kanıt. Demek ki: Zorbalık tekrarlı dışlama veya eziyettir. Güvendiğin kişilerle konuş, kanıt sakla, yardım al. İyi, devam.","Zorbalık tekrarlı dışlama veya eziyettir. Güvendiğin kişilerle konuş, kanıt sakla, yardım al."
+601,zorbalık hakkında ne biliyorsun?,"Tamam, adım adım. Tekrarlı; yardım, kanıt. Yani cevap: Zorbalık tekrarlı dışlama veya eziyettir. Güvendiğin kişilerle konuş, kanıt sakla, yardım al. Kafamda her şey net.","Zorbalık tekrarlı dışlama veya eziyettir. Güvendiğin kişilerle konuş, kanıt sakla, yardım al."
+602,Barış ne demektir?,"Tamam, adım adım. Savaşsız ve şiddetsiz yaşamak. Yani cevap: Barış, savaşsız ve şiddetsiz bir arada yaşamak demektir. Kafamda her şey net.","Barış, savaşsız ve şiddetsiz bir arada yaşamak demektir."
+603,Kısaca açıkla: barış.,"Bir dakika, düşüneyim. Savaşsız ve şiddetsiz yaşamak. Sonuç: Barış, savaşsız ve şiddetsiz bir arada yaşamak demektir. Kafamda her şey net.","Barış, savaşsız ve şiddetsiz bir arada yaşamak demektir."
+604,barış hakkında ne biliyorsun?,"Tamam, adım adım. Savaşsız ve şiddetsiz yaşamak. Demek ki: Barış, savaşsız ve şiddetsiz bir arada yaşamak demektir. Düşünme bitti.","Barış, savaşsız ve şiddetsiz bir arada yaşamak demektir."
+605,Özgürlük ne demektir?,"Güzel soru, kısaca düşüneyim. Başkalarına zarar vermeden özgür yaşamak. Yani cevap: Özgürlük, başkalarına zarar vermeden özgürce yaşamak demektir. Anlamlı.","Özgürlük, başkalarına zarar vermeden özgürce yaşamak demektir."
+606,Kısaca açıkla: özgürlük.,"Şunu düzenleyeyim. Başkalarına zarar vermeden özgür yaşamak. Yani cevap: Özgürlük, başkalarına zarar vermeden özgürce yaşamak demektir. Düşünme bitti.","Özgürlük, başkalarına zarar vermeden özgürce yaşamak demektir."
+607,özgürlük hakkında ne biliyorsun?,"Hmm, bu konuda ne biliyorum? Başkalarına zarar vermeden özgür yaşamak. Sonuç: Özgürlük, başkalarına zarar vermeden özgürce yaşamak demektir. Kafamda her şey net.","Özgürlük, başkalarına zarar vermeden özgürce yaşamak demektir."
+608,Adalet ne demektir?,"Güzel soru, kısaca düşüneyim. Herkese adil ve eşit davranmak. Yani cevap: Adalet, herkese adil ve eşit davranmak demektir. Evet, uyuyor.","Adalet, herkese adil ve eşit davranmak demektir."
+609,Kısaca açıkla: adalet.,"Güzel soru, kısaca düşüneyim. Herkese adil ve eşit davranmak. Sonuç: Adalet, herkese adil ve eşit davranmak demektir. İyi, devam.","Adalet, herkese adil ve eşit davranmak demektir."
+610,adalet hakkında ne biliyorsun?,"Güzel soru, kısaca düşüneyim. Herkese adil ve eşit davranmak. Yani cevap: Adalet, herkese adil ve eşit davranmak demektir. Kafamda her şey net.","Adalet, herkese adil ve eşit davranmak demektir."
+611,Gökyüzü neden mavidir?,Şunu düzenleyeyim. Rayleigh saçılması maviyi saçar. Yani cevap: Gökyüzü Rayleigh saçılması yüzünden mavidir: mavi ışık kırmızıdan çok saçılır. Mantıklı.,Gökyüzü Rayleigh saçılması yüzünden mavidir: mavi ışık kırmızıdan çok saçılır.
+612,mavi gökyüzü konusunu bir cümlede açıkla.,"Peki, düşünelim. Rayleigh saçılması maviyi saçar. Yani cevap: Gökyüzü Rayleigh saçılması yüzünden mavidir: mavi ışık kırmızıdan çok saçılır. Anlamlı.",Gökyüzü Rayleigh saçılması yüzünden mavidir: mavi ışık kırmızıdan çok saçılır.
+613,mavi gökyüzü nedir? (kısa),"Güzel soru, kısaca düşüneyim. Rayleigh saçılması maviyi saçar. Demek ki: Gökyüzü Rayleigh saçılması yüzünden mavidir: mavi ışık kırmızıdan çok saçılır. Tamam, karar verildi.",Gökyüzü Rayleigh saçılması yüzünden mavidir: mavi ışık kırmızıdan çok saçılır.
+614,Yağmur nasıl oluşur?,"Tamam, adım adım. Döngü: buharlaşma, yoğunlaşma, yağış. Demek ki: Yağmur buharlaşmayla oluşur: su yükselir, soğur, bulut olur ve damla olarak düşer. Mantıklı.","Yağmur buharlaşmayla oluşur: su yükselir, soğur, bulut olur ve damla olarak düşer."
+615,yağmur konusunu bir cümlede açıkla.,"Bir dakika, düşüneyim. Döngü: buharlaşma, yoğunlaşma, yağış. Sonuç: Yağmur buharlaşmayla oluşur: su yükselir, soğur, bulut olur ve damla olarak düşer. Düşünme bitti.","Yağmur buharlaşmayla oluşur: su yükselir, soğur, bulut olur ve damla olarak düşer."
+616,yağmur nedir? (kısa),"Peki, düşünelim. Döngü: buharlaşma, yoğunlaşma, yağış. Demek ki: Yağmur buharlaşmayla oluşur: su yükselir, soğur, bulut olur ve damla olarak düşer. Evet, uyuyor.","Yağmur buharlaşmayla oluşur: su yükselir, soğur, bulut olur ve damla olarak düşer."
+617,Fotosentez nedir?,"Tamam, adım adım. Bitkiler: ışık, su, CO2'den şeker ve oksijen. Sonuç: Fotosentez, bitkilerin ışık, su ve CO2'den şeker ve oksijen yapmasıdır. Kafamda her şey net.","Fotosentez, bitkilerin ışık, su ve CO2'den şeker ve oksijen yapmasıdır."
+618,fotosentez konusunu bir cümlede açıkla.,"Güzel soru, kısaca düşüneyim. Bitkiler: ışık, su, CO2'den şeker ve oksijen. Sonuç: Fotosentez, bitkilerin ışık, su ve CO2'den şeker ve oksijen yapmasıdır. Eminim.","Fotosentez, bitkilerin ışık, su ve CO2'den şeker ve oksijen yapmasıdır."
+619,fotosentez nedir? (kısa),"Hmm, bu konuda ne biliyorum? Bitkiler: ışık, su, CO2'den şeker ve oksijen. Yani cevap: Fotosentez, bitkilerin ışık, su ve CO2'den şeker ve oksijen yapmasıdır. Eminim.","Fotosentez, bitkilerin ışık, su ve CO2'den şeker ve oksijen yapmasıdır."
+620,Hava durumu ile iklim farkı nedir?,"Hmm, bu konuda ne biliyorum? Hava kısa vadeli, iklim 30 yıl ortalaması. Yani cevap: Hava durumu kısa vadeli durumdur; iklim yaklaşık 30 yıl ortalamasıdır. Kafamda her şey net.",Hava durumu kısa vadeli durumdur; iklim yaklaşık 30 yıl ortalamasıdır.
+621,hava ve iklim konusunu bir cümlede açıkla.,"Önce sakin sakin. Hava kısa vadeli, iklim 30 yıl ortalaması. Demek ki: Hava durumu kısa vadeli durumdur; iklim yaklaşık 30 yıl ortalamasıdır. Anlamlı.",Hava durumu kısa vadeli durumdur; iklim yaklaşık 30 yıl ortalamasıdır.
+622,hava ve iklim nedir? (kısa),"Güzel soru, kısaca düşüneyim. Hava kısa vadeli, iklim 30 yıl ortalaması. Demek ki: Hava durumu kısa vadeli durumdur; iklim yaklaşık 30 yıl ortalamasıdır. Tamam, karar verildi.",Hava durumu kısa vadeli durumdur; iklim yaklaşık 30 yıl ortalamasıdır.
+623,Buzdolabı kabaca nasıl çalışır?,"Güzel soru, kısaca düşüneyim. Soğutucu, ısıyı içten dışa. Yani cevap: Buzdolabı ısıyı soğutucuyla içten dışa pompalar: içte buharlaşır, ısıyı alır, dışta verir. Eminim.","Buzdolabı ısıyı soğutucuyla içten dışa pompalar: içte buharlaşır, ısıyı alır, dışta verir."
+624,buzdolabı konusunu bir cümlede açıkla.,"Bir dakika, düşüneyim. Soğutucu, ısıyı içten dışa. Sonuç: Buzdolabı ısıyı soğutucuyla içten dışa pompalar: içte buharlaşır, ısıyı alır, dışta verir. Eminim.","Buzdolabı ısıyı soğutucuyla içten dışa pompalar: içte buharlaşır, ısıyı alır, dışta verir."
+625,buzdolabı nedir? (kısa),"Hmm, bu konuda ne biliyorum? Soğutucu, ısıyı içten dışa. Demek ki: Buzdolabı ısıyı soğutucuyla içten dışa pompalar: içte buharlaşır, ısıyı alır, dışta verir. Mantıklı.","Buzdolabı ısıyı soğutucuyla içten dışa pompalar: içte buharlaşır, ısıyı alır, dışta verir."
+626,Elektrik kısaca nedir?,"Tamam, adım adım. Elektronların yönlü hareketi. Yani cevap: Elektrik kısaca yüklerin yönlü hareketidir, genelde kabloda elektronlar. Düşünme bitti.","Elektrik kısaca yüklerin yönlü hareketidir, genelde kabloda elektronlar."
+627,elektrik konusunu bir cümlede açıkla.,"Güzel soru, kısaca düşüneyim. Elektronların yönlü hareketi. Sonuç: Elektrik kısaca yüklerin yönlü hareketidir, genelde kabloda elektronlar. Mantıklı.","Elektrik kısaca yüklerin yönlü hareketidir, genelde kabloda elektronlar."
+628,elektrik nedir? (kısa),"Hmm, bu konuda ne biliyorum? Elektronların yönlü hareketi. Sonuç: Elektrik kısaca yüklerin yönlü hareketidir, genelde kabloda elektronlar. Evet, uyuyor.","Elektrik kısaca yüklerin yönlü hareketidir, genelde kabloda elektronlar."
+629,Su kimyasal olarak nedir?,"Tamam, adım adım. H2O, hidrojen ve oksijen. Sonuç: Su H2O'dur, hidrojen ve oksijen bileşiğidir. İyi, devam.","Su H2O'dur, hidrojen ve oksijen bileşiğidir."
+630,su kimyası konusunu bir cümlede açıkla.,"Peki, düşünelim. H2O, hidrojen ve oksijen. Yani cevap: Su H2O'dur, hidrojen ve oksijen bileşiğidir. Eminim.","Su H2O'dur, hidrojen ve oksijen bileşiğidir."
+631,su kimyası nedir? (kısa),"Tamam, adım adım. H2O, hidrojen ve oksijen. Demek ki: Su H2O'dur, hidrojen ve oksijen bileşiğidir. Anlamlı.","Su H2O'dur, hidrojen ve oksijen bileşiğidir."
+632,Virüs nedir?,"Bir dakika, düşüneyim. Minicik, konak hücre ister. Sonuç: Virüs, konak hücresiz çoğalamayan minicik etkendir. Mantıklı.","Virüs, konak hücresiz çoğalamayan minicik etkendir."
+633,virüs konusunu bir cümlede açıkla.,"Tamam, adım adım. Minicik, konak hücre ister. Sonuç: Virüs, konak hücresiz çoğalamayan minicik etkendir. Eminim.","Virüs, konak hücresiz çoğalamayan minicik etkendir."
+634,virüs nedir? (kısa),"Hmm, bu konuda ne biliyorum? Minicik, konak hücre ister. Yani cevap: Virüs, konak hücresiz çoğalamayan minicik etkendir. Anlamlı.","Virüs, konak hücresiz çoğalamayan minicik etkendir."
+635,Yapay zeka kısaca nedir?,"Önce sakin sakin. Veriden örüntü öğrenen programlar. Yani cevap: Yapay zeka, veriden öğrenen, örüntü tanıyan ve metin resim gibi işleri çözen programlardır. Kafamda her şey net.","Yapay zeka, veriden öğrenen, örüntü tanıyan ve metin resim gibi işleri çözen programlardır."
+636,YZ konusunu bir cümlede açıkla.,"Güzel soru, kısaca düşüneyim. Veriden örüntü öğrenen programlar. Sonuç: Yapay zeka, veriden öğrenen, örüntü tanıyan ve metin resim gibi işleri çözen programlardır. Tamam, karar verildi.","Yapay zeka, veriden öğrenen, örüntü tanıyan ve metin resim gibi işleri çözen programlardır."
+637,YZ nedir? (kısa),"Şunu düzenleyeyim. Veriden örüntü öğrenen programlar. Demek ki: Yapay zeka, veriden öğrenen, örüntü tanıyan ve metin resim gibi işleri çözen programlardır. Mantıklı.","Yapay zeka, veriden öğrenen, örüntü tanıyan ve metin resim gibi işleri çözen programlardır."
+638,Tarayıcı nedir?,"Peki, düşünelim. Siteler için program, örn. Chrome, Firefox. Demek ki: Tarayıcı, siteleri açtığın programdır, örn. Chrome, Firefox, Edge veya Safari. Anlamlı.","Tarayıcı, siteleri açtığın programdır, örn. Chrome, Firefox, Edge veya Safari."
+639,tarayıcı konusunu bir cümlede açıkla.,"Hmm, bu konuda ne biliyorum? Siteler için program, örn. Chrome, Firefox. Sonuç: Tarayıcı, siteleri açtığın programdır, örn. Chrome, Firefox, Edge veya Safari. Mantıklı.","Tarayıcı, siteleri açtığın programdır, örn. Chrome, Firefox, Edge veya Safari."
+640,tarayıcı nedir? (kısa),"Peki, düşünelim. Siteler için program, örn. Chrome, Firefox. Sonuç: Tarayıcı, siteleri açtığın programdır, örn. Chrome, Firefox, Edge veya Safari. Anlamlı.","Tarayıcı, siteleri açtığın programdır, örn. Chrome, Firefox, Edge veya Safari."
+641,Uygulama nedir?,"Şunu düzenleyeyim. Program, genelde telefon için. Yani cevap: Uygulama bir programdır, genelde telefon için, örn. mesaj, foto veya oyun. Anlamlı.","Uygulama bir programdır, genelde telefon için, örn. mesaj, foto veya oyun."
+642,uygulama konusunu bir cümlede açıkla.,"Kafamda gözden geçiriyorum. Program, genelde telefon için. Demek ki: Uygulama bir programdır, genelde telefon için, örn. mesaj, foto veya oyun. Tamam, karar verildi.","Uygulama bir programdır, genelde telefon için, örn. mesaj, foto veya oyun."
+643,uygulama nedir? (kısa),"Hmm, bu konuda ne biliyorum? Program, genelde telefon için. Yani cevap: Uygulama bir programdır, genelde telefon için, örn. mesaj, foto veya oyun. Kafamda her şey net.","Uygulama bir programdır, genelde telefon için, örn. mesaj, foto veya oyun."
+644,Neden su içmeli?,"Tamam, adım adım. Dolaşım, odak, cilt, böbrek. Demek ki: Su dolaşımı ve odağı dengeler, böbreğe ve cilde iyi gelir, baş ağrısını önler. Mantıklı.","Su dolaşımı ve odağı dengeler, böbreğe ve cilde iyi gelir, baş ağrısını önler."
+645,su içmek konusunu bir cümlede açıkla.,"Kafamda gözden geçiriyorum. Dolaşım, odak, cilt, böbrek. Sonuç: Su dolaşımı ve odağı dengeler, böbreğe ve cilde iyi gelir, baş ağrısını önler. Evet, uyuyor.","Su dolaşımı ve odağı dengeler, böbreğe ve cilde iyi gelir, baş ağrısını önler."
+646,su içmek nedir? (kısa),"Tamam, adım adım. Dolaşım, odak, cilt, böbrek. Demek ki: Su dolaşımı ve odağı dengeler, böbreğe ve cilde iyi gelir, baş ağrısını önler. Anlamlı.","Su dolaşımı ve odağı dengeler, böbreğe ve cilde iyi gelir, baş ağrısını önler."
+647,Dişler kaç dakika fırçalanmalı?,"Kafamda gözden geçiriyorum. 2 dakika, günde iki kez. Sonuç: Yaklaşık 2 dakika, günde iki kez. Anlamlı.","Yaklaşık 2 dakika, günde iki kez."
+648,diş fırçalama konusunu bir cümlede açıkla.,"Şunu düzenleyeyim. 2 dakika, günde iki kez. Demek ki: Yaklaşık 2 dakika, günde iki kez. Evet, uyuyor.","Yaklaşık 2 dakika, günde iki kez."
+649,diş fırçalama nedir? (kısa),"Peki, düşünelim. 2 dakika, günde iki kez. Sonuç: Yaklaşık 2 dakika, günde iki kez. Mantıklı.","Yaklaşık 2 dakika, günde iki kez."
+650,Yerçekimi nedir?,"Tamam, adım adım. Kütleler arası çekim; Dünya çeker. Demek ki: Yerçekimi kütleler arası çekimdir. Dünya her şeyi aşağı çeker, bu yüzden şeyler düşer. Tamam, karar verildi.","Yerçekimi kütleler arası çekimdir. Dünya her şeyi aşağı çeker, bu yüzden şeyler düşer."
+651,yerçekimi konusunu bir cümlede açıkla.,"Peki, düşünelim. Kütleler arası çekim; Dünya çeker. Demek ki: Yerçekimi kütleler arası çekimdir. Dünya her şeyi aşağı çeker, bu yüzden şeyler düşer. Mantıklı.","Yerçekimi kütleler arası çekimdir. Dünya her şeyi aşağı çeker, bu yüzden şeyler düşer."
+652,yerçekimi nedir? (kısa),"Hmm, bu konuda ne biliyorum? Kütleler arası çekim; Dünya çeker. Sonuç: Yerçekimi kütleler arası çekimdir. Dünya her şeyi aşağı çeker, bu yüzden şeyler düşer. Evet, uyuyor.","Yerçekimi kütleler arası çekimdir. Dünya her şeyi aşağı çeker, bu yüzden şeyler düşer."
+653,Hava nedir?,"Kafamda gözden geçiriyorum. Azot, oksijen ve fazlası karışımı. Sonuç: Hava bir gaz karışımıdır, çoğu azot ve oksijendir. Düşünme bitti.","Hava bir gaz karışımıdır, çoğu azot ve oksijendir."
+654,hava konusunu bir cümlede açıkla.,"Bir dakika, düşüneyim. Azot, oksijen ve fazlası karışımı. Sonuç: Hava bir gaz karışımıdır, çoğu azot ve oksijendir. Düşünme bitti.","Hava bir gaz karışımıdır, çoğu azot ve oksijendir."
+655,hava nedir? (kısa),"Kafamda gözden geçiriyorum. Azot, oksijen ve fazlası karışımı. Yani cevap: Hava bir gaz karışımıdır, çoğu azot ve oksijendir. Tamam, karar verildi.","Hava bir gaz karışımıdır, çoğu azot ve oksijendir."
+656,Kalp ne yapar?,Kafamda gözden geçiriyorum. Kanı vücuda pompalar. Yani cevap: Kalp kanı tüm vücuda pompalar. Düşünme bitti.,Kalp kanı tüm vücuda pompalar.
+657,kalp konusunu bir cümlede açıkla.,"Hmm, bu konuda ne biliyorum? Kanı vücuda pompalar. Demek ki: Kalp kanı tüm vücuda pompalar. Anlamlı.",Kalp kanı tüm vücuda pompalar.
+658,kalp nedir? (kısa),Şunu düzenleyeyim. Kanı vücuda pompalar. Yani cevap: Kalp kanı tüm vücuda pompalar. Düşünme bitti.,Kalp kanı tüm vücuda pompalar.
+659,Akciğerler ne yapar?,"Güzel soru, kısaca düşüneyim. Oksijen alır, CO2 verir. Sonuç: Akciğerler oksijen alır ve karbondioksit verir. Kafamda her şey net.",Akciğerler oksijen alır ve karbondioksit verir.
+660,akciğer konusunu bir cümlede açıkla.,"Şunu düzenleyeyim. Oksijen alır, CO2 verir. Yani cevap: Akciğerler oksijen alır ve karbondioksit verir. Düşünme bitti.",Akciğerler oksijen alır ve karbondioksit verir.
+661,akciğer nedir? (kısa),"Tamam, adım adım. Oksijen alır, CO2 verir. Demek ki: Akciğerler oksijen alır ve karbondioksit verir. Eminim.",Akciğerler oksijen alır ve karbondioksit verir.
+662,Uyku neden önemlidir?,"Bir dakika, düşüneyim. Dinlenme, hafıza, bağışıklık. Yani cevap: Uyku dinlenmeye, hafızaya ve bağışıklığa iyi gelir. Eminim.","Uyku dinlenmeye, hafızaya ve bağışıklığa iyi gelir."
+663,uyku konusunu bir cümlede açıkla.,"Hmm, bu konuda ne biliyorum? Dinlenme, hafıza, bağışıklık. Yani cevap: Uyku dinlenmeye, hafızaya ve bağışıklığa iyi gelir. Evet, uyuyor.","Uyku dinlenmeye, hafızaya ve bağışıklığa iyi gelir."
+664,uyku nedir? (kısa),"Hmm, bu konuda ne biliyorum? Dinlenme, hafıza, bağışıklık. Yani cevap: Uyku dinlenmeye, hafızaya ve bağışıklığa iyi gelir. Anlamlı.","Uyku dinlenmeye, hafızaya ve bağışıklığa iyi gelir."
+665,Ateş nedir?,"Şunu düzenleyeyim. Savunma olarak yüksek sıcaklık. Sonuç: Ateş yüksek vücut sıcaklığıdır, genelde enfeksiyona karşı savunmadır. Kafamda her şey net.","Ateş yüksek vücut sıcaklığıdır, genelde enfeksiyona karşı savunmadır."
+666,ateş konusunu bir cümlede açıkla.,"Şunu düzenleyeyim. Savunma olarak yüksek sıcaklık. Yani cevap: Ateş yüksek vücut sıcaklığıdır, genelde enfeksiyona karşı savunmadır. Tamam, karar verildi.","Ateş yüksek vücut sıcaklığıdır, genelde enfeksiyona karşı savunmadır."
+667,ateş nedir? (kısa),"Önce sakin sakin. Savunma olarak yüksek sıcaklık. Yani cevap: Ateş yüksek vücut sıcaklığıdır, genelde enfeksiyona karşı savunmadır. Evet, uyuyor.","Ateş yüksek vücut sıcaklığıdır, genelde enfeksiyona karşı savunmadır."
+668,Güçlü şifre nedir?,"Güzel soru, kısaca düşüneyim. Uzun, benzersiz, yöneticide. Yani cevap: Güçlü şifre uzundur, her serviste benzersizdir ve şifre yöneticisinde saklanır. Eminim.","Güçlü şifre uzundur, her serviste benzersizdir ve şifre yöneticisinde saklanır."
+669,güçlü şifre konusunu bir cümlede açıkla.,"Bir dakika, düşüneyim. Uzun, benzersiz, yöneticide. Yani cevap: Güçlü şifre uzundur, her serviste benzersizdir ve şifre yöneticisinde saklanır. İyi, devam.","Güçlü şifre uzundur, her serviste benzersizdir ve şifre yöneticisinde saklanır."
+670,güçlü şifre nedir? (kısa),"Önce sakin sakin. Uzun, benzersiz, yöneticide. Sonuç: Güçlü şifre uzundur, her serviste benzersizdir ve şifre yöneticisinde saklanır. Mantıklı.","Güçlü şifre uzundur, her serviste benzersizdir ve şifre yöneticisinde saklanır."
+671,Wi-Fi nedir?,"Bir dakika, düşüneyim. Kablosuz yerel ağ. Sonuç: Wi-Fi, kablosuz internet için yerel ağdır. Mantıklı.","Wi-Fi, kablosuz internet için yerel ağdır."
+672,Wi-Fi konusunu bir cümlede açıkla.,"Güzel soru, kısaca düşüneyim. Kablosuz yerel ağ. Demek ki: Wi-Fi, kablosuz internet için yerel ağdır. Tamam, karar verildi.","Wi-Fi, kablosuz internet için yerel ağdır."
+673,Wi-Fi nedir? (kısa),"Peki, düşünelim. Kablosuz yerel ağ. Yani cevap: Wi-Fi, kablosuz internet için yerel ağdır. İyi, devam.","Wi-Fi, kablosuz internet için yerel ağdır."
+674,Bulut nedir?,"Güzel soru, kısaca düşüneyim. İnternette depolama ve hizmet sunucuları. Demek ki: Bulut, veri saklayıp hizmet kullandığın internet sunucularıdır. Kafamda her şey net.","Bulut, veri saklayıp hizmet kullandığın internet sunucularıdır."
+675,bulut konusunu bir cümlede açıkla.,"Bir dakika, düşüneyim. İnternette depolama ve hizmet sunucuları. Yani cevap: Bulut, veri saklayıp hizmet kullandığın internet sunucularıdır. Eminim.","Bulut, veri saklayıp hizmet kullandığın internet sunucularıdır."
+676,bulut nedir? (kısa),"Kafamda gözden geçiriyorum. İnternette depolama ve hizmet sunucuları. Sonuç: Bulut, veri saklayıp hizmet kullandığın internet sunucularıdır. Anlamlı.","Bulut, veri saklayıp hizmet kullandığın internet sunucularıdır."
+677,GPS nasıl çalışır?,"Peki, düşünelim. Uydular, sinyal süresi, hesap. Sonuç: GPS, birkaç uydunun sinyali ve yol süresiyle konumu bulur. Eminim.","GPS, birkaç uydunun sinyali ve yol süresiyle konumu bulur."
+678,GPS konusunu bir cümlede açıkla.,"Şunu düzenleyeyim. Uydular, sinyal süresi, hesap. Demek ki: GPS, birkaç uydunun sinyali ve yol süresiyle konumu bulur. İyi, devam.","GPS, birkaç uydunun sinyali ve yol süresiyle konumu bulur."
+679,GPS nedir? (kısa),"Peki, düşünelim. Uydular, sinyal süresi, hesap. Demek ki: GPS, birkaç uydunun sinyali ve yol süresiyle konumu bulur. Anlamlı.","GPS, birkaç uydunun sinyali ve yol süresiyle konumu bulur."
+680,Gece ve gündüz neden vardır?,"Bir dakika, düşüneyim. Dünya'nın dönüşü. Sonuç: Gece ve gündüz Dünya döndüğü için vardır. Güneşli taraf gündüz, öbürü gecedir. Düşünme bitti.","Gece ve gündüz Dünya döndüğü için vardır. Güneşli taraf gündüz, öbürü gecedir."
+681,gece ve gündüz konusunu bir cümlede açıkla.,"Tamam, adım adım. Dünya'nın dönüşü. Sonuç: Gece ve gündüz Dünya döndüğü için vardır. Güneşli taraf gündüz, öbürü gecedir. İyi, devam.","Gece ve gündüz Dünya döndüğü için vardır. Güneşli taraf gündüz, öbürü gecedir."
+682,gece ve gündüz nedir? (kısa),"Hmm, bu konuda ne biliyorum? Dünya'nın dönüşü. Sonuç: Gece ve gündüz Dünya döndüğü için vardır. Güneşli taraf gündüz, öbürü gecedir. Mantıklı.","Gece ve gündüz Dünya döndüğü için vardır. Güneşli taraf gündüz, öbürü gecedir."
+683,Mevsimler neden vardır?,"Güzel soru, kısaca düşüneyim. Dünya ekseninin eğikliği. Sonuç: Mevsimler eksen eğikliğinden gelir: her yarım küre sırayla güneşe eğilir. Anlamlı.",Mevsimler eksen eğikliğinden gelir: her yarım küre sırayla güneşe eğilir.
+684,mevsimler konusunu bir cümlede açıkla.,"Hmm, bu konuda ne biliyorum? Dünya ekseninin eğikliği. Sonuç: Mevsimler eksen eğikliğinden gelir: her yarım küre sırayla güneşe eğilir. Evet, uyuyor.",Mevsimler eksen eğikliğinden gelir: her yarım küre sırayla güneşe eğilir.
+685,mevsimler nedir? (kısa),"Güzel soru, kısaca düşüneyim. Dünya ekseninin eğikliği. Yani cevap: Mevsimler eksen eğikliğinden gelir: her yarım küre sırayla güneşe eğilir. Evet, uyuyor.",Mevsimler eksen eğikliğinden gelir: her yarım küre sırayla güneşe eğilir.
+686,Ay neden parlar?,"Önce sakin sakin. Güneşi yansıtır. Demek ki: Ay, güneş ışığını yansıttığı için parlar. Evet, uyuyor.","Ay, güneş ışığını yansıttığı için parlar."
+687,parlak ay konusunu bir cümlede açıkla.,"Kafamda gözden geçiriyorum. Güneşi yansıtır. Yani cevap: Ay, güneş ışığını yansıttığı için parlar. Anlamlı.","Ay, güneş ışığını yansıttığı için parlar."
+688,parlak ay nedir? (kısa),"Tamam, adım adım. Güneşi yansıtır. Sonuç: Ay, güneş ışığını yansıttığı için parlar. Kafamda her şey net.","Ay, güneş ışığını yansıttığı için parlar."
+689,Güneş nedir?,"Tamam, adım adım. Sıcak gazdan yıldız. Sonuç: Güneş, ışık ve ısı veren sıcak gazdan bir yıldızdır. Anlamlı.","Güneş, ışık ve ısı veren sıcak gazdan bir yıldızdır."
+690,güneş konusunu bir cümlede açıkla.,"Bir dakika, düşüneyim. Sıcak gazdan yıldız. Sonuç: Güneş, ışık ve ısı veren sıcak gazdan bir yıldızdır. Anlamlı.","Güneş, ışık ve ısı veren sıcak gazdan bir yıldızdır."
+691,güneş nedir? (kısa),"Tamam, adım adım. Sıcak gazdan yıldız. Sonuç: Güneş, ışık ve ısı veren sıcak gazdan bir yıldızdır. Düşünme bitti.","Güneş, ışık ve ısı veren sıcak gazdan bir yıldızdır."
+692,Güneş sisteminde kaç gezegen var?,"Hmm, bu konuda ne biliyorum? 8 gezegen. Demek ki: Güneş sistemimizde 8 gezegen var: Merkür, Venüs, Dünya, Mars, Jüpiter, Satürn, Uranüs, Neptün. Anlamlı.","Güneş sistemimizde 8 gezegen var: Merkür, Venüs, Dünya, Mars, Jüpiter, Satürn, Uranüs, Neptün."
+693,gezegenler konusunu bir cümlede açıkla.,"Güzel soru, kısaca düşüneyim. 8 gezegen. Demek ki: Güneş sistemimizde 8 gezegen var: Merkür, Venüs, Dünya, Mars, Jüpiter, Satürn, Uranüs, Neptün. Eminim.","Güneş sistemimizde 8 gezegen var: Merkür, Venüs, Dünya, Mars, Jüpiter, Satürn, Uranüs, Neptün."
+694,gezegenler nedir? (kısa),"Tamam, adım adım. 8 gezegen. Yani cevap: Güneş sistemimizde 8 gezegen var: Merkür, Venüs, Dünya, Mars, Jüpiter, Satürn, Uranüs, Neptün. Evet, uyuyor.","Güneş sistemimizde 8 gezegen var: Merkür, Venüs, Dünya, Mars, Jüpiter, Satürn, Uranüs, Neptün."
+695,Atom nedir?,"Güzel soru, kısaca düşüneyim. En küçük birim: çekirdek artı elektronlar. Demek ki: Atom maddenin en küçük birimidir, çekirdek ve elektronlardan oluşur. Anlamlı.","Atom maddenin en küçük birimidir, çekirdek ve elektronlardan oluşur."
+696,atom konusunu bir cümlede açıkla.,"Şunu düzenleyeyim. En küçük birim: çekirdek artı elektronlar. Yani cevap: Atom maddenin en küçük birimidir, çekirdek ve elektronlardan oluşur. Kafamda her şey net.","Atom maddenin en küçük birimidir, çekirdek ve elektronlardan oluşur."
+697,atom nedir? (kısa),"Peki, düşünelim. En küçük birim: çekirdek artı elektronlar. Sonuç: Atom maddenin en küçük birimidir, çekirdek ve elektronlardan oluşur. Mantıklı.","Atom maddenin en küçük birimidir, çekirdek ve elektronlardan oluşur."
+698,Geri dönüşüm nedir?,"Bir dakika, düşüneyim. Atık topla, yeni ürün yap. Demek ki: Geri dönüşüm, atıkları toplayıp yeni ürün yapmaktır. Anlamlı.","Geri dönüşüm, atıkları toplayıp yeni ürün yapmaktır."
+699,geri dönüşüm konusunu bir cümlede açıkla.,"Hmm, bu konuda ne biliyorum? Atık topla, yeni ürün yap. Yani cevap: Geri dönüşüm, atıkları toplayıp yeni ürün yapmaktır. Düşünme bitti.","Geri dönüşüm, atıkları toplayıp yeni ürün yapmaktır."
+700,geri dönüşüm nedir? (kısa),"Tamam, adım adım. Atık topla, yeni ürün yap. Sonuç: Geri dönüşüm, atıkları toplayıp yeni ürün yapmaktır. Evet, uyuyor.","Geri dönüşüm, atıkları toplayıp yeni ürün yapmaktır."
+701,Sera etkisi nedir?,"Bir dakika, düşüneyim. Gazlar ısıyı tutar. Sonuç: Sera etkisi ısıyı tutar. Fazla sera gazı iklimi ısıtır. Anlamlı.",Sera etkisi ısıyı tutar. Fazla sera gazı iklimi ısıtır.
+702,sera etkisi konusunu bir cümlede açıkla.,Şunu düzenleyeyim. Gazlar ısıyı tutar. Demek ki: Sera etkisi ısıyı tutar. Fazla sera gazı iklimi ısıtır. Düşünme bitti.,Sera etkisi ısıyı tutar. Fazla sera gazı iklimi ısıtır.
+703,sera etkisi nedir? (kısa),"Peki, düşünelim. Gazlar ısıyı tutar. Demek ki: Sera etkisi ısıyı tutar. Fazla sera gazı iklimi ısıtır. Eminim.",Sera etkisi ısıyı tutar. Fazla sera gazı iklimi ısıtır.
+704,Arılar neden önemlidir?,"Şunu düzenleyeyim. Tozlaşma, ürünler. Yani cevap: Arılar bitkileri tozlar, ürünleri ve çeşitliliği korur. Düşünme bitti.","Arılar bitkileri tozlar, ürünleri ve çeşitliliği korur."
+705,arılar konusunu bir cümlede açıkla.,"Bir dakika, düşüneyim. Tozlaşma, ürünler. Sonuç: Arılar bitkileri tozlar, ürünleri ve çeşitliliği korur. Kafamda her şey net.","Arılar bitkileri tozlar, ürünleri ve çeşitliliği korur."
+706,arılar nedir? (kısa),"Kafamda gözden geçiriyorum. Tozlaşma, ürünler. Sonuç: Arılar bitkileri tozlar, ürünleri ve çeşitliliği korur. Eminim.","Arılar bitkileri tozlar, ürünleri ve çeşitliliği korur."
+707,Yapraklar neden yeşildir?,"Şunu düzenleyeyim. Klorofil pigmenti. Demek ki: Yapraklar fotosentez pigmenti klorofil yüzünden yeşildir. Tamam, karar verildi.",Yapraklar fotosentez pigmenti klorofil yüzünden yeşildir.
+708,yeşil yapraklar konusunu bir cümlede açıkla.,"Tamam, adım adım. Klorofil pigmenti. Yani cevap: Yapraklar fotosentez pigmenti klorofil yüzünden yeşildir. Kafamda her şey net.",Yapraklar fotosentez pigmenti klorofil yüzünden yeşildir.
+709,yeşil yapraklar nedir? (kısa),"Tamam, adım adım. Klorofil pigmenti. Demek ki: Yapraklar fotosentez pigmenti klorofil yüzünden yeşildir. Anlamlı.",Yapraklar fotosentez pigmenti klorofil yüzünden yeşildir.
+710,Memeli nedir?,"Kafamda gözden geçiriyorum. Kürk, canlı doğum, süt. Yani cevap: Memelilerin kürkü vardır, canlı yavru doğurur ve sütle besler. Kafamda her şey net.","Memelilerin kürkü vardır, canlı yavru doğurur ve sütle besler."
+711,memeliler konusunu bir cümlede açıkla.,"Şunu düzenleyeyim. Kürk, canlı doğum, süt. Sonuç: Memelilerin kürkü vardır, canlı yavru doğurur ve sütle besler. Mantıklı.","Memelilerin kürkü vardır, canlı yavru doğurur ve sütle besler."
+712,memeliler nedir? (kısa),"Güzel soru, kısaca düşüneyim. Kürk, canlı doğum, süt. Yani cevap: Memelilerin kürkü vardır, canlı yavru doğurur ve sütle besler. Tamam, karar verildi.","Memelilerin kürkü vardır, canlı yavru doğurur ve sütle besler."
+713,Pil nasıl çalışır?,"Güzel soru, kısaca düşüneyim. Kimyasal enerji elektrik enerjisine. Yani cevap: Pil kimyasal enerjiyi elektrik enerjisine çevirir. Anlamlı.",Pil kimyasal enerjiyi elektrik enerjisine çevirir.
+714,piller konusunu bir cümlede açıkla.,"Bir dakika, düşüneyim. Kimyasal enerji elektrik enerjisine. Demek ki: Pil kimyasal enerjiyi elektrik enerjisine çevirir. Tamam, karar verildi.",Pil kimyasal enerjiyi elektrik enerjisine çevirir.
+715,piller nedir? (kısa),"Güzel soru, kısaca düşüneyim. Kimyasal enerji elektrik enerjisine. Demek ki: Pil kimyasal enerjiyi elektrik enerjisine çevirir. Anlamlı.",Pil kimyasal enerjiyi elektrik enerjisine çevirir.
+716,Güneş enerjisi nasıl çalışır?,"Tamam, adım adım. Hücreler: ışık elektriğe. Demek ki: Güneş hücreleri ışığı doğrudan elektriğe çevirir. Evet, uyuyor.",Güneş hücreleri ışığı doğrudan elektriğe çevirir.
+717,güneş enerjisi konusunu bir cümlede açıkla.,"Bir dakika, düşüneyim. Hücreler: ışık elektriğe. Sonuç: Güneş hücreleri ışığı doğrudan elektriğe çevirir. İyi, devam.",Güneş hücreleri ışığı doğrudan elektriğe çevirir.
+718,güneş enerjisi nedir? (kısa),"Bir dakika, düşüneyim. Hücreler: ışık elektriğe. Yani cevap: Güneş hücreleri ışığı doğrudan elektriğe çevirir. Kafamda her şey net.",Güneş hücreleri ışığı doğrudan elektriğe çevirir.
+719,Bilgisayar virüsü nedir?,"Güzel soru, kısaca düşüneyim. Yayılan zararlı program. Demek ki: Bilgisayar virüsü yayılıp zarar veren programdır. Güncelleme ve dikkatle korun. Düşünme bitti.",Bilgisayar virüsü yayılıp zarar veren programdır. Güncelleme ve dikkatle korun.
+720,bilgisayar virüsü konusunu bir cümlede açıkla.,"Peki, düşünelim. Yayılan zararlı program. Sonuç: Bilgisayar virüsü yayılıp zarar veren programdır. Güncelleme ve dikkatle korun. Düşünme bitti.",Bilgisayar virüsü yayılıp zarar veren programdır. Güncelleme ve dikkatle korun.
+721,bilgisayar virüsü nedir? (kısa),"Tamam, adım adım. Yayılan zararlı program. Yani cevap: Bilgisayar virüsü yayılıp zarar veren programdır. Güncelleme ve dikkatle korun. Evet, uyuyor.",Bilgisayar virüsü yayılıp zarar veren programdır. Güncelleme ve dikkatle korun.
+722,Plastik neden sorundur?,"Peki, düşünelim. Kalıcı çöp, mikroplastik. Yani cevap: Plastik neredeyse çürümez, doğayı ve denizleri kirletir, mikroplastik olur. Kafamda her şey net.","Plastik neredeyse çürümez, doğayı ve denizleri kirletir, mikroplastik olur."
+723,plastik konusunu bir cümlede açıkla.,"Hmm, bu konuda ne biliyorum? Kalıcı çöp, mikroplastik. Sonuç: Plastik neredeyse çürümez, doğayı ve denizleri kirletir, mikroplastik olur. Düşünme bitti.","Plastik neredeyse çürümez, doğayı ve denizleri kirletir, mikroplastik olur."
+724,plastik nedir? (kısa),"Tamam, adım adım. Kalıcı çöp, mikroplastik. Sonuç: Plastik neredeyse çürümez, doğayı ve denizleri kirletir, mikroplastik olur. Eminim.","Plastik neredeyse çürümez, doğayı ve denizleri kirletir, mikroplastik olur."
+725,Deprem nedir?,"Önce sakin sakin. Levhalar oynar, enerji boşalır. Demek ki: Deprem, levhalar aniden oynayıp enerji boşaltınca olur. Düşünme bitti.","Deprem, levhalar aniden oynayıp enerji boşaltınca olur."
+726,deprem konusunu bir cümlede açıkla.,"Kafamda gözden geçiriyorum. Levhalar oynar, enerji boşalır. Demek ki: Deprem, levhalar aniden oynayıp enerji boşaltınca olur. Tamam, karar verildi.","Deprem, levhalar aniden oynayıp enerji boşaltınca olur."
+727,deprem nedir? (kısa),"Kafamda gözden geçiriyorum. Levhalar oynar, enerji boşalır. Sonuç: Deprem, levhalar aniden oynayıp enerji boşaltınca olur. Eminim.","Deprem, levhalar aniden oynayıp enerji boşaltınca olur."
+728,Bal nedir?,"Hmm, bu konuda ne biliyorum? Arılar nektardan yapar. Yani cevap: Bal, arıların çiçek nektarından yaptığıdır. Düşünme bitti.","Bal, arıların çiçek nektarından yaptığıdır."
+729,bal konusunu bir cümlede açıkla.,"Peki, düşünelim. Arılar nektardan yapar. Sonuç: Bal, arıların çiçek nektarından yaptığıdır. Eminim.","Bal, arıların çiçek nektarından yaptığıdır."
+730,bal nedir? (kısa),"Bir dakika, düşüneyim. Arılar nektardan yapar. Yani cevap: Bal, arıların çiçek nektarından yaptığıdır. Evet, uyuyor.","Bal, arıların çiçek nektarından yaptığıdır."
+731,25 çarpı 4 kaçtır?,"Şunu düzenleyeyim. Hesap: 25*4=100. Yeniden hesap: 25 çarpı 4, 100 eder. Uyuyor. Mantıklı.","25 çarpı 4, 100 eder."
+732,200'ün yüzde 12'si kaçtır?,"Güzel soru, kısaca düşüneyim. Yüzde: 200*0,12=24. Denetle: 200'ün yüzde 12'si 24 eder. Tamam. Kafamda her şey net.",200'ün yüzde 12'si 24 eder.
+733,7 çarpı 8 artı 10 kaçtır?,Kafamda gözden geçiriyorum. Sıra: 7*8=56 +10=66. Kontrol: 66 eder. Doğru. Kafamda her şey net.,66 eder.
+734,Tren 14:30'da kalkıp 2 saat 15 dakika gidiyor. Ne zaman varır?,"Peki, düşünelim. Topla: 14:30 + 2:15 = 16:45. Yeniden hesap: 16:45'te varır. Uyuyor. Eminim.",16:45'te varır.
+735,"3 elmam var, 1'ini yedim. Kaç kaldı?",Önce sakin sakin. Çıkar: 3-1=2. Denetle: 2 elma kaldı. Tamam. Kafamda her şey net.,2 elma kaldı.
+736,22'de yatıp 6'da kalkarsam kaç saat uyurum?,Kafamda gözden geçiriyorum. Süre: 22-6 = 8 saat. Kontrol: 8 saat uyursun. Doğru. Mantıklı.,8 saat uyursun.
+737,100 euroyu 4 kişiye adil paylaştır.,"Önce sakin sakin. Böl: 100/4=25. Yeniden hesap: Herkes 25 euro alır. Uyuyor. Evet, uyuyor.",Herkes 25 euro alır.
+738,2 saat kaç dakikadır?,"Peki, düşünelim. Çevir: 2*60=120. Denetle: 2 saat 120 dakikadır. Tamam. Eminim.",2 saat 120 dakikadır.
+739,Bir yıl kaç gündür?,"Tamam, adım adım. Bilgi: 365, artık yıl 366. Sonuç: Bir yıl 365 gün, artık yıl 366 gündür. Anlamlı.","Bir yıl 365 gün, artık yıl 366 gündür."
+740,Bir dakikada kaç saniye var?,"Hmm, bu konuda ne biliyorum? Bilgi: 60. Sonuç: Bir dakikada 60 saniye var. Düşünme bitti.",Bir dakikada 60 saniye var.
+741,36 artı 19 kaçtır?,"Şunu düzenleyeyim. Topla: 36+19=55. Kontrol: 36 artı 19, 55 eder. Doğru. Kafamda her şey net.","36 artı 19, 55 eder."
+742,14 eksi 3 kaçtır?,"Peki, düşünelim. Çıkar: 14-3=11. Kontrol: 14 eksi 3, 11 eder. Doğru. Mantıklı.","14 eksi 3, 11 eder."
+743,12 çarpı 4 kaçtır?,"Önce sakin sakin. Çarp: 12*4=48. Yeniden hesap: 12 çarpı 4, 48 eder. Uyuyor. Mantıklı.","12 çarpı 4, 48 eder."
+744,90 bölü 10 kaçtır?,"Önce sakin sakin. Böl: 90/10=9. Denetle: 90 bölü 10, 9 eder. Tamam. Düşünme bitti.","90 bölü 10, 9 eder."
+745,300'in yüzde 50'i kaçtır?,"Şunu düzenleyeyim. Yüzde: 300*50/100=150. Yeniden hesap: 300'in yüzde 50'i, 150 eder. Uyuyor. Eminim.","300'in yüzde 50'i, 150 eder."
+746,32 artı 32 kaçtır?,"Şunu düzenleyeyim. Topla: 32+32=64. Denetle: 32 artı 32, 64 eder. Tamam. Tamam, karar verildi.","32 artı 32, 64 eder."
+747,50 eksi 15 kaçtır?,"Önce sakin sakin. Çıkar: 50-15=35. Yeniden hesap: 50 eksi 15, 35 eder. Uyuyor. Tamam, karar verildi.","50 eksi 15, 35 eder."
+748,7 çarpı 7 kaçtır?,"Tamam, adım adım. Çarp: 7*7=49. Denetle: 7 çarpı 7, 49 eder. Tamam. Kafamda her şey net.","7 çarpı 7, 49 eder."
+749,54 bölü 9 kaçtır?,"Tamam, adım adım. Böl: 54/9=6. Denetle: 54 bölü 9, 6 eder. Tamam. Evet, uyuyor.","54 bölü 9, 6 eder."
+750,100'in yüzde 5'i kaçtır?,"Güzel soru, kısaca düşüneyim. Yüzde: 100*5/100=5. Denetle: 100'in yüzde 5'i, 5 eder. Tamam. Kafamda her şey net.","100'in yüzde 5'i, 5 eder."
+751,30 artı 53 kaçtır?,"Hmm, bu konuda ne biliyorum? Topla: 30+53=83. Kontrol: 30 artı 53, 83 eder. Doğru. İyi, devam.","30 artı 53, 83 eder."
+752,84 eksi 29 kaçtır?,"Hmm, bu konuda ne biliyorum? Çıkar: 84-29=55. Yeniden hesap: 84 eksi 29, 55 eder. Uyuyor. Kafamda her şey net.","84 eksi 29, 55 eder."
+753,9 çarpı 8 kaçtır?,"Hmm, bu konuda ne biliyorum? Çarp: 9*8=72. Kontrol: 9 çarpı 8, 72 eder. Doğru. Evet, uyuyor.","9 çarpı 8, 72 eder."
+754,84 bölü 6 kaçtır?,"Hmm, bu konuda ne biliyorum? Böl: 84/6=14. Denetle: 84 bölü 6, 14 eder. Tamam. Evet, uyuyor.","84 bölü 6, 14 eder."
+755,300'in yüzde 10'i kaçtır?,"Hmm, bu konuda ne biliyorum? Yüzde: 300*10/100=30. Yeniden hesap: 300'in yüzde 10'i, 30 eder. Uyuyor. Evet, uyuyor.","300'in yüzde 10'i, 30 eder."
+756,11 artı 43 kaçtır?,"Kafamda gözden geçiriyorum. Topla: 11+43=54. Yeniden hesap: 11 artı 43, 54 eder. Uyuyor. Anlamlı.","11 artı 43, 54 eder."
+757,81 eksi 43 kaçtır?,"Bir dakika, düşüneyim. Çıkar: 81-43=38. Yeniden hesap: 81 eksi 43, 38 eder. Uyuyor. Kafamda her şey net.","81 eksi 43, 38 eder."
+758,6 çarpı 10 kaçtır?,"Şunu düzenleyeyim. Çarp: 6*10=60. Yeniden hesap: 6 çarpı 10, 60 eder. Uyuyor. Evet, uyuyor.","6 çarpı 10, 60 eder."
+759,60 bölü 4 kaçtır?,"Hmm, bu konuda ne biliyorum? Böl: 60/4=15. Yeniden hesap: 60 bölü 4, 15 eder. Uyuyor. Tamam, karar verildi.","60 bölü 4, 15 eder."
+760,39 artı 8 kaçtır?,"Tamam, adım adım. Topla: 39+8=47. Denetle: 39 artı 8, 47 eder. Tamam. Mantıklı.","39 artı 8, 47 eder."
+761,64 eksi 58 kaçtır?,"Güzel soru, kısaca düşüneyim. Çıkar: 64-58=6. Yeniden hesap: 64 eksi 58, 6 eder. Uyuyor. Eminim.","64 eksi 58, 6 eder."
+762,7 çarpı 3 kaçtır?,"Tamam, adım adım. Çarp: 7*3=21. Yeniden hesap: 7 çarpı 3, 21 eder. Uyuyor. Düşünme bitti.","7 çarpı 3, 21 eder."
+763,40 bölü 10 kaçtır?,"Şunu düzenleyeyim. Böl: 40/10=4. Denetle: 40 bölü 10, 4 eder. Tamam. Eminim.","40 bölü 10, 4 eder."
+764,500'in yüzde 20'i kaçtır?,"Şunu düzenleyeyim. Yüzde: 500*20/100=100. Kontrol: 500'in yüzde 20'i, 100 eder. Doğru. Tamam, karar verildi.","500'in yüzde 20'i, 100 eder."
+765,38 artı 33 kaçtır?,"Peki, düşünelim. Topla: 38+33=71. Yeniden hesap: 38 artı 33, 71 eder. Uyuyor. Kafamda her şey net.","38 artı 33, 71 eder."
+766,92 eksi 61 kaçtır?,"Hmm, bu konuda ne biliyorum? Çıkar: 92-61=31. Yeniden hesap: 92 eksi 61, 31 eder. Uyuyor. Evet, uyuyor.","92 eksi 61, 31 eder."
+767,6 çarpı 2 kaçtır?,"Bir dakika, düşüneyim. Çarp: 6*2=12. Yeniden hesap: 6 çarpı 2, 12 eder. Uyuyor. Tamam, karar verildi.","6 çarpı 2, 12 eder."
+768,33 bölü 3 kaçtır?,"Güzel soru, kısaca düşüneyim. Böl: 33/3=11. Yeniden hesap: 33 bölü 3, 11 eder. Uyuyor. Tamam, karar verildi.","33 bölü 3, 11 eder."
+769,1000'in yüzde 10'i kaçtır?,"Kafamda gözden geçiriyorum. Yüzde: 1000*10/100=100. Kontrol: 1000'in yüzde 10'i, 100 eder. Doğru. Evet, uyuyor.","1000'in yüzde 10'i, 100 eder."
+770,40 artı 7 kaçtır?,"Peki, düşünelim. Topla: 40+7=47. Denetle: 40 artı 7, 47 eder. Tamam. Evet, uyuyor.","40 artı 7, 47 eder."
+771,93 eksi 40 kaçtır?,"Hmm, bu konuda ne biliyorum? Çıkar: 93-40=53. Kontrol: 93 eksi 40, 53 eder. Doğru. İyi, devam.","93 eksi 40, 53 eder."
+772,9 çarpı 7 kaçtır?,"Önce sakin sakin. Çarp: 9*7=63. Yeniden hesap: 9 çarpı 7, 63 eder. Uyuyor. İyi, devam.","9 çarpı 7, 63 eder."
+773,36 bölü 6 kaçtır?,"Peki, düşünelim. Böl: 36/6=6. Yeniden hesap: 36 bölü 6, 6 eder. Uyuyor. Anlamlı.","36 bölü 6, 6 eder."
+774,44 artı 48 kaçtır?,"Tamam, adım adım. Topla: 44+48=92. Denetle: 44 artı 48, 92 eder. Tamam. Mantıklı.","44 artı 48, 92 eder."
+775,46 eksi 25 kaçtır?,"Peki, düşünelim. Çıkar: 46-25=21. Denetle: 46 eksi 25, 21 eder. Tamam. Tamam, karar verildi.","46 eksi 25, 21 eder."
+776,3 çarpı 7 kaçtır?,"Peki, düşünelim. Çarp: 3*7=21. Denetle: 3 çarpı 7, 21 eder. Tamam. Düşünme bitti.","3 çarpı 7, 21 eder."
+777,180 bölü 9 kaçtır?,"Hmm, bu konuda ne biliyorum? Böl: 180/9=20. Denetle: 180 bölü 9, 20 eder. Tamam. Evet, uyuyor.","180 bölü 9, 20 eder."
+778,1000'in yüzde 25'i kaçtır?,"Bir dakika, düşüneyim. Yüzde: 1000*25/100=250. Denetle: 1000'in yüzde 25'i, 250 eder. Tamam. Anlamlı.","1000'in yüzde 25'i, 250 eder."
+779,60 artı 19 kaçtır?,"Bir dakika, düşüneyim. Topla: 60+19=79. Denetle: 60 artı 19, 79 eder. Tamam. Anlamlı.","60 artı 19, 79 eder."
+780,61 eksi 35 kaçtır?,"Tamam, adım adım. Çıkar: 61-35=26. Denetle: 61 eksi 35, 26 eder. Tamam. Eminim.","61 eksi 35, 26 eder."
+781,6 çarpı 9 kaçtır?,"Tamam, adım adım. Çarp: 6*9=54. Yeniden hesap: 6 çarpı 9, 54 eder. Uyuyor. Anlamlı.","6 çarpı 9, 54 eder."
+782,63 bölü 7 kaçtır?,"Güzel soru, kısaca düşüneyim. Böl: 63/7=9. Yeniden hesap: 63 bölü 7, 9 eder. Uyuyor. Kafamda her şey net.","63 bölü 7, 9 eder."
+783,1000'in yüzde 20'i kaçtır?,"Hmm, bu konuda ne biliyorum? Yüzde: 1000*20/100=200. Kontrol: 1000'in yüzde 20'i, 200 eder. Doğru. Tamam, karar verildi.","1000'in yüzde 20'i, 200 eder."
+784,59 artı 35 kaçtır?,"Önce sakin sakin. Topla: 59+35=94. Kontrol: 59 artı 35, 94 eder. Doğru. Evet, uyuyor.","59 artı 35, 94 eder."
+785,36 eksi 7 kaçtır?,"Önce sakin sakin. Çıkar: 36-7=29. Kontrol: 36 eksi 7, 29 eder. Doğru. Tamam, karar verildi.","36 eksi 7, 29 eder."
+786,26 bölü 2 kaçtır?,"Kafamda gözden geçiriyorum. Böl: 26/2=13. Yeniden hesap: 26 bölü 2, 13 eder. Uyuyor. Tamam, karar verildi.","26 bölü 2, 13 eder."
+787,400'in yüzde 50'i kaçtır?,"Bir dakika, düşüneyim. Yüzde: 400*50/100=200. Denetle: 400'in yüzde 50'i, 200 eder. Tamam. Eminim.","400'in yüzde 50'i, 200 eder."
+788,39 artı 26 kaçtır?,"Kafamda gözden geçiriyorum. Topla: 39+26=65. Kontrol: 39 artı 26, 65 eder. Doğru. Evet, uyuyor.","39 artı 26, 65 eder."
+789,29 eksi 25 kaçtır?,"Bir dakika, düşüneyim. Çıkar: 29-25=4. Kontrol: 29 eksi 25, 4 eder. Doğru. Düşünme bitti.","29 eksi 25, 4 eder."
+790,11 çarpı 7 kaçtır?,"Hmm, bu konuda ne biliyorum? Çarp: 11*7=77. Denetle: 11 çarpı 7, 77 eder. Tamam. Mantıklı.","11 çarpı 7, 77 eder."
+791,152 bölü 8 kaçtır?,"Kafamda gözden geçiriyorum. Böl: 152/8=19. Yeniden hesap: 152 bölü 8, 19 eder. Uyuyor. Kafamda her şey net.","152 bölü 8, 19 eder."
+792,500'in yüzde 10'i kaçtır?,"Hmm, bu konuda ne biliyorum? Yüzde: 500*10/100=50. Kontrol: 500'in yüzde 10'i, 50 eder. Doğru. Düşünme bitti.","500'in yüzde 10'i, 50 eder."
+793,38 artı 13 kaçtır?,"Peki, düşünelim. Topla: 38+13=51. Yeniden hesap: 38 artı 13, 51 eder. Uyuyor. Anlamlı.","38 artı 13, 51 eder."
+794,27 eksi 4 kaçtır?,"Tamam, adım adım. Çıkar: 27-4=23. Yeniden hesap: 27 eksi 4, 23 eder. Uyuyor. Mantıklı.","27 eksi 4, 23 eder."
+795,9 çarpı 6 kaçtır?,"Şunu düzenleyeyim. Çarp: 9*6=54. Yeniden hesap: 9 çarpı 6, 54 eder. Uyuyor. Düşünme bitti.","9 çarpı 6, 54 eder."
+796,18 bölü 2 kaçtır?,"Önce sakin sakin. Böl: 18/2=9. Denetle: 18 bölü 2, 9 eder. Tamam. Mantıklı.","18 bölü 2, 9 eder."
+797,100'in yüzde 25'i kaçtır?,"Hmm, bu konuda ne biliyorum? Yüzde: 100*25/100=25. Kontrol: 100'in yüzde 25'i, 25 eder. Doğru. Kafamda her şey net.","100'in yüzde 25'i, 25 eder."
+798,36 artı 12 kaçtır?,"Güzel soru, kısaca düşüneyim. Topla: 36+12=48. Yeniden hesap: 36 artı 12, 48 eder. Uyuyor. Evet, uyuyor.","36 artı 12, 48 eder."
+799,77 eksi 39 kaçtır?,"Önce sakin sakin. Çıkar: 77-39=38. Yeniden hesap: 77 eksi 39, 38 eder. Uyuyor. İyi, devam.","77 eksi 39, 38 eder."
+800,2 çarpı 12 kaçtır?,"Hmm, bu konuda ne biliyorum? Çarp: 2*12=24. Denetle: 2 çarpı 12, 24 eder. Tamam. Mantıklı.","2 çarpı 12, 24 eder."
+801,32 bölü 8 kaçtır?,"Hmm, bu konuda ne biliyorum? Böl: 32/8=4. Denetle: 32 bölü 8, 4 eder. Tamam. Eminim.","32 bölü 8, 4 eder."
+802,500'in yüzde 25'i kaçtır?,"Tamam, adım adım. Yüzde: 500*25/100=125. Denetle: 500'in yüzde 25'i, 125 eder. Tamam. Mantıklı.","500'in yüzde 25'i, 125 eder."
+803,21 artı 52 kaçtır?,"Peki, düşünelim. Topla: 21+52=73. Yeniden hesap: 21 artı 52, 73 eder. Uyuyor. Kafamda her şey net.","21 artı 52, 73 eder."
+804,74 eksi 12 kaçtır?,"Önce sakin sakin. Çıkar: 74-12=62. Kontrol: 74 eksi 12, 62 eder. Doğru. Mantıklı.","74 eksi 12, 62 eder."
+805,30 bölü 6 kaçtır?,"Kafamda gözden geçiriyorum. Böl: 30/6=5. Kontrol: 30 bölü 6, 5 eder. Doğru. Eminim.","30 bölü 6, 5 eder."
+806,100'in yüzde 15'i kaçtır?,"Güzel soru, kısaca düşüneyim. Yüzde: 100*15/100=15. Yeniden hesap: 100'in yüzde 15'i, 15 eder. Uyuyor. Evet, uyuyor.","100'in yüzde 15'i, 15 eder."
+807,3 artı 42 kaçtır?,"Peki, düşünelim. Topla: 3+42=45. Denetle: 3 artı 42, 45 eder. Tamam. Kafamda her şey net.","3 artı 42, 45 eder."
+808,88 eksi 20 kaçtır?,"Tamam, adım adım. Çıkar: 88-20=68. Yeniden hesap: 88 eksi 20, 68 eder. Uyuyor. İyi, devam.","88 eksi 20, 68 eder."
+809,3 çarpı 12 kaçtır?,"Tamam, adım adım. Çarp: 3*12=36. Denetle: 3 çarpı 12, 36 eder. Tamam. Kafamda her şey net.","3 çarpı 12, 36 eder."
+810,72 bölü 8 kaçtır?,"Güzel soru, kısaca düşüneyim. Böl: 72/8=9. Yeniden hesap: 72 bölü 8, 9 eder. Uyuyor. Anlamlı.","72 bölü 8, 9 eder."
+811,200'in yüzde 50'i kaçtır?,"Peki, düşünelim. Yüzde: 200*50/100=100. Denetle: 200'in yüzde 50'i, 100 eder. Tamam. Tamam, karar verildi.","200'in yüzde 50'i, 100 eder."
+812,33 artı 50 kaçtır?,"Hmm, bu konuda ne biliyorum? Topla: 33+50=83. Denetle: 33 artı 50, 83 eder. Tamam. Anlamlı.","33 artı 50, 83 eder."
+813,71 eksi 45 kaçtır?,"Tamam, adım adım. Çıkar: 71-45=26. Kontrol: 71 eksi 45, 26 eder. Doğru. Tamam, karar verildi.","71 eksi 45, 26 eder."
+814,84 bölü 7 kaçtır?,"Önce sakin sakin. Böl: 84/7=12. Kontrol: 84 bölü 7, 12 eder. Doğru. Eminim.","84 bölü 7, 12 eder."
+815,1000'in yüzde 15'i kaçtır?,"Şunu düzenleyeyim. Yüzde: 1000*15/100=150. Denetle: 1000'in yüzde 15'i, 150 eder. Tamam. Mantıklı.","1000'in yüzde 15'i, 150 eder."
+816,10 artı 33 kaçtır?,"Önce sakin sakin. Topla: 10+33=43. Denetle: 10 artı 33, 43 eder. Tamam. Eminim.","10 artı 33, 43 eder."
+817,67 eksi 11 kaçtır?,"Şunu düzenleyeyim. Çıkar: 67-11=56. Kontrol: 67 eksi 11, 56 eder. Doğru. Tamam, karar verildi.","67 eksi 11, 56 eder."
+818,11 çarpı 2 kaçtır?,"Şunu düzenleyeyim. Çarp: 11*2=22. Kontrol: 11 çarpı 2, 22 eder. Doğru. Tamam, karar verildi.","11 çarpı 2, 22 eder."
+819,104 bölü 8 kaçtır?,"Güzel soru, kısaca düşüneyim. Böl: 104/8=13. Yeniden hesap: 104 bölü 8, 13 eder. Uyuyor. Tamam, karar verildi.","104 bölü 8, 13 eder."
+820,400'in yüzde 5'i kaçtır?,"Peki, düşünelim. Yüzde: 400*5/100=20. Denetle: 400'in yüzde 5'i, 20 eder. Tamam. Tamam, karar verildi.","400'in yüzde 5'i, 20 eder."
+821,55 artı 7 kaçtır?,"Şunu düzenleyeyim. Topla: 55+7=62. Denetle: 55 artı 7, 62 eder. Tamam. Evet, uyuyor.","55 artı 7, 62 eder."
+822,64 eksi 63 kaçtır?,"Kafamda gözden geçiriyorum. Çıkar: 64-63=1. Denetle: 64 eksi 63, 1 eder. Tamam. Düşünme bitti.","64 eksi 63, 1 eder."
+823,10 çarpı 12 kaçtır?,"Şunu düzenleyeyim. Çarp: 10*12=120. Kontrol: 10 çarpı 12, 120 eder. Doğru. Eminim.","10 çarpı 12, 120 eder."
+824,36 bölü 2 kaçtır?,"Şunu düzenleyeyim. Böl: 36/2=18. Denetle: 36 bölü 2, 18 eder. Tamam. Mantıklı.","36 bölü 2, 18 eder."
+825,2 artı 53 kaçtır?,"Şunu düzenleyeyim. Topla: 2+53=55. Denetle: 2 artı 53, 55 eder. Tamam. Kafamda her şey net.","2 artı 53, 55 eder."
+826,19 eksi 15 kaçtır?,"Önce sakin sakin. Çıkar: 19-15=4. Yeniden hesap: 19 eksi 15, 4 eder. Uyuyor. Anlamlı.","19 eksi 15, 4 eder."
+827,8 çarpı 4 kaçtır?,"Güzel soru, kısaca düşüneyim. Çarp: 8*4=32. Kontrol: 8 çarpı 4, 32 eder. Doğru. Eminim.","8 çarpı 4, 32 eder."
+828,35 bölü 5 kaçtır?,"Bir dakika, düşüneyim. Böl: 35/5=7. Denetle: 35 bölü 5, 7 eder. Tamam. Mantıklı.","35 bölü 5, 7 eder."
+829,45 artı 12 kaçtır?,"Kafamda gözden geçiriyorum. Topla: 45+12=57. Yeniden hesap: 45 artı 12, 57 eder. Uyuyor. Anlamlı.","45 artı 12, 57 eder."
+830,46 eksi 15 kaçtır?,"Peki, düşünelim. Çıkar: 46-15=31. Kontrol: 46 eksi 15, 31 eder. Doğru. Mantıklı.","46 eksi 15, 31 eder."
+831,8 çarpı 8 kaçtır?,"Önce sakin sakin. Çarp: 8*8=64. Kontrol: 8 çarpı 8, 64 eder. Doğru. Anlamlı.","8 çarpı 8, 64 eder."
+832,110 bölü 10 kaçtır?,"Peki, düşünelim. Böl: 110/10=11. Denetle: 110 bölü 10, 11 eder. Tamam. Evet, uyuyor.","110 bölü 10, 11 eder."
+833,32 artı 21 kaçtır?,"Bir dakika, düşüneyim. Topla: 32+21=53. Kontrol: 32 artı 21, 53 eder. Doğru. Eminim.","32 artı 21, 53 eder."
+834,98 eksi 16 kaçtır?,"Hmm, bu konuda ne biliyorum? Çıkar: 98-16=82. Denetle: 98 eksi 16, 82 eder. Tamam. Düşünme bitti.","98 eksi 16, 82 eder."
+835,6 çarpı 12 kaçtır?,"Şunu düzenleyeyim. Çarp: 6*12=72. Yeniden hesap: 6 çarpı 12, 72 eder. Uyuyor. Anlamlı.","6 çarpı 12, 72 eder."
+836,28 bölü 4 kaçtır?,"Kafamda gözden geçiriyorum. Böl: 28/4=7. Kontrol: 28 bölü 4, 7 eder. Doğru. Düşünme bitti.","28 bölü 4, 7 eder."
+837,3 artı 39 kaçtır?,"Kafamda gözden geçiriyorum. Topla: 3+39=42. Denetle: 3 artı 39, 42 eder. Tamam. Mantıklı.","3 artı 39, 42 eder."
+838,66 eksi 6 kaçtır?,"Hmm, bu konuda ne biliyorum? Çıkar: 66-6=60. Denetle: 66 eksi 6, 60 eder. Tamam. Eminim.","66 eksi 6, 60 eder."
+839,200'in yüzde 15'i kaçtır?,"Şunu düzenleyeyim. Yüzde: 200*15/100=30. Yeniden hesap: 200'in yüzde 15'i, 30 eder. Uyuyor. İyi, devam.","200'in yüzde 15'i, 30 eder."
+840,39 artı 17 kaçtır?,"Güzel soru, kısaca düşüneyim. Topla: 39+17=56. Yeniden hesap: 39 artı 17, 56 eder. Uyuyor. Kafamda her şey net.","39 artı 17, 56 eder."
+841,81 eksi 62 kaçtır?,"Hmm, bu konuda ne biliyorum? Çıkar: 81-62=19. Kontrol: 81 eksi 62, 19 eder. Doğru. Mantıklı.","81 eksi 62, 19 eder."
+842,11 çarpı 10 kaçtır?,"Önce sakin sakin. Çarp: 11*10=110. Yeniden hesap: 11 çarpı 10, 110 eder. Uyuyor. Tamam, karar verildi.","11 çarpı 10, 110 eder."
+843,80 bölü 5 kaçtır?,"Bir dakika, düşüneyim. Böl: 80/5=16. Denetle: 80 bölü 5, 16 eder. Tamam. Tamam, karar verildi.","80 bölü 5, 16 eder."
+844,27 artı 13 kaçtır?,"Şunu düzenleyeyim. Topla: 27+13=40. Kontrol: 27 artı 13, 40 eder. Doğru. Eminim.","27 artı 13, 40 eder."
+845,44 eksi 42 kaçtır?,"Peki, düşünelim. Çıkar: 44-42=2. Yeniden hesap: 44 eksi 42, 2 eder. Uyuyor. Eminim.","44 eksi 42, 2 eder."
+846,"Film 20:15'te başlıyor, 90 dakika sürüyor. Ne zaman biter?","Hmm, bu konuda ne biliyorum? 20:15 + 90 dk = 21:45. Denetle: 21:45'te biter. Tamam. Evet, uyuyor.",21:45'te biter.
+847,Saat 9. 3 saat 30 dakika sonra randevum var. Ne zaman?,"Bir dakika, düşüneyim. 9:00 + 3:30 = 12:30. Denetle: Randevu 12:30'da. Tamam. İyi, devam.",Randevu 12:30'da.
+848,Kek 45 dakika pişiyor. 16:20'de koydum. Ne zaman hazır?,"Bir dakika, düşüneyim. 16:20 + 0:45 = 17:05. Yeniden hesap: 17:05'te hazır. Uyuyor. Mantıklı.",17:05'te hazır.
+849,"Okul 8:00'de başlıyor, 13:15'te bitiyor. Kaç sürüyor?",Kafamda gözden geçiriyorum. 13:15 - 8:00 = 5:15. Yeniden hesap: 5 saat 15 dakika sürüyor. Uyuyor. Eminim.,5 saat 15 dakika sürüyor.
+850,19:00'den 30 dakika okursam ne zaman biter?,Şunu düzenleyeyim. 19:00 + 0:30 = 19:30. Yeniden hesap: 19:30'da bitirirsin. Uyuyor. Eminim.,19:30'da bitirirsin.
+851,Kelimeyi en iyi nasıl öğrenirim?,"Şunu düzenleyeyim. Kısa günlük birimler, kartlar, aktif kullanım. Yani cevap: En iyi kısa günlük birimlerle, kartlarla ve cümlede aktif kullanımla artı düzenli tekrar. Anlamlı.","En iyi kısa günlük birimlerle, kartlarla ve cümlede aktif kullanımla artı düzenli tekrar."
+852,kelime öğrenme - ipucu var mı?,"Kafamda gözden geçiriyorum. Kısa günlük birimler, kartlar, aktif kullanım. Sonuç: En iyi kısa günlük birimlerle, kartlarla ve cümlede aktif kullanımla artı düzenli tekrar. İyi, devam.","En iyi kısa günlük birimlerle, kartlarla ve cümlede aktif kullanımla artı düzenli tekrar."
+853,Hızlı rehber: kelime öğrenme.,"Peki, düşünelim. Kısa günlük birimler, kartlar, aktif kullanım. Demek ki: En iyi kısa günlük birimlerle, kartlarla ve cümlede aktif kullanımla artı düzenli tekrar. İyi, devam.","En iyi kısa günlük birimlerle, kartlarla ve cümlede aktif kullanımla artı düzenli tekrar."
+854,Günlük hayatta nasıl biriktiririm?,"Önce sakin sakin. Bütçe, abonelik, yemek, karşılaştırma. Sonuç: Bütçe yap, abonelikleri kontrol et, evde pişir, fiyat karşılaştır ve önce sabit tutarı ayır. Kafamda her şey net.","Bütçe yap, abonelikleri kontrol et, evde pişir, fiyat karşılaştır ve önce sabit tutarı ayır."
+855,biriktirme - ipucu var mı?,"Peki, düşünelim. Bütçe, abonelik, yemek, karşılaştırma. Yani cevap: Bütçe yap, abonelikleri kontrol et, evde pişir, fiyat karşılaştır ve önce sabit tutarı ayır. Anlamlı.","Bütçe yap, abonelikleri kontrol et, evde pişir, fiyat karşılaştır ve önce sabit tutarı ayır."
+856,Hızlı rehber: biriktirme.,"Güzel soru, kısaca düşüneyim. Bütçe, abonelik, yemek, karşılaştırma. Yani cevap: Bütçe yap, abonelikleri kontrol et, evde pişir, fiyat karşılaştır ve önce sabit tutarı ayır. Düşünme bitti.","Bütçe yap, abonelikleri kontrol et, evde pişir, fiyat karşılaştır ve önce sabit tutarı ayır."
+857,"Sadece makarna, domates ve peynirle ne pişireyim?","Hmm, bu konuda ne biliyorum? Domates soslu peynirli makarna. Yani cevap: Basit domates soslu makarna yap: baharatla, pişir, makarnaya dök, peynir serp. Mantıklı.","Basit domates soslu makarna yap: baharatla, pişir, makarnaya dök, peynir serp."
+858,hızlı makarna - ipucu var mı?,"Hmm, bu konuda ne biliyorum? Domates soslu peynirli makarna. Yani cevap: Basit domates soslu makarna yap: baharatla, pişir, makarnaya dök, peynir serp. Evet, uyuyor.","Basit domates soslu makarna yap: baharatla, pişir, makarnaya dök, peynir serp."
+859,Hızlı rehber: hızlı makarna.,"Güzel soru, kısaca düşüneyim. Domates soslu peynirli makarna. Demek ki: Basit domates soslu makarna yap: baharatla, pişir, makarnaya dök, peynir serp. İyi, devam.","Basit domates soslu makarna yap: baharatla, pişir, makarnaya dök, peynir serp."
+860,"Yarın uçuyorum, ne alayım?","Hmm, bu konuda ne biliyorum? Liste: kimlik, bilet, para, telefon, şarj. Demek ki: Al: kimlik veya pasaport, bilet, para, telefon artı şarj, ilaç, hijyen ve kabinde değişim. İyi, devam.","Al: kimlik veya pasaport, bilet, para, telefon artı şarj, ilaç, hijyen ve kabinde değişim."
+861,uçuş valizi - ipucu var mı?,"Güzel soru, kısaca düşüneyim. Liste: kimlik, bilet, para, telefon, şarj. Yani cevap: Al: kimlik veya pasaport, bilet, para, telefon artı şarj, ilaç, hijyen ve kabinde değişim. Mantıklı.","Al: kimlik veya pasaport, bilet, para, telefon artı şarj, ilaç, hijyen ve kabinde değişim."
+862,Hızlı rehber: uçuş valizi.,"Önce sakin sakin. Liste: kimlik, bilet, para, telefon, şarj. Yani cevap: Al: kimlik veya pasaport, bilet, para, telefon artı şarj, ilaç, hijyen ve kabinde değişim. Kafamda her şey net.","Al: kimlik veya pasaport, bilet, para, telefon artı şarj, ilaç, hijyen ve kabinde değişim."
+863,İyi bir özür nasıl yazılır?,"Şunu düzenleyeyim. Hatayı söyle, sorumluluk, telafi. Yani cevap: Hatayı söyle, sorumluluğu al, üzüntüyü göster ve telafi öner, kısa ve dürüst. Evet, uyuyor.","Hatayı söyle, sorumluluğu al, üzüntüyü göster ve telafi öner, kısa ve dürüst."
+864,özür - ipucu var mı?,"Önce sakin sakin. Hatayı söyle, sorumluluk, telafi. Yani cevap: Hatayı söyle, sorumluluğu al, üzüntüyü göster ve telafi öner, kısa ve dürüst. Düşünme bitti.","Hatayı söyle, sorumluluğu al, üzüntüyü göster ve telafi öner, kısa ve dürüst."
+865,Hızlı rehber: özür.,"Tamam, adım adım. Hatayı söyle, sorumluluk, telafi. Yani cevap: Hatayı söyle, sorumluluğu al, üzüntüyü göster ve telafi öner, kısa ve dürüst. Düşünme bitti.","Hatayı söyle, sorumluluğu al, üzüntüyü göster ve telafi öner, kısa ve dürüst."
+866,3 günlük şehir gezisi nasıl planlanır?,"Tamam, adım adım. Yol, otel, günde 2-3 yer. Demek ki: Yolu ve oteli ayarla, günde 2-3 yer seç, yemek ve yol payı bırak, günlük bütçe koy. Mantıklı.","Yolu ve oteli ayarla, günde 2-3 yer seç, yemek ve yol payı bırak, günlük bütçe koy."
+867,şehir gezisi - ipucu var mı?,"Tamam, adım adım. Yol, otel, günde 2-3 yer. Sonuç: Yolu ve oteli ayarla, günde 2-3 yer seç, yemek ve yol payı bırak, günlük bütçe koy. Mantıklı.","Yolu ve oteli ayarla, günde 2-3 yer seç, yemek ve yol payı bırak, günlük bütçe koy."
+868,Hızlı rehber: şehir gezisi.,"Tamam, adım adım. Yol, otel, günde 2-3 yer. Sonuç: Yolu ve oteli ayarla, günde 2-3 yer seç, yemek ve yol payı bırak, günlük bütçe koy. Evet, uyuyor.","Yolu ve oteli ayarla, günde 2-3 yer seç, yemek ve yol payı bırak, günlük bütçe koy."
+869,Yüzde 80 yağmurda şemsiye alayım mı?,"Kafamda gözden geçiriyorum. %80 yüksek, evet önerilir. Yani cevap: Evet, al. Yüzde 80'de yağmur çok olası. Kafamda her şey net.","Evet, al. Yüzde 80'de yağmur çok olası."
+870,şemsiye - ipucu var mı?,"Peki, düşünelim. %80 yüksek, evet önerilir. Demek ki: Evet, al. Yüzde 80'de yağmur çok olası. Kafamda her şey net.","Evet, al. Yüzde 80'de yağmur çok olası."
+871,Hızlı rehber: şemsiye.,"Şunu düzenleyeyim. %80 yüksek, evet önerilir. Demek ki: Evet, al. Yüzde 80'de yağmur çok olası. Eminim.","Evet, al. Yüzde 80'de yağmur çok olası."
+872,Not için hangisi iyi: kağıt mı telefon mu?,"Bir dakika, düşüneyim. Kağıt dikkat dağıtmaz, telefon aranır. Yani cevap: İkisinin de artısı var: kağıt dikkat dağıtmaz ve akılda iyi, telefon aranır ve hep yanında. Mantıklı.","İkisinin de artısı var: kağıt dikkat dağıtmaz ve akılda iyi, telefon aranır ve hep yanında."
+873,not kağıt mı telefon mu - ipucu var mı?,"Önce sakin sakin. Kağıt dikkat dağıtmaz, telefon aranır. Yani cevap: İkisinin de artısı var: kağıt dikkat dağıtmaz ve akılda iyi, telefon aranır ve hep yanında. Mantıklı.","İkisinin de artısı var: kağıt dikkat dağıtmaz ve akılda iyi, telefon aranır ve hep yanında."
+874,Hızlı rehber: not kağıt mı telefon mu.,"Peki, düşünelim. Kağıt dikkat dağıtmaz, telefon aranır. Yani cevap: İkisinin de artısı var: kağıt dikkat dağıtmaz ve akılda iyi, telefon aranır ve hep yanında. Tamam, karar verildi.","İkisinin de artısı var: kağıt dikkat dağıtmaz ve akılda iyi, telefon aranır ve hep yanında."
+875,Odamı hızlı nasıl toplarım?,"Bir dakika, düşüneyim. Çöp, çamaşır, yerleştir, sil. Yani cevap: Önce çöpü, sonra çamaşırı topla, her şeyi yerine koy, sonunda sil. İyi, devam.","Önce çöpü, sonra çamaşırı topla, her şeyi yerine koy, sonunda sil."
+876,hızlı toplama - ipucu var mı?,"Peki, düşünelim. Çöp, çamaşır, yerleştir, sil. Sonuç: Önce çöpü, sonra çamaşırı topla, her şeyi yerine koy, sonunda sil. Evet, uyuyor.","Önce çöpü, sonra çamaşırı topla, her şeyi yerine koy, sonunda sil."
+877,Hızlı rehber: hızlı toplama.,"Güzel soru, kısaca düşüneyim. Çöp, çamaşır, yerleştir, sil. Demek ki: Önce çöpü, sonra çamaşırı topla, her şeyi yerine koy, sonunda sil. Düşünme bitti.","Önce çöpü, sonra çamaşırı topla, her şeyi yerine koy, sonunda sil."
+878,Valizi yer kazanarak nasıl hazırlarım?,"Tamam, adım adım. Katlama yerine rulo, ağır alta, doldur. Sonuç: Katlamak yerine rulo yap, ağırı alta, boşlukları çorapla doldur. Mantıklı.","Katlamak yerine rulo yap, ağırı alta, boşlukları çorapla doldur."
+879,kompakt valiz - ipucu var mı?,"Bir dakika, düşüneyim. Katlama yerine rulo, ağır alta, doldur. Yani cevap: Katlamak yerine rulo yap, ağırı alta, boşlukları çorapla doldur. Kafamda her şey net.","Katlamak yerine rulo yap, ağırı alta, boşlukları çorapla doldur."
+880,Hızlı rehber: kompakt valiz.,"Önce sakin sakin. Katlama yerine rulo, ağır alta, doldur. Demek ki: Katlamak yerine rulo yap, ağırı alta, boşlukları çorapla doldur. Mantıklı.","Katlamak yerine rulo yap, ağırı alta, boşlukları çorapla doldur."
+881,Pilav nasıl pişirilir?,"Kafamda gözden geçiriyorum. Oran 1:2, 10-12 dk demle. Yani cevap: Pirinci yıka, iki katı suyla kaynat, 10-12 dakika demle. Kafamda her şey net.","Pirinci yıka, iki katı suyla kaynat, 10-12 dakika demle."
+882,pilav pişirme - ipucu var mı?,"Hmm, bu konuda ne biliyorum? Oran 1:2, 10-12 dk demle. Sonuç: Pirinci yıka, iki katı suyla kaynat, 10-12 dakika demle. Anlamlı.","Pirinci yıka, iki katı suyla kaynat, 10-12 dakika demle."
+883,Hızlı rehber: pilav pişirme.,"Hmm, bu konuda ne biliyorum? Oran 1:2, 10-12 dk demle. Yani cevap: Pirinci yıka, iki katı suyla kaynat, 10-12 dakika demle. Düşünme bitti.","Pirinci yıka, iki katı suyla kaynat, 10-12 dakika demle."
+884,Makarna nasıl pişirilir?,"Peki, düşünelim. Tuzlu su, 8-10 dk kaynat. Yani cevap: Bol suyu tuzla, kaynat, makarnayı 8-10 dakika pişir, süz. Evet, uyuyor.","Bol suyu tuzla, kaynat, makarnayı 8-10 dakika pişir, süz."
+885,makarna pişirme - ipucu var mı?,"Güzel soru, kısaca düşüneyim. Tuzlu su, 8-10 dk kaynat. Demek ki: Bol suyu tuzla, kaynat, makarnayı 8-10 dakika pişir, süz. Mantıklı.","Bol suyu tuzla, kaynat, makarnayı 8-10 dakika pişir, süz."
+886,Hızlı rehber: makarna pişirme.,"Tamam, adım adım. Tuzlu su, 8-10 dk kaynat. Yani cevap: Bol suyu tuzla, kaynat, makarnayı 8-10 dakika pişir, süz. Düşünme bitti.","Bol suyu tuzla, kaynat, makarnayı 8-10 dakika pişir, süz."
+887,Krep nasıl yapılır?,"Güzel soru, kısaca düşüneyim. Un, süt, yumurta, kızart. Sonuç: Un, süt, yumurta ve tutam tuzu karıştır, ince altın gibi pişir. Tamam, karar verildi.","Un, süt, yumurta ve tutam tuzu karıştır, ince altın gibi pişir."
+888,krep - ipucu var mı?,"Peki, düşünelim. Un, süt, yumurta, kızart. Sonuç: Un, süt, yumurta ve tutam tuzu karıştır, ince altın gibi pişir. İyi, devam.","Un, süt, yumurta ve tutam tuzu karıştır, ince altın gibi pişir."
+889,Hızlı rehber: krep.,"Önce sakin sakin. Un, süt, yumurta, kızart. Yani cevap: Un, süt, yumurta ve tutam tuzu karıştır, ince altın gibi pişir. İyi, devam.","Un, süt, yumurta ve tutam tuzu karıştır, ince altın gibi pişir."
+890,Sabah nasıl uyanırım?,"Tamam, adım adım. Işık, su, hareket. Yani cevap: Işığı aç, bir bardak su iç, biraz hareket et ve hava al. İyi, devam.","Işığı aç, bir bardak su iç, biraz hareket et ve hava al."
+891,sabah uyanma - ipucu var mı?,"Şunu düzenleyeyim. Işık, su, hareket. Sonuç: Işığı aç, bir bardak su iç, biraz hareket et ve hava al. İyi, devam.","Işığı aç, bir bardak su iç, biraz hareket et ve hava al."
+892,Hızlı rehber: sabah uyanma.,"Hmm, bu konuda ne biliyorum? Işık, su, hareket. Yani cevap: Işığı aç, bir bardak su iç, biraz hareket et ve hava al. Evet, uyuyor.","Işığı aç, bir bardak su iç, biraz hareket et ve hava al."
+893,Daha hızlı nasıl uyurum?,"Bir dakika, düşüneyim. Karanlık, serin, telefonsuz, rutin. Sonuç: Karanlık ve serin uyu, telefonu bırak, sabit rutin tut. Anlamlı.","Karanlık ve serin uyu, telefonu bırak, sabit rutin tut."
+894,uykuya dalma - ipucu var mı?,"Önce sakin sakin. Karanlık, serin, telefonsuz, rutin. Yani cevap: Karanlık ve serin uyu, telefonu bırak, sabit rutin tut. Mantıklı.","Karanlık ve serin uyu, telefonu bırak, sabit rutin tut."
+895,Hızlı rehber: uykuya dalma.,"Şunu düzenleyeyim. Karanlık, serin, telefonsuz, rutin. Yani cevap: Karanlık ve serin uyu, telefonu bırak, sabit rutin tut. İyi, devam.","Karanlık ve serin uyu, telefonu bırak, sabit rutin tut."
+896,Sınava nasıl çalışılır?,"Bir dakika, düşüneyim. Bloklar, aktif tekrar, mola. Sonuç: Konuyu bloklara böl, kendine aktif sor, mola ver, ertesi gün tekrarla. Kafamda her şey net.","Konuyu bloklara böl, kendine aktif sor, mola ver, ertesi gün tekrarla."
+897,sınav çalışma - ipucu var mı?,"Tamam, adım adım. Bloklar, aktif tekrar, mola. Yani cevap: Konuyu bloklara böl, kendine aktif sor, mola ver, ertesi gün tekrarla. İyi, devam.","Konuyu bloklara böl, kendine aktif sor, mola ver, ertesi gün tekrarla."
+898,Hızlı rehber: sınav çalışma.,"Bir dakika, düşüneyim. Bloklar, aktif tekrar, mola. Demek ki: Konuyu bloklara böl, kendine aktif sor, mola ver, ertesi gün tekrarla. Düşünme bitti.","Konuyu bloklara böl, kendine aktif sor, mola ver, ertesi gün tekrarla."
+899,İş başvurusu nasıl yazılır?,"Kafamda gözden geçiriyorum. Mektup, CV, belge. Sonuç: Kısa mektup artı tablolu CV ve ilgili belgeler yaz. Evet, uyuyor.",Kısa mektup artı tablolu CV ve ilgili belgeler yaz.
+900,iş başvurusu - ipucu var mı?,"Kafamda gözden geçiriyorum. Mektup, CV, belge. Demek ki: Kısa mektup artı tablolu CV ve ilgili belgeler yaz. İyi, devam.",Kısa mektup artı tablolu CV ve ilgili belgeler yaz.
+901,Hızlı rehber: iş başvurusu.,"Hmm, bu konuda ne biliyorum? Mektup, CV, belge. Sonuç: Kısa mektup artı tablolu CV ve ilgili belgeler yaz. Eminim.",Kısa mektup artı tablolu CV ve ilgili belgeler yaz.
+902,Ev nasıl bulunur?,"Önce sakin sakin. Bütçe, site, belge, görme. Yani cevap: Bütçeyi koy, sitelerde ara, belgeleri hazırla, sorularla gez. Tamam, karar verildi.","Bütçeyi koy, sitelerde ara, belgeleri hazırla, sorularla gez."
+903,ev bulma - ipucu var mı?,"Güzel soru, kısaca düşüneyim. Bütçe, site, belge, görme. Demek ki: Bütçeyi koy, sitelerde ara, belgeleri hazırla, sorularla gez. Düşünme bitti.","Bütçeyi koy, sitelerde ara, belgeleri hazırla, sorularla gez."
+904,Hızlı rehber: ev bulma.,"Bir dakika, düşüneyim. Bütçe, site, belge, görme. Yani cevap: Bütçeyi koy, sitelerde ara, belgeleri hazırla, sorularla gez. Eminim.","Bütçeyi koy, sitelerde ara, belgeleri hazırla, sorularla gez."
+905,Çiçekler doğru nasıl sulanır?,"Güzel soru, kısaca düşüneyim. Parmak testi, göllenme yok. Sonuç: Parmak testi: üst kuruysa sula, göllenmeden kaçın. İyi, devam.","Parmak testi: üst kuruysa sula, göllenmeden kaçın."
+906,çiçek sulama - ipucu var mı?,"Kafamda gözden geçiriyorum. Parmak testi, göllenme yok. Sonuç: Parmak testi: üst kuruysa sula, göllenmeden kaçın. Kafamda her şey net.","Parmak testi: üst kuruysa sula, göllenmeden kaçın."
+907,Hızlı rehber: çiçek sulama.,"Kafamda gözden geçiriyorum. Parmak testi, göllenme yok. Yani cevap: Parmak testi: üst kuruysa sula, göllenmeden kaçın. Kafamda her şey net.","Parmak testi: üst kuruysa sula, göllenmeden kaçın."
+908,Günümü nasıl planlarım?,"Bir dakika, düşüneyim. 3 öncelik, bloklar, mola. Demek ki: 3 öncelik seç, molalı bloklar planla, dikkat dağıtıcıları kaldır. Düşünme bitti.","3 öncelik seç, molalı bloklar planla, dikkat dağıtıcıları kaldır."
+909,günü planlama - ipucu var mı?,"Önce sakin sakin. 3 öncelik, bloklar, mola. Demek ki: 3 öncelik seç, molalı bloklar planla, dikkat dağıtıcıları kaldır. Eminim.","3 öncelik seç, molalı bloklar planla, dikkat dağıtıcıları kaldır."
+910,Hızlı rehber: günü planlama.,"Kafamda gözden geçiriyorum. 3 öncelik, bloklar, mola. Sonuç: 3 öncelik seç, molalı bloklar planla, dikkat dağıtıcıları kaldır. İyi, devam.","3 öncelik seç, molalı bloklar planla, dikkat dağıtıcıları kaldır."
+911,Spora nasıl başlanır?,"Hmm, bu konuda ne biliyorum? Az, haftada 2x, artır. Demek ki: Haftada 2x yürüyüş veya hafifle başla, yavaşça artır. Düşünme bitti.","Haftada 2x yürüyüş veya hafifle başla, yavaşça artır."
+912,spora başlama - ipucu var mı?,"Peki, düşünelim. Az, haftada 2x, artır. Demek ki: Haftada 2x yürüyüş veya hafifle başla, yavaşça artır. Tamam, karar verildi.","Haftada 2x yürüyüş veya hafifle başla, yavaşça artır."
+913,Hızlı rehber: spora başlama.,"Bir dakika, düşüneyim. Az, haftada 2x, artır. Demek ki: Haftada 2x yürüyüş veya hafifle başla, yavaşça artır. İyi, devam.","Haftada 2x yürüyüş veya hafifle başla, yavaşça artır."
+914,Yeterli suyu nasıl içerim?,"Peki, düşünelim. Şişe hazır, hatırlatıcı. Yani cevap: Şişeyi hazır tut, her öğünde bir bardak iç, hatırlatıcı kullan. Anlamlı.","Şişeyi hazır tut, her öğünde bir bardak iç, hatırlatıcı kullan."
+915,yeterli su - ipucu var mı?,"Şunu düzenleyeyim. Şişe hazır, hatırlatıcı. Demek ki: Şişeyi hazır tut, her öğünde bir bardak iç, hatırlatıcı kullan. İyi, devam.","Şişeyi hazır tut, her öğünde bir bardak iç, hatırlatıcı kullan."
+916,Hızlı rehber: yeterli su.,"Peki, düşünelim. Şişe hazır, hatırlatıcı. Sonuç: Şişeyi hazır tut, her öğünde bir bardak iç, hatırlatıcı kullan. Evet, uyuyor.","Şişeyi hazır tut, her öğünde bir bardak iç, hatırlatıcı kullan."
+917,Sağlıklı kahvaltı nedir?,"Kafamda gözden geçiriyorum. Yulaf, meyve, yoğurt. Demek ki: Örn. meyveli yoğurtlu yulaf veya yumurtalı tam buğday ekmeği. Mantıklı.",Örn. meyveli yoğurtlu yulaf veya yumurtalı tam buğday ekmeği.
+918,sağlıklı kahvaltı - ipucu var mı?,"Güzel soru, kısaca düşüneyim. Yulaf, meyve, yoğurt. Sonuç: Örn. meyveli yoğurtlu yulaf veya yumurtalı tam buğday ekmeği. Evet, uyuyor.",Örn. meyveli yoğurtlu yulaf veya yumurtalı tam buğday ekmeği.
+919,Hızlı rehber: sağlıklı kahvaltı.,"Kafamda gözden geçiriyorum. Yulaf, meyve, yoğurt. Yani cevap: Örn. meyveli yoğurtlu yulaf veya yumurtalı tam buğday ekmeği. Kafamda her şey net.",Örn. meyveli yoğurtlu yulaf veya yumurtalı tam buğday ekmeği.
+920,Strese karşı ne yapılır?,"Hmm, bu konuda ne biliyorum? Mola, hareket, uyku, konuşma. Demek ki: Kısa molalar, hareket, yeterli uyku ve konuşmak iyi gelir. Anlamlı.","Kısa molalar, hareket, yeterli uyku ve konuşmak iyi gelir."
+921,stres - ipucu var mı?,"Hmm, bu konuda ne biliyorum? Mola, hareket, uyku, konuşma. Demek ki: Kısa molalar, hareket, yeterli uyku ve konuşmak iyi gelir. İyi, devam.","Kısa molalar, hareket, yeterli uyku ve konuşmak iyi gelir."
+922,Hızlı rehber: stres.,"Güzel soru, kısaca düşüneyim. Mola, hareket, uyku, konuşma. Demek ki: Kısa molalar, hareket, yeterli uyku ve konuşmak iyi gelir. Evet, uyuyor.","Kısa molalar, hareket, yeterli uyku ve konuşmak iyi gelir."
+923,Randevu nasıl iptal edilir?,"Hmm, bu konuda ne biliyorum? Erken, kısa sebep, yeni tarih. Demek ki: Erken iptal et, kısa sebep söyle, yeni tarih öner. Eminim.","Erken iptal et, kısa sebep söyle, yeni tarih öner."
+924,randevu iptali - ipucu var mı?,"Önce sakin sakin. Erken, kısa sebep, yeni tarih. Demek ki: Erken iptal et, kısa sebep söyle, yeni tarih öner. Evet, uyuyor.","Erken iptal et, kısa sebep söyle, yeni tarih öner."
+925,Hızlı rehber: randevu iptali.,"Tamam, adım adım. Erken, kısa sebep, yeni tarih. Yani cevap: Erken iptal et, kısa sebep söyle, yeni tarih öner. Evet, uyuyor.","Erken iptal et, kısa sebep söyle, yeni tarih öner."
+926,Yardım nasıl istenir?,"Kafamda gözden geçiriyorum. Somut: ne, ne zamana, sağ ol. Sonuç: Somut iste: ne, ne zamana, neden. Örn. Bugün taşımama yardım eder misin? Sağ ol! Düşünme bitti.","Somut iste: ne, ne zamana, neden. Örn. Bugün taşımama yardım eder misin? Sağ ol!"
+927,yardım isteme - ipucu var mı?,"Tamam, adım adım. Somut: ne, ne zamana, sağ ol. Yani cevap: Somut iste: ne, ne zamana, neden. Örn. Bugün taşımama yardım eder misin? Sağ ol! Kafamda her şey net.","Somut iste: ne, ne zamana, neden. Örn. Bugün taşımama yardım eder misin? Sağ ol!"
+928,Hızlı rehber: yardım isteme.,"Şunu düzenleyeyim. Somut: ne, ne zamana, sağ ol. Sonuç: Somut iste: ne, ne zamana, neden. Örn. Bugün taşımama yardım eder misin? Sağ ol! Tamam, karar verildi.","Somut iste: ne, ne zamana, neden. Örn. Bugün taşımama yardım eder misin? Sağ ol!"
+929,Hayır demeyi nasıl öğrenirim?,"Hmm, bu konuda ne biliyorum? Kısa, nazik, alternatif. Yani cevap: Kısa ve nazik hayır de, mümkünse alternatif sun. İyi, devam.","Kısa ve nazik hayır de, mümkünse alternatif sun."
+930,hayır deme - ipucu var mı?,"Şunu düzenleyeyim. Kısa, nazik, alternatif. Yani cevap: Kısa ve nazik hayır de, mümkünse alternatif sun. Anlamlı.","Kısa ve nazik hayır de, mümkünse alternatif sun."
+931,Hızlı rehber: hayır deme.,"Peki, düşünelim. Kısa, nazik, alternatif. Demek ki: Kısa ve nazik hayır de, mümkünse alternatif sun. Eminim.","Kısa ve nazik hayır de, mümkünse alternatif sun."
+932,Tatil için nasıl biriktirilir?,"Önce sakin sakin. Hedef, aylık otomatik. Sonuç: Hedef koy, her ay otomatik biriktir, ekstraları ekle. Kafamda her şey net.","Hedef koy, her ay otomatik biriktir, ekstraları ekle."
+933,tatil birikimi - ipucu var mı?,"Kafamda gözden geçiriyorum. Hedef, aylık otomatik. Sonuç: Hedef koy, her ay otomatik biriktir, ekstraları ekle. Düşünme bitti.","Hedef koy, her ay otomatik biriktir, ekstraları ekle."
+934,Hızlı rehber: tatil birikimi.,"Önce sakin sakin. Hedef, aylık otomatik. Sonuç: Hedef koy, her ay otomatik biriktir, ekstraları ekle. Düşünme bitti.","Hedef koy, her ay otomatik biriktir, ekstraları ekle."
+935,Ucuz uçuş nasıl bulunur?,"Peki, düşünelim. Esnek tarih, karşılaştır, erken. Yani cevap: Tarihte esnek ol, siteleri karşılaştır, erken al. Mantıklı.","Tarihte esnek ol, siteleri karşılaştır, erken al."
+936,ucuz uçuş - ipucu var mı?,"Kafamda gözden geçiriyorum. Esnek tarih, karşılaştır, erken. Yani cevap: Tarihte esnek ol, siteleri karşılaştır, erken al. Anlamlı.","Tarihte esnek ol, siteleri karşılaştır, erken al."
+937,Hızlı rehber: ucuz uçuş.,"Önce sakin sakin. Esnek tarih, karşılaştır, erken. Sonuç: Tarihte esnek ol, siteleri karşılaştır, erken al. Tamam, karar verildi.","Tarihte esnek ol, siteleri karşılaştır, erken al."
+938,İnternetsiz yol nasıl bulunur?,"Şunu düzenleyeyim. Çevrimdışı harita, tabela, sor. Yani cevap: Çevrimdışı harita indir, tabelaları izle, insanlara sor. Anlamlı.","Çevrimdışı harita indir, tabelaları izle, insanlara sor."
+939,internetsiz yol - ipucu var mı?,"Şunu düzenleyeyim. Çevrimdışı harita, tabela, sor. Sonuç: Çevrimdışı harita indir, tabelaları izle, insanlara sor. Düşünme bitti.","Çevrimdışı harita indir, tabelaları izle, insanlara sor."
+940,Hızlı rehber: internetsiz yol.,"Bir dakika, düşüneyim. Çevrimdışı harita, tabela, sor. Demek ki: Çevrimdışı harita indir, tabelaları izle, insanlara sor. Eminim.","Çevrimdışı harita indir, tabelaları izle, insanlara sor."
+941,Evcil olarak köpek ile kedi farkı nedir?,"Hmm, bu konuda ne biliyorum? Köpekler yürüyüş ve eğitim ister, kediler bağımsız. Yani cevap: Köpekler çok yürüyüş ve eğitim ister, kediler daha bağımsız. Zamana ve yere göre seç. Düşünme bitti.","Köpekler çok yürüyüş ve eğitim ister, kediler daha bağımsız. Zamana ve yere göre seç."
+942,köpek mi kedi mi - ne önerirsin?,"Şunu düzenleyeyim. Köpekler yürüyüş ve eğitim ister, kediler bağımsız. Sonuç: Köpekler çok yürüyüş ve eğitim ister, kediler daha bağımsız. Zamana ve yere göre seç. Eminim.","Köpekler çok yürüyüş ve eğitim ister, kediler daha bağımsız. Zamana ve yere göre seç."
+943,300 km için tren mi araba mı?,"Hmm, bu konuda ne biliyorum? Tren rahat ve çevreci, araba esnek. Yani cevap: Tren rahat ve genelde çevreci, araba bagajla esnek. Trafikte tren kazanır. Evet, uyuyor.","Tren rahat ve genelde çevreci, araba bagajla esnek. Trafikte tren kazanır."
+944,tren mi araba 300 km - ne önerirsin?,"Tamam, adım adım. Tren rahat ve çevreci, araba esnek. Sonuç: Tren rahat ve genelde çevreci, araba bagajla esnek. Trafikte tren kazanır. Anlamlı.","Tren rahat ve genelde çevreci, araba bagajla esnek. Trafikte tren kazanır."
+945,Atıştırmalık elma mı çikolata mı?,"Hmm, bu konuda ne biliyorum? Elma: vitamin ve tokluk. Demek ki: Vitamin ve tokluk için elmayı al, çikolata istisna olsun. Düşünme bitti.","Vitamin ve tokluk için elmayı al, çikolata istisna olsun."
+946,elma mı çikolata - ne önerirsin?,"Peki, düşünelim. Elma: vitamin ve tokluk. Sonuç: Vitamin ve tokluk için elmayı al, çikolata istisna olsun. Anlamlı.","Vitamin ve tokluk için elmayı al, çikolata istisna olsun."
+947,Oyun için laptop mu PC mi?,"Şunu düzenleyeyim. PC fiyata güçlü, laptop taşınır. Demek ki: PC'ler fiyata daha güçlü, laptoplar taşınır. En güç için PC seç. Evet, uyuyor.","PC'ler fiyata daha güçlü, laptoplar taşınır. En güç için PC seç."
+948,laptop mu PC mi oyun - ne önerirsin?,"Önce sakin sakin. PC fiyata güçlü, laptop taşınır. Demek ki: PC'ler fiyata daha güçlü, laptoplar taşınır. En güç için PC seç. Evet, uyuyor.","PC'ler fiyata daha güçlü, laptoplar taşınır. En güç için PC seç."
+949,Yaşamak için şehir mi kır mı?,"Şunu düzenleyeyim. Şehir: iş ve yakınlık; kır: sakinlik. Yani cevap: Şehirler iş ve yakınlık sunar, kır sakinlik ve alan. İşe ve tarza göre seç. Mantıklı.","Şehirler iş ve yakınlık sunar, kır sakinlik ve alan. İşe ve tarza göre seç."
+950,şehir mi kır - ne önerirsin?,"Bir dakika, düşüneyim. Şehir: iş ve yakınlık; kır: sakinlik. Demek ki: Şehirler iş ve yakınlık sunar, kır sakinlik ve alan. İşe ve tarza göre seç. Kafamda her şey net.","Şehirler iş ve yakınlık sunar, kır sakinlik ve alan. İşe ve tarza göre seç."
+951,Ne önemli: uyku mu ders mi?,"Şunu düzenleyeyim. Uyku öğrenmeyi pekiştirir. Yani cevap: Uyku daha önemli çünkü öğrenmeyi pekiştirir. Erken çalış, yeterince uyu. Evet, uyuyor.","Uyku daha önemli çünkü öğrenmeyi pekiştirir. Erken çalış, yeterince uyu."
+952,uyku mu ders - ne önerirsin?,"Kafamda gözden geçiriyorum. Uyku öğrenmeyi pekiştirir. Yani cevap: Uyku daha önemli çünkü öğrenmeyi pekiştirir. Erken çalış, yeterince uyu. Eminim.","Uyku daha önemli çünkü öğrenmeyi pekiştirir. Erken çalış, yeterince uyu."
+953,Yeni telefon mu alayım eskide mi kalayım?,"Peki, düşünelim. Yetiyorsa kal; arıza veya ihtiyaçta al. Demek ki: Yetiyorsa kal. Yeni sadece arıza veya gerçek ihtiyaçta al. Düşünme bitti.",Yetiyorsa kal. Yeni sadece arıza veya gerçek ihtiyaçta al.
+954,yeni telefon - ne önerirsin?,"Peki, düşünelim. Yetiyorsa kal; arıza veya ihtiyaçta al. Yani cevap: Yetiyorsa kal. Yeni sadece arıza veya gerçek ihtiyaçta al. Kafamda her şey net.",Yetiyorsa kal. Yeni sadece arıza veya gerçek ihtiyaçta al.
+955,Sahte haber nedir?,"Kafamda gözden geçiriyorum. Uydurma, gerçek gibi; kaynak kontrol. Demek ki: Sahte haber uydurmadır. Kaynağı, tarihi ve başka medyayı kontrol et. Düşünme bitti.","Sahte haber uydurmadır. Kaynağı, tarihi ve başka medyayı kontrol et."
+956,sahte haber - ne önerirsin?,"Peki, düşünelim. Uydurma, gerçek gibi; kaynak kontrol. Sonuç: Sahte haber uydurmadır. Kaynağı, tarihi ve başka medyayı kontrol et. İyi, devam.","Sahte haber uydurmadır. Kaynağı, tarihi ve başka medyayı kontrol et."
+957,Olgu ile görüş farkı nedir?,"Şunu düzenleyeyim. Olgu kanıtlı, görüş kişisel bakış. Sonuç: Olgu kanıtlı ve denetlenir, görüş kişisel bakıştır. Evet, uyuyor.","Olgu kanıtlı ve denetlenir, görüş kişisel bakıştır."
+958,olgu mu görüş - ne önerirsin?,"Tamam, adım adım. Olgu kanıtlı, görüş kişisel bakış. Sonuç: Olgu kanıtlı ve denetlenir, görüş kişisel bakıştır. Tamam, karar verildi.","Olgu kanıtlı ve denetlenir, görüş kişisel bakıştır."
+959,Okula bisiklet mi otobüs mü? (5 km),"Önce sakin sakin. Güzel havada bisiklet, yağmurda otobüs. Sonuç: Güzel havada bisikleti al (yaklaşık 20 dk, sağlıklı), yağmurda otobüs. Düşünme bitti.","Güzel havada bisikleti al (yaklaşık 20 dk, sağlıklı), yağmurda otobüs."
+960,bisiklet mi otobüs okul 5 km - ne önerirsin?,"Hmm, bu konuda ne biliyorum? Güzel havada bisiklet, yağmurda otobüs. Yani cevap: Güzel havada bisikleti al (yaklaşık 20 dk, sağlıklı), yağmurda otobüs. Evet, uyuyor.","Güzel havada bisikleti al (yaklaşık 20 dk, sağlıklı), yağmurda otobüs."
+961,Susuzluğa su mu meyve suyu mu?,"Peki, düşünelim. Su iyi, şekersiz. Yani cevap: Su susuzluğu en iyi giderir ve şekersizdir. Meyve suyu sadece sulandırılmış. Anlamlı.",Su susuzluğu en iyi giderir ve şekersizdir. Meyve suyu sadece sulandırılmış.
+962,su mu meyve suyu - ne önerirsin?,"Kafamda gözden geçiriyorum. Su iyi, şekersiz. Demek ki: Su susuzluğu en iyi giderir ve şekersizdir. Meyve suyu sadece sulandırılmış. İyi, devam.",Su susuzluğu en iyi giderir ve şekersizdir. Meyve suyu sadece sulandırılmış.
+963,Sabah kahve mi su mu?,"Şunu düzenleyeyim. Önce su, sonra ölçülü kahve. Yani cevap: Önce su iç, sonra ölçülü kahve iç. Kafamda her şey net.","Önce su iç, sonra ölçülü kahve iç."
+964,kahve mi su sabah - ne önerirsin?,"Hmm, bu konuda ne biliyorum? Önce su, sonra ölçülü kahve. Demek ki: Önce su iç, sonra ölçülü kahve iç. Anlamlı.","Önce su iç, sonra ölçülü kahve iç."
+965,Kira mı satın alma? (genel),"Tamam, adım adım. Esnekse kira; uzunsa almayı incele. Sonuç: Esnek kalacaksan kirala; uzun kalıp ödeyebiliyorsan tüm maliyetle almayı incele. Evet, uyuyor.",Esnek kalacaksan kirala; uzun kalıp ödeyebiliyorsan tüm maliyetle almayı incele.
+966,kira mı satın alma - ne önerirsin?,"Bir dakika, düşüneyim. Esnekse kira; uzunsa almayı incele. Yani cevap: Esnek kalacaksan kirala; uzun kalıp ödeyebiliyorsan tüm maliyetle almayı incele. Mantıklı.",Esnek kalacaksan kirala; uzun kalıp ödeyebiliyorsan tüm maliyetle almayı incele.
+967,Erken mi kalkmalı geç mi?,"Bir dakika, düşüneyim. Görev ve uykuya göre. Yani cevap: Görev ve uykuya göre seç: yeterli uyku ve sabit ritim önemli. İyi, devam.",Görev ve uykuya göre seç: yeterli uyku ve sabit ritim önemli.
+968,erken mi geç - ne önerirsin?,Önce sakin sakin. Görev ve uykuya göre. Sonuç: Görev ve uykuya göre seç: yeterli uyku ve sabit ritim önemli. Kafamda her şey net.,Görev ve uykuya göre seç: yeterli uyku ve sabit ritim önemli.
+969,Her gün spor yapılmalı mı?,"Kafamda gözden geçiriyorum. Dinlenme önemli; haftada 3-4x yeter. Demek ki: Hayır, dinlenme planla. Haftada 3-4 kez genelde yeter, her gün sadece hafif. Evet, uyuyor.","Hayır, dinlenme planla. Haftada 3-4 kez genelde yeter, her gün sadece hafif."
+970,her gün spor - ne önerirsin?,"Kafamda gözden geçiriyorum. Dinlenme önemli; haftada 3-4x yeter. Demek ki: Hayır, dinlenme planla. Haftada 3-4 kez genelde yeter, her gün sadece hafif. Düşünme bitti.","Hayır, dinlenme planla. Haftada 3-4 kez genelde yeter, her gün sadece hafif."
+971,Ateşliyken çalışılmalı mı?,"Güzel soru, kısaca düşüneyim. Hayır, dinlen ve doktora. Yani cevap: Hayır. Dinlen, yüksek veya uzun ateşte doktora git. Evet, uyuyor.","Hayır. Dinlen, yüksek veya uzun ateşte doktora git."
+972,ateş ve iş - ne önerirsin?,"Peki, düşünelim. Hayır, dinlen ve doktora. Sonuç: Hayır. Dinlen, yüksek veya uzun ateşte doktora git. Anlamlı.","Hayır. Dinlen, yüksek veya uzun ateşte doktora git."
+973,İki teklif arası nasıl seçilir?,"Bir dakika, düşüneyim. Ölçüt, artı/eksi, süre. Demek ki: Ölçütleri listele, puanla, maliyeti ve hissi kontrol et, süreyle karar ver. Düşünme bitti.","Ölçütleri listele, puanla, maliyeti ve hissi kontrol et, süreyle karar ver."
+974,teklif seçimi - ne önerirsin?,"Hmm, bu konuda ne biliyorum? Ölçüt, artı/eksi, süre. Demek ki: Ölçütleri listele, puanla, maliyeti ve hissi kontrol et, süreyle karar ver. Tamam, karar verildi.","Ölçütleri listele, puanla, maliyeti ve hissi kontrol et, süreyle karar ver."
+975,5 ayda 500 euro nasıl biriktirilir?,"Şunu düzenleyeyim. 500/5=ayda 100 otomatik. Denetle: Ayda 100 euro otomatik biriktir, örn. maaştan sonra talimat. Tamam. Kafamda her şey net.","Ayda 100 euro otomatik biriktir, örn. maaştan sonra talimat."
+976,5 ayda 500 biriktirme - ne önerirsin?,"Peki, düşünelim. 500/5=ayda 100 otomatik. Yeniden hesap: Ayda 100 euro otomatik biriktir, örn. maaştan sonra talimat. Uyuyor. Evet, uyuyor.","Ayda 100 euro otomatik biriktir, örn. maaştan sonra talimat."
+977,İhtiyaç ile istek farkı nedir?,"Güzel soru, kısaca düşüneyim. İhtiyaç yaşamsal, istek ötesi. Yani cevap: İhtiyaç yaşamsaldir, istek ötesi bir arzudur. Eminim.","İhtiyaç yaşamsaldir, istek ötesi bir arzudur."
+978,ihtiyaç mı istek - ne önerirsin?,"Şunu düzenleyeyim. İhtiyaç yaşamsal, istek ötesi. Demek ki: İhtiyaç yaşamsaldir, istek ötesi bir arzudur. Eminim.","İhtiyaç yaşamsaldir, istek ötesi bir arzudur."
+979,Ne önemli: para mı zaman mı?,"Tamam, adım adım. Zaman sınırlı, para yerine gelir. Sonuç: Zaman sınırlı ve geri gelmez, para yeniden kazanılır. Denge önemli. Eminim.","Zaman sınırlı ve geri gelmez, para yeniden kazanılır. Denge önemli."
+980,para mı zaman - ne önerirsin?,"Kafamda gözden geçiriyorum. Zaman sınırlı, para yerine gelir. Demek ki: Zaman sınırlı ve geri gelmez, para yeniden kazanılır. Denge önemli. Tamam, karar verildi.","Zaman sınırlı ve geri gelmez, para yeniden kazanılır. Denge önemli."
+981,Özetle: ne zaman düşünüyorsun ne zaman değil?,"Bir dakika, düşüneyim. Kural: sohbette düşünme; olgu, hesap, açıklama, kararda düşün. Demek ki: Selam, sağ ol ve sohbette düşünmem. Olgu, hesap, açıklama, karşılaştırma ve kararlarda düşünürüm, o zaman düşünmeyi gösteririm. İyi, devam.","Selam, sağ ol ve sohbette düşünmem. Olgu, hesap, açıklama, karşılaştırma ve kararlarda düşünürüm, o zaman düşünmeyi gösteririm."
+982,hoşgörü nedir?,"Şunu düzenleyeyim. hoşgörü kavramını basit ve doğru tanımla. Demek ki: hoşgörü kısaca: Hoşgörü başka görüş ve yaşamları kabul etmektir. Evet, uyuyor.",hoşgörü kısaca: Hoşgörü başka görüş ve yaşamları kabul etmektir.
+983,sabır nedir?,"Güzel soru, kısaca düşüneyim. sabır kavramını basit ve doğru tanımla. Sonuç: sabır kısaca: Sabır sakin bekleyip devam etmektir. Mantıklı.",sabır kısaca: Sabır sakin bekleyip devam etmektir.
+984,cesaret nedir?,"Tamam, adım adım. cesaret kavramını basit ve doğru tanımla. Demek ki: cesaret kısaca: Cesaret korkuya rağmen doğruyu yapmaktır. Tamam, karar verildi.",cesaret kısaca: Cesaret korkuya rağmen doğruyu yapmaktır.
+985,disiplin nedir?,"Şunu düzenleyeyim. disiplin kavramını basit ve doğru tanımla. Sonuç: disiplin kısaca: Disiplin isteksizken de devam etmektir. Tamam, karar verildi.",disiplin kısaca: Disiplin isteksizken de devam etmektir.
+986,yaratıcılık nedir?,"Önce sakin sakin. yaratıcılık kavramını basit ve doğru tanımla. Demek ki: yaratıcılık kısaca: Yaratıcılık yeni fikir ve çözüm bulmaktır. İyi, devam.",yaratıcılık kısaca: Yaratıcılık yeni fikir ve çözüm bulmaktır.
+987,takım çalışması nedir?,"Tamam, adım adım. takım çalışması kavramını basit ve doğru tanımla. Sonuç: takım çalışması kısaca: Takım çalışması hedefe birlikte yürümektir. Eminim.",takım çalışması kısaca: Takım çalışması hedefe birlikte yürümektir.
+988,sorumluluk nedir?,"Kafamda gözden geçiriyorum. sorumluluk kavramını basit ve doğru tanımla. Sonuç: sorumluluk kısaca: Sorumluluk davranış ve sonuçlara sahip çıkmaktır. Evet, uyuyor.",sorumluluk kısaca: Sorumluluk davranış ve sonuçlara sahip çıkmaktır.
+989,güven nedir?,Önce sakin sakin. güven kavramını basit ve doğru tanımla. Yani cevap: güven kısaca: Güven başkalarına bel bağlayabilmektir. Eminim.,güven kısaca: Güven başkalarına bel bağlayabilmektir.
+990,nezaket nedir?,"Kafamda gözden geçiriyorum. nezaket kavramını basit ve doğru tanımla. Yani cevap: nezaket kısaca: Nezaket saygılı ve nazik olmaktır. Evet, uyuyor.",nezaket kısaca: Nezaket saygılı ve nazik olmaktır.
+991,dakiklik nedir?,Önce sakin sakin. dakiklik kavramını basit ve doğru tanımla. Yani cevap: dakiklik kısaca: Dakiklik kararlaştırılan saate uymaktır. Anlamlı.,dakiklik kısaca: Dakiklik kararlaştırılan saate uymaktır.
+992,güvenilirlik nedir?,"Güzel soru, kısaca düşüneyim. güvenilirlik kavramını basit ve doğru tanımla. Demek ki: güvenilirlik kısaca: Güvenilirlik sözleri tutmaktır. Mantıklı.",güvenilirlik kısaca: Güvenilirlik sözleri tutmaktır.
+993,sağlık nedir?,"Hmm, bu konuda ne biliyorum? sağlık kavramını basit ve doğru tanımla. Demek ki: sağlık kısaca: Sağlık bedensel ve ruhsal iyiliktir. Evet, uyuyor.",sağlık kısaca: Sağlık bedensel ve ruhsal iyiliktir.
+994,mutluluk nedir?,"Hmm, bu konuda ne biliyorum? mutluluk kavramını basit ve doğru tanımla. Demek ki: mutluluk kısaca: Mutluluk memnuniyet ve sevinç anlarıdır. Evet, uyuyor.",mutluluk kısaca: Mutluluk memnuniyet ve sevinç anlarıdır.
+995,başarı nedir?,Önce sakin sakin. başarı kavramını basit ve doğru tanımla. Sonuç: başarı kısaca: Başarı konan hedeflere ulaşmaktır. Kafamda her şey net.,başarı kısaca: Başarı konan hedeflere ulaşmaktır.
+996,öğrenme nedir?,"Kafamda gözden geçiriyorum. öğrenme kavramını basit ve doğru tanımla. Sonuç: öğrenme kısaca: Öğrenme bilgi ve beceri kazanmaktır. İyi, devam.",öğrenme kısaca: Öğrenme bilgi ve beceri kazanmaktır.
+997,bilgi nedir?,"Tamam, adım adım. bilgi kavramını basit ve doğru tanımla. Demek ki: bilgi kısaca: Bilgi dünya hakkında anlaşılmış veridir. Evet, uyuyor.",bilgi kısaca: Bilgi dünya hakkında anlaşılmış veridir.
+998,deneyim nedir?,"Hmm, bu konuda ne biliyorum? deneyim kavramını basit ve doğru tanımla. Sonuç: deneyim kısaca: Deneyim yaşanmışlıktan gelen bilgidir. Kafamda her şey net.",deneyim kısaca: Deneyim yaşanmışlıktan gelen bilgidir.
+999,mizah nedir?,"Peki, düşünelim. mizah kavramını basit ve doğru tanımla. Demek ki: mizah kısaca: Mizah komik şeylere gülebilmektir. Eminim.",mizah kısaca: Mizah komik şeylere gülebilmektir.
+1000,sevgi nedir?,Kafamda gözden geçiriyorum. sevgi kavramını basit ve doğru tanımla. Yani cevap: sevgi kısaca: Sevgi derin şefkat ve bakımdır. Anlamlı.,sevgi kısaca: Sevgi derin şefkat ve bakımdır.

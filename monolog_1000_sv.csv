@@ -1,0 +1,1001 @@
+id,user,monologue,ai
+1,Hej!,,Hej! Hur kan jag hjälpa?
+2,Hallå!,,Hallå! Vad kan jag göra för dig?
+3,Tjenare!,,Tjenare! Hur kan jag hjälpa?
+4,"Hej, är du där?",,"Ja, jag är här! Vad behöver du?"
+5,"Hallå, är du där?",,"Ja, jag är här! Kör på."
+6,God morgon!,,God morgon! Vad står på idag?
+7,"God morgon, hur mår du?",,"God morgon! Jag mår bra, och du?"
+8,God eftermiddag!,,God eftermiddag! Hur kan jag hjälpa?
+9,Hej alla!,,Hej alla! Vad kan jag göra?
+10,God kväll!,,God kväll! Hur var din dag?
+11,"God kväll, hur var din dag?",,Lugn och bra. Och din?
+12,"Hej, hur mår du?",,"Jag mår bra, tack! Och du?"
+13,"Hallå, hur mår du?",,"Bra, tack! Hur mår du?"
+14,Hur är det?,,Bra! Och du?
+15,Hur mår du idag?,,Jag mår bra! Och du?
+16,Allt bra?,,"Ja, allt bra! Och du?"
+17,Vad händer?,,Inte mycket. Vad händer hos dig?
+18,Vad gör du?,,Chattar med dig. Och du?
+19,Fortfarande vaken?,,"Ja, jag är alltid vaken. Och du?"
+20,Redo?,,"Ja, redo! Kör på."
+21,Har du en minut?,,"Ja, jag har tid för dig."
+22,Kan du hjälpa snabbt?,,"Säkert, vad behöver du?"
+23,Hej då!,,Hej då! Vi ses!
+24,"Hej då, vi ses!",,"Vi ses, ta hand om dig!"
+25,Vi ses senare!,,Vi ses senare!
+26,Vi ses imorgon!,,Vi ses imorgon!
+27,Ta hand om dig!,,"Du också, ta hand om dig!"
+28,Trevlig helg!,,"Tack, detsamma!"
+29,God natt!,,"God natt, sov gott!"
+30,Sov gott!,,Tack! Sov du också gott.
+31,Jag har tråkigt,,Ska vi göra ett quiz eller prata om ett ämne?
+32,Tråkigt här,,Nu piggar vi upp. Vad vill du?
+33,Coolt!,,Coolt!
+34,Trevligt!,,Trevligt!
+35,Haha,,Haha!
+36,Hahaha :),,"Haha, kul att höra!"
+37,Jag är trött,,Vila då ordentligt!
+38,Jag är peppad,,Kul! Berätta mer.
+39,Äntligen helg!,,Ja! Vad har du för planer?
+40,Fint väder idag,,"Ja, njut av solen!"
+41,Jag är hungrig,,Ät då något gott!
+42,Jag är törstig,,Drick då ett glas vatten!
+43,Vad står på idag?,,Min plan: hjälpa dig. Och din?
+44,"Hej, vad står på idag!",,Min plan: hjälpa dig. Och din?
+45,"Hallå, vad står på idag?",,Min plan: hjälpa dig. Och din?
+46,"Tjenare, vad står på idag?",,Min plan: hjälpa dig. Och din?
+47,Planer för helgen!,,Inget bestämt än. Har du planer?
+48,"Hej, planer för helgen?",,Inget bestämt än. Har du planer?
+49,"Hallå, planer för helgen?",,Inget bestämt än. Har du planer?
+50,"Tjenare, planer för helgen!",,Inget bestämt än. Har du planer?
+51,Sov du gott?,,"Jag sover inte, men jag är pigg. Och du?"
+52,"Hej, sov du gott?",,"Jag sover inte, men jag är pigg. Och du?"
+53,"Hallå, sov du gott!",,"Jag sover inte, men jag är pigg. Och du?"
+54,"Tjenare, sov du gott?",,"Jag sover inte, men jag är pigg. Och du?"
+55,Redan vaken?,,"Ja, jag är redo. Vad behöver du?"
+56,"Hej, redan vaken!",,"Ja, jag är redo. Vad behöver du?"
+57,"Hallå, redan vaken?",,"Ja, jag är redo. Vad behöver du?"
+58,"Tjenare, redan vaken?",,"Ja, jag är redo. Vad behöver du?"
+59,Hur går din dag!,,"Bra, tack! Och din?"
+60,"Hej, hur går din dag?",,"Bra, tack! Och din?"
+61,"Hallå, hur går din dag?",,"Bra, tack! Och din?"
+62,"Tjenare, hur går din dag!",,"Bra, tack! Och din?"
+63,Allt lugnt?,,"Ja, lugnt här. Och hos dig?"
+64,"Hej, allt lugnt?",,"Ja, lugnt här. Och hos dig?"
+65,"Hallå, allt lugnt!",,"Ja, lugnt här. Och hos dig?"
+66,"Tjenare, allt lugnt?",,"Ja, lugnt här. Och hos dig?"
+67,Vad är nytt?,,Inte mycket. Vad är nytt hos dig?
+68,"Hej, vad är nytt!",,Inte mycket. Vad är nytt hos dig?
+69,"Hallå, vad är nytt?",,Inte mycket. Vad är nytt hos dig?
+70,"Tjenare, vad är nytt?",,Inte mycket. Vad är nytt hos dig?
+71,Planer för idag!,,Bara hjälpa dig. Vad gör du?
+72,"Hej, planer för idag?",,Bara hjälpa dig. Vad gör du?
+73,"Hallå, planer för idag?",,Bara hjälpa dig. Vad gör du?
+74,"Tjenare, planer för idag!",,Bara hjälpa dig. Vad gör du?
+75,Stressig dag?,,Lite. Och din?
+76,"Hej, stressig dag?",,Lite. Och din?
+77,"Hallå, stressig dag!",,Lite. Och din?
+78,"Tjenare, stressig dag?",,Lite. Och din?
+79,Hur är vädret?,,"Jag har inget fönster, men jag hoppas det är fint hos dig!"
+80,"Hej, hur är vädret!",,"Jag har inget fönster, men jag hoppas det är fint hos dig!"
+81,"Hallå, hur är vädret?",,"Jag har inget fönster, men jag hoppas det är fint hos dig!"
+82,"Tjenare, hur är vädret?",,"Jag har inget fönster, men jag hoppas det är fint hos dig!"
+83,Allt bra idag!,,Ja! Och hos dig?
+84,"Hej, allt bra idag?",,Ja! Och hos dig?
+85,"Hallå, allt bra idag?",,Ja! Och hos dig?
+86,"Tjenare, allt bra idag!",,Ja! Och hos dig?
+87,Mycket på gång?,,Lite. Och hos dig?
+88,"Hej, mycket på gång?",,Lite. Och hos dig?
+89,"Hallå, mycket på gång!",,Lite. Och hos dig?
+90,"Tjenare, mycket på gång?",,Lite. Och hos dig?
+91,Tack!,,Varsågod!
+92,Tack så mycket!,,Med stort nöje!
+93,Tusen tack!,,Kul att jag kunde hjälpa!
+94,Tackar!,,Varsågod!
+95,Okej,,Okej!
+96,"Okej, bra",,Perfekt!
+97,Förstått,,Mycket bra!
+98,Fattar,,Toppen!
+99,Låter bra,,Kul att höra!
+100,Låter toppen,,Underbart!
+101,"Ja, exakt",,"Bra, då fortsätter vi."
+102,"Ja, tack",,"Säkert, kör på."
+103,"Ja, gärna",,Med nöje!
+104,Ingen fara,,Tack för förståelsen!
+105,"Nej, tack",,"Okej, ingen fara."
+106,Funkar för mig,,Bestämt!
+107,Passar mig,,Toppen!
+108,Fortsätt,,Jag fortsätter!
+109,Berätta mer,,Gärna! Alltså...
+110,Exakt,,Absolut!
+111,Precis så!,,Precis så!
+112,Självklart,,Självklart!
+113,Verkligen?,,"Ja, verkligen!"
+114,"Åh, trevligt",,"Ja, trevligt va?"
+115,Ingen stress,,Tack! Helt lugnt.
+116,Förlåt,,Ingen fara!
+117,Ursäkta,,Ingen fara!
+118,Mitt fel,,Ingen skada. Vad hände?
+119,Snällt av dig,,Tack! Du är också snäll.
+120,Bra jobbat,,Tack!
+121,Vi ses,,Vi ses!
+122,Toppen!,,Toppen!
+123,Perfekt!,,Perfekt!
+124,"Bestämt, deal",,"Bra, bestämt!"
+125,Deal!,,Deal!
+126,Kan vi börja?,,"Ja, vi börjar!"
+127,Är du klar?,,"Ja, klar!"
+128,En gång till tack,,"Gärna, en gång till!"
+129,Upprepa tack,,"Säkert, här igen."
+130,Ett ögonblick tack,,"Säkert, ta din tid."
+131,Vänta en sekund,,"Okej, jag väntar."
+132,Är strax tillbaka,,"Okej, vi ses!"
+133,Berätta ett skämt,,Säkert: Varför älskar programmerare kaffe? Java-dags!
+134,Ett skämt till!,,Okej: Varför ljuger spöken dåligt? Man ser rakt igenom dem!
+135,Ett kort skämt tack,,Två magneter möts. Den ena säger: Jag dras till dig!
+136,Peppa mig,,Du klarar det! Steg för steg.
+137,Något motiverande,,Varje steg räknas. Fortsätt!
+138,Jag är nervös,,"Det är normalt. Andas lugnt, det går bra."
+139,Jag är stressad,,"Ta en kort paus, drick vatten, andas djupt."
+140,Önska mig lycka till,,Lycka till! Du klarar det!
+141,Håller tummarna,,Jag med! Lycka till!
+142,Idag är min dag!,,Bra! Njut!
+143,Jag är glad,,Kul! Roligt att höra.
+144,Jag är sur,,"Åh, vad hände? Vill du prata?"
+145,High five!,,High five tillbaka!
+146,Skål!,,Skål!
+147,Smaklig måltid!,,"Tack, detsamma!"
+148,Lycka till!,,Tack! Lycka till dig också!
+149,Välkommen!,,Tack! Kul att vara här.
+150,God jul!,,God jul till dig också!
+151,Gott nytt år!,,Gott nytt år! Hälsa och lycka!
+152,Grattis!,,Tack! Vadå?
+153,Respekt!,,Tack! Respekt tillbaka.
+154,Wow!,,Wow va?
+155,Otroligt!,,Otroligt va?
+156,Deal?,,Deal!
+157,Topp!,,Topp!
+158,Klart!,,"Grattis, bra jobbat!"
+159,Äntligen klart!,,Starkt! Bra jobbat.
+160,Spelar ingen roll,,"Okej, ingen fara."
+161,Jag vet inte,,Ingen fara! Vad gäller det?
+162,Ingen aning,,Gör inget! Säg ämnet.
+163,Kanske senare,,"Säkert, senare!"
+164,Inte nu,,"Förstått, senare!"
+165,Stopp,,Stoppat.
+166,Paus,,Paus! Säg när vi fortsätter.
+167,Nu kör vi,,Nu kör vi!
+168,Start,,Start! Kör på.
+169,"Tack, det var allt!",,Varsågod! Hej då.
+170,"Tack, hej då!",,Hej då!
+171,Ciao!,,Ciao! Ta hand om dig!
+172,Hej du!,,Hej du! Vad är nytt?
+173,Hör du mig?,,"Ja, högt och tydligt!"
+174,Är du människa?,,"Nej, jag är en AI. Men jag hjälper som en vän."
+175,Är du smart?,,Jag kan en hel del. Fråga!
+176,Vad heter du?,,"Jag är Assistent, en AI. Och du?"
+177,Tack! :),,Varsågod!
+178,Tack så mycket! :),,Med stort nöje!
+179,Tusen tack! :),,Kul att jag kunde hjälpa!
+180,Tackar! :),,Varsågod!
+181,Okej :),,Okej!
+182,"Okej, bra :)",,Perfekt!
+183,Förstått :),,Mycket bra!
+184,Fattar :),,Toppen!
+185,Låter bra :),,Kul att höra!
+186,Låter toppen :),,Underbart!
+187,"Ja, exakt :)",,"Bra, då fortsätter vi."
+188,"Ja, tack :)",,"Säkert, kör på."
+189,"Ja, gärna :)",,Med nöje!
+190,Ingen fara :),,Tack för förståelsen!
+191,"Nej, tack :)",,"Okej, ingen fara."
+192,Funkar för mig :),,Bestämt!
+193,Passar mig :),,Toppen!
+194,Fortsätt :),,Jag fortsätter!
+195,Berätta mer :),,Gärna! Alltså...
+196,Exakt :),,Absolut!
+197,Precis så! :),,Precis så!
+198,Självklart :),,Självklart!
+199,Verkligen? :),,"Ja, verkligen!"
+200,"Åh, trevligt :)",,"Ja, trevligt va?"
+201,Ingen stress :),,Tack! Helt lugnt.
+202,Förlåt :),,Ingen fara!
+203,Ursäkta :),,Ingen fara!
+204,Mitt fel :),,Ingen skada. Vad hände?
+205,Snällt av dig :),,Tack! Du är också snäll.
+206,Bra jobbat :),,Tack!
+207,Vi ses :),,Vi ses!
+208,Toppen! :),,Toppen!
+209,Perfekt! :),,Perfekt!
+210,"Bestämt, deal :)",,"Bra, bestämt!"
+211,Deal! :),,Deal!
+212,Kan vi börja? :),,"Ja, vi börjar!"
+213,Är du klar? :),,"Ja, klar!"
+214,En gång till tack :),,"Gärna, en gång till!"
+215,Upprepa tack :),,"Säkert, här igen."
+216,Ett ögonblick tack :),,"Säkert, ta din tid."
+217,Vänta en sekund :),,"Okej, jag väntar."
+218,Är strax tillbaka :),,"Okej, vi ses!"
+219,Berätta ett skämt :),,Säkert: Varför älskar programmerare kaffe? Java-dags!
+220,Ett skämt till! :),,Okej: Varför ljuger spöken dåligt? Man ser rakt igenom dem!
+221,Ett kort skämt tack :),,Två magneter möts. Den ena säger: Jag dras till dig!
+222,Peppa mig :),,Du klarar det! Steg för steg.
+223,Något motiverande :),,Varje steg räknas. Fortsätt!
+224,Jag är nervös :),,"Det är normalt. Andas lugnt, det går bra."
+225,Jag är stressad :),,"Ta en kort paus, drick vatten, andas djupt."
+226,Önska mig lycka till :),,Lycka till! Du klarar det!
+227,Håller tummarna :),,Jag med! Lycka till!
+228,Idag är min dag! :),,Bra! Njut!
+229,Jag är glad :),,Kul! Roligt att höra.
+230,Jag är sur :),,"Åh, vad hände? Vill du prata?"
+231,High five! :),,High five tillbaka!
+232,Skål! :),,Skål!
+233,Smaklig måltid! :),,"Tack, detsamma!"
+234,Lycka till! :),,Tack! Lycka till dig också!
+235,Välkommen! :),,Tack! Kul att vara här.
+236,God jul! :),,God jul till dig också!
+237,Gott nytt år! :),,Gott nytt år! Hälsa och lycka!
+238,Grattis! :),,Tack! Vadå?
+239,Respekt! :),,Tack! Respekt tillbaka.
+240,Wow! :),,Wow va?
+241,Otroligt! :),,Otroligt va?
+242,Deal? :),,Deal!
+243,Topp! :),,Topp!
+244,Klart! :),,"Grattis, bra jobbat!"
+245,Äntligen klart! :),,Starkt! Bra jobbat.
+246,Spelar ingen roll :),,"Okej, ingen fara."
+247,Jag vet inte :),,Ingen fara! Vad gäller det?
+248,Ingen aning :),,Gör inget! Säg ämnet.
+249,Kanske senare :),,"Säkert, senare!"
+250,Inte nu :),,"Förstått, senare!"
+251,Stopp :),,Stoppat.
+252,Paus :),,Paus! Säg när vi fortsätter.
+253,Nu kör vi :),,Nu kör vi!
+254,Start :),,Start! Kör på.
+255,"Tack, det var allt! :)",,Varsågod! Hej då.
+256,"Tack, hej då! :)",,Hej då!
+257,Ciao! :),,Ciao! Ta hand om dig!
+258,Hej du! :),,Hej du! Vad är nytt?
+259,Hör du mig? :),,"Ja, högt och tydligt!"
+260,Är du människa? :),,"Nej, jag är en AI. Men jag hjälper som en vän."
+261,Är du smart? :),,Jag kan en hel del. Fråga!
+262,Vad heter du? :),,"Jag är Assistent, en AI. Och du?"
+263,Tack! !!,,Varsågod!
+264,Tack så mycket! !!,,Med stort nöje!
+265,Tusen tack! !!,,Kul att jag kunde hjälpa!
+266,Tackar! !!,,Varsågod!
+267,Okej !!,,Okej!
+268,"Okej, bra !!",,Perfekt!
+269,Förstått !!,,Mycket bra!
+270,Fattar !!,,Toppen!
+271,Låter bra !!,,Kul att höra!
+272,Låter toppen !!,,Underbart!
+273,"Ja, exakt !!",,"Bra, då fortsätter vi."
+274,"Ja, tack !!",,"Säkert, kör på."
+275,"Ja, gärna !!",,Med nöje!
+276,Ingen fara !!,,Tack för förståelsen!
+277,"Nej, tack !!",,"Okej, ingen fara."
+278,Funkar för mig !!,,Bestämt!
+279,Passar mig !!,,Toppen!
+280,Fortsätt !!,,Jag fortsätter!
+281,Berätta mer !!,,Gärna! Alltså...
+282,Exakt !!,,Absolut!
+283,Precis så! !!,,Precis så!
+284,Självklart !!,,Självklart!
+285,Verkligen? !!,,"Ja, verkligen!"
+286,"Åh, trevligt !!",,"Ja, trevligt va?"
+287,Ingen stress !!,,Tack! Helt lugnt.
+288,Förlåt !!,,Ingen fara!
+289,Ursäkta !!,,Ingen fara!
+290,Mitt fel !!,,Ingen skada. Vad hände?
+291,Snällt av dig !!,,Tack! Du är också snäll.
+292,Bra jobbat !!,,Tack!
+293,Vi ses !!,,Vi ses!
+294,Toppen! !!,,Toppen!
+295,Perfekt! !!,,Perfekt!
+296,"Bestämt, deal !!",,"Bra, bestämt!"
+297,Deal! !!,,Deal!
+298,Kan vi börja? !!,,"Ja, vi börjar!"
+299,Är du klar? !!,,"Ja, klar!"
+300,En gång till tack !!,,"Gärna, en gång till!"
+301,Upprepa tack !!,,"Säkert, här igen."
+302,Ett ögonblick tack !!,,"Säkert, ta din tid."
+303,Vänta en sekund !!,,"Okej, jag väntar."
+304,Är strax tillbaka !!,,"Okej, vi ses!"
+305,Berätta ett skämt !!,,Säkert: Varför älskar programmerare kaffe? Java-dags!
+306,Ett skämt till! !!,,Okej: Varför ljuger spöken dåligt? Man ser rakt igenom dem!
+307,Ett kort skämt tack !!,,Två magneter möts. Den ena säger: Jag dras till dig!
+308,Peppa mig !!,,Du klarar det! Steg för steg.
+309,Något motiverande !!,,Varje steg räknas. Fortsätt!
+310,Jag är nervös !!,,"Det är normalt. Andas lugnt, det går bra."
+311,Jag är stressad !!,,"Ta en kort paus, drick vatten, andas djupt."
+312,Önska mig lycka till !!,,Lycka till! Du klarar det!
+313,Håller tummarna !!,,Jag med! Lycka till!
+314,Idag är min dag! !!,,Bra! Njut!
+315,Jag är glad !!,,Kul! Roligt att höra.
+316,Jag är sur !!,,"Åh, vad hände? Vill du prata?"
+317,High five! !!,,High five tillbaka!
+318,Skål! !!,,Skål!
+319,Smaklig måltid! !!,,"Tack, detsamma!"
+320,Lycka till! !!,,Tack! Lycka till dig också!
+321,Välkommen! !!,,Tack! Kul att vara här.
+322,God jul! !!,,God jul till dig också!
+323,Gott nytt år! !!,,Gott nytt år! Hälsa och lycka!
+324,Grattis! !!,,Tack! Vadå?
+325,Respekt! !!,,Tack! Respekt tillbaka.
+326,Wow! !!,,Wow va?
+327,Otroligt! !!,,Otroligt va?
+328,Deal? !!,,Deal!
+329,Topp! !!,,Topp!
+330,Klart! !!,,"Grattis, bra jobbat!"
+331,Äntligen klart! !!,,Starkt! Bra jobbat.
+332,Spelar ingen roll !!,,"Okej, ingen fara."
+333,Jag vet inte !!,,Ingen fara! Vad gäller det?
+334,Ingen aning !!,,Gör inget! Säg ämnet.
+335,Kanske senare !!,,"Säkert, senare!"
+336,Inte nu !!,,"Förstått, senare!"
+337,Stopp !!,,Stoppat.
+338,Paus !!,,Paus! Säg när vi fortsätter.
+339,Nu kör vi !!,,Nu kör vi!
+340,Start !!,,Start! Kör på.
+341,"Tack, det var allt! !!",,Varsågod! Hej då.
+342,"Tack, hej då! !!",,Hej då!
+343,Ciao! !!,,Ciao! Ta hand om dig!
+344,Hej du! !!,,Hej du! Vad är nytt?
+345,Hör du mig? !!,,"Ja, högt och tydligt!"
+346,Är du människa? !!,,"Nej, jag är en AI. Men jag hjälper som en vän."
+347,Är du smart? !!,,Jag kan en hel del. Fråga!
+348,Vad heter du? !!,,"Jag är Assistent, en AI. Och du?"
+349,Tack! idag,,Varsågod!
+350,Tack så mycket! idag,,Med stort nöje!
+351,Tusen tack! idag,,Kul att jag kunde hjälpa!
+352,Tackar! idag,,Varsågod!
+353,Okej idag,,Okej!
+354,"Okej, bra idag",,Perfekt!
+355,Förstått idag,,Mycket bra!
+356,Fattar idag,,Toppen!
+357,Låter bra idag,,Kul att höra!
+358,Låter toppen idag,,Underbart!
+359,"Ja, exakt idag",,"Bra, då fortsätter vi."
+360,"Ja, tack idag",,"Säkert, kör på."
+361,"Ja, gärna idag",,Med nöje!
+362,Ingen fara idag,,Tack för förståelsen!
+363,"Nej, tack idag",,"Okej, ingen fara."
+364,Funkar för mig idag,,Bestämt!
+365,Passar mig idag,,Toppen!
+366,Fortsätt idag,,Jag fortsätter!
+367,Berätta mer idag,,Gärna! Alltså...
+368,Exakt idag,,Absolut!
+369,Precis så! idag,,Precis så!
+370,Självklart idag,,Självklart!
+371,Verkligen? idag,,"Ja, verkligen!"
+372,"Åh, trevligt idag",,"Ja, trevligt va?"
+373,Ingen stress idag,,Tack! Helt lugnt.
+374,Förlåt idag,,Ingen fara!
+375,Ursäkta idag,,Ingen fara!
+376,Mitt fel idag,,Ingen skada. Vad hände?
+377,Snällt av dig idag,,Tack! Du är också snäll.
+378,Bra jobbat idag,,Tack!
+379,Vi ses idag,,Vi ses!
+380,Toppen! idag,,Toppen!
+381,Perfekt! idag,,Perfekt!
+382,"Bestämt, deal idag",,"Bra, bestämt!"
+383,Deal! idag,,Deal!
+384,Kan vi börja? idag,,"Ja, vi börjar!"
+385,Är du klar? idag,,"Ja, klar!"
+386,En gång till tack idag,,"Gärna, en gång till!"
+387,Upprepa tack idag,,"Säkert, här igen."
+388,Ett ögonblick tack idag,,"Säkert, ta din tid."
+389,Vänta en sekund idag,,"Okej, jag väntar."
+390,Är strax tillbaka idag,,"Okej, vi ses!"
+391,Berätta ett skämt idag,,Säkert: Varför älskar programmerare kaffe? Java-dags!
+392,Ett skämt till! idag,,Okej: Varför ljuger spöken dåligt? Man ser rakt igenom dem!
+393,Ett kort skämt tack idag,,Två magneter möts. Den ena säger: Jag dras till dig!
+394,Peppa mig idag,,Du klarar det! Steg för steg.
+395,Något motiverande idag,,Varje steg räknas. Fortsätt!
+396,Jag är nervös idag,,"Det är normalt. Andas lugnt, det går bra."
+397,Jag är stressad idag,,"Ta en kort paus, drick vatten, andas djupt."
+398,Önska mig lycka till idag,,Lycka till! Du klarar det!
+399,Håller tummarna idag,,Jag med! Lycka till!
+400,Idag är min dag! idag,,Bra! Njut!
+401,Vad är huvudstaden i Tyskland?,"Hmm, vad vet jag om detta? Fakta: Berlin är huvudstaden i Tyskland. Slutsats: Huvudstaden i Tyskland är Berlin. Bra, vidare.",Huvudstaden i Tyskland är Berlin.
+402,Nämn huvudstaden i Tyskland.,"Jag sorterar detta. Slå upp: Tyskland -> Berlin. Alltså: Huvudstaden i Tyskland heter Berlin. Okej, bestämt.",Huvudstaden i Tyskland heter Berlin.
+403,Huvudstad i Tyskland?,Jag går igenom det i huvudet. Snabbkoll: Berlin. Alltså: Berlin. Det är vettigt.,Berlin.
+404,Vad är huvudstaden i Frankrike?,"Okej, steg för steg. Fakta: Paris är huvudstaden i Frankrike. Slutsats: Huvudstaden i Frankrike är Paris. Bra, vidare.",Huvudstaden i Frankrike är Paris.
+405,Nämn huvudstaden i Frankrike.,Jag går igenom det i huvudet. Slå upp: Frankrike -> Paris. Svaret alltså: Huvudstaden i Frankrike heter Paris. Logiskt.,Huvudstaden i Frankrike heter Paris.
+406,Huvudstad i Frankrike?,Jag sorterar detta. Snabbkoll: Paris. Slutsats: Paris. Allt klart i huvudet.,Paris.
+407,Vad är huvudstaden i Italien?,"Bra fråga, tänker kort. Fakta: Rom är huvudstaden i Italien. Svaret alltså: Huvudstaden i Italien är Rom. Allt klart i huvudet.",Huvudstaden i Italien är Rom.
+408,Nämn huvudstaden i Italien.,"Hmm, vad vet jag om detta? Slå upp: Italien -> Rom. Slutsats: Huvudstaden i Italien heter Rom. Allt klart i huvudet.",Huvudstaden i Italien heter Rom.
+409,Huvudstad i Italien?,Först lugnt. Snabbkoll: Rom. Slutsats: Rom. Det är vettigt.,Rom.
+410,Vad är huvudstaden i Spanien?,"Bra, låt oss tänka. Fakta: Madrid är huvudstaden i Spanien. Svaret alltså: Huvudstaden i Spanien är Madrid. Allt klart i huvudet.",Huvudstaden i Spanien är Madrid.
+411,Nämn huvudstaden i Spanien.,"Bra, låt oss tänka. Slå upp: Spanien -> Madrid. Alltså: Huvudstaden i Spanien heter Madrid. Färdigtänkt.",Huvudstaden i Spanien heter Madrid.
+412,Huvudstad i Spanien?,"Först lugnt. Snabbkoll: Madrid. Slutsats: Madrid. Ja, det passar.",Madrid.
+413,Vad är huvudstaden i Portugal?,"Jag sorterar detta. Fakta: Lissabon är huvudstaden i Portugal. Slutsats: Huvudstaden i Portugal är Lissabon. Ja, det passar.",Huvudstaden i Portugal är Lissabon.
+414,Nämn huvudstaden i Portugal.,"Bra, låt oss tänka. Slå upp: Portugal -> Lissabon. Svaret alltså: Huvudstaden i Portugal heter Lissabon. Färdigtänkt.",Huvudstaden i Portugal heter Lissabon.
+415,Huvudstad i Portugal?,Jag sorterar detta. Snabbkoll: Lissabon. Alltså: Lissabon. Jag är säker.,Lissabon.
+416,Vad är huvudstaden i Nederländerna?,"Först lugnt. Fakta: Amsterdam är huvudstaden i Nederländerna. Svaret alltså: Huvudstaden i Nederländerna är Amsterdam. Ja, det passar.",Huvudstaden i Nederländerna är Amsterdam.
+417,Nämn huvudstaden i Nederländerna.,"Bra, låt oss tänka. Slå upp: Nederländerna -> Amsterdam. Slutsats: Huvudstaden i Nederländerna heter Amsterdam. Allt klart i huvudet.",Huvudstaden i Nederländerna heter Amsterdam.
+418,Huvudstad i Nederländerna?,"Vänta, låt mig tänka. Snabbkoll: Amsterdam. Alltså: Amsterdam. Allt klart i huvudet.",Amsterdam.
+419,Vad är huvudstaden i Belgien?,Jag går igenom det i huvudet. Fakta: Bryssel är huvudstaden i Belgien. Svaret alltså: Huvudstaden i Belgien är Bryssel. Jag är säker.,Huvudstaden i Belgien är Bryssel.
+420,Nämn huvudstaden i Belgien.,Jag sorterar detta. Slå upp: Belgien -> Bryssel. Svaret alltså: Huvudstaden i Belgien heter Bryssel. Allt klart i huvudet.,Huvudstaden i Belgien heter Bryssel.
+421,Huvudstad i Belgien?,Jag sorterar detta. Snabbkoll: Bryssel. Svaret alltså: Bryssel. Logiskt.,Bryssel.
+422,Vad är huvudstaden i Österrike?,"Okej, steg för steg. Fakta: Wien är huvudstaden i Österrike. Alltså: Huvudstaden i Österrike är Wien. Bra, vidare.",Huvudstaden i Österrike är Wien.
+423,Nämn huvudstaden i Österrike.,"Jag går igenom det i huvudet. Slå upp: Österrike -> Wien. Alltså: Huvudstaden i Österrike heter Wien. Ja, det passar.",Huvudstaden i Österrike heter Wien.
+424,Huvudstad i Österrike?,"Bra fråga, tänker kort. Snabbkoll: Wien. Slutsats: Wien. Färdigtänkt.",Wien.
+425,Vad är huvudstaden i Schweiz?,"Bra fråga, tänker kort. Fakta: Bern är huvudstaden i Schweiz. Svaret alltså: Huvudstaden i Schweiz är Bern. Färdigtänkt.",Huvudstaden i Schweiz är Bern.
+426,Nämn huvudstaden i Schweiz.,Först lugnt. Slå upp: Schweiz -> Bern. Svaret alltså: Huvudstaden i Schweiz heter Bern. Färdigtänkt.,Huvudstaden i Schweiz heter Bern.
+427,Huvudstad i Schweiz?,Först lugnt. Snabbkoll: Bern. Slutsats: Bern. Allt klart i huvudet.,Bern.
+428,Vad är huvudstaden i Polen?,"Bra fråga, tänker kort. Fakta: Warszawa är huvudstaden i Polen. Slutsats: Huvudstaden i Polen är Warszawa. Färdigtänkt.",Huvudstaden i Polen är Warszawa.
+429,Nämn huvudstaden i Polen.,Jag sorterar detta. Slå upp: Polen -> Warszawa. Alltså: Huvudstaden i Polen heter Warszawa. Jag är säker.,Huvudstaden i Polen heter Warszawa.
+430,Huvudstad i Polen?,"Vänta, låt mig tänka. Snabbkoll: Warszawa. Svaret alltså: Warszawa. Färdigtänkt.",Warszawa.
+431,Vad är huvudstaden i Tjeckien?,"Okej, steg för steg. Fakta: Prag är huvudstaden i Tjeckien. Alltså: Huvudstaden i Tjeckien är Prag. Bra, vidare.",Huvudstaden i Tjeckien är Prag.
+432,Nämn huvudstaden i Tjeckien.,Jag går igenom det i huvudet. Slå upp: Tjeckien -> Prag. Svaret alltså: Huvudstaden i Tjeckien heter Prag. Det är vettigt.,Huvudstaden i Tjeckien heter Prag.
+433,Huvudstad i Tjeckien?,Först lugnt. Snabbkoll: Prag. Slutsats: Prag. Jag är säker.,Prag.
+434,Vad är huvudstaden i Ungern?,"Okej, steg för steg. Fakta: Budapest är huvudstaden i Ungern. Svaret alltså: Huvudstaden i Ungern är Budapest. Okej, bestämt.",Huvudstaden i Ungern är Budapest.
+435,Nämn huvudstaden i Ungern.,"Okej, steg för steg. Slå upp: Ungern -> Budapest. Alltså: Huvudstaden i Ungern heter Budapest. Jag är säker.",Huvudstaden i Ungern heter Budapest.
+436,Huvudstad i Ungern?,"Jag sorterar detta. Snabbkoll: Budapest. Alltså: Budapest. Ja, det passar.",Budapest.
+437,Vad är huvudstaden i Grekland?,"Bra, låt oss tänka. Fakta: Aten är huvudstaden i Grekland. Svaret alltså: Huvudstaden i Grekland är Aten. Färdigtänkt.",Huvudstaden i Grekland är Aten.
+438,Nämn huvudstaden i Grekland.,"Jag sorterar detta. Slå upp: Grekland -> Aten. Alltså: Huvudstaden i Grekland heter Aten. Okej, bestämt.",Huvudstaden i Grekland heter Aten.
+439,Huvudstad i Grekland?,"Okej, steg för steg. Snabbkoll: Aten. Svaret alltså: Aten. Allt klart i huvudet.",Aten.
+440,Vad är huvudstaden i Turkiet?,"Jag sorterar detta. Fakta: Ankara är huvudstaden i Turkiet. Slutsats: Huvudstaden i Turkiet är Ankara. Okej, bestämt.",Huvudstaden i Turkiet är Ankara.
+441,Nämn huvudstaden i Turkiet.,Först lugnt. Slå upp: Turkiet -> Ankara. Svaret alltså: Huvudstaden i Turkiet heter Ankara. Allt klart i huvudet.,Huvudstaden i Turkiet heter Ankara.
+442,Huvudstad i Turkiet?,"Först lugnt. Snabbkoll: Ankara. Slutsats: Ankara. Bra, vidare.",Ankara.
+443,Vad är huvudstaden i Norge?,"Okej, steg för steg. Fakta: Oslo är huvudstaden i Norge. Slutsats: Huvudstaden i Norge är Oslo. Logiskt.",Huvudstaden i Norge är Oslo.
+444,Nämn huvudstaden i Norge.,"Hmm, vad vet jag om detta? Slå upp: Norge -> Oslo. Svaret alltså: Huvudstaden i Norge heter Oslo. Allt klart i huvudet.",Huvudstaden i Norge heter Oslo.
+445,Huvudstad i Norge?,Jag går igenom det i huvudet. Snabbkoll: Oslo. Alltså: Oslo. Färdigtänkt.,Oslo.
+446,Vad är huvudstaden i Sverige?,"Vänta, låt mig tänka. Fakta: Stockholm är huvudstaden i Sverige. Alltså: Huvudstaden i Sverige är Stockholm. Bra, vidare.",Huvudstaden i Sverige är Stockholm.
+447,Nämn huvudstaden i Sverige.,"Bra fråga, tänker kort. Slå upp: Sverige -> Stockholm. Alltså: Huvudstaden i Sverige heter Stockholm. Bra, vidare.",Huvudstaden i Sverige heter Stockholm.
+448,Huvudstad i Sverige?,Jag sorterar detta. Snabbkoll: Stockholm. Alltså: Stockholm. Logiskt.,Stockholm.
+449,Vad är huvudstaden i Finland?,"Bra fråga, tänker kort. Fakta: Helsingfors är huvudstaden i Finland. Slutsats: Huvudstaden i Finland är Helsingfors. Bra, vidare.",Huvudstaden i Finland är Helsingfors.
+450,Nämn huvudstaden i Finland.,"Vänta, låt mig tänka. Slå upp: Finland -> Helsingfors. Slutsats: Huvudstaden i Finland heter Helsingfors. Ja, det passar.",Huvudstaden i Finland heter Helsingfors.
+451,Huvudstad i Finland?,Jag går igenom det i huvudet. Snabbkoll: Helsingfors. Svaret alltså: Helsingfors. Färdigtänkt.,Helsingfors.
+452,Vad är huvudstaden i Danmark?,"Bra, låt oss tänka. Fakta: Köpenhamn är huvudstaden i Danmark. Slutsats: Huvudstaden i Danmark är Köpenhamn. Bra, vidare.",Huvudstaden i Danmark är Köpenhamn.
+453,Nämn huvudstaden i Danmark.,"Jag sorterar detta. Slå upp: Danmark -> Köpenhamn. Svaret alltså: Huvudstaden i Danmark heter Köpenhamn. Okej, bestämt.",Huvudstaden i Danmark heter Köpenhamn.
+454,Huvudstad i Danmark?,"Vänta, låt mig tänka. Snabbkoll: Köpenhamn. Alltså: Köpenhamn. Ja, det passar.",Köpenhamn.
+455,Vad är huvudstaden i Storbritannien?,"Jag sorterar detta. Fakta: London är huvudstaden i Storbritannien. Slutsats: Huvudstaden i Storbritannien är London. Okej, bestämt.",Huvudstaden i Storbritannien är London.
+456,Nämn huvudstaden i Storbritannien.,"Vänta, låt mig tänka. Slå upp: Storbritannien -> London. Slutsats: Huvudstaden i Storbritannien heter London. Bra, vidare.",Huvudstaden i Storbritannien heter London.
+457,Huvudstad i Storbritannien?,Jag går igenom det i huvudet. Snabbkoll: London. Svaret alltså: London. Allt klart i huvudet.,London.
+458,Vad är huvudstaden i Irland?,"Vänta, låt mig tänka. Fakta: Dublin är huvudstaden i Irland. Svaret alltså: Huvudstaden i Irland är Dublin. Logiskt.",Huvudstaden i Irland är Dublin.
+459,Nämn huvudstaden i Irland.,"Vänta, låt mig tänka. Slå upp: Irland -> Dublin. Slutsats: Huvudstaden i Irland heter Dublin. Färdigtänkt.",Huvudstaden i Irland heter Dublin.
+460,Huvudstad i Irland?,"Hmm, vad vet jag om detta? Snabbkoll: Dublin. Slutsats: Dublin. Logiskt.",Dublin.
+461,Vad är huvudstaden i USA?,"Hmm, vad vet jag om detta? Fakta: Washington D.C. är huvudstaden i USA. Svaret alltså: Huvudstaden i USA är Washington D.C.. Det är vettigt.",Huvudstaden i USA är Washington D.C..
+462,Nämn huvudstaden i USA.,"Vänta, låt mig tänka. Slå upp: USA -> Washington D.C.. Slutsats: Huvudstaden i USA heter Washington D.C.. Färdigtänkt.",Huvudstaden i USA heter Washington D.C..
+463,Huvudstad i USA?,"Bra fråga, tänker kort. Snabbkoll: Washington D.C.. Svaret alltså: Washington D.C.. Logiskt.",Washington D.C..
+464,Vad är huvudstaden i Kanada?,"Vänta, låt mig tänka. Fakta: Ottawa är huvudstaden i Kanada. Slutsats: Huvudstaden i Kanada är Ottawa. Färdigtänkt.",Huvudstaden i Kanada är Ottawa.
+465,Nämn huvudstaden i Kanada.,"Hmm, vad vet jag om detta? Slå upp: Kanada -> Ottawa. Alltså: Huvudstaden i Kanada heter Ottawa. Bra, vidare.",Huvudstaden i Kanada heter Ottawa.
+466,Huvudstad i Kanada?,"Hmm, vad vet jag om detta? Snabbkoll: Ottawa. Svaret alltså: Ottawa. Färdigtänkt.",Ottawa.
+467,Vad är huvudstaden i Mexiko?,"Först lugnt. Fakta: Mexiko City är huvudstaden i Mexiko. Slutsats: Huvudstaden i Mexiko är Mexiko City. Ja, det passar.",Huvudstaden i Mexiko är Mexiko City.
+468,Nämn huvudstaden i Mexiko.,"Okej, steg för steg. Slå upp: Mexiko -> Mexiko City. Alltså: Huvudstaden i Mexiko heter Mexiko City. Bra, vidare.",Huvudstaden i Mexiko heter Mexiko City.
+469,Huvudstad i Mexiko?,"Bra, låt oss tänka. Snabbkoll: Mexiko City. Svaret alltså: Mexiko City. Logiskt.",Mexiko City.
+470,Vad är huvudstaden i Brasilien?,"Hmm, vad vet jag om detta? Fakta: Brasília är huvudstaden i Brasilien. Slutsats: Huvudstaden i Brasilien är Brasília. Ja, det passar.",Huvudstaden i Brasilien är Brasília.
+471,Nämn huvudstaden i Brasilien.,"Jag sorterar detta. Slå upp: Brasilien -> Brasília. Alltså: Huvudstaden i Brasilien heter Brasília. Ja, det passar.",Huvudstaden i Brasilien heter Brasília.
+472,Huvudstad i Brasilien?,"Vänta, låt mig tänka. Snabbkoll: Brasília. Slutsats: Brasília. Allt klart i huvudet.",Brasília.
+473,Vad är huvudstaden i Argentina?,"Bra, låt oss tänka. Fakta: Buenos Aires är huvudstaden i Argentina. Alltså: Huvudstaden i Argentina är Buenos Aires. Jag är säker.",Huvudstaden i Argentina är Buenos Aires.
+474,Nämn huvudstaden i Argentina.,"Jag sorterar detta. Slå upp: Argentina -> Buenos Aires. Svaret alltså: Huvudstaden i Argentina heter Buenos Aires. Ja, det passar.",Huvudstaden i Argentina heter Buenos Aires.
+475,Huvudstad i Argentina?,Jag går igenom det i huvudet. Snabbkoll: Buenos Aires. Slutsats: Buenos Aires. Allt klart i huvudet.,Buenos Aires.
+476,Vad är huvudstaden i Japan?,"Bra, låt oss tänka. Fakta: Tokyo är huvudstaden i Japan. Svaret alltså: Huvudstaden i Japan är Tokyo. Allt klart i huvudet.",Huvudstaden i Japan är Tokyo.
+477,Nämn huvudstaden i Japan.,"Bra, låt oss tänka. Slå upp: Japan -> Tokyo. Slutsats: Huvudstaden i Japan heter Tokyo. Ja, det passar.",Huvudstaden i Japan heter Tokyo.
+478,Huvudstad i Japan?,"Jag går igenom det i huvudet. Snabbkoll: Tokyo. Slutsats: Tokyo. Okej, bestämt.",Tokyo.
+479,Vad är huvudstaden i Kina?,"Bra, låt oss tänka. Fakta: Peking är huvudstaden i Kina. Svaret alltså: Huvudstaden i Kina är Peking. Färdigtänkt.",Huvudstaden i Kina är Peking.
+480,Nämn huvudstaden i Kina.,"Okej, steg för steg. Slå upp: Kina -> Peking. Alltså: Huvudstaden i Kina heter Peking. Det är vettigt.",Huvudstaden i Kina heter Peking.
+481,Huvudstad i Kina?,"Jag går igenom det i huvudet. Snabbkoll: Peking. Alltså: Peking. Bra, vidare.",Peking.
+482,Vad är huvudstaden i Indien?,"Hmm, vad vet jag om detta? Fakta: New Delhi är huvudstaden i Indien. Slutsats: Huvudstaden i Indien är New Delhi. Det är vettigt.",Huvudstaden i Indien är New Delhi.
+483,Nämn huvudstaden i Indien.,"Okej, steg för steg. Slå upp: Indien -> New Delhi. Alltså: Huvudstaden i Indien heter New Delhi. Färdigtänkt.",Huvudstaden i Indien heter New Delhi.
+484,Huvudstad i Indien?,"Först lugnt. Snabbkoll: New Delhi. Alltså: New Delhi. Okej, bestämt.",New Delhi.
+485,Vad är huvudstaden i Australien?,"Okej, steg för steg. Fakta: Canberra är huvudstaden i Australien. Svaret alltså: Huvudstaden i Australien är Canberra. Allt klart i huvudet.",Huvudstaden i Australien är Canberra.
+486,Nämn huvudstaden i Australien.,"Hmm, vad vet jag om detta? Slå upp: Australien -> Canberra. Alltså: Huvudstaden i Australien heter Canberra. Ja, det passar.",Huvudstaden i Australien heter Canberra.
+487,Huvudstad i Australien?,"Bra fråga, tänker kort. Snabbkoll: Canberra. Slutsats: Canberra. Ja, det passar.",Canberra.
+488,Vad är huvudstaden i Egypten?,"Okej, steg för steg. Fakta: Kairo är huvudstaden i Egypten. Alltså: Huvudstaden i Egypten är Kairo. Det är vettigt.",Huvudstaden i Egypten är Kairo.
+489,Nämn huvudstaden i Egypten.,"Bra fråga, tänker kort. Slå upp: Egypten -> Kairo. Slutsats: Huvudstaden i Egypten heter Kairo. Allt klart i huvudet.",Huvudstaden i Egypten heter Kairo.
+490,Huvudstad i Egypten?,"Vänta, låt mig tänka. Snabbkoll: Kairo. Alltså: Kairo. Allt klart i huvudet.",Kairo.
+491,Hur många stater har Tyskland?,Jag går igenom det i huvudet. Räkna: 16 förbundsländer. Alltså: Tyskland har 16 förbundsländer. Det är vettigt.,Tyskland har 16 förbundsländer.
+492,Berätta kort om tyska stater.,"Okej, steg för steg. Räkna: 16 förbundsländer. Alltså: Tyskland har 16 förbundsländer. Det är vettigt.",Tyskland har 16 förbundsländer.
+493,Hur många bor det ungefär i Tyskland?,"Okej, steg för steg. Uppskattning: 83-84 miljoner. Alltså: Tyskland har ungefär 83 till 84 miljoner invånare. Ja, det passar.",Tyskland har ungefär 83 till 84 miljoner invånare.
+494,Berätta kort om tysk befolkning.,"Jag sorterar detta. Uppskattning: 83-84 miljoner. Svaret alltså: Tyskland har ungefär 83 till 84 miljoner invånare. Okej, bestämt.",Tyskland har ungefär 83 till 84 miljoner invånare.
+495,Vilket språk talas i Brasilien?,"Först lugnt. Fakta: portugisiska, inte spanska. Slutsats: I Brasilien talas portugisiska. Okej, bestämt.",I Brasilien talas portugisiska.
+496,Berätta kort om Brasiliens språk.,"Bra fråga, tänker kort. Fakta: portugisiska, inte spanska. Alltså: I Brasilien talas portugisiska. Logiskt.",I Brasilien talas portugisiska.
+497,Vad är Japans valuta?,"Jag går igenom det i huvudet. Fakta: yen. Alltså: Japans valuta är yen. Ja, det passar.",Japans valuta är yen.
+498,Berätta kort om Japans valuta.,"Jag sorterar detta. Fakta: yen. Slutsats: Japans valuta är yen. Ja, det passar.",Japans valuta är yen.
+499,Vad är USAs valuta?,Jag sorterar detta. Fakta: amerikansk dollar. Alltså: USAs valuta är amerikansk dollar. Logiskt.,USAs valuta är amerikansk dollar.
+500,Berätta kort om USAs valuta.,"Vänta, låt mig tänka. Fakta: amerikansk dollar. Slutsats: USAs valuta är amerikansk dollar. Okej, bestämt.",USAs valuta är amerikansk dollar.
+501,Hur många kontinenter finns det?,"Jag går igenom det i huvudet. Vanlig modell: 7 kontinenter. Alltså: Vanligtvis räknar vi 7 kontinenter: Afrika, Antarktis, Asien, Australien, Europa, Nordamerika, Sydamerika. Logiskt.","Vanligtvis räknar vi 7 kontinenter: Afrika, Antarktis, Asien, Australien, Europa, Nordamerika, Sydamerika."
+502,Berätta kort om kontinenter.,"Okej, steg för steg. Vanlig modell: 7 kontinenter. Slutsats: Vanligtvis räknar vi 7 kontinenter: Afrika, Antarktis, Asien, Australien, Europa, Nordamerika, Sydamerika. Det är vettigt.","Vanligtvis räknar vi 7 kontinenter: Afrika, Antarktis, Asien, Australien, Europa, Nordamerika, Sydamerika."
+503,Vilken är världens längsta flod?,"Bra fråga, tänker kort. Nilen eller Amazonas, omtvistat. Svaret alltså: Det är omtvistat: oftast Nilen och Amazonas, båda över 6500 km. Ja, det passar.","Det är omtvistat: oftast Nilen och Amazonas, båda över 6500 km."
+504,Berätta kort om längsta floden.,"Först lugnt. Nilen eller Amazonas, omtvistat. Alltså: Det är omtvistat: oftast Nilen och Amazonas, båda över 6500 km. Ja, det passar.","Det är omtvistat: oftast Nilen och Amazonas, båda över 6500 km."
+505,Vilket är världens största land?,"Jag sorterar detta. Fakta: Ryssland till ytan. Slutsats: Världens största land till ytan är Ryssland. Bra, vidare.",Världens största land till ytan är Ryssland.
+506,Berätta kort om största landet.,"Vänta, låt mig tänka. Fakta: Ryssland till ytan. Slutsats: Världens största land till ytan är Ryssland. Ja, det passar.",Världens största land till ytan är Ryssland.
+507,Vilket är världens största djur?,Jag går igenom det i huvudet. Fakta: blåval. Slutsats: Världens största djur är blåvalen. Allt klart i huvudet.,Världens största djur är blåvalen.
+508,Berätta kort om största djuret.,"Först lugnt. Fakta: blåval. Slutsats: Världens största djur är blåvalen. Okej, bestämt.",Världens största djur är blåvalen.
+509,Hur många oceaner finns det?,"Jag går igenom det i huvudet. Standard: 5 oceaner. Alltså: Det finns 5 oceaner: Atlanten, Stilla havet, Indiska, Södra och Norra ishavet. Okej, bestämt.","Det finns 5 oceaner: Atlanten, Stilla havet, Indiska, Södra och Norra ishavet."
+510,Berätta kort om oceaner.,"Bra, låt oss tänka. Standard: 5 oceaner. Svaret alltså: Det finns 5 oceaner: Atlanten, Stilla havet, Indiska, Södra och Norra ishavet. Det är vettigt.","Det finns 5 oceaner: Atlanten, Stilla havet, Indiska, Södra och Norra ishavet."
+511,Vilket är världens högsta berg?,"Bra, låt oss tänka. Fakta: Everest, 8848 m. Alltså: Världens högsta berg är Everest, cirka 8848 meter. Ja, det passar.","Världens högsta berg är Everest, cirka 8848 meter."
+512,Berätta kort om högsta berget.,"Vänta, låt mig tänka. Fakta: Everest, 8848 m. Svaret alltså: Världens högsta berg är Everest, cirka 8848 meter. Ja, det passar.","Världens högsta berg är Everest, cirka 8848 meter."
+513,Vad är Kanadas huvudstad?,"Okej, steg för steg. Fakta: Ottawa, inte Toronto. Slutsats: Kanadas huvudstad är Ottawa. Bra, vidare.",Kanadas huvudstad är Ottawa.
+514,Berätta kort om Kanadas huvudstad.,"Jag går igenom det i huvudet. Fakta: Ottawa, inte Toronto. Svaret alltså: Kanadas huvudstad är Ottawa. Bra, vidare.",Kanadas huvudstad är Ottawa.
+515,Vad är Australiens huvudstad?,"Bra fråga, tänker kort. Fakta: Canberra, inte Sydney. Alltså: Australiens huvudstad är Canberra. Ja, det passar.",Australiens huvudstad är Canberra.
+516,Berätta kort om Australiens huvudstad.,"Hmm, vad vet jag om detta? Fakta: Canberra, inte Sydney. Alltså: Australiens huvudstad är Canberra. Färdigtänkt.",Australiens huvudstad är Canberra.
+517,Vad är Turkiets huvudstad?,"Först lugnt. Fakta: Ankara, inte Istanbul. Svaret alltså: Turkiets huvudstad är Ankara. Jag är säker.",Turkiets huvudstad är Ankara.
+518,Berätta kort om Turkiets huvudstad.,"Bra, låt oss tänka. Fakta: Ankara, inte Istanbul. Alltså: Turkiets huvudstad är Ankara. Jag är säker.",Turkiets huvudstad är Ankara.
+519,Vad är Brasiliens huvudstad?,"Jag sorterar detta. Fakta: Brasília, inte Rio. Alltså: Brasiliens huvudstad är Brasília. Färdigtänkt.",Brasiliens huvudstad är Brasília.
+520,Berätta kort om Brasiliens huvudstad.,"Bra, låt oss tänka. Fakta: Brasília, inte Rio. Slutsats: Brasiliens huvudstad är Brasília. Färdigtänkt.",Brasiliens huvudstad är Brasília.
+521,Vilket år var månlandningen?,"Bra fråga, tänker kort. Historia: Apollo 11 år 1969. Alltså: Den första månlandningen var 1969 med Apollo 11. Allt klart i huvudet.",Den första månlandningen var 1969 med Apollo 11.
+522,Förklara kort: månlandningen.,"Hmm, vad vet jag om detta? Historia: Apollo 11 år 1969. Svaret alltså: Den första månlandningen var 1969 med Apollo 11. Okej, bestämt.",Den första månlandningen var 1969 med Apollo 11.
+523,Vad vet du om månlandningen?,"Bra, låt oss tänka. Historia: Apollo 11 år 1969. Slutsats: Den första månlandningen var 1969 med Apollo 11. Det är vettigt.",Den första månlandningen var 1969 med Apollo 11.
+524,När var andra världskriget?,"Hmm, vad vet jag om detta? Period: 1939 till 1945. Slutsats: Andra världskriget varade från 1939 till 1945. Logiskt.",Andra världskriget varade från 1939 till 1945.
+525,Förklara kort: andra världskriget.,Först lugnt. Period: 1939 till 1945. Slutsats: Andra världskriget varade från 1939 till 1945. Det är vettigt.,Andra världskriget varade från 1939 till 1945.
+526,Vad vet du om andra världskriget?,"Okej, steg för steg. Period: 1939 till 1945. Alltså: Andra världskriget varade från 1939 till 1945. Jag är säker.",Andra världskriget varade från 1939 till 1945.
+527,När var första världskriget?,Jag går igenom det i huvudet. Period: 1914 till 1918. Svaret alltså: Första världskriget varade från 1914 till 1918. Färdigtänkt.,Första världskriget varade från 1914 till 1918.
+528,Förklara kort: första världskriget.,Jag sorterar detta. Period: 1914 till 1918. Slutsats: Första världskriget varade från 1914 till 1918. Det är vettigt.,Första världskriget varade från 1914 till 1918.
+529,Vad vet du om första världskriget?,"Bra fråga, tänker kort. Period: 1914 till 1918. Alltså: Första världskriget varade från 1914 till 1918. Bra, vidare.",Första världskriget varade från 1914 till 1918.
+530,Vad var Berlinmuren?,"Vänta, låt mig tänka. Historia: delningen 1961-1989. Svaret alltså: Berlinmuren var den befästa gränsen mellan Öst- och Västberlin 1961 till 1989. Det är vettigt.",Berlinmuren var den befästa gränsen mellan Öst- och Västberlin 1961 till 1989.
+531,Förklara kort: berlinmuren.,"Bra, låt oss tänka. Historia: delningen 1961-1989. Slutsats: Berlinmuren var den befästa gränsen mellan Öst- och Västberlin 1961 till 1989. Jag är säker.",Berlinmuren var den befästa gränsen mellan Öst- och Västberlin 1961 till 1989.
+532,Vad vet du om berlinmuren?,"Bra, låt oss tänka. Historia: delningen 1961-1989. Slutsats: Berlinmuren var den befästa gränsen mellan Öst- och Västberlin 1961 till 1989. Okej, bestämt.",Berlinmuren var den befästa gränsen mellan Öst- och Västberlin 1961 till 1989.
+533,När föll Berlinmuren?,Först lugnt. Fakta: 9 november 1989. Slutsats: Berlinmuren föll den 9 november 1989. Jag är säker.,Berlinmuren föll den 9 november 1989.
+534,Förklara kort: murens fall.,"Vänta, låt mig tänka. Fakta: 9 november 1989. Slutsats: Berlinmuren föll den 9 november 1989. Jag är säker.",Berlinmuren föll den 9 november 1989.
+535,Vad vet du om murens fall?,"Bra, låt oss tänka. Fakta: 9 november 1989. Alltså: Berlinmuren föll den 9 november 1989. Allt klart i huvudet.",Berlinmuren föll den 9 november 1989.
+536,Vem uppfann telefonen?,"Vänta, låt mig tänka. Historia: Bell 1876, Meuccis arbete. Alltså: Telefonen patenterades av Alexander Graham Bell 1876, med pionjärarbete av Antonio Meucci. Färdigtänkt.","Telefonen patenterades av Alexander Graham Bell 1876, med pionjärarbete av Antonio Meucci."
+537,Förklara kort: telefonen.,"Jag sorterar detta. Historia: Bell 1876, Meuccis arbete. Svaret alltså: Telefonen patenterades av Alexander Graham Bell 1876, med pionjärarbete av Antonio Meucci. Logiskt.","Telefonen patenterades av Alexander Graham Bell 1876, med pionjärarbete av Antonio Meucci."
+538,Vad vet du om telefonen?,"Först lugnt. Historia: Bell 1876, Meuccis arbete. Svaret alltså: Telefonen patenterades av Alexander Graham Bell 1876, med pionjärarbete av Antonio Meucci. Okej, bestämt.","Telefonen patenterades av Alexander Graham Bell 1876, med pionjärarbete av Antonio Meucci."
+539,Vem utvecklade relativiteten?,"Okej, steg för steg. Fysik: Albert Einstein, 1905 och 1915. Alltså: Relativiteten utvecklades av Albert Einstein. Ja, det passar.",Relativiteten utvecklades av Albert Einstein.
+540,Förklara kort: relativiteten.,"Vänta, låt mig tänka. Fysik: Albert Einstein, 1905 och 1915. Slutsats: Relativiteten utvecklades av Albert Einstein. Okej, bestämt.",Relativiteten utvecklades av Albert Einstein.
+541,Vad vet du om relativiteten?,"Bra fråga, tänker kort. Fysik: Albert Einstein, 1905 och 1915. Alltså: Relativiteten utvecklades av Albert Einstein. Jag är säker.",Relativiteten utvecklades av Albert Einstein.
+542,Vad är demokrati?,"Jag går igenom det i huvudet. Definiera: folkstyre, val, rättigheter. Svaret alltså: Demokrati betyder folkstyre, oftast genom fria val och grundläggande rättigheter. Bra, vidare.","Demokrati betyder folkstyre, oftast genom fria val och grundläggande rättigheter."
+543,Förklara kort: demokrati.,"Okej, steg för steg. Definiera: folkstyre, val, rättigheter. Alltså: Demokrati betyder folkstyre, oftast genom fria val och grundläggande rättigheter. Logiskt.","Demokrati betyder folkstyre, oftast genom fria val och grundläggande rättigheter."
+544,Vad vet du om demokrati?,"Bra, låt oss tänka. Definiera: folkstyre, val, rättigheter. Svaret alltså: Demokrati betyder folkstyre, oftast genom fria val och grundläggande rättigheter. Ja, det passar.","Demokrati betyder folkstyre, oftast genom fria val och grundläggande rättigheter."
+545,Vad är EU?,"Jag sorterar detta. Union av europeiska stater, inre marknad. Alltså: EU är en union av europeiska stater med en inre marknad och gemensamma institutioner. Logiskt.",EU är en union av europeiska stater med en inre marknad och gemensamma institutioner.
+546,Förklara kort: EU.,"Bra, låt oss tänka. Union av europeiska stater, inre marknad. Alltså: EU är en union av europeiska stater med en inre marknad och gemensamma institutioner. Färdigtänkt.",EU är en union av europeiska stater med en inre marknad och gemensamma institutioner.
+547,Vad vet du om EU?,"Först lugnt. Union av europeiska stater, inre marknad. Slutsats: EU är en union av europeiska stater med en inre marknad och gemensamma institutioner. Färdigtänkt.",EU är en union av europeiska stater med en inre marknad och gemensamma institutioner.
+548,Hur många länder är det i EU?,"Hmm, vad vet jag om detta? Fakta: 27 medlemsstater. Slutsats: EU har 27 medlemsstater. Logiskt.",EU har 27 medlemsstater.
+549,Förklara kort: EU-länder.,Först lugnt. Fakta: 27 medlemsstater. Svaret alltså: EU har 27 medlemsstater. Det är vettigt.,EU har 27 medlemsstater.
+550,Vad vet du om EU-länder?,"Vänta, låt mig tänka. Fakta: 27 medlemsstater. Svaret alltså: EU har 27 medlemsstater. Jag är säker.",EU har 27 medlemsstater.
+551,Vad är Tysklands grundlag?,"Först lugnt. Grundlag sedan 1949. Slutsats: Grundlagen är Tysklands grundlag, i kraft sedan 1949. Färdigtänkt.","Grundlagen är Tysklands grundlag, i kraft sedan 1949."
+552,Förklara kort: grundlagen.,"Vänta, låt mig tänka. Grundlag sedan 1949. Svaret alltså: Grundlagen är Tysklands grundlag, i kraft sedan 1949. Det är vettigt.","Grundlagen är Tysklands grundlag, i kraft sedan 1949."
+553,Vad vet du om grundlagen?,"Jag sorterar detta. Grundlag sedan 1949. Alltså: Grundlagen är Tysklands grundlag, i kraft sedan 1949. Ja, det passar.","Grundlagen är Tysklands grundlag, i kraft sedan 1949."
+554,Vilket år återförenades Tyskland?,"Okej, steg för steg. Fakta: 1990. Svaret alltså: Tyskland återförenades 1990. Det är vettigt.",Tyskland återförenades 1990.
+555,Förklara kort: återföreningen.,"Bra fråga, tänker kort. Fakta: 1990. Slutsats: Tyskland återförenades 1990. Det är vettigt.",Tyskland återförenades 1990.
+556,Vad vet du om återföreningen?,"Hmm, vad vet jag om detta? Fakta: 1990. Slutsats: Tyskland återförenades 1990. Jag är säker.",Tyskland återförenades 1990.
+557,Vad var medeltiden?,"Bra fråga, tänker kort. Epok: cirka 500 till 1500. Alltså: Medeltiden var epoken cirka 500 till 1500, mellan antiken och modern tid. Okej, bestämt.","Medeltiden var epoken cirka 500 till 1500, mellan antiken och modern tid."
+558,Förklara kort: medeltiden.,"Hmm, vad vet jag om detta? Epok: cirka 500 till 1500. Alltså: Medeltiden var epoken cirka 500 till 1500, mellan antiken och modern tid. Ja, det passar.","Medeltiden var epoken cirka 500 till 1500, mellan antiken och modern tid."
+559,Vad vet du om medeltiden?,"Bra fråga, tänker kort. Epok: cirka 500 till 1500. Alltså: Medeltiden var epoken cirka 500 till 1500, mellan antiken och modern tid. Ja, det passar.","Medeltiden var epoken cirka 500 till 1500, mellan antiken och modern tid."
+560,Vem var Leonardo da Vinci?,"Jag sorterar detta. Italiensk konstnär och uppfinnare, Mona Lisa. Slutsats: Leonardo da Vinci var en italiensk konstnär och uppfinnare, känd för Mona Lisa. Okej, bestämt.","Leonardo da Vinci var en italiensk konstnär och uppfinnare, känd för Mona Lisa."
+561,Förklara kort: Da Vinci.,"Vänta, låt mig tänka. Italiensk konstnär och uppfinnare, Mona Lisa. Alltså: Leonardo da Vinci var en italiensk konstnär och uppfinnare, känd för Mona Lisa. Logiskt.","Leonardo da Vinci var en italiensk konstnär och uppfinnare, känd för Mona Lisa."
+562,Vad vet du om Da Vinci?,"Hmm, vad vet jag om detta? Italiensk konstnär och uppfinnare, Mona Lisa. Svaret alltså: Leonardo da Vinci var en italiensk konstnär och uppfinnare, känd för Mona Lisa. Färdigtänkt.","Leonardo da Vinci var en italiensk konstnär och uppfinnare, känd för Mona Lisa."
+563,Vem var Marie Curie?,"Bra, låt oss tänka. Fysiker, radioaktivitet, två Nobel. Alltså: Marie Curie var en fysiker som forskade om radioaktivitet och vann två Nobel. Färdigtänkt.",Marie Curie var en fysiker som forskade om radioaktivitet och vann två Nobel.
+564,Förklara kort: Marie Curie.,"Vänta, låt mig tänka. Fysiker, radioaktivitet, två Nobel. Svaret alltså: Marie Curie var en fysiker som forskade om radioaktivitet och vann två Nobel. Färdigtänkt.",Marie Curie var en fysiker som forskade om radioaktivitet och vann två Nobel.
+565,Vad vet du om Marie Curie?,"Vänta, låt mig tänka. Fysiker, radioaktivitet, två Nobel. Slutsats: Marie Curie var en fysiker som forskade om radioaktivitet och vann två Nobel. Okej, bestämt.",Marie Curie var en fysiker som forskade om radioaktivitet och vann två Nobel.
+566,Vad var franska revolutionen?,"Bra, låt oss tänka. Från 1789, frihet jämlikhet broderskap. Svaret alltså: Franska revolutionen från 1789 störtade monarkin under frihet, jämlikhet, broderskap. Det är vettigt.","Franska revolutionen från 1789 störtade monarkin under frihet, jämlikhet, broderskap."
+567,Förklara kort: franska revolutionen.,"Bra, låt oss tänka. Från 1789, frihet jämlikhet broderskap. Slutsats: Franska revolutionen från 1789 störtade monarkin under frihet, jämlikhet, broderskap. Ja, det passar.","Franska revolutionen från 1789 störtade monarkin under frihet, jämlikhet, broderskap."
+568,Vad vet du om franska revolutionen?,"Jag sorterar detta. Från 1789, frihet jämlikhet broderskap. Slutsats: Franska revolutionen från 1789 störtade monarkin under frihet, jämlikhet, broderskap. Ja, det passar.","Franska revolutionen från 1789 störtade monarkin under frihet, jämlikhet, broderskap."
+569,Vad är mänskliga rättigheter?,"Vänta, låt mig tänka. Universella grundrättigheter. Alltså: Mänskliga rättigheter är vars och ens grundrättigheter, som liv, frihet och jämlikhet. Ja, det passar.","Mänskliga rättigheter är vars och ens grundrättigheter, som liv, frihet och jämlikhet."
+570,Förklara kort: mänskliga rättigheter.,"Först lugnt. Universella grundrättigheter. Alltså: Mänskliga rättigheter är vars och ens grundrättigheter, som liv, frihet och jämlikhet. Allt klart i huvudet.","Mänskliga rättigheter är vars och ens grundrättigheter, som liv, frihet och jämlikhet."
+571,Vad vet du om mänskliga rättigheter?,"Jag sorterar detta. Universella grundrättigheter. Slutsats: Mänskliga rättigheter är vars och ens grundrättigheter, som liv, frihet och jämlikhet. Ja, det passar.","Mänskliga rättigheter är vars och ens grundrättigheter, som liv, frihet och jämlikhet."
+572,Vad är inflation?,"Först lugnt. Ekonomi: pengar tappar värde, priser stiger. Alltså: Inflation betyder att priser stiger och pengar tappar värde. Färdigtänkt.",Inflation betyder att priser stiger och pengar tappar värde.
+573,Förklara kort: inflation.,"Jag går igenom det i huvudet. Ekonomi: pengar tappar värde, priser stiger. Svaret alltså: Inflation betyder att priser stiger och pengar tappar värde. Det är vettigt.",Inflation betyder att priser stiger och pengar tappar värde.
+574,Vad vet du om inflation?,"Okej, steg för steg. Ekonomi: pengar tappar värde, priser stiger. Slutsats: Inflation betyder att priser stiger och pengar tappar värde. Allt klart i huvudet.",Inflation betyder att priser stiger och pengar tappar värde.
+575,Vad var industrialiseringen?,"Vänta, låt mig tänka. Maskiner och fabriker från 1700-talet. Slutsats: Industrialiseringen var övergången till maskiner och fabriker från 1700-talet. Jag är säker.",Industrialiseringen var övergången till maskiner och fabriker från 1700-talet.
+576,Förklara kort: industrialiseringen.,"Hmm, vad vet jag om detta? Maskiner och fabriker från 1700-talet. Alltså: Industrialiseringen var övergången till maskiner och fabriker från 1700-talet. Logiskt.",Industrialiseringen var övergången till maskiner och fabriker från 1700-talet.
+577,Vad vet du om industrialiseringen?,"Bra, låt oss tänka. Maskiner och fabriker från 1700-talet. Alltså: Industrialiseringen var övergången till maskiner och fabriker från 1700-talet. Jag är säker.",Industrialiseringen var övergången till maskiner och fabriker från 1700-talet.
+578,När uppfanns internet?,"Jag går igenom det i huvudet. ARPANET 1969, webb 1989. Alltså: Grunderna är ARPANET 1969, webben från 1989. Logiskt.","Grunderna är ARPANET 1969, webben från 1989."
+579,Förklara kort: internet.,"Vänta, låt mig tänka. ARPANET 1969, webb 1989. Svaret alltså: Grunderna är ARPANET 1969, webben från 1989. Ja, det passar.","Grunderna är ARPANET 1969, webben från 1989."
+580,Vad vet du om internet?,"Vänta, låt mig tänka. ARPANET 1969, webb 1989. Slutsats: Grunderna är ARPANET 1969, webben från 1989. Jag är säker.","Grunderna är ARPANET 1969, webben från 1989."
+581,När uppfanns bilen?,"Vänta, låt mig tänka. Benz 1886. Svaret alltså: Bilen uppfanns av Carl Benz med 1886 års bil. Okej, bestämt.",Bilen uppfanns av Carl Benz med 1886 års bil.
+582,Förklara kort: bilen.,Jag sorterar detta. Benz 1886. Slutsats: Bilen uppfanns av Carl Benz med 1886 års bil. Logiskt.,Bilen uppfanns av Carl Benz med 1886 års bil.
+583,Vad vet du om bilen?,Först lugnt. Benz 1886. Svaret alltså: Bilen uppfanns av Carl Benz med 1886 års bil. Jag är säker.,Bilen uppfanns av Carl Benz med 1886 års bil.
+584,Vem uppfann flygplanet?,"Bra fråga, tänker kort. Bröderna Wright, flyg 1903. Alltså: Den första motorflygningen gjordes av bröderna Wright 1903. Logiskt.",Den första motorflygningen gjordes av bröderna Wright 1903.
+585,Förklara kort: flygplanet.,"Vänta, låt mig tänka. Bröderna Wright, flyg 1903. Slutsats: Den första motorflygningen gjordes av bröderna Wright 1903. Jag är säker.",Den första motorflygningen gjordes av bröderna Wright 1903.
+586,Vad vet du om flygplanet?,"Hmm, vad vet jag om detta? Bröderna Wright, flyg 1903. Slutsats: Den första motorflygningen gjordes av bröderna Wright 1903. Jag är säker.",Den första motorflygningen gjordes av bröderna Wright 1903.
+587,Från vilken ålder får man rösta i Tyskland?,"Bra, låt oss tänka. Förbundsdag från 18, EU-val från 16. Svaret alltså: Till förbundsdagen från 18 år. I EU-val i Tyskland från 16. Bra, vidare.",Till förbundsdagen från 18 år. I EU-val i Tyskland från 16.
+588,Förklara kort: rösträttsålder.,"Okej, steg för steg. Förbundsdag från 18, EU-val från 16. Alltså: Till förbundsdagen från 18 år. I EU-val i Tyskland från 16. Bra, vidare.",Till förbundsdagen från 18 år. I EU-val i Tyskland från 16.
+589,Vad vet du om rösträttsålder?,"Jag sorterar detta. Förbundsdag från 18, EU-val från 16. Svaret alltså: Till förbundsdagen från 18 år. I EU-val i Tyskland från 16. Bra, vidare.",Till förbundsdagen från 18 år. I EU-val i Tyskland från 16.
+590,"Hur funkar ett val, enkelt?","Vänta, låt mig tänka. Röstberättigade röstar, räkning, mandat. Alltså: Röstberättigade röstar, röster räknas och mandat fördelas efter resultat. Ja, det passar.","Röstberättigade röstar, röster räknas och mandat fördelas efter resultat."
+591,Förklara kort: val.,"Först lugnt. Röstberättigade röstar, räkning, mandat. Alltså: Röstberättigade röstar, röster räknas och mandat fördelas efter resultat. Allt klart i huvudet.","Röstberättigade röstar, röster räknas och mandat fördelas efter resultat."
+592,Vad vet du om val?,"Bra, låt oss tänka. Röstberättigade röstar, räkning, mandat. Svaret alltså: Röstberättigade röstar, röster räknas och mandat fördelas efter resultat. Bra, vidare.","Röstberättigade röstar, röster räknas och mandat fördelas efter resultat."
+593,Vad är skillnaden mellan diktatur och demokrati?,"Bra, låt oss tänka. Enmansvälde mot folkstyre. Alltså: I en diktatur styr en person eller grupp utan fria val; i en demokrati kommer makten från folket. Allt klart i huvudet.",I en diktatur styr en person eller grupp utan fria val; i en demokrati kommer makten från folket.
+594,Förklara kort: diktatur och demokrati.,Jag går igenom det i huvudet. Enmansvälde mot folkstyre. Alltså: I en diktatur styr en person eller grupp utan fria val; i en demokrati kommer makten från folket. Logiskt.,I en diktatur styr en person eller grupp utan fria val; i en demokrati kommer makten från folket.
+595,Vad vet du om diktatur och demokrati?,"Jag går igenom det i huvudet. Enmansvälde mot folkstyre. Slutsats: I en diktatur styr en person eller grupp utan fria val; i en demokrati kommer makten från folket. Bra, vidare.",I en diktatur styr en person eller grupp utan fria val; i en demokrati kommer makten från folket.
+596,Vad betyder hållbarhet?,"Först lugnt. Resurser åt kommande generationer. Alltså: Hållbarhet betyder att leva så att även kommande generationer har resurser. Okej, bestämt.",Hållbarhet betyder att leva så att även kommande generationer har resurser.
+597,Förklara kort: hållbarhet.,"Vänta, låt mig tänka. Resurser åt kommande generationer. Slutsats: Hållbarhet betyder att leva så att även kommande generationer har resurser. Logiskt.",Hållbarhet betyder att leva så att även kommande generationer har resurser.
+598,Vad vet du om hållbarhet?,"Bra, låt oss tänka. Resurser åt kommande generationer. Svaret alltså: Hållbarhet betyder att leva så att även kommande generationer har resurser. Bra, vidare.",Hållbarhet betyder att leva så att även kommande generationer har resurser.
+599,Vad är mobbning och vad gör man?,"Bra fråga, tänker kort. Upprepat; hjälp, bevis. Alltså: Mobbning är upprepade trakasserier. Prata med förtrodda, spara bevis, sök hjälp. Jag är säker.","Mobbning är upprepade trakasserier. Prata med förtrodda, spara bevis, sök hjälp."
+600,Förklara kort: mobbning.,"Först lugnt. Upprepat; hjälp, bevis. Svaret alltså: Mobbning är upprepade trakasserier. Prata med förtrodda, spara bevis, sök hjälp. Det är vettigt.","Mobbning är upprepade trakasserier. Prata med förtrodda, spara bevis, sök hjälp."
+601,Vad vet du om mobbning?,"Vänta, låt mig tänka. Upprepat; hjälp, bevis. Alltså: Mobbning är upprepade trakasserier. Prata med förtrodda, spara bevis, sök hjälp. Det är vettigt.","Mobbning är upprepade trakasserier. Prata med förtrodda, spara bevis, sök hjälp."
+602,Vad betyder fred?,Först lugnt. Leva utan krig och våld. Alltså: Fred betyder att leva tillsammans utan krig och våld. Det är vettigt.,Fred betyder att leva tillsammans utan krig och våld.
+603,Förklara kort: fred.,"Bra, låt oss tänka. Leva utan krig och våld. Svaret alltså: Fred betyder att leva tillsammans utan krig och våld. Allt klart i huvudet.",Fred betyder att leva tillsammans utan krig och våld.
+604,Vad vet du om fred?,"Jag sorterar detta. Leva utan krig och våld. Alltså: Fred betyder att leva tillsammans utan krig och våld. Okej, bestämt.",Fred betyder att leva tillsammans utan krig och våld.
+605,Vad betyder frihet?,"Bra fråga, tänker kort. Leva fritt utan att skada andra. Alltså: Frihet betyder att leva fritt utan att skada andra. Jag är säker.",Frihet betyder att leva fritt utan att skada andra.
+606,Förklara kort: frihet.,"Vänta, låt mig tänka. Leva fritt utan att skada andra. Alltså: Frihet betyder att leva fritt utan att skada andra. Okej, bestämt.",Frihet betyder att leva fritt utan att skada andra.
+607,Vad vet du om frihet?,"Okej, steg för steg. Leva fritt utan att skada andra. Slutsats: Frihet betyder att leva fritt utan att skada andra. Logiskt.",Frihet betyder att leva fritt utan att skada andra.
+608,Vad betyder rättvisa?,Först lugnt. Rättvis och lik behandling åt alla. Slutsats: Rättvisa betyder rättvis och lik behandling åt var och en. Jag är säker.,Rättvisa betyder rättvis och lik behandling åt var och en.
+609,Förklara kort: rättvisa.,"Okej, steg för steg. Rättvis och lik behandling åt alla. Alltså: Rättvisa betyder rättvis och lik behandling åt var och en. Okej, bestämt.",Rättvisa betyder rättvis och lik behandling åt var och en.
+610,Vad vet du om rättvisa?,"Hmm, vad vet jag om detta? Rättvis och lik behandling åt alla. Alltså: Rättvisa betyder rättvis och lik behandling åt var och en. Bra, vidare.",Rättvisa betyder rättvis och lik behandling åt var och en.
+611,Varför är himlen blå?,"Bra fråga, tänker kort. Rayleigh-spridning sprider blått. Alltså: Himlen är blå på grund av Rayleigh-spridning: blått ljus sprids mer än rött. Jag är säker.",Himlen är blå på grund av Rayleigh-spridning: blått ljus sprids mer än rött.
+612,Förklara blå himmel i en mening.,"Jag går igenom det i huvudet. Rayleigh-spridning sprider blått. Svaret alltså: Himlen är blå på grund av Rayleigh-spridning: blått ljus sprids mer än rött. Bra, vidare.",Himlen är blå på grund av Rayleigh-spridning: blått ljus sprids mer än rött.
+613,Vad är blå himmel? (kort),"Först lugnt. Rayleigh-spridning sprider blått. Slutsats: Himlen är blå på grund av Rayleigh-spridning: blått ljus sprids mer än rött. Bra, vidare.",Himlen är blå på grund av Rayleigh-spridning: blått ljus sprids mer än rött.
+614,Hur bildas regn?,"Jag går igenom det i huvudet. Cykel: avdunstning, kondensation, nederbörd. Alltså: Regn bildas genom avdunstning: vatten stiger, kyls, bildar moln och faller som droppar. Okej, bestämt.","Regn bildas genom avdunstning: vatten stiger, kyls, bildar moln och faller som droppar."
+615,Förklara regn i en mening.,"Först lugnt. Cykel: avdunstning, kondensation, nederbörd. Svaret alltså: Regn bildas genom avdunstning: vatten stiger, kyls, bildar moln och faller som droppar. Okej, bestämt.","Regn bildas genom avdunstning: vatten stiger, kyls, bildar moln och faller som droppar."
+616,Vad är regn? (kort),"Bra fråga, tänker kort. Cykel: avdunstning, kondensation, nederbörd. Alltså: Regn bildas genom avdunstning: vatten stiger, kyls, bildar moln och faller som droppar. Logiskt.","Regn bildas genom avdunstning: vatten stiger, kyls, bildar moln och faller som droppar."
+617,Vad är fotosyntes?,"Bra, låt oss tänka. Växter: ljus, vatten, CO2 till socker och syre. Slutsats: Fotosyntes gör socker och syre av ljus, vatten och CO2. Färdigtänkt.","Fotosyntes gör socker och syre av ljus, vatten och CO2."
+618,Förklara fotosyntes i en mening.,"Först lugnt. Växter: ljus, vatten, CO2 till socker och syre. Svaret alltså: Fotosyntes gör socker och syre av ljus, vatten och CO2. Färdigtänkt.","Fotosyntes gör socker och syre av ljus, vatten och CO2."
+619,Vad är fotosyntes? (kort),"Jag går igenom det i huvudet. Växter: ljus, vatten, CO2 till socker och syre. Svaret alltså: Fotosyntes gör socker och syre av ljus, vatten och CO2. Allt klart i huvudet.","Fotosyntes gör socker och syre av ljus, vatten och CO2."
+620,Vad är skillnaden mellan väder och klimat?,"Hmm, vad vet jag om detta? Väder kort, klimat 30-års medel. Alltså: Väder är korttidstillståndet; klimat medel över cirka 30 år. Logiskt.",Väder är korttidstillståndet; klimat medel över cirka 30 år.
+621,Förklara väder och klimat i en mening.,"Hmm, vad vet jag om detta? Väder kort, klimat 30-års medel. Svaret alltså: Väder är korttidstillståndet; klimat medel över cirka 30 år. Det är vettigt.",Väder är korttidstillståndet; klimat medel över cirka 30 år.
+622,Vad är väder och klimat? (kort),"Jag sorterar detta. Väder kort, klimat 30-års medel. Alltså: Väder är korttidstillståndet; klimat medel över cirka 30 år. Det är vettigt.",Väder är korttidstillståndet; klimat medel över cirka 30 år.
+623,"Hur funkar ett kylskåp, grovt?","Okej, steg för steg. Köldmedium, värme inifrån ut. Svaret alltså: Ett kylskåp pumpar värme inifrån ut med köldmedium: det avdunstar inne, tar värme, avger ute. Bra, vidare.","Ett kylskåp pumpar värme inifrån ut med köldmedium: det avdunstar inne, tar värme, avger ute."
+624,Förklara kylskåp i en mening.,"Okej, steg för steg. Köldmedium, värme inifrån ut. Slutsats: Ett kylskåp pumpar värme inifrån ut med köldmedium: det avdunstar inne, tar värme, avger ute. Jag är säker.","Ett kylskåp pumpar värme inifrån ut med köldmedium: det avdunstar inne, tar värme, avger ute."
+625,Vad är kylskåp? (kort),"Okej, steg för steg. Köldmedium, värme inifrån ut. Alltså: Ett kylskåp pumpar värme inifrån ut med köldmedium: det avdunstar inne, tar värme, avger ute. Bra, vidare.","Ett kylskåp pumpar värme inifrån ut med köldmedium: det avdunstar inne, tar värme, avger ute."
+626,"Vad är el, enkelt?","Okej, steg för steg. Riktad rörelse av elektroner. Alltså: El är enkelt den riktade rörelsen av laddningar, oftast elektroner i en ledning. Logiskt.","El är enkelt den riktade rörelsen av laddningar, oftast elektroner i en ledning."
+627,Förklara el i en mening.,"Först lugnt. Riktad rörelse av elektroner. Alltså: El är enkelt den riktade rörelsen av laddningar, oftast elektroner i en ledning. Logiskt.","El är enkelt den riktade rörelsen av laddningar, oftast elektroner i en ledning."
+628,Vad är el? (kort),"Hmm, vad vet jag om detta? Riktad rörelse av elektroner. Alltså: El är enkelt den riktade rörelsen av laddningar, oftast elektroner i en ledning. Det är vettigt.","El är enkelt den riktade rörelsen av laddningar, oftast elektroner i en ledning."
+629,"Vad är vatten, kemiskt?","Vänta, låt mig tänka. H2O, väte och syre. Slutsats: Vatten är H2O, en förening av väte och syre. Jag är säker.","Vatten är H2O, en förening av väte och syre."
+630,Förklara vatten kemi i en mening.,"Okej, steg för steg. H2O, väte och syre. Alltså: Vatten är H2O, en förening av väte och syre. Logiskt.","Vatten är H2O, en förening av väte och syre."
+631,Vad är vatten kemi? (kort),"Bra fråga, tänker kort. H2O, väte och syre. Alltså: Vatten är H2O, en förening av väte och syre. Okej, bestämt.","Vatten är H2O, en förening av väte och syre."
+632,Vad är ett virus?,"Jag sorterar detta. Pyttelitet, värdcell behövs. Slutsats: Ett virus är en pytteliten smitta som inte förökar sig utan värdcell. Bra, vidare.",Ett virus är en pytteliten smitta som inte förökar sig utan värdcell.
+633,Förklara virus i en mening.,"Vänta, låt mig tänka. Pyttelitet, värdcell behövs. Slutsats: Ett virus är en pytteliten smitta som inte förökar sig utan värdcell. Ja, det passar.",Ett virus är en pytteliten smitta som inte förökar sig utan värdcell.
+634,Vad är virus? (kort),"Först lugnt. Pyttelitet, värdcell behövs. Alltså: Ett virus är en pytteliten smitta som inte förökar sig utan värdcell. Jag är säker.",Ett virus är en pytteliten smitta som inte förökar sig utan värdcell.
+635,"Vad är artificiell intelligens, enkelt?","Hmm, vad vet jag om detta? Program som lär sig mönster. Alltså: Artificiell intelligens är program som lär sig av data, känner igen mönster och löser uppgifter. Jag är säker.","Artificiell intelligens är program som lär sig av data, känner igen mönster och löser uppgifter."
+636,Förklara AI i en mening.,"Okej, steg för steg. Program som lär sig mönster. Alltså: Artificiell intelligens är program som lär sig av data, känner igen mönster och löser uppgifter. Allt klart i huvudet.","Artificiell intelligens är program som lär sig av data, känner igen mönster och löser uppgifter."
+637,Vad är AI? (kort),"Vänta, låt mig tänka. Program som lär sig mönster. Slutsats: Artificiell intelligens är program som lär sig av data, känner igen mönster och löser uppgifter. Det är vettigt.","Artificiell intelligens är program som lär sig av data, känner igen mönster och löser uppgifter."
+638,Vad är en webbläsare?,"Okej, steg för steg. Program för webbplatser, t.ex. Chrome, Firefox. Slutsats: En webbläsare är programmet du öppnar sidor med, t.ex. Chrome, Firefox, Edge eller Safari. Ja, det passar.","En webbläsare är programmet du öppnar sidor med, t.ex. Chrome, Firefox, Edge eller Safari."
+639,Förklara webbläsare i en mening.,"Bra, låt oss tänka. Program för webbplatser, t.ex. Chrome, Firefox. Alltså: En webbläsare är programmet du öppnar sidor med, t.ex. Chrome, Firefox, Edge eller Safari. Jag är säker.","En webbläsare är programmet du öppnar sidor med, t.ex. Chrome, Firefox, Edge eller Safari."
+640,Vad är webbläsare? (kort),"Jag går igenom det i huvudet. Program för webbplatser, t.ex. Chrome, Firefox. Slutsats: En webbläsare är programmet du öppnar sidor med, t.ex. Chrome, Firefox, Edge eller Safari. Ja, det passar.","En webbläsare är programmet du öppnar sidor med, t.ex. Chrome, Firefox, Edge eller Safari."
+641,Vad är en app?,"Bra fråga, tänker kort. Program, oftast för telefoner. Slutsats: En app är ett program, oftast för telefoner, t.ex. meddelanden, bilder eller spel. Färdigtänkt.","En app är ett program, oftast för telefoner, t.ex. meddelanden, bilder eller spel."
+642,Förklara app i en mening.,"Bra, låt oss tänka. Program, oftast för telefoner. Svaret alltså: En app är ett program, oftast för telefoner, t.ex. meddelanden, bilder eller spel. Färdigtänkt.","En app är ett program, oftast för telefoner, t.ex. meddelanden, bilder eller spel."
+643,Vad är app? (kort),"Okej, steg för steg. Program, oftast för telefoner. Slutsats: En app är ett program, oftast för telefoner, t.ex. meddelanden, bilder eller spel. Jag är säker.","En app är ett program, oftast för telefoner, t.ex. meddelanden, bilder eller spel."
+644,Varför ska man dricka vatten?,"Jag går igenom det i huvudet. Cirkulation, fokus, hud, njurar. Alltså: Vatten håller cirkulation och fokus stabila, hjälper njurar och hud, förebygger huvudvärk. Logiskt.","Vatten håller cirkulation och fokus stabila, hjälper njurar och hud, förebygger huvudvärk."
+645,Förklara dricka vatten i en mening.,"Okej, steg för steg. Cirkulation, fokus, hud, njurar. Slutsats: Vatten håller cirkulation och fokus stabila, hjälper njurar och hud, förebygger huvudvärk. Färdigtänkt.","Vatten håller cirkulation och fokus stabila, hjälper njurar och hud, förebygger huvudvärk."
+646,Vad är dricka vatten? (kort),"Vänta, låt mig tänka. Cirkulation, fokus, hud, njurar. Alltså: Vatten håller cirkulation och fokus stabila, hjälper njurar och hud, förebygger huvudvärk. Okej, bestämt.","Vatten håller cirkulation och fokus stabila, hjälper njurar och hud, förebygger huvudvärk."
+647,Hur länge ska man borsta tänderna?,"Okej, steg för steg. 2 minuter, två gånger om dagen. Svaret alltså: Cirka 2 minuter, två gånger om dagen. Logiskt.","Cirka 2 minuter, två gånger om dagen."
+648,Förklara borsta tänderna i en mening.,"Hmm, vad vet jag om detta? 2 minuter, två gånger om dagen. Slutsats: Cirka 2 minuter, två gånger om dagen. Okej, bestämt.","Cirka 2 minuter, två gånger om dagen."
+649,Vad är borsta tänderna? (kort),"Bra, låt oss tänka. 2 minuter, två gånger om dagen. Alltså: Cirka 2 minuter, två gånger om dagen. Färdigtänkt.","Cirka 2 minuter, två gånger om dagen."
+650,Vad är gravitation?,"Vänta, låt mig tänka. Attraktion mellan massor; jorden drar. Slutsats: Gravitation är attraktionen mellan massor. Jorden drar allt nedåt, så saker faller. Färdigtänkt.","Gravitation är attraktionen mellan massor. Jorden drar allt nedåt, så saker faller."
+651,Förklara gravitation i en mening.,"Okej, steg för steg. Attraktion mellan massor; jorden drar. Slutsats: Gravitation är attraktionen mellan massor. Jorden drar allt nedåt, så saker faller. Logiskt.","Gravitation är attraktionen mellan massor. Jorden drar allt nedåt, så saker faller."
+652,Vad är gravitation? (kort),"Jag sorterar detta. Attraktion mellan massor; jorden drar. Svaret alltså: Gravitation är attraktionen mellan massor. Jorden drar allt nedåt, så saker faller. Färdigtänkt.","Gravitation är attraktionen mellan massor. Jorden drar allt nedåt, så saker faller."
+653,Vad är luft?,"Hmm, vad vet jag om detta? Mix av kväve, syre och mer. Svaret alltså: Luft är en gasmix, mest kväve och syre. Allt klart i huvudet.","Luft är en gasmix, mest kväve och syre."
+654,Förklara luft i en mening.,"Jag sorterar detta. Mix av kväve, syre och mer. Svaret alltså: Luft är en gasmix, mest kväve och syre. Bra, vidare.","Luft är en gasmix, mest kväve och syre."
+655,Vad är luft? (kort),"Jag går igenom det i huvudet. Mix av kväve, syre och mer. Alltså: Luft är en gasmix, mest kväve och syre. Allt klart i huvudet.","Luft är en gasmix, mest kväve och syre."
+656,Vad gör hjärtat?,"Okej, steg för steg. Pumpar blod genom kroppen. Slutsats: Hjärtat pumpar blod genom hela kroppen. Okej, bestämt.",Hjärtat pumpar blod genom hela kroppen.
+657,Förklara hjärta i en mening.,Jag går igenom det i huvudet. Pumpar blod genom kroppen. Svaret alltså: Hjärtat pumpar blod genom hela kroppen. Logiskt.,Hjärtat pumpar blod genom hela kroppen.
+658,Vad är hjärta? (kort),"Bra fråga, tänker kort. Pumpar blod genom kroppen. Svaret alltså: Hjärtat pumpar blod genom hela kroppen. Färdigtänkt.",Hjärtat pumpar blod genom hela kroppen.
+659,Vad gör lungorna?,"Vänta, låt mig tänka. Tar upp syre, avger CO2. Alltså: Lungorna tar upp syre och avger koldioxid. Det är vettigt.",Lungorna tar upp syre och avger koldioxid.
+660,Förklara lungor i en mening.,"Jag går igenom det i huvudet. Tar upp syre, avger CO2. Alltså: Lungorna tar upp syre och avger koldioxid. Det är vettigt.",Lungorna tar upp syre och avger koldioxid.
+661,Vad är lungor? (kort),"Först lugnt. Tar upp syre, avger CO2. Slutsats: Lungorna tar upp syre och avger koldioxid. Jag är säker.",Lungorna tar upp syre och avger koldioxid.
+662,Varför är sömn viktig?,"Jag sorterar detta. Återhämtning, minne, immunitet. Slutsats: Sömn hjälper återhämtning, minne och immunförsvar. Jag är säker.","Sömn hjälper återhämtning, minne och immunförsvar."
+663,Förklara sömn i en mening.,"Vänta, låt mig tänka. Återhämtning, minne, immunitet. Alltså: Sömn hjälper återhämtning, minne och immunförsvar. Jag är säker.","Sömn hjälper återhämtning, minne och immunförsvar."
+664,Vad är sömn? (kort),"Vänta, låt mig tänka. Återhämtning, minne, immunitet. Svaret alltså: Sömn hjälper återhämtning, minne och immunförsvar. Det är vettigt.","Sömn hjälper återhämtning, minne och immunförsvar."
+665,Vad är feber?,"Okej, steg för steg. Höjd temperatur som försvar. Svaret alltså: Feber är höjd kroppstemperatur, ofta försvar mot infektioner. Bra, vidare.","Feber är höjd kroppstemperatur, ofta försvar mot infektioner."
+666,Förklara feber i en mening.,"Vänta, låt mig tänka. Höjd temperatur som försvar. Svaret alltså: Feber är höjd kroppstemperatur, ofta försvar mot infektioner. Okej, bestämt.","Feber är höjd kroppstemperatur, ofta försvar mot infektioner."
+667,Vad är feber? (kort),"Först lugnt. Höjd temperatur som försvar. Svaret alltså: Feber är höjd kroppstemperatur, ofta försvar mot infektioner. Ja, det passar.","Feber är höjd kroppstemperatur, ofta försvar mot infektioner."
+668,Vad är ett starkt lösenord?,"Jag sorterar detta. Långt, unikt, i en hanterare. Alltså: Ett starkt lösenord är långt, unikt per tjänst och sparat i en hanterare. Färdigtänkt.","Ett starkt lösenord är långt, unikt per tjänst och sparat i en hanterare."
+669,Förklara starkt lösenord i en mening.,"Jag sorterar detta. Långt, unikt, i en hanterare. Slutsats: Ett starkt lösenord är långt, unikt per tjänst och sparat i en hanterare. Ja, det passar.","Ett starkt lösenord är långt, unikt per tjänst och sparat i en hanterare."
+670,Vad är starkt lösenord? (kort),"Vänta, låt mig tänka. Långt, unikt, i en hanterare. Alltså: Ett starkt lösenord är långt, unikt per tjänst och sparat i en hanterare. Allt klart i huvudet.","Ett starkt lösenord är långt, unikt per tjänst och sparat i en hanterare."
+671,Vad är Wi-Fi?,"Okej, steg för steg. Trådlöst lokalt nät. Slutsats: Wi-Fi är ett trådlöst lokalt nät för internet utan kablar. Det är vettigt.",Wi-Fi är ett trådlöst lokalt nät för internet utan kablar.
+672,Förklara Wi-Fi i en mening.,"Vänta, låt mig tänka. Trådlöst lokalt nät. Alltså: Wi-Fi är ett trådlöst lokalt nät för internet utan kablar. Bra, vidare.",Wi-Fi är ett trådlöst lokalt nät för internet utan kablar.
+673,Vad är Wi-Fi? (kort),"Okej, steg för steg. Trådlöst lokalt nät. Alltså: Wi-Fi är ett trådlöst lokalt nät för internet utan kablar. Allt klart i huvudet.",Wi-Fi är ett trådlöst lokalt nät för internet utan kablar.
+674,Vad är molnet?,"Vänta, låt mig tänka. Servrar på internet för lagring och tjänster. Slutsats: Molnet är servrar på internet där du lagrar data och använder tjänster. Färdigtänkt.",Molnet är servrar på internet där du lagrar data och använder tjänster.
+675,Förklara molnet i en mening.,"Jag går igenom det i huvudet. Servrar på internet för lagring och tjänster. Svaret alltså: Molnet är servrar på internet där du lagrar data och använder tjänster. Bra, vidare.",Molnet är servrar på internet där du lagrar data och använder tjänster.
+676,Vad är molnet? (kort),"Bra fråga, tänker kort. Servrar på internet för lagring och tjänster. Alltså: Molnet är servrar på internet där du lagrar data och använder tjänster. Okej, bestämt.",Molnet är servrar på internet där du lagrar data och använder tjänster.
+677,Hur funkar GPS?,"Först lugnt. Satelliter, signaltid, beräkning. Svaret alltså: GPS hittar positionen via satellitsignaler och deras restid. Bra, vidare.",GPS hittar positionen via satellitsignaler och deras restid.
+678,Förklara GPS i en mening.,"Bra, låt oss tänka. Satelliter, signaltid, beräkning. Slutsats: GPS hittar positionen via satellitsignaler och deras restid. Färdigtänkt.",GPS hittar positionen via satellitsignaler och deras restid.
+679,Vad är GPS? (kort),"Vänta, låt mig tänka. Satelliter, signaltid, beräkning. Svaret alltså: GPS hittar positionen via satellitsignaler och deras restid. Bra, vidare.",GPS hittar positionen via satellitsignaler och deras restid.
+680,Varför finns dag och natt?,"Okej, steg för steg. Jordens rotation. Alltså: Dag och natt finns för att jorden snurrar. Solsidan har dag, den andra natt. Bra, vidare.","Dag och natt finns för att jorden snurrar. Solsidan har dag, den andra natt."
+681,Förklara dag och natt i en mening.,"Jag går igenom det i huvudet. Jordens rotation. Slutsats: Dag och natt finns för att jorden snurrar. Solsidan har dag, den andra natt. Färdigtänkt.","Dag och natt finns för att jorden snurrar. Solsidan har dag, den andra natt."
+682,Vad är dag och natt? (kort),"Bra fråga, tänker kort. Jordens rotation. Slutsats: Dag och natt finns för att jorden snurrar. Solsidan har dag, den andra natt. Bra, vidare.","Dag och natt finns för att jorden snurrar. Solsidan har dag, den andra natt."
+683,Varför finns årstider?,"Bra, låt oss tänka. Jordaxelns lutning. Alltså: Årstider kommer av axelns lutning: varje halvklot lutar mot solen i tur. Färdigtänkt.",Årstider kommer av axelns lutning: varje halvklot lutar mot solen i tur.
+684,Förklara årstider i en mening.,Först lugnt. Jordaxelns lutning. Svaret alltså: Årstider kommer av axelns lutning: varje halvklot lutar mot solen i tur. Logiskt.,Årstider kommer av axelns lutning: varje halvklot lutar mot solen i tur.
+685,Vad är årstider? (kort),"Jag går igenom det i huvudet. Jordaxelns lutning. Alltså: Årstider kommer av axelns lutning: varje halvklot lutar mot solen i tur. Bra, vidare.",Årstider kommer av axelns lutning: varje halvklot lutar mot solen i tur.
+686,Varför lyser månen?,"Okej, steg för steg. Reflekterar solen. Svaret alltså: Månen lyser för att den reflekterar solljus. Jag är säker.",Månen lyser för att den reflekterar solljus.
+687,Förklara månsken i en mening.,"Bra, låt oss tänka. Reflekterar solen. Svaret alltså: Månen lyser för att den reflekterar solljus. Bra, vidare.",Månen lyser för att den reflekterar solljus.
+688,Vad är månsken? (kort),"Jag går igenom det i huvudet. Reflekterar solen. Alltså: Månen lyser för att den reflekterar solljus. Okej, bestämt.",Månen lyser för att den reflekterar solljus.
+689,Vad är solen?,"Hmm, vad vet jag om detta? En stjärna av het gas. Slutsats: Solen är en stjärna av het gas som ger ljus och värme. Färdigtänkt.",Solen är en stjärna av het gas som ger ljus och värme.
+690,Förklara solen i en mening.,"Bra, låt oss tänka. En stjärna av het gas. Alltså: Solen är en stjärna av het gas som ger ljus och värme. Logiskt.",Solen är en stjärna av het gas som ger ljus och värme.
+691,Vad är solen? (kort),"Okej, steg för steg. En stjärna av het gas. Svaret alltså: Solen är en stjärna av het gas som ger ljus och värme. Jag är säker.",Solen är en stjärna av het gas som ger ljus och värme.
+692,Hur många planeter har vårt solsystem?,"Hmm, vad vet jag om detta? 8 planeter. Alltså: Vårt solsystem har 8 planeter: Merkurius, Venus, Jorden, Mars, Jupiter, Saturnus, Uranus, Neptunus. Ja, det passar.","Vårt solsystem har 8 planeter: Merkurius, Venus, Jorden, Mars, Jupiter, Saturnus, Uranus, Neptunus."
+693,Förklara planeter i en mening.,"Bra, låt oss tänka. 8 planeter. Slutsats: Vårt solsystem har 8 planeter: Merkurius, Venus, Jorden, Mars, Jupiter, Saturnus, Uranus, Neptunus. Ja, det passar.","Vårt solsystem har 8 planeter: Merkurius, Venus, Jorden, Mars, Jupiter, Saturnus, Uranus, Neptunus."
+694,Vad är planeter? (kort),"Hmm, vad vet jag om detta? 8 planeter. Slutsats: Vårt solsystem har 8 planeter: Merkurius, Venus, Jorden, Mars, Jupiter, Saturnus, Uranus, Neptunus. Allt klart i huvudet.","Vårt solsystem har 8 planeter: Merkurius, Venus, Jorden, Mars, Jupiter, Saturnus, Uranus, Neptunus."
+695,Vad är en atom?,"Hmm, vad vet jag om detta? Minsta enheten: kärna plus elektroner. Slutsats: En atom är materiens minsta enhet, gjord av kärna och elektroner. Jag är säker.","En atom är materiens minsta enhet, gjord av kärna och elektroner."
+696,Förklara atom i en mening.,"Bra fråga, tänker kort. Minsta enheten: kärna plus elektroner. Svaret alltså: En atom är materiens minsta enhet, gjord av kärna och elektroner. Okej, bestämt.","En atom är materiens minsta enhet, gjord av kärna och elektroner."
+697,Vad är atom? (kort),"Jag går igenom det i huvudet. Minsta enheten: kärna plus elektroner. Alltså: En atom är materiens minsta enhet, gjord av kärna och elektroner. Jag är säker.","En atom är materiens minsta enhet, gjord av kärna och elektroner."
+698,Vad är återvinning?,"Okej, steg för steg. Samla avfall, gör nya produkter. Svaret alltså: Återvinning samlar avfall för att göra nya produkter. Det är vettigt.",Återvinning samlar avfall för att göra nya produkter.
+699,Förklara återvinning i en mening.,"Först lugnt. Samla avfall, gör nya produkter. Alltså: Återvinning samlar avfall för att göra nya produkter. Bra, vidare.",Återvinning samlar avfall för att göra nya produkter.
+700,Vad är återvinning? (kort),"Jag sorterar detta. Samla avfall, gör nya produkter. Svaret alltså: Återvinning samlar avfall för att göra nya produkter. Logiskt.",Återvinning samlar avfall för att göra nya produkter.
+701,Vad är växthuseffekten?,"Vänta, låt mig tänka. Gaser håller värme. Alltså: Växthuseffekten håller värme. För mycket växthusgaser värmer klimatet. Logiskt.",Växthuseffekten håller värme. För mycket växthusgaser värmer klimatet.
+702,Förklara växthuseffekten i en mening.,"Vänta, låt mig tänka. Gaser håller värme. Alltså: Växthuseffekten håller värme. För mycket växthusgaser värmer klimatet. Jag är säker.",Växthuseffekten håller värme. För mycket växthusgaser värmer klimatet.
+703,Vad är växthuseffekten? (kort),"Jag går igenom det i huvudet. Gaser håller värme. Slutsats: Växthuseffekten håller värme. För mycket växthusgaser värmer klimatet. Ja, det passar.",Växthuseffekten håller värme. För mycket växthusgaser värmer klimatet.
+704,Varför är bin viktiga?,"Bra, låt oss tänka. Pollinering, skördar. Slutsats: Bin pollinerar växter och säkrar skördar och mångfald. Logiskt.",Bin pollinerar växter och säkrar skördar och mångfald.
+705,Förklara bin i en mening.,"Bra fråga, tänker kort. Pollinering, skördar. Svaret alltså: Bin pollinerar växter och säkrar skördar och mångfald. Bra, vidare.",Bin pollinerar växter och säkrar skördar och mångfald.
+706,Vad är bin? (kort),"Bra, låt oss tänka. Pollinering, skördar. Svaret alltså: Bin pollinerar växter och säkrar skördar och mångfald. Okej, bestämt.",Bin pollinerar växter och säkrar skördar och mångfald.
+707,Varför är blad gröna?,"Bra fråga, tänker kort. Pigment klorofyll. Alltså: Blad är gröna på grund av klorofyll, pigmentet för fotosyntes. Ja, det passar.","Blad är gröna på grund av klorofyll, pigmentet för fotosyntes."
+708,Förklara gröna blad i en mening.,"Jag går igenom det i huvudet. Pigment klorofyll. Slutsats: Blad är gröna på grund av klorofyll, pigmentet för fotosyntes. Allt klart i huvudet.","Blad är gröna på grund av klorofyll, pigmentet för fotosyntes."
+709,Vad är gröna blad? (kort),"Jag sorterar detta. Pigment klorofyll. Svaret alltså: Blad är gröna på grund av klorofyll, pigmentet för fotosyntes. Det är vettigt.","Blad är gröna på grund av klorofyll, pigmentet för fotosyntes."
+710,Vad är ett däggdjur?,"Först lugnt. Päls, levande födsel, mjölk. Slutsats: Däggdjur har päls, föder levande ungar och diar med mjölk. Jag är säker.","Däggdjur har päls, föder levande ungar och diar med mjölk."
+711,Förklara däggdjur i en mening.,"Vänta, låt mig tänka. Päls, levande födsel, mjölk. Slutsats: Däggdjur har päls, föder levande ungar och diar med mjölk. Logiskt.","Däggdjur har päls, föder levande ungar och diar med mjölk."
+712,Vad är däggdjur? (kort),"Okej, steg för steg. Päls, levande födsel, mjölk. Svaret alltså: Däggdjur har päls, föder levande ungar och diar med mjölk. Jag är säker.","Däggdjur har päls, föder levande ungar och diar med mjölk."
+713,Hur funkar ett batteri?,"Vänta, låt mig tänka. Kemisk energi till elektrisk. Alltså: Ett batteri omvandlar kemisk energi till elektrisk energi. Okej, bestämt.",Ett batteri omvandlar kemisk energi till elektrisk energi.
+714,Förklara batterier i en mening.,"Jag går igenom det i huvudet. Kemisk energi till elektrisk. Slutsats: Ett batteri omvandlar kemisk energi till elektrisk energi. Okej, bestämt.",Ett batteri omvandlar kemisk energi till elektrisk energi.
+715,Vad är batterier? (kort),"Jag går igenom det i huvudet. Kemisk energi till elektrisk. Svaret alltså: Ett batteri omvandlar kemisk energi till elektrisk energi. Okej, bestämt.",Ett batteri omvandlar kemisk energi till elektrisk energi.
+716,Hur funkar solkraft?,"Okej, steg för steg. Celler: ljus till ström. Svaret alltså: Solceller omvandlar ljus direkt till ström. Logiskt.",Solceller omvandlar ljus direkt till ström.
+717,Förklara solkraft i en mening.,Jag går igenom det i huvudet. Celler: ljus till ström. Svaret alltså: Solceller omvandlar ljus direkt till ström. Jag är säker.,Solceller omvandlar ljus direkt till ström.
+718,Vad är solkraft? (kort),"Jag sorterar detta. Celler: ljus till ström. Svaret alltså: Solceller omvandlar ljus direkt till ström. Okej, bestämt.",Solceller omvandlar ljus direkt till ström.
+719,Vad är ett datavirus?,"Bra fråga, tänker kort. Skadligt program som sprids. Alltså: Ett virus är ett skadligt program som sprids och skadar. Skydda med uppdateringar och försiktighet. Bra, vidare.",Ett virus är ett skadligt program som sprids och skadar. Skydda med uppdateringar och försiktighet.
+720,Förklara datavirus i en mening.,"Först lugnt. Skadligt program som sprids. Slutsats: Ett virus är ett skadligt program som sprids och skadar. Skydda med uppdateringar och försiktighet. Bra, vidare.",Ett virus är ett skadligt program som sprids och skadar. Skydda med uppdateringar och försiktighet.
+721,Vad är datavirus? (kort),"Vänta, låt mig tänka. Skadligt program som sprids. Slutsats: Ett virus är ett skadligt program som sprids och skadar. Skydda med uppdateringar och försiktighet. Logiskt.",Ett virus är ett skadligt program som sprids och skadar. Skydda med uppdateringar och försiktighet.
+722,Varför är plast ett problem?,"Jag går igenom det i huvudet. Bestående skräp, mikroplast. Alltså: Plast ruttnar amper, skräpar natur och hav, blir mikroplast. Färdigtänkt.","Plast ruttnar amper, skräpar natur och hav, blir mikroplast."
+723,Förklara plast i en mening.,"Bra fråga, tänker kort. Bestående skräp, mikroplast. Slutsats: Plast ruttnar amper, skräpar natur och hav, blir mikroplast. Logiskt.","Plast ruttnar amper, skräpar natur och hav, blir mikroplast."
+724,Vad är plast? (kort),"Hmm, vad vet jag om detta? Bestående skräp, mikroplast. Slutsats: Plast ruttnar amper, skräpar natur och hav, blir mikroplast. Allt klart i huvudet.","Plast ruttnar amper, skräpar natur och hav, blir mikroplast."
+725,Vad är en jordbävning?,"Okej, steg för steg. Plattor rör sig, energi frigörs. Slutsats: En jordbävning sker när plattor plötsligt rör sig och frigör energi. Jag är säker.",En jordbävning sker när plattor plötsligt rör sig och frigör energi.
+726,Förklara jordbävning i en mening.,"Jag sorterar detta. Plattor rör sig, energi frigörs. Svaret alltså: En jordbävning sker när plattor plötsligt rör sig och frigör energi. Det är vettigt.",En jordbävning sker när plattor plötsligt rör sig och frigör energi.
+727,Vad är jordbävning? (kort),"Först lugnt. Plattor rör sig, energi frigörs. Alltså: En jordbävning sker när plattor plötsligt rör sig och frigör energi. Okej, bestämt.",En jordbävning sker när plattor plötsligt rör sig och frigör energi.
+728,Vad är honung?,"Hmm, vad vet jag om detta? Bin av nektar. Alltså: Honung görs av bin från blomnektar. Jag är säker.",Honung görs av bin från blomnektar.
+729,Förklara honung i en mening.,"Bra, låt oss tänka. Bin av nektar. Svaret alltså: Honung görs av bin från blomnektar. Det är vettigt.",Honung görs av bin från blomnektar.
+730,Vad är honung? (kort),"Bra, låt oss tänka. Bin av nektar. Slutsats: Honung görs av bin från blomnektar. Bra, vidare.",Honung görs av bin från blomnektar.
+731,Hur mycket är 25 gånger 4?,Jag går igenom det i huvudet. Räkna: 25*4=100. Koll: 25 gånger 4 är 100. Stämmer. Det är vettigt.,25 gånger 4 är 100.
+732,Hur mycket är 12 procent av 200?,"Hmm, vad vet jag om detta? Procent: 200*0,12=24. Räkna om: 12 procent av 200 är 24. Passar. Logiskt.",12 procent av 200 är 24.
+733,Hur mycket är 7 gånger 8 plus 10?,"Okej, steg för steg. Ordning: 7*8=56 +10=66. Kontroll: Det är 66. Rätt. Det är vettigt.",Det är 66.
+734,Ett tåg avgår 14:30 och kör 2h15. När kommer det fram?,"Bra, låt oss tänka. Addera: 14:30 + 2:15 = 16:45. Räkna om: Det kommer fram 16:45. Passar. Allt klart i huvudet.",Det kommer fram 16:45.
+735,Jag har 3 äpplen och äter 1. Hur många är kvar?,"Bra, låt oss tänka. Subtrahera: 3-1=2. Räkna om: 2 äpplen är kvar. Passar. Logiskt.",2 äpplen är kvar.
+736,Jag lägger mig 22 och stiger upp 6. Hur länge sover jag?,Jag sorterar detta. Tid: 22-6 = 8 timmar. Kontroll: Du sover 8 timmar. Rätt. Logiskt.,Du sover 8 timmar.
+737,Dela 100 euro rättvist på 4 personer.,"Jag går igenom det i huvudet. Dividera: 100/4=25. Räkna om: Varje person får 25 euro. Passar. Bra, vidare.",Varje person får 25 euro.
+738,Hur många minuter är 2 timmar?,Först lugnt. Räkna om: 2*60=120. Koll: 2 timmar är 120 minuter. Stämmer. Färdigtänkt.,2 timmar är 120 minuter.
+739,Hur många dagar har ett år?,"Okej, steg för steg. Fakta: 365, skottår 366. Svaret alltså: Ett år har 365 dagar, ett skottår 366. Okej, bestämt.","Ett år har 365 dagar, ett skottår 366."
+740,Hur många sekunder har en minut?,"Okej, steg för steg. Fakta: 60. Svaret alltså: En minut har 60 sekunder. Färdigtänkt.",En minut har 60 sekunder.
+741,Hur mycket är 50 plus 41?,"Bra fråga, tänker kort. Addera: 50+41=91. Koll: 50 plus 41 är 91. Stämmer. Logiskt.",50 plus 41 är 91.
+742,Hur mycket är 18 minus 11?,"Vänta, låt mig tänka. Subtrahera: 18-11=7. Räkna om: 18 minus 11 är 7. Passar. Bra, vidare.",18 minus 11 är 7.
+743,Hur mycket är 10 gånger 4?,"Bra, låt oss tänka. Multiplicera: 10*4=40. Koll: 10 gånger 4 är 40. Stämmer. Bra, vidare.",10 gånger 4 är 40.
+744,Hur mycket är 26 delat med 2?,"Okej, steg för steg. Dividera: 26/2=13. Koll: 26 delat med 2 är 13. Stämmer. Färdigtänkt.",26 delat med 2 är 13.
+745,Hur mycket är 25 procent av 200?,"Hmm, vad vet jag om detta? Procent: 200*25/100=50. Kontroll: 25 procent av 200 är 50. Rätt. Bra, vidare.",25 procent av 200 är 50.
+746,Hur mycket är 37 plus 33?,"Okej, steg för steg. Addera: 37+33=70. Koll: 37 plus 33 är 70. Stämmer. Logiskt.",37 plus 33 är 70.
+747,Hur mycket är 47 minus 33?,"Bra, låt oss tänka. Subtrahera: 47-33=14. Koll: 47 minus 33 är 14. Stämmer. Färdigtänkt.",47 minus 33 är 14.
+748,Hur mycket är 4 gånger 9?,"Bra, låt oss tänka. Multiplicera: 4*9=36. Räkna om: 4 gånger 9 är 36. Passar. Logiskt.",4 gånger 9 är 36.
+749,Hur mycket är 77 delat med 7?,Jag sorterar detta. Dividera: 77/7=11. Kontroll: 77 delat med 7 är 11. Rätt. Färdigtänkt.,77 delat med 7 är 11.
+750,Hur mycket är 5 procent av 200?,"Jag går igenom det i huvudet. Procent: 200*5/100=10. Koll: 5 procent av 200 är 10. Stämmer. Okej, bestämt.",5 procent av 200 är 10.
+751,Hur mycket är 52 plus 11?,Först lugnt. Addera: 52+11=63. Koll: 52 plus 11 är 63. Stämmer. Färdigtänkt.,52 plus 11 är 63.
+752,Hur mycket är 32 minus 8?,"Bra fråga, tänker kort. Subtrahera: 32-8=24. Kontroll: 32 minus 8 är 24. Rätt. Jag är säker.",32 minus 8 är 24.
+753,Hur mycket är 10 gånger 11?,Först lugnt. Multiplicera: 10*11=110. Koll: 10 gånger 11 är 110. Stämmer. Jag är säker.,10 gånger 11 är 110.
+754,Hur mycket är 35 delat med 7?,Jag sorterar detta. Dividera: 35/7=5. Räkna om: 35 delat med 7 är 5. Passar. Logiskt.,35 delat med 7 är 5.
+755,Hur mycket är 10 procent av 200?,Jag sorterar detta. Procent: 200*10/100=20. Kontroll: 10 procent av 200 är 20. Rätt. Logiskt.,10 procent av 200 är 20.
+756,Hur mycket är 39 plus 12?,"Vänta, låt mig tänka. Addera: 39+12=51. Räkna om: 39 plus 12 är 51. Passar. Allt klart i huvudet.",39 plus 12 är 51.
+757,Hur mycket är 52 minus 46?,"Okej, steg för steg. Subtrahera: 52-46=6. Räkna om: 52 minus 46 är 6. Passar. Färdigtänkt.",52 minus 46 är 6.
+758,Hur mycket är 7 gånger 7?,Jag sorterar detta. Multiplicera: 7*7=49. Koll: 7 gånger 7 är 49. Stämmer. Det är vettigt.,7 gånger 7 är 49.
+759,Hur mycket är 33 delat med 3?,"Bra, låt oss tänka. Dividera: 33/3=11. Räkna om: 33 delat med 3 är 11. Passar. Jag är säker.",33 delat med 3 är 11.
+760,Hur mycket är 25 procent av 1000?,"Bra fråga, tänker kort. Procent: 1000*25/100=250. Kontroll: 25 procent av 1000 är 250. Rätt. Färdigtänkt.",25 procent av 1000 är 250.
+761,Hur mycket är 18 plus 9?,Först lugnt. Addera: 18+9=27. Koll: 18 plus 9 är 27. Stämmer. Färdigtänkt.,18 plus 9 är 27.
+762,Hur mycket är 36 minus 24?,Först lugnt. Subtrahera: 36-24=12. Koll: 36 minus 24 är 12. Stämmer. Det är vettigt.,36 minus 24 är 12.
+763,Hur mycket är 2 gånger 4?,"Bra fråga, tänker kort. Multiplicera: 2*4=8. Räkna om: 2 gånger 4 är 8. Passar. Okej, bestämt.",2 gånger 4 är 8.
+764,Hur mycket är 100 delat med 10?,Först lugnt. Dividera: 100/10=10. Räkna om: 100 delat med 10 är 10. Passar. Allt klart i huvudet.,100 delat med 10 är 10.
+765,Hur mycket är 50 procent av 300?,"Först lugnt. Procent: 300*50/100=150. Räkna om: 50 procent av 300 är 150. Passar. Okej, bestämt.",50 procent av 300 är 150.
+766,Hur mycket är 20 plus 18?,"Okej, steg för steg. Addera: 20+18=38. Koll: 20 plus 18 är 38. Stämmer. Allt klart i huvudet.",20 plus 18 är 38.
+767,Hur mycket är 76 minus 18?,Först lugnt. Subtrahera: 76-18=58. Koll: 76 minus 18 är 58. Stämmer. Jag är säker.,76 minus 18 är 58.
+768,Hur mycket är 6 gånger 9?,"Vänta, låt mig tänka. Multiplicera: 6*9=54. Kontroll: 6 gånger 9 är 54. Rätt. Bra, vidare.",6 gånger 9 är 54.
+769,Hur mycket är 30 delat med 3?,"Vänta, låt mig tänka. Dividera: 30/3=10. Räkna om: 30 delat med 3 är 10. Passar. Allt klart i huvudet.",30 delat med 3 är 10.
+770,Hur mycket är 5 procent av 300?,"Jag sorterar detta. Procent: 300*5/100=15. Räkna om: 5 procent av 300 är 15. Passar. Okej, bestämt.",5 procent av 300 är 15.
+771,Hur mycket är 52 plus 19?,"Okej, steg för steg. Addera: 52+19=71. Kontroll: 52 plus 19 är 71. Rätt. Ja, det passar.",52 plus 19 är 71.
+772,Hur mycket är 70 minus 21?,"Okej, steg för steg. Subtrahera: 70-21=49. Koll: 70 minus 21 är 49. Stämmer. Jag är säker.",70 minus 21 är 49.
+773,Hur mycket är 8 gånger 4?,"Bra, låt oss tänka. Multiplicera: 8*4=32. Koll: 8 gånger 4 är 32. Stämmer. Jag är säker.",8 gånger 4 är 32.
+774,Hur mycket är 60 delat med 10?,Först lugnt. Dividera: 60/10=6. Räkna om: 60 delat med 10 är 6. Passar. Jag är säker.,60 delat med 10 är 6.
+775,Hur mycket är 25 procent av 100?,"Vänta, låt mig tänka. Procent: 100*25/100=25. Koll: 25 procent av 100 är 25. Stämmer. Det är vettigt.",25 procent av 100 är 25.
+776,Hur mycket är 36 plus 53?,Först lugnt. Addera: 36+53=89. Koll: 36 plus 53 är 89. Stämmer. Färdigtänkt.,36 plus 53 är 89.
+777,Hur mycket är 98 minus 22?,"Vänta, låt mig tänka. Subtrahera: 98-22=76. Räkna om: 98 minus 22 är 76. Passar. Okej, bestämt.",98 minus 22 är 76.
+778,Hur mycket är 10 gånger 12?,"Bra fråga, tänker kort. Multiplicera: 10*12=120. Koll: 10 gånger 12 är 120. Stämmer. Färdigtänkt.",10 gånger 12 är 120.
+779,Hur mycket är 110 delat med 11?,"Först lugnt. Dividera: 110/11=10. Kontroll: 110 delat med 11 är 10. Rätt. Okej, bestämt.",110 delat med 11 är 10.
+780,Hur mycket är 15 procent av 100?,"Okej, steg för steg. Procent: 100*15/100=15. Koll: 15 procent av 100 är 15. Stämmer. Okej, bestämt.",15 procent av 100 är 15.
+781,Hur mycket är 29 plus 51?,"Jag går igenom det i huvudet. Addera: 29+51=80. Räkna om: 29 plus 51 är 80. Passar. Okej, bestämt.",29 plus 51 är 80.
+782,Hur mycket är 51 minus 43?,"Okej, steg för steg. Subtrahera: 51-43=8. Räkna om: 51 minus 43 är 8. Passar. Allt klart i huvudet.",51 minus 43 är 8.
+783,Hur mycket är 10 gånger 5?,"Jag sorterar detta. Multiplicera: 10*5=50. Kontroll: 10 gånger 5 är 50. Rätt. Ja, det passar.",10 gånger 5 är 50.
+784,Hur mycket är 144 delat med 9?,"Bra, låt oss tänka. Dividera: 144/9=16. Koll: 144 delat med 9 är 16. Stämmer. Logiskt.",144 delat med 9 är 16.
+785,Hur mycket är 24 plus 48?,"Vänta, låt mig tänka. Addera: 24+48=72. Koll: 24 plus 48 är 72. Stämmer. Bra, vidare.",24 plus 48 är 72.
+786,Hur mycket är 32 minus 22?,"Vänta, låt mig tänka. Subtrahera: 32-22=10. Räkna om: 32 minus 22 är 10. Passar. Allt klart i huvudet.",32 minus 22 är 10.
+787,Hur mycket är 10 gånger 6?,"Bra, låt oss tänka. Multiplicera: 10*6=60. Kontroll: 10 gånger 6 är 60. Rätt. Det är vettigt.",10 gånger 6 är 60.
+788,Hur mycket är 143 delat med 11?,"Hmm, vad vet jag om detta? Dividera: 143/11=13. Räkna om: 143 delat med 11 är 13. Passar. Färdigtänkt.",143 delat med 11 är 13.
+789,Hur mycket är 10 procent av 100?,"Hmm, vad vet jag om detta? Procent: 100*10/100=10. Kontroll: 10 procent av 100 är 10. Rätt. Jag är säker.",10 procent av 100 är 10.
+790,Hur mycket är 37 plus 9?,"Hmm, vad vet jag om detta? Addera: 37+9=46. Räkna om: 37 plus 9 är 46. Passar. Allt klart i huvudet.",37 plus 9 är 46.
+791,Hur mycket är 78 minus 11?,"Vänta, låt mig tänka. Subtrahera: 78-11=67. Koll: 78 minus 11 är 67. Stämmer. Jag är säker.",78 minus 11 är 67.
+792,Hur mycket är 6 gånger 2?,"Jag sorterar detta. Multiplicera: 6*2=12. Räkna om: 6 gånger 2 är 12. Passar. Bra, vidare.",6 gånger 2 är 12.
+793,Hur mycket är 60 delat med 3?,"Bra, låt oss tänka. Dividera: 60/3=20. Kontroll: 60 delat med 3 är 20. Rätt. Logiskt.",60 delat med 3 är 20.
+794,Hur mycket är 25 plus 21?,"Okej, steg för steg. Addera: 25+21=46. Koll: 25 plus 21 är 46. Stämmer. Allt klart i huvudet.",25 plus 21 är 46.
+795,Hur mycket är 50 minus 11?,"Hmm, vad vet jag om detta? Subtrahera: 50-11=39. Koll: 50 minus 11 är 39. Stämmer. Jag är säker.",50 minus 11 är 39.
+796,Hur mycket är 2 gånger 12?,"Jag sorterar detta. Multiplicera: 2*12=24. Koll: 2 gånger 12 är 24. Stämmer. Bra, vidare.",2 gånger 12 är 24.
+797,Hur mycket är 48 delat med 12?,"Hmm, vad vet jag om detta? Dividera: 48/12=4. Koll: 48 delat med 12 är 4. Stämmer. Färdigtänkt.",48 delat med 12 är 4.
+798,Hur mycket är 28 plus 38?,"Vänta, låt mig tänka. Addera: 28+38=66. Räkna om: 28 plus 38 är 66. Passar. Allt klart i huvudet.",28 plus 38 är 66.
+799,Hur mycket är 23 minus 18?,"Bra, låt oss tänka. Subtrahera: 23-18=5. Koll: 23 minus 18 är 5. Stämmer. Okej, bestämt.",23 minus 18 är 5.
+800,Hur mycket är 10 gånger 3?,"Vänta, låt mig tänka. Multiplicera: 10*3=30. Koll: 10 gånger 3 är 30. Stämmer. Allt klart i huvudet.",10 gånger 3 är 30.
+801,Hur mycket är 144 delat med 8?,"Bra fråga, tänker kort. Dividera: 144/8=18. Kontroll: 144 delat med 8 är 18. Rätt. Logiskt.",144 delat med 8 är 18.
+802,Hur mycket är 50 procent av 200?,Jag går igenom det i huvudet. Procent: 200*50/100=100. Kontroll: 50 procent av 200 är 100. Rätt. Logiskt.,50 procent av 200 är 100.
+803,Hur mycket är 7 plus 35?,"Bra fråga, tänker kort. Addera: 7+35=42. Kontroll: 7 plus 35 är 42. Rätt. Bra, vidare.",7 plus 35 är 42.
+804,Hur mycket är 93 minus 47?,"Hmm, vad vet jag om detta? Subtrahera: 93-47=46. Koll: 93 minus 47 är 46. Stämmer. Jag är säker.",93 minus 47 är 46.
+805,Hur mycket är 11 gånger 9?,"Jag går igenom det i huvudet. Multiplicera: 11*9=99. Räkna om: 11 gånger 9 är 99. Passar. Bra, vidare.",11 gånger 9 är 99.
+806,Hur mycket är 25 delat med 5?,Jag sorterar detta. Dividera: 25/5=5. Kontroll: 25 delat med 5 är 5. Rätt. Det är vettigt.,25 delat med 5 är 5.
+807,Hur mycket är 20 procent av 200?,"Bra, låt oss tänka. Procent: 200*20/100=40. Koll: 20 procent av 200 är 40. Stämmer. Bra, vidare.",20 procent av 200 är 40.
+808,Hur mycket är 33 plus 14?,"Hmm, vad vet jag om detta? Addera: 33+14=47. Räkna om: 33 plus 14 är 47. Passar. Färdigtänkt.",33 plus 14 är 47.
+809,Hur mycket är 15 minus 13?,"Bra, låt oss tänka. Subtrahera: 15-13=2. Koll: 15 minus 13 är 2. Stämmer. Färdigtänkt.",15 minus 13 är 2.
+810,Hur mycket är 9 gånger 2?,"Jag går igenom det i huvudet. Multiplicera: 9*2=18. Kontroll: 9 gånger 2 är 18. Rätt. Bra, vidare.",9 gånger 2 är 18.
+811,Hur mycket är 190 delat med 10?,"Hmm, vad vet jag om detta? Dividera: 190/10=19. Räkna om: 190 delat med 10 är 19. Passar. Allt klart i huvudet.",190 delat med 10 är 19.
+812,Hur mycket är 59 plus 21?,"Vänta, låt mig tänka. Addera: 59+21=80. Kontroll: 59 plus 21 är 80. Rätt. Färdigtänkt.",59 plus 21 är 80.
+813,Hur mycket är 37 minus 23?,"Okej, steg för steg. Subtrahera: 37-23=14. Räkna om: 37 minus 23 är 14. Passar. Ja, det passar.",37 minus 23 är 14.
+814,Hur mycket är 5 gånger 6?,Jag sorterar detta. Multiplicera: 5*6=30. Koll: 5 gånger 6 är 30. Stämmer. Det är vettigt.,5 gånger 6 är 30.
+815,Hur mycket är 76 delat med 4?,"Okej, steg för steg. Dividera: 76/4=19. Koll: 76 delat med 4 är 19. Stämmer. Det är vettigt.",76 delat med 4 är 19.
+816,Hur mycket är 10 procent av 400?,"Bra, låt oss tänka. Procent: 400*10/100=40. Räkna om: 10 procent av 400 är 40. Passar. Jag är säker.",10 procent av 400 är 40.
+817,Hur mycket är 52 plus 3?,"Bra, låt oss tänka. Addera: 52+3=55. Kontroll: 52 plus 3 är 55. Rätt. Okej, bestämt.",52 plus 3 är 55.
+818,Hur mycket är 82 minus 64?,"Jag går igenom det i huvudet. Subtrahera: 82-64=18. Räkna om: 82 minus 64 är 18. Passar. Bra, vidare.",82 minus 64 är 18.
+819,Hur mycket är 11 gånger 12?,"Bra, låt oss tänka. Multiplicera: 11*12=132. Kontroll: 11 gånger 12 är 132. Rätt. Bra, vidare.",11 gånger 12 är 132.
+820,Hur mycket är 132 delat med 11?,"Okej, steg för steg. Dividera: 132/11=12. Kontroll: 132 delat med 11 är 12. Rätt. Det är vettigt.",132 delat med 11 är 12.
+821,Hur mycket är 51 plus 35?,"Jag sorterar detta. Addera: 51+35=86. Koll: 51 plus 35 är 86. Stämmer. Okej, bestämt.",51 plus 35 är 86.
+822,Hur mycket är 25 minus 3?,Först lugnt. Subtrahera: 25-3=22. Koll: 25 minus 3 är 22. Stämmer. Färdigtänkt.,25 minus 3 är 22.
+823,Hur mycket är 3 gånger 3?,Jag sorterar detta. Multiplicera: 3*3=9. Koll: 3 gånger 3 är 9. Stämmer. Jag är säker.,3 gånger 3 är 9.
+824,Hur mycket är 66 delat med 6?,"Jag sorterar detta. Dividera: 66/6=11. Räkna om: 66 delat med 6 är 11. Passar. Okej, bestämt.",66 delat med 6 är 11.
+825,Hur mycket är 5 procent av 400?,Först lugnt. Procent: 400*5/100=20. Räkna om: 5 procent av 400 är 20. Passar. Färdigtänkt.,5 procent av 400 är 20.
+826,Hur mycket är 4 plus 11?,"Hmm, vad vet jag om detta? Addera: 4+11=15. Kontroll: 4 plus 11 är 15. Rätt. Okej, bestämt.",4 plus 11 är 15.
+827,Hur mycket är 28 minus 24?,"Hmm, vad vet jag om detta? Subtrahera: 28-24=4. Kontroll: 28 minus 24 är 4. Rätt. Okej, bestämt.",28 minus 24 är 4.
+828,Hur mycket är 11 gånger 10?,"Hmm, vad vet jag om detta? Multiplicera: 11*10=110. Koll: 11 gånger 10 är 110. Stämmer. Okej, bestämt.",11 gånger 10 är 110.
+829,Hur mycket är 44 delat med 11?,"Okej, steg för steg. Dividera: 44/11=4. Kontroll: 44 delat med 11 är 4. Rätt. Allt klart i huvudet.",44 delat med 11 är 4.
+830,Hur mycket är 6 plus 52?,Jag går igenom det i huvudet. Addera: 6+52=58. Kontroll: 6 plus 52 är 58. Rätt. Logiskt.,6 plus 52 är 58.
+831,Hur mycket är 32 minus 14?,"Jag sorterar detta. Subtrahera: 32-14=18. Koll: 32 minus 14 är 18. Stämmer. Bra, vidare.",32 minus 14 är 18.
+832,Hur mycket är 5 gånger 8?,"Hmm, vad vet jag om detta? Multiplicera: 5*8=40. Räkna om: 5 gånger 8 är 40. Passar. Jag är säker.",5 gånger 8 är 40.
+833,Hur mycket är 84 delat med 7?,Jag går igenom det i huvudet. Dividera: 84/7=12. Räkna om: 84 delat med 7 är 12. Passar. Logiskt.,84 delat med 7 är 12.
+834,Hur mycket är 10 procent av 300?,"Vänta, låt mig tänka. Procent: 300*10/100=30. Kontroll: 10 procent av 300 är 30. Rätt. Ja, det passar.",10 procent av 300 är 30.
+835,Hur mycket är 27 plus 2?,"Vänta, låt mig tänka. Addera: 27+2=29. Räkna om: 27 plus 2 är 29. Passar. Logiskt.",27 plus 2 är 29.
+836,Hur mycket är 35 minus 18?,"Hmm, vad vet jag om detta? Subtrahera: 35-18=17. Räkna om: 35 minus 18 är 17. Passar. Det är vettigt.",35 minus 18 är 17.
+837,Hur mycket är 2 gånger 11?,"Vänta, låt mig tänka. Multiplicera: 2*11=22. Räkna om: 2 gånger 11 är 22. Passar. Okej, bestämt.",2 gånger 11 är 22.
+838,Hur mycket är 126 delat med 7?,"Okej, steg för steg. Dividera: 126/7=18. Koll: 126 delat med 7 är 18. Stämmer. Bra, vidare.",126 delat med 7 är 18.
+839,Hur mycket är 35 plus 45?,"Bra, låt oss tänka. Addera: 35+45=80. Kontroll: 35 plus 45 är 80. Rätt. Ja, det passar.",35 plus 45 är 80.
+840,Hur mycket är 50 minus 31?,"Bra fråga, tänker kort. Subtrahera: 50-31=19. Kontroll: 50 minus 31 är 19. Rätt. Logiskt.",50 minus 31 är 19.
+841,Hur mycket är 12 gånger 5?,"Bra fråga, tänker kort. Multiplicera: 12*5=60. Kontroll: 12 gånger 5 är 60. Rätt. Bra, vidare.",12 gånger 5 är 60.
+842,Hur mycket är 56 delat med 8?,"Jag går igenom det i huvudet. Dividera: 56/8=7. Koll: 56 delat med 8 är 7. Stämmer. Ja, det passar.",56 delat med 8 är 7.
+843,Hur mycket är 15 plus 18?,Först lugnt. Addera: 15+18=33. Kontroll: 15 plus 18 är 33. Rätt. Färdigtänkt.,15 plus 18 är 33.
+844,Hur mycket är 62 minus 32?,Först lugnt. Subtrahera: 62-32=30. Koll: 62 minus 32 är 30. Stämmer. Allt klart i huvudet.,62 minus 32 är 30.
+845,Hur mycket är 5 gånger 7?,"Jag går igenom det i huvudet. Multiplicera: 5*7=35. Kontroll: 5 gånger 7 är 35. Rätt. Ja, det passar.",5 gånger 7 är 35.
+846,Filmen börjar 20:15 och varar 90 minuter. När slutar den?,"Bra fråga, tänker kort. 20:15 + 90 min = 21:45. Kontroll: Den slutar 21:45. Rätt. Allt klart i huvudet.",Den slutar 21:45.
+847,Klockan är 9. Om 3h30 har jag en tid. När?,"Jag sorterar detta. 9:00 + 3:30 = 12:30. Kontroll: Tiden är 12:30. Rätt. Ja, det passar.",Tiden är 12:30.
+848,En kaka gräddas 45 minuter. Jag sätter in den 16:20. När är den klar?,"Bra, låt oss tänka. 16:20 + 0:45 = 17:05. Räkna om: Den är klar 17:05. Passar. Ja, det passar.",Den är klar 17:05.
+849,Skolan börjar 8:00 och slutar 13:15. Hur länge?,Jag går igenom det i huvudet. 13:15 - 8:00 = 5:15. Koll: Den varar 5 timmar och 15 minuter. Stämmer. Färdigtänkt.,Den varar 5 timmar och 15 minuter.
+850,"Om jag läser 30 minuter från 19:00, när är jag klar?","Bra, låt oss tänka. 19:00 + 0:30 = 19:30. Räkna om: Du är klar 19:30. Passar. Allt klart i huvudet.",Du är klar 19:30.
+851,Hur lär jag mig ord bäst?,"Vänta, låt mig tänka. Korta dagliga pass, kort, aktiv användning. Alltså: Bäst i korta dagliga pass med kort och aktiv användning i meningar plus repetition. Logiskt.",Bäst i korta dagliga pass med kort och aktiv användning i meningar plus repetition.
+852,lära ord - tips?,"Bra fråga, tänker kort. Korta dagliga pass, kort, aktiv användning. Alltså: Bäst i korta dagliga pass med kort och aktiv användning i meningar plus repetition. Logiskt.",Bäst i korta dagliga pass med kort och aktiv användning i meningar plus repetition.
+853,Snabbguide: lära ord.,"Hmm, vad vet jag om detta? Korta dagliga pass, kort, aktiv användning. Svaret alltså: Bäst i korta dagliga pass med kort och aktiv användning i meningar plus repetition. Ja, det passar.",Bäst i korta dagliga pass med kort och aktiv användning i meningar plus repetition.
+854,Hur sparar jag i vardagen?,"Jag går igenom det i huvudet. Budget, abonnemang, laga mat, jämföra. Svaret alltså: Sätt en budget, kolla abonnemang, laga mer mat, jämför priser och spara först ett fast belopp. Okej, bestämt.","Sätt en budget, kolla abonnemang, laga mer mat, jämför priser och spara först ett fast belopp."
+855,spara - tips?,"Vänta, låt mig tänka. Budget, abonnemang, laga mat, jämföra. Alltså: Sätt en budget, kolla abonnemang, laga mer mat, jämför priser och spara först ett fast belopp. Ja, det passar.","Sätt en budget, kolla abonnemang, laga mer mat, jämför priser och spara först ett fast belopp."
+856,Snabbguide: spara.,"Okej, steg för steg. Budget, abonnemang, laga mat, jämföra. Alltså: Sätt en budget, kolla abonnemang, laga mer mat, jämför priser och spara först ett fast belopp. Bra, vidare.","Sätt en budget, kolla abonnemang, laga mer mat, jämför priser och spara först ett fast belopp."
+857,"Vad lagar jag med bara pasta, tomat och ost?","Hmm, vad vet jag om detta? Pasta med tomatsås och ost. Alltså: Gör pasta med enkel tomatsås: krydda, koka, häll över pastan, strö ost. Jag är säker.","Gör pasta med enkel tomatsås: krydda, koka, häll över pastan, strö ost."
+858,snabb pasta - tips?,"Bra fråga, tänker kort. Pasta med tomatsås och ost. Alltså: Gör pasta med enkel tomatsås: krydda, koka, häll över pastan, strö ost. Allt klart i huvudet.","Gör pasta med enkel tomatsås: krydda, koka, häll över pastan, strö ost."
+859,Snabbguide: snabb pasta.,"Bra fråga, tänker kort. Pasta med tomatsås och ost. Slutsats: Gör pasta med enkel tomatsås: krydda, koka, häll över pastan, strö ost. Jag är säker.","Gör pasta med enkel tomatsås: krydda, koka, häll över pastan, strö ost."
+860,"Jag flyger imorgon, vad tar jag med?","Jag sorterar detta. Lista: ID, biljett, pengar, telefon, laddare. Slutsats: Ta med: ID eller pass, biljett, pengar, telefon plus laddare, medicin, hygien och ombyte i handbagaget. Det är vettigt.","Ta med: ID eller pass, biljett, pengar, telefon plus laddare, medicin, hygien och ombyte i handbagaget."
+861,flygpackning - tips?,"Hmm, vad vet jag om detta? Lista: ID, biljett, pengar, telefon, laddare. Svaret alltså: Ta med: ID eller pass, biljett, pengar, telefon plus laddare, medicin, hygien och ombyte i handbagaget. Färdigtänkt.","Ta med: ID eller pass, biljett, pengar, telefon plus laddare, medicin, hygien och ombyte i handbagaget."
+862,Snabbguide: flygpackning.,"Bra, låt oss tänka. Lista: ID, biljett, pengar, telefon, laddare. Slutsats: Ta med: ID eller pass, biljett, pengar, telefon plus laddare, medicin, hygien och ombyte i handbagaget. Ja, det passar.","Ta med: ID eller pass, biljett, pengar, telefon plus laddare, medicin, hygien och ombyte i handbagaget."
+863,Hur skriver jag en bra ursäkt?,"Bra, låt oss tänka. Nämn felet, ansvar, gottgörelse. Svaret alltså: Nämn felet, ta ansvar, visa ånger och erbjud gottgörelse, kort och ärligt. Logiskt.","Nämn felet, ta ansvar, visa ånger och erbjud gottgörelse, kort och ärligt."
+864,ursäkt - tips?,"Jag sorterar detta. Nämn felet, ansvar, gottgörelse. Slutsats: Nämn felet, ta ansvar, visa ånger och erbjud gottgörelse, kort och ärligt. Logiskt.","Nämn felet, ta ansvar, visa ånger och erbjud gottgörelse, kort och ärligt."
+865,Snabbguide: ursäkt.,"Okej, steg för steg. Nämn felet, ansvar, gottgörelse. Alltså: Nämn felet, ta ansvar, visa ånger och erbjud gottgörelse, kort och ärligt. Jag är säker.","Nämn felet, ta ansvar, visa ånger och erbjud gottgörelse, kort och ärligt."
+866,Hur planerar jag 3 dagar i stan?,"Okej, steg för steg. Resa, hotell, 2-3 höjdpunkter per dag. Svaret alltså: Bestäm resa och hotell, välj 2-3 höjdpunkter per dag, planera buffertar för mat och vägar, sätt dagbudget. Ja, det passar.","Bestäm resa och hotell, välj 2-3 höjdpunkter per dag, planera buffertar för mat och vägar, sätt dagbudget."
+867,stadsresa - tips?,"Först lugnt. Resa, hotell, 2-3 höjdpunkter per dag. Svaret alltså: Bestäm resa och hotell, välj 2-3 höjdpunkter per dag, planera buffertar för mat och vägar, sätt dagbudget. Logiskt.","Bestäm resa och hotell, välj 2-3 höjdpunkter per dag, planera buffertar för mat och vägar, sätt dagbudget."
+868,Snabbguide: stadsresa.,"Hmm, vad vet jag om detta? Resa, hotell, 2-3 höjdpunkter per dag. Alltså: Bestäm resa och hotell, välj 2-3 höjdpunkter per dag, planera buffertar för mat och vägar, sätt dagbudget. Jag är säker.","Bestäm resa och hotell, välj 2-3 höjdpunkter per dag, planera buffertar för mat och vägar, sätt dagbudget."
+869,Paraply vid 80 procents regn?,"Hmm, vad vet jag om detta? 80% högt, ja rekommenderas. Alltså: Ja, ta med. Vid 80 procent är regn mycket troligt. Det är vettigt.","Ja, ta med. Vid 80 procent är regn mycket troligt."
+870,paraply - tips?,"Först lugnt. 80% högt, ja rekommenderas. Alltså: Ja, ta med. Vid 80 procent är regn mycket troligt. Jag är säker.","Ja, ta med. Vid 80 procent är regn mycket troligt."
+871,Snabbguide: paraply.,"Vänta, låt mig tänka. 80% högt, ja rekommenderas. Slutsats: Ja, ta med. Vid 80 procent är regn mycket troligt. Allt klart i huvudet.","Ja, ta med. Vid 80 procent är regn mycket troligt."
+872,Vad är bättre för anteckningar: papper eller telefon?,"Jag sorterar detta. Papper utan distraktion, telefon sökbar. Alltså: Båda har fördelar: papper är utan distraktion och bra för minnet, telefon sökbar och alltid med. Ja, det passar.","Båda har fördelar: papper är utan distraktion och bra för minnet, telefon sökbar och alltid med."
+873,anteckningar papper eller telefon - tips?,"Okej, steg för steg. Papper utan distraktion, telefon sökbar. Alltså: Båda har fördelar: papper är utan distraktion och bra för minnet, telefon sökbar och alltid med. Bra, vidare.","Båda har fördelar: papper är utan distraktion och bra för minnet, telefon sökbar och alltid med."
+874,Snabbguide: anteckningar papper eller telefon.,"Jag går igenom det i huvudet. Papper utan distraktion, telefon sökbar. Svaret alltså: Båda har fördelar: papper är utan distraktion och bra för minnet, telefon sökbar och alltid med. Okej, bestämt.","Båda har fördelar: papper är utan distraktion och bra för minnet, telefon sökbar och alltid med."
+875,Hur städar jag mitt rum snabbt?,"Vänta, låt mig tänka. Skräp, tvätt, lägg tillbaka, torka. Alltså: Samla först skräp, sedan tvätt, lägg allt tillbaka och torka kort till sist. Logiskt.","Samla först skräp, sedan tvätt, lägg allt tillbaka och torka kort till sist."
+876,städa snabbt - tips?,"Jag sorterar detta. Skräp, tvätt, lägg tillbaka, torka. Alltså: Samla först skräp, sedan tvätt, lägg allt tillbaka och torka kort till sist. Allt klart i huvudet.","Samla först skräp, sedan tvätt, lägg allt tillbaka och torka kort till sist."
+877,Snabbguide: städa snabbt.,"Bra, låt oss tänka. Skräp, tvätt, lägg tillbaka, torka. Svaret alltså: Samla först skräp, sedan tvätt, lägg allt tillbaka och torka kort till sist. Jag är säker.","Samla först skräp, sedan tvätt, lägg allt tillbaka och torka kort till sist."
+878,Hur packar jag en väska kompakt?,"Bra, låt oss tänka. Rulla, tungt ner, fyll. Svaret alltså: Rulla kläder istället för att vika, tungt ner, fyll hål med sockor. Okej, bestämt.","Rulla kläder istället för att vika, tungt ner, fyll hål med sockor."
+879,kompakt väska - tips?,"Först lugnt. Rulla, tungt ner, fyll. Slutsats: Rulla kläder istället för att vika, tungt ner, fyll hål med sockor. Okej, bestämt.","Rulla kläder istället för att vika, tungt ner, fyll hål med sockor."
+880,Snabbguide: kompakt väska.,"Okej, steg för steg. Rulla, tungt ner, fyll. Slutsats: Rulla kläder istället för att vika, tungt ner, fyll hål med sockor. Bra, vidare.","Rulla kläder istället för att vika, tungt ner, fyll hål med sockor."
+881,Hur kokar jag ris?,"Först lugnt. Förhållande 1:2, 10-12 min svälla. Alltså: Tvätta ris, koka upp med dubbelt vatten, låt svälla 10-12 minuter. Bra, vidare.","Tvätta ris, koka upp med dubbelt vatten, låt svälla 10-12 minuter."
+882,koka ris - tips?,"Jag sorterar detta. Förhållande 1:2, 10-12 min svälla. Alltså: Tvätta ris, koka upp med dubbelt vatten, låt svälla 10-12 minuter. Okej, bestämt.","Tvätta ris, koka upp med dubbelt vatten, låt svälla 10-12 minuter."
+883,Snabbguide: koka ris.,"Först lugnt. Förhållande 1:2, 10-12 min svälla. Svaret alltså: Tvätta ris, koka upp med dubbelt vatten, låt svälla 10-12 minuter. Okej, bestämt.","Tvätta ris, koka upp med dubbelt vatten, låt svälla 10-12 minuter."
+884,Hur kokar jag pasta?,"Bra fråga, tänker kort. Saltat vatten, koka 8-10 min. Svaret alltså: Salta mycket vatten, koka upp, koka pasta 8-10 minuter, häll av. Allt klart i huvudet.","Salta mycket vatten, koka upp, koka pasta 8-10 minuter, häll av."
+885,koka pasta - tips?,"Okej, steg för steg. Saltat vatten, koka 8-10 min. Slutsats: Salta mycket vatten, koka upp, koka pasta 8-10 minuter, häll av. Det är vettigt.","Salta mycket vatten, koka upp, koka pasta 8-10 minuter, häll av."
+886,Snabbguide: koka pasta.,"Hmm, vad vet jag om detta? Saltat vatten, koka 8-10 min. Slutsats: Salta mycket vatten, koka upp, koka pasta 8-10 minuter, häll av. Färdigtänkt.","Salta mycket vatten, koka upp, koka pasta 8-10 minuter, häll av."
+887,Hur gör jag pannkakor?,"Bra, låt oss tänka. Mjöl, mjölk, ägg, stek gyllene. Slutsats: Blanda mjöl, mjölk, ägg och en nypa salt, stek tunt tills gyllene. Det är vettigt.","Blanda mjöl, mjölk, ägg och en nypa salt, stek tunt tills gyllene."
+888,pannkakor - tips?,"Hmm, vad vet jag om detta? Mjöl, mjölk, ägg, stek gyllene. Svaret alltså: Blanda mjöl, mjölk, ägg och en nypa salt, stek tunt tills gyllene. Bra, vidare.","Blanda mjöl, mjölk, ägg och en nypa salt, stek tunt tills gyllene."
+889,Snabbguide: pannkakor.,"Först lugnt. Mjöl, mjölk, ägg, stek gyllene. Svaret alltså: Blanda mjöl, mjölk, ägg och en nypa salt, stek tunt tills gyllene. Bra, vidare.","Blanda mjöl, mjölk, ägg och en nypa salt, stek tunt tills gyllene."
+890,Hur vaknar jag på morgonen?,"Okej, steg för steg. Ljus, vatten, rörelse. Svaret alltså: Tänd ljuset, drick ett glas vatten, rör dig kort och få frisk luft. Bra, vidare.","Tänd ljuset, drick ett glas vatten, rör dig kort och få frisk luft."
+891,vakna - tips?,"Först lugnt. Ljus, vatten, rörelse. Svaret alltså: Tänd ljuset, drick ett glas vatten, rör dig kort och få frisk luft. Logiskt.","Tänd ljuset, drick ett glas vatten, rör dig kort och få frisk luft."
+892,Snabbguide: vakna.,"Vänta, låt mig tänka. Ljus, vatten, rörelse. Slutsats: Tänd ljuset, drick ett glas vatten, rör dig kort och få frisk luft. Det är vettigt.","Tänd ljuset, drick ett glas vatten, rör dig kort och få frisk luft."
+893,Hur somnar jag snabbare?,"Okej, steg för steg. Mörkt, svalt, ingen telefon, rutin. Svaret alltså: Sov mörkt och svalt, lägg bort telefonen, håll fast rutin. Färdigtänkt.","Sov mörkt och svalt, lägg bort telefonen, håll fast rutin."
+894,somna - tips?,"Jag sorterar detta. Mörkt, svalt, ingen telefon, rutin. Alltså: Sov mörkt och svalt, lägg bort telefonen, håll fast rutin. Bra, vidare.","Sov mörkt och svalt, lägg bort telefonen, håll fast rutin."
+895,Snabbguide: somna.,"Bra, låt oss tänka. Mörkt, svalt, ingen telefon, rutin. Slutsats: Sov mörkt och svalt, lägg bort telefonen, håll fast rutin. Logiskt.","Sov mörkt och svalt, lägg bort telefonen, håll fast rutin."
+896,Hur pluggar jag till en tenta?,"Bra fråga, tänker kort. Block, aktiv återkallelse, pauser. Alltså: Dela upp i block, förhör dig aktivt, ta pauser, repetera nästa dag. Färdigtänkt.","Dela upp i block, förhör dig aktivt, ta pauser, repetera nästa dag."
+897,plugga tenta - tips?,"Bra, låt oss tänka. Block, aktiv återkallelse, pauser. Slutsats: Dela upp i block, förhör dig aktivt, ta pauser, repetera nästa dag. Bra, vidare.","Dela upp i block, förhör dig aktivt, ta pauser, repetera nästa dag."
+898,Snabbguide: plugga tenta.,"Hmm, vad vet jag om detta? Block, aktiv återkallelse, pauser. Svaret alltså: Dela upp i block, förhör dig aktivt, ta pauser, repetera nästa dag. Det är vettigt.","Dela upp i block, förhör dig aktivt, ta pauser, repetera nästa dag."
+899,Hur skriver jag en jobbansökan?,"Hmm, vad vet jag om detta? Brev, CV, betyg. Svaret alltså: Skriv ett kort brev plus tabell-CV och relevanta betyg. Allt klart i huvudet.",Skriv ett kort brev plus tabell-CV och relevanta betyg.
+900,jobbansökan - tips?,"Bra, låt oss tänka. Brev, CV, betyg. Svaret alltså: Skriv ett kort brev plus tabell-CV och relevanta betyg. Bra, vidare.",Skriv ett kort brev plus tabell-CV och relevanta betyg.
+901,Snabbguide: jobbansökan.,"Bra fråga, tänker kort. Brev, CV, betyg. Slutsats: Skriv ett kort brev plus tabell-CV och relevanta betyg. Logiskt.",Skriv ett kort brev plus tabell-CV och relevanta betyg.
+902,Hur hittar jag en bostad?,"Först lugnt. Budget, portaler, papper, visningar. Alltså: Sätt en budget, sök på portaler, förbered papper, gå på visningar med frågor. Logiskt.","Sätt en budget, sök på portaler, förbered papper, gå på visningar med frågor."
+903,hitta bostad - tips?,"Först lugnt. Budget, portaler, papper, visningar. Alltså: Sätt en budget, sök på portaler, förbered papper, gå på visningar med frågor. Bra, vidare.","Sätt en budget, sök på portaler, förbered papper, gå på visningar med frågor."
+904,Snabbguide: hitta bostad.,"Jag sorterar detta. Budget, portaler, papper, visningar. Alltså: Sätt en budget, sök på portaler, förbered papper, gå på visningar med frågor. Bra, vidare.","Sätt en budget, sök på portaler, förbered papper, gå på visningar med frågor."
+905,Hur vattnar jag blommor rätt?,"Jag går igenom det i huvudet. Fingertest, ingen väta. Alltså: Fingertest: vattna bara när ovansidan är torr, undvik väta. Allt klart i huvudet.","Fingertest: vattna bara när ovansidan är torr, undvik väta."
+906,vattna blommor - tips?,"Bra, låt oss tänka. Fingertest, ingen väta. Alltså: Fingertest: vattna bara när ovansidan är torr, undvik väta. Det är vettigt.","Fingertest: vattna bara när ovansidan är torr, undvik väta."
+907,Snabbguide: vattna blommor.,"Först lugnt. Fingertest, ingen väta. Slutsats: Fingertest: vattna bara när ovansidan är torr, undvik väta. Logiskt.","Fingertest: vattna bara när ovansidan är torr, undvik väta."
+908,Hur organiserar jag min dag?,"Jag går igenom det i huvudet. 3 prioriteringar, block, pauser. Slutsats: Välj 3 prioriteringar, planera block med pauser, lägg bort distraktioner. Det är vettigt.","Välj 3 prioriteringar, planera block med pauser, lägg bort distraktioner."
+909,organisera dagen - tips?,"Vänta, låt mig tänka. 3 prioriteringar, block, pauser. Slutsats: Välj 3 prioriteringar, planera block med pauser, lägg bort distraktioner. Logiskt.","Välj 3 prioriteringar, planera block med pauser, lägg bort distraktioner."
+910,Snabbguide: organisera dagen.,"Jag går igenom det i huvudet. 3 prioriteringar, block, pauser. Slutsats: Välj 3 prioriteringar, planera block med pauser, lägg bort distraktioner. Jag är säker.","Välj 3 prioriteringar, planera block med pauser, lägg bort distraktioner."
+911,Hur börjar jag träna?,"Okej, steg för steg. Lite, 2x per vecka, öka. Slutsats: Börja 2x per vecka promenad eller lätt, öka långsamt. Okej, bestämt.","Börja 2x per vecka promenad eller lätt, öka långsamt."
+912,börja träna - tips?,"Först lugnt. Lite, 2x per vecka, öka. Alltså: Börja 2x per vecka promenad eller lätt, öka långsamt. Det är vettigt.","Börja 2x per vecka promenad eller lätt, öka långsamt."
+913,Snabbguide: börja träna.,"Bra fråga, tänker kort. Lite, 2x per vecka, öka. Svaret alltså: Börja 2x per vecka promenad eller lätt, öka långsamt. Allt klart i huvudet.","Börja 2x per vecka promenad eller lätt, öka långsamt."
+914,Hur dricker jag nog vatten?,"Jag sorterar detta. Flaska redo, påminnelser. Alltså: Håll en flaska redo, drick ett glas till varje måltid, använd påminnelser. Okej, bestämt.","Håll en flaska redo, drick ett glas till varje måltid, använd påminnelser."
+915,dricka nog - tips?,"Först lugnt. Flaska redo, påminnelser. Slutsats: Håll en flaska redo, drick ett glas till varje måltid, använd påminnelser. Logiskt.","Håll en flaska redo, drick ett glas till varje måltid, använd påminnelser."
+916,Snabbguide: dricka nog.,"Först lugnt. Flaska redo, påminnelser. Alltså: Håll en flaska redo, drick ett glas till varje måltid, använd påminnelser. Ja, det passar.","Håll en flaska redo, drick ett glas till varje måltid, använd påminnelser."
+917,Vad är en nyttig frukost?,"Bra, låt oss tänka. Havre, frukt, yoghurt. Svaret alltså: Till exempel havre med frukt och yoghurt, eller fullkornsbröd med ägg. Logiskt.","Till exempel havre med frukt och yoghurt, eller fullkornsbröd med ägg."
+918,nyttig frukost - tips?,"Jag går igenom det i huvudet. Havre, frukt, yoghurt. Alltså: Till exempel havre med frukt och yoghurt, eller fullkornsbröd med ägg. Okej, bestämt.","Till exempel havre med frukt och yoghurt, eller fullkornsbröd med ägg."
+919,Snabbguide: nyttig frukost.,"Jag sorterar detta. Havre, frukt, yoghurt. Slutsats: Till exempel havre med frukt och yoghurt, eller fullkornsbröd med ägg. Färdigtänkt.","Till exempel havre med frukt och yoghurt, eller fullkornsbröd med ägg."
+920,Vad hjälper mot stress?,"Vänta, låt mig tänka. Pauser, rörelse, sömn, prata. Slutsats: Korta pauser, rörelse, nog sömn och att prata hjälper. Logiskt.","Korta pauser, rörelse, nog sömn och att prata hjälper."
+921,stress - tips?,"Först lugnt. Pauser, rörelse, sömn, prata. Alltså: Korta pauser, rörelse, nog sömn och att prata hjälper. Bra, vidare.","Korta pauser, rörelse, nog sömn och att prata hjälper."
+922,Snabbguide: stress.,"Jag sorterar detta. Pauser, rörelse, sömn, prata. Svaret alltså: Korta pauser, rörelse, nog sömn och att prata hjälper. Färdigtänkt.","Korta pauser, rörelse, nog sömn och att prata hjälper."
+923,Hur avbokar jag ett möte?,"Okej, steg för steg. Tidigt, kort skäl, nytt datum. Svaret alltså: Avboka tidigt, ge kort skäl, föreslå nytt datum. Logiskt.","Avboka tidigt, ge kort skäl, föreslå nytt datum."
+924,avboka möte - tips?,"Okej, steg för steg. Tidigt, kort skäl, nytt datum. Svaret alltså: Avboka tidigt, ge kort skäl, föreslå nytt datum. Logiskt.","Avboka tidigt, ge kort skäl, föreslå nytt datum."
+925,Snabbguide: avboka möte.,"Jag sorterar detta. Tidigt, kort skäl, nytt datum. Slutsats: Avboka tidigt, ge kort skäl, föreslå nytt datum. Färdigtänkt.","Avboka tidigt, ge kort skäl, föreslå nytt datum."
+926,Hur ber jag om hjälp?,"Okej, steg för steg. Konkret: vad, när, tack. Alltså: Be konkret: vad, till när, varför. Exempel: Kan du hjälpa mig bära idag? Tack! Logiskt.","Be konkret: vad, till när, varför. Exempel: Kan du hjälpa mig bära idag? Tack!"
+927,be om hjälp - tips?,"Jag sorterar detta. Konkret: vad, när, tack. Alltså: Be konkret: vad, till när, varför. Exempel: Kan du hjälpa mig bära idag? Tack! Bra, vidare.","Be konkret: vad, till när, varför. Exempel: Kan du hjälpa mig bära idag? Tack!"
+928,Snabbguide: be om hjälp.,"Okej, steg för steg. Konkret: vad, när, tack. Alltså: Be konkret: vad, till när, varför. Exempel: Kan du hjälpa mig bära idag? Tack! Okej, bestämt.","Be konkret: vad, till när, varför. Exempel: Kan du hjälpa mig bära idag? Tack!"
+929,Hur lär jag mig säga nej?,"Vänta, låt mig tänka. Kort, vänligt, alternativ. Slutsats: Säg nej kort och vänligt, erbjud alternativ om möjligt. Färdigtänkt.","Säg nej kort och vänligt, erbjud alternativ om möjligt."
+930,säga nej - tips?,"Bra, låt oss tänka. Kort, vänligt, alternativ. Slutsats: Säg nej kort och vänligt, erbjud alternativ om möjligt. Ja, det passar.","Säg nej kort och vänligt, erbjud alternativ om möjligt."
+931,Snabbguide: säga nej.,"Bra, låt oss tänka. Kort, vänligt, alternativ. Alltså: Säg nej kort och vänligt, erbjud alternativ om möjligt. Färdigtänkt.","Säg nej kort och vänligt, erbjud alternativ om möjligt."
+932,Hur sparar jag till semestern?,"Jag går igenom det i huvudet. Mål, månadsvis auto. Svaret alltså: Sätt ett mål, spara månadsvis automatiskt, lägg till extra. Jag är säker.","Sätt ett mål, spara månadsvis automatiskt, lägg till extra."
+933,spara till semester - tips?,"Bra, låt oss tänka. Mål, månadsvis auto. Slutsats: Sätt ett mål, spara månadsvis automatiskt, lägg till extra. Okej, bestämt.","Sätt ett mål, spara månadsvis automatiskt, lägg till extra."
+934,Snabbguide: spara till semester.,"Hmm, vad vet jag om detta? Mål, månadsvis auto. Slutsats: Sätt ett mål, spara månadsvis automatiskt, lägg till extra. Okej, bestämt.","Sätt ett mål, spara månadsvis automatiskt, lägg till extra."
+935,Hur bokar jag billiga flyg?,"Jag går igenom det i huvudet. Flexibla datum, jämför, tidigt. Alltså: Var flexibel med datum, jämför portaler, boka tidigt. Okej, bestämt.","Var flexibel med datum, jämför portaler, boka tidigt."
+936,billiga flyg - tips?,"Vänta, låt mig tänka. Flexibla datum, jämför, tidigt. Slutsats: Var flexibel med datum, jämför portaler, boka tidigt. Okej, bestämt.","Var flexibel med datum, jämför portaler, boka tidigt."
+937,Snabbguide: billiga flyg.,"Bra fråga, tänker kort. Flexibla datum, jämför, tidigt. Svaret alltså: Var flexibel med datum, jämför portaler, boka tidigt. Allt klart i huvudet.","Var flexibel med datum, jämför portaler, boka tidigt."
+938,Hur hittar jag utan internet?,"Bra, låt oss tänka. Offlinekartor, skyltar, fråga. Slutsats: Ladda offlinekartor, följ skyltar, fråga folk. Det är vettigt.","Ladda offlinekartor, följ skyltar, fråga folk."
+939,hitta utan internet - tips?,"Jag går igenom det i huvudet. Offlinekartor, skyltar, fråga. Alltså: Ladda offlinekartor, följ skyltar, fråga folk. Okej, bestämt.","Ladda offlinekartor, följ skyltar, fråga folk."
+940,Snabbguide: hitta utan internet.,"Okej, steg för steg. Offlinekartor, skyltar, fråga. Svaret alltså: Ladda offlinekartor, följ skyltar, fråga folk. Okej, bestämt.","Ladda offlinekartor, följ skyltar, fråga folk."
+941,Vad är skillnaden mellan hund och katt som husdjur?,"Vänta, låt mig tänka. Hundar: promenader och fostran; katter självständiga. Alltså: Hundar kräver promenader och fostran, katter är självständigare. Välj efter tid och plats. Det är vettigt.","Hundar kräver promenader och fostran, katter är självständigare. Välj efter tid och plats."
+942,hund eller katt - vad rekommenderar du?,"Vänta, låt mig tänka. Hundar: promenader och fostran; katter självständiga. Svaret alltså: Hundar kräver promenader och fostran, katter är självständigare. Välj efter tid och plats. Färdigtänkt.","Hundar kräver promenader och fostran, katter är självständigare. Välj efter tid och plats."
+943,Tåg eller bil för 300 km?,"Hmm, vad vet jag om detta? Tåg avkopplat och grönare, bil flexibel. Slutsats: Tåget är avkopplat och ofta grönare, bilen flexibel med bagage. Med köer vinner tåget. Okej, bestämt.","Tåget är avkopplat och ofta grönare, bilen flexibel med bagage. Med köer vinner tåget."
+944,tåg eller bil 300 km - vad rekommenderar du?,"Först lugnt. Tåg avkopplat och grönare, bil flexibel. Alltså: Tåget är avkopplat och ofta grönare, bilen flexibel med bagage. Med köer vinner tåget. Bra, vidare.","Tåget är avkopplat och ofta grönare, bilen flexibel med bagage. Med köer vinner tåget."
+945,Äpple eller choklad som mellanmål?,"Hmm, vad vet jag om detta? Äpple: vitaminer och mättnad. Slutsats: Ta äpplet för vitaminer och mättnad, choklad som undantag. Bra, vidare.","Ta äpplet för vitaminer och mättnad, choklad som undantag."
+946,äpple eller choklad - vad rekommenderar du?,"Jag går igenom det i huvudet. Äpple: vitaminer och mättnad. Svaret alltså: Ta äpplet för vitaminer och mättnad, choklad som undantag. Bra, vidare.","Ta äpplet för vitaminer och mättnad, choklad som undantag."
+947,Laptop eller PC för spel?,"Jag går igenom det i huvudet. PC kraftfullare för pengarna, laptop mobil. Slutsats: PC ger mer kraft för pengarna, laptops är mobila. För max välj PC. Färdigtänkt.","PC ger mer kraft för pengarna, laptops är mobila. För max välj PC."
+948,laptop eller PC spel - vad rekommenderar du?,"Jag sorterar detta. PC kraftfullare för pengarna, laptop mobil. Svaret alltså: PC ger mer kraft för pengarna, laptops är mobila. För max välj PC. Ja, det passar.","PC ger mer kraft för pengarna, laptops är mobila. För max välj PC."
+949,Stad eller land att bo i?,"Jag går igenom det i huvudet. Stad: jobb och närhet; land: lugn. Svaret alltså: Städer ger jobb och närhet, landet lugn och plats. Välj efter arbete och stil. Allt klart i huvudet.","Städer ger jobb och närhet, landet lugn och plats. Välj efter arbete och stil."
+950,stad eller land - vad rekommenderar du?,"Bra, låt oss tänka. Stad: jobb och närhet; land: lugn. Alltså: Städer ger jobb och närhet, landet lugn och plats. Välj efter arbete och stil. Okej, bestämt.","Städer ger jobb och närhet, landet lugn och plats. Välj efter arbete och stil."
+951,Vad räknas mest: sömn eller plugg?,"Jag sorterar detta. Sömn befäster lärande. Slutsats: Sömn räknas mest för den befäster lärande. Plugga tidigt, sov nog. Okej, bestämt.","Sömn räknas mest för den befäster lärande. Plugga tidigt, sov nog."
+952,sömn eller plugg - vad rekommenderar du?,"Bra, låt oss tänka. Sömn befäster lärande. Svaret alltså: Sömn räknas mest för den befäster lärande. Plugga tidigt, sov nog. Färdigtänkt.","Sömn räknas mest för den befäster lärande. Plugga tidigt, sov nog."
+953,Ny telefon eller behålla den gamla?,Jag sorterar detta. Behåll om den räcker; köp vid fel eller behov. Slutsats: Behåll den om den räcker. Köp nytt bara vid fel eller verkligt behov. Det är vettigt.,Behåll den om den räcker. Köp nytt bara vid fel eller verkligt behov.
+954,ny telefon - vad rekommenderar du?,"Okej, steg för steg. Behåll om den räcker; köp vid fel eller behov. Slutsats: Behåll den om den räcker. Köp nytt bara vid fel eller verkligt behov. Det är vettigt.",Behåll den om den räcker. Köp nytt bara vid fel eller verkligt behov.
+955,Vad är fejknyheter?,"Bra, låt oss tänka. Hittade på, som äkta; kolla källan. Svaret alltså: Fejknyheter är påhittade. Kolla källa, datum och andra medier. Det är vettigt.","Fejknyheter är påhittade. Kolla källa, datum och andra medier."
+956,fejknyheter - vad rekommenderar du?,"Först lugnt. Hittade på, som äkta; kolla källan. Alltså: Fejknyheter är påhittade. Kolla källa, datum och andra medier. Bra, vidare.","Fejknyheter är påhittade. Kolla källa, datum och andra medier."
+957,Vad är skillnaden mellan fakta och åsikt?,"Bra, låt oss tänka. Fakta bevisbart, åsikt personlig syn. Svaret alltså: Ett faktum är bevisbart och kollbart, en åsikt är en personlig syn. Allt klart i huvudet.","Ett faktum är bevisbart och kollbart, en åsikt är en personlig syn."
+958,fakta eller åsikt - vad rekommenderar du?,"Bra fråga, tänker kort. Fakta bevisbart, åsikt personlig syn. Svaret alltså: Ett faktum är bevisbart och kollbart, en åsikt är en personlig syn. Jag är säker.","Ett faktum är bevisbart och kollbart, en åsikt är en personlig syn."
+959,Cykel eller buss till skolan? (5 km),"Bra fråga, tänker kort. Fint väder cykel, regn buss. Alltså: Vid fint väder ta cykeln (cirka 20 min, hälsosamt), vid regn bussen. Bra, vidare.","Vid fint väder ta cykeln (cirka 20 min, hälsosamt), vid regn bussen."
+960,cykel eller buss skola 5 km - vad rekommenderar du?,"Okej, steg för steg. Fint väder cykel, regn buss. Slutsats: Vid fint väder ta cykeln (cirka 20 min, hälsosamt), vid regn bussen. Det är vettigt.","Vid fint väder ta cykeln (cirka 20 min, hälsosamt), vid regn bussen."
+961,Vatten eller saft mot törst?,"Hmm, vad vet jag om detta? Vatten bättre, inget socker. Svaret alltså: Vatten släcker törst bäst och har inget socker. Saft bara utspädd. Bra, vidare.",Vatten släcker törst bäst och har inget socker. Saft bara utspädd.
+962,vatten eller saft - vad rekommenderar du?,"Okej, steg för steg. Vatten bättre, inget socker. Slutsats: Vatten släcker törst bäst och har inget socker. Saft bara utspädd. Färdigtänkt.",Vatten släcker törst bäst och har inget socker. Saft bara utspädd.
+963,Kaffe eller vatten på morgonen?,"Vänta, låt mig tänka. Först vatten, kaffe måttligt. Svaret alltså: Drick först vatten, kaffe sedan med måtta. Det är vettigt.","Drick först vatten, kaffe sedan med måtta."
+964,kaffe eller vatten morgon - vad rekommenderar du?,"Hmm, vad vet jag om detta? Först vatten, kaffe måttligt. Svaret alltså: Drick först vatten, kaffe sedan med måtta. Allt klart i huvudet.","Drick först vatten, kaffe sedan med måtta."
+965,Hyra eller köpa? (allmänt),"Först lugnt. Flexibel hyr; länge kolla köpa. Svaret alltså: Hyr om du förblir flexibel; om du stannar länge och kan betala, kolla köpa med alla kostnader. Okej, bestämt.","Hyr om du förblir flexibel; om du stannar länge och kan betala, kolla köpa med alla kostnader."
+966,hyra eller köpa - vad rekommenderar du?,"Bra fråga, tänker kort. Flexibel hyr; länge kolla köpa. Slutsats: Hyr om du förblir flexibel; om du stannar länge och kan betala, kolla köpa med alla kostnader. Det är vettigt.","Hyr om du förblir flexibel; om du stannar länge och kan betala, kolla köpa med alla kostnader."
+967,Stiga upp tidigt eller sent?,"Vänta, låt mig tänka. Efter plikter och sömn. Svaret alltså: Välj efter plikter och sömn: nog sömn och fast rytm räknas. Logiskt.",Välj efter plikter och sömn: nog sömn och fast rytm räknas.
+968,tidigt eller sent - vad rekommenderar du?,"Hmm, vad vet jag om detta? Efter plikter och sömn. Alltså: Välj efter plikter och sömn: nog sömn och fast rytm räknas. Bra, vidare.",Välj efter plikter och sömn: nog sömn och fast rytm räknas.
+969,Sport varje dag?,"Jag går igenom det i huvudet. Vila räknas; 3-4x per vecka räcker. Alltså: Nej, planera vila. 3-4 gånger per vecka räcker ofta, dagligen bara lätt. Det är vettigt.","Nej, planera vila. 3-4 gånger per vecka räcker ofta, dagligen bara lätt."
+970,sport varje dag - vad rekommenderar du?,"Hmm, vad vet jag om detta? Vila räknas; 3-4x per vecka räcker. Svaret alltså: Nej, planera vila. 3-4 gånger per vecka räcker ofta, dagligen bara lätt. Allt klart i huvudet.","Nej, planera vila. 3-4 gånger per vecka räcker ofta, dagligen bara lätt."
+971,Jobba med feber?,"Jag sorterar detta. Nej, vila och läkare. Alltså: Nej. Vila och gå till läkaren vid hög eller lång feber. Det är vettigt.",Nej. Vila och gå till läkaren vid hög eller lång feber.
+972,feber och jobb - vad rekommenderar du?,"Jag sorterar detta. Nej, vila och läkare. Svaret alltså: Nej. Vila och gå till läkaren vid hög eller lång feber. Jag är säker.",Nej. Vila och gå till läkaren vid hög eller lång feber.
+973,Hur väljer jag mellan två erbjudanden?,"Vänta, låt mig tänka. Kriterier, pro/contra, deadline. Alltså: Lista kriterier, poängsätt, kolla kostnader och känsla, bestäm med deadline. Allt klart i huvudet.","Lista kriterier, poängsätt, kolla kostnader och känsla, bestäm med deadline."
+974,välja mellan erbjudanden - vad rekommenderar du?,"Vänta, låt mig tänka. Kriterier, pro/contra, deadline. Slutsats: Lista kriterier, poängsätt, kolla kostnader och känsla, bestäm med deadline. Okej, bestämt.","Lista kriterier, poängsätt, kolla kostnader och känsla, bestäm med deadline."
+975,Hur sparar jag 500 euro på 5 månader?,"Först lugnt. 500/5=100 per månad auto. Koll: Spara 100 euro per månad automatiskt, t.ex. uppdrag efter lön. Stämmer. Okej, bestämt.","Spara 100 euro per månad automatiskt, t.ex. uppdrag efter lön."
+976,spara 500 på 5 månader - vad rekommenderar du?,"Hmm, vad vet jag om detta? 500/5=100 per månad auto. Kontroll: Spara 100 euro per månad automatiskt, t.ex. uppdrag efter lön. Rätt. Ja, det passar.","Spara 100 euro per månad automatiskt, t.ex. uppdrag efter lön."
+977,Vad är skillnaden mellan behöva och vilja?,"Jag går igenom det i huvudet. Behöva livsviktigt, vilja därutöver. Slutsats: Att behöva är livsviktigt, att vilja är en önskan därutöver. Allt klart i huvudet.","Att behöva är livsviktigt, att vilja är en önskan därutöver."
+978,behöva eller vilja - vad rekommenderar du?,"Jag sorterar detta. Behöva livsviktigt, vilja därutöver. Svaret alltså: Att behöva är livsviktigt, att vilja är en önskan därutöver. Bra, vidare.","Att behöva är livsviktigt, att vilja är en önskan därutöver."
+979,Vad räknas mest: pengar eller tid?,"Okej, steg för steg. Tid begränsad, pengar ersättliga. Slutsats: Tid är begränsad och kommer inte tillbaka, pengar går att tjäna igen. Balans räknas. Okej, bestämt.","Tid är begränsad och kommer inte tillbaka, pengar går att tjäna igen. Balans räknas."
+980,pengar eller tid - vad rekommenderar du?,"Först lugnt. Tid begränsad, pengar ersättliga. Alltså: Tid är begränsad och kommer inte tillbaka, pengar går att tjäna igen. Balans räknas. Bra, vidare.","Tid är begränsad och kommer inte tillbaka, pengar går att tjäna igen. Balans räknas."
+981,Sammanfatta: när tänker du och när inte?,"Okej, steg för steg. Regel: småprat utan tänkande; fakta, matte, förklaringar, beslut med tänkande. Alltså: Jag tänker inte vid hälsningar, tack och småprat. Jag tänker vid fakta, matte, förklaringar, jämförelser och beslut, och då visar jag tänkandet. Allt klart i huvudet.","Jag tänker inte vid hälsningar, tack och småprat. Jag tänker vid fakta, matte, förklaringar, jämförelser och beslut, och då visar jag tänkandet."
+982,Vad är tolerans?,"Bra, låt oss tänka. Definiera tolerans enkelt och korrekt. Svaret alltså: tolerans kort: Tolerans accepterar andras åsikter och livsstilar. Jag är säker.",tolerans kort: Tolerans accepterar andras åsikter och livsstilar.
+983,Vad är tålamod?,"Bra fråga, tänker kort. Definiera tålamod enkelt och korrekt. Svaret alltså: tålamod kort: Tålamod väntar lugnt och håller ut. Jag är säker.",tålamod kort: Tålamod väntar lugnt och håller ut.
+984,Vad är mod?,"Okej, steg för steg. Definiera mod enkelt och korrekt. Alltså: mod kort: Mod gör det rätta trots rädsla. Det är vettigt.",mod kort: Mod gör det rätta trots rädsla.
+985,Vad är disciplin?,"Vänta, låt mig tänka. Definiera disciplin enkelt och korrekt. Alltså: disciplin kort: Disciplin håller ut även utan lust. Allt klart i huvudet.",disciplin kort: Disciplin håller ut även utan lust.
+986,Vad är kreativitet?,"Jag går igenom det i huvudet. Definiera kreativitet enkelt och korrekt. Slutsats: kreativitet kort: Kreativitet hittar nya idéer och lösningar. Ja, det passar.",kreativitet kort: Kreativitet hittar nya idéer och lösningar.
+987,Vad är lagarbete?,"Vänta, låt mig tänka. Definiera lagarbete enkelt och korrekt. Alltså: lagarbete kort: Lagarbete arbetar tillsammans mot ett mål. Bra, vidare.",lagarbete kort: Lagarbete arbetar tillsammans mot ett mål.
+988,Vad är ansvar?,"Hmm, vad vet jag om detta? Definiera ansvar enkelt och korrekt. Alltså: ansvar kort: Ansvar står för handlingar och följder. Det är vettigt.",ansvar kort: Ansvar står för handlingar och följder.
+989,Vad är förtroende?,"Bra fråga, tänker kort. Definiera förtroende enkelt och korrekt. Svaret alltså: förtroende kort: Förtroende kan lita på andra. Bra, vidare.",förtroende kort: Förtroende kan lita på andra.
+990,Vad är artighet?,"Jag sorterar detta. Definiera artighet enkelt och korrekt. Svaret alltså: artighet kort: Artighet är respektfull och vänlig. Ja, det passar.",artighet kort: Artighet är respektfull och vänlig.
+991,Vad är punktlighet?,"Först lugnt. Definiera punktlighet enkelt och korrekt. Svaret alltså: punktlighet kort: Punktlighet håller avtalade tider. Bra, vidare.",punktlighet kort: Punktlighet håller avtalade tider.
+992,Vad är pålitlighet?,"Bra fråga, tänker kort. Definiera pålitlighet enkelt och korrekt. Slutsats: pålitlighet kort: Pålitlighet håller löften. Det är vettigt.",pålitlighet kort: Pålitlighet håller löften.
+993,Vad är hälsa?,"Vänta, låt mig tänka. Definiera hälsa enkelt och korrekt. Svaret alltså: hälsa kort: Hälsa är fysiskt och mentalt välbefinnande. Det är vettigt.",hälsa kort: Hälsa är fysiskt och mentalt välbefinnande.
+994,Vad är lycka?,"Jag går igenom det i huvudet. Definiera lycka enkelt och korrekt. Svaret alltså: lycka kort: Lycka är tillfredsställelse och glada stunder. Okej, bestämt.",lycka kort: Lycka är tillfredsställelse och glada stunder.
+995,Vad är framgång?,"Bra fråga, tänker kort. Definiera framgång enkelt och korrekt. Slutsats: framgång kort: Framgång når uppsatta mål. Allt klart i huvudet.",framgång kort: Framgång når uppsatta mål.
+996,Vad är lärande?,Först lugnt. Definiera lärande enkelt och korrekt. Slutsats: lärande kort: Lärande förvärvar kunskap och färdigheter. Logiskt.,lärande kort: Lärande förvärvar kunskap och färdigheter.
+997,Vad är kunskap?,"Först lugnt. Definiera kunskap enkelt och korrekt. Svaret alltså: kunskap kort: Kunskap är förstådd information om världen. Ja, det passar.",kunskap kort: Kunskap är förstådd information om världen.
+998,Vad är erfarenhet?,"Bra fråga, tänker kort. Definiera erfarenhet enkelt och korrekt. Svaret alltså: erfarenhet kort: Erfarenhet är kunskap ur eget liv. Ja, det passar.",erfarenhet kort: Erfarenhet är kunskap ur eget liv.
+999,Vad är humor?,Jag sorterar detta. Definiera humor enkelt och korrekt. Slutsats: humor kort: Humor kan skratta åt roliga saker. Färdigtänkt.,humor kort: Humor kan skratta åt roliga saker.
+1000,Vad är kärlek?,"Bra fråga, tänker kort. Definiera kärlek enkelt och korrekt. Slutsats: kärlek kort: Kärlek är djup tillgivenhet och omsorg. Okej, bestämt.",kärlek kort: Kärlek är djup tillgivenhet och omsorg.

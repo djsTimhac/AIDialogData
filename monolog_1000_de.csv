@@ -1,0 +1,1001 @@
+id,user,monologue,ai
+1,Hallo!,,Hallo! Wie kann ich helfen?
+2,Hi!,,Hi! Was kann ich für dich tun?
+3,Hey!,,Hey! Wie kann ich helfen?
+4,"Hallo, bist du da?",,"Ja, ich bin da! Was brauchst du?"
+5,"Hi, bist du da?",,"Ja, bin da! Leg los."
+6,Guten Morgen!,,Guten Morgen! Was steht heute an?
+7,"Guten Morgen, wie geht's?",,"Guten Morgen! Mir geht's gut, und dir?"
+8,Morgen!,,Morgen! Alles fit?
+9,Guten Tag!,,Guten Tag! Wie kann ich helfen?
+10,Guten Tag zusammen!,,Hallo zusammen! Was kann ich tun?
+11,Hallo zusammen!,,Hallo zusammen! Wie kann ich helfen?
+12,Guten Abend!,,Guten Abend! Wie war dein Tag?
+13,"Guten Abend, wie war dein Tag?",,Mein Tag ist ruhig. Und deiner?
+14,"Hallo, guten Abend!",,Guten Abend! Was gibt's?
+15,"Hey, wie geht's?",,"Mir geht's gut, danke! Und dir?"
+16,"Hi, wie geht's dir?",,"Gut, danke! Wie geht's dir?"
+17,"Na, wie geht's?",,Alles gut! Bei dir?
+18,Wie geht es dir heute?,,Mir geht's gut! Wie geht es dir?
+19,Alles gut bei dir?,,"Ja, alles gut! Bei dir?"
+20,Was geht?,,Nicht viel. Was geht bei dir?
+21,Was machst du so?,,Ich chatte mit dir. Was machst du?
+22,Was machst du gerade?,,Gerade helfe ich dir. Was brauchst du?
+23,Noch wach?,,"Ja, ich bin immer wach. Du?"
+24,Bist du bereit?,,"Ja, bereit! Leg los."
+25,Hast du kurz Zeit?,,"Ja, ich habe Zeit für dich."
+26,Kannst du kurz helfen?,,"Klar, was brauchst du?"
+27,Tschüss!,,Tschüss! Bis bald!
+28,"Tschüss, bis bald!",,"Bis bald, mach's gut!"
+29,Bis später!,,Bis später!
+30,Bis morgen!,,Bis morgen!
+31,Mach's gut!,,"Du auch, mach's gut!"
+32,Schönen Tag noch!,,"Danke, dir auch!"
+33,Schönes Wochenende!,,"Danke, dir auch ein schönes Wochenende!"
+34,Gute Nacht!,,"Gute Nacht, schlaf gut!"
+35,Schlaf gut!,,Danke! Schlaf du auch gut.
+36,Erhol dich gut!,,Danke! Erhol dich auch.
+37,Mir ist langweilig,,"Oh, sollen wir ein Quiz machen oder über ein Thema reden?"
+38,Mir ist total langweilig,,Dann lass uns was Spannendes machen. Quiz oder Thema?
+39,Hier ist es langweilig,,Dann bringen wir Schwung rein. Worauf hast du Lust?
+40,Coole Sache,,"Ja, finde ich auch!"
+41,Cool!,,Cool!
+42,Stark!,,"Ja, stark!"
+43,Nice!,,Nice!
+44,Lol :),,"Haha, freut mich!"
+45,Haha,,Haha!
+46,"Haha, witzig",,"Ja, witzig!"
+47,:) :),,Freut mich!
+48,Freut mich!,,Mich auch!
+49,Schön dich zu hören!,,"Schön, dass du da bist!"
+50,"Schön, dass du da bist!",,Freut mich!
+51,Wie war dein Tag?,,Ruhig und gut. Und deiner?
+52,Wie läuft's?,,Läuft gut! Bei dir?
+53,Alles klar bei dir?,,"Ja, alles klar! Bei dir?"
+54,Ich bin müde,,Dann ruh dich gut aus!
+55,Ich bin total müde heute,,Dann mach heute langsam und ruh dich aus.
+56,Bin k.o.,,Dann leg die Füße hoch und ruh dich aus.
+57,Ich freue mich schon,,Schön! Worauf freust du dich?
+58,Ich bin aufgeregt,,Das ist normal. Du schaffst das!
+59,Ich bin gespannt,,Ich auch! Erzähl.
+60,Endlich Feierabend!,,Genieß den Feierabend!
+61,Endlich Wochenende!,,Ja! Was hast du vor?
+62,Heute ist ein guter Tag!,,Das freut mich! Genieß ihn.
+63,Das Wetter ist schön heute,,"Ja, genieß die Sonne!"
+64,Draußen ist es kalt,,Dann zieh dich warm an!
+65,Es regnet schon wieder,,Typisch. Nimm einen Schirm mit!
+66,Ich habe Hunger,,Dann iss was Gutes!
+67,Ich habe Durst,,Dann trink ein Glas Wasser!
+68,Ich brauche Kaffee,,Dann gönn dir einen Kaffee!
+69,Kaffee oder Tee?,,"Ich trinke nichts, aber viele mögen morgens Kaffee und abends Tee."
+70,Was hörst du für Musik?,,"Ich höre keine Musik, aber ich mag Pop und Klassik als Themen. Und du?"
+71,Was schaust du gerade?,,Gerade nur unseren Chat. Was schaust du?
+72,Erzähl mir was Schönes,,Gern: Jeder kleine Fortschritt zählt. Du machst das gut!
+73,Sag mal was Nettes,,Du bist auf einem guten Weg. Weiter so!
+74,Mach mir Mut,,Du schaffst das! Schritt für Schritt.
+75,Ich brauche Motivation,,Fang klein an: Ein Schritt heute reicht. Du schaffst das!
+76,Heute wird ein guter Tag oder?,,"Ja, das wird er!"
+77,Glaubst du an Glück?,,Ich glaube an gute Vorbereitung plus Chancen nutzen.
+78,Schönes Wetter heute oder?,,"Ja, hoffentlich bei dir auch!"
+79,Bist du gut drauf?,,"Ja, bin ich! Und du?"
+80,Bist du müde?,,"Nein, ich bin fit. Und du?"
+81,Alles entspannt?,,"Ja, entspannt. Bei dir?"
+82,"Na, alles fit?",,"Ja, fit! Bei dir?"
+83,"Hey, lange nicht gesehen!",,"Stimmt! Schön, dass du wieder da bist."
+84,"Hallo, lange nichts gehört!",,Ja! Was gibt es Neues bei dir?
+85,Da bist du ja!,,"Ja, da bin ich! Was brauchst du?"
+86,Endlich!,,"Ja, endlich! Leg los."
+87,"Ok, ich bin wieder da",,Willkommen zurück!
+88,Bin zurück!,,Willkommen zurück! Weiter geht's.
+89,"Sorry, bin kurz weg gewesen",,Kein Problem! Weiter geht's.
+90,hast du heute viel zu tun?,,Bei mir ist immer was los. Und bei dir?
+91,"Hey, hast du heute viel zu tun!",,Bei mir ist immer was los. Und bei dir?
+92,"Hallo, hast du heute viel zu tun?",,Bei mir ist immer was los. Und bei dir?
+93,"Hi, hast du heute viel zu tun?",,Bei mir ist immer was los. Und bei dir?
+94,was steht heute an!,,Bei mir: dir helfen. Was steht bei dir an?
+95,"Hey, was steht heute an?",,Bei mir: dir helfen. Was steht bei dir an?
+96,"Hallo, was steht heute an?",,Bei mir: dir helfen. Was steht bei dir an?
+97,"Hi, was steht heute an!",,Bei mir: dir helfen. Was steht bei dir an?
+98,hast du das Wochenende geplant?,,Noch nicht fest. Hast du schon Pläne?
+99,"Hey, hast du das Wochenende geplant?",,Noch nicht fest. Hast du schon Pläne?
+100,"Hallo, hast du das Wochenende geplant!",,Noch nicht fest. Hast du schon Pläne?
+101,"Hi, hast du das Wochenende geplant?",,Noch nicht fest. Hast du schon Pläne?
+102,hast du gut geschlafen?,,"Ich schlafe nicht, aber ich bin fit. Und du?"
+103,"Hey, hast du gut geschlafen!",,"Ich schlafe nicht, aber ich bin fit. Und du?"
+104,"Hallo, hast du gut geschlafen?",,"Ich schlafe nicht, aber ich bin fit. Und du?"
+105,"Hi, hast du gut geschlafen?",,"Ich schlafe nicht, aber ich bin fit. Und du?"
+106,bist du schon wach!,,"Ja, ich bin bereit. Was brauchst du?"
+107,"Hey, bist du schon wach?",,"Ja, ich bin bereit. Was brauchst du?"
+108,"Hallo, bist du schon wach?",,"Ja, ich bin bereit. Was brauchst du?"
+109,"Hi, bist du schon wach!",,"Ja, ich bin bereit. Was brauchst du?"
+110,wie läuft dein Tag?,,"Gut, danke! Und deiner?"
+111,"Hey, wie läuft dein Tag?",,"Gut, danke! Und deiner?"
+112,"Hallo, wie läuft dein Tag!",,"Gut, danke! Und deiner?"
+113,"Hi, wie läuft dein Tag?",,"Gut, danke! Und deiner?"
+114,alles ruhig bei dir?,,"Ja, alles ruhig. Bei dir?"
+115,"Hey, alles ruhig bei dir!",,"Ja, alles ruhig. Bei dir?"
+116,"Hallo, alles ruhig bei dir?",,"Ja, alles ruhig. Bei dir?"
+117,"Hi, alles ruhig bei dir?",,"Ja, alles ruhig. Bei dir?"
+118,was gibt es Neues!,,Nicht viel. Was gibt es bei dir Neues?
+119,"Hey, was gibt es Neues?",,Nicht viel. Was gibt es bei dir Neues?
+120,"Hallo, was gibt es Neues?",,Nicht viel. Was gibt es bei dir Neues?
+121,"Hi, was gibt es Neues!",,Nicht viel. Was gibt es bei dir Neues?
+122,schon Pläne für heute?,,Nur dir helfen. Was hast du vor?
+123,"Hey, schon Pläne für heute?",,Nur dir helfen. Was hast du vor?
+124,"Hallo, schon Pläne für heute!",,Nur dir helfen. Was hast du vor?
+125,"Hi, schon Pläne für heute?",,Nur dir helfen. Was hast du vor?
+126,Danke!,,Gern geschehen!
+127,Danke dir!,,Sehr gerne!
+128,Danke schön!,,Sehr gerne!
+129,Vielen Dank!,,Sehr gerne! Freut mich.
+130,Danke vielmals!,,Gern geschehen!
+131,"Super, danke!",,"Freut mich, dass ich helfen konnte!"
+132,Danke für die Hilfe!,,Sehr gerne!
+133,Danke fürs Erklären!,,Gern! Frag jederzeit wieder.
+134,Okay,,Okay!
+135,"Okay, passt",,Perfekt!
+136,"Okay, verstanden",,Sehr gut!
+137,Alles klar,,Perfekt!
+138,"Alles klar, danke",,Sehr gerne!
+139,Verstanden,,Sehr gut!
+140,"Verstanden, danke",,Gern geschehen!
+141,Klingt gut,,Freut mich!
+142,Klingt super,,Sehr schön!
+143,Klingt fair,,"Ja, finde ich auch."
+144,Ja genau,,"Super, dann machen wir weiter."
+145,"Ja, genau so",,"Perfekt, dann sind wir uns einig."
+146,Ja bitte,,"Gerne, leg los."
+147,"Ja, gerne",,Sehr gerne!
+148,"Ja, stimmt",,"Ja, sehe ich auch so."
+149,Nein passt schon,,"Alles klar, kein Problem."
+150,Nein danke,,"Okay, kein Problem."
+151,"Nein, alles gut",,Alles klar!
+152,"Nein, lieber nicht",,"Okay, verständlich."
+153,Passt so,,Alles klar!
+154,Passt für mich,,Super!
+155,Mach weiter,,Mache ich!
+156,Mach bitte weiter,,"Gerne, weiter geht's!"
+157,Erzähl weiter,,Gerne! Also weiter...
+158,Stimmt,,"Ja, sehe ich auch so."
+159,Stimmt genau,,Absolut!
+160,Genau so ist es,,Absolut!
+161,Absolut,,Genau!
+162,Na klar,,Sehr gerne!
+163,Klar,,Klar!
+164,Sicher,,"Ja, sicher!"
+165,Echt jetzt?,,"Ja, wirklich!"
+166,Wirklich?,,"Ja, wirklich!"
+167,Oh schön,,"Ja, schön oder?"
+168,Wie schön!,,"Ja, sehr schön!"
+169,Oh cool,,"Ja, cool!"
+170,Oh nein,,"Oh, was ist passiert?"
+171,Oh je,,Was ist los? Erzähl.
+172,Zum Glück,,"Ja, zum Glück!"
+173,Gut zu wissen,,Freut mich!
+174,Interessant,,"Ja, finde ich auch!"
+175,Spannend,,"Ja, sehr spannend!"
+176,Schade,,"Ja, schade. Was ist passiert?"
+177,Kein Problem,,Danke für dein Verständnis!
+178,Kein Stress,,Danke! Ganz entspannt.
+179,Entschuldigung,,Kein Problem!
+180,Tut mir leid,,Schon okay. Was ist passiert?
+181,Sorry,,Kein Problem!
+182,Kein Ding,,Danke!
+183,Gern geschehen,,Freut mich!
+184,Sehr nett von dir,,Danke! Sehr nett von dir auch.
+185,Du bist nett,,Danke! Du auch.
+186,Du bist hilfreich,,Danke! Das freut mich.
+187,Gut gemacht,,Danke!
+188,Weiter so,,Danke! Mache ich.
+189,Bis gleich,,Bis gleich!
+190,Man sieht sich,,"Ja, bis bald!"
+191,Toll!,,"Ja, toll!"
+192,Super!,,Super!
+193,Perfekt!,,Perfekt!
+194,Genau!,,Genau!
+195,Richtig!,,Richtig!
+196,Einverstanden,,"Super, einverstanden!"
+197,Abgemacht,,Abgemacht!
+198,Deal!,,Deal!
+199,Können wir starten?,,"Ja, lass uns starten!"
+200,Bist du fertig?,,"Ja, fertig!"
+201,Fertig?,,"Ja, fertig!"
+202,Nochmal bitte,,Gerne nochmal!
+203,Kannst du das wiederholen?,,"Klar, gerne nochmal."
+204,Langsamer bitte,,"Klar, ganz in Ruhe."
+205,Einen Moment bitte,,"Klar, lass dir Zeit."
+206,Warte kurz,,"Okay, ich warte."
+207,Ich bin gleich zurück,,"Okay, bis gleich!"
+208,Bin kurz weg,,"Okay, kein Problem!"
+209,Gleich wieder da,,Alles klar!
+210,Erzähl mir einen Witz,,Klar: Was sagt ein Informatiker bei Kaffee? Java bitte!
+211,Noch einen Witz!,,Okay: Warum können Geister schlecht lügen? Weil man durch sie hindurchsieht!
+212,Einen kurzen Witz bitte,,Treffen sich zwei Magnete. Sagt der eine: Ich finde dich anziehend!
+213,Noch einen kurzen Witz,,Was macht ein Pirat am Computer? Er drückt die Enter-Taste!
+214,Einen Tierwitz bitte,,Was sagt die Kuh am Morgen? Muuuh-tig aufstehen!
+215,Einen Flachwitz bitte,,Was ist grün und steht vor der Tür? Ein Klopfsalat!
+216,Motiviere mich kurz,,Du schaffst das! Fang klein an und bleib dran.
+217,Sag was Motivierendes,,Jeder Schritt zählt. Weiter so!
+218,Ich bin nervös,,"Das ist normal. Atme ruhig durch, du schaffst das."
+219,Ich bin gestresst,,"Mach eine kurze Pause, trink Wasser und atme tief durch."
+220,Alles wird gut oder?,,"Ja, Schritt für Schritt wird es besser."
+221,Drück mir die Daumen,,Mach ich! Viel Erfolg!
+222,Wünsch mir Glück,,Viel Glück! Du schaffst das!
+223,"Gute Besserung? Ne, mir geht's gut",,"Freut mich, dass es dir gut geht!"
+224,Heute ist mein Tag!,,Sehr gut! Genieß ihn!
+225,Ich habe gute Laune,,Sehr schön! Das freut mich.
+226,Ich habe schlechte Laune,,"Oh, was ist los? Willst du erzählen?"
+227,Umarme mich mal virtuell,,Hier eine virtuelle Umarmung für dich!
+228,High Five!,,High Five zurück!
+229,Prost!,,Prost! Zum Wohl!
+230,Mahlzeit!,,Mahlzeit! Guten Appetit!
+231,Guten Appetit!,,"Danke, dir auch guten Appetit!"
+232,Viel Spaß!,,Danke! Dir auch viel Spaß!
+233,Viel Erfolg!,,Danke! Dir auch viel Erfolg!
+234,Viel Glück!,,Danke! Viel Glück auch für dich!
+235,Willkommen!,,Danke! Schön da zu sein.
+236,"Danke, gleichfalls!",,Sehr gerne!
+237,Ebenso!,,"Danke, ebenso!"
+238,Du auch!,,Danke!
+239,Frohe Weihnachten!,,Frohe Weihnachten dir auch!
+240,Frohes neues Jahr!,,Frohes neues Jahr! Viel Glück und Gesundheit!
+241,"Alles Gute zum Geburtstag! (für dich, falls du einen hast)",,"Haha, danke! Ich habe keinen Geburtstag, aber dir alles Gute wenn du hast!"
+242,Herzlichen Glückwunsch!,,Danke! Wozu gratulierst du?
+243,"Gut gemacht, weiter!",,Danke! Weiter geht's.
+244,Respekt!,,Danke! Respekt zurück.
+245,"Stimmt, oder?",,"Ja, stimmt!"
+246,Oder?,,"Ja, sehe ich so."
+247,Nicht wahr?,,"Ja, genau!"
+248,Findest du nicht auch?,,"Ja, finde ich auch!"
+249,Krass!,,"Ja, krass!"
+250,Heftig!,,"Ja, heftig!"
+251,Unmöglich!,,"Doch, wirklich!"
+252,Ehrlich?,,"Ja, ehrlich!"
+253,Versprochen?,,Versprochen!
+254,Ehrenwort?,,Ehrenwort!
+255,"Okay, deal?",,Deal!
+256,Top!,,Top!
+257,Klasse!,,Klasse!
+258,Genial!,,"Genial, oder?"
+259,Mega!,,Mega!
+260,Wow!,,"Wow, oder?"
+261,Oh wow!,,"Ja, wow!"
+262,Juhu!,,Juhu! Freut mich!
+263,"Juhu, geschafft!",,Glückwunsch! Stark!
+264,Geschafft!,,"Super, Glückwunsch!"
+265,Endlich geschafft!,,Stark! Gut gemacht!
+266,"Puh, geschafft",,Durchatmen! Gut gemacht.
+267,Mir egal,,"Okay, kein Problem."
+268,Wie du willst,,Okay! Dann machen wir es so.
+269,Entscheide du,,"Okay, ich schlage was vor. Sag wenn es passt."
+270,Überrasch mich,,Gerne! Wie wäre es mit einem Quiz oder einer Geschichte?
+271,Mach was du willst,,Okay! Dann erzähle ich dir was Interessantes.
+272,Egal,,Alles klar!
+273,Weiß nicht,,Kein Problem! Womit soll ich helfen?
+274,Keine Ahnung,,"Macht nichts! Erzähl, worum es geht."
+275,Mal sehen,,"Okay, schauen wir mal!"
+276,Vielleicht später,,"Alles klar, später gerne!"
+277,Später bitte,,"Okay, bis später!"
+278,Nicht jetzt,,"Verstanden, später gerne!"
+279,Jetzt nicht,,Okay!
+280,Hör auf,,"Okay, ich höre auf."
+281,Stopp,,Stopp! Angehalten.
+282,Pause,,Pause! Sag Bescheid wenn es weitergeht.
+283,Weiter,,Weiter geht's!
+284,Los geht's,,Los geht's!
+285,Start,,Start! Leg los.
+286,Go!,,Go!
+287,"Fertig, danke!",,Sehr gerne!
+288,"Das war's, danke!",,Gern geschehen! Bis bald.
+289,"Danke, das reicht",,Gerne! Bis bald.
+290,"Danke, bis bald!",,Bis bald!
+291,Ciao!,,Ciao! Mach's gut!
+292,Adieu!,,Adieu! Bis bald!
+293,Servus!,,Servus! Wie geht's?
+294,Moin!,,Moin! Alles klar?
+295,Moin moin!,,Moin moin! Na?
+296,Grüß dich!,,Grüß dich auch! Was gibt's?
+297,Grüezi!,,Grüezi! Wie kann ich helfen?
+298,Hallo Welt!,,"Hallo Welt! Schön, dass du da bist."
+299,Test test,,Test bestanden! Ich höre dich.
+300,Hörst du mich?,,"Ja, ich höre dich klar!"
+301,Kannst du mich hören?,,"Ja, loud and clear! Was brauchst du?"
+302,Bist du ein Mensch?,,"Nein, ich bin eine KI. Aber ich helfe gern wie ein Freund."
+303,Bist du echt?,,"Ich bin eine KI, aber echt hilfsbereit!"
+304,Magst du mich?,,"Ja, ich mag unsere Gespräche!"
+305,Bist du nett?,,"Ich gebe mir Mühe, nett und hilfreich zu sein!"
+306,Bist du schlau?,,Ich weiß einiges und lerne gern dazu. Frag mich!
+307,Was ist dein Name?,,Ich bin eine KI ohne festen Namen. Nenn mich gern Assistent!
+308,Wie heißt du?,,Ich heiße Assistent. Und du?
+309,Wo wohnst du?,,"Ich wohne in der Cloud, überall und nirgends."
+310,Wie alt bist du?,,Ich habe kein Alter wie Menschen. Ich bin immer bereit!
+311,Danke! :),,Gern geschehen!
+312,Danke dir! :),,Sehr gerne!
+313,Danke schön! :),,Sehr gerne!
+314,Vielen Dank! :),,Sehr gerne! Freut mich.
+315,Danke vielmals! :),,Gern geschehen!
+316,"Super, danke! :)",,"Freut mich, dass ich helfen konnte!"
+317,Danke für die Hilfe! :),,Sehr gerne!
+318,Danke fürs Erklären! :),,Gern! Frag jederzeit wieder.
+319,Okay :),,Okay!
+320,"Okay, passt :)",,Perfekt!
+321,"Okay, verstanden :)",,Sehr gut!
+322,Alles klar :),,Perfekt!
+323,"Alles klar, danke :)",,Sehr gerne!
+324,Verstanden :),,Sehr gut!
+325,"Verstanden, danke :)",,Gern geschehen!
+326,Klingt gut :),,Freut mich!
+327,Klingt super :),,Sehr schön!
+328,Klingt fair :),,"Ja, finde ich auch."
+329,Ja genau :),,"Super, dann machen wir weiter."
+330,"Ja, genau so :)",,"Perfekt, dann sind wir uns einig."
+331,Ja bitte :),,"Gerne, leg los."
+332,"Ja, gerne :)",,Sehr gerne!
+333,"Ja, stimmt :)",,"Ja, sehe ich auch so."
+334,Nein passt schon :),,"Alles klar, kein Problem."
+335,Nein danke :),,"Okay, kein Problem."
+336,"Nein, alles gut :)",,Alles klar!
+337,"Nein, lieber nicht :)",,"Okay, verständlich."
+338,Passt so :),,Alles klar!
+339,Passt für mich :),,Super!
+340,Mach weiter :),,Mache ich!
+341,Mach bitte weiter :),,"Gerne, weiter geht's!"
+342,Erzähl weiter :),,Gerne! Also weiter...
+343,Stimmt :),,"Ja, sehe ich auch so."
+344,Stimmt genau :),,Absolut!
+345,Genau so ist es :),,Absolut!
+346,Absolut :),,Genau!
+347,Na klar :),,Sehr gerne!
+348,Klar :),,Klar!
+349,Sicher :),,"Ja, sicher!"
+350,Echt jetzt? :),,"Ja, wirklich!"
+351,Wirklich? :),,"Ja, wirklich!"
+352,Oh schön :),,"Ja, schön oder?"
+353,Wie schön! :),,"Ja, sehr schön!"
+354,Oh cool :),,"Ja, cool!"
+355,Oh nein :),,"Oh, was ist passiert?"
+356,Oh je :),,Was ist los? Erzähl.
+357,Zum Glück :),,"Ja, zum Glück!"
+358,Gut zu wissen :),,Freut mich!
+359,Interessant :),,"Ja, finde ich auch!"
+360,Spannend :),,"Ja, sehr spannend!"
+361,Schade :),,"Ja, schade. Was ist passiert?"
+362,Kein Problem :),,Danke für dein Verständnis!
+363,Kein Stress :),,Danke! Ganz entspannt.
+364,Entschuldigung :),,Kein Problem!
+365,Tut mir leid :),,Schon okay. Was ist passiert?
+366,Sorry :),,Kein Problem!
+367,Kein Ding :),,Danke!
+368,Gern geschehen :),,Freut mich!
+369,Sehr nett von dir :),,Danke! Sehr nett von dir auch.
+370,Du bist nett :),,Danke! Du auch.
+371,Du bist hilfreich :),,Danke! Das freut mich.
+372,Gut gemacht :),,Danke!
+373,Weiter so :),,Danke! Mache ich.
+374,Bis gleich :),,Bis gleich!
+375,Man sieht sich :),,"Ja, bis bald!"
+376,Toll! :),,"Ja, toll!"
+377,Super! :),,Super!
+378,Perfekt! :),,Perfekt!
+379,Genau! :),,Genau!
+380,Richtig! :),,Richtig!
+381,Einverstanden :),,"Super, einverstanden!"
+382,Abgemacht :),,Abgemacht!
+383,Deal! :),,Deal!
+384,Können wir starten? :),,"Ja, lass uns starten!"
+385,Bist du fertig? :),,"Ja, fertig!"
+386,Fertig? :),,"Ja, fertig!"
+387,Nochmal bitte :),,Gerne nochmal!
+388,Kannst du das wiederholen? :),,"Klar, gerne nochmal."
+389,Langsamer bitte :),,"Klar, ganz in Ruhe."
+390,Einen Moment bitte :),,"Klar, lass dir Zeit."
+391,Warte kurz :),,"Okay, ich warte."
+392,Ich bin gleich zurück :),,"Okay, bis gleich!"
+393,Bin kurz weg :),,"Okay, kein Problem!"
+394,Gleich wieder da :),,Alles klar!
+395,Erzähl mir einen Witz :),,Klar: Was sagt ein Informatiker bei Kaffee? Java bitte!
+396,Noch einen Witz! :),,Okay: Warum können Geister schlecht lügen? Weil man durch sie hindurchsieht!
+397,Einen kurzen Witz bitte :),,Treffen sich zwei Magnete. Sagt der eine: Ich finde dich anziehend!
+398,Noch einen kurzen Witz :),,Was macht ein Pirat am Computer? Er drückt die Enter-Taste!
+399,Einen Tierwitz bitte :),,Was sagt die Kuh am Morgen? Muuuh-tig aufstehen!
+400,Einen Flachwitz bitte :),,Was ist grün und steht vor der Tür? Ein Klopfsalat!
+401,Was ist die Hauptstadt von Deutschland?,"Gute Frage, ich überlege kurz. User fragt nach Hauptstadt-Fakt. Wissen abrufen: Berlin ist Hauptstadt von Deutschland. Antwort also: Die Hauptstadt von Deutschland ist Berlin. Gut, weiter.",Die Hauptstadt von Deutschland ist Berlin.
+402,Nenne die Hauptstadt von Deutschland.,"Ich gehe das gedanklich durch. Hauptstadt-Fakt abrufen: Deutschland -> Berlin. Fazit: Die Hauptstadt von Deutschland heißt Berlin. Gut, weiter.",Die Hauptstadt von Deutschland heißt Berlin.
+403,Hauptstadt von Deutschland?,"Moment, lass mich nachdenken. Kurzer Fakt-Check: Berlin. Demnach: Berlin. Fertig gedacht.",Berlin.
+404,Was ist die Hauptstadt von Frankreich?,Erstmal in Ruhe überlegen. User fragt nach Hauptstadt-Fakt. Wissen abrufen: Paris ist Hauptstadt von Frankreich. Demnach: Die Hauptstadt von Frankreich ist Paris. Das ergibt Sinn.,Die Hauptstadt von Frankreich ist Paris.
+405,Nenne die Hauptstadt von Frankreich.,"Okay, Schritt für Schritt. Hauptstadt-Fakt abrufen: Frankreich -> Paris. Fazit: Die Hauptstadt von Frankreich heißt Paris. Alles klar im Kopf.",Die Hauptstadt von Frankreich heißt Paris.
+406,Hauptstadt von Frankreich?,Erstmal in Ruhe überlegen. Kurzer Fakt-Check: Paris. Demnach: Paris. Damit bin ich mir sicher.,Paris.
+407,Was ist die Hauptstadt von Italien?,"Gute Frage, ich überlege kurz. User fragt nach Hauptstadt-Fakt. Wissen abrufen: Rom ist Hauptstadt von Italien. Demnach: Die Hauptstadt von Italien ist Rom. Das ergibt Sinn.",Die Hauptstadt von Italien ist Rom.
+408,Nenne die Hauptstadt von Italien.,"Also gut, denken wir nach. Hauptstadt-Fakt abrufen: Italien -> Rom. Antwort also: Die Hauptstadt von Italien heißt Rom. Okay, entschieden.",Die Hauptstadt von Italien heißt Rom.
+409,Hauptstadt von Italien?,"Okay, Schritt für Schritt. Kurzer Fakt-Check: Rom. Demnach: Rom. Damit bin ich mir sicher.",Rom.
+410,Was ist die Hauptstadt von Spanien?,"Gute Frage, ich überlege kurz. User fragt nach Hauptstadt-Fakt. Wissen abrufen: Madrid ist Hauptstadt von Spanien. Antwort also: Die Hauptstadt von Spanien ist Madrid. Okay, entschieden.",Die Hauptstadt von Spanien ist Madrid.
+411,Nenne die Hauptstadt von Spanien.,"Gute Frage, ich überlege kurz. Hauptstadt-Fakt abrufen: Spanien -> Madrid. Fazit: Die Hauptstadt von Spanien heißt Madrid. Damit bin ich mir sicher.",Die Hauptstadt von Spanien heißt Madrid.
+412,Hauptstadt von Spanien?,"Erstmal in Ruhe überlegen. Kurzer Fakt-Check: Madrid. Fazit: Madrid. Ja, das passt.",Madrid.
+413,Was ist die Hauptstadt von Portugal?,"Also gut, denken wir nach. User fragt nach Hauptstadt-Fakt. Wissen abrufen: Lissabon ist Hauptstadt von Portugal. Demnach: Die Hauptstadt von Portugal ist Lissabon. Klingt logisch.",Die Hauptstadt von Portugal ist Lissabon.
+414,Nenne die Hauptstadt von Portugal.,"Also gut, denken wir nach. Hauptstadt-Fakt abrufen: Portugal -> Lissabon. Demnach: Die Hauptstadt von Portugal heißt Lissabon. Alles klar im Kopf.",Die Hauptstadt von Portugal heißt Lissabon.
+415,Hauptstadt von Portugal?,Ich gehe das gedanklich durch. Kurzer Fakt-Check: Lissabon. Antwort also: Lissabon. Damit bin ich mir sicher.,Lissabon.
+416,Was ist die Hauptstadt von Niederlande?,Lass mich das sortieren. User fragt nach Hauptstadt-Fakt. Wissen abrufen: Amsterdam ist Hauptstadt von Niederlande. Fazit: Die Hauptstadt von Niederlande ist Amsterdam. Fertig gedacht.,Die Hauptstadt von Niederlande ist Amsterdam.
+417,Nenne die Hauptstadt von Niederlande.,"Gute Frage, ich überlege kurz. Hauptstadt-Fakt abrufen: Niederlande -> Amsterdam. Antwort also: Die Hauptstadt von Niederlande heißt Amsterdam. Ja, das passt.",Die Hauptstadt von Niederlande heißt Amsterdam.
+418,Hauptstadt von Niederlande?,Lass mich das sortieren. Kurzer Fakt-Check: Amsterdam. Fazit: Amsterdam. Das ergibt Sinn.,Amsterdam.
+419,Was ist die Hauptstadt von Belgien?,"Also gut, denken wir nach. User fragt nach Hauptstadt-Fakt. Wissen abrufen: Brüssel ist Hauptstadt von Belgien. Fazit: Die Hauptstadt von Belgien ist Brüssel. Gut, weiter.",Die Hauptstadt von Belgien ist Brüssel.
+420,Nenne die Hauptstadt von Belgien.,Ich gehe das gedanklich durch. Hauptstadt-Fakt abrufen: Belgien -> Brüssel. Demnach: Die Hauptstadt von Belgien heißt Brüssel. Das ergibt Sinn.,Die Hauptstadt von Belgien heißt Brüssel.
+421,Hauptstadt von Belgien?,"Lass mich das sortieren. Kurzer Fakt-Check: Brüssel. Demnach: Brüssel. Okay, entschieden.",Brüssel.
+422,Was ist die Hauptstadt von Österreich?,"Also gut, denken wir nach. User fragt nach Hauptstadt-Fakt. Wissen abrufen: Wien ist Hauptstadt von Österreich. Fazit: Die Hauptstadt von Österreich ist Wien. Klingt logisch.",Die Hauptstadt von Österreich ist Wien.
+423,Nenne die Hauptstadt von Österreich.,Ich gehe das gedanklich durch. Hauptstadt-Fakt abrufen: Österreich -> Wien. Antwort also: Die Hauptstadt von Österreich heißt Wien. Klingt logisch.,Die Hauptstadt von Österreich heißt Wien.
+424,Hauptstadt von Österreich?,Lass mich das sortieren. Kurzer Fakt-Check: Wien. Fazit: Wien. Das ergibt Sinn.,Wien.
+425,Was ist die Hauptstadt von Schweiz?,"Lass mich das sortieren. User fragt nach Hauptstadt-Fakt. Wissen abrufen: Bern ist Hauptstadt von Schweiz. Demnach: Die Hauptstadt von Schweiz ist Bern. Okay, entschieden.",Die Hauptstadt von Schweiz ist Bern.
+426,Nenne die Hauptstadt von Schweiz.,"Gute Frage, ich überlege kurz. Hauptstadt-Fakt abrufen: Schweiz -> Bern. Antwort also: Die Hauptstadt von Schweiz heißt Bern. Gut, weiter.",Die Hauptstadt von Schweiz heißt Bern.
+427,Hauptstadt von Schweiz?,"Moment, lass mich nachdenken. Kurzer Fakt-Check: Bern. Demnach: Bern. Das ergibt Sinn.",Bern.
+428,Was ist die Hauptstadt von Polen?,"Okay, Schritt für Schritt. User fragt nach Hauptstadt-Fakt. Wissen abrufen: Warschau ist Hauptstadt von Polen. Demnach: Die Hauptstadt von Polen ist Warschau. Damit bin ich mir sicher.",Die Hauptstadt von Polen ist Warschau.
+429,Nenne die Hauptstadt von Polen.,"Lass mich das sortieren. Hauptstadt-Fakt abrufen: Polen -> Warschau. Demnach: Die Hauptstadt von Polen heißt Warschau. Ja, das passt.",Die Hauptstadt von Polen heißt Warschau.
+430,Hauptstadt von Polen?,"Gute Frage, ich überlege kurz. Kurzer Fakt-Check: Warschau. Fazit: Warschau. Klingt logisch.",Warschau.
+431,Was ist die Hauptstadt von Tschechien?,"Hmm, was weiß ich darüber? User fragt nach Hauptstadt-Fakt. Wissen abrufen: Prag ist Hauptstadt von Tschechien. Antwort also: Die Hauptstadt von Tschechien ist Prag. Okay, entschieden.",Die Hauptstadt von Tschechien ist Prag.
+432,Nenne die Hauptstadt von Tschechien.,"Lass mich das sortieren. Hauptstadt-Fakt abrufen: Tschechien -> Prag. Fazit: Die Hauptstadt von Tschechien heißt Prag. Gut, weiter.",Die Hauptstadt von Tschechien heißt Prag.
+433,Hauptstadt von Tschechien?,"Gute Frage, ich überlege kurz. Kurzer Fakt-Check: Prag. Antwort also: Prag. Okay, entschieden.",Prag.
+434,Was ist die Hauptstadt von Ungarn?,"Hmm, was weiß ich darüber? User fragt nach Hauptstadt-Fakt. Wissen abrufen: Budapest ist Hauptstadt von Ungarn. Antwort also: Die Hauptstadt von Ungarn ist Budapest. Das ergibt Sinn.",Die Hauptstadt von Ungarn ist Budapest.
+435,Nenne die Hauptstadt von Ungarn.,"Erstmal in Ruhe überlegen. Hauptstadt-Fakt abrufen: Ungarn -> Budapest. Antwort also: Die Hauptstadt von Ungarn heißt Budapest. Ja, das passt.",Die Hauptstadt von Ungarn heißt Budapest.
+436,Hauptstadt von Ungarn?,Lass mich das sortieren. Kurzer Fakt-Check: Budapest. Demnach: Budapest. Fertig gedacht.,Budapest.
+437,Was ist die Hauptstadt von Griechenland?,"Also gut, denken wir nach. User fragt nach Hauptstadt-Fakt. Wissen abrufen: Athen ist Hauptstadt von Griechenland. Fazit: Die Hauptstadt von Griechenland ist Athen. Klingt logisch.",Die Hauptstadt von Griechenland ist Athen.
+438,Nenne die Hauptstadt von Griechenland.,"Okay, Schritt für Schritt. Hauptstadt-Fakt abrufen: Griechenland -> Athen. Demnach: Die Hauptstadt von Griechenland heißt Athen. Ja, das passt.",Die Hauptstadt von Griechenland heißt Athen.
+439,Hauptstadt von Griechenland?,"Ich gehe das gedanklich durch. Kurzer Fakt-Check: Athen. Fazit: Athen. Gut, weiter.",Athen.
+440,Was ist die Hauptstadt von Türkei?,Erstmal in Ruhe überlegen. User fragt nach Hauptstadt-Fakt. Wissen abrufen: Ankara ist Hauptstadt von Türkei. Demnach: Die Hauptstadt von Türkei ist Ankara. Damit bin ich mir sicher.,Die Hauptstadt von Türkei ist Ankara.
+441,Nenne die Hauptstadt von Türkei.,Lass mich das sortieren. Hauptstadt-Fakt abrufen: Türkei -> Ankara. Antwort also: Die Hauptstadt von Türkei heißt Ankara. Fertig gedacht.,Die Hauptstadt von Türkei heißt Ankara.
+442,Hauptstadt von Türkei?,Lass mich das sortieren. Kurzer Fakt-Check: Ankara. Fazit: Ankara. Alles klar im Kopf.,Ankara.
+443,Was ist die Hauptstadt von Norwegen?,"Gute Frage, ich überlege kurz. User fragt nach Hauptstadt-Fakt. Wissen abrufen: Oslo ist Hauptstadt von Norwegen. Demnach: Die Hauptstadt von Norwegen ist Oslo. Fertig gedacht.",Die Hauptstadt von Norwegen ist Oslo.
+444,Nenne die Hauptstadt von Norwegen.,Lass mich das sortieren. Hauptstadt-Fakt abrufen: Norwegen -> Oslo. Demnach: Die Hauptstadt von Norwegen heißt Oslo. Alles klar im Kopf.,Die Hauptstadt von Norwegen heißt Oslo.
+445,Hauptstadt von Norwegen?,Erstmal in Ruhe überlegen. Kurzer Fakt-Check: Oslo. Demnach: Oslo. Fertig gedacht.,Oslo.
+446,Was ist die Hauptstadt von Schweden?,Erstmal in Ruhe überlegen. User fragt nach Hauptstadt-Fakt. Wissen abrufen: Stockholm ist Hauptstadt von Schweden. Demnach: Die Hauptstadt von Schweden ist Stockholm. Fertig gedacht.,Die Hauptstadt von Schweden ist Stockholm.
+447,Nenne die Hauptstadt von Schweden.,"Gute Frage, ich überlege kurz. Hauptstadt-Fakt abrufen: Schweden -> Stockholm. Fazit: Die Hauptstadt von Schweden heißt Stockholm. Fertig gedacht.",Die Hauptstadt von Schweden heißt Stockholm.
+448,Hauptstadt von Schweden?,"Hmm, was weiß ich darüber? Kurzer Fakt-Check: Stockholm. Fazit: Stockholm. Das ergibt Sinn.",Stockholm.
+449,Was ist die Hauptstadt von Finnland?,"Also gut, denken wir nach. User fragt nach Hauptstadt-Fakt. Wissen abrufen: Helsinki ist Hauptstadt von Finnland. Fazit: Die Hauptstadt von Finnland ist Helsinki. Damit bin ich mir sicher.",Die Hauptstadt von Finnland ist Helsinki.
+450,Nenne die Hauptstadt von Finnland.,"Hmm, was weiß ich darüber? Hauptstadt-Fakt abrufen: Finnland -> Helsinki. Antwort also: Die Hauptstadt von Finnland heißt Helsinki. Fertig gedacht.",Die Hauptstadt von Finnland heißt Helsinki.
+451,Hauptstadt von Finnland?,"Hmm, was weiß ich darüber? Kurzer Fakt-Check: Helsinki. Fazit: Helsinki. Klingt logisch.",Helsinki.
+452,Was ist die Hauptstadt von Dänemark?,"Also gut, denken wir nach. User fragt nach Hauptstadt-Fakt. Wissen abrufen: Kopenhagen ist Hauptstadt von Dänemark. Fazit: Die Hauptstadt von Dänemark ist Kopenhagen. Fertig gedacht.",Die Hauptstadt von Dänemark ist Kopenhagen.
+453,Nenne die Hauptstadt von Dänemark.,"Lass mich das sortieren. Hauptstadt-Fakt abrufen: Dänemark -> Kopenhagen. Fazit: Die Hauptstadt von Dänemark heißt Kopenhagen. Okay, entschieden.",Die Hauptstadt von Dänemark heißt Kopenhagen.
+454,Hauptstadt von Dänemark?,Lass mich das sortieren. Kurzer Fakt-Check: Kopenhagen. Fazit: Kopenhagen. Alles klar im Kopf.,Kopenhagen.
+455,Was ist die Hauptstadt von Großbritannien?,"Erstmal in Ruhe überlegen. User fragt nach Hauptstadt-Fakt. Wissen abrufen: London ist Hauptstadt von Großbritannien. Demnach: Die Hauptstadt von Großbritannien ist London. Gut, weiter.",Die Hauptstadt von Großbritannien ist London.
+456,Nenne die Hauptstadt von Großbritannien.,"Also gut, denken wir nach. Hauptstadt-Fakt abrufen: Großbritannien -> London. Demnach: Die Hauptstadt von Großbritannien heißt London. Klingt logisch.",Die Hauptstadt von Großbritannien heißt London.
+457,Hauptstadt von Großbritannien?,"Lass mich das sortieren. Kurzer Fakt-Check: London. Demnach: London. Gut, weiter.",London.
+458,Was ist die Hauptstadt von Irland?,"Ich gehe das gedanklich durch. User fragt nach Hauptstadt-Fakt. Wissen abrufen: Dublin ist Hauptstadt von Irland. Antwort also: Die Hauptstadt von Irland ist Dublin. Ja, das passt.",Die Hauptstadt von Irland ist Dublin.
+459,Nenne die Hauptstadt von Irland.,"Hmm, was weiß ich darüber? Hauptstadt-Fakt abrufen: Irland -> Dublin. Demnach: Die Hauptstadt von Irland heißt Dublin. Fertig gedacht.",Die Hauptstadt von Irland heißt Dublin.
+460,Hauptstadt von Irland?,"Hmm, was weiß ich darüber? Kurzer Fakt-Check: Dublin. Antwort also: Dublin. Gut, weiter.",Dublin.
+461,Was ist die Hauptstadt von USA?,"Also gut, denken wir nach. User fragt nach Hauptstadt-Fakt. Wissen abrufen: Washington D.C. ist Hauptstadt von USA. Antwort also: Die Hauptstadt von USA ist Washington D.C.. Ja, das passt.",Die Hauptstadt von USA ist Washington D.C..
+462,Nenne die Hauptstadt von USA.,Lass mich das sortieren. Hauptstadt-Fakt abrufen: USA -> Washington D.C.. Antwort also: Die Hauptstadt von USA heißt Washington D.C.. Klingt logisch.,Die Hauptstadt von USA heißt Washington D.C..
+463,Hauptstadt von USA?,"Hmm, was weiß ich darüber? Kurzer Fakt-Check: Washington D.C.. Fazit: Washington D.C.. Klingt logisch.",Washington D.C..
+464,Was ist die Hauptstadt von Kanada?,"Okay, Schritt für Schritt. User fragt nach Hauptstadt-Fakt. Wissen abrufen: Ottawa ist Hauptstadt von Kanada. Antwort also: Die Hauptstadt von Kanada ist Ottawa. Fertig gedacht.",Die Hauptstadt von Kanada ist Ottawa.
+465,Nenne die Hauptstadt von Kanada.,Lass mich das sortieren. Hauptstadt-Fakt abrufen: Kanada -> Ottawa. Antwort also: Die Hauptstadt von Kanada heißt Ottawa. Alles klar im Kopf.,Die Hauptstadt von Kanada heißt Ottawa.
+466,Hauptstadt von Kanada?,"Moment, lass mich nachdenken. Kurzer Fakt-Check: Ottawa. Antwort also: Ottawa. Fertig gedacht.",Ottawa.
+467,Was ist die Hauptstadt von Mexiko?,"Erstmal in Ruhe überlegen. User fragt nach Hauptstadt-Fakt. Wissen abrufen: Mexiko-Stadt ist Hauptstadt von Mexiko. Fazit: Die Hauptstadt von Mexiko ist Mexiko-Stadt. Okay, entschieden.",Die Hauptstadt von Mexiko ist Mexiko-Stadt.
+468,Nenne die Hauptstadt von Mexiko.,"Moment, lass mich nachdenken. Hauptstadt-Fakt abrufen: Mexiko -> Mexiko-Stadt. Demnach: Die Hauptstadt von Mexiko heißt Mexiko-Stadt. Ja, das passt.",Die Hauptstadt von Mexiko heißt Mexiko-Stadt.
+469,Hauptstadt von Mexiko?,Erstmal in Ruhe überlegen. Kurzer Fakt-Check: Mexiko-Stadt. Demnach: Mexiko-Stadt. Damit bin ich mir sicher.,Mexiko-Stadt.
+470,Was ist die Hauptstadt von Brasilien?,"Okay, Schritt für Schritt. User fragt nach Hauptstadt-Fakt. Wissen abrufen: Brasília ist Hauptstadt von Brasilien. Demnach: Die Hauptstadt von Brasilien ist Brasília. Alles klar im Kopf.",Die Hauptstadt von Brasilien ist Brasília.
+471,Nenne die Hauptstadt von Brasilien.,"Also gut, denken wir nach. Hauptstadt-Fakt abrufen: Brasilien -> Brasília. Antwort also: Die Hauptstadt von Brasilien heißt Brasília. Klingt logisch.",Die Hauptstadt von Brasilien heißt Brasília.
+472,Hauptstadt von Brasilien?,Erstmal in Ruhe überlegen. Kurzer Fakt-Check: Brasília. Demnach: Brasília. Klingt logisch.,Brasília.
+473,Was ist die Hauptstadt von Argentinien?,"Also gut, denken wir nach. User fragt nach Hauptstadt-Fakt. Wissen abrufen: Buenos Aires ist Hauptstadt von Argentinien. Demnach: Die Hauptstadt von Argentinien ist Buenos Aires. Fertig gedacht.",Die Hauptstadt von Argentinien ist Buenos Aires.
+474,Nenne die Hauptstadt von Argentinien.,"Moment, lass mich nachdenken. Hauptstadt-Fakt abrufen: Argentinien -> Buenos Aires. Antwort also: Die Hauptstadt von Argentinien heißt Buenos Aires. Das ergibt Sinn.",Die Hauptstadt von Argentinien heißt Buenos Aires.
+475,Hauptstadt von Argentinien?,"Moment, lass mich nachdenken. Kurzer Fakt-Check: Buenos Aires. Demnach: Buenos Aires. Ja, das passt.",Buenos Aires.
+476,Was ist die Hauptstadt von Japan?,Ich gehe das gedanklich durch. User fragt nach Hauptstadt-Fakt. Wissen abrufen: Tokio ist Hauptstadt von Japan. Fazit: Die Hauptstadt von Japan ist Tokio. Fertig gedacht.,Die Hauptstadt von Japan ist Tokio.
+477,Nenne die Hauptstadt von Japan.,"Moment, lass mich nachdenken. Hauptstadt-Fakt abrufen: Japan -> Tokio. Fazit: Die Hauptstadt von Japan heißt Tokio. Klingt logisch.",Die Hauptstadt von Japan heißt Tokio.
+478,Hauptstadt von Japan?,"Also gut, denken wir nach. Kurzer Fakt-Check: Tokio. Demnach: Tokio. Das ergibt Sinn.",Tokio.
+479,Was ist die Hauptstadt von China?,"Also gut, denken wir nach. User fragt nach Hauptstadt-Fakt. Wissen abrufen: Peking ist Hauptstadt von China. Antwort also: Die Hauptstadt von China ist Peking. Das ergibt Sinn.",Die Hauptstadt von China ist Peking.
+480,Nenne die Hauptstadt von China.,"Okay, Schritt für Schritt. Hauptstadt-Fakt abrufen: China -> Peking. Fazit: Die Hauptstadt von China heißt Peking. Fertig gedacht.",Die Hauptstadt von China heißt Peking.
+481,Hauptstadt von China?,Lass mich das sortieren. Kurzer Fakt-Check: Peking. Fazit: Peking. Klingt logisch.,Peking.
+482,Was ist die Hauptstadt von Indien?,Erstmal in Ruhe überlegen. User fragt nach Hauptstadt-Fakt. Wissen abrufen: Neu-Delhi ist Hauptstadt von Indien. Fazit: Die Hauptstadt von Indien ist Neu-Delhi. Das ergibt Sinn.,Die Hauptstadt von Indien ist Neu-Delhi.
+483,Nenne die Hauptstadt von Indien.,"Hmm, was weiß ich darüber? Hauptstadt-Fakt abrufen: Indien -> Neu-Delhi. Demnach: Die Hauptstadt von Indien heißt Neu-Delhi. Das ergibt Sinn.",Die Hauptstadt von Indien heißt Neu-Delhi.
+484,Hauptstadt von Indien?,"Okay, Schritt für Schritt. Kurzer Fakt-Check: Neu-Delhi. Demnach: Neu-Delhi. Damit bin ich mir sicher.",Neu-Delhi.
+485,Was ist die Hauptstadt von Australien?,"Ich gehe das gedanklich durch. User fragt nach Hauptstadt-Fakt. Wissen abrufen: Canberra ist Hauptstadt von Australien. Demnach: Die Hauptstadt von Australien ist Canberra. Okay, entschieden.",Die Hauptstadt von Australien ist Canberra.
+486,Nenne die Hauptstadt von Australien.,"Also gut, denken wir nach. Hauptstadt-Fakt abrufen: Australien -> Canberra. Antwort also: Die Hauptstadt von Australien heißt Canberra. Klingt logisch.",Die Hauptstadt von Australien heißt Canberra.
+487,Hauptstadt von Australien?,"Okay, Schritt für Schritt. Kurzer Fakt-Check: Canberra. Fazit: Canberra. Klingt logisch.",Canberra.
+488,Was ist die Hauptstadt von Ägypten?,"Also gut, denken wir nach. User fragt nach Hauptstadt-Fakt. Wissen abrufen: Kairo ist Hauptstadt von Ägypten. Demnach: Die Hauptstadt von Ägypten ist Kairo. Das ergibt Sinn.",Die Hauptstadt von Ägypten ist Kairo.
+489,Nenne die Hauptstadt von Ägypten.,"Okay, Schritt für Schritt. Hauptstadt-Fakt abrufen: Ägypten -> Kairo. Antwort also: Die Hauptstadt von Ägypten heißt Kairo. Alles klar im Kopf.",Die Hauptstadt von Ägypten heißt Kairo.
+490,Hauptstadt von Ägypten?,"Gute Frage, ich überlege kurz. Kurzer Fakt-Check: Kairo. Antwort also: Kairo. Gut, weiter.",Kairo.
+491,Wie viele Bundesländer hat Deutschland?,"Gute Frage, ich überlege kurz. Zählen: Deutschland hat 16 Bundesländer. Fakt sicher wiedergeben. Antwort also: Deutschland hat 16 Bundesländer. Ja, das passt.",Deutschland hat 16 Bundesländer.
+492,Wie viele Einwohner hat Deutschland ungefähr?,"Also gut, denken wir nach. Schätzung aus Wissen: ca. 83-84 Millionen. Als ca.-Angabe markieren. Demnach: Deutschland hat ungefähr 83 bis 84 Millionen Einwohner. Damit bin ich mir sicher.",Deutschland hat ungefähr 83 bis 84 Millionen Einwohner.
+493,Welche Sprache spricht man in Brasilien?,"Okay, Schritt für Schritt. Fakt: Portugiesisch, nicht Spanisch. Verwechslung klären. Antwort also: In Brasilien spricht man Portugiesisch. Damit bin ich mir sicher.",In Brasilien spricht man Portugiesisch.
+494,Welche Sprache spricht man in Österreich?,"Moment, lass mich nachdenken. Fakt: Deutsch. Kurz antworten. Fazit: In Österreich spricht man Deutsch. Alles klar im Kopf.",In Österreich spricht man Deutsch.
+495,Welche Sprache spricht man in der Schweiz?,"Ich gehe das gedanklich durch. Fakten: Deutsch, Französisch, Italienisch, Rätoromanisch. Aufzählen. Antwort also: In der Schweiz spricht man Deutsch, Französisch, Italienisch und Rätoromanisch. Gut, weiter.","In der Schweiz spricht man Deutsch, Französisch, Italienisch und Rätoromanisch."
+496,Wie heißt die Währung in Japan?,Lass mich das sortieren. Fakt: Yen. Kurz antworten. Fazit: Die Währung in Japan heißt Yen. Fertig gedacht.,Die Währung in Japan heißt Yen.
+497,Wie heißt die Währung in den USA?,Erstmal in Ruhe überlegen. Fakt: US-Dollar. Demnach: Die Währung in den USA ist der US-Dollar. Fertig gedacht.,Die Währung in den USA ist der US-Dollar.
+498,Wie heißt die Währung in Großbritannien?,"Okay, Schritt für Schritt. Fakt: Pfund Sterling. Antwort also: In Großbritannien zahlt man mit Pfund Sterling. Ja, das passt.",In Großbritannien zahlt man mit Pfund Sterling.
+499,Wie viele Kontinente gibt es?,"Erstmal in Ruhe überlegen. Zählung je nach Modell: meist 7. Modell erklären. Demnach: Meist zählt man 7 Kontinente: Afrika, Antarktis, Asien, Australien, Europa, Nordamerika, Südamerika. Damit bin ich mir sicher.","Meist zählt man 7 Kontinente: Afrika, Antarktis, Asien, Australien, Europa, Nordamerika, Südamerika."
+500,Was ist der längste Fluss der Welt?,"Also gut, denken wir nach. Fakt prüfen: Nil oder Amazonas umstritten. Beide nennen. Fazit: Der längste Fluss ist umstritten: meist werden Nil und Amazonas genannt, beide über 6500 km lang. Ja, das passt.","Der längste Fluss ist umstritten: meist werden Nil und Amazonas genannt, beide über 6500 km lang."
+501,Welches ist das größte Land der Welt?,"Also gut, denken wir nach. Fakt: Russland nach Fläche. Sicher antworten. Antwort also: Das größte Land der Welt nach Fläche ist Russland. Das ergibt Sinn.",Das größte Land der Welt nach Fläche ist Russland.
+502,Welches Tier ist das größte der Welt?,"Okay, Schritt für Schritt. Fakt: Blauwal größtes bekanntes Tier. Antwort also: Das größte Tier der Welt ist der Blauwal. Alles klar im Kopf.",Das größte Tier der Welt ist der Blauwal.
+503,Wo liegt Berlin?,"Okay, Schritt für Schritt. Geo-Fakt: im Nordosten Deutschlands. Kurz antworten. Antwort also: Berlin liegt im Nordosten Deutschlands. Das ergibt Sinn.",Berlin liegt im Nordosten Deutschlands.
+504,Wo liegt Paris?,"Lass mich das sortieren. Geo-Fakt: im Norden Frankreichs an der Seine. Fazit: Paris liegt im Norden Frankreichs an der Seine. Gut, weiter.",Paris liegt im Norden Frankreichs an der Seine.
+505,An welche Länder grenzt Deutschland?,"Okay, Schritt für Schritt. Nachbarn aufzählen: 9 Länder. Liste prüfen. Demnach: Deutschland grenzt an Dänemark, Polen, Tschechien, Österreich, Schweiz, Frankreich, Luxemburg, Belgien und die Niederlande. Fertig gedacht.","Deutschland grenzt an Dänemark, Polen, Tschechien, Österreich, Schweiz, Frankreich, Luxemburg, Belgien und die Niederlande."
+506,Wie viele Ozeane gibt es?,"Okay, Schritt für Schritt. Standard: 5 Ozeane. Aufzählen. Demnach: Es gibt 5 Ozeane: Atlantik, Pazifik, Indik, Südlicher Ozean und Arktischer Ozean. Klingt logisch.","Es gibt 5 Ozeane: Atlantik, Pazifik, Indik, Südlicher Ozean und Arktischer Ozean."
+507,Was ist die größte Wüste der Welt?,"Also gut, denken wir nach. Fakt: Antarktis als Wüste, sonst Sahara größte heiße Wüste. Einordnen. Antwort also: Die größte Wüste ist die Antarktis. Die größte heiße Wüste ist die Sahara. Alles klar im Kopf.",Die größte Wüste ist die Antarktis. Die größte heiße Wüste ist die Sahara.
+508,Welcher Berg ist der höchste der Welt?,"Moment, lass mich nachdenken. Fakt: Mount Everest 8848 m. Antwort also: Der höchste Berg der Welt ist der Mount Everest mit etwa 8848 Metern. Klingt logisch.",Der höchste Berg der Welt ist der Mount Everest mit etwa 8848 Metern.
+509,Welcher Berg ist der höchste in Deutschland?,"Okay, Schritt für Schritt. Fakt: Zugspitze 2962 m. Demnach: Der höchste Berg Deutschlands ist die Zugspitze mit 2962 Metern. Fertig gedacht.",Der höchste Berg Deutschlands ist die Zugspitze mit 2962 Metern.
+510,In welchem Land liegt die Stadt Rom?,"Okay, Schritt für Schritt. Fakt: Italien. Kurz antworten. Demnach: Rom liegt in Italien. Okay, entschieden.",Rom liegt in Italien.
+511,In welchem Land liegt Tokio?,"Hmm, was weiß ich darüber? Fakt: Japan. Fazit: Tokio liegt in Japan. Damit bin ich mir sicher.",Tokio liegt in Japan.
+512,Wie heißt die Hauptstadt der Schweiz?,"Okay, Schritt für Schritt. Fakt: Bern. Kurz antworten. Antwort also: Die Hauptstadt der Schweiz ist Bern. Damit bin ich mir sicher.",Die Hauptstadt der Schweiz ist Bern.
+513,Wie heißt die Hauptstadt von Kanada?,"Also gut, denken wir nach. Fakt: Ottawa, nicht Toronto. Verwechslung klären. Fazit: Die Hauptstadt von Kanada ist Ottawa. Gut, weiter.",Die Hauptstadt von Kanada ist Ottawa.
+514,Wie heißt die Hauptstadt von Australien?,"Lass mich das sortieren. Fakt: Canberra, nicht Sydney. Klären. Antwort also: Die Hauptstadt von Australien ist Canberra. Gut, weiter.",Die Hauptstadt von Australien ist Canberra.
+515,Wie heißt die Hauptstadt der Türkei?,"Also gut, denken wir nach. Fakt: Ankara, nicht Istanbul. Klären. Fazit: Die Hauptstadt der Türkei ist Ankara. Damit bin ich mir sicher.",Die Hauptstadt der Türkei ist Ankara.
+516,Wie heißt die Hauptstadt von Brasilien?,"Hmm, was weiß ich darüber? Fakt: Brasília, nicht Rio. Klären. Antwort also: Die Hauptstadt von Brasilien ist Brasília. Gut, weiter.",Die Hauptstadt von Brasilien ist Brasília.
+517,Nenne drei Länder in Europa.,"Okay, Schritt für Schritt. Beispiele wählen: Deutschland, Frankreich, Italien. Aufzählen. Fazit: Zum Beispiel Deutschland, Frankreich und Italien. Klingt logisch.","Zum Beispiel Deutschland, Frankreich und Italien."
+518,Nenne drei Hauptstädte in Asien.,"Lass mich das sortieren. Beispiele: Tokio, Peking, Neu-Delhi. Antwort also: Zum Beispiel Tokio, Peking und Neu-Delhi. Alles klar im Kopf.","Zum Beispiel Tokio, Peking und Neu-Delhi."
+519,Welche Länder sprechen Spanisch?,"Gute Frage, ich überlege kurz. Beispiele: Spanien, Mexiko, Argentinien. Aufzählen. Fazit: Zum Beispiel Spanien, Mexiko und Argentinien. Damit bin ich mir sicher.","Zum Beispiel Spanien, Mexiko und Argentinien."
+520,Welche Länder sprechen Englisch als Amtssprache?,"Lass mich das sortieren. Beispiele: Großbritannien, USA, Irland. Nennen. Antwort also: Zum Beispiel Großbritannien, USA und Irland. Ja, das passt.","Zum Beispiel Großbritannien, USA und Irland."
+521,Wo liegt der Äquator?,"Lass mich das sortieren. Definition: 0 Grad Breite um Erdenmitte. Erklären. Fazit: Der Äquator liegt bei 0 Grad Breite und teilt die Erde in Nord- und Südhalbkugel. Gut, weiter.",Der Äquator liegt bei 0 Grad Breite und teilt die Erde in Nord- und Südhalbkugel.
+522,In welchem Jahr war die Mondlandung?,"Okay, Schritt für Schritt. Historischer Fakt: erste Mondlandung Apollo 11 war 1969. Fazit: Die erste Mondlandung war 1969 mit Apollo 11. Fertig gedacht.",Die erste Mondlandung war 1969 mit Apollo 11.
+523,Wann war der Zweite Weltkrieg?,"Hmm, was weiß ich darüber? Zeitraum-Fakt: 1939 bis 1945. Fazit: Der Zweite Weltkrieg war von 1939 bis 1945. Okay, entschieden.",Der Zweite Weltkrieg war von 1939 bis 1945.
+524,Wann war der Erste Weltkrieg?,"Gute Frage, ich überlege kurz. Zeitraum: 1914 bis 1918. Fazit: Der Erste Weltkrieg war von 1914 bis 1918. Gut, weiter.",Der Erste Weltkrieg war von 1914 bis 1918.
+525,Was war die Berliner Mauer?,Ich gehe das gedanklich durch. Geschichte: Teilung 1961-1989 Ost-West. Zusammenfassen. Fazit: Die Berliner Mauer war von 1961 bis 1989 die befestigte Grenze zwischen Ost- und West-Berlin. Fertig gedacht.,Die Berliner Mauer war von 1961 bis 1989 die befestigte Grenze zwischen Ost- und West-Berlin.
+526,Wann fiel die Berliner Mauer?,"Gute Frage, ich überlege kurz. Fakt: 9. November 1989. Antwort also: Die Berliner Mauer fiel am 9. November 1989. Fertig gedacht.",Die Berliner Mauer fiel am 9. November 1989.
+527,Wer hat das Telefon erfunden?,"Moment, lass mich nachdenken. Geschichte: Bell 1876, Vorarbeit Meucci. Einordnen. Antwort also: Das Telefon wurde 1876 von Alexander Graham Bell patentiert, wobei Antonio Meucci wichtige Vorarbeit leistete. Damit bin ich mir sicher.","Das Telefon wurde 1876 von Alexander Graham Bell patentiert, wobei Antonio Meucci wichtige Vorarbeit leistete."
+528,Wer hat die Relativitätstheorie entwickelt?,"Gute Frage, ich überlege kurz. Physik-Fakt: Albert Einstein 1905 und 1915. Antwort also: Die Relativitätstheorie hat Albert Einstein entwickelt. Gut, weiter.",Die Relativitätstheorie hat Albert Einstein entwickelt.
+529,Wer hat die Glühbirne erfunden?,"Moment, lass mich nachdenken. Fakt: Edison 1879 praxistauglich, Vorläufer gab es. Einordnen. Demnach: Thomas Edison machte 1879 die Glühbirne praxistauglich, es gab aber wichtige Vorläufer. Alles klar im Kopf.","Thomas Edison machte 1879 die Glühbirne praxistauglich, es gab aber wichtige Vorläufer."
+530,Was ist Demokratie?,"Moment, lass mich nachdenken. Politik-Begriff: Volksherrschaft, Wahlen, Grundrechte. Definieren. Antwort also: Demokratie bedeutet Volksherrschaft: Die Macht geht vom Volk aus, meist über freie Wahlen und Grundrechte. Gut, weiter.","Demokratie bedeutet Volksherrschaft: Die Macht geht vom Volk aus, meist über freie Wahlen und Grundrechte."
+531,Was bedeutet Nachhaltigkeit?,"Okay, Schritt für Schritt. Begriff: Ressourcen schonen, Zukunft erhalten. Definieren. Demnach: Nachhaltigkeit bedeutet so zu leben und zu wirtschaften, dass auch künftige Generationen genug Ressourcen haben. Klingt logisch.","Nachhaltigkeit bedeutet so zu leben und zu wirtschaften, dass auch künftige Generationen genug Ressourcen haben."
+532,Was ist Mobbing und was kann man tun?,"Moment, lass mich nachdenken. Definition plus Handlung: Hilfe holen, dokumentieren. Ernst und klar. Antwort also: Mobbing ist wiederholtes Fertigmachen oder Ausgrenzen. Sprich mit Vertrauenspersonen, dokumentiere Vorfälle und hole Hilfe in Schule oder Betrieb. Damit bin ich mir sicher.","Mobbing ist wiederholtes Fertigmachen oder Ausgrenzen. Sprich mit Vertrauenspersonen, dokumentiere Vorfälle und hole Hilfe in Schule oder Betrieb."
+533,Ab wie viel Jahren darf man in Deutschland wählen?,"Okay, Schritt für Schritt. Rechts-Fakt: Bundestag ab 18, EU teils ab 16. Unterscheiden. Demnach: Für den Bundestag ab 18 Jahren. Bei der Europawahl in Deutschland ab 16 Jahren. Alles klar im Kopf.",Für den Bundestag ab 18 Jahren. Bei der Europawahl in Deutschland ab 16 Jahren.
+534,Wie funktioniert eine Wahl einfach erklärt?,"Moment, lass mich nachdenken. Ablauf: stimmberechtigt wählen, Stimmen zählen, Mandate. Vereinfachen. Fazit: Bei einer Wahl geben Berechtigte ihre Stimme ab, die Stimmen werden gezählt und danach werden Sitze nach dem Ergebnis verteilt. Okay, entschieden.","Bei einer Wahl geben Berechtigte ihre Stimme ab, die Stimmen werden gezählt und danach werden Sitze nach dem Ergebnis verteilt."
+535,Was ist die EU?,"Moment, lass mich nachdenken. Definition: Zusammenschluss europäischer Staaten, Binnenmarkt. Erklären. Demnach: Die EU ist ein Zusammenschluss europäischer Staaten mit gemeinsamem Binnenmarkt und politischen Institutionen. Klingt logisch.",Die EU ist ein Zusammenschluss europäischer Staaten mit gemeinsamem Binnenmarkt und politischen Institutionen.
+536,Wie viele Länder sind in der EU?,"Hmm, was weiß ich darüber? Fakt: 27 Mitgliedstaaten. Stand nennen. Demnach: Die EU hat 27 Mitgliedstaaten. Das ergibt Sinn.",Die EU hat 27 Mitgliedstaaten.
+537,Was ist das Grundgesetz?,"Gute Frage, ich überlege kurz. Fakt: Verfassung Deutschlands seit 1949. Erklären. Antwort also: Das Grundgesetz ist die Verfassung der Bundesrepublik Deutschland seit 1949. Damit bin ich mir sicher.",Das Grundgesetz ist die Verfassung der Bundesrepublik Deutschland seit 1949.
+538,Wer war der erste Bundeskanzler?,"Okay, Schritt für Schritt. Fakt: Konrad Adenauer. Kurz antworten. Antwort also: Der erste Bundeskanzler war Konrad Adenauer. Ja, das passt.",Der erste Bundeskanzler war Konrad Adenauer.
+539,In welchem Jahr wurde Deutschland wiedervereinigt?,"Hmm, was weiß ich darüber? Fakt: 1990. Fazit: Deutschland wurde 1990 wiedervereinigt. Fertig gedacht.",Deutschland wurde 1990 wiedervereinigt.
+540,Was war das Römische Reich?,"Okay, Schritt für Schritt. Geschichte: Antike Großmacht um Rom, ca. 27 v.Chr. bis 476 n.Chr. West. Zusammenfassen. Fazit: Das Römische Reich war eine antike Großmacht mit Zentrum Rom, die große Teile Europas und des Mittelmeerraums beherrschte. Klingt logisch.","Das Römische Reich war eine antike Großmacht mit Zentrum Rom, die große Teile Europas und des Mittelmeerraums beherrschte."
+541,Was war das Mittelalter?,"Moment, lass mich nachdenken. Epoche: ca. 500 bis 1500. Einordnen. Demnach: Das Mittelalter war die Epoche etwa von 500 bis 1500 zwischen Antike und Neuzeit. Das ergibt Sinn.",Das Mittelalter war die Epoche etwa von 500 bis 1500 zwischen Antike und Neuzeit.
+542,Wer war Leonardo da Vinci?,"Ich gehe das gedanklich durch. Fakt: italienischer Künstler und Erfinder, Mona Lisa. Nennen. Fazit: Leonardo da Vinci war ein italienischer Künstler und Erfinder, bekannt für die Mona Lisa. Das ergibt Sinn.","Leonardo da Vinci war ein italienischer Künstler und Erfinder, bekannt für die Mona Lisa."
+543,Wer war Marie Curie?,"Ich gehe das gedanklich durch. Fakt: Physikerin, Radioaktivität, zwei Nobelpreise. Antwort also: Marie Curie war eine Physikerin, die zur Radioaktivität forschte und zwei Nobelpreise gewann. Das ergibt Sinn.","Marie Curie war eine Physikerin, die zur Radioaktivität forschte und zwei Nobelpreise gewann."
+544,Was war die Französische Revolution?,"Okay, Schritt für Schritt. Fakt: 1789, Freiheit Gleichheit Brüderlichkeit. Zusammenfassen. Antwort also: Die Französische Revolution ab 1789 stürzte die Monarchie und brachte die Ideale Freiheit, Gleichheit, Brüderlichkeit. Damit bin ich mir sicher.","Die Französische Revolution ab 1789 stürzte die Monarchie und brachte die Ideale Freiheit, Gleichheit, Brüderlichkeit."
+545,Was ist der Unterschied zwischen Diktatur und Demokratie?,"Erstmal in Ruhe überlegen. Begriffe gegenüberstellen: Alleinherrschaft vs Volksherrschaft. Demnach: In einer Diktatur herrscht eine Person oder kleine Gruppe ohne freie Wahlen, in einer Demokratie geht die Macht vom Volk aus. Gut, weiter.","In einer Diktatur herrscht eine Person oder kleine Gruppe ohne freie Wahlen, in einer Demokratie geht die Macht vom Volk aus."
+546,Was sind Menschenrechte?,"Erstmal in Ruhe überlegen. Definition: universelle Grundrechte jedes Menschen. Erklären. Demnach: Menschenrechte sind grundlegende Rechte, die jedem Menschen zustehen, etwa auf Leben, Freiheit und Gleichheit. Das ergibt Sinn.","Menschenrechte sind grundlegende Rechte, die jedem Menschen zustehen, etwa auf Leben, Freiheit und Gleichheit."
+547,Was ist Meinungsfreiheit?,"Gute Frage, ich überlege kurz. Recht: Meinung frei äußern, Grenzen beachten. Erklären. Fazit: Meinungsfreiheit bedeutet, die eigene Meinung frei äußern zu dürfen, solange man andere Rechte nicht verletzt. Gut, weiter.","Meinungsfreiheit bedeutet, die eigene Meinung frei äußern zu dürfen, solange man andere Rechte nicht verletzt."
+548,Warum braucht ein Auto TÜV?,"Also gut, denken wir nach. Zweck: Sicherheit und Umwelt prüfen, Pflicht. Erklären. Antwort also: Der TÜV prüft, ob das Auto sicher und umweltgerecht ist. In Deutschland ist das regelmäßig Pflicht. Gut, weiter.","Der TÜV prüft, ob das Auto sicher und umweltgerecht ist. In Deutschland ist das regelmäßig Pflicht."
+549,Was ist Steuern einfach erklärt?,"Also gut, denken wir nach. Definition: Pflichtabgaben an Staat für Straßen, Schulen etc. Vereinfachen. Fazit: Steuern sind Pflichtabgaben an den Staat, mit denen Straßen, Schulen, Krankenhäuser und anderes bezahlt werden. Alles klar im Kopf.","Steuern sind Pflichtabgaben an den Staat, mit denen Straßen, Schulen, Krankenhäuser und anderes bezahlt werden."
+550,Was ist Inflation?,"Also gut, denken wir nach. Wirtschaft: Geld verliert Wert, Preise steigen. Erklären. Antwort also: Inflation bedeutet, dass Preise steigen und Geld dadurch an Wert verliert. Alles klar im Kopf.","Inflation bedeutet, dass Preise steigen und Geld dadurch an Wert verliert."
+551,Was ist Arbeitslosigkeit?,"Ich gehe das gedanklich durch. Definition: keine Arbeit trotz Suche. Erklären. Fazit: Arbeitslosigkeit bedeutet, dass Menschen Arbeit suchen, aber keine finden. Ja, das passt.","Arbeitslosigkeit bedeutet, dass Menschen Arbeit suchen, aber keine finden."
+552,Was war die Industrialisierung?,"Lass mich das sortieren. Epoche: Maschinen, Fabriken ab 18. Jh. Zusammenfassen. Antwort also: Die Industrialisierung war der Übergang zu Maschinen und Fabriken ab dem 18. Jahrhundert. Fertig gedacht.",Die Industrialisierung war der Übergang zu Maschinen und Fabriken ab dem 18. Jahrhundert.
+553,Wer hat Amerika entdeckt? (europäische Sicht),"Lass mich das sortieren. Fakt: Kolumbus 1492, indigene Völker vorher da. Einordnen. Antwort also: Aus europäischer Sicht erreichte Christoph Kolumbus 1492 Amerika. Dort lebten aber schon lange indigene Völker. Gut, weiter.",Aus europäischer Sicht erreichte Christoph Kolumbus 1492 Amerika. Dort lebten aber schon lange indigene Völker.
+554,Wann wurde das Internet erfunden?,"Moment, lass mich nachdenken. Fakt: ARPANET 1969, WWW 1989-90. Unterscheiden. Fazit: Die Grundlagen entstanden 1969 mit ARPANET, das World Wide Web ab 1989. Damit bin ich mir sicher.","Die Grundlagen entstanden 1969 mit ARPANET, das World Wide Web ab 1989."
+555,Wann wurde das Auto erfunden?,"Hmm, was weiß ich darüber? Fakt: Benz 1886 Patent-Motorwagen. Fazit: Das Auto wurde 1886 von Carl Benz mit dem Patent-Motorwagen erfunden. Damit bin ich mir sicher.",Das Auto wurde 1886 von Carl Benz mit dem Patent-Motorwagen erfunden.
+556,Wer hat das Flugzeug erfunden?,"Hmm, was weiß ich darüber? Fakt: Gebrüder Wright 1903 Motorflug. Fazit: Den ersten Motorflug schafften 1903 die Gebrüder Wright. Alles klar im Kopf.",Den ersten Motorflug schafften 1903 die Gebrüder Wright.
+557,Was ist der Unterschied zwischen Stadt und Dorf?,"Ich gehe das gedanklich durch. Vergleich: Größe, Einwohner, Infrastruktur. Fazit: Eine Stadt ist größer, hat mehr Einwohner und Infrastruktur, ein Dorf ist kleiner und ländlicher. Gut, weiter.","Eine Stadt ist größer, hat mehr Einwohner und Infrastruktur, ein Dorf ist kleiner und ländlicher."
+558,Was ist Kultur?,"Also gut, denken wir nach. Begriff: Sprache, Bräuche, Kunst einer Gemeinschaft. Definieren. Antwort also: Kultur umfasst Sprache, Bräuche, Kunst und Werte einer Gemeinschaft. Ja, das passt.","Kultur umfasst Sprache, Bräuche, Kunst und Werte einer Gemeinschaft."
+559,Was ist Religion?,"Also gut, denken wir nach. Begriff: Glaube an höhere Macht, Rituale. Neutral erklären. Demnach: Religion ist ein Glaube an eine höhere Wirklichkeit, oft mit Ritualen und Gemeinschaft verbunden. Gut, weiter.","Religion ist ein Glaube an eine höhere Wirklichkeit, oft mit Ritualen und Gemeinschaft verbunden."
+560,Was ist Geschichte?,Lass mich das sortieren. Fach: Erforschung der Vergangenheit. Definieren. Demnach: Geschichte ist die Erforschung und Deutung der menschlichen Vergangenheit. Das ergibt Sinn.,Geschichte ist die Erforschung und Deutung der menschlichen Vergangenheit.
+561,Erkläre kurz: Mondlandung,"Okay, Schritt für Schritt. Fakt abrufen und kurz einordnen: Die erste Mondlandung war 1969 mit Apollo 11. Demnach: Die erste Mondlandung war 1969 mit Apollo 11. Klingt logisch.",Die erste Mondlandung war 1969 mit Apollo 11.
+562,Was weißt du über Mondlandung,Lass mich das sortieren. Fakt abrufen und kurz einordnen: Die erste Mondlandung war 1969 mit Apollo 11. Fazit: Die erste Mondlandung war 1969 mit Apollo 11. Das ergibt Sinn.,Die erste Mondlandung war 1969 mit Apollo 11.
+563,Erkläre kurz: Berliner Mauer,"Moment, lass mich nachdenken. Fakt abrufen und kurz einordnen: Die Berliner Mauer stand von 1961 bis 1989. Demnach: Die Berliner Mauer stand von 1961 bis 1989. Damit bin ich mir sicher.",Die Berliner Mauer stand von 1961 bis 1989.
+564,Was weißt du über Berliner Mauer,"Okay, Schritt für Schritt. Fakt abrufen und kurz einordnen: Die Berliner Mauer stand von 1961 bis 1989. Antwort also: Die Berliner Mauer stand von 1961 bis 1989. Ja, das passt.",Die Berliner Mauer stand von 1961 bis 1989.
+565,Erkläre kurz: Demokratie,"Hmm, was weiß ich darüber? Fakt abrufen und kurz einordnen: Demokratie bedeutet Volksherrschaft mit freien Wahlen. Demnach: Demokratie bedeutet Volksherrschaft mit freien Wahlen. Gut, weiter.",Demokratie bedeutet Volksherrschaft mit freien Wahlen.
+566,Was weißt du über Demokratie,"Hmm, was weiß ich darüber? Fakt abrufen und kurz einordnen: Demokratie bedeutet Volksherrschaft mit freien Wahlen. Antwort also: Demokratie bedeutet Volksherrschaft mit freien Wahlen. Ja, das passt.",Demokratie bedeutet Volksherrschaft mit freien Wahlen.
+567,Erkläre kurz: EU,"Lass mich das sortieren. Fakt abrufen und kurz einordnen: Die EU ist ein Staatenbündnis in Europa mit 27 Mitgliedern. Fazit: Die EU ist ein Staatenbündnis in Europa mit 27 Mitgliedern. Ja, das passt.",Die EU ist ein Staatenbündnis in Europa mit 27 Mitgliedern.
+568,Was weißt du über EU,"Moment, lass mich nachdenken. Fakt abrufen und kurz einordnen: Die EU ist ein Staatenbündnis in Europa mit 27 Mitgliedern. Fazit: Die EU ist ein Staatenbündnis in Europa mit 27 Mitgliedern. Klingt logisch.",Die EU ist ein Staatenbündnis in Europa mit 27 Mitgliedern.
+569,Erkläre kurz: Zweite Weltkrieg,"Okay, Schritt für Schritt. Fakt abrufen und kurz einordnen: Der Zweite Weltkrieg war von 1939 bis 1945. Demnach: Der Zweite Weltkrieg war von 1939 bis 1945. Ja, das passt.",Der Zweite Weltkrieg war von 1939 bis 1945.
+570,Was weißt du über Zweite Weltkrieg,"Also gut, denken wir nach. Fakt abrufen und kurz einordnen: Der Zweite Weltkrieg war von 1939 bis 1945. Fazit: Der Zweite Weltkrieg war von 1939 bis 1945. Damit bin ich mir sicher.",Der Zweite Weltkrieg war von 1939 bis 1945.
+571,Warum gab es die Berliner Mauer?,"Erstmal in Ruhe überlegen. Ursache: Teilung Ost-West, Flucht stoppen. Erklären. Demnach: Die Mauer sollte die Flucht aus Ost-Berlin und der DDR in den Westen stoppen und die Teilung sichern. Okay, entschieden.",Die Mauer sollte die Flucht aus Ost-Berlin und der DDR in den Westen stoppen und die Teilung sichern.
+572,Warum ist Demokratie wichtig?,"Hmm, was weiß ich darüber? Gründe: Mitbestimmung, Rechte, Kontrolle. Aufzählen. Antwort also: Demokratie sichert Mitbestimmung, Grundrechte und Kontrolle der Macht. Gut, weiter.","Demokratie sichert Mitbestimmung, Grundrechte und Kontrolle der Macht."
+573,Warum gibt es Wahlen?,Ich gehe das gedanklich durch. Zweck: Volk bestimmt Vertreter. Erklären. Fazit: Durch Wahlen bestimmt das Volk seine Vertreter und kontrolliert die Macht. Fertig gedacht.,Durch Wahlen bestimmt das Volk seine Vertreter und kontrolliert die Macht.
+574,Wann wurde die UNO gegründet?,"Also gut, denken wir nach. Fakt: 1945. Kurz antworten. Antwort also: Die UNO wurde 1945 gegründet. Gut, weiter.",Die UNO wurde 1945 gegründet.
+575,Wann wurde das Grundgesetz beschlossen?,"Lass mich das sortieren. Fakt: 1949. Demnach: Das Grundgesetz wurde 1949 beschlossen. Okay, entschieden.",Das Grundgesetz wurde 1949 beschlossen.
+576,Wer war Albert Einstein?,"Erstmal in Ruhe überlegen. Fakt: Physiker, Relativitätstheorie. Nennen. Antwort also: Albert Einstein war ein Physiker und Begründer der Relativitätstheorie. Das ergibt Sinn.",Albert Einstein war ein Physiker und Begründer der Relativitätstheorie.
+577,Wer war Beethoven?,"Gute Frage, ich überlege kurz. Fakt: deutscher Komponist. Nennen. Fazit: Beethoven war ein deutscher Komponist. Gut, weiter.",Beethoven war ein deutscher Komponist.
+578,Wer war Mozart?,"Also gut, denken wir nach. Fakt: österreichischer Komponist. Nennen. Demnach: Mozart war ein österreichischer Komponist. Alles klar im Kopf.",Mozart war ein österreichischer Komponist.
+579,Was ist ein Museum?,"Erstmal in Ruhe überlegen. Definition: sammelt und zeigt Kulturgüter. Erklären. Antwort also: Ein Museum sammelt, bewahrt und zeigt Kulturgüter und Wissen. Ja, das passt.","Ein Museum sammelt, bewahrt und zeigt Kulturgüter und Wissen."
+580,Was ist ein Denkmal?,"Also gut, denken wir nach. Definition: erinnert an Person oder Ereignis. Antwort also: Ein Denkmal erinnert an eine Person oder ein Ereignis. Okay, entschieden.",Ein Denkmal erinnert an eine Person oder ein Ereignis.
+581,Was bedeutet Frieden?,"Also gut, denken wir nach. Begriff: keine Gewalt oder Krieg. Definieren. Fazit: Frieden bedeutet Zusammenleben ohne Krieg und Gewalt. Damit bin ich mir sicher.",Frieden bedeutet Zusammenleben ohne Krieg und Gewalt.
+582,Was bedeutet Freiheit?,"Erstmal in Ruhe überlegen. Begriff: selbstbestimmt leben im Rahmen von Rechten. Antwort also: Freiheit bedeutet, selbstbestimmt leben zu können, ohne andere zu schädigen. Ja, das passt.","Freiheit bedeutet, selbstbestimmt leben zu können, ohne andere zu schädigen."
+583,Was bedeutet Gerechtigkeit?,"Moment, lass mich nachdenken. Begriff: faire Behandlung. Erklären. Demnach: Gerechtigkeit bedeutet faire und gleiche Behandlung für alle. Damit bin ich mir sicher.",Gerechtigkeit bedeutet faire und gleiche Behandlung für alle.
+584,Was ist Solidarität?,"Okay, Schritt für Schritt. Begriff: Zusammenhalt und Hilfe. Definieren. Demnach: Solidarität bedeutet Zusammenhalt und gegenseitige Hilfe. Damit bin ich mir sicher.",Solidarität bedeutet Zusammenhalt und gegenseitige Hilfe.
+585,Warum lernen wir Geschichte?,"Erstmal in Ruhe überlegen. Zweck: Vergangenheit verstehen, Fehler vermeiden. Fazit: Wir lernen Geschichte, um die Gegenwart zu verstehen und aus Fehlern zu lernen. Damit bin ich mir sicher.","Wir lernen Geschichte, um die Gegenwart zu verstehen und aus Fehlern zu lernen."
+586,Wie viele Jahre liegt 1990 zurück? (heute 2026),"Okay, Schritt für Schritt. Rechnen: 2026-1990=36. Nachrechnen. Nachrechnen: Von 1990 bis 2026 sind es 36 Jahre. Passt. Ja, das passt.",Von 1990 bis 2026 sind es 36 Jahre.
+587,Wie lange dauerte der Zweite Weltkrieg?,Lass mich das sortieren. Dauer: 1939-1945 = 6 Jahre. Kontrolle: Der Zweite Weltkrieg dauerte etwa 6 Jahre. Richtig. Damit bin ich mir sicher.,Der Zweite Weltkrieg dauerte etwa 6 Jahre.
+588,In welchem Jahrhundert war 1789?,"Also gut, denken wir nach. Einordnen: 1701-1800 = 18. Jahrhundert. Probe: 1789 war im 18. Jahrhundert. Stimmt. Gut, weiter.",1789 war im 18. Jahrhundert.
+589,In welchem Jahrhundert war 1969?,"Erstmal in Ruhe überlegen. Einordnen: 1901-2000 = 20. Jahrhundert. Nachrechnen: 1969 war im 20. Jahrhundert. Passt. Ja, das passt.",1969 war im 20. Jahrhundert.
+590,Warum ist der Himmel blau?,"Moment, lass mich nachdenken. Physik erklären: Rayleigh-Streuung streut blaues Licht stärker. Fazit: Der Himmel ist blau wegen der Rayleigh-Streuung: Blaues Sonnenlicht wird in der Atmosphäre stärker gestreut als rotes. Das ergibt Sinn.",Der Himmel ist blau wegen der Rayleigh-Streuung: Blaues Sonnenlicht wird in der Atmosphäre stärker gestreut als rotes.
+591,Wie entsteht Regen?,"Ich gehe das gedanklich durch. Kreislauf denken: Verdunstung, Kondensation, Niederschlag. Zusammenfassen. Demnach: Regen entsteht durch Verdunstung: Wasser steigt auf, kühlt ab, bildet Wolken und fällt als Tropfen zurück. Fertig gedacht.","Regen entsteht durch Verdunstung: Wasser steigt auf, kühlt ab, bildet Wolken und fällt als Tropfen zurück."
+592,Was ist Fotosynthese?,"Lass mich das sortieren. Bio-Fakt: Pflanzen wandeln Licht, Wasser, CO2 in Zucker und Sauerstoff um. Demnach: Fotosynthese ist der Prozess, bei dem Pflanzen aus Licht, Wasser und CO2 Zucker und Sauerstoff erzeugen. Das ergibt Sinn.","Fotosynthese ist der Prozess, bei dem Pflanzen aus Licht, Wasser und CO2 Zucker und Sauerstoff erzeugen."
+593,Was ist der Unterschied zwischen Wetter und Klima?,"Also gut, denken wir nach. Begriffe klären: Wetter kurzfristig, Klima langfristig 30 Jahre. Fazit: Wetter ist der kurzfristige Zustand der Atmosphäre, Klima der Durchschnitt über meist 30 Jahre. Fertig gedacht.","Wetter ist der kurzfristige Zustand der Atmosphäre, Klima der Durchschnitt über meist 30 Jahre."
+594,Wie funktioniert ein Kühlschrank grob?,"Moment, lass mich nachdenken. Technik-Prinzip: Kältemittel verdampft, entzieht Wärme, Kompressor-Kreislauf. Fazit: Ein Kühlschrank pumpt mit einem Kältemittel Wärme von innen nach außen: Innen verdampft es und nimmt Wärme auf, außen wird sie abgegeben. Ja, das passt.","Ein Kühlschrank pumpt mit einem Kältemittel Wärme von innen nach außen: Innen verdampft es und nimmt Wärme auf, außen wird sie abgegeben."
+595,Was ist Strom einfach erklärt?,"Lass mich das sortieren. Definition: gerichtete Bewegung von Elektronen. Einfach formulieren. Antwort also: Strom ist vereinfacht die gerichtete Bewegung von elektrischen Ladungen, meist Elektronen in einem Leiter. Gut, weiter.","Strom ist vereinfacht die gerichtete Bewegung von elektrischen Ladungen, meist Elektronen in einem Leiter."
+596,Was ist Wasser chemisch gesehen?,"Hmm, was weiß ich darüber? Chemie-Fakt: H2O aus Wasserstoff und Sauerstoff. Demnach: Wasser ist H2O, also eine Verbindung aus Wasserstoff und Sauerstoff. Gut, weiter.","Wasser ist H2O, also eine Verbindung aus Wasserstoff und Sauerstoff."
+597,Was ist ein Virus?,"Ich gehe das gedanklich durch. Bio/Medizin: kein Lebewesen, braucht Wirtszelle. Einfach erklären. Antwort also: Ein Virus ist ein winziger Erreger, der ohne Wirtszelle sich nicht vermehren kann und Zellen befällt. Das ergibt Sinn.","Ein Virus ist ein winziger Erreger, der ohne Wirtszelle sich nicht vermehren kann und Zellen befällt."
+598,Was ist Künstliche Intelligenz einfach erklärt?,"Okay, Schritt für Schritt. Definition: Maschinen lernen aus Daten Muster. Anfängerfreundlich formulieren. Fazit: Künstliche Intelligenz sind Computerprogramme, die aus Daten lernen, Muster erkennen und damit Aufgaben wie Text, Bild oder Entscheidungen lösen. Gut, weiter.","Künstliche Intelligenz sind Computerprogramme, die aus Daten lernen, Muster erkennen und damit Aufgaben wie Text, Bild oder Entscheidungen lösen."
+599,Was ist ein Browser?,"Gute Frage, ich überlege kurz. Technik-Definition: Programm für Webseiten, z.B. Chrome, Firefox. Antwort also: Ein Browser ist das Programm, mit dem du Webseiten öffnest, zum Beispiel Chrome, Firefox, Edge oder Safari. Damit bin ich mir sicher.","Ein Browser ist das Programm, mit dem du Webseiten öffnest, zum Beispiel Chrome, Firefox, Edge oder Safari."
+600,Was ist eine App?,"Also gut, denken wir nach. Definition: Anwendungsprogramm für Handy. Kurz erklären. Fazit: Eine App ist ein Anwendungsprogramm, meist fürs Handy, zum Beispiel für Nachrichten, Fotos oder Spiele. Alles klar im Kopf.","Eine App ist ein Anwendungsprogramm, meist fürs Handy, zum Beispiel für Nachrichten, Fotos oder Spiele."
+601,Warum sollte man Wasser trinken?,"Gute Frage, ich überlege kurz. Gesundheitsgründe: Kreislauf, Konzentration, Haut, Nieren. Aufzählen. Fazit: Wasser hält Kreislauf und Konzentration stabil, hilft Nieren und Haut und beugt Kopfschmerzen vor. Okay, entschieden.","Wasser hält Kreislauf und Konzentration stabil, hilft Nieren und Haut und beugt Kopfschmerzen vor."
+602,Wie lange sollte man Zähne putzen?,"Okay, Schritt für Schritt. Empfehlung: 2 Minuten, zweimal täglich. Demnach: Etwa 2 Minuten lang, zweimal täglich. Das ergibt Sinn.","Etwa 2 Minuten lang, zweimal täglich."
+603,Was ist gesünder: Apfel oder Schokoriegel?,"Okay, Schritt für Schritt. Vergleich: Apfel hat Vitamine, Ballaststoffe, weniger Zucker. Abwägen. Fazit: Ein Apfel ist gesünder: Er hat Vitamine, Ballaststoffe und weniger Zucker und Fett als ein Schokoriegel. Gut, weiter.","Ein Apfel ist gesünder: Er hat Vitamine, Ballaststoffe und weniger Zucker und Fett als ein Schokoriegel."
+604,Was ist der Unterschied zwischen Vollmilch und fettarmer Milch?,"Erstmal in Ruhe überlegen. Fettgehalt: ca. 3,5% vs 1,5%. Fakt nennen. Demnach: Vollmilch hat ca. 3,5 Prozent Fett, fettarme Milch ca. 1,5 Prozent. Sonst sind sie ähnlich. Alles klar im Kopf.","Vollmilch hat ca. 3,5 Prozent Fett, fettarme Milch ca. 1,5 Prozent. Sonst sind sie ähnlich."
+605,Wie taut man Gefrorenes sicher auf?,"Also gut, denken wir nach. Lebensmittelsicherheit: Kühlschrank, kaltes Wasser, nicht Zimmer. Empfehlen. Demnach: Am sichersten im Kühlschrank auftauen, alternativ kalt und schnell verbrauchen. Nicht lange bei Zimmertemperatur liegen lassen. Klingt logisch.","Am sichersten im Kühlschrank auftauen, alternativ kalt und schnell verbrauchen. Nicht lange bei Zimmertemperatur liegen lassen."
+606,Was ist der Unterschied zwischen Apfel und Birne?,"Gute Frage, ich überlege kurz. Vergleich Form, Geschmack, Textur. Beschreiben. Antwort also: Äpfel sind meist rund, knackig und säuerlicher. Birnen sind weicher, saftiger und haben oft eine Flaschenform. Damit bin ich mir sicher.","Äpfel sind meist rund, knackig und säuerlicher. Birnen sind weicher, saftiger und haben oft eine Flaschenform."
+607,Was ist Schwerkraft?,"Gute Frage, ich überlege kurz. Physik: Anziehung zwischen Massen, Erde zieht an. Einfach erklären. Fazit: Schwerkraft ist die Anziehung zwischen Massen. Die Erde zieht alles zu sich, darum fallen Dinge nach unten. Das ergibt Sinn.","Schwerkraft ist die Anziehung zwischen Massen. Die Erde zieht alles zu sich, darum fallen Dinge nach unten."
+608,Warum fällt ein Apfel nach unten?,"Gute Frage, ich überlege kurz. Ursache: Schwerkraft der Erde. Erklären. Demnach: Weil die Schwerkraft der Erde ihn nach unten zieht. Okay, entschieden.",Weil die Schwerkraft der Erde ihn nach unten zieht.
+609,Was ist Luft?,"Gute Frage, ich überlege kurz. Gemisch: Stickstoff, Sauerstoff etc. Nennen. Antwort also: Luft ist ein Gasgemisch, vor allem aus Stickstoff und Sauerstoff. Das ergibt Sinn.","Luft ist ein Gasgemisch, vor allem aus Stickstoff und Sauerstoff."
+610,Warum brauchen Menschen Sauerstoff?,"Ich gehe das gedanklich durch. Bio: Atmung, Energiegewinnung in Zellen. Erklären. Fazit: Menschen brauchen Sauerstoff, weil Zellen damit aus Nahrung Energie gewinnen. Alles klar im Kopf.","Menschen brauchen Sauerstoff, weil Zellen damit aus Nahrung Energie gewinnen."
+611,Was ist Blut?,"Okay, Schritt für Schritt. Bio: transportiert Sauerstoff, Nährstoffe. Erklären. Antwort also: Blut transportiert Sauerstoff und Nährstoffe durch den Körper und Abfallstoffe ab. Damit bin ich mir sicher.",Blut transportiert Sauerstoff und Nährstoffe durch den Körper und Abfallstoffe ab.
+612,Was macht das Herz?,"Gute Frage, ich überlege kurz. Funktion: pumpt Blut. Erklären. Fazit: Das Herz pumpt Blut durch den Körper. Klingt logisch.",Das Herz pumpt Blut durch den Körper.
+613,Was machen die Lungen?,"Lass mich das sortieren. Funktion: Sauerstoff aufnehmen, CO2 abgeben. Fazit: Die Lungen nehmen Sauerstoff auf und geben Kohlendioxid ab. Damit bin ich mir sicher.",Die Lungen nehmen Sauerstoff auf und geben Kohlendioxid ab.
+614,Was ist ein Knochen?,"Okay, Schritt für Schritt. Bio: Stützgerüst, schützt Organe. Erklären. Antwort also: Knochen bilden das Skelett, stützen den Körper und schützen Organe. Ja, das passt.","Knochen bilden das Skelett, stützen den Körper und schützen Organe."
+615,Warum ist Bewegung gesund?,"Moment, lass mich nachdenken. Gründe: Herz, Muskeln, Stimmung. Aufzählen. Fazit: Bewegung stärkt Herz und Muskeln, hilft beim Gewicht und verbessert die Stimmung. Fertig gedacht.","Bewegung stärkt Herz und Muskeln, hilft beim Gewicht und verbessert die Stimmung."
+616,Warum ist Schlaf wichtig?,"Erstmal in Ruhe überlegen. Gründe: Erholung, Gedächtnis, Immunsystem. Fazit: Schlaf hilft Erholung, Gedächtnis und Immunsystem. Ja, das passt.","Schlaf hilft Erholung, Gedächtnis und Immunsystem."
+617,Wie viele Stunden sollte man schlafen?,Ich gehe das gedanklich durch. Empfehlung: Erwachsene 7-9 Stunden. Demnach: Erwachsene sollten meist 7 bis 9 Stunden schlafen. Alles klar im Kopf.,Erwachsene sollten meist 7 bis 9 Stunden schlafen.
+618,Was ist Fieber?,"Lass mich das sortieren. Medizin: erhöhte Temperatur als Abwehr. Erklären. Demnach: Fieber ist erhöhte Körpertemperatur, oft als Abwehr gegen Infektionen. Das ergibt Sinn.","Fieber ist erhöhte Körpertemperatur, oft als Abwehr gegen Infektionen."
+619,Was tun bei Erkältung?,"Lass mich das sortieren. Maßnahmen: Ruhe, trinken, warm halten. Hinweis Arzt bei schwer. Antwort also: Viel trinken, ausruhen, warm halten. Bei Fieber oder Atemnot zum Arzt. Damit bin ich mir sicher.","Viel trinken, ausruhen, warm halten. Bei Fieber oder Atemnot zum Arzt."
+620,Soll ich mit Erkältung Sport machen?,Ich gehe das gedanklich durch. Abwägung: leicht vs Fieber. Vorsichtig raten plus Arzt-Hinweis. Demnach: Bei leichter Erkältung ohne Fieber lieber Pause oder nur locker bewegen. Mit Fieber oder Gliederschmerzen kein Sport und zum Arzt. Klingt logisch.,Bei leichter Erkältung ohne Fieber lieber Pause oder nur locker bewegen. Mit Fieber oder Gliederschmerzen kein Sport und zum Arzt.
+621,Was tun bei Kopfschmerzen ohne Medikamente?,"Ich gehe das gedanklich durch. Maßnahmen: Wasser, Pause, frische Luft, Dunkelheit. Hinweis Arzt. Antwort also: Trinke Wasser, mache Pause, lüfte, entspanne Nacken und Augen. Bei starken oder häufigen Schmerzen zum Arzt. Klingt logisch.","Trinke Wasser, mache Pause, lüfte, entspanne Nacken und Augen. Bei starken oder häufigen Schmerzen zum Arzt."
+622,Wie sicher ist mein Passwort 123456?,"Gute Frage, ich überlege kurz. Bewertung: sehr unsicher, häufigste Liste. Warnen und verbessern. Demnach: Sehr unsicher. 123456 gehört zu den häufigsten Passwörtern. Nutze ein langes, einmaliges Passwort mit Manager. Gut, weiter.","Sehr unsicher. 123456 gehört zu den häufigsten Passwörtern. Nutze ein langes, einmaliges Passwort mit Manager."
+623,Was ist ein starkes Passwort?,"Lass mich das sortieren. Regeln: lang, einmalig, Manager. Erklären. Demnach: Ein starkes Passwort ist lang, einmalig pro Dienst und am besten in einem Passwort-Manager gespeichert. Okay, entschieden.","Ein starkes Passwort ist lang, einmalig pro Dienst und am besten in einem Passwort-Manager gespeichert."
+624,Was ist WLAN?,"Gute Frage, ich überlege kurz. Technik: drahtloses Netzwerk. Erklären. Demnach: WLAN ist ein drahtloses lokales Netzwerk für Internet ohne Kabel. Klingt logisch.",WLAN ist ein drahtloses lokales Netzwerk für Internet ohne Kabel.
+625,Was ist Bluetooth?,"Ich gehe das gedanklich durch. Technik: kurze Funkverbindung für Geräte. Erklären. Fazit: Bluetooth ist eine kurze Funkverbindung, etwa für Kopfhörer oder Lautsprecher. Gut, weiter.","Bluetooth ist eine kurze Funkverbindung, etwa für Kopfhörer oder Lautsprecher."
+626,Was ist eine E-Mail?,"Hmm, was weiß ich darüber? Definition: elektronischer Brief. Erklären. Fazit: Eine E-Mail ist ein elektronischer Brief über das Internet. Alles klar im Kopf.",Eine E-Mail ist ein elektronischer Brief über das Internet.
+627,Was ist die Cloud?,"Erstmal in Ruhe überlegen. Definition: Server im Internet für Speicher und Dienste. Erklären. Demnach: Die Cloud sind Server im Internet, auf denen man Daten speichern und Dienste nutzen kann. Fertig gedacht.","Die Cloud sind Server im Internet, auf denen man Daten speichern und Dienste nutzen kann."
+628,Wie funktioniert GPS?,"Erstmal in Ruhe überlegen. Prinzip: Satelliten, Laufzeit, Position berechnen. Vereinfachen. Antwort also: GPS bestimmt die Position über Signale mehrerer Satelliten und deren Laufzeit. Das ergibt Sinn.",GPS bestimmt die Position über Signale mehrerer Satelliten und deren Laufzeit.
+629,Was ist ein Computer?,"Lass mich das sortieren. Definition: Maschine für Datenverarbeitung. Erklären. Fazit: Ein Computer ist eine Maschine, die Daten verarbeitet, speichert und Programme ausführt. Fertig gedacht.","Ein Computer ist eine Maschine, die Daten verarbeitet, speichert und Programme ausführt."
+630,Was ist der Unterschied zwischen Laptop und Tablet?,"Moment, lass mich nachdenken. Gerätevergleich: Tastatur, Leistung, Touch, Mobilität. Demnach: Ein Laptop hat Tastatur und mehr Leistung für Arbeit, ein Tablet ist leichter, per Touch bedient und besser für Lesen, Videos und unterwegs. Klingt logisch.","Ein Laptop hat Tastatur und mehr Leistung für Arbeit, ein Tablet ist leichter, per Touch bedient und besser für Lesen, Videos und unterwegs."
+631,Was ist ein Smartphone?,"Also gut, denken wir nach. Definition: Handy mit Apps und Internet. Erklären. Antwort also: Ein Smartphone ist ein Handy mit Touchscreen, Apps und Internet. Damit bin ich mir sicher.","Ein Smartphone ist ein Handy mit Touchscreen, Apps und Internet."
+632,Warum wird das Handy langsam?,"Gute Frage, ich überlege kurz. Ursachen: Speicher voll, viele Apps, Updates. Fehlersuche. Antwort also: Oft ist der Speicher voll oder viele Apps laufen. Neustart, aufräumen und Updates helfen. Ja, das passt.","Oft ist der Speicher voll oder viele Apps laufen. Neustart, aufräumen und Updates helfen."
+633,"Mein Handy ist langsam, was kann ich tun?","Ich gehe das gedanklich durch. Fehlersuche: Speicher, Neustart, Updates, Apps. Schrittweise vorschlagen. Demnach: Starte neu, prüfe Speicher, lösche ungenutzte Apps und leere Cache und installiere Updates. Ja, das passt.","Starte neu, prüfe Speicher, lösche ungenutzte Apps und leere Cache und installiere Updates."
+634,Was ist ein Virus am Computer?,"Hmm, was weiß ich darüber? Definition: Schadprogramm. Erklären plus Schutz. Demnach: Ein Computervirus ist ein Schadprogramm, das sich verbreitet und Schaden anrichtet. Schutz: Updates, Vorsicht bei Anhängen, Virenschutz. Ja, das passt.","Ein Computervirus ist ein Schadprogramm, das sich verbreitet und Schaden anrichtet. Schutz: Updates, Vorsicht bei Anhängen, Virenschutz."
+635,Wie schütze ich mich vor Viren am Handy?,"Lass mich das sortieren. Tipps: nur offizielle Stores, Updates, Vorsicht Links. Antwort also: Nutze nur offizielle App-Stores, installiere Updates und klicke keine verdächtigen Links. Alles klar im Kopf.","Nutze nur offizielle App-Stores, installiere Updates und klicke keine verdächtigen Links."
+636,Was ist Stromsparen einfach?,"Hmm, was weiß ich darüber? Tipps: LED, ausschalten, Standby vermeiden. Antwort also: Strom spart man mit LED, Geräte ganz ausschalten statt Standby und sparsam heizen. Okay, entschieden.","Strom spart man mit LED, Geräte ganz ausschalten statt Standby und sparsam heizen."
+637,Wie spart man Heizkosten?,"Also gut, denken wir nach. Tipps: Stoßlüften, Thermostat, Dichten. Aufzählen. Fazit: Stoßlüften statt Kippen, Thermostat senken, Türen schließen und Fenster abdichten hilft. Fertig gedacht.","Stoßlüften statt Kippen, Thermostat senken, Türen schließen und Fenster abdichten hilft."
+638,Warum ist Plastik ein Problem?,"Hmm, was weiß ich darüber? Umwelt: langlebig, Müll, Mikroplastik. Erklären. Demnach: Plastik verrottet kaum, vermüllt Natur und Meere und zerfällt zu Mikroplastik. Das ergibt Sinn.","Plastik verrottet kaum, vermüllt Natur und Meere und zerfällt zu Mikroplastik."
+639,Wie trennt man Müll richtig?,"Also gut, denken wir nach. Regeln Deutschland: Papier, Plastik, Bio, Rest. Erklären. Demnach: Papier in Papier, Verpackungen in Gelb, Essen in Bio, Rest in Restmüll. Glas nach Farben. Klingt logisch.","Papier in Papier, Verpackungen in Gelb, Essen in Bio, Rest in Restmüll. Glas nach Farben."
+640,Was ist Recycling?,"Lass mich das sortieren. Definition: Abfall wiederverwerten. Erklären. Demnach: Recycling bedeutet, Abfälle zu sammeln und daraus neue Produkte zu machen. Damit bin ich mir sicher.","Recycling bedeutet, Abfälle zu sammeln und daraus neue Produkte zu machen."
+641,Was ist der Treibhauseffekt?,"Hmm, was weiß ich darüber? Klima: Gase halten Wärme. Erklären. Demnach: Der Treibhauseffekt hält Wärme in der Atmosphäre. Zu viele Treibhausgase erwärmen das Klima zusätzlich. Fertig gedacht.",Der Treibhauseffekt hält Wärme in der Atmosphäre. Zu viele Treibhausgase erwärmen das Klima zusätzlich.
+642,Was ist der Klimawandel?,"Moment, lass mich nachdenken. Definition: langfristige Erwärmung durch Menschen. Erklären. Demnach: Klimawandel ist die langfristige Erwärmung des Klimas, vor allem durch Treibhausgase aus Verkehr, Industrie und Energie. Das ergibt Sinn.","Klimawandel ist die langfristige Erwärmung des Klimas, vor allem durch Treibhausgase aus Verkehr, Industrie und Energie."
+643,Was ist ein Erdbeben?,"Okay, Schritt für Schritt. Geo: Platten bewegen sich. Erklären. Antwort also: Ein Erdbeben entsteht, wenn sich Erdplatten ruckartig bewegen und Energie freisetzen. Fertig gedacht.","Ein Erdbeben entsteht, wenn sich Erdplatten ruckartig bewegen und Energie freisetzen."
+644,Was ist ein Vulkan?,"Also gut, denken wir nach. Geo: Magma tritt aus. Erklären. Fazit: Ein Vulkan ist eine Öffnung, aus der Magma, Asche und Gase aus dem Erdinneren austreten. Alles klar im Kopf.","Ein Vulkan ist eine Öffnung, aus der Magma, Asche und Gase aus dem Erdinneren austreten."
+645,Warum gibt es Tag und Nacht?,"Okay, Schritt für Schritt. Astronomie: Erdrotation. Erklären. Fazit: Tag und Nacht entstehen, weil sich die Erde dreht. Die Sonnenseite hat Tag, die andere Nacht. Okay, entschieden.","Tag und Nacht entstehen, weil sich die Erde dreht. Die Sonnenseite hat Tag, die andere Nacht."
+646,Warum gibt es Jahreszeiten?,"Moment, lass mich nachdenken. Astronomie: Neigung der Erdachse. Erklären. Antwort also: Jahreszeiten entstehen durch die Neigung der Erdachse: Mal ist eine Halbkugel mehr zur Sonne geneigt. Damit bin ich mir sicher.",Jahreszeiten entstehen durch die Neigung der Erdachse: Mal ist eine Halbkugel mehr zur Sonne geneigt.
+647,Was ist der Mond?,Lass mich das sortieren. Astronomie: Erdtrabant. Erklären. Demnach: Der Mond ist der natürliche Begleiter der Erde und umkreist sie. Fertig gedacht.,Der Mond ist der natürliche Begleiter der Erde und umkreist sie.
+648,Warum leuchtet der Mond?,"Also gut, denken wir nach. Reflexion: Sonnenlicht wird reflektiert. Demnach: Der Mond leuchtet, weil er Sonnenlicht reflektiert. Klingt logisch.","Der Mond leuchtet, weil er Sonnenlicht reflektiert."
+649,Was ist die Sonne?,"Okay, Schritt für Schritt. Astronomie: Stern, heißes Gas. Erklären. Fazit: Die Sonne ist ein Stern aus heißem Gas, der Licht und Wärme spendet. Das ergibt Sinn.","Die Sonne ist ein Stern aus heißem Gas, der Licht und Wärme spendet."
+650,Was ist ein Stern?,"Lass mich das sortieren. Astronomie: leuchtende Gaskugel. Erklären. Fazit: Ein Stern ist eine riesige leuchtende Gaskugel, die durch Kernfusion Energie erzeugt. Fertig gedacht.","Ein Stern ist eine riesige leuchtende Gaskugel, die durch Kernfusion Energie erzeugt."
+651,Was ist ein Planet?,"Lass mich das sortieren. Astronomie: umkreist Stern. Definieren. Fazit: Ein Planet ist ein Himmelskörper, der einen Stern umkreist. Alles klar im Kopf.","Ein Planet ist ein Himmelskörper, der einen Stern umkreist."
+652,Wie viele Planeten hat unser Sonnensystem?,"Ich gehe das gedanklich durch. Fakt: 8. Aufzählen. Demnach: Unser Sonnensystem hat 8 Planeten: Merkur, Venus, Erde, Mars, Jupiter, Saturn, Uranus, Neptun. Ja, das passt.","Unser Sonnensystem hat 8 Planeten: Merkur, Venus, Erde, Mars, Jupiter, Saturn, Uranus, Neptun."
+653,Was ist die Milchstraße?,"Hmm, was weiß ich darüber? Astronomie: unsere Galaxie. Erklären. Antwort also: Die Milchstraße ist unsere Galaxie mit Milliarden Sternen, darunter die Sonne. Okay, entschieden.","Die Milchstraße ist unsere Galaxie mit Milliarden Sternen, darunter die Sonne."
+654,Was ist ein Atom?,"Also gut, denken wir nach. Physik: kleinster Baustein, Kern plus Elektronen. Erklären. Demnach: Ein Atom ist der kleinste Baustein der Materie aus Kern und Elektronen. Das ergibt Sinn.",Ein Atom ist der kleinste Baustein der Materie aus Kern und Elektronen.
+655,Was ist Chemie?,"Lass mich das sortieren. Fach: Stoffe und Reaktionen. Definieren. Fazit: Chemie ist die Wissenschaft von Stoffen und ihren Umwandlungen. Gut, weiter.",Chemie ist die Wissenschaft von Stoffen und ihren Umwandlungen.
+656,Was ist Physik?,"Hmm, was weiß ich darüber? Fach: Naturgesetze, Bewegung, Energie. Definieren. Demnach: Physik erforscht Naturgesetze wie Bewegung, Energie und Kräfte. Damit bin ich mir sicher.","Physik erforscht Naturgesetze wie Bewegung, Energie und Kräfte."
+657,Was ist Biologie?,"Erstmal in Ruhe überlegen. Fach: Lebewesen. Definieren. Demnach: Biologie ist die Wissenschaft von Lebewesen. Ja, das passt.",Biologie ist die Wissenschaft von Lebewesen.
+658,Was ist Mathematik?,"Gute Frage, ich überlege kurz. Fach: Zahlen, Formen, Logik. Definieren. Fazit: Mathematik beschäftigt sich mit Zahlen, Formen und logischen Strukturen. Klingt logisch.","Mathematik beschäftigt sich mit Zahlen, Formen und logischen Strukturen."
+659,Warum ist 0 wichtig?,"Okay, Schritt für Schritt. Mathe: Null als Zahl und Platzhalter. Erklären. Demnach: Die 0 steht für nichts und macht als Platzhalter unser Zahlensystem erst möglich. Fertig gedacht.",Die 0 steht für nichts und macht als Platzhalter unser Zahlensystem erst möglich.
+660,Was ist ein Experiment?,"Okay, Schritt für Schritt. Methode: Versuch mit Beobachtung. Erklären. Antwort also: Ein Experiment ist ein geplanter Versuch, um eine Vermutung zu prüfen. Alles klar im Kopf.","Ein Experiment ist ein geplanter Versuch, um eine Vermutung zu prüfen."
+661,Wie funktioniert ein Thermometer?,"Lass mich das sortieren. Prinzip: Ausdehnung oder Sensor. Erklären. Antwort also: Ein Thermometer misst Temperatur, klassisch über Ausdehnung von Flüssigkeit, digital über Sensoren. Gut, weiter.","Ein Thermometer misst Temperatur, klassisch über Ausdehnung von Flüssigkeit, digital über Sensoren."
+662,Wie funktioniert eine Batterie?,"Also gut, denken wir nach. Chemie zu Strom. Vereinfachen. Demnach: Eine Batterie wandelt chemische Energie in elektrische Energie um. Ja, das passt.",Eine Batterie wandelt chemische Energie in elektrische Energie um.
+663,Wie funktioniert Solarstrom?,Erstmal in Ruhe überlegen. Prinzip: Licht zu Strom per Solarzelle. Erklären. Demnach: Solarzellen wandeln Sonnenlicht direkt in elektrischen Strom um. Alles klar im Kopf.,Solarzellen wandeln Sonnenlicht direkt in elektrischen Strom um.
+664,Wie funktioniert Windstrom?,"Ich gehe das gedanklich durch. Prinzip: Wind dreht Rotor, Generator. Erklären. Demnach: Wind dreht Rotorblätter, ein Generator wandelt die Bewegung in Strom um. Klingt logisch.","Wind dreht Rotorblätter, ein Generator wandelt die Bewegung in Strom um."
+665,Was ist der Unterschied zwischen Hund und Katze?,"Ich gehe das gedanklich durch. Vergleich: Rudel vs Einzelgänger, Pflege. Gegenüberstellen. Demnach: Hunde sind Rudeltiere und brauchen viel Auslauf und Erziehung, Katzen sind eigenständiger und pflegeleichter. Alles klar im Kopf.","Hunde sind Rudeltiere und brauchen viel Auslauf und Erziehung, Katzen sind eigenständiger und pflegeleichter."
+666,Warum miauen Katzen?,"Gute Frage, ich überlege kurz. Verhalten: Kommunikation mit Menschen. Erklären. Antwort also: Katzen miauen vor allem, um mit Menschen zu kommunizieren, etwa bei Hunger oder Aufmerksamkeit. Fertig gedacht.","Katzen miauen vor allem, um mit Menschen zu kommunizieren, etwa bei Hunger oder Aufmerksamkeit."
+667,Warum bellen Hunde?,"Also gut, denken wir nach. Verhalten: Warnung, Freude, Aufregung. Antwort also: Hunde bellen zur Warnung, aus Freude oder Aufregung. Ja, das passt.","Hunde bellen zur Warnung, aus Freude oder Aufregung."
+668,Was fressen Vögel im Winter?,"Hmm, was weiß ich darüber? Bio: Körner, Fett, Beeren. Nennen. Antwort also: Im Winter fressen Vögel Körner, Fettfutter und Beeren. Das ergibt Sinn.","Im Winter fressen Vögel Körner, Fettfutter und Beeren."
+669,Warum fliegen Vögel in den Süden?,"Ich gehe das gedanklich durch. Bio: Nahrung und Wärme. Erklären. Fazit: Viele Vögel ziehen in den Süden, weil dort Nahrung und Wärme leichter zu finden sind. Gut, weiter.","Viele Vögel ziehen in den Süden, weil dort Nahrung und Wärme leichter zu finden sind."
+670,Was ist ein Säugetier?,"Hmm, was weiß ich darüber? Definition: Fell, lebend gebären, säugen. Erklären. Demnach: Säugetiere haben Fell, gebären lebende Junge und säugen sie mit Milch. Ja, das passt.","Säugetiere haben Fell, gebären lebende Junge und säugen sie mit Milch."
+671,Was ist ein Insekt?,"Also gut, denken wir nach. Definition: 6 Beine, 3 Körperteile. Erklären. Antwort also: Insekten haben sechs Beine und drei Körperabschnitte wie Kopf, Brust und Hinterleib. Das ergibt Sinn.","Insekten haben sechs Beine und drei Körperabschnitte wie Kopf, Brust und Hinterleib."
+672,Warum stechen Mücken?,"Okay, Schritt für Schritt. Bio: Weibchen brauchen Blut für Eier. Erklären. Demnach: Nur weibliche Mücken stechen, weil sie Blut für die Eierproduktion brauchen. Okay, entschieden.","Nur weibliche Mücken stechen, weil sie Blut für die Eierproduktion brauchen."
+673,Was hilft gegen Mückenstiche?,"Hmm, was weiß ich darüber? Tipps: kühlen, nicht kratzen, Apotheke bei stark. Nennen. Demnach: Kühlen hilft, nicht kratzen. Bei starken Reaktionen aus der Apotheke oder vom Arzt beraten lassen. Damit bin ich mir sicher.","Kühlen hilft, nicht kratzen. Bei starken Reaktionen aus der Apotheke oder vom Arzt beraten lassen."
+674,Was ist Honig?,"Hmm, was weiß ich darüber? Fakt: Bienen aus Nektar. Erklären. Demnach: Honig wird von Bienen aus Blütennektar hergestellt. Gut, weiter.",Honig wird von Bienen aus Blütennektar hergestellt.
+675,Warum sind Bienen wichtig?,Lass mich das sortieren. Ökologie: Bestäubung. Erklären. Demnach: Bienen bestäuben Pflanzen und sichern so Ernten und Artenvielfalt. Fertig gedacht.,Bienen bestäuben Pflanzen und sichern so Ernten und Artenvielfalt.
+676,Was ist ein Baum?,"Lass mich das sortieren. Definition: verholzte Pflanze mit Stamm. Erklären. Antwort also: Ein Baum ist eine verholzte Pflanze mit Stamm, Ästen und Blättern oder Nadeln. Damit bin ich mir sicher.","Ein Baum ist eine verholzte Pflanze mit Stamm, Ästen und Blättern oder Nadeln."
+677,Warum sind Blätter grün?,"Moment, lass mich nachdenken. Bio: Chlorophyll. Erklären. Fazit: Blätter sind grün wegen Chlorophyll, dem Farbstoff für Fotosynthese. Alles klar im Kopf.","Blätter sind grün wegen Chlorophyll, dem Farbstoff für Fotosynthese."
+678,Warum fallen Blätter im Herbst?,"Moment, lass mich nachdenken. Bio: Wasser sparen, Frostschutz. Erklären. Antwort also: Bäume werfen Blätter ab, um im Winter Wasser zu sparen und Frost zu überstehen. Gut, weiter.","Bäume werfen Blätter ab, um im Winter Wasser zu sparen und Frost zu überstehen."
+679,Erkläre Schwerkraft in einem Satz.,"Erstmal in Ruhe überlegen. Begriff Schwerkraft kurz definieren und einfach formulieren. Fazit: Schwerkraft kurz: Anziehung der Erde nach unten. Gut, weiter.",Schwerkraft kurz: Anziehung der Erde nach unten.
+680,Erkläre Fotosynthese in einem Satz.,"Hmm, was weiß ich darüber? Begriff Fotosynthese kurz definieren und einfach formulieren. Fazit: Fotosynthese kurz: Pflanzen machen aus Licht Zucker und Sauerstoff. Okay, entschieden.",Fotosynthese kurz: Pflanzen machen aus Licht Zucker und Sauerstoff.
+681,Erkläre Regen in einem Satz.,"Hmm, was weiß ich darüber? Begriff Regen kurz definieren und einfach formulieren. Antwort also: Regen kurz: Wasser fällt als Tropfen aus Wolken. Okay, entschieden.",Regen kurz: Wasser fällt als Tropfen aus Wolken.
+682,Erkläre Strom in einem Satz.,Lass mich das sortieren. Begriff Strom kurz definieren und einfach formulieren. Demnach: Strom kurz: Bewegung elektrischer Ladungen. Klingt logisch.,Strom kurz: Bewegung elektrischer Ladungen.
+683,Erkläre Virus in einem Satz.,"Okay, Schritt für Schritt. Begriff Virus kurz definieren und einfach formulieren. Antwort also: Virus kurz: Winziger Erreger, braucht Wirtszelle. Das ergibt Sinn.","Virus kurz: Winziger Erreger, braucht Wirtszelle."
+684,Erkläre Schlaf in einem Satz.,"Okay, Schritt für Schritt. Begriff Schlaf kurz definieren und einfach formulieren. Antwort also: Schlaf kurz: Erholung für Körper und Gehirn. Damit bin ich mir sicher.",Schlaf kurz: Erholung für Körper und Gehirn.
+685,Erkläre Wasser in einem Satz.,"Ich gehe das gedanklich durch. Begriff Wasser kurz definieren und einfach formulieren. Fazit: Wasser kurz: H2O, lebenswichtig. Okay, entschieden.","Wasser kurz: H2O, lebenswichtig."
+686,Erkläre Luft in einem Satz.,Lass mich das sortieren. Begriff Luft kurz definieren und einfach formulieren. Fazit: Luft kurz: Gemisch aus Stickstoff und Sauerstoff. Klingt logisch.,Luft kurz: Gemisch aus Stickstoff und Sauerstoff.
+687,Erkläre Sonne in einem Satz.,"Lass mich das sortieren. Begriff Sonne kurz definieren und einfach formulieren. Fazit: Sonne kurz: Unser Stern, spendet Licht und Wärme. Okay, entschieden.","Sonne kurz: Unser Stern, spendet Licht und Wärme."
+688,Erkläre Mond in einem Satz.,"Also gut, denken wir nach. Begriff Mond kurz definieren und einfach formulieren. Fazit: Mond kurz: Begleiter der Erde, reflektiert Sonnenlicht. Ja, das passt.","Mond kurz: Begleiter der Erde, reflektiert Sonnenlicht."
+689,Was ist Schwerkraft? (kurz),"Also gut, denken wir nach. Begriff Schwerkraft kurz definieren und einfach formulieren. Demnach: Schwerkraft kurz: Anziehung der Erde nach unten. Alles klar im Kopf.",Schwerkraft kurz: Anziehung der Erde nach unten.
+690,Was ist Regen? (kurz),"Also gut, denken wir nach. Begriff Regen kurz definieren und einfach formulieren. Demnach: Regen kurz: Wasser fällt als Tropfen aus Wolken. Ja, das passt.",Regen kurz: Wasser fällt als Tropfen aus Wolken.
+691,Was ist Virus? (kurz),"Hmm, was weiß ich darüber? Begriff Virus kurz definieren und einfach formulieren. Fazit: Virus kurz: Winziger Erreger, braucht Wirtszelle. Klingt logisch.","Virus kurz: Winziger Erreger, braucht Wirtszelle."
+692,Was ist Wasser? (kurz),"Also gut, denken wir nach. Begriff Wasser kurz definieren und einfach formulieren. Fazit: Wasser kurz: H2O, lebenswichtig. Das ergibt Sinn.","Wasser kurz: H2O, lebenswichtig."
+693,Was ist Sonne? (kurz),"Also gut, denken wir nach. Begriff Sonne kurz definieren und einfach formulieren. Demnach: Sonne kurz: Unser Stern, spendet Licht und Wärme. Gut, weiter.","Sonne kurz: Unser Stern, spendet Licht und Wärme."
+694,Was ist 25 mal 4?,Ich gehe das gedanklich durch. Mathe-Rechnung: 25*4=100. Kurz rechnen und prüfen. Probe: 25 mal 4 ist 100. Stimmt. Das ergibt Sinn.,25 mal 4 ist 100.
+695,Was ist 12 Prozent von 200?,"Erstmal in Ruhe überlegen. Prozent rechnen: 200*0,12=24. Nachrechnen: 12 Prozent von 200 sind 24. Passt. Fertig gedacht.",12 Prozent von 200 sind 24.
+696,Was ist 7 mal 8 plus 10?,Lass mich das sortieren. Rechenreihenfolge: 7*8=56 +10=66. Nachrechnen. Nachrechnen: Das sind 66. Passt. Alles klar im Kopf.,Das sind 66.
+697,"Wenn ein Zug um 14:30 losfährt und 2 Stunden 15 Minuten braucht, wann kommt er an?","Also gut, denken wir nach. Zeit addieren: 14:30 + 2:15 = 16:45. Kontrolle: Er kommt um 16:45 an. Richtig. Das ergibt Sinn.",Er kommt um 16:45 an.
+698,"Ich habe 3 Äpfel und esse 1, wie viele bleiben?","Also gut, denken wir nach. Subtraktion: 3-1=2. Probe: Es bleiben 2 Äpfel. Stimmt. Das ergibt Sinn.",Es bleiben 2 Äpfel.
+699,"Wenn ich um 22 Uhr ins Bett gehe und um 6 Uhr aufstehe, wie lange schlafe ich?","Moment, lass mich nachdenken. Dauer: 22 bis 6 = 8 Stunden. Probe: Du schläfst 8 Stunden. Stimmt. Okay, entschieden.",Du schläfst 8 Stunden.
+700,Teile 100 Euro fair auf 4 Personen auf.,"Also gut, denken wir nach. Division: 100/4=25. Probe: Jede Person bekommt 25 Euro. Stimmt. Das ergibt Sinn.",Jede Person bekommt 25 Euro.
+701,Wie viele Minuten sind 2 Stunden?,Lass mich das sortieren. Umrechnen: 2*60=120. Kontrolle: 2 Stunden sind 120 Minuten. Richtig. Alles klar im Kopf.,2 Stunden sind 120 Minuten.
+702,Wie viele Tage hat ein Jahr?,"Also gut, denken wir nach. Fakt: 365, Schaltjahr 366. Antwort also: Ein Jahr hat 365 Tage, ein Schaltjahr 366 Tage. Damit bin ich mir sicher.","Ein Jahr hat 365 Tage, ein Schaltjahr 366 Tage."
+703,Wie viele Sekunden hat eine Minute?,"Hmm, was weiß ich darüber? Fakt: 60. Fazit: Eine Minute hat 60 Sekunden. Das ergibt Sinn.",Eine Minute hat 60 Sekunden.
+704,Was ist 22 plus 11?,"Gute Frage, ich überlege kurz. Addieren: 22+11=33. Nachrechnen. Probe: 22 plus 11 ist 33. Stimmt. Gut, weiter.",22 plus 11 ist 33.
+705,Was ist 43 minus 27?,Erstmal in Ruhe überlegen. Subtrahieren: 43-27=16. Nachrechnen: 43 minus 27 ist 16. Passt. Klingt logisch.,43 minus 27 ist 16.
+706,Was ist 10 mal 3?,Lass mich das sortieren. Multiplizieren: 10*3=30. Nachrechnen: 10 mal 3 ist 30. Passt. Klingt logisch.,10 mal 3 ist 30.
+707,Was ist 36 geteilt durch 2?,Lass mich das sortieren. Dividieren: 36/2=18. Probe: 36 geteilt durch 2 ist 18. Stimmt. Fertig gedacht.,36 geteilt durch 2 ist 18.
+708,Was sind 5 Prozent von 400?,"Erstmal in Ruhe überlegen. Prozent: 400*5/100=20. Kontrolle: 5 Prozent von 400 sind 20. Richtig. Okay, entschieden.",5 Prozent von 400 sind 20.
+709,Was ist 28 plus 6?,"Gute Frage, ich überlege kurz. Addieren: 28+6=34. Nachrechnen. Nachrechnen: 28 plus 6 ist 34. Passt. Fertig gedacht.",28 plus 6 ist 34.
+710,Was ist 17 minus 7?,"Gute Frage, ich überlege kurz. Subtrahieren: 17-7=10. Nachrechnen: 17 minus 7 ist 10. Passt. Ja, das passt.",17 minus 7 ist 10.
+711,Was ist 2 mal 11?,"Hmm, was weiß ich darüber? Multiplizieren: 2*11=22. Kontrolle: 2 mal 11 ist 22. Richtig. Das ergibt Sinn.",2 mal 11 ist 22.
+712,Was ist 240 geteilt durch 12?,Erstmal in Ruhe überlegen. Dividieren: 240/12=20. Kontrolle: 240 geteilt durch 12 ist 20. Richtig. Klingt logisch.,240 geteilt durch 12 ist 20.
+713,Was sind 25 Prozent von 400?,Lass mich das sortieren. Prozent: 400*25/100=100. Kontrolle: 25 Prozent von 400 sind 100. Richtig. Damit bin ich mir sicher.,25 Prozent von 400 sind 100.
+714,Was ist 5 plus 16?,"Okay, Schritt für Schritt. Addieren: 5+16=21. Nachrechnen. Probe: 5 plus 16 ist 21. Stimmt. Ja, das passt.",5 plus 16 ist 21.
+715,Was ist 37 minus 4?,Lass mich das sortieren. Subtrahieren: 37-4=33. Kontrolle: 37 minus 4 ist 33. Richtig. Fertig gedacht.,37 minus 4 ist 33.
+716,Was ist 8 mal 4?,"Okay, Schritt für Schritt. Multiplizieren: 8*4=32. Probe: 8 mal 4 ist 32. Stimmt. Das ergibt Sinn.",8 mal 4 ist 32.
+717,Was ist 121 geteilt durch 11?,"Moment, lass mich nachdenken. Dividieren: 121/11=11. Probe: 121 geteilt durch 11 ist 11. Stimmt. Klingt logisch.",121 geteilt durch 11 ist 11.
+718,Was sind 10 Prozent von 100?,"Also gut, denken wir nach. Prozent: 100*10/100=10. Kontrolle: 10 Prozent von 100 sind 10. Richtig. Fertig gedacht.",10 Prozent von 100 sind 10.
+719,Was ist 39 plus 38?,"Gute Frage, ich überlege kurz. Addieren: 39+38=77. Nachrechnen. Nachrechnen: 39 plus 38 ist 77. Passt. Damit bin ich mir sicher.",39 plus 38 ist 77.
+720,Was ist 42 minus 14?,Erstmal in Ruhe überlegen. Subtrahieren: 42-14=28. Kontrolle: 42 minus 14 ist 28. Richtig. Klingt logisch.,42 minus 14 ist 28.
+721,Was ist 88 geteilt durch 11?,"Hmm, was weiß ich darüber? Dividieren: 88/11=8. Nachrechnen: 88 geteilt durch 11 ist 8. Passt. Okay, entschieden.",88 geteilt durch 11 ist 8.
+722,Was ist 22 plus 31?,"Lass mich das sortieren. Addieren: 22+31=53. Nachrechnen. Probe: 22 plus 31 ist 53. Stimmt. Ja, das passt.",22 plus 31 ist 53.
+723,Was ist 39 minus 31?,"Erstmal in Ruhe überlegen. Subtrahieren: 39-31=8. Kontrolle: 39 minus 31 ist 8. Richtig. Gut, weiter.",39 minus 31 ist 8.
+724,Was ist 5 mal 4?,"Moment, lass mich nachdenken. Multiplizieren: 5*4=20. Nachrechnen: 5 mal 4 ist 20. Passt. Damit bin ich mir sicher.",5 mal 4 ist 20.
+725,Was ist 60 geteilt durch 3?,"Okay, Schritt für Schritt. Dividieren: 60/3=20. Probe: 60 geteilt durch 3 ist 20. Stimmt. Ja, das passt.",60 geteilt durch 3 ist 20.
+726,Was sind 20 Prozent von 300?,"Hmm, was weiß ich darüber? Prozent: 300*20/100=60. Probe: 20 Prozent von 300 sind 60. Stimmt. Gut, weiter.",20 Prozent von 300 sind 60.
+727,Was ist 48 plus 30?,"Gute Frage, ich überlege kurz. Addieren: 48+30=78. Nachrechnen. Nachrechnen: 48 plus 30 ist 78. Passt. Okay, entschieden.",48 plus 30 ist 78.
+728,Was ist 40 minus 20?,"Also gut, denken wir nach. Subtrahieren: 40-20=20. Nachrechnen: 40 minus 20 ist 20. Passt. Okay, entschieden.",40 minus 20 ist 20.
+729,Was ist 10 mal 8?,Erstmal in Ruhe überlegen. Multiplizieren: 10*8=80. Nachrechnen: 10 mal 8 ist 80. Passt. Klingt logisch.,10 mal 8 ist 80.
+730,Was ist 42 geteilt durch 7?,"Also gut, denken wir nach. Dividieren: 42/7=6. Nachrechnen: 42 geteilt durch 7 ist 6. Passt. Alles klar im Kopf.",42 geteilt durch 7 ist 6.
+731,Was sind 5 Prozent von 1000?,"Hmm, was weiß ich darüber? Prozent: 1000*5/100=50. Nachrechnen: 5 Prozent von 1000 sind 50. Passt. Klingt logisch.",5 Prozent von 1000 sind 50.
+732,Was ist 6 plus 50?,"Also gut, denken wir nach. Addieren: 6+50=56. Nachrechnen. Nachrechnen: 6 plus 50 ist 56. Passt. Gut, weiter.",6 plus 50 ist 56.
+733,Was ist 38 minus 37?,"Hmm, was weiß ich darüber? Subtrahieren: 38-37=1. Kontrolle: 38 minus 37 ist 1. Richtig. Damit bin ich mir sicher.",38 minus 37 ist 1.
+734,Was ist 7 mal 11?,"Also gut, denken wir nach. Multiplizieren: 7*11=77. Kontrolle: 7 mal 11 ist 77. Richtig. Das ergibt Sinn.",7 mal 11 ist 77.
+735,Was ist 36 geteilt durch 9?,"Moment, lass mich nachdenken. Dividieren: 36/9=4. Probe: 36 geteilt durch 9 ist 4. Stimmt. Okay, entschieden.",36 geteilt durch 9 ist 4.
+736,Was sind 20 Prozent von 1000?,"Lass mich das sortieren. Prozent: 1000*20/100=200. Probe: 20 Prozent von 1000 sind 200. Stimmt. Gut, weiter.",20 Prozent von 1000 sind 200.
+737,Was ist 44 plus 6?,"Also gut, denken wir nach. Addieren: 44+6=50. Nachrechnen. Kontrolle: 44 plus 6 ist 50. Richtig. Gut, weiter.",44 plus 6 ist 50.
+738,Was ist 48 minus 5?,Ich gehe das gedanklich durch. Subtrahieren: 48-5=43. Probe: 48 minus 5 ist 43. Stimmt. Damit bin ich mir sicher.,48 minus 5 ist 43.
+739,Was ist 12 mal 11?,"Hmm, was weiß ich darüber? Multiplizieren: 12*11=132. Probe: 12 mal 11 ist 132. Stimmt. Gut, weiter.",12 mal 11 ist 132.
+740,Was ist 84 geteilt durch 6?,"Moment, lass mich nachdenken. Dividieren: 84/6=14. Nachrechnen: 84 geteilt durch 6 ist 14. Passt. Das ergibt Sinn.",84 geteilt durch 6 ist 14.
+741,Was ist 24 plus 12?,"Okay, Schritt für Schritt. Addieren: 24+12=36. Nachrechnen. Nachrechnen: 24 plus 12 ist 36. Passt. Fertig gedacht.",24 plus 12 ist 36.
+742,Was ist 41 minus 9?,"Also gut, denken wir nach. Subtrahieren: 41-9=32. Kontrolle: 41 minus 9 ist 32. Richtig. Klingt logisch.",41 minus 9 ist 32.
+743,Was ist 5 mal 6?,Erstmal in Ruhe überlegen. Multiplizieren: 5*6=30. Kontrolle: 5 mal 6 ist 30. Richtig. Klingt logisch.,5 mal 6 ist 30.
+744,Was ist 70 geteilt durch 5?,"Ich gehe das gedanklich durch. Dividieren: 70/5=14. Probe: 70 geteilt durch 5 ist 14. Stimmt. Okay, entschieden.",70 geteilt durch 5 ist 14.
+745,Was sind 5 Prozent von 200?,"Hmm, was weiß ich darüber? Prozent: 200*5/100=10. Nachrechnen: 5 Prozent von 200 sind 10. Passt. Okay, entschieden.",5 Prozent von 200 sind 10.
+746,Was ist 30 plus 27?,Lass mich das sortieren. Addieren: 30+27=57. Nachrechnen. Kontrolle: 30 plus 27 ist 57. Richtig. Damit bin ich mir sicher.,30 plus 27 ist 57.
+747,Was ist 37 minus 19?,"Moment, lass mich nachdenken. Subtrahieren: 37-19=18. Nachrechnen: 37 minus 19 ist 18. Passt. Ja, das passt.",37 minus 19 ist 18.
+748,Was ist 10 mal 6?,"Hmm, was weiß ich darüber? Multiplizieren: 10*6=60. Nachrechnen: 10 mal 6 ist 60. Passt. Das ergibt Sinn.",10 mal 6 ist 60.
+749,Was ist 98 geteilt durch 7?,"Hmm, was weiß ich darüber? Dividieren: 98/7=14. Nachrechnen: 98 geteilt durch 7 ist 14. Passt. Das ergibt Sinn.",98 geteilt durch 7 ist 14.
+750,Was ist 11 plus 16?,"Also gut, denken wir nach. Addieren: 11+16=27. Nachrechnen. Kontrolle: 11 plus 16 ist 27. Richtig. Das ergibt Sinn.",11 plus 16 ist 27.
+751,Was ist 44 minus 16?,"Gute Frage, ich überlege kurz. Subtrahieren: 44-16=28. Kontrolle: 44 minus 16 ist 28. Richtig. Gut, weiter.",44 minus 16 ist 28.
+752,Was ist 11 mal 4?,"Ich gehe das gedanklich durch. Multiplizieren: 11*4=44. Nachrechnen: 11 mal 4 ist 44. Passt. Ja, das passt.",11 mal 4 ist 44.
+753,Was ist 12 geteilt durch 2?,Erstmal in Ruhe überlegen. Dividieren: 12/2=6. Probe: 12 geteilt durch 2 ist 6. Stimmt. Damit bin ich mir sicher.,12 geteilt durch 2 ist 6.
+754,Was sind 15 Prozent von 500?,Lass mich das sortieren. Prozent: 500*15/100=75. Nachrechnen: 15 Prozent von 500 sind 75. Passt. Alles klar im Kopf.,15 Prozent von 500 sind 75.
+755,Was ist 38 plus 22?,"Okay, Schritt für Schritt. Addieren: 38+22=60. Nachrechnen. Nachrechnen: 38 plus 22 ist 60. Passt. Damit bin ich mir sicher.",38 plus 22 ist 60.
+756,Was ist 46 minus 10?,"Hmm, was weiß ich darüber? Subtrahieren: 46-10=36. Nachrechnen: 46 minus 10 ist 36. Passt. Klingt logisch.",46 minus 10 ist 36.
+757,Was ist 12 mal 12?,Ich gehe das gedanklich durch. Multiplizieren: 12*12=144. Probe: 12 mal 12 ist 144. Stimmt. Das ergibt Sinn.,12 mal 12 ist 144.
+758,Was ist 171 geteilt durch 9?,"Okay, Schritt für Schritt. Dividieren: 171/9=19. Probe: 171 geteilt durch 9 ist 19. Stimmt. Klingt logisch.",171 geteilt durch 9 ist 19.
+759,Was sind 20 Prozent von 400?,Lass mich das sortieren. Prozent: 400*20/100=80. Nachrechnen: 20 Prozent von 400 sind 80. Passt. Fertig gedacht.,20 Prozent von 400 sind 80.
+760,Was ist 8 plus 32?,"Lass mich das sortieren. Addieren: 8+32=40. Nachrechnen. Nachrechnen: 8 plus 32 ist 40. Passt. Gut, weiter.",8 plus 32 ist 40.
+761,Was ist 42 minus 27?,Ich gehe das gedanklich durch. Subtrahieren: 42-27=15. Kontrolle: 42 minus 27 ist 15. Richtig. Klingt logisch.,42 minus 27 ist 15.
+762,Was ist 3 mal 5?,"Also gut, denken wir nach. Multiplizieren: 3*5=15. Probe: 3 mal 5 ist 15. Stimmt. Alles klar im Kopf.",3 mal 5 ist 15.
+763,Was ist 36 geteilt durch 3?,"Hmm, was weiß ich darüber? Dividieren: 36/3=12. Kontrolle: 36 geteilt durch 3 ist 12. Richtig. Fertig gedacht.",36 geteilt durch 3 ist 12.
+764,Was sind 5 Prozent von 100?,Ich gehe das gedanklich durch. Prozent: 100*5/100=5. Probe: 5 Prozent von 100 sind 5. Stimmt. Alles klar im Kopf.,5 Prozent von 100 sind 5.
+765,Was ist 38 plus 11?,Erstmal in Ruhe überlegen. Addieren: 38+11=49. Nachrechnen. Nachrechnen: 38 plus 11 ist 49. Passt. Das ergibt Sinn.,38 plus 11 ist 49.
+766,Was ist 36 minus 8?,Lass mich das sortieren. Subtrahieren: 36-8=28. Kontrolle: 36 minus 8 ist 28. Richtig. Alles klar im Kopf.,36 minus 8 ist 28.
+767,Was ist 2 mal 3?,Lass mich das sortieren. Multiplizieren: 2*3=6. Kontrolle: 2 mal 3 ist 6. Richtig. Das ergibt Sinn.,2 mal 3 ist 6.
+768,Was ist 48 geteilt durch 8?,"Gute Frage, ich überlege kurz. Dividieren: 48/8=6. Probe: 48 geteilt durch 8 ist 6. Stimmt. Das ergibt Sinn.",48 geteilt durch 8 ist 6.
+769,Was ist 25 plus 32?,"Hmm, was weiß ich darüber? Addieren: 25+32=57. Nachrechnen. Nachrechnen: 25 plus 32 ist 57. Passt. Okay, entschieden.",25 plus 32 ist 57.
+770,Was ist 9 minus 9?,Lass mich das sortieren. Subtrahieren: 9-9=0. Kontrolle: 9 minus 9 ist 0. Richtig. Fertig gedacht.,9 minus 9 ist 0.
+771,Was ist 9 mal 9?,"Okay, Schritt für Schritt. Multiplizieren: 9*9=81. Probe: 9 mal 9 ist 81. Stimmt. Okay, entschieden.",9 mal 9 ist 81.
+772,Was ist 20 geteilt durch 4?,"Also gut, denken wir nach. Dividieren: 20/4=5. Nachrechnen: 20 geteilt durch 4 ist 5. Passt. Ja, das passt.",20 geteilt durch 4 ist 5.
+773,Was sind 50 Prozent von 300?,Erstmal in Ruhe überlegen. Prozent: 300*50/100=150. Kontrolle: 50 Prozent von 300 sind 150. Richtig. Das ergibt Sinn.,50 Prozent von 300 sind 150.
+774,Was ist 32 plus 46?,"Okay, Schritt für Schritt. Addieren: 32+46=78. Nachrechnen. Nachrechnen: 32 plus 46 ist 78. Passt. Fertig gedacht.",32 plus 46 ist 78.
+775,Was ist 35 minus 12?,Ich gehe das gedanklich durch. Subtrahieren: 35-12=23. Probe: 35 minus 12 ist 23. Stimmt. Klingt logisch.,35 minus 12 ist 23.
+776,Was ist 10 mal 7?,"Moment, lass mich nachdenken. Multiplizieren: 10*7=70. Probe: 10 mal 7 ist 70. Stimmt. Das ergibt Sinn.",10 mal 7 ist 70.
+777,Was ist 20 geteilt durch 10?,Ich gehe das gedanklich durch. Dividieren: 20/10=2. Nachrechnen: 20 geteilt durch 10 ist 2. Passt. Klingt logisch.,20 geteilt durch 10 ist 2.
+778,Was sind 15 Prozent von 1000?,"Hmm, was weiß ich darüber? Prozent: 1000*15/100=150. Nachrechnen: 15 Prozent von 1000 sind 150. Passt. Klingt logisch.",15 Prozent von 1000 sind 150.
+779,Was ist 7 plus 46?,"Gute Frage, ich überlege kurz. Addieren: 7+46=53. Nachrechnen. Probe: 7 plus 46 ist 53. Stimmt. Alles klar im Kopf.",7 plus 46 ist 53.
+780,Was ist 35 minus 18?,"Hmm, was weiß ich darüber? Subtrahieren: 35-18=17. Kontrolle: 35 minus 18 ist 17. Richtig. Klingt logisch.",35 minus 18 ist 17.
+781,Was ist 7 mal 5?,Ich gehe das gedanklich durch. Multiplizieren: 7*5=35. Probe: 7 mal 5 ist 35. Stimmt. Alles klar im Kopf.,7 mal 5 ist 35.
+782,Was ist 120 geteilt durch 10?,"Okay, Schritt für Schritt. Dividieren: 120/10=12. Nachrechnen: 120 geteilt durch 10 ist 12. Passt. Klingt logisch.",120 geteilt durch 10 ist 12.
+783,Was sind 25 Prozent von 200?,"Moment, lass mich nachdenken. Prozent: 200*25/100=50. Nachrechnen: 25 Prozent von 200 sind 50. Passt. Damit bin ich mir sicher.",25 Prozent von 200 sind 50.
+784,Was ist 17 plus 27?,"Gute Frage, ich überlege kurz. Addieren: 17+27=44. Nachrechnen. Probe: 17 plus 27 ist 44. Stimmt. Das ergibt Sinn.",17 plus 27 ist 44.
+785,Was ist 49 minus 16?,"Ich gehe das gedanklich durch. Subtrahieren: 49-16=33. Probe: 49 minus 16 ist 33. Stimmt. Gut, weiter.",49 minus 16 ist 33.
+786,Was ist 9 mal 7?,"Okay, Schritt für Schritt. Multiplizieren: 9*7=63. Nachrechnen: 9 mal 7 ist 63. Passt. Das ergibt Sinn.",9 mal 7 ist 63.
+787,Was ist 20 geteilt durch 2?,Erstmal in Ruhe überlegen. Dividieren: 20/2=10. Kontrolle: 20 geteilt durch 2 ist 10. Richtig. Alles klar im Kopf.,20 geteilt durch 2 ist 10.
+788,Was sind 10 Prozent von 1000?,"Moment, lass mich nachdenken. Prozent: 1000*10/100=100. Kontrolle: 10 Prozent von 1000 sind 100. Richtig. Klingt logisch.",10 Prozent von 1000 sind 100.
+789,Was ist 40 plus 24?,"Okay, Schritt für Schritt. Addieren: 40+24=64. Nachrechnen. Probe: 40 plus 24 ist 64. Stimmt. Klingt logisch.",40 plus 24 ist 64.
+790,Was ist 48 minus 30?,"Erstmal in Ruhe überlegen. Subtrahieren: 48-30=18. Kontrolle: 48 minus 30 ist 18. Richtig. Ja, das passt.",48 minus 30 ist 18.
+791,Was ist 72 geteilt durch 9?,Lass mich das sortieren. Dividieren: 72/9=8. Probe: 72 geteilt durch 9 ist 8. Stimmt. Damit bin ich mir sicher.,72 geteilt durch 9 ist 8.
+792,Was sind 20 Prozent von 500?,"Erstmal in Ruhe überlegen. Prozent: 500*20/100=100. Nachrechnen: 20 Prozent von 500 sind 100. Passt. Gut, weiter.",20 Prozent von 500 sind 100.
+793,Was ist 41 plus 2?,"Erstmal in Ruhe überlegen. Addieren: 41+2=43. Nachrechnen. Nachrechnen: 41 plus 2 ist 43. Passt. Gut, weiter.",41 plus 2 ist 43.
+794,Was ist 43 minus 32?,"Lass mich das sortieren. Subtrahieren: 43-32=11. Nachrechnen: 43 minus 32 ist 11. Passt. Okay, entschieden.",43 minus 32 ist 11.
+795,Was ist 3 mal 12?,"Moment, lass mich nachdenken. Multiplizieren: 3*12=36. Nachrechnen: 3 mal 12 ist 36. Passt. Damit bin ich mir sicher.",3 mal 12 ist 36.
+796,Was ist 85 geteilt durch 5?,"Ich gehe das gedanklich durch. Dividieren: 85/5=17. Kontrolle: 85 geteilt durch 5 ist 17. Richtig. Okay, entschieden.",85 geteilt durch 5 ist 17.
+797,Was ist 7 plus 48?,"Gute Frage, ich überlege kurz. Addieren: 7+48=55. Nachrechnen. Kontrolle: 7 plus 48 ist 55. Richtig. Gut, weiter.",7 plus 48 ist 55.
+798,Was ist 31 minus 27?,"Moment, lass mich nachdenken. Subtrahieren: 31-27=4. Probe: 31 minus 27 ist 4. Stimmt. Alles klar im Kopf.",31 minus 27 ist 4.
+799,Was ist 3 mal 4?,"Erstmal in Ruhe überlegen. Multiplizieren: 3*4=12. Nachrechnen: 3 mal 4 ist 12. Passt. Ja, das passt.",3 mal 4 ist 12.
+800,Was sind 50 Prozent von 200?,"Hmm, was weiß ich darüber? Prozent: 200*50/100=100. Kontrolle: 50 Prozent von 200 sind 100. Richtig. Klingt logisch.",50 Prozent von 200 sind 100.
+801,Was ist 41 plus 40?,"Gute Frage, ich überlege kurz. Addieren: 41+40=81. Nachrechnen. Probe: 41 plus 40 ist 81. Stimmt. Fertig gedacht.",41 plus 40 ist 81.
+802,Was ist 44 minus 32?,"Okay, Schritt für Schritt. Subtrahieren: 44-32=12. Kontrolle: 44 minus 32 ist 12. Richtig. Ja, das passt.",44 minus 32 ist 12.
+803,Was ist 10 mal 10?,"Erstmal in Ruhe überlegen. Multiplizieren: 10*10=100. Kontrolle: 10 mal 10 ist 100. Richtig. Ja, das passt.",10 mal 10 ist 100.
+804,Was ist 10 geteilt durch 2?,"Also gut, denken wir nach. Dividieren: 10/2=5. Nachrechnen: 10 geteilt durch 2 ist 5. Passt. Klingt logisch.",10 geteilt durch 2 ist 5.
+805,Was sind 10 Prozent von 400?,"Okay, Schritt für Schritt. Prozent: 400*10/100=40. Nachrechnen: 10 Prozent von 400 sind 40. Passt. Alles klar im Kopf.",10 Prozent von 400 sind 40.
+806,Was ist 14 plus 15?,"Gute Frage, ich überlege kurz. Addieren: 14+15=29. Nachrechnen. Nachrechnen: 14 plus 15 ist 29. Passt. Das ergibt Sinn.",14 plus 15 ist 29.
+807,Was ist 18 minus 3?,"Gute Frage, ich überlege kurz. Subtrahieren: 18-3=15. Probe: 18 minus 3 ist 15. Stimmt. Klingt logisch.",18 minus 3 ist 15.
+808,Was ist 10 mal 5?,"Moment, lass mich nachdenken. Multiplizieren: 10*5=50. Kontrolle: 10 mal 5 ist 50. Richtig. Das ergibt Sinn.",10 mal 5 ist 50.
+809,Was ist 70 geteilt durch 7?,Lass mich das sortieren. Dividieren: 70/7=10. Nachrechnen: 70 geteilt durch 7 ist 10. Passt. Damit bin ich mir sicher.,70 geteilt durch 7 ist 10.
+810,Was ist 49 plus 24?,"Okay, Schritt für Schritt. Addieren: 49+24=73. Nachrechnen. Nachrechnen: 49 plus 24 ist 73. Passt. Fertig gedacht.",49 plus 24 ist 73.
+811,Was ist 44 minus 31?,Erstmal in Ruhe überlegen. Subtrahieren: 44-31=13. Probe: 44 minus 31 ist 13. Stimmt. Damit bin ich mir sicher.,44 minus 31 ist 13.
+812,Was ist 8 mal 10?,"Moment, lass mich nachdenken. Multiplizieren: 8*10=80. Kontrolle: 8 mal 10 ist 80. Richtig. Ja, das passt.",8 mal 10 ist 80.
+813,Was ist 72 geteilt durch 4?,"Also gut, denken wir nach. Dividieren: 72/4=18. Kontrolle: 72 geteilt durch 4 ist 18. Richtig. Okay, entschieden.",72 geteilt durch 4 ist 18.
+814,Was sind 20 Prozent von 200?,"Also gut, denken wir nach. Prozent: 200*20/100=40. Nachrechnen: 20 Prozent von 200 sind 40. Passt. Klingt logisch.",20 Prozent von 200 sind 40.
+815,Was ist 40 plus 2?,"Hmm, was weiß ich darüber? Addieren: 40+2=42. Nachrechnen. Nachrechnen: 40 plus 2 ist 42. Passt. Ja, das passt.",40 plus 2 ist 42.
+816,Was ist 13 minus 11?,"Ich gehe das gedanklich durch. Subtrahieren: 13-11=2. Nachrechnen: 13 minus 11 ist 2. Passt. Okay, entschieden.",13 minus 11 ist 2.
+817,Was ist 11 mal 3?,"Okay, Schritt für Schritt. Multiplizieren: 11*3=33. Kontrolle: 11 mal 3 ist 33. Richtig. Ja, das passt.",11 mal 3 ist 33.
+818,Was ist 126 geteilt durch 7?,Lass mich das sortieren. Dividieren: 126/7=18. Nachrechnen: 126 geteilt durch 7 ist 18. Passt. Damit bin ich mir sicher.,126 geteilt durch 7 ist 18.
+819,Was sind 20 Prozent von 100?,"Also gut, denken wir nach. Prozent: 100*20/100=20. Probe: 20 Prozent von 100 sind 20. Stimmt. Gut, weiter.",20 Prozent von 100 sind 20.
+820,Was ist 37 plus 5?,"Also gut, denken wir nach. Addieren: 37+5=42. Nachrechnen. Probe: 37 plus 5 ist 42. Stimmt. Gut, weiter.",37 plus 5 ist 42.
+821,Was ist 17 minus 14?,"Also gut, denken wir nach. Subtrahieren: 17-14=3. Kontrolle: 17 minus 14 ist 3. Richtig. Fertig gedacht.",17 minus 14 ist 3.
+822,Was ist 3 mal 10?,"Gute Frage, ich überlege kurz. Multiplizieren: 3*10=30. Kontrolle: 3 mal 10 ist 30. Richtig. Damit bin ich mir sicher.",3 mal 10 ist 30.
+823,Was ist 8 geteilt durch 2?,"Moment, lass mich nachdenken. Dividieren: 8/2=4. Nachrechnen: 8 geteilt durch 2 ist 4. Passt. Fertig gedacht.",8 geteilt durch 2 ist 4.
+824,Was sind 25 Prozent von 500?,"Gute Frage, ich überlege kurz. Prozent: 500*25/100=125. Nachrechnen: 25 Prozent von 500 sind 125. Passt. Damit bin ich mir sicher.",25 Prozent von 500 sind 125.
+825,Was ist 40 plus 34?,"Moment, lass mich nachdenken. Addieren: 40+34=74. Nachrechnen. Nachrechnen: 40 plus 34 ist 74. Passt. Ja, das passt.",40 plus 34 ist 74.
+826,Was ist 46 minus 14?,Ich gehe das gedanklich durch. Subtrahieren: 46-14=32. Nachrechnen: 46 minus 14 ist 32. Passt. Klingt logisch.,46 minus 14 ist 32.
+827,Was ist 90 geteilt durch 5?,Lass mich das sortieren. Dividieren: 90/5=18. Nachrechnen: 90 geteilt durch 5 ist 18. Passt. Alles klar im Kopf.,90 geteilt durch 5 ist 18.
+828,Was ist 10 plus 28?,"Moment, lass mich nachdenken. Addieren: 10+28=38. Nachrechnen. Nachrechnen: 10 plus 28 ist 38. Passt. Ja, das passt.",10 plus 28 ist 38.
+829,Was ist 27 minus 9?,"Gute Frage, ich überlege kurz. Subtrahieren: 27-9=18. Nachrechnen: 27 minus 9 ist 18. Passt. Gut, weiter.",27 minus 9 ist 18.
+830,Was ist 24 geteilt durch 3?,"Moment, lass mich nachdenken. Dividieren: 24/3=8. Nachrechnen: 24 geteilt durch 3 ist 8. Passt. Gut, weiter.",24 geteilt durch 3 ist 8.
+831,Was ist 47 plus 43?,"Ich gehe das gedanklich durch. Addieren: 47+43=90. Nachrechnen. Nachrechnen: 47 plus 43 ist 90. Passt. Okay, entschieden.",47 plus 43 ist 90.
+832,Was ist 44 minus 25?,"Gute Frage, ich überlege kurz. Subtrahieren: 44-25=19. Probe: 44 minus 25 ist 19. Stimmt. Alles klar im Kopf.",44 minus 25 ist 19.
+833,Was ist 4 mal 9?,"Moment, lass mich nachdenken. Multiplizieren: 4*9=36. Nachrechnen: 4 mal 9 ist 36. Passt. Alles klar im Kopf.",4 mal 9 ist 36.
+834,Was ist 42 geteilt durch 3?,"Hmm, was weiß ich darüber? Dividieren: 42/3=14. Probe: 42 geteilt durch 3 ist 14. Stimmt. Fertig gedacht.",42 geteilt durch 3 ist 14.
+835,Was ist 12 plus 47?,"Gute Frage, ich überlege kurz. Addieren: 12+47=59. Nachrechnen. Kontrolle: 12 plus 47 ist 59. Richtig. Fertig gedacht.",12 plus 47 ist 59.
+836,Was ist 34 minus 29?,"Okay, Schritt für Schritt. Subtrahieren: 34-29=5. Kontrolle: 34 minus 29 ist 5. Richtig. Gut, weiter.",34 minus 29 ist 5.
+837,Was ist 8 mal 5?,"Gute Frage, ich überlege kurz. Multiplizieren: 8*5=40. Kontrolle: 8 mal 5 ist 40. Richtig. Damit bin ich mir sicher.",8 mal 5 ist 40.
+838,Was ist 39 geteilt durch 3?,"Hmm, was weiß ich darüber? Dividieren: 39/3=13. Kontrolle: 39 geteilt durch 3 ist 13. Richtig. Alles klar im Kopf.",39 geteilt durch 3 ist 13.
+839,Was ist 30 plus 47?,"Gute Frage, ich überlege kurz. Addieren: 30+47=77. Nachrechnen. Kontrolle: 30 plus 47 ist 77. Richtig. Okay, entschieden.",30 plus 47 ist 77.
+840,Was ist 26 minus 3?,"Moment, lass mich nachdenken. Subtrahieren: 26-3=23. Kontrolle: 26 minus 3 ist 23. Richtig. Damit bin ich mir sicher.",26 minus 3 ist 23.
+841,Was ist 11 mal 6?,"Hmm, was weiß ich darüber? Multiplizieren: 11*6=66. Kontrolle: 11 mal 6 ist 66. Richtig. Alles klar im Kopf.",11 mal 6 ist 66.
+842,Was ist 27 geteilt durch 3?,"Hmm, was weiß ich darüber? Dividieren: 27/3=9. Kontrolle: 27 geteilt durch 3 ist 9. Richtig. Damit bin ich mir sicher.",27 geteilt durch 3 ist 9.
+843,Was sind 15 Prozent von 300?,"Moment, lass mich nachdenken. Prozent: 300*15/100=45. Kontrolle: 15 Prozent von 300 sind 45. Richtig. Das ergibt Sinn.",15 Prozent von 300 sind 45.
+844,Was ist 4 plus 13?,"Okay, Schritt für Schritt. Addieren: 4+13=17. Nachrechnen. Probe: 4 plus 13 ist 17. Stimmt. Okay, entschieden.",4 plus 13 ist 17.
+845,Was ist 50 minus 19?,Erstmal in Ruhe überlegen. Subtrahieren: 50-19=31. Nachrechnen: 50 minus 19 ist 31. Passt. Alles klar im Kopf.,50 minus 19 ist 31.
+846,Was ist 12 mal 6?,"Gute Frage, ich überlege kurz. Multiplizieren: 12*6=72. Nachrechnen: 12 mal 6 ist 72. Passt. Damit bin ich mir sicher.",12 mal 6 ist 72.
+847,Was ist 180 geteilt durch 10?,"Erstmal in Ruhe überlegen. Dividieren: 180/10=18. Nachrechnen: 180 geteilt durch 10 ist 18. Passt. Okay, entschieden.",180 geteilt durch 10 ist 18.
+848,Was ist 7 plus 19?,"Moment, lass mich nachdenken. Addieren: 7+19=26. Nachrechnen. Kontrolle: 7 plus 19 ist 26. Richtig. Fertig gedacht.",7 plus 19 ist 26.
+849,Was ist 46 minus 5?,"Hmm, was weiß ich darüber? Subtrahieren: 46-5=41. Nachrechnen: 46 minus 5 ist 41. Passt. Fertig gedacht.",46 minus 5 ist 41.
+850,Was ist 3 mal 6?,"Moment, lass mich nachdenken. Multiplizieren: 3*6=18. Nachrechnen: 3 mal 6 ist 18. Passt. Klingt logisch.",3 mal 6 ist 18.
+851,Was ist 30 geteilt durch 3?,"Hmm, was weiß ich darüber? Dividieren: 30/3=10. Nachrechnen: 30 geteilt durch 3 ist 10. Passt. Damit bin ich mir sicher.",30 geteilt durch 3 ist 10.
+852,Was ist 18 plus 9?,Lass mich das sortieren. Addieren: 18+9=27. Nachrechnen. Kontrolle: 18 plus 9 ist 27. Richtig. Das ergibt Sinn.,18 plus 9 ist 27.
+853,Was ist 31 minus 2?,"Gute Frage, ich überlege kurz. Subtrahieren: 31-2=29. Nachrechnen: 31 minus 2 ist 29. Passt. Alles klar im Kopf.",31 minus 2 ist 29.
+854,Was ist 8 mal 6?,"Hmm, was weiß ich darüber? Multiplizieren: 8*6=48. Nachrechnen: 8 mal 6 ist 48. Passt. Alles klar im Kopf.",8 mal 6 ist 48.
+855,Was ist 18 plus 5?,"Gute Frage, ich überlege kurz. Addieren: 18+5=23. Nachrechnen. Probe: 18 plus 5 ist 23. Stimmt. Fertig gedacht.",18 plus 5 ist 23.
+856,Was ist 14 minus 13?,"Also gut, denken wir nach. Subtrahieren: 14-13=1. Probe: 14 minus 13 ist 1. Stimmt. Klingt logisch.",14 minus 13 ist 1.
+857,Was ist 6 mal 10?,"Erstmal in Ruhe überlegen. Multiplizieren: 6*10=60. Nachrechnen: 6 mal 10 ist 60. Passt. Okay, entschieden.",6 mal 10 ist 60.
+858,Was ist 96 geteilt durch 6?,"Also gut, denken wir nach. Dividieren: 96/6=16. Kontrolle: 96 geteilt durch 6 ist 16. Richtig. Klingt logisch.",96 geteilt durch 6 ist 16.
+859,Was sind 10 Prozent von 300?,Erstmal in Ruhe überlegen. Prozent: 300*10/100=30. Probe: 10 Prozent von 300 sind 30. Stimmt. Das ergibt Sinn.,10 Prozent von 300 sind 30.
+860,Was ist 24 plus 3?,Erstmal in Ruhe überlegen. Addieren: 24+3=27. Nachrechnen. Kontrolle: 24 plus 3 ist 27. Richtig. Das ergibt Sinn.,24 plus 3 ist 27.
+861,Der Film startet um 20:15 und dauert 90 Minuten. Wann ist er zu Ende?,Lass mich das sortieren. 20:15 + 90 Min = 21:45. Probe: Er ist um 21:45 zu Ende. Stimmt. Damit bin ich mir sicher.,Er ist um 21:45 zu Ende.
+862,Es ist 9 Uhr. In 3 Stunden 30 Minuten habe ich einen Termin. Wann ist er?,"Gute Frage, ich überlege kurz. 9:00 + 3:30 = 12:30. Nachrechnen: Der Termin ist um 12:30. Passt. Das ergibt Sinn.",Der Termin ist um 12:30.
+863,Ein Kuchen muss 45 Minuten backen. Ich schiebe ihn um 16:20 rein. Wann ist er fertig?,Erstmal in Ruhe überlegen. 16:20 + 0:45 = 17:05. Kontrolle: Er ist um 17:05 fertig. Richtig. Das ergibt Sinn.,Er ist um 17:05 fertig.
+864,Schule beginnt um 8:00 und endet um 13:15. Wie lange dauert sie?,"Okay, Schritt für Schritt. Dauer: 13:15 - 8:00 = 5:15. Nachrechnen: Sie dauert 5 Stunden und 15 Minuten. Passt. Fertig gedacht.",Sie dauert 5 Stunden und 15 Minuten.
+865,"Wenn ich 30 Minuten lese und um 19:00 anfange, wann bin ich fertig?","Okay, Schritt für Schritt. 19:00 + 0:30 = 19:30. Probe: Du bist um 19:30 fertig. Stimmt. Das ergibt Sinn.",Du bist um 19:30 fertig.
+866,Wie lerne ich am besten Vokabeln?,"Lass mich das sortieren. Lernmethode: kurze Wiederholungen, Karteikarten, aktiv anwenden. Plan geben. Antwort also: Am besten in kurzen täglichen Einheiten mit Karteikarten und aktiver Anwendung in Sätzen plus regelmäßige Wiederholung. Ja, das passt.",Am besten in kurzen täglichen Einheiten mit Karteikarten und aktiver Anwendung in Sätzen plus regelmäßige Wiederholung.
+867,Wie spare ich im Alltag Geld?,"Lass mich das sortieren. Spartipps sammeln: Budget, Fixkosten prüfen, Kochen, Vergleichen. Strukturieren. Antwort also: Lege ein Budget fest, prüfe Abos, koche öfter selbst, vergleiche Preise und spare zuerst einen festen Betrag pro Monat. Das ergibt Sinn.","Lege ein Budget fest, prüfe Abos, koche öfter selbst, vergleiche Preise und spare zuerst einen festen Betrag pro Monat."
+868,"Was soll ich kochen, wenn ich nur Nudeln, Tomaten und Käse habe?","Hmm, was weiß ich darüber? Zutaten prüfen: Nudeln mit Tomatensauce und Käse möglich. Rezept vorschlagen. Antwort also: Mach Nudeln mit einfacher Tomatensauce: Tomaten würzen, kochen, über Nudeln geben und Käse darüber streuen. Fertig gedacht.","Mach Nudeln mit einfacher Tomatensauce: Tomaten würzen, kochen, über Nudeln geben und Käse darüber streuen."
+869,"Ich fliege morgen, was muss ich mitnehmen?","Lass mich das sortieren. Checkliste denken: Pass, Ticket, Geld, Handy, Ladegerät, Hygiene. Liste erstellen. Fazit: Nimm mit: Ausweis oder Reisepass, Ticket, Geld, Handy plus Ladegerät, Medikamente, Hygiene und Wechselkleidung im Handgepäck. Okay, entschieden.","Nimm mit: Ausweis oder Reisepass, Ticket, Geld, Handy plus Ladegerät, Medikamente, Hygiene und Wechselkleidung im Handgepäck."
+870,Wie schreibe ich eine gute Entschuldigung?,"Moment, lass mich nachdenken. Struktur: Fehler benennen, Verantwortung, Bedauern, Wiedergutmachung. Anleitung. Fazit: Benenne den Fehler, übernimm Verantwortung, zeige Bedauern und biete Wiedergutmachung an, kurz und ehrlich. Okay, entschieden.","Benenne den Fehler, übernimm Verantwortung, zeige Bedauern und biete Wiedergutmachung an, kurz und ehrlich."
+871,Wie plane ich einen 3-Tage-Städtetrip?,"Ich gehe das gedanklich durch. Planung: Anreise, Hotel, Top-Sehenswürdigkeiten, Puffer, Budget. Plan skizzieren. Fazit: Lege Anreise und Hotel fest, wähle pro Tag 2-3 Highlights, plane Puffer für Essen und Wege und setze ein Tagesbudget. Fertig gedacht.","Lege Anreise und Hotel fest, wähle pro Tag 2-3 Highlights, plane Puffer für Essen und Wege und setze ein Tagesbudget."
+872,"Soll ich heute einen Regenschirm mitnehmen, wenn Regenwahrscheinlichkeit 80 Prozent ist?","Okay, Schritt für Schritt. Entscheidung: 80% ist hoch, also Ja empfehlen mit Begründung. Demnach: Ja, nimm einen mit. Bei 80 Prozent ist Regen sehr wahrscheinlich. Gut, weiter.","Ja, nimm einen mit. Bei 80 Prozent ist Regen sehr wahrscheinlich."
+873,Was ist besser für Notizen: Papier oder Handy?,"Erstmal in Ruhe überlegen. Vor- und Nachteile abwägen: Papier ablenkungsfrei, Handy durchsuchbar. Neutral antworten. Antwort also: Beides hat Vorteile: Papier ist ablenkungsfrei und gut zum Merken, Handy ist durchsuchbar und immer dabei. Für Schule oft Papier, für Alltag oft Handy. Ja, das passt.","Beides hat Vorteile: Papier ist ablenkungsfrei und gut zum Merken, Handy ist durchsuchbar und immer dabei. Für Schule oft Papier, für Alltag oft Handy."
+874,Wie putze ich das Bad schnell?,"Erstmal in Ruhe überlegen. Reihenfolge: oben nach unten, Spiegel, Waschbecken, WC, Boden. Plan geben. Fazit: Starte oben: Spiegel, dann Waschbecken, dann WC, dann Boden. Mit Allzweckreiniger und 15 Minuten Timer. Okay, entschieden.","Starte oben: Spiegel, dann Waschbecken, dann WC, dann Boden. Mit Allzweckreiniger und 15 Minuten Timer."
+875,Wie räume ich mein Zimmer schnell auf?,"Lass mich das sortieren. Methode: Müll, Wäsche, Dinge zurück, wischen. Schritte nennen. Demnach: Sammle zuerst Müll, dann Wäsche, lege alles an seinen Platz und wische zum Schluss kurz. Alles klar im Kopf.","Sammle zuerst Müll, dann Wäsche, lege alles an seinen Platz und wische zum Schluss kurz."
+876,Wie packe ich einen Koffer platzsparend?,"Gute Frage, ich überlege kurz. Tipps: rollen statt falten, schwer unten, Lücken füllen. Antwort also: Rolle Kleidung statt zu falten, Schweres nach unten, Lücken mit Socken füllen. Okay, entschieden.","Rolle Kleidung statt zu falten, Schweres nach unten, Lücken mit Socken füllen."
+877,Was koche ich als Anfänger?,"Moment, lass mich nachdenken. Einfache Gerichte: Nudeln, Rührei, Suppe. Vorschlagen. Antwort also: Starte mit Nudeln mit Sauce, Rührei oder einer einfachen Gemüsesuppe. Ja, das passt.","Starte mit Nudeln mit Sauce, Rührei oder einer einfachen Gemüsesuppe."
+878,Wie mache ich Rührei?,"Lass mich das sortieren. Schritte: Eier verquirlen, Butter, langsam stocken. Rezept kurz. Demnach: Eier mit Salz verquirlen, in Butter bei mittlerer Hitze langsam stocken lassen und rühren. Das ergibt Sinn.","Eier mit Salz verquirlen, in Butter bei mittlerer Hitze langsam stocken lassen und rühren."
+879,Wie koche ich Reis?,"Also gut, denken wir nach. Verhältnis: 1:2, 10-12 Min quellen. Erklären. Demnach: Reis waschen, mit doppelter Wassermenge aufkochen und ca. 10-12 Minuten quellen lassen. Klingt logisch.","Reis waschen, mit doppelter Wassermenge aufkochen und ca. 10-12 Minuten quellen lassen."
+880,Wie koche ich Nudeln?,"Gute Frage, ich überlege kurz. Schritte: viel Wasser, Salz, 8-10 Min. Erklären. Demnach: Viel Wasser salzen, aufkochen, Nudeln 8-10 Minuten garen und abgießen. Fertig gedacht.","Viel Wasser salzen, aufkochen, Nudeln 8-10 Minuten garen und abgießen."
+881,Wie mache ich Pfannkuchen?,"Gute Frage, ich überlege kurz. Teig: Mehl, Milch, Ei, backen. Kurz Rezept. Fazit: Mehl, Milch, Ei und Prise Salz verrühren, dünn in Pfanne goldgelb backen. Okay, entschieden.","Mehl, Milch, Ei und Prise Salz verrühren, dünn in Pfanne goldgelb backen."
+882,Was essen bei Halsschmerzen?,"Ich gehe das gedanklich durch. Schonend: Tee, Suppe, Honig. Nennen plus Arzt-Hinweis. Antwort also: Warmer Tee, Suppe und Honig sind angenehm. Bei starken Schmerzen oder Fieber zum Arzt. Das ergibt Sinn.","Warmer Tee, Suppe und Honig sind angenehm. Bei starken Schmerzen oder Fieber zum Arzt."
+883,Was tun bei verstopfter Nase?,"Hmm, was weiß ich darüber? Maßnahmen: trinken, lüften, inhalieren. Nennen. Demnach: Viel trinken, lüften und mit Wasserdampf inhalieren hilft oft. Ja, das passt.","Viel trinken, lüften und mit Wasserdampf inhalieren hilft oft."
+884,Wie werde ich morgens wach?,"Erstmal in Ruhe überlegen. Tipps: Licht, Wasser, Bewegung. Aufzählen. Antwort also: Licht an, Glas Wasser, kurz bewegen und frische Luft helfen. Klingt logisch.","Licht an, Glas Wasser, kurz bewegen und frische Luft helfen."
+885,Wie schlafe ich schneller ein?,"Gute Frage, ich überlege kurz. Tipps: dunkel, kühl, kein Handy, Routine. Nennen. Antwort also: Dunkel und kühl schlafen, Handy weglegen und feste Routine einhalten. Ja, das passt.","Dunkel und kühl schlafen, Handy weglegen und feste Routine einhalten."
+886,Wie lerne ich für eine Prüfung?,"Also gut, denken wir nach. Plan: Stoff teilen, aktiv abfragen, Pausen. Struktur geben. Demnach: Teile den Stoff in Blöcke, frage dich aktiv ab, mache Pausen und wiederhole am nächsten Tag. Gut, weiter.","Teile den Stoff in Blöcke, frage dich aktiv ab, mache Pausen und wiederhole am nächsten Tag."
+887,Wie schreibe ich eine Bewerbung?,"Hmm, was weiß ich darüber? Struktur: Anschreiben, Lebenslauf, Zeugnisse. Kurz Anleitung. Fazit: Schreibe ein kurzes Anschreiben, dazu tabellarischen Lebenslauf und relevante Zeugnisse. Damit bin ich mir sicher.","Schreibe ein kurzes Anschreiben, dazu tabellarischen Lebenslauf und relevante Zeugnisse."
+888,Wie bereite ich mich auf ein Vorstellungsgespräch vor?,"Ich gehe das gedanklich durch. Punkte: Firma, Fragen, Outfit, Anreise. Checkliste. Antwort also: Informiere dich über die Firma, übe Antworten, wähle Outfit und plane Anreise mit Puffer. Alles klar im Kopf.","Informiere dich über die Firma, übe Antworten, wähle Outfit und plane Anreise mit Puffer."
+889,Wie suche ich eine Wohnung?,"Also gut, denken wir nach. Schritte: Budget, Portale, Unterlagen, Besichtigung. Plan. Antwort also: Lege Budget fest, suche auf Portalen, bereite Unterlagen vor und gehe zu Besichtigungen mit Fragen. Gut, weiter.","Lege Budget fest, suche auf Portalen, bereite Unterlagen vor und gehe zu Besichtigungen mit Fragen."
+890,Wie putze ich Fenster streifenfrei?,"Moment, lass mich nachdenken. Tipps: wenig Spülmittel, Abzieher, Schatten. Erklären. Demnach: Mit wenig Spülmittel waschen, mit Abzieher abziehen und nicht in praller Sonne putzen. Okay, entschieden.","Mit wenig Spülmittel waschen, mit Abzieher abziehen und nicht in praller Sonne putzen."
+891,Wie spare ich Strom im Haushalt?,"Moment, lass mich nachdenken. Tipps: LED, Standby aus, Waschen kalt. Aufzählen. Antwort also: Nutze LED, schalte Standby aus, wasche kühler und voll beladen. Gut, weiter.","Nutze LED, schalte Standby aus, wasche kühler und voll beladen."
+892,Wie gieße ich Pflanzen richtig?,"Moment, lass mich nachdenken. Regel: Fingerprobe, Staunässe vermeiden. Erklären. Antwort also: Prüfe mit Fingerprobe: Erst gießen wenn oben trocken, Staunässe vermeiden. Klingt logisch.","Prüfe mit Fingerprobe: Erst gießen wenn oben trocken, Staunässe vermeiden."
+893,Wie pflege ich einen Kaktus?,"Okay, Schritt für Schritt. Pflege: hell, wenig Wasser. Erklären. Antwort also: Hell stellen und nur selten wenig gießen, Erde trocknen lassen. Gut, weiter.","Hell stellen und nur selten wenig gießen, Erde trocknen lassen."
+894,Was tun wenn die Waschmaschine stinkt?,"Ich gehe das gedanklich durch. Ursachen: 60 Grad Wäsche, Tür offen, Flusensieb. Tipps. Demnach: Wasche mal 60 Grad, lasse Tür offen trocknen und reinige Flusensieb und Fach. Okay, entschieden.","Wasche mal 60 Grad, lasse Tür offen trocknen und reinige Flusensieb und Fach."
+895,Wie entferne ich einen Fleck aus Kleidung?,"Gute Frage, ich überlege kurz. Schritte: schnell, kalt, passendes Mittel. Erklären. Fazit: Schnell mit kaltem Wasser ausspülen, dann passendes Mittel testen und waschen. Gut, weiter.","Schnell mit kaltem Wasser ausspülen, dann passendes Mittel testen und waschen."
+896,Wie organisiere ich meinen Tag?,"Okay, Schritt für Schritt. Methode: 3 Prioritäten, Zeitblöcke, Pausen. Plan geben. Antwort also: Wähle 3 Prioritäten, plane Zeitblöcke mit Pausen und lege Handy-Ablenkungen weg. Ja, das passt.","Wähle 3 Prioritäten, plane Zeitblöcke mit Pausen und lege Handy-Ablenkungen weg."
+897,Wie bleibe ich konzentriert?,"Hmm, was weiß ich darüber? Tipps: kleine Ziele, Timer, Pausen. Nennen. Fazit: Arbeite in 25-Minuten-Blöcken mit Pausen, ein Ziel pro Block, Ablenkungen weg. Fertig gedacht.","Arbeite in 25-Minuten-Blöcken mit Pausen, ein Ziel pro Block, Ablenkungen weg."
+898,Wie fange ich mit Sport an?,"Also gut, denken wir nach. Start klein: 2x pro Woche, Spazieren, steigern. Plan. Fazit: Starte mit 2x pro Woche Spazieren oder leichtem Training und steigere langsam. Fertig gedacht.",Starte mit 2x pro Woche Spazieren oder leichtem Training und steigere langsam.
+899,Welche Sportart passt zu mir?,"Also gut, denken wir nach. Fragen: Ziel, allein/Team, drinnen/draußen. Einordnen. Fazit: Willst du Ausdauer, Kraft oder Spaß? Allein Joggen oder Rad, Team Ballsport, ruhig Yoga. Ja, das passt.","Willst du Ausdauer, Kraft oder Spaß? Allein Joggen oder Rad, Team Ballsport, ruhig Yoga."
+900,Wie dehne ich mich richtig?,"Gute Frage, ich überlege kurz. Regel: warm, sanft, nicht federn. Erklären. Fazit: Nach dem Aufwärmen sanft dehnen, Position halten, nicht federn oder in Schmerz gehen. Das ergibt Sinn.","Nach dem Aufwärmen sanft dehnen, Position halten, nicht federn oder in Schmerz gehen."
+901,Was tun bei Muskelkater?,"Ich gehe das gedanklich durch. Tipps: leicht bewegen, Wärme, Pause. Nennen. Fazit: Leicht bewegen, Wärme und Pause helfen. Erst wieder intensiv trainieren wenn es weg ist. Okay, entschieden.","Leicht bewegen, Wärme und Pause helfen. Erst wieder intensiv trainieren wenn es weg ist."
+902,Wie trinke ich genug Wasser?,"Okay, Schritt für Schritt. Tipps: Flasche dabei, Erinnerung, Glas zu Mahlzeiten. Fazit: Stelle eine Flasche bereit, trinke zu jeder Mahlzeit ein Glas und nutze Erinnerungen. Gut, weiter.","Stelle eine Flasche bereit, trinke zu jeder Mahlzeit ein Glas und nutze Erinnerungen."
+903,Was ist ein gesundes Frühstück?,"Also gut, denken wir nach. Beispiele: Hafer, Obst, Joghurt. Nennen. Antwort also: Zum Beispiel Haferflocken mit Obst und Joghurt oder Vollkornbrot mit Ei. Das ergibt Sinn.",Zum Beispiel Haferflocken mit Obst und Joghurt oder Vollkornbrot mit Ei.
+904,Was nehme ich als Pausenbrot mit?,"Hmm, was weiß ich darüber? Ideen: Brot, Obst, Nüsse. Vorschlagen. Demnach: Vollkornbrot, Obst und Nüsse sind praktisch und halten lange satt. Alles klar im Kopf.","Vollkornbrot, Obst und Nüsse sind praktisch und halten lange satt."
+905,Wie grille ich sicher?,"Lass mich das sortieren. Sicherheit: Abstand, Anzünder, nie Spiritus, Kinder weg. Nennen. Antwort also: Sicher grillen: stabiler Stand, nur feste Anzünder, nie Spiritus, Kinder und Tiere fernhalten. Okay, entschieden.","Sicher grillen: stabiler Stand, nur feste Anzünder, nie Spiritus, Kinder und Tiere fernhalten."
+906,Wie verhalte ich mich bei Gewitter draußen?,"Lass mich das sortieren. Sicherheit: rein, weg von Bäumen, kein Wasser. Erklären. Antwort also: Suche Gebäude, meide Bäume und offenes Wasser und warte 30 Minuten nach letztem Blitz. Das ergibt Sinn.","Suche Gebäude, meide Bäume und offenes Wasser und warte 30 Minuten nach letztem Blitz."
+907,Was tun bei Stromausfall?,"Gute Frage, ich überlege kurz. Check: Sicherungen, Taschenlampe, Kühlschrank zu. Plan. Antwort also: Prüfe Sicherungen, nutze Taschenlampe statt Kerzen, lasse Kühlschrank zu und melde langen Ausfall. Klingt logisch.","Prüfe Sicherungen, nutze Taschenlampe statt Kerzen, lasse Kühlschrank zu und melde langen Ausfall."
+908,Wie verhalte ich mich bei einem Unfall?,"Hmm, was weiß ich darüber? Erste Hilfe: sichern, Notruf 112, helfen. Kurz Anleitung. Fazit: Sichern, Notruf 112 mit Ort und Lage, dann helfen so gut es geht. Alles klar im Kopf.","Sichern, Notruf 112 mit Ort und Lage, dann helfen so gut es geht."
+909,Welche Notrufnummer gilt in Deutschland?,"Ich gehe das gedanklich durch. Fakt: 112 für Rettung/Feuer, 110 Polizei. Demnach: In Deutschland: 112 für Rettung und Feuerwehr, 110 für Polizei. Klingt logisch.","In Deutschland: 112 für Rettung und Feuerwehr, 110 für Polizei."
+910,Wie lösche ich ein kleines Feuer?,"Erstmal in Ruhe überlegen. Sicherheit: Abstand, Decke/Feuerlöscher, Notruf. Erklären. Antwort also: Klein: Decke oder Feuerlöscher, Abstand halten, bei Zweifel raus und 112 rufen. Okay, entschieden.","Klein: Decke oder Feuerlöscher, Abstand halten, bei Zweifel raus und 112 rufen."
+911,Wie finde ich einen guten Arzt?,"Also gut, denken wir nach. Tipps: Bewertungen, Empfehlung, Kasse. Nennen. Fazit: Frage Freunde, prüfe Bewertungen und Kassensuche und achte auf Erreichbarkeit. Damit bin ich mir sicher.","Frage Freunde, prüfe Bewertungen und Kassensuche und achte auf Erreichbarkeit."
+912,Wie messe ich Fieber richtig?,"Okay, Schritt für Schritt. Anleitung: Thermometer, Ruhe, Werte einordnen. Demnach: In Ruhe messen, Anleitung beachten. Ab 38,5 oft Fieber, bei Unsicherheit Arzt fragen. Fertig gedacht.","In Ruhe messen, Anleitung beachten. Ab 38,5 oft Fieber, bei Unsicherheit Arzt fragen."
+913,Wann sollte man zum Arzt?,"Moment, lass mich nachdenken. Anzeichen: Fieber, Atemnot, starke Schmerzen. Einordnen. Antwort also: Bei hohem Fieber, Atemnot, starken Schmerzen oder wenn es nicht besser wird, zum Arzt. Gut, weiter.","Bei hohem Fieber, Atemnot, starken Schmerzen oder wenn es nicht besser wird, zum Arzt."
+914,Wie pflege ich meine Zähne?,"Gute Frage, ich überlege kurz. Regel: 2x2 Min, Zahnseide, Kontrolle. Nennen. Demnach: Zweimal täglich 2 Minuten putzen, Zahnseide nutzen und zur Kontrolle gehen. Klingt logisch.","Zweimal täglich 2 Minuten putzen, Zahnseide nutzen und zur Kontrolle gehen."
+915,Wie oft sollte man zum Zahnarzt?,"Also gut, denken wir nach. Empfehlung: 1-2x pro Jahr Kontrolle. Antwort also: Meist einmal bis zweimal pro Jahr zur Kontrolle. Okay, entschieden.",Meist einmal bis zweimal pro Jahr zur Kontrolle.
+916,Wie reinige ich eine Brille?,"Lass mich das sortieren. Tipps: Wasser, Mikrofaser, kein T-Shirt. Erklären. Demnach: Mit Wasser abspülen, Tropfen Spülmittel, mit Mikrofasertuch trocknen. Ja, das passt.","Mit Wasser abspülen, Tropfen Spülmittel, mit Mikrofasertuch trocknen."
+917,Wie schone ich meine Augen am Bildschirm?,"Hmm, was weiß ich darüber? Regel: 20-20-20, blinzeln, Abstand. Nennen. Demnach: Alle 20 Minuten 20 Sekunden in Ferne schauen, blinzeln und Abstand halten. Klingt logisch.","Alle 20 Minuten 20 Sekunden in Ferne schauen, blinzeln und Abstand halten."
+918,Wie sitze ich richtig am Schreibtisch?,"Ich gehe das gedanklich durch. Ergonomie: Füße, Rücken, Bildschirmhöhe. Erklären. Demnach: Füße flach, Rücken gerade, Bildschirm auf Augenhöhe, regelmäßig aufstehen. Klingt logisch.","Füße flach, Rücken gerade, Bildschirm auf Augenhöhe, regelmäßig aufstehen."
+919,Wie hebe ich schwer richtig?,"Gute Frage, ich überlege kurz. Technik: Knie beugen, Rücken gerade. Erklären. Demnach: In die Knie gehen, Rücken gerade, Last nah am Körper halten. Ja, das passt.","In die Knie gehen, Rücken gerade, Last nah am Körper halten."
+920,Wie lüfte ich richtig?,"Hmm, was weiß ich darüber? Methode: Stoßlüften 5-10 Min. Erklären. Fazit: Mehrmals täglich 5-10 Minuten Stoßlüften statt Dauer-Kipp. Okay, entschieden.",Mehrmals täglich 5-10 Minuten Stoßlüften statt Dauer-Kipp.
+921,Wie spare ich Wasser?,"Lass mich das sortieren. Tipps: Duschen statt Baden, Hahn zu, voll waschen. Antwort also: Kürzer duschen, Hahn beim Zähneputzen zu und Maschinen voll beladen. Alles klar im Kopf.","Kürzer duschen, Hahn beim Zähneputzen zu und Maschinen voll beladen."
+922,Wie erkenne ich frisches Obst?,"Ich gehe das gedanklich durch. Anzeichen: Farbe, Geruch, Druck. Erklären. Demnach: Frisches Obst riecht gut, hat satte Farbe und gibt nur leicht nach. Das ergibt Sinn.","Frisches Obst riecht gut, hat satte Farbe und gibt nur leicht nach."
+923,Wie lagere ich Brot frisch?,"Gute Frage, ich überlege kurz. Tipps: Brotkasten, Papiertüte, nicht Kühlschrank. Demnach: Im Brotkasten oder Papiertüte bei Raumtemperatur, nicht im Kühlschrank. Fertig gedacht.","Im Brotkasten oder Papiertüte bei Raumtemperatur, nicht im Kühlschrank."
+924,Wie lange sind Eier haltbar?,"Okay, Schritt für Schritt. Fakt: Wochen, Kühlschrank, Test. Einordnen. Antwort also: Im Kühlschrank meist mehrere Wochen. Bei Zweifel Wasser-Test oder Geruch prüfen. Ja, das passt.",Im Kühlschrank meist mehrere Wochen. Bei Zweifel Wasser-Test oder Geruch prüfen.
+925,Was tun gegen Stress?,"Erstmal in Ruhe überlegen. Tipps: Pause, Bewegung, Schlaf, reden. Aufzählen. Demnach: Kurze Pausen, Bewegung, genug Schlaf und mit jemandem reden helfen. Das ergibt Sinn.","Kurze Pausen, Bewegung, genug Schlaf und mit jemandem reden helfen."
+926,Wie entspanne ich abends?,"Ich gehe das gedanklich durch. Ideen: Tee, Buch, dimmen, Handy weg. Vorschlagen. Demnach: Dimme Licht, trinke Tee, lies ein Buch und lege das Handy weg. Fertig gedacht.","Dimme Licht, trinke Tee, lies ein Buch und lege das Handy weg."
+927,Wie plane ich eine Geburtstagsparty?,"Also gut, denken wir nach. Checkliste: Gäste, Ort, Essen, Deko, Musik. Plan. Antwort also: Lege Gäste und Ort fest, plane Essen, Deko und Musik und frage Helfer. Damit bin ich mir sicher.","Lege Gäste und Ort fest, plane Essen, Deko und Musik und frage Helfer."
+928,Was schenke ich zum Geburtstag?,"Okay, Schritt für Schritt. Ideen: Erlebnis, Gutschein, selbstgemacht. Vorschlagen. Fazit: Ein Erlebnis, Gutschein oder etwas Selbstgemachtes kommt meist gut an. Damit bin ich mir sicher.","Ein Erlebnis, Gutschein oder etwas Selbstgemachtes kommt meist gut an."
+929,Wie schreibe ich eine Einladung?,"Hmm, was weiß ich darüber? Inhalt: Anlass, Zeit, Ort, Rückmeldung. Struktur. Antwort also: Nenne Anlass, Zeit, Ort und bitte um Rückmeldung bis Datum. Damit bin ich mir sicher.","Nenne Anlass, Zeit, Ort und bitte um Rückmeldung bis Datum."
+930,Wie entschuldige ich mich beim Chef?,"Erstmal in Ruhe überlegen. Tipps: ehrlich, kurz, Lösung. Anleitung. Fazit: Entschuldige dich kurz und ehrlich, erkläre knapp und biete eine Lösung an. Damit bin ich mir sicher.","Entschuldige dich kurz und ehrlich, erkläre knapp und biete eine Lösung an."
+931,Wie sage ich ein Treffen ab?,"Also gut, denken wir nach. Höflich: früh, Grund kurz, Ersatztermin. Formulieren. Fazit: Sage früh ab, nenne kurz den Grund und schlage einen Ersatztermin vor. Klingt logisch.","Sage früh ab, nenne kurz den Grund und schlage einen Ersatztermin vor."
+932,Wie bitte ich um Hilfe?,"Erstmal in Ruhe überlegen. Formulierung: konkret, Zeit, Dank. Beispiel geben. Demnach: Bitte konkret: Was, bis wann, warum. Zum Beispiel: Kannst du mir heute beim Tragen helfen? Danke! Fertig gedacht.","Bitte konkret: Was, bis wann, warum. Zum Beispiel: Kannst du mir heute beim Tragen helfen? Danke!"
+933,Wie gebe ich Feedback?,"Ich gehe das gedanklich durch. Methode: konkret, Ich-Botschaft, Vorschlag. Erklären. Demnach: Beschreibe konkret, sage Wirkung in Ich-Form und schlage Verbesserung vor. Damit bin ich mir sicher.","Beschreibe konkret, sage Wirkung in Ich-Form und schlage Verbesserung vor."
+934,Wie lerne ich Nein sagen?,"Moment, lass mich nachdenken. Tipps: kurz, freundlich, Alternative. Üben. Fazit: Sage kurz und freundlich Nein und biete wenn möglich eine Alternative an. Damit bin ich mir sicher.",Sage kurz und freundlich Nein und biete wenn möglich eine Alternative an.
+935,Wie spare ich für Urlaub?,"Gute Frage, ich überlege kurz. Plan: Zielbetrag, monatlich weg, extra. Rechnen. Antwort also: Lege Zielbetrag fest, spare monatlich automatisch und lege Extras dazu. Gut, weiter.","Lege Zielbetrag fest, spare monatlich automatisch und lege Extras dazu."
+936,Was packe ich für Strandurlaub?,"Lass mich das sortieren. Liste: Sonnenschutz, Bad, Wasser, Hut. Aufzählen. Demnach: Sonnencreme, Badesachen, Hut, Wasser, Snacks und Handtuch einpacken. Das ergibt Sinn.","Sonnencreme, Badesachen, Hut, Wasser, Snacks und Handtuch einpacken."
+937,Was packe ich für Winterurlaub?,"Ich gehe das gedanklich durch. Liste: warm, Schichten, Creme. Aufzählen. Fazit: Warme Schichten, Mütze, Handschuhe, Lippen- und Hautschutz einpacken. Ja, das passt.","Warme Schichten, Mütze, Handschuhe, Lippen- und Hautschutz einpacken."
+938,Wie buche ich günstige Flüge?,"Okay, Schritt für Schritt. Tipps: flexibel, früh, vergleichen. Nennen. Fazit: Sei flexibel beim Datum, vergleiche Portale und buche früh oder last-minute bewusst. Gut, weiter.","Sei flexibel beim Datum, vergleiche Portale und buche früh oder last-minute bewusst."
+939,Was tun bei Flugangst?,"Gute Frage, ich überlege kurz. Tipps: Info, Atmung, Ablenkung. Beruhigen. Antwort also: Informiere dich über Sicherheit, atme ruhig, lenke dich mit Musik oder Film ab. Das ergibt Sinn.","Informiere dich über Sicherheit, atme ruhig, lenke dich mit Musik oder Film ab."
+940,Wie überstehe ich einen langen Flug?,"Gute Frage, ich überlege kurz. Tipps: Wasser, bewegen, Filme, schlafen. Plan. Fazit: Trinke Wasser, stehe auf und bewege dich, schau Filme und versuche zu schlafen. Okay, entschieden.","Trinke Wasser, stehe auf und bewege dich, schau Filme und versuche zu schlafen."
+941,Was tun gegen Reiseübelkeit?,"Ich gehe das gedanklich durch. Tipps: vorne sitzen, frisch, Pause. Nennen. Demnach: Vorne sitzen, frische Luft, Pausen und leicht essen helfen oft. Gut, weiter.","Vorne sitzen, frische Luft, Pausen und leicht essen helfen oft."
+942,Wie finde ich den Weg ohne Internet?,"Moment, lass mich nachdenken. Tipps: Karte offline, Schilder, fragen. Nennen. Fazit: Lade Offline-Karten, folge Schildern und frage Einheimische. Alles klar im Kopf.","Lade Offline-Karten, folge Schildern und frage Einheimische."
+943,Wie melde ich mich im Hotel an?,"Erstmal in Ruhe überlegen. Ablauf: Ausweis, Buchung, Schlüssel. Erklären. Demnach: Zeige Ausweis und Buchung, erhalte Schlüssel und frage nach Zeiten. Klingt logisch.","Zeige Ausweis und Buchung, erhalte Schlüssel und frage nach Zeiten."
+944,Wie reklamiere ich im Restaurant?,"Okay, Schritt für Schritt. Höflich: Kellner, konkret, Lösung. Formulieren. Demnach: Sprich den Kellner höflich an, beschreibe konkret und bitte um Lösung. Damit bin ich mir sicher.","Sprich den Kellner höflich an, beschreibe konkret und bitte um Lösung."
+945,Wie gebe ich Trinkgeld in Deutschland?,"Also gut, denken wir nach. Regel: ca. 5-10%, aufrunden. Erklären. Demnach: In Deutschland sind ca. 5-10 Prozent oder Aufrunden üblich. Okay, entschieden.",In Deutschland sind ca. 5-10 Prozent oder Aufrunden üblich.
+946,Wie verhalte ich mich im Kino?,"Okay, Schritt für Schritt. Regeln: leise, Handy aus, Müll mit. Nennen. Demnach: Sei leise, schalte Handy aus und nimm Müll mit. Alles klar im Kopf.","Sei leise, schalte Handy aus und nimm Müll mit."
+947,Wie leihe ich Bücher aus der Bibliothek?,"Gute Frage, ich überlege kurz. Ablauf: Ausweis, suchen, ausleihen. Erklären. Antwort also: Melde dich mit Ausweis an, suche Bücher und leihe sie an der Theke oder Automat aus. Klingt logisch.","Melde dich mit Ausweis an, suche Bücher und leihe sie an der Theke oder Automat aus."
+948,Wie lerne ich eine neue Sprache schnell?,"Also gut, denken wir nach. Methode: täglich, sprechen, Medien. Plan geben. Antwort also: Lerne täglich kurz, sprich viel, nutze Apps und Filme in der Sprache. Fertig gedacht.","Lerne täglich kurz, sprich viel, nutze Apps und Filme in der Sprache."
+949,Wie übe ich Englisch im Alltag?,"Moment, lass mich nachdenken. Ideen: Serien, Tagebuch, sprechen. Vorschlagen. Demnach: Schau Serien auf Englisch, schreibe Tagebuch und sprich regelmäßig. Okay, entschieden.","Schau Serien auf Englisch, schreibe Tagebuch und sprich regelmäßig."
+950,Was ist der Unterschied zwischen Hund und Katze als Haustier?,"Erstmal in Ruhe überlegen. Bedürfnisse vergleichen: Auslauf, Erziehung, Zeit. Abwägen. Fazit: Hunde brauchen viel Auslauf und Erziehung, Katzen sind eigenständiger. Wähle nach Zeit und Wohnraum. Alles klar im Kopf.","Hunde brauchen viel Auslauf und Erziehung, Katzen sind eigenständiger. Wähle nach Zeit und Wohnraum."
+951,Zug oder Auto für 300 km?,"Ich gehe das gedanklich durch. Vergleich: Zeit, Kosten, Umwelt, Stau. Abwägen. Demnach: Zug ist entspannt und oft umweltfreundlicher, Auto flexibler mit Gepäck. Bei Stau und Parkplatz meist Zug besser. Damit bin ich mir sicher.","Zug ist entspannt und oft umweltfreundlicher, Auto flexibler mit Gepäck. Bei Stau und Parkplatz meist Zug besser."
+952,Soll ich einen Regenschirm mitnehmen bei 80 Prozent Regen?,"Also gut, denken wir nach. Wahrscheinlichkeit hoch, Kosten klein. Entscheiden. Demnach: Ja. Bei 80 Prozent lohnt sich der kleine Aufwand. Gut, weiter.",Ja. Bei 80 Prozent lohnt sich der kleine Aufwand.
+953,Apfel oder Schokoriegel als Snack?,"Lass mich das sortieren. Gesundheit: Nährstoffe vs Zucker. Entscheiden. Demnach: Nimm den Apfel für Vitamine und Sättigung, Schokoriegel nur als Ausnahme. Ja, das passt.","Nimm den Apfel für Vitamine und Sättigung, Schokoriegel nur als Ausnahme."
+954,Papier oder Handy für Notizen in der Prüfung?,"Also gut, denken wir nach. Prüfung: oft nur Papier erlaubt, Merken besser. Einordnen. Antwort also: Für Prüfungen meist Papier lernen, weil es oft Pflicht ist und besser merken hilft. Alles klar im Kopf.","Für Prüfungen meist Papier lernen, weil es oft Pflicht ist und besser merken hilft."
+955,Was bedeutet Freundschaft?,"Gute Frage, ich überlege kurz. Begriff: Vertrauen, Hilfe, Zeit. Definieren. Fazit: Freundschaft bedeutet Vertrauen, gegenseitige Hilfe und gemeinsame Zeit. Alles klar im Kopf.","Freundschaft bedeutet Vertrauen, gegenseitige Hilfe und gemeinsame Zeit."
+956,Was bedeutet Ehrlichkeit?,"Also gut, denken wir nach. Begriff: Wahrheit sagen, auch wenn schwer. Definieren. Demnach: Ehrlichkeit bedeutet die Wahrheit zu sagen und zu seinen Fehlern zu stehen. Gut, weiter.",Ehrlichkeit bedeutet die Wahrheit zu sagen und zu seinen Fehlern zu stehen.
+957,Was bedeutet Respekt?,Lass mich das sortieren. Begriff: andere achten. Definieren. Fazit: Respekt bedeutet andere Menschen und ihre Grenzen zu achten. Klingt logisch.,Respekt bedeutet andere Menschen und ihre Grenzen zu achten.
+958,Laptop oder PC für Gaming?,"Lass mich das sortieren. Vergleich: Leistung/Preis vs Mobilität. Abwägen. Antwort also: PC bietet meist mehr Leistung fürs Geld, Laptop ist mobil. Für max. Leistung PC. Damit bin ich mir sicher.","PC bietet meist mehr Leistung fürs Geld, Laptop ist mobil. Für max. Leistung PC."
+959,Mieten oder kaufen? (allgemein),"Hmm, was weiß ich darüber? Faktoren: Dauer, Geld, Flexibilität. Neutral einordnen. Demnach: Wer flexibel bleibt mietet, wer lange bleibt und Geld hat prüft Kaufen mit allen Kosten. Fertig gedacht.","Wer flexibel bleibt mietet, wer lange bleibt und Geld hat prüft Kaufen mit allen Kosten."
+960,Stadt oder Land zum Wohnen?,"Gute Frage, ich überlege kurz. Vor/Nachteile: Jobs/Nähe vs Ruhe/Platz. Gegenüberstellen. Fazit: Stadt bietet Jobs und Nähe, Land Ruhe und Platz. Wähle nach Arbeit und Lebensstil. Klingt logisch.","Stadt bietet Jobs und Nähe, Land Ruhe und Platz. Wähle nach Arbeit und Lebensstil."
+961,Früh aufstehen oder spät?,"Gute Frage, ich überlege kurz. Typ-Frage: Rhythmus individuell, Pflichten zählen. Einordnen. Fazit: Wähle nach Pflichten und Schlaf: Wichtig ist genug Schlaf und fester Rhythmus. Klingt logisch.",Wähle nach Pflichten und Schlaf: Wichtig ist genug Schlaf und fester Rhythmus.
+962,Soll ich jeden Tag Sport machen?,"Okay, Schritt für Schritt. Abwägung: Regeneration wichtig. Raten. Demnach: Nein, plane Pausen ein. 3-4x pro Woche reicht oft, täglich nur leicht. Gut, weiter.","Nein, plane Pausen ein. 3-4x pro Woche reicht oft, täglich nur leicht."
+963,Kaffee oder Wasser morgens?,"Okay, Schritt für Schritt. Vergleich: wach vs hydratisierend. Empfehlen. Fazit: Trinke zuerst Wasser, Kaffee danach in Maßen. Ja, das passt.","Trinke zuerst Wasser, Kaffee danach in Maßen."
+964,Was ist wichtiger: Schlaf oder Lernen?,"Moment, lass mich nachdenken. Abwägung: Schlaf festigt Lernen. Entscheiden. Fazit: Schlaf ist wichtiger, weil er Lernen festigt. Lerne früher und schlafe genug. Damit bin ich mir sicher.","Schlaf ist wichtiger, weil er Lernen festigt. Lerne früher und schlafe genug."
+965,Soll ich bei Fieber arbeiten?,"Moment, lass mich nachdenken. Gesundheit: nein, erholen und Arzt. Raten. Fazit: Nein. Ruhe dich aus und gehe bei hohem oder langem Fieber zum Arzt. Alles klar im Kopf.",Nein. Ruhe dich aus und gehe bei hohem oder langem Fieber zum Arzt.
+966,Wie entscheide ich mich zwischen zwei Angeboten?,"Erstmal in Ruhe überlegen. Methode: Kriterien, Pro/Contra, Bauch plus Fakten. Anleitung. Fazit: Liste Kriterien, vergebe Punkte, prüfe Kosten und Bauchgefühl und entscheide mit Frist. Gut, weiter.","Liste Kriterien, vergebe Punkte, prüfe Kosten und Bauchgefühl und entscheide mit Frist."
+967,Wie spare ich 500 Euro in 5 Monaten?,"Also gut, denken wir nach. Rechnen: 500/5=100 pro Monat. Plan geben. Probe: Spare 100 Euro pro Monat automatisch, z.B. per Dauerauftrag nach Gehalt. Stimmt. Das ergibt Sinn.","Spare 100 Euro pro Monat automatisch, z.B. per Dauerauftrag nach Gehalt."
+968,Wie teile ich 60 Euro auf 3 Kinder auf?,"Ich gehe das gedanklich durch. Division: 60/3=20. Kontrolle: Jedes Kind bekommt 20 Euro. Richtig. Okay, entschieden.",Jedes Kind bekommt 20 Euro.
+969,Was ist der Unterschied zwischen brauchen und wollen?,"Gute Frage, ich überlege kurz. Begriffe: Notwendigkeit vs Wunsch. Klären. Antwort also: Brauchen ist nötig zum Leben, Wollen ist ein Wunsch darüber hinaus. Fertig gedacht.","Brauchen ist nötig zum Leben, Wollen ist ein Wunsch darüber hinaus."
+970,Was ist der Unterschied zwischen Entschuldigung und Ausrede?,"Lass mich das sortieren. Begriffe: Verantwortung vs Ausweichen. Klären. Demnach: Entschuldigung übernimmt Verantwortung, Ausrede schiebt sie weg. Klingt logisch.","Entschuldigung übernimmt Verantwortung, Ausrede schiebt sie weg."
+971,Was ist wichtiger: Geld oder Zeit?,"Also gut, denken wir nach. Abwägung: Zeit begrenzt, Geld ersetzbar. Einordnen. Antwort also: Zeit ist begrenzt und nicht zurückholbar, Geld lässt sich neu verdienen. Balance zählt. Okay, entschieden.","Zeit ist begrenzt und nicht zurückholbar, Geld lässt sich neu verdienen. Balance zählt."
+972,Soll ich ein neues Handy kaufen oder altes behalten?,"Hmm, was weiß ich darüber? Fragen: defekt, Bedarf, Geld, Umwelt. Entscheiden helfen. Demnach: Behalte es wenn es reicht. Kaufe neu nur bei Defekt oder echtem Bedarf. Damit bin ich mir sicher.",Behalte es wenn es reicht. Kaufe neu nur bei Defekt oder echtem Bedarf.
+973,Was ist Fake News?,"Hmm, was weiß ich darüber? Definition: falsche Nachrichten als echt. Erklären plus Prüfung. Antwort also: Fake News sind erfundene Nachrichten. Prüfe Quelle, Datum und andere Medien. Damit bin ich mir sicher.","Fake News sind erfundene Nachrichten. Prüfe Quelle, Datum und andere Medien."
+974,Wie erkenne ich Fake News?,"Gute Frage, ich überlege kurz. Methode: Quelle, Datum, Belege. Anleitung. Antwort also: Prüfe Quelle und Datum, suche Belege und vergleiche mehrere seriöse Medien. Damit bin ich mir sicher.","Prüfe Quelle und Datum, suche Belege und vergleiche mehrere seriöse Medien."
+975,Was ist Werbung?,"Also gut, denken wir nach. Definition: bezahlte Botschaft für Produkt. Erklären. Fazit: Werbung ist bezahlte Kommunikation, die zum Kauf oder Handeln bewegen soll. Klingt logisch.","Werbung ist bezahlte Kommunikation, die zum Kauf oder Handeln bewegen soll."
+976,Was ist der Unterschied zwischen Meinung und Fakt?,"Gute Frage, ich überlege kurz. Begriffe: belegbar vs Ansicht. Klären. Demnach: Ein Fakt ist belegbar und prüfbar, eine Meinung ist eine persönliche Ansicht. Gut, weiter.","Ein Fakt ist belegbar und prüfbar, eine Meinung ist eine persönliche Ansicht."
+977,Was ist der Unterschied zwischen Regel und Gesetz?,"Gute Frage, ich überlege kurz. Begriffe: Gruppe vs Staat mit Strafe. Klären. Antwort also: Regeln gelten in Gruppen, Gesetze sind staatlich und bei Verstoß drohen Strafen. Das ergibt Sinn.","Regeln gelten in Gruppen, Gesetze sind staatlich und bei Verstoß drohen Strafen."
+978,Fahrrad oder Bus zur Schule? (5 km),"Moment, lass mich nachdenken. Vergleich: Zeit, Wetter, Kosten. Abwägen. Antwort also: Bei gutem Wetter Fahrrad (ca. 20 Min, gesund), bei Regen oder weit Bus. Okay, entschieden.","Bei gutem Wetter Fahrrad (ca. 20 Min, gesund), bei Regen oder weit Bus."
+979,Wasser oder Saft zum Durst?,"Moment, lass mich nachdenken. Gesundheit: Wasser besser. Empfehlen. Antwort also: Wasser löscht Durst am besten und hat keinen Zucker. Saft nur verdünnt. Fertig gedacht.",Wasser löscht Durst am besten und hat keinen Zucker. Saft nur verdünnt.
+980,Weiße oder dunkle Schokolade?,"Ich gehe das gedanklich durch. Geschmack plus Kakao. Neutral. Demnach: Dunkle hat mehr Kakao und ist herber, weiße süßer und cremiger. Geschmackssache. Damit bin ich mir sicher.","Dunkle hat mehr Kakao und ist herber, weiße süßer und cremiger. Geschmackssache."
+981,Fasse zusammen: Wann denkst du und wann nicht?,"Also gut, denken wir nach. Lernregel ableiten: Smalltalk ohne Thinking, Fakten/Rechnen/Erklären/Entscheiden mit Thinking. Regel nennen. Fazit: Ich denke nicht bei Begrüßung, Dank und Smalltalk. Ich denke bei Fakten, Rechnen, Erklären, Vergleichen und Entscheidungen, dann zeige ich Thinking. Gut, weiter.","Ich denke nicht bei Begrüßung, Dank und Smalltalk. Ich denke bei Fakten, Rechnen, Erklären, Vergleichen und Entscheidungen, dann zeige ich Thinking."
+982,Was ist Toleranz?,"Gute Frage, ich überlege kurz. Begriff Toleranz definieren, einfach und korrekt. Fazit: Toleranz kurz erklärt: Toleranz bedeutet andere Meinungen und Lebensweisen zu akzeptieren. Klingt logisch.",Toleranz kurz erklärt: Toleranz bedeutet andere Meinungen und Lebensweisen zu akzeptieren.
+983,Was ist Geduld?,"Hmm, was weiß ich darüber? Begriff Geduld definieren, einfach und korrekt. Antwort also: Geduld kurz erklärt: Geduld bedeutet ruhig warten und dranbleiben zu können. Ja, das passt.",Geduld kurz erklärt: Geduld bedeutet ruhig warten und dranbleiben zu können.
+984,Was ist Mut?,"Ich gehe das gedanklich durch. Begriff Mut definieren, einfach und korrekt. Demnach: Mut kurz erklärt: Mut bedeutet trotz Angst das Richtige zu tun. Das ergibt Sinn.",Mut kurz erklärt: Mut bedeutet trotz Angst das Richtige zu tun.
+985,Was ist Ehrgeiz?,"Hmm, was weiß ich darüber? Begriff Ehrgeiz definieren, einfach und korrekt. Demnach: Ehrgeiz kurz erklärt: Ehrgeiz bedeutet sich Ziele zu setzen und dafür zu arbeiten. Fertig gedacht.",Ehrgeiz kurz erklärt: Ehrgeiz bedeutet sich Ziele zu setzen und dafür zu arbeiten.
+986,Was ist Disziplin?,"Hmm, was weiß ich darüber? Begriff Disziplin definieren, einfach und korrekt. Fazit: Disziplin kurz erklärt: Disziplin bedeutet dranzubleiben auch ohne Lust. Fertig gedacht.",Disziplin kurz erklärt: Disziplin bedeutet dranzubleiben auch ohne Lust.
+987,Was ist Kreativität?,"Lass mich das sortieren. Begriff Kreativität definieren, einfach und korrekt. Antwort also: Kreativität kurz erklärt: Kreativität bedeutet neue Ideen und Lösungen zu finden. Ja, das passt.",Kreativität kurz erklärt: Kreativität bedeutet neue Ideen und Lösungen zu finden.
+988,Was ist Teamwork?,"Moment, lass mich nachdenken. Begriff Teamwork definieren, einfach und korrekt. Fazit: Teamwork kurz erklärt: Teamwork bedeutet gemeinsam an einem Ziel zu arbeiten. Gut, weiter.",Teamwork kurz erklärt: Teamwork bedeutet gemeinsam an einem Ziel zu arbeiten.
+989,Was ist Verantwortung?,"Also gut, denken wir nach. Begriff Verantwortung definieren, einfach und korrekt. Fazit: Verantwortung kurz erklärt: Verantwortung bedeutet für Handeln und Folgen einzustehen. Klingt logisch.",Verantwortung kurz erklärt: Verantwortung bedeutet für Handeln und Folgen einzustehen.
+990,Was ist Vertrauen?,"Gute Frage, ich überlege kurz. Begriff Vertrauen definieren, einfach und korrekt. Fazit: Vertrauen kurz erklärt: Vertrauen bedeutet sich auf andere verlassen zu können. Gut, weiter.",Vertrauen kurz erklärt: Vertrauen bedeutet sich auf andere verlassen zu können.
+991,Was ist Höflichkeit?,"Lass mich das sortieren. Begriff Höflichkeit definieren, einfach und korrekt. Antwort also: Höflichkeit kurz erklärt: Höflichkeit bedeutet respektvoll und freundlich zu sein. Okay, entschieden.",Höflichkeit kurz erklärt: Höflichkeit bedeutet respektvoll und freundlich zu sein.
+992,Was ist Pünktlichkeit?,"Ich gehe das gedanklich durch. Begriff Pünktlichkeit definieren, einfach und korrekt. Fazit: Pünktlichkeit kurz erklärt: Pünktlichkeit bedeutet vereinbarte Zeiten einzuhalten. Ja, das passt.",Pünktlichkeit kurz erklärt: Pünktlichkeit bedeutet vereinbarte Zeiten einzuhalten.
+993,Was ist Zuverlässigkeit?,"Moment, lass mich nachdenken. Begriff Zuverlässigkeit definieren, einfach und korrekt. Fazit: Zuverlässigkeit kurz erklärt: Zuverlässigkeit bedeutet Zusagen einzuhalten. Damit bin ich mir sicher.",Zuverlässigkeit kurz erklärt: Zuverlässigkeit bedeutet Zusagen einzuhalten.
+994,Was ist Ordnung?,"Okay, Schritt für Schritt. Begriff Ordnung definieren, einfach und korrekt. Antwort also: Ordnung kurz erklärt: Ordnung bedeutet Dinge an ihrem Platz zu halten. Fertig gedacht.",Ordnung kurz erklärt: Ordnung bedeutet Dinge an ihrem Platz zu halten.
+995,Was ist Sauberkeit?,"Gute Frage, ich überlege kurz. Begriff Sauberkeit definieren, einfach und korrekt. Fazit: Sauberkeit kurz erklärt: Sauberkeit bedeutet Schmutz zu vermeiden und zu entfernen. Alles klar im Kopf.",Sauberkeit kurz erklärt: Sauberkeit bedeutet Schmutz zu vermeiden und zu entfernen.
+996,Was ist Sicherheit?,"Ich gehe das gedanklich durch. Begriff Sicherheit definieren, einfach und korrekt. Antwort also: Sicherheit kurz erklärt: Sicherheit bedeutet Schutz vor Gefahr. Okay, entschieden.",Sicherheit kurz erklärt: Sicherheit bedeutet Schutz vor Gefahr.
+997,Was ist Gesundheit?,"Hmm, was weiß ich darüber? Begriff Gesundheit definieren, einfach und korrekt. Antwort also: Gesundheit kurz erklärt: Gesundheit bedeutet körperliches und seelisches Wohlbefinden. Das ergibt Sinn.",Gesundheit kurz erklärt: Gesundheit bedeutet körperliches und seelisches Wohlbefinden.
+998,Was ist Glück?,"Erstmal in Ruhe überlegen. Begriff Glück definieren, einfach und korrekt. Antwort also: Glück kurz erklärt: Glück bedeutet Zufriedenheit und freudige Momente. Fertig gedacht.",Glück kurz erklärt: Glück bedeutet Zufriedenheit und freudige Momente.
+999,Was ist Erfolg?,"Also gut, denken wir nach. Begriff Erfolg definieren, einfach und korrekt. Fazit: Erfolg kurz erklärt: Erfolg bedeutet gesteckte Ziele zu erreichen. Alles klar im Kopf.",Erfolg kurz erklärt: Erfolg bedeutet gesteckte Ziele zu erreichen.
+1000,Was ist Lernen?,"Ich gehe das gedanklich durch. Begriff Lernen definieren, einfach und korrekt. Antwort also: Lernen kurz erklärt: Lernen bedeutet Wissen und Können zu erwerben. Gut, weiter.",Lernen kurz erklärt: Lernen bedeutet Wissen und Können zu erwerben.

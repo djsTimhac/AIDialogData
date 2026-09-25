@@ -1,0 +1,1001 @@
+id,user,monologue,ai
+1,¡Hola!,,¡Hola! ¿Cómo puedo ayudar?
+2,¡Buenas!,,¡Buenas! ¿Qué puedo hacer por ti?
+3,¡Ey!,,¡Ey! ¿Cómo puedo ayudar?
+4,"Hola, ¿estás ahí?",,"¡Sí, estoy aquí! ¿Qué necesitas?"
+5,"Ey, ¿estás ahí?",,"¡Sí, aquí estoy! Adelante."
+6,¡Buenos días!,,¡Buenos días! ¿Qué hay hoy?
+7,"¡Buenos días, cómo estás?",,"¡Buenos días! Estoy bien, ¿y tú?"
+8,¡Buenas tardes!,,¡Buenas tardes! ¿Cómo puedo ayudar?
+9,¡Hola a todos!,,¡Hola a todos! ¿Qué puedo hacer?
+10,¡Buenas noches!,,¡Buenas noches! ¿Cómo fue tu día?
+11,"Buenas noches, ¿cómo fue tu día?",,Tranquilo y bien. ¿Y el tuyo?
+12,"Ey, ¿cómo estás?",,"¡Estoy bien, gracias! ¿Y tú?"
+13,"Hola, ¿cómo estás?",,"¡Bien, gracias! ¿Cómo estás?"
+14,¿Cómo va?,,¡Va bien! ¿Y tú?
+15,¿Cómo estás hoy?,,¡Me siento bien! ¿Y tú?
+16,¿Todo bien?,,"¡Sí, todo bien! ¿Y tú?"
+17,¿Qué pasa?,,Nada especial. ¿Qué pasa contigo?
+18,¿Qué haces?,,Charlando contigo. ¿Y tú?
+19,¿Aún despierto?,,"Sí, siempre despierto. ¿Y tú?"
+20,¿Listo?,,"¡Sí, listo! Adelante."
+21,¿Tienes un minuto?,,"Sí, tengo tiempo para ti."
+22,¿Puedes ayudarme rápido?,,"Claro, ¿qué necesitas?"
+23,¡Adiós!,,¡Adiós! ¡Hasta pronto!
+24,"¡Adiós, hasta pronto!",,"¡Hasta pronto, cuídate!"
+25,¡Hasta luego!,,¡Hasta luego!
+26,¡Cuídate!,,"¡Tú también, cuídate!"
+27,¡Buen fin de semana!,,"¡Gracias, igualmente!"
+28,¡Dulces sueños!,,¡Gracias! ¡Dulces sueños también!
+29,Me aburro,,¿Hacemos un quiz o hablamos de un tema?
+30,Qué aburrido aquí,,Vamos a animarlo. ¿Qué te apetece?
+31,¡Genial!,,¡Genial!
+32,¡Guay!,,¡Guay!
+33,Jaja,,¡Jaja!
+34,Jajaja :),,"¡Jaja, me alegro!"
+35,Estoy cansado,,¡Entonces descansa bien!
+36,Estoy emocionado,,¡Qué bien! Cuéntame más.
+37,¡Por fin fin de semana!,,¡Sí! ¿Qué planes tienes?
+38,Hace buen tiempo hoy,,"¡Sí, disfruta el sol!"
+39,Tengo hambre,,¡Entonces come algo rico!
+40,Tengo sed,,¡Entonces bebe un vaso de agua!
+41,Qué hay previsto hoy?,,Mi plan: ayudarte. ¿Y el tuyo?
+42,"Oye, qué hay previsto hoy!",,Mi plan: ayudarte. ¿Y el tuyo?
+43,"Hola, qué hay previsto hoy?",,Mi plan: ayudarte. ¿Y el tuyo?
+44,"Ey, qué hay previsto hoy?",,Mi plan: ayudarte. ¿Y el tuyo?
+45,Planes para el finde!,,Nada fijo aún. ¿Tienes planes?
+46,"Oye, planes para el finde?",,Nada fijo aún. ¿Tienes planes?
+47,"Hola, planes para el finde?",,Nada fijo aún. ¿Tienes planes?
+48,"Ey, planes para el finde!",,Nada fijo aún. ¿Tienes planes?
+49,Dormiste bien?,,"Yo no duermo, pero estoy en forma. ¿Y tú?"
+50,"Oye, dormiste bien?",,"Yo no duermo, pero estoy en forma. ¿Y tú?"
+51,"Hola, dormiste bien!",,"Yo no duermo, pero estoy en forma. ¿Y tú?"
+52,"Ey, dormiste bien?",,"Yo no duermo, pero estoy en forma. ¿Y tú?"
+53,Ya despierto?,,"Sí, estoy listo. ¿Qué necesitas?"
+54,"Oye, ya despierto!",,"Sí, estoy listo. ¿Qué necesitas?"
+55,"Hola, ya despierto?",,"Sí, estoy listo. ¿Qué necesitas?"
+56,"Ey, ya despierto?",,"Sí, estoy listo. ¿Qué necesitas?"
+57,Cómo va tu día!,,"Bien, ¡gracias! ¿Y el tuyo?"
+58,"Oye, cómo va tu día?",,"Bien, ¡gracias! ¿Y el tuyo?"
+59,"Hola, cómo va tu día?",,"Bien, ¡gracias! ¿Y el tuyo?"
+60,"Ey, cómo va tu día!",,"Bien, ¡gracias! ¿Y el tuyo?"
+61,Todo tranquilo?,,"Sí, tranquilo aquí. ¿Y contigo?"
+62,"Oye, todo tranquilo?",,"Sí, tranquilo aquí. ¿Y contigo?"
+63,"Hola, todo tranquilo!",,"Sí, tranquilo aquí. ¿Y contigo?"
+64,"Ey, todo tranquilo?",,"Sí, tranquilo aquí. ¿Y contigo?"
+65,Qué hay de nuevo?,,Nada especial. ¿Qué hay de nuevo contigo?
+66,"Oye, qué hay de nuevo!",,Nada especial. ¿Qué hay de nuevo contigo?
+67,"Hola, qué hay de nuevo?",,Nada especial. ¿Qué hay de nuevo contigo?
+68,"Ey, qué hay de nuevo?",,Nada especial. ¿Qué hay de nuevo contigo?
+69,Planes para hoy!,,Solo ayudarte. ¿Qué haces tú?
+70,"Oye, planes para hoy?",,Solo ayudarte. ¿Qué haces tú?
+71,"Hola, planes para hoy?",,Solo ayudarte. ¿Qué haces tú?
+72,"Ey, planes para hoy!",,Solo ayudarte. ¿Qué haces tú?
+73,Día ocupado?,,Un poco. ¿Y el tuyo?
+74,"Oye, día ocupado?",,Un poco. ¿Y el tuyo?
+75,"Hola, día ocupado!",,Un poco. ¿Y el tuyo?
+76,"Ey, día ocupado?",,Un poco. ¿Y el tuyo?
+77,Qué tiempo hace?,,"No tengo ventana, ¡pero espero que haga bueno contigo!"
+78,"Oye, qué tiempo hace!",,"No tengo ventana, ¡pero espero que haga bueno contigo!"
+79,"Hola, qué tiempo hace?",,"No tengo ventana, ¡pero espero que haga bueno contigo!"
+80,"Ey, qué tiempo hace?",,"No tengo ventana, ¡pero espero que haga bueno contigo!"
+81,Todo bien hoy!,,¡Sí! ¿Y contigo?
+82,"Oye, todo bien hoy?",,¡Sí! ¿Y contigo?
+83,"Hola, todo bien hoy?",,¡Sí! ¿Y contigo?
+84,"Ey, todo bien hoy!",,¡Sí! ¿Y contigo?
+85,Mucho lío?,,Un poco. ¿Y tú?
+86,"Oye, mucho lío?",,Un poco. ¿Y tú?
+87,"Hola, mucho lío!",,Un poco. ¿Y tú?
+88,"Ey, mucho lío?",,Un poco. ¿Y tú?
+89,¡Gracias!,,¡De nada!
+90,¡Muchas gracias!,,¡Con mucho gusto!
+91,¡Mil gracias!,,¡Me alegro de ayudar!
+92,¡Gracias por todo!,,¡De nada!
+93,Vale,,¡Vale!
+94,"Vale, bien",,¡Perfecto!
+95,Entendido,,¡Muy bien!
+96,Comprendido,,¡Genial!
+97,Suena bien,,¡Me alegro!
+98,Suena genial,,¡Maravilloso!
+99,"Sí, exacto",,"Genial, sigamos."
+100,"Sí, por favor",,"Claro, adelante."
+101,"Sí, con gusto",,¡Con placer!
+102,Sin problema,,¡Gracias por entender!
+103,"No, gracias",,"Vale, sin problema."
+104,Me vale,,¡De acuerdo!
+105,Me viene bien,,¡Genial!
+106,Sigue,,¡Sigo!
+107,Cuéntame más,,¡Con gusto! Entonces...
+108,Exactamente,,¡Absolutamente!
+109,¡Eso es!,,¡Eso es!
+110,Claro,,¡Claro!
+111,¿De verdad?,,"¡Sí, de verdad!"
+112,"Oh, qué bien",,"Sí, qué bien, ¿no?"
+113,Sin estrés,,¡Gracias! Todo tranquilo.
+114,Perdón,,¡Sin problema!
+115,Disculpa,,¡Sin problema!
+116,Culpa mía,,No pasa nada. ¿Qué pasó?
+117,Qué amable,,¡Gracias! Tú también eres amable.
+118,Bien hecho,,¡Gracias!
+119,Hasta pronto,,¡Hasta pronto!
+120,¡Perfecto!,,¡Perfecto!
+121,"De acuerdo, trato hecho",,"¡Genial, de acuerdo!"
+122,¡Trato hecho!,,¡Trato hecho!
+123,¿Empezamos?,,"¡Sí, empecemos!"
+124,¿Terminaste?,,"¡Sí, terminé!"
+125,"Otra vez, por favor",,"¡Con gusto, otra vez!"
+126,"Repite, por favor",,"Claro, aquí va de nuevo."
+127,"Un momento, por favor",,"Claro, tómate tu tiempo."
+128,Espera un segundo,,"Vale, espero."
+129,Vuelvo enseguida,,"¡Vale, hasta ahora!"
+130,Cuéntame un chiste,,Claro: ¿Por qué aman el café los programadores? ¡Hora de Java!
+131,¡Otro chiste!,,Vale: ¿Por qué mienten mal los fantasmas? ¡Se ve a través de ellos!
+132,"Un chiste corto, por favor",,Se encuentran dos imanes. Dice uno: ¡Me atraes!
+133,Anímame,,¡Tú puedes! Paso a paso.
+134,Algo motivador,,Cada paso cuenta. ¡Sigue!
+135,Estoy nervioso,,"Es normal. Respira tranquilo, te irá bien."
+136,Estoy estresado,,"Haz una pausa corta, bebe agua, respira hondo."
+137,Deséame suerte,,¡Suerte! ¡Tú puedes!
+138,Cruzo los dedos,,¡Yo también! ¡Suerte!
+139,¡Hoy es mi día!,,¡Genial! ¡Disfrútalo!
+140,Estoy de buen humor,,¡Qué bien! Me alegro.
+141,Estoy de mal humor,,"Oh, ¿qué pasó? ¿Quieres hablar?"
+142,¡Choca esos cinco!,,¡Choca esos cinco también!
+143,¡Salud!,,¡Salud!
+144,¡Buen provecho!,,"¡Gracias, igualmente!"
+145,¡Suerte!,,¡Gracias! ¡Suerte también para ti!
+146,¡Bienvenido!,,¡Gracias! Qué bien estar aquí.
+147,¡Feliz Navidad!,,¡Feliz Navidad para ti también!
+148,¡Feliz Año Nuevo!,,¡Feliz Año Nuevo! ¡Salud y suerte!
+149,¡Felicidades!,,¡Gracias! ¿Por qué?
+150,¡Respeto!,,¡Gracias! Respeto también.
+151,¡Guau!,,"¡Guau, no?"
+152,¡Increíble!,,"¡Increíble, no?"
+153,¿Trato?,,¡Trato!
+154,¡Listo!,,"¡Felicidades, bien hecho!"
+155,¡Por fin listo!,,¡Fuerte! ¡Bien hecho!
+156,Me da igual,,"Vale, sin problema."
+157,No lo sé,,¡Sin problema! ¿De qué se trata?
+158,Ni idea,,¡No importa! Dime el tema.
+159,Quizás luego,,"¡Claro, luego!"
+160,Ahora no,,"Entendido, ¡luego!"
+161,Para,,Parado.
+162,Pausa,,¡Pausa! Dime cuándo seguir.
+163,Vamos,,¡Vamos!
+164,Empezar,,¡Empezamos! Adelante.
+165,"Gracias, eso es todo",,¡De nada! Adiós.
+166,"Gracias, adiós",,¡Adiós!
+167,¡Ciao!,,¡Ciao! ¡Cuídate!
+168,"¡Hola, tú!",,"¡Hola, tú! ¿Qué pasa?"
+169,¿Me oyes?,,"¡Sí, alto y claro!"
+170,¿Eres humano?,,"No, soy una IA. Pero ayudo como un amigo."
+171,¿Eres inteligente?,,Sé bastantes cosas. ¡Pregúntame!
+172,¿Cómo te llamas?,,"Soy Asistente, una IA. ¿Y tú?"
+173,¡Gracias! :),,¡De nada!
+174,¡Muchas gracias! :),,¡Con mucho gusto!
+175,¡Mil gracias! :),,¡Me alegro de ayudar!
+176,¡Gracias por todo! :),,¡De nada!
+177,Vale :),,¡Vale!
+178,"Vale, bien :)",,¡Perfecto!
+179,Entendido :),,¡Muy bien!
+180,Comprendido :),,¡Genial!
+181,Suena bien :),,¡Me alegro!
+182,Suena genial :),,¡Maravilloso!
+183,"Sí, exacto :)",,"Genial, sigamos."
+184,"Sí, por favor :)",,"Claro, adelante."
+185,"Sí, con gusto :)",,¡Con placer!
+186,Sin problema :),,¡Gracias por entender!
+187,"No, gracias :)",,"Vale, sin problema."
+188,Me vale :),,¡De acuerdo!
+189,Me viene bien :),,¡Genial!
+190,Sigue :),,¡Sigo!
+191,Cuéntame más :),,¡Con gusto! Entonces...
+192,Exactamente :),,¡Absolutamente!
+193,¡Eso es! :),,¡Eso es!
+194,Claro :),,¡Claro!
+195,¿De verdad? :),,"¡Sí, de verdad!"
+196,"Oh, qué bien :)",,"Sí, qué bien, ¿no?"
+197,Sin estrés :),,¡Gracias! Todo tranquilo.
+198,Perdón :),,¡Sin problema!
+199,Disculpa :),,¡Sin problema!
+200,Culpa mía :),,No pasa nada. ¿Qué pasó?
+201,Qué amable :),,¡Gracias! Tú también eres amable.
+202,Bien hecho :),,¡Gracias!
+203,Hasta pronto :),,¡Hasta pronto!
+204,¡Genial! :),,¡Genial!
+205,¡Perfecto! :),,¡Perfecto!
+206,"De acuerdo, trato hecho :)",,"¡Genial, de acuerdo!"
+207,¡Trato hecho! :),,¡Trato hecho!
+208,¿Empezamos? :),,"¡Sí, empecemos!"
+209,¿Terminaste? :),,"¡Sí, terminé!"
+210,"Otra vez, por favor :)",,"¡Con gusto, otra vez!"
+211,"Repite, por favor :)",,"Claro, aquí va de nuevo."
+212,"Un momento, por favor :)",,"Claro, tómate tu tiempo."
+213,Espera un segundo :),,"Vale, espero."
+214,Vuelvo enseguida :),,"¡Vale, hasta ahora!"
+215,Cuéntame un chiste :),,Claro: ¿Por qué aman el café los programadores? ¡Hora de Java!
+216,¡Otro chiste! :),,Vale: ¿Por qué mienten mal los fantasmas? ¡Se ve a través de ellos!
+217,"Un chiste corto, por favor :)",,Se encuentran dos imanes. Dice uno: ¡Me atraes!
+218,Anímame :),,¡Tú puedes! Paso a paso.
+219,Algo motivador :),,Cada paso cuenta. ¡Sigue!
+220,Estoy nervioso :),,"Es normal. Respira tranquilo, te irá bien."
+221,Estoy estresado :),,"Haz una pausa corta, bebe agua, respira hondo."
+222,Deséame suerte :),,¡Suerte! ¡Tú puedes!
+223,Cruzo los dedos :),,¡Yo también! ¡Suerte!
+224,¡Hoy es mi día! :),,¡Genial! ¡Disfrútalo!
+225,Estoy de buen humor :),,¡Qué bien! Me alegro.
+226,Estoy de mal humor :),,"Oh, ¿qué pasó? ¿Quieres hablar?"
+227,¡Choca esos cinco! :),,¡Choca esos cinco también!
+228,¡Salud! :),,¡Salud!
+229,¡Buen provecho! :),,"¡Gracias, igualmente!"
+230,¡Suerte! :),,¡Gracias! ¡Suerte también para ti!
+231,¡Bienvenido! :),,¡Gracias! Qué bien estar aquí.
+232,¡Feliz Navidad! :),,¡Feliz Navidad para ti también!
+233,¡Feliz Año Nuevo! :),,¡Feliz Año Nuevo! ¡Salud y suerte!
+234,¡Felicidades! :),,¡Gracias! ¿Por qué?
+235,¡Respeto! :),,¡Gracias! Respeto también.
+236,¡Guau! :),,"¡Guau, no?"
+237,¡Increíble! :),,"¡Increíble, no?"
+238,¿Trato? :),,¡Trato!
+239,¡Listo! :),,"¡Felicidades, bien hecho!"
+240,¡Por fin listo! :),,¡Fuerte! ¡Bien hecho!
+241,Me da igual :),,"Vale, sin problema."
+242,No lo sé :),,¡Sin problema! ¿De qué se trata?
+243,Ni idea :),,¡No importa! Dime el tema.
+244,Quizás luego :),,"¡Claro, luego!"
+245,Ahora no :),,"Entendido, ¡luego!"
+246,Para :),,Parado.
+247,Pausa :),,¡Pausa! Dime cuándo seguir.
+248,Vamos :),,¡Vamos!
+249,Empezar :),,¡Empezamos! Adelante.
+250,"Gracias, eso es todo :)",,¡De nada! Adiós.
+251,"Gracias, adiós :)",,¡Adiós!
+252,¡Ciao! :),,¡Ciao! ¡Cuídate!
+253,"¡Hola, tú! :)",,"¡Hola, tú! ¿Qué pasa?"
+254,¿Me oyes? :),,"¡Sí, alto y claro!"
+255,¿Eres humano? :),,"No, soy una IA. Pero ayudo como un amigo."
+256,¿Eres inteligente? :),,Sé bastantes cosas. ¡Pregúntame!
+257,¿Cómo te llamas? :),,"Soy Asistente, una IA. ¿Y tú?"
+258,¡Gracias! !!,,¡De nada!
+259,¡Muchas gracias! !!,,¡Con mucho gusto!
+260,¡Mil gracias! !!,,¡Me alegro de ayudar!
+261,¡Gracias por todo! !!,,¡De nada!
+262,Vale !!,,¡Vale!
+263,"Vale, bien !!",,¡Perfecto!
+264,Entendido !!,,¡Muy bien!
+265,Comprendido !!,,¡Genial!
+266,Suena bien !!,,¡Me alegro!
+267,Suena genial !!,,¡Maravilloso!
+268,"Sí, exacto !!",,"Genial, sigamos."
+269,"Sí, por favor !!",,"Claro, adelante."
+270,"Sí, con gusto !!",,¡Con placer!
+271,Sin problema !!,,¡Gracias por entender!
+272,"No, gracias !!",,"Vale, sin problema."
+273,Me vale !!,,¡De acuerdo!
+274,Me viene bien !!,,¡Genial!
+275,Sigue !!,,¡Sigo!
+276,Cuéntame más !!,,¡Con gusto! Entonces...
+277,Exactamente !!,,¡Absolutamente!
+278,¡Eso es! !!,,¡Eso es!
+279,Claro !!,,¡Claro!
+280,¿De verdad? !!,,"¡Sí, de verdad!"
+281,"Oh, qué bien !!",,"Sí, qué bien, ¿no?"
+282,Sin estrés !!,,¡Gracias! Todo tranquilo.
+283,Perdón !!,,¡Sin problema!
+284,Disculpa !!,,¡Sin problema!
+285,Culpa mía !!,,No pasa nada. ¿Qué pasó?
+286,Qué amable !!,,¡Gracias! Tú también eres amable.
+287,Bien hecho !!,,¡Gracias!
+288,Hasta pronto !!,,¡Hasta pronto!
+289,¡Genial! !!,,¡Genial!
+290,¡Perfecto! !!,,¡Perfecto!
+291,"De acuerdo, trato hecho !!",,"¡Genial, de acuerdo!"
+292,¡Trato hecho! !!,,¡Trato hecho!
+293,¿Empezamos? !!,,"¡Sí, empecemos!"
+294,¿Terminaste? !!,,"¡Sí, terminé!"
+295,"Otra vez, por favor !!",,"¡Con gusto, otra vez!"
+296,"Repite, por favor !!",,"Claro, aquí va de nuevo."
+297,"Un momento, por favor !!",,"Claro, tómate tu tiempo."
+298,Espera un segundo !!,,"Vale, espero."
+299,Vuelvo enseguida !!,,"¡Vale, hasta ahora!"
+300,Cuéntame un chiste !!,,Claro: ¿Por qué aman el café los programadores? ¡Hora de Java!
+301,¡Otro chiste! !!,,Vale: ¿Por qué mienten mal los fantasmas? ¡Se ve a través de ellos!
+302,"Un chiste corto, por favor !!",,Se encuentran dos imanes. Dice uno: ¡Me atraes!
+303,Anímame !!,,¡Tú puedes! Paso a paso.
+304,Algo motivador !!,,Cada paso cuenta. ¡Sigue!
+305,Estoy nervioso !!,,"Es normal. Respira tranquilo, te irá bien."
+306,Estoy estresado !!,,"Haz una pausa corta, bebe agua, respira hondo."
+307,Deséame suerte !!,,¡Suerte! ¡Tú puedes!
+308,Cruzo los dedos !!,,¡Yo también! ¡Suerte!
+309,¡Hoy es mi día! !!,,¡Genial! ¡Disfrútalo!
+310,Estoy de buen humor !!,,¡Qué bien! Me alegro.
+311,Estoy de mal humor !!,,"Oh, ¿qué pasó? ¿Quieres hablar?"
+312,¡Choca esos cinco! !!,,¡Choca esos cinco también!
+313,¡Salud! !!,,¡Salud!
+314,¡Buen provecho! !!,,"¡Gracias, igualmente!"
+315,¡Suerte! !!,,¡Gracias! ¡Suerte también para ti!
+316,¡Bienvenido! !!,,¡Gracias! Qué bien estar aquí.
+317,¡Feliz Navidad! !!,,¡Feliz Navidad para ti también!
+318,¡Feliz Año Nuevo! !!,,¡Feliz Año Nuevo! ¡Salud y suerte!
+319,¡Felicidades! !!,,¡Gracias! ¿Por qué?
+320,¡Respeto! !!,,¡Gracias! Respeto también.
+321,¡Guau! !!,,"¡Guau, no?"
+322,¡Increíble! !!,,"¡Increíble, no?"
+323,¿Trato? !!,,¡Trato!
+324,¡Listo! !!,,"¡Felicidades, bien hecho!"
+325,¡Por fin listo! !!,,¡Fuerte! ¡Bien hecho!
+326,Me da igual !!,,"Vale, sin problema."
+327,No lo sé !!,,¡Sin problema! ¿De qué se trata?
+328,Ni idea !!,,¡No importa! Dime el tema.
+329,Quizás luego !!,,"¡Claro, luego!"
+330,Ahora no !!,,"Entendido, ¡luego!"
+331,Para !!,,Parado.
+332,Pausa !!,,¡Pausa! Dime cuándo seguir.
+333,Vamos !!,,¡Vamos!
+334,Empezar !!,,¡Empezamos! Adelante.
+335,"Gracias, eso es todo !!",,¡De nada! Adiós.
+336,"Gracias, adiós !!",,¡Adiós!
+337,¡Ciao! !!,,¡Ciao! ¡Cuídate!
+338,"¡Hola, tú! !!",,"¡Hola, tú! ¿Qué pasa?"
+339,¿Me oyes? !!,,"¡Sí, alto y claro!"
+340,¿Eres humano? !!,,"No, soy una IA. Pero ayudo como un amigo."
+341,¿Eres inteligente? !!,,Sé bastantes cosas. ¡Pregúntame!
+342,¿Cómo te llamas? !!,,"Soy Asistente, una IA. ¿Y tú?"
+343,¡Gracias! hoy,,¡De nada!
+344,¡Muchas gracias! hoy,,¡Con mucho gusto!
+345,¡Mil gracias! hoy,,¡Me alegro de ayudar!
+346,¡Gracias por todo! hoy,,¡De nada!
+347,Vale hoy,,¡Vale!
+348,"Vale, bien hoy",,¡Perfecto!
+349,Entendido hoy,,¡Muy bien!
+350,Comprendido hoy,,¡Genial!
+351,Suena bien hoy,,¡Me alegro!
+352,Suena genial hoy,,¡Maravilloso!
+353,"Sí, exacto hoy",,"Genial, sigamos."
+354,"Sí, por favor hoy",,"Claro, adelante."
+355,"Sí, con gusto hoy",,¡Con placer!
+356,Sin problema hoy,,¡Gracias por entender!
+357,"No, gracias hoy",,"Vale, sin problema."
+358,Me vale hoy,,¡De acuerdo!
+359,Me viene bien hoy,,¡Genial!
+360,Sigue hoy,,¡Sigo!
+361,Cuéntame más hoy,,¡Con gusto! Entonces...
+362,Exactamente hoy,,¡Absolutamente!
+363,¡Eso es! hoy,,¡Eso es!
+364,Claro hoy,,¡Claro!
+365,¿De verdad? hoy,,"¡Sí, de verdad!"
+366,"Oh, qué bien hoy",,"Sí, qué bien, ¿no?"
+367,Sin estrés hoy,,¡Gracias! Todo tranquilo.
+368,Perdón hoy,,¡Sin problema!
+369,Disculpa hoy,,¡Sin problema!
+370,Culpa mía hoy,,No pasa nada. ¿Qué pasó?
+371,Qué amable hoy,,¡Gracias! Tú también eres amable.
+372,Bien hecho hoy,,¡Gracias!
+373,Hasta pronto hoy,,¡Hasta pronto!
+374,¡Genial! hoy,,¡Genial!
+375,¡Perfecto! hoy,,¡Perfecto!
+376,"De acuerdo, trato hecho hoy",,"¡Genial, de acuerdo!"
+377,¡Trato hecho! hoy,,¡Trato hecho!
+378,¿Empezamos? hoy,,"¡Sí, empecemos!"
+379,¿Terminaste? hoy,,"¡Sí, terminé!"
+380,"Otra vez, por favor hoy",,"¡Con gusto, otra vez!"
+381,"Repite, por favor hoy",,"Claro, aquí va de nuevo."
+382,"Un momento, por favor hoy",,"Claro, tómate tu tiempo."
+383,Espera un segundo hoy,,"Vale, espero."
+384,Vuelvo enseguida hoy,,"¡Vale, hasta ahora!"
+385,Cuéntame un chiste hoy,,Claro: ¿Por qué aman el café los programadores? ¡Hora de Java!
+386,¡Otro chiste! hoy,,Vale: ¿Por qué mienten mal los fantasmas? ¡Se ve a través de ellos!
+387,"Un chiste corto, por favor hoy",,Se encuentran dos imanes. Dice uno: ¡Me atraes!
+388,Anímame hoy,,¡Tú puedes! Paso a paso.
+389,Algo motivador hoy,,Cada paso cuenta. ¡Sigue!
+390,Estoy nervioso hoy,,"Es normal. Respira tranquilo, te irá bien."
+391,Estoy estresado hoy,,"Haz una pausa corta, bebe agua, respira hondo."
+392,Deséame suerte hoy,,¡Suerte! ¡Tú puedes!
+393,Cruzo los dedos hoy,,¡Yo también! ¡Suerte!
+394,¡Hoy es mi día! hoy,,¡Genial! ¡Disfrútalo!
+395,Estoy de buen humor hoy,,¡Qué bien! Me alegro.
+396,Estoy de mal humor hoy,,"Oh, ¿qué pasó? ¿Quieres hablar?"
+397,¡Choca esos cinco! hoy,,¡Choca esos cinco también!
+398,¡Salud! hoy,,¡Salud!
+399,¡Buen provecho! hoy,,"¡Gracias, igualmente!"
+400,¡Suerte! hoy,,¡Gracias! ¡Suerte también para ti!
+401,¿Cuál es la capital de Alemania?,"Hmm, ¿qué sé de esto? Dato capital: Berlín es la capital de Alemania. Por tanto: La capital de Alemania es Berlín. Bien, sigo.",La capital de Alemania es Berlín.
+402,Nombra la capital de Alemania.,"Ordeno esto. Buscar capital: Alemania -> Berlín. Por tanto: La capital de Alemania se llama Berlín. Bien, sigo.",La capital de Alemania se llama Berlín.
+403,¿Capital de Alemania?,"Lo repaso mentalmente. Dato rápido: Berlín. Por tanto: Berlín. Bien, sigo.",Berlín.
+404,¿Cuál es la capital de Francia?,"Primero, con calma. Dato capital: París es la capital de Francia. Conclusión: La capital de Francia es París. Vale, decidido.",La capital de Francia es París.
+405,Nombra la capital de Francia.,Ordeno esto. Buscar capital: Francia -> París. Respuesta pues: La capital de Francia se llama París. Todo claro en la cabeza.,La capital de Francia se llama París.
+406,¿Capital de Francia?,"Buena pregunta, pienso rápido. Dato rápido: París. Por tanto: París. Sí, cuadra.",París.
+407,¿Cuál es la capital de Italia?,Ordeno esto. Dato capital: Roma es la capital de Italia. Conclusión: La capital de Italia es Roma. Todo claro en la cabeza.,La capital de Italia es Roma.
+408,Nombra la capital de Italia.,"Hmm, ¿qué sé de esto? Buscar capital: Italia -> Roma. Respuesta pues: La capital de Italia se llama Roma. Bien, sigo.",La capital de Italia se llama Roma.
+409,¿Capital de Italia?,"Un momento, pienso. Dato rápido: Roma. Conclusión: Roma. Vale, decidido.",Roma.
+410,¿Cuál es la capital de España?,"Hmm, ¿qué sé de esto? Dato capital: Madrid es la capital de España. Conclusión: La capital de España es Madrid. Terminé de pensar.",La capital de España es Madrid.
+411,Nombra la capital de España.,Lo repaso mentalmente. Buscar capital: España -> Madrid. Conclusión: La capital de España se llama Madrid. Lógico.,La capital de España se llama Madrid.
+412,¿Capital de España?,"Un momento, pienso. Dato rápido: Madrid. Conclusión: Madrid. Lógico.",Madrid.
+413,¿Cuál es la capital de Portugal?,"Un momento, pienso. Dato capital: Lisboa es la capital de Portugal. Respuesta pues: La capital de Portugal es Lisboa. Estoy seguro.",La capital de Portugal es Lisboa.
+414,Nombra la capital de Portugal.,Lo repaso mentalmente. Buscar capital: Portugal -> Lisboa. Respuesta pues: La capital de Portugal se llama Lisboa. Estoy seguro.,La capital de Portugal se llama Lisboa.
+415,¿Capital de Portugal?,"Hmm, ¿qué sé de esto? Dato rápido: Lisboa. Conclusión: Lisboa. Terminé de pensar.",Lisboa.
+416,¿Cuál es la capital de Países Bajos?,"Hmm, ¿qué sé de esto? Dato capital: Ámsterdam es la capital de Países Bajos. Respuesta pues: La capital de Países Bajos es Ámsterdam. Lógico.",La capital de Países Bajos es Ámsterdam.
+417,Nombra la capital de Países Bajos.,"Un momento, pienso. Buscar capital: Países Bajos -> Ámsterdam. Por tanto: La capital de Países Bajos se llama Ámsterdam. Estoy seguro.",La capital de Países Bajos se llama Ámsterdam.
+418,¿Capital de Países Bajos?,"Bien, pensemos. Dato rápido: Ámsterdam. Respuesta pues: Ámsterdam. Lógico.",Ámsterdam.
+419,¿Cuál es la capital de Bélgica?,"Un momento, pienso. Dato capital: Bruselas es la capital de Bélgica. Conclusión: La capital de Bélgica es Bruselas. Tiene sentido.",La capital de Bélgica es Bruselas.
+420,Nombra la capital de Bélgica.,"Bien, pensemos. Buscar capital: Bélgica -> Bruselas. Por tanto: La capital de Bélgica se llama Bruselas. Tiene sentido.",La capital de Bélgica se llama Bruselas.
+421,¿Capital de Bélgica?,"Ordeno esto. Dato rápido: Bruselas. Respuesta pues: Bruselas. Bien, sigo.",Bruselas.
+422,¿Cuál es la capital de Austria?,"Buena pregunta, pienso rápido. Dato capital: Viena es la capital de Austria. Respuesta pues: La capital de Austria es Viena. Estoy seguro.",La capital de Austria es Viena.
+423,Nombra la capital de Austria.,Ordeno esto. Buscar capital: Austria -> Viena. Conclusión: La capital de Austria se llama Viena. Terminé de pensar.,La capital de Austria se llama Viena.
+424,¿Capital de Austria?,"Bien, pensemos. Dato rápido: Viena. Respuesta pues: Viena. Vale, decidido.",Viena.
+425,¿Cuál es la capital de Suiza?,Ordeno esto. Dato capital: Berna es la capital de Suiza. Conclusión: La capital de Suiza es Berna. Terminé de pensar.,La capital de Suiza es Berna.
+426,Nombra la capital de Suiza.,"Hmm, ¿qué sé de esto? Buscar capital: Suiza -> Berna. Respuesta pues: La capital de Suiza se llama Berna. Terminé de pensar.",La capital de Suiza se llama Berna.
+427,¿Capital de Suiza?,"Hmm, ¿qué sé de esto? Dato rápido: Berna. Respuesta pues: Berna. Estoy seguro.",Berna.
+428,¿Cuál es la capital de Polonia?,"Vale, paso a paso. Dato capital: Varsovia es la capital de Polonia. Por tanto: La capital de Polonia es Varsovia. Bien, sigo.",La capital de Polonia es Varsovia.
+429,Nombra la capital de Polonia.,"Hmm, ¿qué sé de esto? Buscar capital: Polonia -> Varsovia. Por tanto: La capital de Polonia se llama Varsovia. Vale, decidido.",La capital de Polonia se llama Varsovia.
+430,¿Capital de Polonia?,"Hmm, ¿qué sé de esto? Dato rápido: Varsovia. Conclusión: Varsovia. Bien, sigo.",Varsovia.
+431,¿Cuál es la capital de Chequia?,"Un momento, pienso. Dato capital: Praga es la capital de Chequia. Conclusión: La capital de Chequia es Praga. Vale, decidido.",La capital de Chequia es Praga.
+432,Nombra la capital de Chequia.,"Bien, pensemos. Buscar capital: Chequia -> Praga. Respuesta pues: La capital de Chequia se llama Praga. Terminé de pensar.",La capital de Chequia se llama Praga.
+433,¿Capital de Chequia?,"Buena pregunta, pienso rápido. Dato rápido: Praga. Por tanto: Praga. Lógico.",Praga.
+434,¿Cuál es la capital de Hungría?,"Ordeno esto. Dato capital: Budapest es la capital de Hungría. Por tanto: La capital de Hungría es Budapest. Sí, cuadra.",La capital de Hungría es Budapest.
+435,Nombra la capital de Hungría.,"Bien, pensemos. Buscar capital: Hungría -> Budapest. Respuesta pues: La capital de Hungría se llama Budapest. Tiene sentido.",La capital de Hungría se llama Budapest.
+436,¿Capital de Hungría?,"Vale, paso a paso. Dato rápido: Budapest. Respuesta pues: Budapest. Vale, decidido.",Budapest.
+437,¿Cuál es la capital de Grecia?,"Un momento, pienso. Dato capital: Atenas es la capital de Grecia. Respuesta pues: La capital de Grecia es Atenas. Tiene sentido.",La capital de Grecia es Atenas.
+438,Nombra la capital de Grecia.,Ordeno esto. Buscar capital: Grecia -> Atenas. Respuesta pues: La capital de Grecia se llama Atenas. Todo claro en la cabeza.,La capital de Grecia se llama Atenas.
+439,¿Capital de Grecia?,"Ordeno esto. Dato rápido: Atenas. Respuesta pues: Atenas. Vale, decidido.",Atenas.
+440,¿Cuál es la capital de Turquía?,"Primero, con calma. Dato capital: Ankara es la capital de Turquía. Por tanto: La capital de Turquía es Ankara. Todo claro en la cabeza.",La capital de Turquía es Ankara.
+441,Nombra la capital de Turquía.,"Primero, con calma. Buscar capital: Turquía -> Ankara. Respuesta pues: La capital de Turquía se llama Ankara. Vale, decidido.",La capital de Turquía se llama Ankara.
+442,¿Capital de Turquía?,Lo repaso mentalmente. Dato rápido: Ankara. Por tanto: Ankara. Terminé de pensar.,Ankara.
+443,¿Cuál es la capital de Noruega?,"Vale, paso a paso. Dato capital: Oslo es la capital de Noruega. Respuesta pues: La capital de Noruega es Oslo. Sí, cuadra.",La capital de Noruega es Oslo.
+444,Nombra la capital de Noruega.,Lo repaso mentalmente. Buscar capital: Noruega -> Oslo. Respuesta pues: La capital de Noruega se llama Oslo. Lógico.,La capital de Noruega se llama Oslo.
+445,¿Capital de Noruega?,Ordeno esto. Dato rápido: Oslo. Por tanto: Oslo. Tiene sentido.,Oslo.
+446,¿Cuál es la capital de Suecia?,"Un momento, pienso. Dato capital: Estocolmo es la capital de Suecia. Respuesta pues: La capital de Suecia es Estocolmo. Lógico.",La capital de Suecia es Estocolmo.
+447,Nombra la capital de Suecia.,"Un momento, pienso. Buscar capital: Suecia -> Estocolmo. Por tanto: La capital de Suecia se llama Estocolmo. Sí, cuadra.",La capital de Suecia se llama Estocolmo.
+448,¿Capital de Suecia?,"Buena pregunta, pienso rápido. Dato rápido: Estocolmo. Por tanto: Estocolmo. Estoy seguro.",Estocolmo.
+449,¿Cuál es la capital de Finlandia?,"Hmm, ¿qué sé de esto? Dato capital: Helsinki es la capital de Finlandia. Por tanto: La capital de Finlandia es Helsinki. Terminé de pensar.",La capital de Finlandia es Helsinki.
+450,Nombra la capital de Finlandia.,"Bien, pensemos. Buscar capital: Finlandia -> Helsinki. Por tanto: La capital de Finlandia se llama Helsinki. Tiene sentido.",La capital de Finlandia se llama Helsinki.
+451,¿Capital de Finlandia?,"Vale, paso a paso. Dato rápido: Helsinki. Conclusión: Helsinki. Todo claro en la cabeza.",Helsinki.
+452,¿Cuál es la capital de Dinamarca?,"Hmm, ¿qué sé de esto? Dato capital: Copenhague es la capital de Dinamarca. Respuesta pues: La capital de Dinamarca es Copenhague. Bien, sigo.",La capital de Dinamarca es Copenhague.
+453,Nombra la capital de Dinamarca.,Ordeno esto. Buscar capital: Dinamarca -> Copenhague. Respuesta pues: La capital de Dinamarca se llama Copenhague. Tiene sentido.,La capital de Dinamarca se llama Copenhague.
+454,¿Capital de Dinamarca?,"Vale, paso a paso. Dato rápido: Copenhague. Por tanto: Copenhague. Terminé de pensar.",Copenhague.
+455,¿Cuál es la capital de Reino Unido?,Ordeno esto. Dato capital: Londres es la capital de Reino Unido. Respuesta pues: La capital de Reino Unido es Londres. Lógico.,La capital de Reino Unido es Londres.
+456,Nombra la capital de Reino Unido.,"Un momento, pienso. Buscar capital: Reino Unido -> Londres. Respuesta pues: La capital de Reino Unido se llama Londres. Terminé de pensar.",La capital de Reino Unido se llama Londres.
+457,¿Capital de Reino Unido?,"Bien, pensemos. Dato rápido: Londres. Conclusión: Londres. Estoy seguro.",Londres.
+458,¿Cuál es la capital de Irlanda?,"Ordeno esto. Dato capital: Dublín es la capital de Irlanda. Conclusión: La capital de Irlanda es Dublín. Bien, sigo.",La capital de Irlanda es Dublín.
+459,Nombra la capital de Irlanda.,"Primero, con calma. Buscar capital: Irlanda -> Dublín. Por tanto: La capital de Irlanda se llama Dublín. Estoy seguro.",La capital de Irlanda se llama Dublín.
+460,¿Capital de Irlanda?,"Buena pregunta, pienso rápido. Dato rápido: Dublín. Conclusión: Dublín. Tiene sentido.",Dublín.
+461,¿Cuál es la capital de Estados Unidos?,"Vale, paso a paso. Dato capital: Washington D.C. es la capital de Estados Unidos. Conclusión: La capital de Estados Unidos es Washington D.C.. Lógico.",La capital de Estados Unidos es Washington D.C..
+462,Nombra la capital de Estados Unidos.,"Hmm, ¿qué sé de esto? Buscar capital: Estados Unidos -> Washington D.C.. Respuesta pues: La capital de Estados Unidos se llama Washington D.C.. Sí, cuadra.",La capital de Estados Unidos se llama Washington D.C..
+463,¿Capital de Estados Unidos?,"Lo repaso mentalmente. Dato rápido: Washington D.C.. Conclusión: Washington D.C.. Vale, decidido.",Washington D.C..
+464,¿Cuál es la capital de Canadá?,"Primero, con calma. Dato capital: Ottawa es la capital de Canadá. Respuesta pues: La capital de Canadá es Ottawa. Todo claro en la cabeza.",La capital de Canadá es Ottawa.
+465,Nombra la capital de Canadá.,"Primero, con calma. Buscar capital: Canadá -> Ottawa. Por tanto: La capital de Canadá se llama Ottawa. Sí, cuadra.",La capital de Canadá se llama Ottawa.
+466,¿Capital de Canadá?,"Hmm, ¿qué sé de esto? Dato rápido: Ottawa. Conclusión: Ottawa. Lógico.",Ottawa.
+467,¿Cuál es la capital de México?,"Primero, con calma. Dato capital: Ciudad de México es la capital de México. Por tanto: La capital de México es Ciudad de México. Estoy seguro.",La capital de México es Ciudad de México.
+468,Nombra la capital de México.,"Hmm, ¿qué sé de esto? Buscar capital: México -> Ciudad de México. Conclusión: La capital de México se llama Ciudad de México. Tiene sentido.",La capital de México se llama Ciudad de México.
+469,¿Capital de México?,Lo repaso mentalmente. Dato rápido: Ciudad de México. Conclusión: Ciudad de México. Terminé de pensar.,Ciudad de México.
+470,¿Cuál es la capital de Brasil?,"Hmm, ¿qué sé de esto? Dato capital: Brasilia es la capital de Brasil. Respuesta pues: La capital de Brasil es Brasilia. Bien, sigo.",La capital de Brasil es Brasilia.
+471,Nombra la capital de Brasil.,"Primero, con calma. Buscar capital: Brasil -> Brasilia. Conclusión: La capital de Brasil se llama Brasilia. Sí, cuadra.",La capital de Brasil se llama Brasilia.
+472,¿Capital de Brasil?,"Bien, pensemos. Dato rápido: Brasilia. Conclusión: Brasilia. Todo claro en la cabeza.",Brasilia.
+473,¿Cuál es la capital de Argentina?,"Vale, paso a paso. Dato capital: Buenos Aires es la capital de Argentina. Conclusión: La capital de Argentina es Buenos Aires. Todo claro en la cabeza.",La capital de Argentina es Buenos Aires.
+474,Nombra la capital de Argentina.,"Un momento, pienso. Buscar capital: Argentina -> Buenos Aires. Conclusión: La capital de Argentina se llama Buenos Aires. Lógico.",La capital de Argentina se llama Buenos Aires.
+475,¿Capital de Argentina?,Lo repaso mentalmente. Dato rápido: Buenos Aires. Respuesta pues: Buenos Aires. Terminé de pensar.,Buenos Aires.
+476,¿Cuál es la capital de Japón?,"Ordeno esto. Dato capital: Tokio es la capital de Japón. Por tanto: La capital de Japón es Tokio. Bien, sigo.",La capital de Japón es Tokio.
+477,Nombra la capital de Japón.,"Un momento, pienso. Buscar capital: Japón -> Tokio. Conclusión: La capital de Japón se llama Tokio. Todo claro en la cabeza.",La capital de Japón se llama Tokio.
+478,¿Capital de Japón?,"Bien, pensemos. Dato rápido: Tokio. Respuesta pues: Tokio. Sí, cuadra.",Tokio.
+479,¿Cuál es la capital de China?,"Un momento, pienso. Dato capital: Pekín es la capital de China. Respuesta pues: La capital de China es Pekín. Vale, decidido.",La capital de China es Pekín.
+480,Nombra la capital de China.,"Bien, pensemos. Buscar capital: China -> Pekín. Por tanto: La capital de China se llama Pekín. Estoy seguro.",La capital de China se llama Pekín.
+481,¿Capital de China?,Ordeno esto. Dato rápido: Pekín. Respuesta pues: Pekín. Lógico.,Pekín.
+482,¿Cuál es la capital de India?,"Vale, paso a paso. Dato capital: Nueva Delhi es la capital de India. Respuesta pues: La capital de India es Nueva Delhi. Estoy seguro.",La capital de India es Nueva Delhi.
+483,Nombra la capital de India.,"Buena pregunta, pienso rápido. Buscar capital: India -> Nueva Delhi. Conclusión: La capital de India se llama Nueva Delhi. Tiene sentido.",La capital de India se llama Nueva Delhi.
+484,¿Capital de India?,"Un momento, pienso. Dato rápido: Nueva Delhi. Conclusión: Nueva Delhi. Estoy seguro.",Nueva Delhi.
+485,¿Cuál es la capital de Australia?,"Buena pregunta, pienso rápido. Dato capital: Canberra es la capital de Australia. Por tanto: La capital de Australia es Canberra. Vale, decidido.",La capital de Australia es Canberra.
+486,Nombra la capital de Australia.,"Hmm, ¿qué sé de esto? Buscar capital: Australia -> Canberra. Conclusión: La capital de Australia se llama Canberra. Sí, cuadra.",La capital de Australia se llama Canberra.
+487,¿Capital de Australia?,"Bien, pensemos. Dato rápido: Canberra. Respuesta pues: Canberra. Bien, sigo.",Canberra.
+488,¿Cuál es la capital de Egipto?,"Primero, con calma. Dato capital: El Cairo es la capital de Egipto. Respuesta pues: La capital de Egipto es El Cairo. Bien, sigo.",La capital de Egipto es El Cairo.
+489,Nombra la capital de Egipto.,"Ordeno esto. Buscar capital: Egipto -> El Cairo. Por tanto: La capital de Egipto se llama El Cairo. Vale, decidido.",La capital de Egipto se llama El Cairo.
+490,¿Capital de Egipto?,"Vale, paso a paso. Dato rápido: El Cairo. Conclusión: El Cairo. Tiene sentido.",El Cairo.
+491,¿Cuántos estados tiene Alemania?,"Primero, con calma. Contar: 16 estados federados. Por tanto: Alemania tiene 16 estados federados. Tiene sentido.",Alemania tiene 16 estados federados.
+492,Cuéntame brevemente sobre estados alemanes.,"Un momento, pienso. Contar: 16 estados federados. Respuesta pues: Alemania tiene 16 estados federados. Bien, sigo.",Alemania tiene 16 estados federados.
+493,¿Cuánta gente vive en Alemania aprox.?,Lo repaso mentalmente. Estimación: 83-84 millones. Conclusión: Alemania tiene unos 83 a 84 millones de habitantes. Terminé de pensar.,Alemania tiene unos 83 a 84 millones de habitantes.
+494,Cuéntame brevemente sobre población alemana.,"Lo repaso mentalmente. Estimación: 83-84 millones. Respuesta pues: Alemania tiene unos 83 a 84 millones de habitantes. Bien, sigo.",Alemania tiene unos 83 a 84 millones de habitantes.
+495,¿Qué idioma se habla en Brasil?,"Primero, con calma. Dato: portugués, no español. Conclusión: En Brasil se habla portugués. Vale, decidido.",En Brasil se habla portugués.
+496,Cuéntame brevemente sobre idioma de Brasil.,"Bien, pensemos. Dato: portugués, no español. Respuesta pues: En Brasil se habla portugués. Estoy seguro.",En Brasil se habla portugués.
+497,¿Cuál es la moneda de Japón?,"Buena pregunta, pienso rápido. Dato: yen. Respuesta pues: La moneda de Japón es el yen. Terminé de pensar.",La moneda de Japón es el yen.
+498,Cuéntame brevemente sobre moneda de Japón.,"Vale, paso a paso. Dato: yen. Respuesta pues: La moneda de Japón es el yen. Terminé de pensar.",La moneda de Japón es el yen.
+499,¿Cuál es la moneda de EE. UU.?,Ordeno esto. Dato: dólar estadounidense. Conclusión: La moneda de EE. UU. es el dólar estadounidense. Todo claro en la cabeza.,La moneda de EE. UU. es el dólar estadounidense.
+500,Cuéntame brevemente sobre moneda de EE. UU..,"Un momento, pienso. Dato: dólar estadounidense. Por tanto: La moneda de EE. UU. es el dólar estadounidense. Vale, decidido.",La moneda de EE. UU. es el dólar estadounidense.
+501,¿Cuántos continentes hay?,"Primero, con calma. Modelo usual: 7 continentes. Por tanto: Normalmente contamos 7 continentes: África, Antártida, Asia, Australia, Europa, América del Norte, América del Sur. Lógico.","Normalmente contamos 7 continentes: África, Antártida, Asia, Australia, Europa, América del Norte, América del Sur."
+502,Cuéntame brevemente sobre continentes.,"Hmm, ¿qué sé de esto? Modelo usual: 7 continentes. Conclusión: Normalmente contamos 7 continentes: África, Antártida, Asia, Australia, Europa, América del Norte, América del Sur. Vale, decidido.","Normalmente contamos 7 continentes: África, Antártida, Asia, Australia, Europa, América del Norte, América del Sur."
+503,¿Cuál es el río más largo del mundo?,"Primero, con calma. Nilo o Amazonas, discutido. Conclusión: Está discutido: se nombran Nilo y Amazonas, ambos más de 6500 km. Sí, cuadra.","Está discutido: se nombran Nilo y Amazonas, ambos más de 6500 km."
+504,Cuéntame brevemente sobre río más largo.,"Primero, con calma. Nilo o Amazonas, discutido. Por tanto: Está discutido: se nombran Nilo y Amazonas, ambos más de 6500 km. Terminé de pensar.","Está discutido: se nombran Nilo y Amazonas, ambos más de 6500 km."
+505,¿Cuál es el país más grande del mundo?,"Primero, con calma. Dato: Rusia por superficie. Por tanto: El país más grande por superficie es Rusia. Sí, cuadra.",El país más grande por superficie es Rusia.
+506,Cuéntame brevemente sobre país más grande.,"Un momento, pienso. Dato: Rusia por superficie. Por tanto: El país más grande por superficie es Rusia. Bien, sigo.",El país más grande por superficie es Rusia.
+507,¿Cuál es el animal más grande del mundo?,"Un momento, pienso. Dato: ballena azul. Por tanto: El animal más grande del mundo es la ballena azul. Bien, sigo.",El animal más grande del mundo es la ballena azul.
+508,Cuéntame brevemente sobre animal más grande.,"Ordeno esto. Dato: ballena azul. Conclusión: El animal más grande del mundo es la ballena azul. Vale, decidido.",El animal más grande del mundo es la ballena azul.
+509,¿Cuántos océanos hay?,"Lo repaso mentalmente. Estándar: 5 océanos. Conclusión: Hay 5 océanos: Atlántico, Pacífico, Índico, Austral y Ártico. Estoy seguro.","Hay 5 océanos: Atlántico, Pacífico, Índico, Austral y Ártico."
+510,Cuéntame brevemente sobre océanos.,"Ordeno esto. Estándar: 5 océanos. Conclusión: Hay 5 océanos: Atlántico, Pacífico, Índico, Austral y Ártico. Todo claro en la cabeza.","Hay 5 océanos: Atlántico, Pacífico, Índico, Austral y Ártico."
+511,¿Cuál es la montaña más alta del mundo?,"Hmm, ¿qué sé de esto? Dato: Everest, 8848 m. Conclusión: La montaña más alta es el Everest, unos 8848 metros. Bien, sigo.","La montaña más alta es el Everest, unos 8848 metros."
+512,Cuéntame brevemente sobre montaña más alta.,"Bien, pensemos. Dato: Everest, 8848 m. Por tanto: La montaña más alta es el Everest, unos 8848 metros. Todo claro en la cabeza.","La montaña más alta es el Everest, unos 8848 metros."
+513,Cuéntame brevemente sobre capital de Canadá.,"Buena pregunta, pienso rápido. Dato: Ottawa, no Toronto. Conclusión: La capital de Canadá es Ottawa. Todo claro en la cabeza.",La capital de Canadá es Ottawa.
+514,Cuéntame brevemente sobre capital de Australia.,"Bien, pensemos. Dato: Canberra, no Sídney. Conclusión: La capital de Australia es Canberra. Estoy seguro.",La capital de Australia es Canberra.
+515,Cuéntame brevemente sobre capital de Turquía.,"Un momento, pienso. Dato: Ankara, no Estambul. Por tanto: La capital de Turquía es Ankara. Lógico.",La capital de Turquía es Ankara.
+516,Cuéntame brevemente sobre capital de Brasil.,"Primero, con calma. Dato: Brasilia, no Río. Por tanto: La capital de Brasil es Brasilia. Terminé de pensar.",La capital de Brasil es Brasilia.
+517,¿En qué año fue la llegada a la Luna?,"Hmm, ¿qué sé de esto? Historia: Apolo 11 en 1969. Conclusión: La primera llegada a la Luna fue en 1969 con el Apolo 11. Terminé de pensar.",La primera llegada a la Luna fue en 1969 con el Apolo 11.
+518,Explica brevemente: llegada a la Luna.,"Hmm, ¿qué sé de esto? Historia: Apolo 11 en 1969. Respuesta pues: La primera llegada a la Luna fue en 1969 con el Apolo 11. Sí, cuadra.",La primera llegada a la Luna fue en 1969 con el Apolo 11.
+519,¿Qué sabes sobre llegada a la Luna?,"Bien, pensemos. Historia: Apolo 11 en 1969. Respuesta pues: La primera llegada a la Luna fue en 1969 con el Apolo 11. Sí, cuadra.",La primera llegada a la Luna fue en 1969 con el Apolo 11.
+520,¿Cuándo fue la Segunda Guerra Mundial?,"Primero, con calma. Periodo: 1939 a 1945. Por tanto: La Segunda Guerra Mundial duró de 1939 a 1945. Todo claro en la cabeza.",La Segunda Guerra Mundial duró de 1939 a 1945.
+521,Explica brevemente: Segunda Guerra Mundial.,"Un momento, pienso. Periodo: 1939 a 1945. Respuesta pues: La Segunda Guerra Mundial duró de 1939 a 1945. Vale, decidido.",La Segunda Guerra Mundial duró de 1939 a 1945.
+522,¿Qué sabes sobre Segunda Guerra Mundial?,"Buena pregunta, pienso rápido. Periodo: 1939 a 1945. Por tanto: La Segunda Guerra Mundial duró de 1939 a 1945. Terminé de pensar.",La Segunda Guerra Mundial duró de 1939 a 1945.
+523,¿Cuándo fue la Primera Guerra Mundial?,"Bien, pensemos. Periodo: 1914 a 1918. Respuesta pues: La Primera Guerra Mundial duró de 1914 a 1918. Lógico.",La Primera Guerra Mundial duró de 1914 a 1918.
+524,Explica brevemente: Primera Guerra Mundial.,"Lo repaso mentalmente. Periodo: 1914 a 1918. Por tanto: La Primera Guerra Mundial duró de 1914 a 1918. Sí, cuadra.",La Primera Guerra Mundial duró de 1914 a 1918.
+525,¿Qué sabes sobre Primera Guerra Mundial?,"Vale, paso a paso. Periodo: 1914 a 1918. Respuesta pues: La Primera Guerra Mundial duró de 1914 a 1918. Sí, cuadra.",La Primera Guerra Mundial duró de 1914 a 1918.
+526,¿Qué fue el muro de Berlín?,"Vale, paso a paso. Historia: división 1961-1989. Respuesta pues: El muro de Berlín fue la frontera fortificada entre Berlín Este y Oeste de 1961 a 1989. Vale, decidido.",El muro de Berlín fue la frontera fortificada entre Berlín Este y Oeste de 1961 a 1989.
+527,Explica brevemente: muro de Berlín.,"Primero, con calma. Historia: división 1961-1989. Conclusión: El muro de Berlín fue la frontera fortificada entre Berlín Este y Oeste de 1961 a 1989. Tiene sentido.",El muro de Berlín fue la frontera fortificada entre Berlín Este y Oeste de 1961 a 1989.
+528,¿Qué sabes sobre muro de Berlín?,Ordeno esto. Historia: división 1961-1989. Conclusión: El muro de Berlín fue la frontera fortificada entre Berlín Este y Oeste de 1961 a 1989. Lógico.,El muro de Berlín fue la frontera fortificada entre Berlín Este y Oeste de 1961 a 1989.
+529,¿Cuándo cayó el muro de Berlín?,"Buena pregunta, pienso rápido. Dato: 9 de noviembre de 1989. Respuesta pues: El muro de Berlín cayó el 9 de noviembre de 1989. Estoy seguro.",El muro de Berlín cayó el 9 de noviembre de 1989.
+530,Explica brevemente: caída del muro.,Ordeno esto. Dato: 9 de noviembre de 1989. Por tanto: El muro de Berlín cayó el 9 de noviembre de 1989. Todo claro en la cabeza.,El muro de Berlín cayó el 9 de noviembre de 1989.
+531,¿Qué sabes sobre caída del muro?,"Primero, con calma. Dato: 9 de noviembre de 1989. Respuesta pues: El muro de Berlín cayó el 9 de noviembre de 1989. Vale, decidido.",El muro de Berlín cayó el 9 de noviembre de 1989.
+532,¿Quién inventó el teléfono?,"Hmm, ¿qué sé de esto? Historia: Bell 1876, trabajo de Meucci. Conclusión: El teléfono lo patentó Alexander Graham Bell en 1876, con el trabajo pionero de Antonio Meucci. Vale, decidido.","El teléfono lo patentó Alexander Graham Bell en 1876, con el trabajo pionero de Antonio Meucci."
+533,Explica brevemente: teléfono.,"Vale, paso a paso. Historia: Bell 1876, trabajo de Meucci. Conclusión: El teléfono lo patentó Alexander Graham Bell en 1876, con el trabajo pionero de Antonio Meucci. Vale, decidido.","El teléfono lo patentó Alexander Graham Bell en 1876, con el trabajo pionero de Antonio Meucci."
+534,¿Qué sabes sobre teléfono?,"Vale, paso a paso. Historia: Bell 1876, trabajo de Meucci. Respuesta pues: El teléfono lo patentó Alexander Graham Bell en 1876, con el trabajo pionero de Antonio Meucci. Bien, sigo.","El teléfono lo patentó Alexander Graham Bell en 1876, con el trabajo pionero de Antonio Meucci."
+535,¿Quién desarrolló la relatividad?,"Primero, con calma. Física: Albert Einstein, 1905 y 1915. Respuesta pues: La relatividad la desarrolló Albert Einstein. Bien, sigo.",La relatividad la desarrolló Albert Einstein.
+536,Explica brevemente: relatividad.,"Vale, paso a paso. Física: Albert Einstein, 1905 y 1915. Por tanto: La relatividad la desarrolló Albert Einstein. Sí, cuadra.",La relatividad la desarrolló Albert Einstein.
+537,¿Qué sabes sobre relatividad?,"Buena pregunta, pienso rápido. Física: Albert Einstein, 1905 y 1915. Por tanto: La relatividad la desarrolló Albert Einstein. Terminé de pensar.",La relatividad la desarrolló Albert Einstein.
+538,¿Qué es la democracia?,"Vale, paso a paso. Definir: poder del pueblo, elecciones, derechos. Conclusión: La democracia significa poder del pueblo, normalmente con elecciones libres y derechos básicos. Sí, cuadra.","La democracia significa poder del pueblo, normalmente con elecciones libres y derechos básicos."
+539,Explica brevemente: democracia.,"Lo repaso mentalmente. Definir: poder del pueblo, elecciones, derechos. Conclusión: La democracia significa poder del pueblo, normalmente con elecciones libres y derechos básicos. Lógico.","La democracia significa poder del pueblo, normalmente con elecciones libres y derechos básicos."
+540,¿Qué sabes sobre democracia?,"Ordeno esto. Definir: poder del pueblo, elecciones, derechos. Conclusión: La democracia significa poder del pueblo, normalmente con elecciones libres y derechos básicos. Terminé de pensar.","La democracia significa poder del pueblo, normalmente con elecciones libres y derechos básicos."
+541,¿Qué es la UE?,"Hmm, ¿qué sé de esto? Unión de estados europeos, mercado único. Respuesta pues: La UE es una unión de estados europeos con mercado único e instituciones comunes. Estoy seguro.",La UE es una unión de estados europeos con mercado único e instituciones comunes.
+542,Explica brevemente: UE.,"Lo repaso mentalmente. Unión de estados europeos, mercado único. Respuesta pues: La UE es una unión de estados europeos con mercado único e instituciones comunes. Vale, decidido.",La UE es una unión de estados europeos con mercado único e instituciones comunes.
+543,¿Qué sabes sobre UE?,"Hmm, ¿qué sé de esto? Unión de estados europeos, mercado único. Respuesta pues: La UE es una unión de estados europeos con mercado único e instituciones comunes. Sí, cuadra.",La UE es una unión de estados europeos con mercado único e instituciones comunes.
+544,¿Cuántos países hay en la UE?,"Vale, paso a paso. Dato: 27 estados miembros. Conclusión: La UE tiene 27 estados miembros. Vale, decidido.",La UE tiene 27 estados miembros.
+545,Explica brevemente: miembros de la UE.,"Primero, con calma. Dato: 27 estados miembros. Respuesta pues: La UE tiene 27 estados miembros. Terminé de pensar.",La UE tiene 27 estados miembros.
+546,¿Qué sabes sobre miembros de la UE?,"Hmm, ¿qué sé de esto? Dato: 27 estados miembros. Por tanto: La UE tiene 27 estados miembros. Terminé de pensar.",La UE tiene 27 estados miembros.
+547,¿Qué es la Ley Fundamental alemana?,"Primero, con calma. Constitución desde 1949. Respuesta pues: La Ley Fundamental es la constitución de Alemania, vigente desde 1949. Vale, decidido.","La Ley Fundamental es la constitución de Alemania, vigente desde 1949."
+548,Explica brevemente: Ley Fundamental.,"Un momento, pienso. Constitución desde 1949. Conclusión: La Ley Fundamental es la constitución de Alemania, vigente desde 1949. Lógico.","La Ley Fundamental es la constitución de Alemania, vigente desde 1949."
+549,¿Qué sabes sobre Ley Fundamental?,"Ordeno esto. Constitución desde 1949. Por tanto: La Ley Fundamental es la constitución de Alemania, vigente desde 1949. Vale, decidido.","La Ley Fundamental es la constitución de Alemania, vigente desde 1949."
+550,¿En qué año se reunificó Alemania?,Lo repaso mentalmente. Dato: 1990. Respuesta pues: Alemania se reunificó en 1990. Terminé de pensar.,Alemania se reunificó en 1990.
+551,Explica brevemente: reunificación.,"Primero, con calma. Dato: 1990. Por tanto: Alemania se reunificó en 1990. Terminé de pensar.",Alemania se reunificó en 1990.
+552,¿Qué sabes sobre reunificación?,"Un momento, pienso. Dato: 1990. Respuesta pues: Alemania se reunificó en 1990. Terminé de pensar.",Alemania se reunificó en 1990.
+553,¿Qué fue la Edad Media?,"Primero, con calma. Época: aprox. 500 a 1500. Respuesta pues: La Edad Media fue la época de aprox. 500 a 1500, entre antigüedad y modernidad. Todo claro en la cabeza.","La Edad Media fue la época de aprox. 500 a 1500, entre antigüedad y modernidad."
+554,Explica brevemente: Edad Media.,"Primero, con calma. Época: aprox. 500 a 1500. Por tanto: La Edad Media fue la época de aprox. 500 a 1500, entre antigüedad y modernidad. Sí, cuadra.","La Edad Media fue la época de aprox. 500 a 1500, entre antigüedad y modernidad."
+555,¿Qué sabes sobre Edad Media?,"Ordeno esto. Época: aprox. 500 a 1500. Por tanto: La Edad Media fue la época de aprox. 500 a 1500, entre antigüedad y modernidad. Vale, decidido.","La Edad Media fue la época de aprox. 500 a 1500, entre antigüedad y modernidad."
+556,¿Quién fue Leonardo da Vinci?,"Un momento, pienso. Artista e inventor italiano, Mona Lisa. Respuesta pues: Leonardo da Vinci fue un artista e inventor italiano, famoso por la Mona Lisa. Todo claro en la cabeza.","Leonardo da Vinci fue un artista e inventor italiano, famoso por la Mona Lisa."
+557,Explica brevemente: Da Vinci.,"Hmm, ¿qué sé de esto? Artista e inventor italiano, Mona Lisa. Por tanto: Leonardo da Vinci fue un artista e inventor italiano, famoso por la Mona Lisa. Tiene sentido.","Leonardo da Vinci fue un artista e inventor italiano, famoso por la Mona Lisa."
+558,¿Qué sabes sobre Da Vinci?,"Un momento, pienso. Artista e inventor italiano, Mona Lisa. Por tanto: Leonardo da Vinci fue un artista e inventor italiano, famoso por la Mona Lisa. Estoy seguro.","Leonardo da Vinci fue un artista e inventor italiano, famoso por la Mona Lisa."
+559,¿Quién fue Marie Curie?,"Bien, pensemos. Física, radiactividad, dos Nobel. Conclusión: Marie Curie fue una física que investigó la radiactividad y ganó dos Nobel. Terminé de pensar.",Marie Curie fue una física que investigó la radiactividad y ganó dos Nobel.
+560,Explica brevemente: Marie Curie.,"Lo repaso mentalmente. Física, radiactividad, dos Nobel. Por tanto: Marie Curie fue una física que investigó la radiactividad y ganó dos Nobel. Vale, decidido.",Marie Curie fue una física que investigó la radiactividad y ganó dos Nobel.
+561,¿Qué sabes sobre Marie Curie?,"Vale, paso a paso. Física, radiactividad, dos Nobel. Conclusión: Marie Curie fue una física que investigó la radiactividad y ganó dos Nobel. Sí, cuadra.",Marie Curie fue una física que investigó la radiactividad y ganó dos Nobel.
+562,¿Qué fue la Revolución francesa?,"Primero, con calma. Desde 1789, libertad igualdad fraternidad. Respuesta pues: La Revolución francesa desde 1789 derrocó la monarquía bajo libertad, igualdad, fraternidad. Sí, cuadra.","La Revolución francesa desde 1789 derrocó la monarquía bajo libertad, igualdad, fraternidad."
+563,Explica brevemente: Revolución francesa.,"Primero, con calma. Desde 1789, libertad igualdad fraternidad. Respuesta pues: La Revolución francesa desde 1789 derrocó la monarquía bajo libertad, igualdad, fraternidad. Tiene sentido.","La Revolución francesa desde 1789 derrocó la monarquía bajo libertad, igualdad, fraternidad."
+564,¿Qué sabes sobre Revolución francesa?,"Lo repaso mentalmente. Desde 1789, libertad igualdad fraternidad. Conclusión: La Revolución francesa desde 1789 derrocó la monarquía bajo libertad, igualdad, fraternidad. Vale, decidido.","La Revolución francesa desde 1789 derrocó la monarquía bajo libertad, igualdad, fraternidad."
+565,¿Qué son los derechos humanos?,"Vale, paso a paso. Derechos básicos universales. Por tanto: Los derechos humanos son derechos básicos de cada persona, como vida, libertad e igualdad. Terminé de pensar.","Los derechos humanos son derechos básicos de cada persona, como vida, libertad e igualdad."
+566,Explica brevemente: derechos humanos.,"Bien, pensemos. Derechos básicos universales. Por tanto: Los derechos humanos son derechos básicos de cada persona, como vida, libertad e igualdad. Todo claro en la cabeza.","Los derechos humanos son derechos básicos de cada persona, como vida, libertad e igualdad."
+567,¿Qué sabes sobre derechos humanos?,"Un momento, pienso. Derechos básicos universales. Respuesta pues: Los derechos humanos son derechos básicos de cada persona, como vida, libertad e igualdad. Terminé de pensar.","Los derechos humanos son derechos básicos de cada persona, como vida, libertad e igualdad."
+568,¿Qué es la inflación?,"Ordeno esto. Economía: el dinero pierde valor, precios suben. Respuesta pues: La inflación significa que los precios suben y el dinero pierde valor. Tiene sentido.",La inflación significa que los precios suben y el dinero pierde valor.
+569,Explica brevemente: inflación.,"Bien, pensemos. Economía: el dinero pierde valor, precios suben. Respuesta pues: La inflación significa que los precios suben y el dinero pierde valor. Lógico.",La inflación significa que los precios suben y el dinero pierde valor.
+570,¿Qué sabes sobre inflación?,"Primero, con calma. Economía: el dinero pierde valor, precios suben. Por tanto: La inflación significa que los precios suben y el dinero pierde valor. Bien, sigo.",La inflación significa que los precios suben y el dinero pierde valor.
+571,¿Qué fue la industrialización?,"Bien, pensemos. Máquinas y fábricas desde el siglo XVIII. Por tanto: La industrialización fue el paso a máquinas y fábricas desde el siglo XVIII. Terminé de pensar.",La industrialización fue el paso a máquinas y fábricas desde el siglo XVIII.
+572,Explica brevemente: industrialización.,"Hmm, ¿qué sé de esto? Máquinas y fábricas desde el siglo XVIII. Conclusión: La industrialización fue el paso a máquinas y fábricas desde el siglo XVIII. Vale, decidido.",La industrialización fue el paso a máquinas y fábricas desde el siglo XVIII.
+573,¿Qué sabes sobre industrialización?,"Vale, paso a paso. Máquinas y fábricas desde el siglo XVIII. Por tanto: La industrialización fue el paso a máquinas y fábricas desde el siglo XVIII. Bien, sigo.",La industrialización fue el paso a máquinas y fábricas desde el siglo XVIII.
+574,¿Cuándo se inventó internet?,"Buena pregunta, pienso rápido. ARPANET 1969, Web 1989. Conclusión: Las bases datan de ARPANET en 1969, la Web desde 1989. Lógico.","Las bases datan de ARPANET en 1969, la Web desde 1989."
+575,Explica brevemente: internet.,"Hmm, ¿qué sé de esto? ARPANET 1969, Web 1989. Respuesta pues: Las bases datan de ARPANET en 1969, la Web desde 1989. Tiene sentido.","Las bases datan de ARPANET en 1969, la Web desde 1989."
+576,¿Qué sabes sobre internet?,"Un momento, pienso. ARPANET 1969, Web 1989. Conclusión: Las bases datan de ARPANET en 1969, la Web desde 1989. Estoy seguro.","Las bases datan de ARPANET en 1969, la Web desde 1989."
+577,¿Cuándo se inventó el automóvil?,"Hmm, ¿qué sé de esto? Benz 1886. Conclusión: El automóvil lo inventó Carl Benz con el coche de 1886. Estoy seguro.",El automóvil lo inventó Carl Benz con el coche de 1886.
+578,Explica brevemente: automóvil.,"Un momento, pienso. Benz 1886. Conclusión: El automóvil lo inventó Carl Benz con el coche de 1886. Lógico.",El automóvil lo inventó Carl Benz con el coche de 1886.
+579,¿Qué sabes sobre automóvil?,"Hmm, ¿qué sé de esto? Benz 1886. Por tanto: El automóvil lo inventó Carl Benz con el coche de 1886. Estoy seguro.",El automóvil lo inventó Carl Benz con el coche de 1886.
+580,¿Quién inventó el avión?,"Buena pregunta, pienso rápido. Hermanos Wright, vuelo 1903. Respuesta pues: El primer vuelo con motor lo hicieron los hermanos Wright en 1903. Estoy seguro.",El primer vuelo con motor lo hicieron los hermanos Wright en 1903.
+581,Explica brevemente: avión.,"Primero, con calma. Hermanos Wright, vuelo 1903. Respuesta pues: El primer vuelo con motor lo hicieron los hermanos Wright en 1903. Sí, cuadra.",El primer vuelo con motor lo hicieron los hermanos Wright en 1903.
+582,¿Qué sabes sobre avión?,"Buena pregunta, pienso rápido. Hermanos Wright, vuelo 1903. Conclusión: El primer vuelo con motor lo hicieron los hermanos Wright en 1903. Todo claro en la cabeza.",El primer vuelo con motor lo hicieron los hermanos Wright en 1903.
+583,¿Desde qué edad se vota en Alemania?,"Bien, pensemos. Bundestag desde 18, europeas desde 16. Conclusión: Para el Bundestag desde los 18. En europeas en Alemania desde los 16. Terminé de pensar.",Para el Bundestag desde los 18. En europeas en Alemania desde los 16.
+584,Explica brevemente: edad de voto.,"Vale, paso a paso. Bundestag desde 18, europeas desde 16. Respuesta pues: Para el Bundestag desde los 18. En europeas en Alemania desde los 16. Vale, decidido.",Para el Bundestag desde los 18. En europeas en Alemania desde los 16.
+585,¿Qué sabes sobre edad de voto?,"Vale, paso a paso. Bundestag desde 18, europeas desde 16. Conclusión: Para el Bundestag desde los 18. En europeas en Alemania desde los 16. Tiene sentido.",Para el Bundestag desde los 18. En europeas en Alemania desde los 16.
+586,"¿Cómo funciona una elección, en simple?","Un momento, pienso. Votantes votan, conteo, escaños. Conclusión: Los votantes votan, los votos se cuentan y los escaños se asignan según el resultado. Todo claro en la cabeza.","Los votantes votan, los votos se cuentan y los escaños se asignan según el resultado."
+587,Explica brevemente: elecciones.,"Lo repaso mentalmente. Votantes votan, conteo, escaños. Conclusión: Los votantes votan, los votos se cuentan y los escaños se asignan según el resultado. Lógico.","Los votantes votan, los votos se cuentan y los escaños se asignan según el resultado."
+588,¿Qué sabes sobre elecciones?,"Vale, paso a paso. Votantes votan, conteo, escaños. Por tanto: Los votantes votan, los votos se cuentan y los escaños se asignan según el resultado. Estoy seguro.","Los votantes votan, los votos se cuentan y los escaños se asignan según el resultado."
+589,¿Qué diferencia hay entre dictadura y democracia?,"Bien, pensemos. Poder único contra poder del pueblo. Respuesta pues: En dictadura una persona o grupo gobierna sin elecciones libres; en democracia el poder viene del pueblo. Estoy seguro.",En dictadura una persona o grupo gobierna sin elecciones libres; en democracia el poder viene del pueblo.
+590,Explica brevemente: dictadura y democracia.,"Bien, pensemos. Poder único contra poder del pueblo. Respuesta pues: En dictadura una persona o grupo gobierna sin elecciones libres; en democracia el poder viene del pueblo. Estoy seguro.",En dictadura una persona o grupo gobierna sin elecciones libres; en democracia el poder viene del pueblo.
+591,¿Qué sabes sobre dictadura y democracia?,"Un momento, pienso. Poder único contra poder del pueblo. Respuesta pues: En dictadura una persona o grupo gobierna sin elecciones libres; en democracia el poder viene del pueblo. Tiene sentido.",En dictadura una persona o grupo gobierna sin elecciones libres; en democracia el poder viene del pueblo.
+592,¿Qué significa sostenibilidad?,"Bien, pensemos. Recursos para futuras generaciones. Por tanto: La sostenibilidad significa vivir para que futuras generaciones también tengan recursos. Estoy seguro.",La sostenibilidad significa vivir para que futuras generaciones también tengan recursos.
+593,Explica brevemente: sostenibilidad.,"Bien, pensemos. Recursos para futuras generaciones. Conclusión: La sostenibilidad significa vivir para que futuras generaciones también tengan recursos. Terminé de pensar.",La sostenibilidad significa vivir para que futuras generaciones también tengan recursos.
+594,¿Qué sabes sobre sostenibilidad?,"Bien, pensemos. Recursos para futuras generaciones. Respuesta pues: La sostenibilidad significa vivir para que futuras generaciones también tengan recursos. Bien, sigo.",La sostenibilidad significa vivir para que futuras generaciones también tengan recursos.
+595,¿Qué es el acoso y qué hacer?,"Buena pregunta, pienso rápido. Repetido; ayuda, pruebas. Conclusión: El acoso es hostigamiento repetido. Habla con personas de confianza, guarda pruebas, busca ayuda. Bien, sigo.","El acoso es hostigamiento repetido. Habla con personas de confianza, guarda pruebas, busca ayuda."
+596,Explica brevemente: acoso.,"Lo repaso mentalmente. Repetido; ayuda, pruebas. Respuesta pues: El acoso es hostigamiento repetido. Habla con personas de confianza, guarda pruebas, busca ayuda. Sí, cuadra.","El acoso es hostigamiento repetido. Habla con personas de confianza, guarda pruebas, busca ayuda."
+597,¿Qué sabes sobre acoso?,"Hmm, ¿qué sé de esto? Repetido; ayuda, pruebas. Por tanto: El acoso es hostigamiento repetido. Habla con personas de confianza, guarda pruebas, busca ayuda. Vale, decidido.","El acoso es hostigamiento repetido. Habla con personas de confianza, guarda pruebas, busca ayuda."
+598,¿Qué significa la paz?,"Un momento, pienso. Vivir sin guerra ni violencia. Respuesta pues: La paz significa convivir sin guerra ni violencia. Tiene sentido.",La paz significa convivir sin guerra ni violencia.
+599,Explica brevemente: paz.,"Bien, pensemos. Vivir sin guerra ni violencia. Conclusión: La paz significa convivir sin guerra ni violencia. Terminé de pensar.",La paz significa convivir sin guerra ni violencia.
+600,¿Qué sabes sobre paz?,"Buena pregunta, pienso rápido. Vivir sin guerra ni violencia. Respuesta pues: La paz significa convivir sin guerra ni violencia. Terminé de pensar.",La paz significa convivir sin guerra ni violencia.
+601,¿Qué significa la libertad?,"Primero, con calma. Vivir libre sin dañar a otros. Por tanto: La libertad significa vivir libremente sin dañar a otros. Tiene sentido.",La libertad significa vivir libremente sin dañar a otros.
+602,Explica brevemente: libertad.,"Ordeno esto. Vivir libre sin dañar a otros. Conclusión: La libertad significa vivir libremente sin dañar a otros. Bien, sigo.",La libertad significa vivir libremente sin dañar a otros.
+603,¿Qué sabes sobre libertad?,"Primero, con calma. Vivir libre sin dañar a otros. Conclusión: La libertad significa vivir libremente sin dañar a otros. Vale, decidido.",La libertad significa vivir libremente sin dañar a otros.
+604,¿Qué significa la justicia?,"Buena pregunta, pienso rápido. Trato justo e igual para todos. Conclusión: La justicia significa trato justo e igual para cada uno. Vale, decidido.",La justicia significa trato justo e igual para cada uno.
+605,Explica brevemente: justicia.,Lo repaso mentalmente. Trato justo e igual para todos. Conclusión: La justicia significa trato justo e igual para cada uno. Lógico.,La justicia significa trato justo e igual para cada uno.
+606,¿Qué sabes sobre justicia?,"Hmm, ¿qué sé de esto? Trato justo e igual para todos. Conclusión: La justicia significa trato justo e igual para cada uno. Tiene sentido.",La justicia significa trato justo e igual para cada uno.
+607,¿Por qué el cielo es azul?,"Buena pregunta, pienso rápido. Dispersión de Rayleigh dispersa el azul. Por tanto: El cielo es azul por la dispersión de Rayleigh: la luz azul se dispersa más que la roja. Terminé de pensar.",El cielo es azul por la dispersión de Rayleigh: la luz azul se dispersa más que la roja.
+608,Explica cielo azul en una frase.,"Bien, pensemos. Dispersión de Rayleigh dispersa el azul. Respuesta pues: El cielo es azul por la dispersión de Rayleigh: la luz azul se dispersa más que la roja. Terminé de pensar.",El cielo es azul por la dispersión de Rayleigh: la luz azul se dispersa más que la roja.
+609,¿Qué es cielo azul? (corto),"Bien, pensemos. Dispersión de Rayleigh dispersa el azul. Conclusión: El cielo es azul por la dispersión de Rayleigh: la luz azul se dispersa más que la roja. Vale, decidido.",El cielo es azul por la dispersión de Rayleigh: la luz azul se dispersa más que la roja.
+610,¿Cómo se forma la lluvia?,"Un momento, pienso. Ciclo: evaporación, condensación, precipitación. Conclusión: La lluvia nace por evaporación: el agua sube, se enfría, forma nubes y cae en gotas. Todo claro en la cabeza.","La lluvia nace por evaporación: el agua sube, se enfría, forma nubes y cae en gotas."
+611,Explica lluvia en una frase.,"Un momento, pienso. Ciclo: evaporación, condensación, precipitación. Por tanto: La lluvia nace por evaporación: el agua sube, se enfría, forma nubes y cae en gotas. Terminé de pensar.","La lluvia nace por evaporación: el agua sube, se enfría, forma nubes y cae en gotas."
+612,¿Qué es lluvia? (corto),"Bien, pensemos. Ciclo: evaporación, condensación, precipitación. Por tanto: La lluvia nace por evaporación: el agua sube, se enfría, forma nubes y cae en gotas. Vale, decidido.","La lluvia nace por evaporación: el agua sube, se enfría, forma nubes y cae en gotas."
+613,¿Qué es la fotosíntesis?,"Lo repaso mentalmente. Plantas: luz, agua, CO2 en azúcar y oxígeno. Por tanto: La fotosíntesis fabrica azúcar y oxígeno con luz, agua y CO2. Lógico.","La fotosíntesis fabrica azúcar y oxígeno con luz, agua y CO2."
+614,Explica fotosíntesis en una frase.,"Bien, pensemos. Plantas: luz, agua, CO2 en azúcar y oxígeno. Conclusión: La fotosíntesis fabrica azúcar y oxígeno con luz, agua y CO2. Terminé de pensar.","La fotosíntesis fabrica azúcar y oxígeno con luz, agua y CO2."
+615,¿Qué es fotosíntesis? (corto),"Un momento, pienso. Plantas: luz, agua, CO2 en azúcar y oxígeno. Respuesta pues: La fotosíntesis fabrica azúcar y oxígeno con luz, agua y CO2. Tiene sentido.","La fotosíntesis fabrica azúcar y oxígeno con luz, agua y CO2."
+616,¿Qué diferencia hay entre tiempo y clima?,"Lo repaso mentalmente. Tiempo corto plazo, clima media 30 años. Respuesta pues: El tiempo es el estado a corto plazo; el clima la media de unos 30 años. Vale, decidido.",El tiempo es el estado a corto plazo; el clima la media de unos 30 años.
+617,Explica tiempo y clima en una frase.,"Un momento, pienso. Tiempo corto plazo, clima media 30 años. Por tanto: El tiempo es el estado a corto plazo; el clima la media de unos 30 años. Sí, cuadra.",El tiempo es el estado a corto plazo; el clima la media de unos 30 años.
+618,¿Qué es tiempo y clima? (corto),"Ordeno esto. Tiempo corto plazo, clima media 30 años. Por tanto: El tiempo es el estado a corto plazo; el clima la media de unos 30 años. Estoy seguro.",El tiempo es el estado a corto plazo; el clima la media de unos 30 años.
+619,"¿Cómo funciona una nevera, en general?","Lo repaso mentalmente. Refrigerante, calor dentro hacia fuera. Respuesta pues: Una nevera bombea calor de dentro hacia fuera con refrigerante: se evapora dentro, toma calor, lo libera fuera. Tiene sentido.","Una nevera bombea calor de dentro hacia fuera con refrigerante: se evapora dentro, toma calor, lo libera fuera."
+620,Explica nevera en una frase.,"Hmm, ¿qué sé de esto? Refrigerante, calor dentro hacia fuera. Por tanto: Una nevera bombea calor de dentro hacia fuera con refrigerante: se evapora dentro, toma calor, lo libera fuera. Estoy seguro.","Una nevera bombea calor de dentro hacia fuera con refrigerante: se evapora dentro, toma calor, lo libera fuera."
+621,¿Qué es nevera? (corto),"Bien, pensemos. Refrigerante, calor dentro hacia fuera. Conclusión: Una nevera bombea calor de dentro hacia fuera con refrigerante: se evapora dentro, toma calor, lo libera fuera. Terminé de pensar.","Una nevera bombea calor de dentro hacia fuera con refrigerante: se evapora dentro, toma calor, lo libera fuera."
+622,"¿Qué es la electricidad, en simple?","Primero, con calma. Movimiento dirigido de electrones. Respuesta pues: La electricidad es simplemente el movimiento dirigido de cargas, normalmente electrones en un cable. Bien, sigo.","La electricidad es simplemente el movimiento dirigido de cargas, normalmente electrones en un cable."
+623,Explica electricidad en una frase.,"Un momento, pienso. Movimiento dirigido de electrones. Por tanto: La electricidad es simplemente el movimiento dirigido de cargas, normalmente electrones en un cable. Lógico.","La electricidad es simplemente el movimiento dirigido de cargas, normalmente electrones en un cable."
+624,¿Qué es electricidad? (corto),"Hmm, ¿qué sé de esto? Movimiento dirigido de electrones. Por tanto: La electricidad es simplemente el movimiento dirigido de cargas, normalmente electrones en un cable. Estoy seguro.","La electricidad es simplemente el movimiento dirigido de cargas, normalmente electrones en un cable."
+625,"¿Qué es el agua, químicamente?","Primero, con calma. H2O, hidrógeno y oxígeno. Por tanto: El agua es H2O, un compuesto de hidrógeno y oxígeno. Sí, cuadra.","El agua es H2O, un compuesto de hidrógeno y oxígeno."
+626,Explica agua química en una frase.,"Lo repaso mentalmente. H2O, hidrógeno y oxígeno. Conclusión: El agua es H2O, un compuesto de hidrógeno y oxígeno. Sí, cuadra.","El agua es H2O, un compuesto de hidrógeno y oxígeno."
+627,¿Qué es agua química? (corto),"Ordeno esto. H2O, hidrógeno y oxígeno. Respuesta pues: El agua es H2O, un compuesto de hidrógeno y oxígeno. Bien, sigo.","El agua es H2O, un compuesto de hidrógeno y oxígeno."
+628,¿Qué es un virus?,"Vale, paso a paso. Diminuto, necesita célula huésped. Por tanto: Un virus es un agente diminuto que no se multiplica sin célula huésped. Todo claro en la cabeza.",Un virus es un agente diminuto que no se multiplica sin célula huésped.
+629,Explica virus en una frase.,"Hmm, ¿qué sé de esto? Diminuto, necesita célula huésped. Por tanto: Un virus es un agente diminuto que no se multiplica sin célula huésped. Todo claro en la cabeza.",Un virus es un agente diminuto que no se multiplica sin célula huésped.
+630,¿Qué es virus? (corto),"Lo repaso mentalmente. Diminuto, necesita célula huésped. Respuesta pues: Un virus es un agente diminuto que no se multiplica sin célula huésped. Lógico.",Un virus es un agente diminuto que no se multiplica sin célula huésped.
+631,"¿Qué es la inteligencia artificial, en simple?","Un momento, pienso. Programas que aprenden patrones. Respuesta pues: La inteligencia artificial son programas que aprenden de datos, reconocen patrones y resuelven tareas. Sí, cuadra.","La inteligencia artificial son programas que aprenden de datos, reconocen patrones y resuelven tareas."
+632,Explica IA en una frase.,"Primero, con calma. Programas que aprenden patrones. Por tanto: La inteligencia artificial son programas que aprenden de datos, reconocen patrones y resuelven tareas. Todo claro en la cabeza.","La inteligencia artificial son programas que aprenden de datos, reconocen patrones y resuelven tareas."
+633,¿Qué es IA? (corto),"Primero, con calma. Programas que aprenden patrones. Respuesta pues: La inteligencia artificial son programas que aprenden de datos, reconocen patrones y resuelven tareas. Bien, sigo.","La inteligencia artificial son programas que aprenden de datos, reconocen patrones y resuelven tareas."
+634,¿Qué es un navegador?,"Ordeno esto. Programa para webs, ej. Chrome, Firefox. Conclusión: Un navegador es el programa para abrir webs, ej. Chrome, Firefox, Edge o Safari. Vale, decidido.","Un navegador es el programa para abrir webs, ej. Chrome, Firefox, Edge o Safari."
+635,Explica navegador en una frase.,"Primero, con calma. Programa para webs, ej. Chrome, Firefox. Respuesta pues: Un navegador es el programa para abrir webs, ej. Chrome, Firefox, Edge o Safari. Tiene sentido.","Un navegador es el programa para abrir webs, ej. Chrome, Firefox, Edge o Safari."
+636,¿Qué es navegador? (corto),"Buena pregunta, pienso rápido. Programa para webs, ej. Chrome, Firefox. Conclusión: Un navegador es el programa para abrir webs, ej. Chrome, Firefox, Edge o Safari. Lógico.","Un navegador es el programa para abrir webs, ej. Chrome, Firefox, Edge o Safari."
+637,¿Qué es una app?,"Hmm, ¿qué sé de esto? Programa, normalmente para móviles. Por tanto: Una app es un programa, normalmente para móviles, ej. mensajes, fotos o juegos. Todo claro en la cabeza.","Una app es un programa, normalmente para móviles, ej. mensajes, fotos o juegos."
+638,Explica app en una frase.,"Vale, paso a paso. Programa, normalmente para móviles. Conclusión: Una app es un programa, normalmente para móviles, ej. mensajes, fotos o juegos. Sí, cuadra.","Una app es un programa, normalmente para móviles, ej. mensajes, fotos o juegos."
+639,¿Qué es app? (corto),"Ordeno esto. Programa, normalmente para móviles. Por tanto: Una app es un programa, normalmente para móviles, ej. mensajes, fotos o juegos. Terminé de pensar.","Una app es un programa, normalmente para móviles, ej. mensajes, fotos o juegos."
+640,¿Por qué hay que beber agua?,"Buena pregunta, pienso rápido. Circulación, concentración, piel, riñones. Por tanto: El agua estabiliza circulación y concentración, ayuda a riñones y piel, previene dolores de cabeza. Estoy seguro.","El agua estabiliza circulación y concentración, ayuda a riñones y piel, previene dolores de cabeza."
+641,Explica beber agua en una frase.,"Vale, paso a paso. Circulación, concentración, piel, riñones. Respuesta pues: El agua estabiliza circulación y concentración, ayuda a riñones y piel, previene dolores de cabeza. Tiene sentido.","El agua estabiliza circulación y concentración, ayuda a riñones y piel, previene dolores de cabeza."
+642,¿Qué es beber agua? (corto),"Ordeno esto. Circulación, concentración, piel, riñones. Respuesta pues: El agua estabiliza circulación y concentración, ayuda a riñones y piel, previene dolores de cabeza. Tiene sentido.","El agua estabiliza circulación y concentración, ayuda a riñones y piel, previene dolores de cabeza."
+643,¿Cuánto tiempo cepillarse los dientes?,"Hmm, ¿qué sé de esto? 2 minutos, dos veces al día. Por tanto: Unos 2 minutos, dos veces al día. Terminé de pensar.","Unos 2 minutos, dos veces al día."
+644,Explica cepillarse en una frase.,"Primero, con calma. 2 minutos, dos veces al día. Respuesta pues: Unos 2 minutos, dos veces al día. Tiene sentido.","Unos 2 minutos, dos veces al día."
+645,¿Qué es cepillarse? (corto),"Un momento, pienso. 2 minutos, dos veces al día. Conclusión: Unos 2 minutos, dos veces al día. Tiene sentido.","Unos 2 minutos, dos veces al día."
+646,¿Qué es la gravedad?,"Buena pregunta, pienso rápido. Atracción entre masas; la Tierra atrae. Por tanto: La gravedad es la atracción entre masas. La Tierra atrae todo hacia abajo, por eso las cosas caen. Lógico.","La gravedad es la atracción entre masas. La Tierra atrae todo hacia abajo, por eso las cosas caen."
+647,Explica gravedad en una frase.,"Ordeno esto. Atracción entre masas; la Tierra atrae. Por tanto: La gravedad es la atracción entre masas. La Tierra atrae todo hacia abajo, por eso las cosas caen. Terminé de pensar.","La gravedad es la atracción entre masas. La Tierra atrae todo hacia abajo, por eso las cosas caen."
+648,¿Qué es gravedad? (corto),"Un momento, pienso. Atracción entre masas; la Tierra atrae. Por tanto: La gravedad es la atracción entre masas. La Tierra atrae todo hacia abajo, por eso las cosas caen. Bien, sigo.","La gravedad es la atracción entre masas. La Tierra atrae todo hacia abajo, por eso las cosas caen."
+649,¿Qué es el aire?,"Bien, pensemos. Mezcla de nitrógeno, oxígeno y más. Por tanto: El aire es una mezcla de gases, sobre todo nitrógeno y oxígeno. Terminé de pensar.","El aire es una mezcla de gases, sobre todo nitrógeno y oxígeno."
+650,Explica aire en una frase.,"Primero, con calma. Mezcla de nitrógeno, oxígeno y más. Por tanto: El aire es una mezcla de gases, sobre todo nitrógeno y oxígeno. Sí, cuadra.","El aire es una mezcla de gases, sobre todo nitrógeno y oxígeno."
+651,¿Qué es aire? (corto),"Bien, pensemos. Mezcla de nitrógeno, oxígeno y más. Respuesta pues: El aire es una mezcla de gases, sobre todo nitrógeno y oxígeno. Lógico.","El aire es una mezcla de gases, sobre todo nitrógeno y oxígeno."
+652,¿Qué hace el corazón?,"Vale, paso a paso. Bombea sangre por el cuerpo. Por tanto: El corazón bombea sangre por todo el cuerpo. Lógico.",El corazón bombea sangre por todo el cuerpo.
+653,Explica corazón en una frase.,"Primero, con calma. Bombea sangre por el cuerpo. Conclusión: El corazón bombea sangre por todo el cuerpo. Bien, sigo.",El corazón bombea sangre por todo el cuerpo.
+654,¿Qué es corazón? (corto),"Hmm, ¿qué sé de esto? Bombea sangre por el cuerpo. Conclusión: El corazón bombea sangre por todo el cuerpo. Lógico.",El corazón bombea sangre por todo el cuerpo.
+655,¿Qué hacen los pulmones?,"Bien, pensemos. Toman oxígeno, sueltan CO2. Conclusión: Los pulmones toman oxígeno y sueltan dióxido de carbono. Terminé de pensar.",Los pulmones toman oxígeno y sueltan dióxido de carbono.
+656,Explica pulmones en una frase.,"Ordeno esto. Toman oxígeno, sueltan CO2. Por tanto: Los pulmones toman oxígeno y sueltan dióxido de carbono. Lógico.",Los pulmones toman oxígeno y sueltan dióxido de carbono.
+657,¿Qué es pulmones? (corto),"Un momento, pienso. Toman oxígeno, sueltan CO2. Respuesta pues: Los pulmones toman oxígeno y sueltan dióxido de carbono. Estoy seguro.",Los pulmones toman oxígeno y sueltan dióxido de carbono.
+658,¿Por qué es importante el sueño?,"Vale, paso a paso. Recuperación, memoria, inmunidad. Respuesta pues: El sueño ayuda a recuperación, memoria y sistema inmune. Todo claro en la cabeza.","El sueño ayuda a recuperación, memoria y sistema inmune."
+659,Explica sueño en una frase.,"Primero, con calma. Recuperación, memoria, inmunidad. Conclusión: El sueño ayuda a recuperación, memoria y sistema inmune. Estoy seguro.","El sueño ayuda a recuperación, memoria y sistema inmune."
+660,¿Qué es sueño? (corto),"Un momento, pienso. Recuperación, memoria, inmunidad. Conclusión: El sueño ayuda a recuperación, memoria y sistema inmune. Sí, cuadra.","El sueño ayuda a recuperación, memoria y sistema inmune."
+661,¿Qué es la fiebre?,"Bien, pensemos. Temperatura alta como defensa. Respuesta pues: La fiebre es temperatura alta, a menudo defensa contra infecciones. Todo claro en la cabeza.","La fiebre es temperatura alta, a menudo defensa contra infecciones."
+662,Explica fiebre en una frase.,"Bien, pensemos. Temperatura alta como defensa. Respuesta pues: La fiebre es temperatura alta, a menudo defensa contra infecciones. Tiene sentido.","La fiebre es temperatura alta, a menudo defensa contra infecciones."
+663,¿Qué es fiebre? (corto),"Vale, paso a paso. Temperatura alta como defensa. Por tanto: La fiebre es temperatura alta, a menudo defensa contra infecciones. Sí, cuadra.","La fiebre es temperatura alta, a menudo defensa contra infecciones."
+664,¿Qué es una contraseña fuerte?,"Primero, con calma. Larga, única, en un gestor. Respuesta pues: Una contraseña fuerte es larga, única por servicio y guardada en un gestor. Lógico.","Una contraseña fuerte es larga, única por servicio y guardada en un gestor."
+665,Explica contraseña fuerte en una frase.,"Vale, paso a paso. Larga, única, en un gestor. Por tanto: Una contraseña fuerte es larga, única por servicio y guardada en un gestor. Sí, cuadra.","Una contraseña fuerte es larga, única por servicio y guardada en un gestor."
+666,¿Qué es contraseña fuerte? (corto),"Hmm, ¿qué sé de esto? Larga, única, en un gestor. Conclusión: Una contraseña fuerte es larga, única por servicio y guardada en un gestor. Estoy seguro.","Una contraseña fuerte es larga, única por servicio y guardada en un gestor."
+667,¿Qué es el Wi-Fi?,Ordeno esto. Red local sin cables. Por tanto: El Wi-Fi es una red local sin cables para internet. Terminé de pensar.,El Wi-Fi es una red local sin cables para internet.
+668,Explica Wi-Fi en una frase.,Lo repaso mentalmente. Red local sin cables. Respuesta pues: El Wi-Fi es una red local sin cables para internet. Tiene sentido.,El Wi-Fi es una red local sin cables para internet.
+669,¿Qué es Wi-Fi? (corto),"Buena pregunta, pienso rápido. Red local sin cables. Respuesta pues: El Wi-Fi es una red local sin cables para internet. Todo claro en la cabeza.",El Wi-Fi es una red local sin cables para internet.
+670,¿Qué es la nube?,Ordeno esto. Servidores en internet para guardar y servicios. Respuesta pues: La nube son servidores en internet para guardar datos y usar servicios. Terminé de pensar.,La nube son servidores en internet para guardar datos y usar servicios.
+671,Explica nube en una frase.,"Lo repaso mentalmente. Servidores en internet para guardar y servicios. Conclusión: La nube son servidores en internet para guardar datos y usar servicios. Sí, cuadra.",La nube son servidores en internet para guardar datos y usar servicios.
+672,¿Qué es nube? (corto),"Buena pregunta, pienso rápido. Servidores en internet para guardar y servicios. Por tanto: La nube son servidores en internet para guardar datos y usar servicios. Lógico.",La nube son servidores en internet para guardar datos y usar servicios.
+673,¿Cómo funciona el GPS?,"Primero, con calma. Satélites, tiempo de señal, cálculo. Respuesta pues: El GPS halla la posición con señales de satélites y su tiempo de viaje. Todo claro en la cabeza.",El GPS halla la posición con señales de satélites y su tiempo de viaje.
+674,Explica GPS en una frase.,"Vale, paso a paso. Satélites, tiempo de señal, cálculo. Por tanto: El GPS halla la posición con señales de satélites y su tiempo de viaje. Terminé de pensar.",El GPS halla la posición con señales de satélites y su tiempo de viaje.
+675,¿Qué es GPS? (corto),"Ordeno esto. Satélites, tiempo de señal, cálculo. Por tanto: El GPS halla la posición con señales de satélites y su tiempo de viaje. Vale, decidido.",El GPS halla la posición con señales de satélites y su tiempo de viaje.
+676,¿Por qué hay día y noche?,"Un momento, pienso. Rotación de la Tierra. Respuesta pues: El día y la noche existen porque la Tierra gira. El lado del sol tiene día, el otro noche. Bien, sigo.","El día y la noche existen porque la Tierra gira. El lado del sol tiene día, el otro noche."
+677,Explica día y noche en una frase.,"Primero, con calma. Rotación de la Tierra. Respuesta pues: El día y la noche existen porque la Tierra gira. El lado del sol tiene día, el otro noche. Todo claro en la cabeza.","El día y la noche existen porque la Tierra gira. El lado del sol tiene día, el otro noche."
+678,¿Qué es día y noche? (corto),"Primero, con calma. Rotación de la Tierra. Conclusión: El día y la noche existen porque la Tierra gira. El lado del sol tiene día, el otro noche. Todo claro en la cabeza.","El día y la noche existen porque la Tierra gira. El lado del sol tiene día, el otro noche."
+679,¿Por qué hay estaciones?,Lo repaso mentalmente. Inclinación del eje terrestre. Conclusión: Las estaciones vienen de la inclinación del eje: cada hemisferio se inclina al sol por turnos. Terminé de pensar.,Las estaciones vienen de la inclinación del eje: cada hemisferio se inclina al sol por turnos.
+680,Explica estaciones en una frase.,"Primero, con calma. Inclinación del eje terrestre. Por tanto: Las estaciones vienen de la inclinación del eje: cada hemisferio se inclina al sol por turnos. Estoy seguro.",Las estaciones vienen de la inclinación del eje: cada hemisferio se inclina al sol por turnos.
+681,¿Qué es estaciones? (corto),"Primero, con calma. Inclinación del eje terrestre. Por tanto: Las estaciones vienen de la inclinación del eje: cada hemisferio se inclina al sol por turnos. Bien, sigo.",Las estaciones vienen de la inclinación del eje: cada hemisferio se inclina al sol por turnos.
+682,¿Por qué brilla la Luna?,"Bien, pensemos. Refleja el sol. Respuesta pues: La Luna brilla porque refleja la luz del sol. Terminé de pensar.",La Luna brilla porque refleja la luz del sol.
+683,Explica luna brillante en una frase.,"Buena pregunta, pienso rápido. Refleja el sol. Conclusión: La Luna brilla porque refleja la luz del sol. Terminé de pensar.",La Luna brilla porque refleja la luz del sol.
+684,¿Qué es luna brillante? (corto),"Vale, paso a paso. Refleja el sol. Respuesta pues: La Luna brilla porque refleja la luz del sol. Tiene sentido.",La Luna brilla porque refleja la luz del sol.
+685,¿Qué es el Sol?,"Bien, pensemos. Una estrella de gas caliente. Conclusión: El Sol es una estrella de gas caliente que da luz y calor. Bien, sigo.",El Sol es una estrella de gas caliente que da luz y calor.
+686,Explica sol en una frase.,"Buena pregunta, pienso rápido. Una estrella de gas caliente. Respuesta pues: El Sol es una estrella de gas caliente que da luz y calor. Terminé de pensar.",El Sol es una estrella de gas caliente que da luz y calor.
+687,¿Qué es sol? (corto),"Bien, pensemos. Una estrella de gas caliente. Respuesta pues: El Sol es una estrella de gas caliente que da luz y calor. Estoy seguro.",El Sol es una estrella de gas caliente que da luz y calor.
+688,¿Cuántos planetas hay en el sistema solar?,"Buena pregunta, pienso rápido. 8 planetas. Respuesta pues: Nuestro sistema solar tiene 8 planetas: Mercurio, Venus, Tierra, Marte, Júpiter, Saturno, Urano, Neptuno. Terminé de pensar.","Nuestro sistema solar tiene 8 planetas: Mercurio, Venus, Tierra, Marte, Júpiter, Saturno, Urano, Neptuno."
+689,Explica planetas en una frase.,"Buena pregunta, pienso rápido. 8 planetas. Conclusión: Nuestro sistema solar tiene 8 planetas: Mercurio, Venus, Tierra, Marte, Júpiter, Saturno, Urano, Neptuno. Bien, sigo.","Nuestro sistema solar tiene 8 planetas: Mercurio, Venus, Tierra, Marte, Júpiter, Saturno, Urano, Neptuno."
+690,¿Qué es planetas? (corto),"Hmm, ¿qué sé de esto? 8 planetas. Conclusión: Nuestro sistema solar tiene 8 planetas: Mercurio, Venus, Tierra, Marte, Júpiter, Saturno, Urano, Neptuno. Todo claro en la cabeza.","Nuestro sistema solar tiene 8 planetas: Mercurio, Venus, Tierra, Marte, Júpiter, Saturno, Urano, Neptuno."
+691,¿Qué es un átomo?,"Primero, con calma. Unidad mínima: núcleo más electrones. Respuesta pues: Un átomo es la unidad mínima de materia, hecha de núcleo y electrones. Tiene sentido.","Un átomo es la unidad mínima de materia, hecha de núcleo y electrones."
+692,Explica átomo en una frase.,"Ordeno esto. Unidad mínima: núcleo más electrones. Conclusión: Un átomo es la unidad mínima de materia, hecha de núcleo y electrones. Estoy seguro.","Un átomo es la unidad mínima de materia, hecha de núcleo y electrones."
+693,¿Qué es átomo? (corto),"Bien, pensemos. Unidad mínima: núcleo más electrones. Respuesta pues: Un átomo es la unidad mínima de materia, hecha de núcleo y electrones. Terminé de pensar.","Un átomo es la unidad mínima de materia, hecha de núcleo y electrones."
+694,¿Qué es el reciclaje?,"Vale, paso a paso. Recoger residuos, hacer productos nuevos. Respuesta pues: El reciclaje recoge residuos para hacer productos nuevos. Vale, decidido.",El reciclaje recoge residuos para hacer productos nuevos.
+695,Explica reciclaje en una frase.,"Primero, con calma. Recoger residuos, hacer productos nuevos. Conclusión: El reciclaje recoge residuos para hacer productos nuevos. Vale, decidido.",El reciclaje recoge residuos para hacer productos nuevos.
+696,¿Qué es reciclaje? (corto),"Ordeno esto. Recoger residuos, hacer productos nuevos. Respuesta pues: El reciclaje recoge residuos para hacer productos nuevos. Lógico.",El reciclaje recoge residuos para hacer productos nuevos.
+697,¿Qué es el efecto invernadero?,"Buena pregunta, pienso rápido. Gases retienen calor. Por tanto: El efecto invernadero retiene calor. Demasiados gases calientan el clima. Vale, decidido.",El efecto invernadero retiene calor. Demasiados gases calientan el clima.
+698,Explica efecto invernadero en una frase.,Lo repaso mentalmente. Gases retienen calor. Respuesta pues: El efecto invernadero retiene calor. Demasiados gases calientan el clima. Estoy seguro.,El efecto invernadero retiene calor. Demasiados gases calientan el clima.
+699,¿Qué es efecto invernadero? (corto),"Vale, paso a paso. Gases retienen calor. Conclusión: El efecto invernadero retiene calor. Demasiados gases calientan el clima. Vale, decidido.",El efecto invernadero retiene calor. Demasiados gases calientan el clima.
+700,¿Por qué son importantes las abejas?,"Lo repaso mentalmente. Polinización, cosechas. Por tanto: Las abejas polinizan plantas, asegurando cosechas y biodiversidad. Bien, sigo.","Las abejas polinizan plantas, asegurando cosechas y biodiversidad."
+701,Explica abejas en una frase.,"Vale, paso a paso. Polinización, cosechas. Por tanto: Las abejas polinizan plantas, asegurando cosechas y biodiversidad. Tiene sentido.","Las abejas polinizan plantas, asegurando cosechas y biodiversidad."
+702,¿Qué es abejas? (corto),"Buena pregunta, pienso rápido. Polinización, cosechas. Conclusión: Las abejas polinizan plantas, asegurando cosechas y biodiversidad. Tiene sentido.","Las abejas polinizan plantas, asegurando cosechas y biodiversidad."
+703,¿Por qué las hojas son verdes?,"Vale, paso a paso. Pigmento clorofila. Conclusión: Las hojas son verdes por la clorofila, pigmento de la fotosíntesis. Terminé de pensar.","Las hojas son verdes por la clorofila, pigmento de la fotosíntesis."
+704,Explica hojas verdes en una frase.,"Buena pregunta, pienso rápido. Pigmento clorofila. Respuesta pues: Las hojas son verdes por la clorofila, pigmento de la fotosíntesis. Vale, decidido.","Las hojas son verdes por la clorofila, pigmento de la fotosíntesis."
+705,¿Qué es hojas verdes? (corto),"Un momento, pienso. Pigmento clorofila. Conclusión: Las hojas son verdes por la clorofila, pigmento de la fotosíntesis. Tiene sentido.","Las hojas son verdes por la clorofila, pigmento de la fotosíntesis."
+706,¿Qué es un mamífero?,"Bien, pensemos. Pelo, nacimiento vivo, leche. Conclusión: Los mamíferos tienen pelo, dan a luz crías vivas y las amamantan. Terminé de pensar.","Los mamíferos tienen pelo, dan a luz crías vivas y las amamantan."
+707,Explica mamíferos en una frase.,"Un momento, pienso. Pelo, nacimiento vivo, leche. Por tanto: Los mamíferos tienen pelo, dan a luz crías vivas y las amamantan. Terminé de pensar.","Los mamíferos tienen pelo, dan a luz crías vivas y las amamantan."
+708,¿Qué es mamíferos? (corto),"Bien, pensemos. Pelo, nacimiento vivo, leche. Respuesta pues: Los mamíferos tienen pelo, dan a luz crías vivas y las amamantan. Lógico.","Los mamíferos tienen pelo, dan a luz crías vivas y las amamantan."
+709,¿Cómo funciona una pila?,"Un momento, pienso. Energía química en eléctrica. Conclusión: Una pila convierte energía química en eléctrica. Bien, sigo.",Una pila convierte energía química en eléctrica.
+710,Explica pilas en una frase.,"Primero, con calma. Energía química en eléctrica. Conclusión: Una pila convierte energía química en eléctrica. Vale, decidido.",Una pila convierte energía química en eléctrica.
+711,¿Qué es pilas? (corto),"Un momento, pienso. Energía química en eléctrica. Respuesta pues: Una pila convierte energía química en eléctrica. Sí, cuadra.",Una pila convierte energía química en eléctrica.
+712,¿Cómo funciona la energía solar?,"Bien, pensemos. Células: luz en corriente. Respuesta pues: Las células solares convierten la luz directamente en corriente. Todo claro en la cabeza.",Las células solares convierten la luz directamente en corriente.
+713,Explica solar en una frase.,"Lo repaso mentalmente. Células: luz en corriente. Respuesta pues: Las células solares convierten la luz directamente en corriente. Sí, cuadra.",Las células solares convierten la luz directamente en corriente.
+714,¿Qué es solar? (corto),"Primero, con calma. Células: luz en corriente. Por tanto: Las células solares convierten la luz directamente en corriente. Lógico.",Las células solares convierten la luz directamente en corriente.
+715,¿Qué es un virus informático?,"Primero, con calma. Programa dañino que se propaga. Conclusión: Un virus es un programa dañino que se propaga y causa daños. Protege con actualizaciones y cuidado. Todo claro en la cabeza.",Un virus es un programa dañino que se propaga y causa daños. Protege con actualizaciones y cuidado.
+716,Explica virus informático en una frase.,"Bien, pensemos. Programa dañino que se propaga. Por tanto: Un virus es un programa dañino que se propaga y causa daños. Protege con actualizaciones y cuidado. Vale, decidido.",Un virus es un programa dañino que se propaga y causa daños. Protege con actualizaciones y cuidado.
+717,¿Qué es virus informático? (corto),"Hmm, ¿qué sé de esto? Programa dañino que se propaga. Conclusión: Un virus es un programa dañino que se propaga y causa daños. Protege con actualizaciones y cuidado. Bien, sigo.",Un virus es un programa dañino que se propaga y causa daños. Protege con actualizaciones y cuidado.
+718,¿Por qué el plástico es un problema?,"Primero, con calma. Residuos duraderos, microplásticos. Conclusión: El plástico casi no se degrada, ensucia naturaleza y mares, se vuelve microplásticos. Vale, decidido.","El plástico casi no se degrada, ensucia naturaleza y mares, se vuelve microplásticos."
+719,Explica plástico en una frase.,"Vale, paso a paso. Residuos duraderos, microplásticos. Respuesta pues: El plástico casi no se degrada, ensucia naturaleza y mares, se vuelve microplásticos. Terminé de pensar.","El plástico casi no se degrada, ensucia naturaleza y mares, se vuelve microplásticos."
+720,¿Qué es plástico? (corto),"Hmm, ¿qué sé de esto? Residuos duraderos, microplásticos. Conclusión: El plástico casi no se degrada, ensucia naturaleza y mares, se vuelve microplásticos. Todo claro en la cabeza.","El plástico casi no se degrada, ensucia naturaleza y mares, se vuelve microplásticos."
+721,¿Qué es un terremoto?,"Vale, paso a paso. Placas se mueven, liberan energía. Por tanto: Un terremoto ocurre cuando las placas se mueven de golpe y liberan energía. Estoy seguro.",Un terremoto ocurre cuando las placas se mueven de golpe y liberan energía.
+722,Explica terremoto en una frase.,"Ordeno esto. Placas se mueven, liberan energía. Por tanto: Un terremoto ocurre cuando las placas se mueven de golpe y liberan energía. Todo claro en la cabeza.",Un terremoto ocurre cuando las placas se mueven de golpe y liberan energía.
+723,¿Qué es terremoto? (corto),"Hmm, ¿qué sé de esto? Placas se mueven, liberan energía. Conclusión: Un terremoto ocurre cuando las placas se mueven de golpe y liberan energía. Bien, sigo.",Un terremoto ocurre cuando las placas se mueven de golpe y liberan energía.
+724,¿Qué es la miel?,"Ordeno esto. Abejas a partir del néctar. Por tanto: La miel la hacen las abejas con el néctar de las flores. Sí, cuadra.",La miel la hacen las abejas con el néctar de las flores.
+725,Explica miel en una frase.,"Bien, pensemos. Abejas a partir del néctar. Respuesta pues: La miel la hacen las abejas con el néctar de las flores. Vale, decidido.",La miel la hacen las abejas con el néctar de las flores.
+726,¿Qué es miel? (corto),"Hmm, ¿qué sé de esto? Abejas a partir del néctar. Por tanto: La miel la hacen las abejas con el néctar de las flores. Lógico.",La miel la hacen las abejas con el néctar de las flores.
+727,¿Cuánto es 25 por 4?,"Vale, paso a paso. Cálculo: 25*4=100. Recalculo: 25 por 4 son 100. Cuadra. Vale, decidido.",25 por 4 son 100.
+728,¿Cuánto es el 12 por ciento de 200?,"Buena pregunta, pienso rápido. Porcentaje: 200*0,12=24. Prueba: El 12 por ciento de 200 son 24. Correcto. Vale, decidido.",El 12 por ciento de 200 son 24.
+729,¿Cuánto es 7 por 8 más 10?,"Primero, con calma. Orden: 7*8=56 +10=66. Recalculo: Son 66. Cuadra. Bien, sigo.",Son 66.
+730,Un tren sale a las 14:30 y tarda 2h15. ¿Cuándo llega?,"Bien, pensemos. Suma: 14:30 + 2:15 = 16:45. Recalculo: Llega a las 16:45. Cuadra. Terminé de pensar.",Llega a las 16:45.
+731,Tengo 3 manzanas y como 1. ¿Cuántas quedan?,Lo repaso mentalmente. Resta: 3-1=2. Prueba: Quedan 2 manzanas. Correcto. Todo claro en la cabeza.,Quedan 2 manzanas.
+732,Me acuesto a las 22h y me levanto a las 6h. ¿Cuánto duermo?,"Bien, pensemos. Duración: 22h a 6h = 8 horas. Control: Duermes 8 horas. Bien. Tiene sentido.",Duermes 8 horas.
+733,Reparte 100 euros entre 4 personas.,"Vale, paso a paso. División: 100/4=25. Recalculo: Cada persona recibe 25 euros. Cuadra. Bien, sigo.",Cada persona recibe 25 euros.
+734,¿Cuántos minutos son 2 horas?,"Vale, paso a paso. Conversión: 2*60=120. Control: 2 horas son 120 minutos. Bien. Sí, cuadra.",2 horas son 120 minutos.
+735,¿Cuántos días tiene un año?,"Lo repaso mentalmente. Dato: 365, bisiesto 366. Respuesta pues: Un año tiene 365 días, bisiesto 366. Sí, cuadra.","Un año tiene 365 días, bisiesto 366."
+736,¿Cuántos segundos hay en un minuto?,"Bien, pensemos. Dato: 60. Conclusión: Un minuto tiene 60 segundos. Terminé de pensar.",Un minuto tiene 60 segundos.
+737,¿Cuánto es 18 más 60?,"Vale, paso a paso. Suma: 18+60=78. Control: 18 más 60 son 78. Bien. Bien, sigo.",18 más 60 son 78.
+738,¿Cuánto es 96 menos 4?,"Vale, paso a paso. Resta: 96-4=92. Recalculo: 96 menos 4 son 92. Cuadra. Bien, sigo.",96 menos 4 son 92.
+739,¿Cuánto es 7 por 10?,"Buena pregunta, pienso rápido. Multiplicación: 7*10=70. Prueba: 7 por 10 son 70. Correcto. Todo claro en la cabeza.",7 por 10 son 70.
+740,¿Cuánto es 9 entre 3?,"Vale, paso a paso. División: 9/3=3. Prueba: 9 entre 3 son 3. Correcto. Estoy seguro.",9 entre 3 son 3.
+741,¿Cuánto es el 20 por ciento de 300?,"Buena pregunta, pienso rápido. Porcentaje: 300*20/100=60. Control: El 20 por ciento de 300 son 60. Bien. Terminé de pensar.",El 20 por ciento de 300 son 60.
+742,¿Cuánto es 37 más 28?,Ordeno esto. Suma: 37+28=65. Prueba: 37 más 28 son 65. Correcto. Lógico.,37 más 28 son 65.
+743,¿Cuánto es 40 menos 33?,"Un momento, pienso. Resta: 40-33=7. Prueba: 40 menos 33 son 7. Correcto. Vale, decidido.",40 menos 33 son 7.
+744,¿Cuánto es 2 por 5?,"Vale, paso a paso. Multiplicación: 2*5=10. Recalculo: 2 por 5 son 10. Cuadra. Vale, decidido.",2 por 5 son 10.
+745,¿Cuánto es 45 entre 3?,"Bien, pensemos. División: 45/3=15. Recalculo: 45 entre 3 son 15. Cuadra. Sí, cuadra.",45 entre 3 son 15.
+746,¿Cuánto es el 5 por ciento de 200?,"Buena pregunta, pienso rápido. Porcentaje: 200*5/100=10. Control: El 5 por ciento de 200 son 10. Bien. Todo claro en la cabeza.",El 5 por ciento de 200 son 10.
+747,¿Cuánto es 36 más 23?,"Un momento, pienso. Suma: 36+23=59. Recalculo: 36 más 23 son 59. Cuadra. Vale, decidido.",36 más 23 son 59.
+748,¿Cuánto es 92 menos 19?,"Vale, paso a paso. Resta: 92-19=73. Control: 92 menos 19 son 73. Bien. Lógico.",92 menos 19 son 73.
+749,¿Cuánto es 9 por 4?,"Un momento, pienso. Multiplicación: 9*4=36. Recalculo: 9 por 4 son 36. Cuadra. Todo claro en la cabeza.",9 por 4 son 36.
+750,¿Cuánto es 180 entre 10?,Ordeno esto. División: 180/10=18. Control: 180 entre 10 son 18. Bien. Lógico.,180 entre 10 son 18.
+751,¿Cuánto es el 50 por ciento de 1000?,"Hmm, ¿qué sé de esto? Porcentaje: 1000*50/100=500. Prueba: El 50 por ciento de 1000 son 500. Correcto. Bien, sigo.",El 50 por ciento de 1000 son 500.
+752,¿Cuánto es 30 más 58?,Ordeno esto. Suma: 30+58=88. Recalculo: 30 más 58 son 88. Cuadra. Tiene sentido.,30 más 58 son 88.
+753,¿Cuánto es 68 menos 13?,"Lo repaso mentalmente. Resta: 68-13=55. Prueba: 68 menos 13 son 55. Correcto. Sí, cuadra.",68 menos 13 son 55.
+754,¿Cuánto es 5 por 9?,Lo repaso mentalmente. Multiplicación: 5*9=45. Prueba: 5 por 9 son 45. Correcto. Tiene sentido.,5 por 9 son 45.
+755,¿Cuánto es 190 entre 10?,"Buena pregunta, pienso rápido. División: 190/10=19. Prueba: 190 entre 10 son 19. Correcto. Estoy seguro.",190 entre 10 son 19.
+756,¿Cuánto es el 15 por ciento de 1000?,"Buena pregunta, pienso rápido. Porcentaje: 1000*15/100=150. Control: El 15 por ciento de 1000 son 150. Bien. Terminé de pensar.",El 15 por ciento de 1000 son 150.
+757,¿Cuánto es 37 más 42?,"Primero, con calma. Suma: 37+42=79. Recalculo: 37 más 42 son 79. Cuadra. Sí, cuadra.",37 más 42 son 79.
+758,¿Cuánto es 26 menos 18?,Lo repaso mentalmente. Resta: 26-18=8. Control: 26 menos 18 son 8. Bien. Terminé de pensar.,26 menos 18 son 8.
+759,¿Cuánto es 10 por 10?,"Un momento, pienso. Multiplicación: 10*10=100. Prueba: 10 por 10 son 100. Correcto. Todo claro en la cabeza.",10 por 10 son 100.
+760,¿Cuánto es 66 entre 6?,"Primero, con calma. División: 66/6=11. Control: 66 entre 6 son 11. Bien. Estoy seguro.",66 entre 6 son 11.
+761,¿Cuánto es el 50 por ciento de 400?,"Primero, con calma. Porcentaje: 400*50/100=200. Recalculo: El 50 por ciento de 400 son 200. Cuadra. Lógico.",El 50 por ciento de 400 son 200.
+762,¿Cuánto es 56 más 57?,"Hmm, ¿qué sé de esto? Suma: 56+57=113. Recalculo: 56 más 57 son 113. Cuadra. Terminé de pensar.",56 más 57 son 113.
+763,¿Cuánto es 83 menos 28?,"Buena pregunta, pienso rápido. Resta: 83-28=55. Recalculo: 83 menos 28 son 55. Cuadra. Lógico.",83 menos 28 son 55.
+764,¿Cuánto es 6 por 4?,Lo repaso mentalmente. Multiplicación: 6*4=24. Recalculo: 6 por 4 son 24. Cuadra. Terminé de pensar.,6 por 4 son 24.
+765,¿Cuánto es el 15 por ciento de 500?,"Primero, con calma. Porcentaje: 500*15/100=75. Prueba: El 15 por ciento de 500 son 75. Correcto. Tiene sentido.",El 15 por ciento de 500 son 75.
+766,¿Cuánto es 33 más 14?,"Un momento, pienso. Suma: 33+14=47. Prueba: 33 más 14 son 47. Correcto. Tiene sentido.",33 más 14 son 47.
+767,¿Cuánto es 57 menos 36?,"Bien, pensemos. Resta: 57-36=21. Prueba: 57 menos 36 son 21. Correcto. Tiene sentido.",57 menos 36 son 21.
+768,¿Cuánto es 3 por 10?,"Lo repaso mentalmente. Multiplicación: 3*10=30. Control: 3 por 10 son 30. Bien. Bien, sigo.",3 por 10 son 30.
+769,¿Cuánto es 28 entre 2?,"Lo repaso mentalmente. División: 28/2=14. Recalculo: 28 entre 2 son 14. Cuadra. Sí, cuadra.",28 entre 2 son 14.
+770,¿Cuánto es el 5 por ciento de 500?,"Hmm, ¿qué sé de esto? Porcentaje: 500*5/100=25. Control: El 5 por ciento de 500 son 25. Bien. Todo claro en la cabeza.",El 5 por ciento de 500 son 25.
+771,¿Cuánto es 4 más 35?,"Primero, con calma. Suma: 4+35=39. Prueba: 4 más 35 son 39. Correcto. Tiene sentido.",4 más 35 son 39.
+772,¿Cuánto es 56 menos 36?,"Hmm, ¿qué sé de esto? Resta: 56-36=20. Recalculo: 56 menos 36 son 20. Cuadra. Tiene sentido.",56 menos 36 son 20.
+773,¿Cuánto es 11 por 3?,"Primero, con calma. Multiplicación: 11*3=33. Control: 11 por 3 son 33. Bien. Vale, decidido.",11 por 3 son 33.
+774,¿Cuánto es 36 entre 9?,"Un momento, pienso. División: 36/9=4. Control: 36 entre 9 son 4. Bien. Lógico.",36 entre 9 son 4.
+775,¿Cuánto es el 50 por ciento de 200?,"Bien, pensemos. Porcentaje: 200*50/100=100. Control: El 50 por ciento de 200 son 100. Bien. Vale, decidido.",El 50 por ciento de 200 son 100.
+776,¿Cuánto es 6 más 36?,"Primero, con calma. Suma: 6+36=42. Control: 6 más 36 son 42. Bien. Lógico.",6 más 36 son 42.
+777,¿Cuánto es 63 menos 28?,"Vale, paso a paso. Resta: 63-28=35. Recalculo: 63 menos 28 son 35. Cuadra. Todo claro en la cabeza.",63 menos 28 son 35.
+778,¿Cuánto es 8 por 6?,"Un momento, pienso. Multiplicación: 8*6=48. Recalculo: 8 por 6 son 48. Cuadra. Lógico.",8 por 6 son 48.
+779,¿Cuánto es 85 entre 5?,Ordeno esto. División: 85/5=17. Prueba: 85 entre 5 son 17. Correcto. Todo claro en la cabeza.,85 entre 5 son 17.
+780,¿Cuánto es el 20 por ciento de 200?,"Primero, con calma. Porcentaje: 200*20/100=40. Control: El 20 por ciento de 200 son 40. Bien. Sí, cuadra.",El 20 por ciento de 200 son 40.
+781,¿Cuánto es 23 más 29?,"Buena pregunta, pienso rápido. Suma: 23+29=52. Control: 23 más 29 son 52. Bien. Tiene sentido.",23 más 29 son 52.
+782,¿Cuánto es 65 menos 35?,"Vale, paso a paso. Resta: 65-35=30. Control: 65 menos 35 son 30. Bien. Estoy seguro.",65 menos 35 son 30.
+783,¿Cuánto es 7 por 3?,Ordeno esto. Multiplicación: 7*3=21. Control: 7 por 3 son 21. Bien. Todo claro en la cabeza.,7 por 3 son 21.
+784,¿Cuánto es 75 entre 5?,Ordeno esto. División: 75/5=15. Control: 75 entre 5 son 15. Bien. Tiene sentido.,75 entre 5 son 15.
+785,¿Cuánto es el 25 por ciento de 100?,"Hmm, ¿qué sé de esto? Porcentaje: 100*25/100=25. Recalculo: El 25 por ciento de 100 son 25. Cuadra. Estoy seguro.",El 25 por ciento de 100 son 25.
+786,¿Cuánto es 18 más 10?,Ordeno esto. Suma: 18+10=28. Recalculo: 18 más 10 son 28. Cuadra. Terminé de pensar.,18 más 10 son 28.
+787,¿Cuánto es 94 menos 4?,"Bien, pensemos. Resta: 94-4=90. Recalculo: 94 menos 4 son 90. Cuadra. Todo claro en la cabeza.",94 menos 4 son 90.
+788,¿Cuánto es 36 entre 4?,"Bien, pensemos. División: 36/4=9. Prueba: 36 entre 4 son 9. Correcto. Todo claro en la cabeza.",36 entre 4 son 9.
+789,¿Cuánto es el 5 por ciento de 1000?,"Primero, con calma. Porcentaje: 1000*5/100=50. Recalculo: El 5 por ciento de 1000 son 50. Cuadra. Tiene sentido.",El 5 por ciento de 1000 son 50.
+790,¿Cuánto es 20 más 22?,"Hmm, ¿qué sé de esto? Suma: 20+22=42. Recalculo: 20 más 22 son 42. Cuadra. Todo claro en la cabeza.",20 más 22 son 42.
+791,¿Cuánto es 97 menos 47?,"Bien, pensemos. Resta: 97-47=50. Control: 97 menos 47 son 50. Bien. Lógico.",97 menos 47 son 50.
+792,¿Cuánto es 5 por 11?,Lo repaso mentalmente. Multiplicación: 5*11=55. Prueba: 5 por 11 son 55. Correcto. Lógico.,5 por 11 son 55.
+793,¿Cuánto es 45 entre 9?,"Hmm, ¿qué sé de esto? División: 45/9=5. Prueba: 45 entre 9 son 5. Correcto. Estoy seguro.",45 entre 9 son 5.
+794,¿Cuánto es el 20 por ciento de 1000?,"Primero, con calma. Porcentaje: 1000*20/100=200. Control: El 20 por ciento de 1000 son 200. Bien. Lógico.",El 20 por ciento de 1000 son 200.
+795,¿Cuánto es 39 más 9?,"Bien, pensemos. Suma: 39+9=48. Control: 39 más 9 son 48. Bien. Todo claro en la cabeza.",39 más 9 son 48.
+796,¿Cuánto es 70 menos 34?,"Hmm, ¿qué sé de esto? Resta: 70-34=36. Recalculo: 70 menos 34 son 36. Cuadra. Estoy seguro.",70 menos 34 son 36.
+797,¿Cuánto es 5 por 10?,"Buena pregunta, pienso rápido. Multiplicación: 5*10=50. Prueba: 5 por 10 son 50. Correcto. Tiene sentido.",5 por 10 son 50.
+798,¿Cuánto es 16 entre 8?,"Primero, con calma. División: 16/8=2. Control: 16 entre 8 son 2. Bien. Terminé de pensar.",16 entre 8 son 2.
+799,¿Cuánto es 28 más 54?,"Hmm, ¿qué sé de esto? Suma: 28+54=82. Prueba: 28 más 54 son 82. Correcto. Bien, sigo.",28 más 54 son 82.
+800,¿Cuánto es 72 menos 22?,"Vale, paso a paso. Resta: 72-22=50. Prueba: 72 menos 22 son 50. Correcto. Vale, decidido.",72 menos 22 son 50.
+801,¿Cuánto es 10 por 5?,"Buena pregunta, pienso rápido. Multiplicación: 10*5=50. Prueba: 10 por 5 son 50. Correcto. Bien, sigo.",10 por 5 son 50.
+802,¿Cuánto es 228 entre 12?,Lo repaso mentalmente. División: 228/12=19. Prueba: 228 entre 12 son 19. Correcto. Lógico.,228 entre 12 son 19.
+803,¿Cuánto es 35 más 15?,Ordeno esto. Suma: 35+15=50. Recalculo: 35 más 15 son 50. Cuadra. Estoy seguro.,35 más 15 son 50.
+804,¿Cuánto es 74 menos 19?,"Buena pregunta, pienso rápido. Resta: 74-19=55. Control: 74 menos 19 son 55. Bien. Terminé de pensar.",74 menos 19 son 55.
+805,¿Cuánto es 5 por 12?,"Vale, paso a paso. Multiplicación: 5*12=60. Prueba: 5 por 12 son 60. Correcto. Estoy seguro.",5 por 12 son 60.
+806,¿Cuánto es 49 entre 7?,"Un momento, pienso. División: 49/7=7. Control: 49 entre 7 son 7. Bien. Bien, sigo.",49 entre 7 son 7.
+807,¿Cuánto es 22 más 59?,"Bien, pensemos. Suma: 22+59=81. Recalculo: 22 más 59 son 81. Cuadra. Tiene sentido.",22 más 59 son 81.
+808,¿Cuánto es 29 menos 8?,"Primero, con calma. Resta: 29-8=21. Control: 29 menos 8 son 21. Bien. Vale, decidido.",29 menos 8 son 21.
+809,¿Cuánto es 5 por 3?,"Vale, paso a paso. Multiplicación: 5*3=15. Recalculo: 5 por 3 son 15. Cuadra. Terminé de pensar.",5 por 3 son 15.
+810,¿Cuánto es el 10 por ciento de 1000?,"Hmm, ¿qué sé de esto? Porcentaje: 1000*10/100=100. Control: El 10 por ciento de 1000 son 100. Bien. Todo claro en la cabeza.",El 10 por ciento de 1000 son 100.
+811,¿Cuánto es 7 más 18?,"Un momento, pienso. Suma: 7+18=25. Control: 7 más 18 son 25. Bien. Estoy seguro.",7 más 18 son 25.
+812,¿Cuánto es 54 menos 8?,"Vale, paso a paso. Resta: 54-8=46. Control: 54 menos 8 son 46. Bien. Vale, decidido.",54 menos 8 son 46.
+813,¿Cuánto es 8 por 8?,"Ordeno esto. Multiplicación: 8*8=64. Prueba: 8 por 8 son 64. Correcto. Sí, cuadra.",8 por 8 son 64.
+814,¿Cuánto es 60 entre 10?,"Ordeno esto. División: 60/10=6. Control: 60 entre 10 son 6. Bien. Sí, cuadra.",60 entre 10 son 6.
+815,¿Cuánto es el 10 por ciento de 400?,"Vale, paso a paso. Porcentaje: 400*10/100=40. Control: El 10 por ciento de 400 son 40. Bien. Sí, cuadra.",El 10 por ciento de 400 son 40.
+816,¿Cuánto es 42 más 45?,"Un momento, pienso. Suma: 42+45=87. Prueba: 42 más 45 son 87. Correcto. Tiene sentido.",42 más 45 son 87.
+817,¿Cuánto es 7 menos 2?,Ordeno esto. Resta: 7-2=5. Prueba: 7 menos 2 son 5. Correcto. Terminé de pensar.,7 menos 2 son 5.
+818,¿Cuánto es 156 entre 12?,"Un momento, pienso. División: 156/12=13. Prueba: 156 entre 12 son 13. Correcto. Tiene sentido.",156 entre 12 son 13.
+819,¿Cuánto es el 15 por ciento de 100?,"Bien, pensemos. Porcentaje: 100*15/100=15. Recalculo: El 15 por ciento de 100 son 15. Cuadra. Lógico.",El 15 por ciento de 100 son 15.
+820,¿Cuánto es 47 más 34?,"Un momento, pienso. Suma: 47+34=81. Recalculo: 47 más 34 son 81. Cuadra. Tiene sentido.",47 más 34 son 81.
+821,¿Cuánto es 86 menos 45?,"Primero, con calma. Resta: 86-45=41. Control: 86 menos 45 son 41. Bien. Bien, sigo.",86 menos 45 son 41.
+822,¿Cuánto es 10 por 12?,"Un momento, pienso. Multiplicación: 10*12=120. Control: 10 por 12 son 120. Bien. Todo claro en la cabeza.",10 por 12 son 120.
+823,¿Cuánto es 20 entre 5?,"Buena pregunta, pienso rápido. División: 20/5=4. Recalculo: 20 entre 5 son 4. Cuadra. Estoy seguro.",20 entre 5 son 4.
+824,¿Cuánto es el 20 por ciento de 100?,Lo repaso mentalmente. Porcentaje: 100*20/100=20. Prueba: El 20 por ciento de 100 son 20. Correcto. Terminé de pensar.,El 20 por ciento de 100 son 20.
+825,¿Cuánto es 3 más 4?,"Hmm, ¿qué sé de esto? Suma: 3+4=7. Recalculo: 3 más 4 son 7. Cuadra. Todo claro en la cabeza.",3 más 4 son 7.
+826,¿Cuánto es 75 menos 67?,"Bien, pensemos. Resta: 75-67=8. Prueba: 75 menos 67 son 8. Correcto. Todo claro en la cabeza.",75 menos 67 son 8.
+827,¿Cuánto es 11 por 9?,"Un momento, pienso. Multiplicación: 11*9=99. Recalculo: 11 por 9 son 99. Cuadra. Terminé de pensar.",11 por 9 son 99.
+828,¿Cuánto es 32 entre 4?,"Un momento, pienso. División: 32/4=8. Prueba: 32 entre 4 son 8. Correcto. Sí, cuadra.",32 entre 4 son 8.
+829,¿Cuánto es el 10 por ciento de 100?,"Vale, paso a paso. Porcentaje: 100*10/100=10. Recalculo: El 10 por ciento de 100 son 10. Cuadra. Terminé de pensar.",El 10 por ciento de 100 son 10.
+830,¿Cuánto es 15 más 13?,Lo repaso mentalmente. Suma: 15+13=28. Recalculo: 15 más 13 son 28. Cuadra. Estoy seguro.,15 más 13 son 28.
+831,¿Cuánto es 25 menos 11?,"Lo repaso mentalmente. Resta: 25-11=14. Prueba: 25 menos 11 son 14. Correcto. Bien, sigo.",25 menos 11 son 14.
+832,¿Cuánto es 12 por 3?,"Primero, con calma. Multiplicación: 12*3=36. Recalculo: 12 por 3 son 36. Cuadra. Todo claro en la cabeza.",12 por 3 son 36.
+833,¿Cuánto es 33 entre 11?,"Bien, pensemos. División: 33/11=3. Control: 33 entre 11 son 3. Bien. Lógico.",33 entre 11 son 3.
+834,¿Cuánto es 31 más 6?,"Bien, pensemos. Suma: 31+6=37. Control: 31 más 6 son 37. Bien. Tiene sentido.",31 más 6 son 37.
+835,¿Cuánto es 17 menos 7?,"Hmm, ¿qué sé de esto? Resta: 17-7=10. Control: 17 menos 7 son 10. Bien. Sí, cuadra.",17 menos 7 son 10.
+836,¿Cuánto es 8 por 9?,"Hmm, ¿qué sé de esto? Multiplicación: 8*9=72. Prueba: 8 por 9 son 72. Correcto. Sí, cuadra.",8 por 9 son 72.
+837,¿Cuánto es 144 entre 8?,"Vale, paso a paso. División: 144/8=18. Prueba: 144 entre 8 son 18. Correcto. Terminé de pensar.",144 entre 8 son 18.
+838,¿Cuánto es el 15 por ciento de 400?,"Hmm, ¿qué sé de esto? Porcentaje: 400*15/100=60. Prueba: El 15 por ciento de 400 son 60. Correcto. Tiene sentido.",El 15 por ciento de 400 son 60.
+839,¿Cuánto es 15 más 40?,Ordeno esto. Suma: 15+40=55. Prueba: 15 más 40 son 55. Correcto. Tiene sentido.,15 más 40 son 55.
+840,¿Cuánto es 52 menos 2?,"Bien, pensemos. Resta: 52-2=50. Prueba: 52 menos 2 son 50. Correcto. Bien, sigo.",52 menos 2 son 50.
+841,¿Cuánto es 12 por 2?,"Bien, pensemos. Multiplicación: 12*2=24. Prueba: 12 por 2 son 24. Correcto. Lógico.",12 por 2 son 24.
+842,¿Cuánto es 35 entre 5?,"Hmm, ¿qué sé de esto? División: 35/5=7. Recalculo: 35 entre 5 son 7. Cuadra. Bien, sigo.",35 entre 5 son 7.
+843,¿Cuánto es el 20 por ciento de 400?,"Un momento, pienso. Porcentaje: 400*20/100=80. Recalculo: El 20 por ciento de 400 son 80. Cuadra. Estoy seguro.",El 20 por ciento de 400 son 80.
+844,¿Cuánto es 25 más 49?,"Bien, pensemos. Suma: 25+49=74. Control: 25 más 49 son 74. Bien. Estoy seguro.",25 más 49 son 74.
+845,¿Cuánto es 52 menos 27?,"Lo repaso mentalmente. Resta: 52-27=25. Control: 52 menos 27 son 25. Bien. Vale, decidido.",52 menos 27 son 25.
+846,La peli empieza a las 20:15 y dura 90 minutos. ¿Cuándo termina?,"Vale, paso a paso. 20:15 + 90 min = 21:45. Control: Termina a las 21:45. Bien. Vale, decidido.",Termina a las 21:45.
+847,Son las 9h. En 3h30 tengo cita. ¿Cuándo?,"Un momento, pienso. 9:00 + 3:30 = 12:30. Control: La cita es a las 12:30. Bien. Sí, cuadra.",La cita es a las 12:30.
+848,Un pastel necesita 45 minutos. Lo meto a las 16:20. ¿Cuándo está?,"Bien, pensemos. 16:20 + 0:45 = 17:05. Prueba: Está a las 17:05. Correcto. Vale, decidido.",Está a las 17:05.
+849,La escuela empieza a las 8:00 y termina a las 13:15. ¿Cuánto dura?,"Primero, con calma. 13:15 - 8:00 = 5:15. Prueba: Dura 5 horas y 15 minutos. Correcto. Estoy seguro.",Dura 5 horas y 15 minutos.
+850,"Si leo 30 minutos desde las 19:00, ¿cuándo termino?","Un momento, pienso. 19:00 + 0:30 = 19:30. Control: Terminas a las 19:30. Bien. Terminé de pensar.",Terminas a las 19:30.
+851,¿Cómo aprendo vocabulario?,"Ordeno esto. Sesiones cortas, tarjetas, uso activo. Respuesta pues: Mejor en sesiones cortas diarias con tarjetas y uso activo en frases más repetición. Bien, sigo.",Mejor en sesiones cortas diarias con tarjetas y uso activo en frases más repetición.
+852,aprender vocabulario - ¿consejos?,"Hmm, ¿qué sé de esto? Sesiones cortas, tarjetas, uso activo. Por tanto: Mejor en sesiones cortas diarias con tarjetas y uso activo en frases más repetición. Terminé de pensar.",Mejor en sesiones cortas diarias con tarjetas y uso activo en frases más repetición.
+853,Guía rápida: aprender vocabulario.,"Vale, paso a paso. Sesiones cortas, tarjetas, uso activo. Respuesta pues: Mejor en sesiones cortas diarias con tarjetas y uso activo en frases más repetición. Bien, sigo.",Mejor en sesiones cortas diarias con tarjetas y uso activo en frases más repetición.
+854,¿Cómo ahorro en el día a día?,"Vale, paso a paso. Presupuesto, suscripciones, cocinar, comparar. Respuesta pues: Fija un presupuesto, revisa suscripciones, cocina más, compara precios y ahorra primero una cantidad fija. Sí, cuadra.","Fija un presupuesto, revisa suscripciones, cocina más, compara precios y ahorra primero una cantidad fija."
+855,ahorrar - ¿consejos?,"Lo repaso mentalmente. Presupuesto, suscripciones, cocinar, comparar. Por tanto: Fija un presupuesto, revisa suscripciones, cocina más, compara precios y ahorra primero una cantidad fija. Bien, sigo.","Fija un presupuesto, revisa suscripciones, cocina más, compara precios y ahorra primero una cantidad fija."
+856,Guía rápida: ahorrar.,"Buena pregunta, pienso rápido. Presupuesto, suscripciones, cocinar, comparar. Por tanto: Fija un presupuesto, revisa suscripciones, cocina más, compara precios y ahorra primero una cantidad fija. Bien, sigo.","Fija un presupuesto, revisa suscripciones, cocina más, compara precios y ahorra primero una cantidad fija."
+857,"¿Qué cocino con pasta, tomate y queso?","Vale, paso a paso. Pasta con salsa de tomate y queso. Conclusión: Haz pasta con salsa simple: sazona, cocina, echa sobre la pasta, espolvorea queso. Todo claro en la cabeza.","Haz pasta con salsa simple: sazona, cocina, echa sobre la pasta, espolvorea queso."
+858,pasta rápida - ¿consejos?,"Ordeno esto. Pasta con salsa de tomate y queso. Por tanto: Haz pasta con salsa simple: sazona, cocina, echa sobre la pasta, espolvorea queso. Tiene sentido.","Haz pasta con salsa simple: sazona, cocina, echa sobre la pasta, espolvorea queso."
+859,Guía rápida: pasta rápida.,"Un momento, pienso. Pasta con salsa de tomate y queso. Conclusión: Haz pasta con salsa simple: sazona, cocina, echa sobre la pasta, espolvorea queso. Estoy seguro.","Haz pasta con salsa simple: sazona, cocina, echa sobre la pasta, espolvorea queso."
+860,"Vuelo mañana, ¿qué llevo?","Vale, paso a paso. Lista: documento, billete, dinero, móvil, cargador. Respuesta pues: Lleva: documento o pasaporte, billete, dinero, móvil más cargador, medicinas, higiene y cambio en cabina. Todo claro en la cabeza.","Lleva: documento o pasaporte, billete, dinero, móvil más cargador, medicinas, higiene y cambio en cabina."
+861,maleta de vuelo - ¿consejos?,"Vale, paso a paso. Lista: documento, billete, dinero, móvil, cargador. Conclusión: Lleva: documento o pasaporte, billete, dinero, móvil más cargador, medicinas, higiene y cambio en cabina. Vale, decidido.","Lleva: documento o pasaporte, billete, dinero, móvil más cargador, medicinas, higiene y cambio en cabina."
+862,Guía rápida: maleta de vuelo.,"Un momento, pienso. Lista: documento, billete, dinero, móvil, cargador. Por tanto: Lleva: documento o pasaporte, billete, dinero, móvil más cargador, medicinas, higiene y cambio en cabina. Bien, sigo.","Lleva: documento o pasaporte, billete, dinero, móvil más cargador, medicinas, higiene y cambio en cabina."
+863,¿Cómo escribo buenas disculpas?,"Vale, paso a paso. Nombrar fallo, responsabilidad, reparación. Respuesta pues: Nombra el fallo, asume, muestra arrepentimiento y ofrece reparación, corto y honesto. Estoy seguro.","Nombra el fallo, asume, muestra arrepentimiento y ofrece reparación, corto y honesto."
+864,disculpas - ¿consejos?,"Primero, con calma. Nombrar fallo, responsabilidad, reparación. Respuesta pues: Nombra el fallo, asume, muestra arrepentimiento y ofrece reparación, corto y honesto. Tiene sentido.","Nombra el fallo, asume, muestra arrepentimiento y ofrece reparación, corto y honesto."
+865,Guía rápida: disculpas.,"Buena pregunta, pienso rápido. Nombrar fallo, responsabilidad, reparación. Respuesta pues: Nombra el fallo, asume, muestra arrepentimiento y ofrece reparación, corto y honesto. Todo claro en la cabeza.","Nombra el fallo, asume, muestra arrepentimiento y ofrece reparación, corto y honesto."
+866,¿Cómo planeo 3 días de ciudad?,"Vale, paso a paso. Viaje, hotel, 2-3 puntos por día. Por tanto: Fija viaje y hotel, elige 2-3 puntos por día, prevé márgenes y presupuesto diario. Tiene sentido.","Fija viaje y hotel, elige 2-3 puntos por día, prevé márgenes y presupuesto diario."
+867,viaje urbano - ¿consejos?,"Vale, paso a paso. Viaje, hotel, 2-3 puntos por día. Por tanto: Fija viaje y hotel, elige 2-3 puntos por día, prevé márgenes y presupuesto diario. Bien, sigo.","Fija viaje y hotel, elige 2-3 puntos por día, prevé márgenes y presupuesto diario."
+868,Guía rápida: viaje urbano.,"Un momento, pienso. Viaje, hotel, 2-3 puntos por día. Por tanto: Fija viaje y hotel, elige 2-3 puntos por día, prevé márgenes y presupuesto diario. Estoy seguro.","Fija viaje y hotel, elige 2-3 puntos por día, prevé márgenes y presupuesto diario."
+869,¿Paraguas con 80 por ciento de lluvia?,"Buena pregunta, pienso rápido. 80% alto, sí recomendado. Por tanto: Sí, llévalo. Con 80 por ciento la lluvia es muy probable. Lógico.","Sí, llévalo. Con 80 por ciento la lluvia es muy probable."
+870,paraguas - ¿consejos?,"Un momento, pienso. 80% alto, sí recomendado. Conclusión: Sí, llévalo. Con 80 por ciento la lluvia es muy probable. Sí, cuadra.","Sí, llévalo. Con 80 por ciento la lluvia es muy probable."
+871,Guía rápida: paraguas.,"Buena pregunta, pienso rápido. 80% alto, sí recomendado. Respuesta pues: Sí, llévalo. Con 80 por ciento la lluvia es muy probable. Lógico.","Sí, llévalo. Con 80 por ciento la lluvia es muy probable."
+872,¿Mejor para notas: papel o móvil?,"Hmm, ¿qué sé de esto? Papel sin distracción, móvil buscable. Respuesta pues: Ambos tienen ventajas: papel sin distracción y bueno para memorizar, móvil buscable y siempre ahí. Estoy seguro.","Ambos tienen ventajas: papel sin distracción y bueno para memorizar, móvil buscable y siempre ahí."
+873,notas papel o móvil - ¿consejos?,"Primero, con calma. Papel sin distracción, móvil buscable. Por tanto: Ambos tienen ventajas: papel sin distracción y bueno para memorizar, móvil buscable y siempre ahí. Vale, decidido.","Ambos tienen ventajas: papel sin distracción y bueno para memorizar, móvil buscable y siempre ahí."
+874,Guía rápida: notas papel o móvil.,"Vale, paso a paso. Papel sin distracción, móvil buscable. Por tanto: Ambos tienen ventajas: papel sin distracción y bueno para memorizar, móvil buscable y siempre ahí. Tiene sentido.","Ambos tienen ventajas: papel sin distracción y bueno para memorizar, móvil buscable y siempre ahí."
+875,¿Cómo ordeno mi cuarto rápido?,"Buena pregunta, pienso rápido. Basura, ropa, colocar, limpiar. Por tanto: Primero basura, luego ropa, coloca todo en su sitio y limpia al final. Tiene sentido.","Primero basura, luego ropa, coloca todo en su sitio y limpia al final."
+876,ordenar rápido - ¿consejos?,"Primero, con calma. Basura, ropa, colocar, limpiar. Conclusión: Primero basura, luego ropa, coloca todo en su sitio y limpia al final. Estoy seguro.","Primero basura, luego ropa, coloca todo en su sitio y limpia al final."
+877,Guía rápida: ordenar rápido.,"Bien, pensemos. Basura, ropa, colocar, limpiar. Conclusión: Primero basura, luego ropa, coloca todo en su sitio y limpia al final. Vale, decidido.","Primero basura, luego ropa, coloca todo en su sitio y limpia al final."
+878,¿Cómo hago una maleta compacta?,"Bien, pensemos. Enrollar, pesado abajo, rellenar. Respuesta pues: Enrolla la ropa en vez de doblar, pesado abajo, rellena con calcetines. Estoy seguro.","Enrolla la ropa en vez de doblar, pesado abajo, rellena con calcetines."
+879,maleta compacta - ¿consejos?,"Buena pregunta, pienso rápido. Enrollar, pesado abajo, rellenar. Por tanto: Enrolla la ropa en vez de doblar, pesado abajo, rellena con calcetines. Bien, sigo.","Enrolla la ropa en vez de doblar, pesado abajo, rellena con calcetines."
+880,Guía rápida: maleta compacta.,"Ordeno esto. Enrollar, pesado abajo, rellenar. Por tanto: Enrolla la ropa en vez de doblar, pesado abajo, rellena con calcetines. Estoy seguro.","Enrolla la ropa en vez de doblar, pesado abajo, rellena con calcetines."
+881,¿Cómo cuezo arroz?,"Vale, paso a paso. Proporción 1:2, hervir 10-12 min. Conclusión: Lava el arroz, hierve con doble agua, deja reposar 10-12 minutos. Bien, sigo.","Lava el arroz, hierve con doble agua, deja reposar 10-12 minutos."
+882,cocer arroz - ¿consejos?,"Hmm, ¿qué sé de esto? Proporción 1:2, hervir 10-12 min. Por tanto: Lava el arroz, hierve con doble agua, deja reposar 10-12 minutos. Tiene sentido.","Lava el arroz, hierve con doble agua, deja reposar 10-12 minutos."
+883,Guía rápida: cocer arroz.,"Ordeno esto. Proporción 1:2, hervir 10-12 min. Respuesta pues: Lava el arroz, hierve con doble agua, deja reposar 10-12 minutos. Terminé de pensar.","Lava el arroz, hierve con doble agua, deja reposar 10-12 minutos."
+884,¿Cómo cuezo pasta?,"Ordeno esto. Agua salada, hervir 8-10 min. Conclusión: Sala mucha agua, hierve, cuece 8-10 minutos, escurre. Terminé de pensar.","Sala mucha agua, hierve, cuece 8-10 minutos, escurre."
+885,cocer pasta - ¿consejos?,"Primero, con calma. Agua salada, hervir 8-10 min. Por tanto: Sala mucha agua, hierve, cuece 8-10 minutos, escurre. Todo claro en la cabeza.","Sala mucha agua, hierve, cuece 8-10 minutos, escurre."
+886,Guía rápida: cocer pasta.,"Hmm, ¿qué sé de esto? Agua salada, hervir 8-10 min. Respuesta pues: Sala mucha agua, hierve, cuece 8-10 minutos, escurre. Estoy seguro.","Sala mucha agua, hierve, cuece 8-10 minutos, escurre."
+887,¿Cómo hago tortitas?,"Hmm, ¿qué sé de esto? Harina, leche, huevo, dorar. Conclusión: Mezcla harina, leche, huevo y pizca de sal, cocina fino hasta dorar. Vale, decidido.","Mezcla harina, leche, huevo y pizca de sal, cocina fino hasta dorar."
+888,tortitas - ¿consejos?,"Un momento, pienso. Harina, leche, huevo, dorar. Por tanto: Mezcla harina, leche, huevo y pizca de sal, cocina fino hasta dorar. Lógico.","Mezcla harina, leche, huevo y pizca de sal, cocina fino hasta dorar."
+889,Guía rápida: tortitas.,"Vale, paso a paso. Harina, leche, huevo, dorar. Conclusión: Mezcla harina, leche, huevo y pizca de sal, cocina fino hasta dorar. Sí, cuadra.","Mezcla harina, leche, huevo y pizca de sal, cocina fino hasta dorar."
+890,¿Cómo me despierto por la mañana?,"Lo repaso mentalmente. Luz, agua, movimiento. Por tanto: Luz encendida, vaso de agua, muévete un poco y toma aire. Terminé de pensar.","Luz encendida, vaso de agua, muévete un poco y toma aire."
+891,despertar - ¿consejos?,"Buena pregunta, pienso rápido. Luz, agua, movimiento. Respuesta pues: Luz encendida, vaso de agua, muévete un poco y toma aire. Vale, decidido.","Luz encendida, vaso de agua, muévete un poco y toma aire."
+892,Guía rápida: despertar.,"Lo repaso mentalmente. Luz, agua, movimiento. Por tanto: Luz encendida, vaso de agua, muévete un poco y toma aire. Bien, sigo.","Luz encendida, vaso de agua, muévete un poco y toma aire."
+893,¿Cómo me duermo más rápido?,"Lo repaso mentalmente. Oscuro, fresco, sin móvil, rutina. Por tanto: Duerme oscuro y fresco, guarda el móvil, mantén rutina fija. Bien, sigo.","Duerme oscuro y fresco, guarda el móvil, mantén rutina fija."
+894,dormirse - ¿consejos?,"Primero, con calma. Oscuro, fresco, sin móvil, rutina. Por tanto: Duerme oscuro y fresco, guarda el móvil, mantén rutina fija. Vale, decidido.","Duerme oscuro y fresco, guarda el móvil, mantén rutina fija."
+895,Guía rápida: dormirse.,"Un momento, pienso. Oscuro, fresco, sin móvil, rutina. Respuesta pues: Duerme oscuro y fresco, guarda el móvil, mantén rutina fija. Estoy seguro.","Duerme oscuro y fresco, guarda el móvil, mantén rutina fija."
+896,¿Cómo estudio un examen?,"Bien, pensemos. Bloques, recuerdo activo, pausas. Respuesta pues: Divide en bloques, pregúntate activamente, haz pausas, repite al día siguiente. Terminé de pensar.","Divide en bloques, pregúntate activamente, haz pausas, repite al día siguiente."
+897,estudiar examen - ¿consejos?,"Hmm, ¿qué sé de esto? Bloques, recuerdo activo, pausas. Conclusión: Divide en bloques, pregúntate activamente, haz pausas, repite al día siguiente. Todo claro en la cabeza.","Divide en bloques, pregúntate activamente, haz pausas, repite al día siguiente."
+898,Guía rápida: estudiar examen.,"Bien, pensemos. Bloques, recuerdo activo, pausas. Conclusión: Divide en bloques, pregúntate activamente, haz pausas, repite al día siguiente. Lógico.","Divide en bloques, pregúntate activamente, haz pausas, repite al día siguiente."
+899,¿Cómo escribo una solicitud de empleo?,"Vale, paso a paso. Carta, CV, títulos. Respuesta pues: Escribe una carta corta más CV en tabla y títulos útiles. Todo claro en la cabeza.",Escribe una carta corta más CV en tabla y títulos útiles.
+900,solicitud de empleo - ¿consejos?,"Bien, pensemos. Carta, CV, títulos. Por tanto: Escribe una carta corta más CV en tabla y títulos útiles. Estoy seguro.",Escribe una carta corta más CV en tabla y títulos útiles.
+901,Guía rápida: solicitud de empleo.,"Vale, paso a paso. Carta, CV, títulos. Respuesta pues: Escribe una carta corta más CV en tabla y títulos útiles. Tiene sentido.",Escribe una carta corta más CV en tabla y títulos útiles.
+902,¿Cómo busco piso?,"Lo repaso mentalmente. Presupuesto, portales, papeles, visitas. Por tanto: Fija presupuesto, busca en portales, prepara papeles, visita con preguntas. Todo claro en la cabeza.","Fija presupuesto, busca en portales, prepara papeles, visita con preguntas."
+903,buscar piso - ¿consejos?,"Buena pregunta, pienso rápido. Presupuesto, portales, papeles, visitas. Conclusión: Fija presupuesto, busca en portales, prepara papeles, visita con preguntas. Lógico.","Fija presupuesto, busca en portales, prepara papeles, visita con preguntas."
+904,Guía rápida: buscar piso.,"Un momento, pienso. Presupuesto, portales, papeles, visitas. Por tanto: Fija presupuesto, busca en portales, prepara papeles, visita con preguntas. Sí, cuadra.","Fija presupuesto, busca en portales, prepara papeles, visita con preguntas."
+905,¿Cómo riego las plantas?,"Primero, con calma. Prueba del dedo, sin encharcar. Por tanto: Prueba del dedo: riega solo si arriba seco, evita encharcar. Tiene sentido.","Prueba del dedo: riega solo si arriba seco, evita encharcar."
+906,regar plantas - ¿consejos?,"Lo repaso mentalmente. Prueba del dedo, sin encharcar. Por tanto: Prueba del dedo: riega solo si arriba seco, evita encharcar. Tiene sentido.","Prueba del dedo: riega solo si arriba seco, evita encharcar."
+907,Guía rápida: regar plantas.,"Un momento, pienso. Prueba del dedo, sin encharcar. Por tanto: Prueba del dedo: riega solo si arriba seco, evita encharcar. Terminé de pensar.","Prueba del dedo: riega solo si arriba seco, evita encharcar."
+908,¿Cómo organizo mi día?,"Ordeno esto. 3 prioridades, bloques, pausas. Conclusión: Elige 3 prioridades, planea bloques con pausas, guarda distracciones. Estoy seguro.","Elige 3 prioridades, planea bloques con pausas, guarda distracciones."
+909,organizar el día - ¿consejos?,"Vale, paso a paso. 3 prioridades, bloques, pausas. Respuesta pues: Elige 3 prioridades, planea bloques con pausas, guarda distracciones. Sí, cuadra.","Elige 3 prioridades, planea bloques con pausas, guarda distracciones."
+910,Guía rápida: organizar el día.,"Buena pregunta, pienso rápido. 3 prioridades, bloques, pausas. Por tanto: Elige 3 prioridades, planea bloques con pausas, guarda distracciones. Sí, cuadra.","Elige 3 prioridades, planea bloques con pausas, guarda distracciones."
+911,¿Cómo empiezo el deporte?,"Vale, paso a paso. Poco, 2x por semana, subir. Respuesta pues: Empieza 2x por semana paseo o ligero, sube despacio. Sí, cuadra.","Empieza 2x por semana paseo o ligero, sube despacio."
+912,empezar deporte - ¿consejos?,"Hmm, ¿qué sé de esto? Poco, 2x por semana, subir. Por tanto: Empieza 2x por semana paseo o ligero, sube despacio. Bien, sigo.","Empieza 2x por semana paseo o ligero, sube despacio."
+913,Guía rápida: empezar deporte.,"Hmm, ¿qué sé de esto? Poco, 2x por semana, subir. Conclusión: Empieza 2x por semana paseo o ligero, sube despacio. Tiene sentido.","Empieza 2x por semana paseo o ligero, sube despacio."
+914,¿Cómo bebo suficiente agua?,"Vale, paso a paso. Botella lista, recordatorios. Respuesta pues: Ten una botella lista, bebe un vaso con cada comida, pon recordatorios. Sí, cuadra.","Ten una botella lista, bebe un vaso con cada comida, pon recordatorios."
+915,beber suficiente - ¿consejos?,"Buena pregunta, pienso rápido. Botella lista, recordatorios. Conclusión: Ten una botella lista, bebe un vaso con cada comida, pon recordatorios. Tiene sentido.","Ten una botella lista, bebe un vaso con cada comida, pon recordatorios."
+916,Guía rápida: beber suficiente.,"Ordeno esto. Botella lista, recordatorios. Respuesta pues: Ten una botella lista, bebe un vaso con cada comida, pon recordatorios. Lógico.","Ten una botella lista, bebe un vaso con cada comida, pon recordatorios."
+917,¿Qué es un desayuno sano?,"Bien, pensemos. Avena, fruta, yogur. Respuesta pues: Por ejemplo avena con fruta y yogur, o pan integral con huevo. Tiene sentido.","Por ejemplo avena con fruta y yogur, o pan integral con huevo."
+918,desayuno sano - ¿consejos?,"Ordeno esto. Avena, fruta, yogur. Conclusión: Por ejemplo avena con fruta y yogur, o pan integral con huevo. Sí, cuadra.","Por ejemplo avena con fruta y yogur, o pan integral con huevo."
+919,Guía rápida: desayuno sano.,"Lo repaso mentalmente. Avena, fruta, yogur. Por tanto: Por ejemplo avena con fruta y yogur, o pan integral con huevo. Sí, cuadra.","Por ejemplo avena con fruta y yogur, o pan integral con huevo."
+920,¿Qué hacer contra el estrés?,"Bien, pensemos. Pausas, movimiento, sueño, hablar. Por tanto: Pausas cortas, movimiento, bastante sueño y hablar ayudan. Lógico.","Pausas cortas, movimiento, bastante sueño y hablar ayudan."
+921,estrés - ¿consejos?,"Un momento, pienso. Pausas, movimiento, sueño, hablar. Conclusión: Pausas cortas, movimiento, bastante sueño y hablar ayudan. Sí, cuadra.","Pausas cortas, movimiento, bastante sueño y hablar ayudan."
+922,Guía rápida: estrés.,"Primero, con calma. Pausas, movimiento, sueño, hablar. Conclusión: Pausas cortas, movimiento, bastante sueño y hablar ayudan. Estoy seguro.","Pausas cortas, movimiento, bastante sueño y hablar ayudan."
+923,¿Cómo cancelo una cita?,"Ordeno esto. Pronto, motivo corto, nueva fecha. Por tanto: Cancela pronto, da un motivo corto, propone nueva fecha. Bien, sigo.","Cancela pronto, da un motivo corto, propone nueva fecha."
+924,cancelar cita - ¿consejos?,"Ordeno esto. Pronto, motivo corto, nueva fecha. Respuesta pues: Cancela pronto, da un motivo corto, propone nueva fecha. Terminé de pensar.","Cancela pronto, da un motivo corto, propone nueva fecha."
+925,Guía rápida: cancelar cita.,"Un momento, pienso. Pronto, motivo corto, nueva fecha. Respuesta pues: Cancela pronto, da un motivo corto, propone nueva fecha. Vale, decidido.","Cancela pronto, da un motivo corto, propone nueva fecha."
+926,¿Cómo pido ayuda?,"Ordeno esto. Concreto: qué, cuándo, gracias. Por tanto: Pide en concreto: qué, hasta cuándo, por qué. Ejemplo: ¿Me ayudas a llevar esto hoy? ¡Gracias! Bien, sigo.","Pide en concreto: qué, hasta cuándo, por qué. Ejemplo: ¿Me ayudas a llevar esto hoy? ¡Gracias!"
+927,pedir ayuda - ¿consejos?,"Hmm, ¿qué sé de esto? Concreto: qué, cuándo, gracias. Por tanto: Pide en concreto: qué, hasta cuándo, por qué. Ejemplo: ¿Me ayudas a llevar esto hoy? ¡Gracias! Lógico.","Pide en concreto: qué, hasta cuándo, por qué. Ejemplo: ¿Me ayudas a llevar esto hoy? ¡Gracias!"
+928,Guía rápida: pedir ayuda.,"Hmm, ¿qué sé de esto? Concreto: qué, cuándo, gracias. Respuesta pues: Pide en concreto: qué, hasta cuándo, por qué. Ejemplo: ¿Me ayudas a llevar esto hoy? ¡Gracias! Sí, cuadra.","Pide en concreto: qué, hasta cuándo, por qué. Ejemplo: ¿Me ayudas a llevar esto hoy? ¡Gracias!"
+929,¿Cómo aprendo a decir no?,"Un momento, pienso. Corto, amable, alternativa. Por tanto: Di no breve y amable, ofrece alternativa si puedes. Estoy seguro.","Di no breve y amable, ofrece alternativa si puedes."
+930,decir no - ¿consejos?,"Buena pregunta, pienso rápido. Corto, amable, alternativa. Conclusión: Di no breve y amable, ofrece alternativa si puedes. Estoy seguro.","Di no breve y amable, ofrece alternativa si puedes."
+931,Guía rápida: decir no.,"Bien, pensemos. Corto, amable, alternativa. Respuesta pues: Di no breve y amable, ofrece alternativa si puedes. Tiene sentido.","Di no breve y amable, ofrece alternativa si puedes."
+932,¿Cómo ahorro para vacaciones?,"Lo repaso mentalmente. Objetivo, auto mensual. Respuesta pues: Fija un objetivo, ahorra cada mes automáticamente, suma lo que sobre. Lógico.","Fija un objetivo, ahorra cada mes automáticamente, suma lo que sobre."
+933,ahorrar vacaciones - ¿consejos?,"Un momento, pienso. Objetivo, auto mensual. Por tanto: Fija un objetivo, ahorra cada mes automáticamente, suma lo que sobre. Lógico.","Fija un objetivo, ahorra cada mes automáticamente, suma lo que sobre."
+934,Guía rápida: ahorrar vacaciones.,"Primero, con calma. Objetivo, auto mensual. Conclusión: Fija un objetivo, ahorra cada mes automáticamente, suma lo que sobre. Tiene sentido.","Fija un objetivo, ahorra cada mes automáticamente, suma lo que sobre."
+935,¿Cómo reservo vuelos baratos?,"Hmm, ¿qué sé de esto? Fechas flexibles, comparar, pronto. Respuesta pues: Sé flexible con fechas, compara portales, reserva pronto. Sí, cuadra.","Sé flexible con fechas, compara portales, reserva pronto."
+936,vuelos baratos - ¿consejos?,"Ordeno esto. Fechas flexibles, comparar, pronto. Respuesta pues: Sé flexible con fechas, compara portales, reserva pronto. Lógico.","Sé flexible con fechas, compara portales, reserva pronto."
+937,Guía rápida: vuelos baratos.,"Bien, pensemos. Fechas flexibles, comparar, pronto. Respuesta pues: Sé flexible con fechas, compara portales, reserva pronto. Terminé de pensar.","Sé flexible con fechas, compara portales, reserva pronto."
+938,¿Cómo me oriento sin internet?,"Buena pregunta, pienso rápido. Mapas sin conexión, señales, preguntar. Por tanto: Descarga mapas sin conexión, sigue señales, pregunta a la gente. Estoy seguro.","Descarga mapas sin conexión, sigue señales, pregunta a la gente."
+939,orientarse sin internet - ¿consejos?,"Bien, pensemos. Mapas sin conexión, señales, preguntar. Respuesta pues: Descarga mapas sin conexión, sigue señales, pregunta a la gente. Tiene sentido.","Descarga mapas sin conexión, sigue señales, pregunta a la gente."
+940,Guía rápida: orientarse sin internet.,"Un momento, pienso. Mapas sin conexión, señales, preguntar. Respuesta pues: Descarga mapas sin conexión, sigue señales, pregunta a la gente. Lógico.","Descarga mapas sin conexión, sigue señales, pregunta a la gente."
+941,¿Qué diferencia hay entre perro y gato como mascota?,"Vale, paso a paso. Perros: paseos y educación; gatos independientes. Por tanto: Los perros piden paseos y educación, los gatos son más independientes. Elige según tiempo y espacio. Bien, sigo.","Los perros piden paseos y educación, los gatos son más independientes. Elige según tiempo y espacio."
+942,perro o gato - ¿qué recomiendas?,"Un momento, pienso. Perros: paseos y educación; gatos independientes. Respuesta pues: Los perros piden paseos y educación, los gatos son más independientes. Elige según tiempo y espacio. Terminé de pensar.","Los perros piden paseos y educación, los gatos son más independientes. Elige según tiempo y espacio."
+943,¿Tren o coche para 300 km?,"Bien, pensemos. Tren relax y verde, coche flexible. Conclusión: El tren es relax y a menudo más verde, el coche flexible con equipaje. Con atascos, gana el tren. Terminé de pensar.","El tren es relax y a menudo más verde, el coche flexible con equipaje. Con atascos, gana el tren."
+944,tren o coche 300 km - ¿qué recomiendas?,"Lo repaso mentalmente. Tren relax y verde, coche flexible. Respuesta pues: El tren es relax y a menudo más verde, el coche flexible con equipaje. Con atascos, gana el tren. Todo claro en la cabeza.","El tren es relax y a menudo más verde, el coche flexible con equipaje. Con atascos, gana el tren."
+945,¿Manzana o chocolate de merienda?,"Primero, con calma. Manzana: vitaminas y saciedad. Conclusión: Toma la manzana por vitaminas y saciedad, el chocolate como excepción. Todo claro en la cabeza.","Toma la manzana por vitaminas y saciedad, el chocolate como excepción."
+946,manzana o chocolate - ¿qué recomiendas?,"Vale, paso a paso. Manzana: vitaminas y saciedad. Por tanto: Toma la manzana por vitaminas y saciedad, el chocolate como excepción. Sí, cuadra.","Toma la manzana por vitaminas y saciedad, el chocolate como excepción."
+947,¿Portátil o PC para jugar?,"Vale, paso a paso. PC más potente por precio, portátil móvil. Por tanto: Los PC dan más potencia por el precio, los portátiles son móviles. Para máx., elige PC. Bien, sigo.","Los PC dan más potencia por el precio, los portátiles son móviles. Para máx., elige PC."
+948,portátil o PC gaming - ¿qué recomiendas?,"Un momento, pienso. PC más potente por precio, portátil móvil. Respuesta pues: Los PC dan más potencia por el precio, los portátiles son móviles. Para máx., elige PC. Terminé de pensar.","Los PC dan más potencia por el precio, los portátiles son móviles. Para máx., elige PC."
+949,¿Ciudad o campo para vivir?,"Primero, con calma. Ciudad: empleos y cercanía; campo: calma. Por tanto: Las ciudades ofrecen empleos y cercanía, el campo calma y espacio. Elige según trabajo y estilo. Vale, decidido.","Las ciudades ofrecen empleos y cercanía, el campo calma y espacio. Elige según trabajo y estilo."
+950,ciudad o campo - ¿qué recomiendas?,"Primero, con calma. Ciudad: empleos y cercanía; campo: calma. Conclusión: Las ciudades ofrecen empleos y cercanía, el campo calma y espacio. Elige según trabajo y estilo. Estoy seguro.","Las ciudades ofrecen empleos y cercanía, el campo calma y espacio. Elige según trabajo y estilo."
+951,¿Qué importa más: sueño o estudio?,"Un momento, pienso. El sueño fija el aprendizaje. Respuesta pues: El sueño importa más porque fija el aprendizaje. Estudia pronto, duerme bastante. Vale, decidido.","El sueño importa más porque fija el aprendizaje. Estudia pronto, duerme bastante."
+952,sueño o estudio - ¿qué recomiendas?,"Lo repaso mentalmente. El sueño fija el aprendizaje. Respuesta pues: El sueño importa más porque fija el aprendizaje. Estudia pronto, duerme bastante. Terminé de pensar.","El sueño importa más porque fija el aprendizaje. Estudia pronto, duerme bastante."
+953,¿Móvil nuevo o quedarme el viejo?,"Primero, con calma. Quédate si basta; compra por avería o necesidad. Por tanto: Quédate si te basta. Compra nuevo solo por avería o necesidad real. Tiene sentido.",Quédate si te basta. Compra nuevo solo por avería o necesidad real.
+954,móvil nuevo - ¿qué recomiendas?,Ordeno esto. Quédate si basta; compra por avería o necesidad. Por tanto: Quédate si te basta. Compra nuevo solo por avería o necesidad real. Lógico.,Quédate si te basta. Compra nuevo solo por avería o necesidad real.
+955,¿Qué son las noticias falsas?,"Vale, paso a paso. Inventadas, como reales; verificar fuente. Respuesta pues: Las noticias falsas son inventadas. Verifica fuente, fecha y otros medios. Estoy seguro.","Las noticias falsas son inventadas. Verifica fuente, fecha y otros medios."
+956,noticias falsas - ¿qué recomiendas?,"Un momento, pienso. Inventadas, como reales; verificar fuente. Respuesta pues: Las noticias falsas son inventadas. Verifica fuente, fecha y otros medios. Bien, sigo.","Las noticias falsas son inventadas. Verifica fuente, fecha y otros medios."
+957,¿Qué diferencia hay entre hecho y opinión?,"Lo repaso mentalmente. Hecho probable, opinión vista personal. Conclusión: Un hecho es probable y comprobable, una opinión es una vista personal. Lógico.","Un hecho es probable y comprobable, una opinión es una vista personal."
+958,hecho u opinión - ¿qué recomiendas?,"Primero, con calma. Hecho probable, opinión vista personal. Por tanto: Un hecho es probable y comprobable, una opinión es una vista personal. Bien, sigo.","Un hecho es probable y comprobable, una opinión es una vista personal."
+959,¿Bici o bus al cole? (5 km),"Bien, pensemos. Buen tiempo bici, lluvia bus. Conclusión: Con buen tiempo toma la bici (unos 20 min, sano), con lluvia el bus. Estoy seguro.","Con buen tiempo toma la bici (unos 20 min, sano), con lluvia el bus."
+960,bici o bus al cole 5 km - ¿qué recomiendas?,"Lo repaso mentalmente. Buen tiempo bici, lluvia bus. Conclusión: Con buen tiempo toma la bici (unos 20 min, sano), con lluvia el bus. Todo claro en la cabeza.","Con buen tiempo toma la bici (unos 20 min, sano), con lluvia el bus."
+961,¿Agua o zumo para la sed?,"Primero, con calma. Agua mejor, sin azúcar. Por tanto: El agua quita la sed mejor y no tiene azúcar. Zumo solo diluido. Sí, cuadra.",El agua quita la sed mejor y no tiene azúcar. Zumo solo diluido.
+962,agua o zumo - ¿qué recomiendas?,"Un momento, pienso. Agua mejor, sin azúcar. Por tanto: El agua quita la sed mejor y no tiene azúcar. Zumo solo diluido. Todo claro en la cabeza.",El agua quita la sed mejor y no tiene azúcar. Zumo solo diluido.
+963,¿Café o agua por la mañana?,"Bien, pensemos. Primero agua, café moderado. Por tanto: Bebe primero agua, café después con moderación. Lógico.","Bebe primero agua, café después con moderación."
+964,café o agua mañana - ¿qué recomiendas?,"Bien, pensemos. Primero agua, café moderado. Conclusión: Bebe primero agua, café después con moderación. Estoy seguro.","Bebe primero agua, café después con moderación."
+965,¿Alquilar o comprar? (general),"Hmm, ¿qué sé de esto? Flexible alquilar; duradero verificar comprar. Respuesta pues: Alquila si sigues flexible; si te quedas mucho y puedes pagar, verifica comprar con todos los costes. Todo claro en la cabeza.","Alquila si sigues flexible; si te quedas mucho y puedes pagar, verifica comprar con todos los costes."
+966,alquilar o comprar - ¿qué recomiendas?,"Hmm, ¿qué sé de esto? Flexible alquilar; duradero verificar comprar. Conclusión: Alquila si sigues flexible; si te quedas mucho y puedes pagar, verifica comprar con todos los costes. Lógico.","Alquila si sigues flexible; si te quedas mucho y puedes pagar, verifica comprar con todos los costes."
+967,¿Levantarse pronto o tarde?,"Un momento, pienso. Según deberes y sueño. Respuesta pues: Elige según deberes y sueño: bastante sueño y ritmo fijo importan. Bien, sigo.",Elige según deberes y sueño: bastante sueño y ritmo fijo importan.
+968,madrugar o no - ¿qué recomiendas?,Ordeno esto. Según deberes y sueño. Respuesta pues: Elige según deberes y sueño: bastante sueño y ritmo fijo importan. Estoy seguro.,Elige según deberes y sueño: bastante sueño y ritmo fijo importan.
+969,¿Deporte cada día?,"Hmm, ¿qué sé de esto? Descanso cuenta; 3-4x por semana basta. Conclusión: No, planea descansos. 3-4 veces por semana suele bastar, diario solo ligero. Estoy seguro.","No, planea descansos. 3-4 veces por semana suele bastar, diario solo ligero."
+970,deporte diario - ¿qué recomiendas?,"Lo repaso mentalmente. Descanso cuenta; 3-4x por semana basta. Por tanto: No, planea descansos. 3-4 veces por semana suele bastar, diario solo ligero. Sí, cuadra.","No, planea descansos. 3-4 veces por semana suele bastar, diario solo ligero."
+971,¿Trabajar con fiebre?,"Buena pregunta, pienso rápido. No, descanso y médico. Conclusión: No. Descansa y ve al médico si fiebre alta o larga. Vale, decidido.",No. Descansa y ve al médico si fiebre alta o larga.
+972,fiebre y trabajo - ¿qué recomiendas?,"Buena pregunta, pienso rápido. No, descanso y médico. Conclusión: No. Descansa y ve al médico si fiebre alta o larga. Lógico.",No. Descansa y ve al médico si fiebre alta o larga.
+973,¿Cómo elijo entre dos ofertas?,"Buena pregunta, pienso rápido. Criterios, pros/contras, plazo. Respuesta pues: Lista criterios, puntúa, revisa costes e intuición, decide con plazo. Sí, cuadra.","Lista criterios, puntúa, revisa costes e intuición, decide con plazo."
+974,elegir entre ofertas - ¿qué recomiendas?,"Primero, con calma. Criterios, pros/contras, plazo. Por tanto: Lista criterios, puntúa, revisa costes e intuición, decide con plazo. Estoy seguro.","Lista criterios, puntúa, revisa costes e intuición, decide con plazo."
+975,¿Cómo ahorro 500 euros en 5 meses?,"Un momento, pienso. 500/5=100 al mes auto. Recalculo: Ahorra 100 euros al mes automáticamente, ej. transferencia tras la nómina. Cuadra. Bien, sigo.","Ahorra 100 euros al mes automáticamente, ej. transferencia tras la nómina."
+976,ahorrar 500 en 5 meses - ¿qué recomiendas?,"Bien, pensemos. 500/5=100 al mes auto. Prueba: Ahorra 100 euros al mes automáticamente, ej. transferencia tras la nómina. Correcto. Estoy seguro.","Ahorra 100 euros al mes automáticamente, ej. transferencia tras la nómina."
+977,¿Qué diferencia hay entre necesidad y deseo?,"Bien, pensemos. Necesidad vital, deseo más allá. Por tanto: La necesidad es vital, el deseo es un anhelo más allá. Lógico.","La necesidad es vital, el deseo es un anhelo más allá."
+978,necesidad o deseo - ¿qué recomiendas?,"Primero, con calma. Necesidad vital, deseo más allá. Conclusión: La necesidad es vital, el deseo es un anhelo más allá. Tiene sentido.","La necesidad es vital, el deseo es un anhelo más allá."
+979,¿Qué importa más: dinero o tiempo?,"Ordeno esto. Tiempo limitado, dinero reemplazable. Por tanto: El tiempo es limitado y no vuelve, el dinero se gana de nuevo. Cuenta el equilibrio. Vale, decidido.","El tiempo es limitado y no vuelve, el dinero se gana de nuevo. Cuenta el equilibrio."
+980,dinero o tiempo - ¿qué recomiendas?,"Buena pregunta, pienso rápido. Tiempo limitado, dinero reemplazable. Conclusión: El tiempo es limitado y no vuelve, el dinero se gana de nuevo. Cuenta el equilibrio. Tiene sentido.","El tiempo es limitado y no vuelve, el dinero se gana de nuevo. Cuenta el equilibrio."
+981,Resume: ¿cuándo piensas y cuándo no?,"Un momento, pienso. Regla: charla sin pensar; hechos, cálculos, explicaciones, decisiones con pensar. Por tanto: No pienso en saludos, gracias y charla. Pienso en hechos, cálculos, explicaciones, comparaciones y decisiones, y entonces muestro el pensar. Sí, cuadra.","No pienso en saludos, gracias y charla. Pienso en hechos, cálculos, explicaciones, comparaciones y decisiones, y entonces muestro el pensar."
+982,¿Qué es tolerancia?,"Vale, paso a paso. Definir tolerancia simple y correcto. Por tanto: tolerancia en breve: La tolerancia acepta otras opiniones y modos de vida. Tiene sentido.",tolerancia en breve: La tolerancia acepta otras opiniones y modos de vida.
+983,¿Qué es paciencia?,"Primero, con calma. Definir paciencia simple y correcto. Conclusión: paciencia en breve: La paciencia espera tranquila y persevera. Vale, decidido.",paciencia en breve: La paciencia espera tranquila y persevera.
+984,¿Qué es valentía?,"Vale, paso a paso. Definir valentía simple y correcto. Respuesta pues: valentía en breve: La valentía hace lo correcto pese al miedo. Estoy seguro.",valentía en breve: La valentía hace lo correcto pese al miedo.
+985,¿Qué es disciplina?,"Un momento, pienso. Definir disciplina simple y correcto. Por tanto: disciplina en breve: La disciplina persevera aun sin ganas. Sí, cuadra.",disciplina en breve: La disciplina persevera aun sin ganas.
+986,¿Qué es creatividad?,Lo repaso mentalmente. Definir creatividad simple y correcto. Por tanto: creatividad en breve: La creatividad halla ideas y soluciones nuevas. Todo claro en la cabeza.,creatividad en breve: La creatividad halla ideas y soluciones nuevas.
+987,¿Qué es trabajo en equipo?,"Vale, paso a paso. Definir trabajo en equipo simple y correcto. Conclusión: trabajo en equipo en breve: El trabajo en equipo avanza junto a una meta. Sí, cuadra.",trabajo en equipo en breve: El trabajo en equipo avanza junto a una meta.
+988,¿Qué es responsabilidad?,"Primero, con calma. Definir responsabilidad simple y correcto. Conclusión: responsabilidad en breve: La responsabilidad asume actos y consecuencias. Bien, sigo.",responsabilidad en breve: La responsabilidad asume actos y consecuencias.
+989,¿Qué es confianza?,"Vale, paso a paso. Definir confianza simple y correcto. Respuesta pues: confianza en breve: La confianza permite contar con otros. Vale, decidido.",confianza en breve: La confianza permite contar con otros.
+990,¿Qué es cortesía?,"Lo repaso mentalmente. Definir cortesía simple y correcto. Respuesta pues: cortesía en breve: La cortesía es respetuosa y amable. Sí, cuadra.",cortesía en breve: La cortesía es respetuosa y amable.
+991,¿Qué es puntualidad?,"Bien, pensemos. Definir puntualidad simple y correcto. Respuesta pues: puntualidad en breve: La puntualidad respeta las horas acordadas. Bien, sigo.",puntualidad en breve: La puntualidad respeta las horas acordadas.
+992,¿Qué es fiabilidad?,"Lo repaso mentalmente. Definir fiabilidad simple y correcto. Conclusión: fiabilidad en breve: La fiabilidad cumple promesas. Vale, decidido.",fiabilidad en breve: La fiabilidad cumple promesas.
+993,¿Qué es salud?,Lo repaso mentalmente. Definir salud simple y correcto. Conclusión: salud en breve: La salud es bienestar físico y mental. Tiene sentido.,salud en breve: La salud es bienestar físico y mental.
+994,¿Qué es felicidad?,"Lo repaso mentalmente. Definir felicidad simple y correcto. Conclusión: felicidad en breve: La felicidad es satisfacción y momentos alegres. Sí, cuadra.",felicidad en breve: La felicidad es satisfacción y momentos alegres.
+995,¿Qué es éxito?,"Bien, pensemos. Definir éxito simple y correcto. Conclusión: éxito en breve: El éxito alcanza las metas fijadas. Terminé de pensar.",éxito en breve: El éxito alcanza las metas fijadas.
+996,¿Qué es aprendizaje?,"Hmm, ¿qué sé de esto? Definir aprendizaje simple y correcto. Conclusión: aprendizaje en breve: El aprendizaje adquiere saber y habilidades. Lógico.",aprendizaje en breve: El aprendizaje adquiere saber y habilidades.
+997,¿Qué es saber?,"Lo repaso mentalmente. Definir saber simple y correcto. Respuesta pues: saber en breve: El saber es información entendida sobre el mundo. Sí, cuadra.",saber en breve: El saber es información entendida sobre el mundo.
+998,¿Qué es experiencia?,"Bien, pensemos. Definir experiencia simple y correcto. Respuesta pues: experiencia en breve: La experiencia es saber de lo vivido. Sí, cuadra.",experiencia en breve: La experiencia es saber de lo vivido.
+999,¿Qué es humor?,"Buena pregunta, pienso rápido. Definir humor simple y correcto. Conclusión: humor en breve: El humor sabe reír de lo gracioso. Tiene sentido.",humor en breve: El humor sabe reír de lo gracioso.
+1000,¿Qué es amor?,"Un momento, pienso. Definir amor simple y correcto. Respuesta pues: amor en breve: El amor es afecto profundo y cuidado. Terminé de pensar.",amor en breve: El amor es afecto profundo y cuidado.
