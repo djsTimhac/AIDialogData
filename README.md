@@ -23,9 +23,10 @@ Dateien: `dialog_allgemein_1000_<sprache>.csv`
 
 ## Aufsaetze (Schreiben, Grammatik, Rechtschreibung)
 
-- 22 Sprachen, je Datei 14-35 lange Texte (+ Header)
+- 22 Sprachen, je Datei 1000 lange Texte (+ Header)
 - Spalten: `id,title,text`
-- Zusammenhaengende Sachtexte (200-400 Woerter) aus den geprueften Fakten:
+- Zusammenhaengende Sachtexte (150-450 Woerter) aus den geprueften Fakten
+  plus hunderten frisch generierten, nachgerechneten Mathe-Saetzen:
   Hauptstaedte, Laender, Geschichte, Natur/Technik, Rechnen, Alltagstipps,
   Vergleiche und Begriffe. Mit Einleitung, Ueberleitungen und Schluss.
 - Dateien: `aufsatz_<sprache>.csv` (gleiche Sprachen wie oben)
