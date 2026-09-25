@@ -1,0 +1,1001 @@
+id,text
+1,The capital of Germany is Berlin.
+2,The capital of Germany is called Berlin.
+3,The capital of France is Paris.
+4,The capital of France is called Paris.
+5,The capital of Italy is Rome.
+6,The capital of Italy is called Rome.
+7,The capital of Spain is Madrid.
+8,The capital of Spain is called Madrid.
+9,The capital of Portugal is Lisbon.
+10,The capital of Portugal is called Lisbon.
+11,The capital of Netherlands is Amsterdam.
+12,The capital of Netherlands is called Amsterdam.
+13,The capital of Belgium is Brussels.
+14,The capital of Belgium is called Brussels.
+15,The capital of Austria is Vienna.
+16,The capital of Austria is called Vienna.
+17,The capital of Switzerland is Bern.
+18,The capital of Switzerland is called Bern.
+19,The capital of Poland is Warsaw.
+20,The capital of Poland is called Warsaw.
+21,The capital of Czechia is Prague.
+22,The capital of Czechia is called Prague.
+23,The capital of Hungary is Budapest.
+24,The capital of Hungary is called Budapest.
+25,The capital of Greece is Athens.
+26,The capital of Greece is called Athens.
+27,The capital of Turkey is Ankara.
+28,The capital of Turkey is called Ankara.
+29,The capital of Norway is Oslo.
+30,The capital of Norway is called Oslo.
+31,The capital of Sweden is Stockholm.
+32,The capital of Sweden is called Stockholm.
+33,The capital of Finland is Helsinki.
+34,The capital of Finland is called Helsinki.
+35,The capital of Denmark is Copenhagen.
+36,The capital of Denmark is called Copenhagen.
+37,The capital of the United Kingdom is London.
+38,The capital of the United Kingdom is called London.
+39,The capital of Ireland is Dublin.
+40,The capital of Ireland is called Dublin.
+41,The capital of the USA is Washington D.C..
+42,The capital of the USA is called Washington D.C..
+43,Washington D.C..
+44,The capital of Canada is Ottawa.
+45,The capital of Canada is called Ottawa.
+46,The capital of Mexico is Mexico City.
+47,The capital of Mexico is called Mexico City.
+48,The capital of Brazil is Brasilia.
+49,The capital of Brazil is called Brasilia.
+50,The capital of Argentina is Buenos Aires.
+51,The capital of Argentina is called Buenos Aires.
+52,The capital of Japan is Tokyo.
+53,The capital of Japan is called Tokyo.
+54,The capital of China is Beijing.
+55,The capital of China is called Beijing.
+56,The capital of India is New Delhi.
+57,The capital of India is called New Delhi.
+58,The capital of Australia is Canberra.
+59,The capital of Australia is called Canberra.
+60,The capital of Egypt is Cairo.
+61,The capital of Egypt is called Cairo.
+62,Germany has 16 federal states.
+63,Germany has about 83 to 84 million inhabitants.
+64,In Brazil people speak Portuguese.
+65,The currency of Japan is the yen.
+66,The currency of the USA is the US dollar.
+67,"Usually we count 7 continents: Africa, Antarctica, Asia, Australia, Europe, North America, South America."
+68,"It is disputed: usually Nile and Amazon are named, both over 6500 km long."
+69,The largest country by area is Russia.
+70,The largest animal in the world is the blue whale.
+71,"There are 5 oceans: Atlantic, Pacific, Indian, Southern and Arctic."
+72,The highest mountain is Mount Everest at about 8848 metres.
+73,The first Moon landing was in 1969 with Apollo 11.
+74,World War II lasted from 1939 to 1945.
+75,World War I lasted from 1914 to 1918.
+76,The Berlin Wall was the fortified border between East and West Berlin from 1961 to 1989.
+77,The Berlin Wall fell on 9 November 1989.
+78,"The telephone was patented by Alexander Graham Bell in 1876, with key pioneer work by Antonio Meucci."
+79,Relativity theory was developed by Albert Einstein.
+80,"Democracy means rule by the people, usually through free elections and basic rights."
+81,The EU is a union of European states with a single market and shared institutions.
+82,The EU has 27 member states.
+83,"The Basic Law is the constitution of Germany, in force since 1949."
+84,Germany was reunified in 1990.
+85,"The Middle Ages was the era from about 500 to 1500, between antiquity and modern times."
+86,"Leonardo da Vinci was an Italian artist and inventor, famous for the Mona Lisa."
+87,Marie Curie was a physicist who researched radioactivity and won two Nobel prizes.
+88,"The French Revolution from 1789 overthrew the monarchy under liberty, equality, fraternity."
+89,"Human rights are basic rights of every person, such as life, liberty and equality."
+90,Inflation means prices rise and money loses value.
+91,Industrialization was the shift to machines and factories starting in the 18th century.
+92,"The basics date to ARPANET in 1969, the World Wide Web from 1989."
+93,The car was invented by Carl Benz with the 1886 motor car.
+94,The first powered flight was made by the Wright brothers in 1903.
+95,For the Bundestag from age 18. In European elections in Germany from 16.
+96,"Eligible voters cast ballots, votes are counted and seats assigned by result."
+97,In a dictatorship one person or group rules without free elections; in a democracy power comes from the people.
+98,Sustainability means living so future generations also have enough resources.
+99,"Bullying is repeated harassment or exclusion. Talk to trusted people, document incidents, get help."
+100,Peace means living together without war and violence.
+101,Freedom means living self-determined without harming others.
+102,Justice means fair and equal treatment for everyone.
+103,The sky is blue due to Rayleigh scattering: blue sunlight is scattered more in the atmosphere than red.
+104,"Rain forms by evaporation: water rises, cools, forms clouds and falls back as drops."
+105,"Photosynthesis is how plants make sugar and oxygen from light, water and CO2."
+106,Weather is the short-term state of the atmosphere; climate is the average over about 30 years.
+107,"A fridge pumps heat from inside out with coolant: it evaporates inside, absorbs heat, releases it outside."
+108,"Electricity is simply the directed movement of electric charges, usually electrons in a wire."
+109,"Water is H2O, a compound of hydrogen and oxygen."
+110,A virus is a tiny pathogen that cannot multiply without a host cell.
+111,"Artificial intelligence means programs that learn from data, recognize patterns and solve tasks like text or images."
+112,"A browser is the program you open websites with, e.g. Chrome, Firefox, Edge or Safari."
+113,"An app is an application program, usually for phones, e.g. for messages, photos or games."
+114,"Water keeps circulation and focus stable, helps kidneys and skin, prevents headaches."
+115,"About 2 minutes, twice a day."
+116,"Gravity is the attraction between masses. Earth pulls everything down, so things fall."
+117,"Air is a gas mix, mostly nitrogen and oxygen."
+118,The heart pumps blood through the body.
+119,The lungs take up oxygen and release carbon dioxide.
+120,"Sleep supports recovery, memory and the immune system."
+121,"Fever is raised body temperature, often a defense against infection."
+122,"A strong password is long, unique per service and best stored in a password manager."
+123,Wi-Fi is a wireless local network for internet without cables.
+124,The cloud means servers on the internet where you store data and use services.
+125,GPS finds position from signals of several satellites and their travel time.
+126,"Day and night exist because Earth rotates. The sunny side has day, the other night."
+127,Seasons come from the tilt of Earth axis: each hemisphere leans toward the sun in turn.
+128,The Moon shines because it reflects sunlight.
+129,The Sun is a star of hot gas giving light and warmth.
+130,"Our solar system has 8 planets: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune."
+131,"An atom is the smallest unit of matter, made of nucleus and electrons."
+132,Recycling means collecting waste and turning it into new products.
+133,The greenhouse effect traps heat in the atmosphere. Too many greenhouse gases warm the climate further.
+134,"Bees pollinate plants, securing harvests and biodiversity."
+135,"Leaves are green because of chlorophyll, the pigment for photosynthesis."
+136,"Mammals have fur, give birth to live young and nurse them with milk."
+137,A battery turns chemical energy into electric energy.
+138,Solar cells turn sunlight directly into electric power.
+139,A computer virus is a harmful program that spreads and causes damage. Protect with updates and care with attachments.
+140,"Plastic barely rots, litters nature and seas, and breaks into microplastics."
+141,An earthquake happens when tectonic plates move suddenly and release energy.
+142,Honey is made by bees from flower nectar.
+143,25 times 4 is 100.
+144,12 percent of 200 is 24.
+145,It arrives at 4:45 pm.
+146,2 apples are left.
+147,You sleep 8 hours.
+148,Each person gets 25 euros.
+149,2 hours are 120 minutes.
+150,"A year has 365 days, a leap year 366."
+151,A minute has 60 seconds.
+152,30 plus 57 is 87.
+153,76 minus 61 is 15.
+154,9 times 10 is 90.
+155,88 divided by 11 is 8.
+156,10 percent of 500 is 50.
+157,32 plus 42 is 74.
+158,83 minus 25 is 58.
+159,3 times 9 is 27.
+160,36 divided by 6 is 6.
+161,5 percent of 500 is 25.
+162,53 plus 58 is 111.
+163,93 minus 83 is 10.
+164,2 times 11 is 22.
+165,128 divided by 8 is 16.
+166,50 percent of 1000 is 500.
+167,41 plus 43 is 84.
+168,25 minus 21 is 4.
+169,2 times 10 is 20.
+170,9 divided by 3 is 3.
+171,5 percent of 200 is 10.
+172,58 plus 17 is 75.
+173,81 minus 5 is 76.
+174,9 times 7 is 63.
+175,180 divided by 9 is 20.
+176,16 plus 42 is 58.
+177,42 minus 33 is 9.
+178,2 times 12 is 24.
+179,48 divided by 3 is 16.
+180,50 percent of 300 is 150.
+181,28 plus 37 is 65.
+182,15 minus 13 is 2.
+183,6 times 7 is 42.
+184,90 divided by 5 is 18.
+185,15 percent of 100 is 15.
+186,6 plus 38 is 44.
+187,18 minus 14 is 4.
+188,3 times 6 is 18.
+189,32 divided by 8 is 4.
+190,5 percent of 1000 is 50.
+191,2 plus 15 is 17.
+192,31 minus 3 is 28.
+193,9 times 8 is 72.
+194,120 divided by 8 is 15.
+195,42 plus 14 is 56.
+196,91 minus 36 is 55.
+197,7 times 3 is 21.
+198,72 divided by 6 is 12.
+199,5 percent of 400 is 20.
+200,50 plus 9 is 59.
+201,22 minus 9 is 13.
+202,3 times 2 is 6.
+203,32 divided by 2 is 16.
+204,20 percent of 200 is 40.
+205,45 plus 37 is 82.
+206,29 minus 16 is 13.
+207,10 times 5 is 50.
+208,60 divided by 4 is 15.
+209,50 percent of 400 is 200.
+210,9 plus 27 is 36.
+211,58 minus 15 is 43.
+212,2 times 6 is 12.
+213,121 divided by 11 is 11.
+214,13 plus 27 is 40.
+215,82 minus 75 is 7.
+216,32 divided by 4 is 8.
+217,20 percent of 300 is 60.
+218,2 plus 51 is 53.
+219,83 minus 44 is 39.
+220,6 times 8 is 48.
+221,12 divided by 3 is 4.
+222,39 plus 42 is 81.
+223,36 minus 2 is 34.
+224,11 times 7 is 77.
+225,112 divided by 7 is 16.
+226,32 plus 55 is 87.
+227,78 minus 19 is 59.
+228,8 times 4 is 32.
+229,72 divided by 12 is 6.
+230,15 percent of 200 is 30.
+231,54 plus 41 is 95.
+232,36 minus 14 is 22.
+233,4 times 12 is 48.
+234,80 divided by 10 is 8.
+235,58 plus 32 is 90.
+236,82 minus 12 is 70.
+237,8 times 2 is 16.
+238,15 divided by 3 is 5.
+239,18 plus 17 is 35.
+240,99 minus 92 is 7.
+241,8 times 6 is 48.
+242,136 divided by 8 is 17.
+243,15 percent of 500 is 75.
+244,13 plus 48 is 61.
+245,13 minus 4 is 9.
+246,5 times 9 is 45.
+247,40 divided by 10 is 4.
+248,60 plus 60 is 120.
+249,31 minus 25 is 6.
+250,2 times 3 is 6.
+251,90 divided by 6 is 15.
+252,27 minus 11 is 16.
+253,7 times 10 is 70.
+254,66 divided by 11 is 6.
+255,5 percent of 300 is 15.
+256,10 plus 59 is 69.
+257,62 minus 23 is 39.
+258,12 times 10 is 120.
+259,25 percent of 100 is 25.
+260,It ends at 9:45 pm.
+261,The appointment is at 12:30.
+262,It is done at 5:05 pm.
+263,It lasts 5 hours and 15 minutes.
+264,You are done at 7:30 pm.
+265,Best in short daily units with flashcards and active use in sentences plus regular repetition.
+266,"Set a budget, check subscriptions, cook more often, compare prices and save a fixed amount first each month."
+267,"Make pasta with simple tomato sauce: season tomatoes, cook, pour over pasta, sprinkle cheese."
+268,"Take: ID or passport, ticket, money, phone plus charger, medicine, hygiene and a change of clothes in hand luggage."
+269,"Name the mistake, take responsibility, show regret and offer to make up for it, short and honest."
+270,"Set travel and hotel, pick 2-3 highlights per day, plan buffers for food and ways, set a daily budget."
+271,"Yes, take one. At 80 percent rain is very likely."
+272,"Both have perks: paper is distraction-free and good for memory, phones are searchable and always with you."
+273,"First collect trash, then laundry, put everything back, wipe briefly at the end."
+274,"Roll clothes instead of folding, heavy items down, fill gaps with socks."
+275,"Wash rice, boil with double water, simmer about 10-12 minutes."
+276,"Salt plenty of water, boil, cook pasta 8-10 minutes, drain."
+277,"Mix flour, milk, egg and a pinch of salt, fry thin until golden."
+278,"Light on, glass of water, move briefly and get fresh air."
+279,"Sleep dark and cool, put the phone away, keep a fixed routine."
+280,"Split material into blocks, quiz yourself actively, take breaks, repeat next day."
+281,Write a short cover letter plus a table CV and relevant certificates.
+282,"Set a budget, search portals, prepare documents, visit viewings with questions."
+283,"Finger test: water only when top is dry, avoid waterlogging."
+284,"Pick 3 priorities, plan time blocks with breaks, put distractions away."
+285,"Start with 2x per week walking or light training, increase slowly."
+286,"Keep a bottle ready, drink a glass with each meal, use reminders."
+287,"For example oats with fruit and yoghurt, or wholegrain bread with egg."
+288,"Short breaks, movement, enough sleep and talking to someone help."
+289,"Cancel early, give a short reason, suggest a replacement date."
+290,"Ask concretely: what, until when, why. Example: Can you help me carry this today? Thanks!"
+291,"Say no briefly and kindly, offer an alternative if possible."
+292,"Set a target, save monthly automatically, add extras."
+293,"Be flexible with dates, compare portals, book early."
+294,"Download offline maps, follow signs, ask locals."
+295,"Dogs need lots of walks and training, cats are more independent. Choose by time and space."
+296,"Trains are relaxed and often greener, cars flexible with luggage. With traffic, trains usually win."
+297,"Take the apple for vitamins and fullness, chocolate only as an exception."
+298,"PCs give more power for the money, laptops are mobile. For max power choose PC."
+299,"Cities offer jobs and closeness, the countryside calm and space. Choose by work and lifestyle."
+300,"Sleep matters more because it consolidates learning. Study earlier, sleep enough."
+301,Keep it if it suffices. Buy new only on defect or real need.
+302,"Fake news is invented news. Check source, date and other media."
+303,"A fact is provable and checkable, an opinion is a personal view."
+304,"In good weather take the bike (about 20 min, healthy), in rain the bus."
+305,Water quenches thirst best and has no sugar. Juice only diluted.
+306,"Drink water first, coffee after in moderation."
+307,"Rent if you stay flexible; if you stay long and can afford, check buying with all costs."
+308,Choose by duties and sleep: enough sleep and a fixed rhythm matter most.
+309,"No, plan rest days. 3-4 times per week is often enough, daily only light."
+310,No. Rest and see a doctor with high or long fever.
+311,"List criteria, score them, check costs and gut feeling, decide by a deadline."
+312,"Save 100 euros per month automatically, e.g. standing order after payday."
+313,"Needing is necessary for life, wanting is a wish beyond that."
+314,"Time is limited and cannot be brought back, money can be earned again. Balance counts."
+315,"I do not think for greetings, thanks and small talk. I think for facts, math, explanations, comparisons and decisions, then I show thinking."
+316,Tolerance in short: Tolerance means accepting other opinions and ways of life.
+317,Patience in short: Patience means waiting calmly and staying on it.
+318,Courage in short: Courage means doing the right thing despite fear.
+319,Discipline in short: Discipline means sticking to it even without motivation.
+320,Creativity in short: Creativity means finding new ideas and solutions.
+321,Teamwork in short: Teamwork means working together toward a goal.
+322,Responsibility in short: Responsibility means standing up for actions and consequences.
+323,Trust in short: Trust means being able to rely on others.
+324,Politeness in short: Politeness means being respectful and friendly.
+325,Punctuality in short: Punctuality means keeping agreed times.
+326,Reliability in short: Reliability means keeping promises.
+327,Health in short: Health means physical and mental well-being.
+328,Happiness in short: Happiness means contentment and joyful moments.
+329,Success in short: Success means reaching set goals.
+330,Learning in short: Learning means gaining knowledge and skills.
+331,Knowledge in short: Knowledge means understood information about the world.
+332,Experience in short: Experience means knowledge from own living.
+333,Humour in short: Humour means being able to laugh about funny things.
+334,Love in short: Love means deep affection and care.
+335,Fact: The capital of Germany is Berlin.
+336,Did you know? The capital of Germany is Berlin.
+337,Keep in mind: The capital of Germany is Berlin.
+338,In short: The capital of Germany is Berlin.
+339,Good to know: The capital of Germany is Berlin.
+340,It is certain: The capital of Germany is Berlin.
+341,Fact: The capital of Germany is called Berlin.
+342,Did you know? The capital of Germany is called Berlin.
+343,Keep in mind: The capital of Germany is called Berlin.
+344,In short: The capital of Germany is called Berlin.
+345,Good to know: The capital of Germany is called Berlin.
+346,It is certain: The capital of Germany is called Berlin.
+347,Fact: The capital of France is Paris.
+348,Did you know? The capital of France is Paris.
+349,Keep in mind: The capital of France is Paris.
+350,In short: The capital of France is Paris.
+351,Good to know: The capital of France is Paris.
+352,It is certain: The capital of France is Paris.
+353,Fact: The capital of France is called Paris.
+354,Did you know? The capital of France is called Paris.
+355,Keep in mind: The capital of France is called Paris.
+356,In short: The capital of France is called Paris.
+357,Good to know: The capital of France is called Paris.
+358,It is certain: The capital of France is called Paris.
+359,Fact: The capital of Italy is Rome.
+360,Did you know? The capital of Italy is Rome.
+361,Keep in mind: The capital of Italy is Rome.
+362,In short: The capital of Italy is Rome.
+363,Good to know: The capital of Italy is Rome.
+364,It is certain: The capital of Italy is Rome.
+365,Fact: The capital of Italy is called Rome.
+366,Did you know? The capital of Italy is called Rome.
+367,Keep in mind: The capital of Italy is called Rome.
+368,In short: The capital of Italy is called Rome.
+369,Good to know: The capital of Italy is called Rome.
+370,It is certain: The capital of Italy is called Rome.
+371,Fact: The capital of Spain is Madrid.
+372,Did you know? The capital of Spain is Madrid.
+373,Keep in mind: The capital of Spain is Madrid.
+374,In short: The capital of Spain is Madrid.
+375,Good to know: The capital of Spain is Madrid.
+376,It is certain: The capital of Spain is Madrid.
+377,Fact: The capital of Spain is called Madrid.
+378,Did you know? The capital of Spain is called Madrid.
+379,Keep in mind: The capital of Spain is called Madrid.
+380,In short: The capital of Spain is called Madrid.
+381,Good to know: The capital of Spain is called Madrid.
+382,It is certain: The capital of Spain is called Madrid.
+383,Fact: The capital of Portugal is Lisbon.
+384,Did you know? The capital of Portugal is Lisbon.
+385,Keep in mind: The capital of Portugal is Lisbon.
+386,In short: The capital of Portugal is Lisbon.
+387,Good to know: The capital of Portugal is Lisbon.
+388,It is certain: The capital of Portugal is Lisbon.
+389,Fact: The capital of Portugal is called Lisbon.
+390,Did you know? The capital of Portugal is called Lisbon.
+391,Keep in mind: The capital of Portugal is called Lisbon.
+392,In short: The capital of Portugal is called Lisbon.
+393,Good to know: The capital of Portugal is called Lisbon.
+394,It is certain: The capital of Portugal is called Lisbon.
+395,Fact: The capital of Netherlands is Amsterdam.
+396,Did you know? The capital of Netherlands is Amsterdam.
+397,Keep in mind: The capital of Netherlands is Amsterdam.
+398,In short: The capital of Netherlands is Amsterdam.
+399,Good to know: The capital of Netherlands is Amsterdam.
+400,It is certain: The capital of Netherlands is Amsterdam.
+401,Fact: The capital of Netherlands is called Amsterdam.
+402,Did you know? The capital of Netherlands is called Amsterdam.
+403,Keep in mind: The capital of Netherlands is called Amsterdam.
+404,In short: The capital of Netherlands is called Amsterdam.
+405,Good to know: The capital of Netherlands is called Amsterdam.
+406,It is certain: The capital of Netherlands is called Amsterdam.
+407,Fact: The capital of Belgium is Brussels.
+408,Did you know? The capital of Belgium is Brussels.
+409,Keep in mind: The capital of Belgium is Brussels.
+410,In short: The capital of Belgium is Brussels.
+411,Good to know: The capital of Belgium is Brussels.
+412,It is certain: The capital of Belgium is Brussels.
+413,Fact: The capital of Belgium is called Brussels.
+414,Did you know? The capital of Belgium is called Brussels.
+415,Keep in mind: The capital of Belgium is called Brussels.
+416,In short: The capital of Belgium is called Brussels.
+417,Good to know: The capital of Belgium is called Brussels.
+418,It is certain: The capital of Belgium is called Brussels.
+419,Fact: The capital of Austria is Vienna.
+420,Did you know? The capital of Austria is Vienna.
+421,Keep in mind: The capital of Austria is Vienna.
+422,In short: The capital of Austria is Vienna.
+423,Good to know: The capital of Austria is Vienna.
+424,It is certain: The capital of Austria is Vienna.
+425,Fact: The capital of Austria is called Vienna.
+426,Did you know? The capital of Austria is called Vienna.
+427,Keep in mind: The capital of Austria is called Vienna.
+428,In short: The capital of Austria is called Vienna.
+429,Good to know: The capital of Austria is called Vienna.
+430,It is certain: The capital of Austria is called Vienna.
+431,Fact: The capital of Switzerland is Bern.
+432,Did you know? The capital of Switzerland is Bern.
+433,Keep in mind: The capital of Switzerland is Bern.
+434,In short: The capital of Switzerland is Bern.
+435,Good to know: The capital of Switzerland is Bern.
+436,It is certain: The capital of Switzerland is Bern.
+437,Fact: The capital of Switzerland is called Bern.
+438,Did you know? The capital of Switzerland is called Bern.
+439,Keep in mind: The capital of Switzerland is called Bern.
+440,In short: The capital of Switzerland is called Bern.
+441,Good to know: The capital of Switzerland is called Bern.
+442,It is certain: The capital of Switzerland is called Bern.
+443,Fact: The capital of Poland is Warsaw.
+444,Did you know? The capital of Poland is Warsaw.
+445,Keep in mind: The capital of Poland is Warsaw.
+446,In short: The capital of Poland is Warsaw.
+447,Good to know: The capital of Poland is Warsaw.
+448,It is certain: The capital of Poland is Warsaw.
+449,Fact: The capital of Poland is called Warsaw.
+450,Did you know? The capital of Poland is called Warsaw.
+451,Keep in mind: The capital of Poland is called Warsaw.
+452,In short: The capital of Poland is called Warsaw.
+453,Good to know: The capital of Poland is called Warsaw.
+454,It is certain: The capital of Poland is called Warsaw.
+455,Fact: The capital of Czechia is Prague.
+456,Did you know? The capital of Czechia is Prague.
+457,Keep in mind: The capital of Czechia is Prague.
+458,In short: The capital of Czechia is Prague.
+459,Good to know: The capital of Czechia is Prague.
+460,It is certain: The capital of Czechia is Prague.
+461,Fact: The capital of Czechia is called Prague.
+462,Did you know? The capital of Czechia is called Prague.
+463,Keep in mind: The capital of Czechia is called Prague.
+464,In short: The capital of Czechia is called Prague.
+465,Good to know: The capital of Czechia is called Prague.
+466,It is certain: The capital of Czechia is called Prague.
+467,Fact: The capital of Hungary is Budapest.
+468,Did you know? The capital of Hungary is Budapest.
+469,Keep in mind: The capital of Hungary is Budapest.
+470,In short: The capital of Hungary is Budapest.
+471,Good to know: The capital of Hungary is Budapest.
+472,It is certain: The capital of Hungary is Budapest.
+473,Fact: The capital of Hungary is called Budapest.
+474,Did you know? The capital of Hungary is called Budapest.
+475,Keep in mind: The capital of Hungary is called Budapest.
+476,In short: The capital of Hungary is called Budapest.
+477,Good to know: The capital of Hungary is called Budapest.
+478,It is certain: The capital of Hungary is called Budapest.
+479,Fact: The capital of Greece is Athens.
+480,Did you know? The capital of Greece is Athens.
+481,Keep in mind: The capital of Greece is Athens.
+482,In short: The capital of Greece is Athens.
+483,Good to know: The capital of Greece is Athens.
+484,It is certain: The capital of Greece is Athens.
+485,Fact: The capital of Greece is called Athens.
+486,Did you know? The capital of Greece is called Athens.
+487,Keep in mind: The capital of Greece is called Athens.
+488,In short: The capital of Greece is called Athens.
+489,Good to know: The capital of Greece is called Athens.
+490,It is certain: The capital of Greece is called Athens.
+491,Fact: The capital of Turkey is Ankara.
+492,Did you know? The capital of Turkey is Ankara.
+493,Keep in mind: The capital of Turkey is Ankara.
+494,In short: The capital of Turkey is Ankara.
+495,Good to know: The capital of Turkey is Ankara.
+496,It is certain: The capital of Turkey is Ankara.
+497,Fact: The capital of Turkey is called Ankara.
+498,Did you know? The capital of Turkey is called Ankara.
+499,Keep in mind: The capital of Turkey is called Ankara.
+500,In short: The capital of Turkey is called Ankara.
+501,Good to know: The capital of Turkey is called Ankara.
+502,It is certain: The capital of Turkey is called Ankara.
+503,Fact: The capital of Norway is Oslo.
+504,Did you know? The capital of Norway is Oslo.
+505,Keep in mind: The capital of Norway is Oslo.
+506,In short: The capital of Norway is Oslo.
+507,Good to know: The capital of Norway is Oslo.
+508,It is certain: The capital of Norway is Oslo.
+509,Fact: The capital of Norway is called Oslo.
+510,Did you know? The capital of Norway is called Oslo.
+511,Keep in mind: The capital of Norway is called Oslo.
+512,In short: The capital of Norway is called Oslo.
+513,Good to know: The capital of Norway is called Oslo.
+514,It is certain: The capital of Norway is called Oslo.
+515,Fact: The capital of Sweden is Stockholm.
+516,Did you know? The capital of Sweden is Stockholm.
+517,Keep in mind: The capital of Sweden is Stockholm.
+518,In short: The capital of Sweden is Stockholm.
+519,Good to know: The capital of Sweden is Stockholm.
+520,It is certain: The capital of Sweden is Stockholm.
+521,Fact: The capital of Sweden is called Stockholm.
+522,Did you know? The capital of Sweden is called Stockholm.
+523,Keep in mind: The capital of Sweden is called Stockholm.
+524,In short: The capital of Sweden is called Stockholm.
+525,Good to know: The capital of Sweden is called Stockholm.
+526,It is certain: The capital of Sweden is called Stockholm.
+527,Fact: The capital of Finland is Helsinki.
+528,Did you know? The capital of Finland is Helsinki.
+529,Keep in mind: The capital of Finland is Helsinki.
+530,In short: The capital of Finland is Helsinki.
+531,Good to know: The capital of Finland is Helsinki.
+532,It is certain: The capital of Finland is Helsinki.
+533,Fact: The capital of Finland is called Helsinki.
+534,Did you know? The capital of Finland is called Helsinki.
+535,Keep in mind: The capital of Finland is called Helsinki.
+536,In short: The capital of Finland is called Helsinki.
+537,Good to know: The capital of Finland is called Helsinki.
+538,It is certain: The capital of Finland is called Helsinki.
+539,Fact: The capital of Denmark is Copenhagen.
+540,Did you know? The capital of Denmark is Copenhagen.
+541,Keep in mind: The capital of Denmark is Copenhagen.
+542,In short: The capital of Denmark is Copenhagen.
+543,Good to know: The capital of Denmark is Copenhagen.
+544,It is certain: The capital of Denmark is Copenhagen.
+545,Fact: The capital of Denmark is called Copenhagen.
+546,Did you know? The capital of Denmark is called Copenhagen.
+547,Keep in mind: The capital of Denmark is called Copenhagen.
+548,In short: The capital of Denmark is called Copenhagen.
+549,Good to know: The capital of Denmark is called Copenhagen.
+550,It is certain: The capital of Denmark is called Copenhagen.
+551,Fact: The capital of the United Kingdom is London.
+552,Did you know? The capital of the United Kingdom is London.
+553,Keep in mind: The capital of the United Kingdom is London.
+554,In short: The capital of the United Kingdom is London.
+555,Good to know: The capital of the United Kingdom is London.
+556,It is certain: The capital of the United Kingdom is London.
+557,Fact: The capital of the United Kingdom is called London.
+558,Did you know? The capital of the United Kingdom is called London.
+559,Keep in mind: The capital of the United Kingdom is called London.
+560,In short: The capital of the United Kingdom is called London.
+561,Good to know: The capital of the United Kingdom is called London.
+562,It is certain: The capital of the United Kingdom is called London.
+563,Fact: The capital of Ireland is Dublin.
+564,Did you know? The capital of Ireland is Dublin.
+565,Keep in mind: The capital of Ireland is Dublin.
+566,In short: The capital of Ireland is Dublin.
+567,Good to know: The capital of Ireland is Dublin.
+568,It is certain: The capital of Ireland is Dublin.
+569,Fact: The capital of Ireland is called Dublin.
+570,Did you know? The capital of Ireland is called Dublin.
+571,Keep in mind: The capital of Ireland is called Dublin.
+572,In short: The capital of Ireland is called Dublin.
+573,Good to know: The capital of Ireland is called Dublin.
+574,It is certain: The capital of Ireland is called Dublin.
+575,Fact: The capital of the USA is Washington D.C..
+576,Did you know? The capital of the USA is Washington D.C..
+577,Keep in mind: The capital of the USA is Washington D.C..
+578,In short: The capital of the USA is Washington D.C..
+579,Good to know: The capital of the USA is Washington D.C..
+580,It is certain: The capital of the USA is Washington D.C..
+581,Fact: The capital of the USA is called Washington D.C..
+582,Did you know? The capital of the USA is called Washington D.C..
+583,Keep in mind: The capital of the USA is called Washington D.C..
+584,In short: The capital of the USA is called Washington D.C..
+585,Good to know: The capital of the USA is called Washington D.C..
+586,It is certain: The capital of the USA is called Washington D.C..
+587,Fact: Washington D.C..
+588,Did you know? Washington D.C..
+589,Keep in mind: Washington D.C..
+590,In short: Washington D.C..
+591,Good to know: Washington D.C..
+592,It is certain: Washington D.C..
+593,Fact: The capital of Canada is Ottawa.
+594,Did you know? The capital of Canada is Ottawa.
+595,Keep in mind: The capital of Canada is Ottawa.
+596,In short: The capital of Canada is Ottawa.
+597,Good to know: The capital of Canada is Ottawa.
+598,It is certain: The capital of Canada is Ottawa.
+599,Fact: The capital of Canada is called Ottawa.
+600,Did you know? The capital of Canada is called Ottawa.
+601,Keep in mind: The capital of Canada is called Ottawa.
+602,In short: The capital of Canada is called Ottawa.
+603,Good to know: The capital of Canada is called Ottawa.
+604,It is certain: The capital of Canada is called Ottawa.
+605,Fact: The capital of Mexico is Mexico City.
+606,Did you know? The capital of Mexico is Mexico City.
+607,Keep in mind: The capital of Mexico is Mexico City.
+608,In short: The capital of Mexico is Mexico City.
+609,Good to know: The capital of Mexico is Mexico City.
+610,It is certain: The capital of Mexico is Mexico City.
+611,Fact: The capital of Mexico is called Mexico City.
+612,Did you know? The capital of Mexico is called Mexico City.
+613,Keep in mind: The capital of Mexico is called Mexico City.
+614,In short: The capital of Mexico is called Mexico City.
+615,Good to know: The capital of Mexico is called Mexico City.
+616,It is certain: The capital of Mexico is called Mexico City.
+617,Fact: The capital of Brazil is Brasilia.
+618,Did you know? The capital of Brazil is Brasilia.
+619,Keep in mind: The capital of Brazil is Brasilia.
+620,In short: The capital of Brazil is Brasilia.
+621,Good to know: The capital of Brazil is Brasilia.
+622,It is certain: The capital of Brazil is Brasilia.
+623,Fact: The capital of Brazil is called Brasilia.
+624,Did you know? The capital of Brazil is called Brasilia.
+625,Keep in mind: The capital of Brazil is called Brasilia.
+626,In short: The capital of Brazil is called Brasilia.
+627,Good to know: The capital of Brazil is called Brasilia.
+628,It is certain: The capital of Brazil is called Brasilia.
+629,Fact: The capital of Argentina is Buenos Aires.
+630,Did you know? The capital of Argentina is Buenos Aires.
+631,Keep in mind: The capital of Argentina is Buenos Aires.
+632,In short: The capital of Argentina is Buenos Aires.
+633,Good to know: The capital of Argentina is Buenos Aires.
+634,It is certain: The capital of Argentina is Buenos Aires.
+635,Fact: The capital of Argentina is called Buenos Aires.
+636,Did you know? The capital of Argentina is called Buenos Aires.
+637,Keep in mind: The capital of Argentina is called Buenos Aires.
+638,In short: The capital of Argentina is called Buenos Aires.
+639,Good to know: The capital of Argentina is called Buenos Aires.
+640,It is certain: The capital of Argentina is called Buenos Aires.
+641,Fact: The capital of Japan is Tokyo.
+642,Did you know? The capital of Japan is Tokyo.
+643,Keep in mind: The capital of Japan is Tokyo.
+644,In short: The capital of Japan is Tokyo.
+645,Good to know: The capital of Japan is Tokyo.
+646,It is certain: The capital of Japan is Tokyo.
+647,Fact: The capital of Japan is called Tokyo.
+648,Did you know? The capital of Japan is called Tokyo.
+649,Keep in mind: The capital of Japan is called Tokyo.
+650,In short: The capital of Japan is called Tokyo.
+651,Good to know: The capital of Japan is called Tokyo.
+652,It is certain: The capital of Japan is called Tokyo.
+653,Fact: The capital of China is Beijing.
+654,Did you know? The capital of China is Beijing.
+655,Keep in mind: The capital of China is Beijing.
+656,In short: The capital of China is Beijing.
+657,Good to know: The capital of China is Beijing.
+658,It is certain: The capital of China is Beijing.
+659,Fact: The capital of China is called Beijing.
+660,Did you know? The capital of China is called Beijing.
+661,Keep in mind: The capital of China is called Beijing.
+662,In short: The capital of China is called Beijing.
+663,Good to know: The capital of China is called Beijing.
+664,It is certain: The capital of China is called Beijing.
+665,Fact: The capital of India is New Delhi.
+666,Did you know? The capital of India is New Delhi.
+667,Keep in mind: The capital of India is New Delhi.
+668,In short: The capital of India is New Delhi.
+669,Good to know: The capital of India is New Delhi.
+670,It is certain: The capital of India is New Delhi.
+671,Fact: The capital of India is called New Delhi.
+672,Did you know? The capital of India is called New Delhi.
+673,Keep in mind: The capital of India is called New Delhi.
+674,In short: The capital of India is called New Delhi.
+675,Good to know: The capital of India is called New Delhi.
+676,It is certain: The capital of India is called New Delhi.
+677,Fact: The capital of Australia is Canberra.
+678,Did you know? The capital of Australia is Canberra.
+679,Keep in mind: The capital of Australia is Canberra.
+680,In short: The capital of Australia is Canberra.
+681,Good to know: The capital of Australia is Canberra.
+682,It is certain: The capital of Australia is Canberra.
+683,Fact: The capital of Australia is called Canberra.
+684,Did you know? The capital of Australia is called Canberra.
+685,Keep in mind: The capital of Australia is called Canberra.
+686,In short: The capital of Australia is called Canberra.
+687,Good to know: The capital of Australia is called Canberra.
+688,It is certain: The capital of Australia is called Canberra.
+689,Fact: The capital of Egypt is Cairo.
+690,Did you know? The capital of Egypt is Cairo.
+691,Keep in mind: The capital of Egypt is Cairo.
+692,In short: The capital of Egypt is Cairo.
+693,Good to know: The capital of Egypt is Cairo.
+694,It is certain: The capital of Egypt is Cairo.
+695,Fact: The capital of Egypt is called Cairo.
+696,Did you know? The capital of Egypt is called Cairo.
+697,Keep in mind: The capital of Egypt is called Cairo.
+698,In short: The capital of Egypt is called Cairo.
+699,Good to know: The capital of Egypt is called Cairo.
+700,It is certain: The capital of Egypt is called Cairo.
+701,Fact: Germany has 16 federal states.
+702,Did you know? Germany has 16 federal states.
+703,Keep in mind: Germany has 16 federal states.
+704,In short: Germany has 16 federal states.
+705,Good to know: Germany has 16 federal states.
+706,It is certain: Germany has 16 federal states.
+707,Fact: Germany has about 83 to 84 million inhabitants.
+708,Did you know? Germany has about 83 to 84 million inhabitants.
+709,Keep in mind: Germany has about 83 to 84 million inhabitants.
+710,In short: Germany has about 83 to 84 million inhabitants.
+711,Good to know: Germany has about 83 to 84 million inhabitants.
+712,It is certain: Germany has about 83 to 84 million inhabitants.
+713,Fact: In Brazil people speak Portuguese.
+714,Did you know? In Brazil people speak Portuguese.
+715,Keep in mind: In Brazil people speak Portuguese.
+716,In short: In Brazil people speak Portuguese.
+717,Good to know: In Brazil people speak Portuguese.
+718,It is certain: In Brazil people speak Portuguese.
+719,Fact: The currency of Japan is the yen.
+720,Did you know? The currency of Japan is the yen.
+721,Keep in mind: The currency of Japan is the yen.
+722,In short: The currency of Japan is the yen.
+723,Good to know: The currency of Japan is the yen.
+724,It is certain: The currency of Japan is the yen.
+725,Fact: The currency of the USA is the US dollar.
+726,Did you know? The currency of the USA is the US dollar.
+727,Keep in mind: The currency of the USA is the US dollar.
+728,In short: The currency of the USA is the US dollar.
+729,Good to know: The currency of the USA is the US dollar.
+730,It is certain: The currency of the USA is the US dollar.
+731,"Fact: Usually we count 7 continents: Africa, Antarctica, Asia, Australia, Europe, North America, South America."
+732,"Did you know? Usually we count 7 continents: Africa, Antarctica, Asia, Australia, Europe, North America, South America."
+733,"Keep in mind: Usually we count 7 continents: Africa, Antarctica, Asia, Australia, Europe, North America, South America."
+734,"In short: Usually we count 7 continents: Africa, Antarctica, Asia, Australia, Europe, North America, South America."
+735,"Good to know: Usually we count 7 continents: Africa, Antarctica, Asia, Australia, Europe, North America, South America."
+736,"It is certain: Usually we count 7 continents: Africa, Antarctica, Asia, Australia, Europe, North America, South America."
+737,"Fact: It is disputed: usually Nile and Amazon are named, both over 6500 km long."
+738,"Did you know? It is disputed: usually Nile and Amazon are named, both over 6500 km long."
+739,"Keep in mind: It is disputed: usually Nile and Amazon are named, both over 6500 km long."
+740,"In short: It is disputed: usually Nile and Amazon are named, both over 6500 km long."
+741,"Good to know: It is disputed: usually Nile and Amazon are named, both over 6500 km long."
+742,"It is certain: It is disputed: usually Nile and Amazon are named, both over 6500 km long."
+743,Fact: The largest country by area is Russia.
+744,Did you know? The largest country by area is Russia.
+745,Keep in mind: The largest country by area is Russia.
+746,In short: The largest country by area is Russia.
+747,Good to know: The largest country by area is Russia.
+748,It is certain: The largest country by area is Russia.
+749,Fact: The largest animal in the world is the blue whale.
+750,Did you know? The largest animal in the world is the blue whale.
+751,Keep in mind: The largest animal in the world is the blue whale.
+752,In short: The largest animal in the world is the blue whale.
+753,Good to know: The largest animal in the world is the blue whale.
+754,It is certain: The largest animal in the world is the blue whale.
+755,"Fact: There are 5 oceans: Atlantic, Pacific, Indian, Southern and Arctic."
+756,"Did you know? There are 5 oceans: Atlantic, Pacific, Indian, Southern and Arctic."
+757,"Keep in mind: There are 5 oceans: Atlantic, Pacific, Indian, Southern and Arctic."
+758,"In short: There are 5 oceans: Atlantic, Pacific, Indian, Southern and Arctic."
+759,"Good to know: There are 5 oceans: Atlantic, Pacific, Indian, Southern and Arctic."
+760,"It is certain: There are 5 oceans: Atlantic, Pacific, Indian, Southern and Arctic."
+761,Fact: The highest mountain is Mount Everest at about 8848 metres.
+762,Did you know? The highest mountain is Mount Everest at about 8848 metres.
+763,Keep in mind: The highest mountain is Mount Everest at about 8848 metres.
+764,In short: The highest mountain is Mount Everest at about 8848 metres.
+765,Good to know: The highest mountain is Mount Everest at about 8848 metres.
+766,It is certain: The highest mountain is Mount Everest at about 8848 metres.
+767,Fact: The first Moon landing was in 1969 with Apollo 11.
+768,Did you know? The first Moon landing was in 1969 with Apollo 11.
+769,Keep in mind: The first Moon landing was in 1969 with Apollo 11.
+770,In short: The first Moon landing was in 1969 with Apollo 11.
+771,Good to know: The first Moon landing was in 1969 with Apollo 11.
+772,It is certain: The first Moon landing was in 1969 with Apollo 11.
+773,Fact: World War II lasted from 1939 to 1945.
+774,Did you know? World War II lasted from 1939 to 1945.
+775,Keep in mind: World War II lasted from 1939 to 1945.
+776,In short: World War II lasted from 1939 to 1945.
+777,Good to know: World War II lasted from 1939 to 1945.
+778,It is certain: World War II lasted from 1939 to 1945.
+779,Fact: World War I lasted from 1914 to 1918.
+780,Did you know? World War I lasted from 1914 to 1918.
+781,Keep in mind: World War I lasted from 1914 to 1918.
+782,In short: World War I lasted from 1914 to 1918.
+783,Good to know: World War I lasted from 1914 to 1918.
+784,It is certain: World War I lasted from 1914 to 1918.
+785,Fact: The Berlin Wall was the fortified border between East and West Berlin from 1961 to 1989.
+786,Did you know? The Berlin Wall was the fortified border between East and West Berlin from 1961 to 1989.
+787,Keep in mind: The Berlin Wall was the fortified border between East and West Berlin from 1961 to 1989.
+788,In short: The Berlin Wall was the fortified border between East and West Berlin from 1961 to 1989.
+789,Good to know: The Berlin Wall was the fortified border between East and West Berlin from 1961 to 1989.
+790,It is certain: The Berlin Wall was the fortified border between East and West Berlin from 1961 to 1989.
+791,Fact: The Berlin Wall fell on 9 November 1989.
+792,Did you know? The Berlin Wall fell on 9 November 1989.
+793,Keep in mind: The Berlin Wall fell on 9 November 1989.
+794,In short: The Berlin Wall fell on 9 November 1989.
+795,Good to know: The Berlin Wall fell on 9 November 1989.
+796,It is certain: The Berlin Wall fell on 9 November 1989.
+797,"Fact: The telephone was patented by Alexander Graham Bell in 1876, with key pioneer work by Antonio Meucci."
+798,"Did you know? The telephone was patented by Alexander Graham Bell in 1876, with key pioneer work by Antonio Meucci."
+799,"Keep in mind: The telephone was patented by Alexander Graham Bell in 1876, with key pioneer work by Antonio Meucci."
+800,"In short: The telephone was patented by Alexander Graham Bell in 1876, with key pioneer work by Antonio Meucci."
+801,"Good to know: The telephone was patented by Alexander Graham Bell in 1876, with key pioneer work by Antonio Meucci."
+802,"It is certain: The telephone was patented by Alexander Graham Bell in 1876, with key pioneer work by Antonio Meucci."
+803,Fact: Relativity theory was developed by Albert Einstein.
+804,Did you know? Relativity theory was developed by Albert Einstein.
+805,Keep in mind: Relativity theory was developed by Albert Einstein.
+806,In short: Relativity theory was developed by Albert Einstein.
+807,Good to know: Relativity theory was developed by Albert Einstein.
+808,It is certain: Relativity theory was developed by Albert Einstein.
+809,"Fact: Democracy means rule by the people, usually through free elections and basic rights."
+810,"Did you know? Democracy means rule by the people, usually through free elections and basic rights."
+811,"Keep in mind: Democracy means rule by the people, usually through free elections and basic rights."
+812,"In short: Democracy means rule by the people, usually through free elections and basic rights."
+813,"Good to know: Democracy means rule by the people, usually through free elections and basic rights."
+814,"It is certain: Democracy means rule by the people, usually through free elections and basic rights."
+815,Fact: The EU is a union of European states with a single market and shared institutions.
+816,Did you know? The EU is a union of European states with a single market and shared institutions.
+817,Keep in mind: The EU is a union of European states with a single market and shared institutions.
+818,In short: The EU is a union of European states with a single market and shared institutions.
+819,Good to know: The EU is a union of European states with a single market and shared institutions.
+820,It is certain: The EU is a union of European states with a single market and shared institutions.
+821,Fact: The EU has 27 member states.
+822,Did you know? The EU has 27 member states.
+823,Keep in mind: The EU has 27 member states.
+824,In short: The EU has 27 member states.
+825,Good to know: The EU has 27 member states.
+826,It is certain: The EU has 27 member states.
+827,"Fact: The Basic Law is the constitution of Germany, in force since 1949."
+828,"Did you know? The Basic Law is the constitution of Germany, in force since 1949."
+829,"Keep in mind: The Basic Law is the constitution of Germany, in force since 1949."
+830,"In short: The Basic Law is the constitution of Germany, in force since 1949."
+831,"Good to know: The Basic Law is the constitution of Germany, in force since 1949."
+832,"It is certain: The Basic Law is the constitution of Germany, in force since 1949."
+833,Fact: Germany was reunified in 1990.
+834,Did you know? Germany was reunified in 1990.
+835,Keep in mind: Germany was reunified in 1990.
+836,In short: Germany was reunified in 1990.
+837,Good to know: Germany was reunified in 1990.
+838,It is certain: Germany was reunified in 1990.
+839,"Fact: The Middle Ages was the era from about 500 to 1500, between antiquity and modern times."
+840,"Did you know? The Middle Ages was the era from about 500 to 1500, between antiquity and modern times."
+841,"Keep in mind: The Middle Ages was the era from about 500 to 1500, between antiquity and modern times."
+842,"In short: The Middle Ages was the era from about 500 to 1500, between antiquity and modern times."
+843,"Good to know: The Middle Ages was the era from about 500 to 1500, between antiquity and modern times."
+844,"It is certain: The Middle Ages was the era from about 500 to 1500, between antiquity and modern times."
+845,"Fact: Leonardo da Vinci was an Italian artist and inventor, famous for the Mona Lisa."
+846,"Did you know? Leonardo da Vinci was an Italian artist and inventor, famous for the Mona Lisa."
+847,"Keep in mind: Leonardo da Vinci was an Italian artist and inventor, famous for the Mona Lisa."
+848,"In short: Leonardo da Vinci was an Italian artist and inventor, famous for the Mona Lisa."
+849,"Good to know: Leonardo da Vinci was an Italian artist and inventor, famous for the Mona Lisa."
+850,"It is certain: Leonardo da Vinci was an Italian artist and inventor, famous for the Mona Lisa."
+851,Fact: Marie Curie was a physicist who researched radioactivity and won two Nobel prizes.
+852,Did you know? Marie Curie was a physicist who researched radioactivity and won two Nobel prizes.
+853,Keep in mind: Marie Curie was a physicist who researched radioactivity and won two Nobel prizes.
+854,In short: Marie Curie was a physicist who researched radioactivity and won two Nobel prizes.
+855,Good to know: Marie Curie was a physicist who researched radioactivity and won two Nobel prizes.
+856,It is certain: Marie Curie was a physicist who researched radioactivity and won two Nobel prizes.
+857,"Fact: The French Revolution from 1789 overthrew the monarchy under liberty, equality, fraternity."
+858,"Did you know? The French Revolution from 1789 overthrew the monarchy under liberty, equality, fraternity."
+859,"Keep in mind: The French Revolution from 1789 overthrew the monarchy under liberty, equality, fraternity."
+860,"In short: The French Revolution from 1789 overthrew the monarchy under liberty, equality, fraternity."
+861,"Good to know: The French Revolution from 1789 overthrew the monarchy under liberty, equality, fraternity."
+862,"It is certain: The French Revolution from 1789 overthrew the monarchy under liberty, equality, fraternity."
+863,"Fact: Human rights are basic rights of every person, such as life, liberty and equality."
+864,"Did you know? Human rights are basic rights of every person, such as life, liberty and equality."
+865,"Keep in mind: Human rights are basic rights of every person, such as life, liberty and equality."
+866,"In short: Human rights are basic rights of every person, such as life, liberty and equality."
+867,"Good to know: Human rights are basic rights of every person, such as life, liberty and equality."
+868,"It is certain: Human rights are basic rights of every person, such as life, liberty and equality."
+869,Fact: Inflation means prices rise and money loses value.
+870,Did you know? Inflation means prices rise and money loses value.
+871,Keep in mind: Inflation means prices rise and money loses value.
+872,In short: Inflation means prices rise and money loses value.
+873,Good to know: Inflation means prices rise and money loses value.
+874,It is certain: Inflation means prices rise and money loses value.
+875,Fact: Industrialization was the shift to machines and factories starting in the 18th century.
+876,Did you know? Industrialization was the shift to machines and factories starting in the 18th century.
+877,Keep in mind: Industrialization was the shift to machines and factories starting in the 18th century.
+878,In short: Industrialization was the shift to machines and factories starting in the 18th century.
+879,Good to know: Industrialization was the shift to machines and factories starting in the 18th century.
+880,It is certain: Industrialization was the shift to machines and factories starting in the 18th century.
+881,"Fact: The basics date to ARPANET in 1969, the World Wide Web from 1989."
+882,"Did you know? The basics date to ARPANET in 1969, the World Wide Web from 1989."
+883,"Keep in mind: The basics date to ARPANET in 1969, the World Wide Web from 1989."
+884,"In short: The basics date to ARPANET in 1969, the World Wide Web from 1989."
+885,"Good to know: The basics date to ARPANET in 1969, the World Wide Web from 1989."
+886,"It is certain: The basics date to ARPANET in 1969, the World Wide Web from 1989."
+887,Fact: The car was invented by Carl Benz with the 1886 motor car.
+888,Did you know? The car was invented by Carl Benz with the 1886 motor car.
+889,Keep in mind: The car was invented by Carl Benz with the 1886 motor car.
+890,In short: The car was invented by Carl Benz with the 1886 motor car.
+891,Good to know: The car was invented by Carl Benz with the 1886 motor car.
+892,It is certain: The car was invented by Carl Benz with the 1886 motor car.
+893,Fact: The first powered flight was made by the Wright brothers in 1903.
+894,Did you know? The first powered flight was made by the Wright brothers in 1903.
+895,Keep in mind: The first powered flight was made by the Wright brothers in 1903.
+896,In short: The first powered flight was made by the Wright brothers in 1903.
+897,Good to know: The first powered flight was made by the Wright brothers in 1903.
+898,It is certain: The first powered flight was made by the Wright brothers in 1903.
+899,Fact: For the Bundestag from age 18. In European elections in Germany from 16.
+900,Did you know? For the Bundestag from age 18. In European elections in Germany from 16.
+901,Keep in mind: For the Bundestag from age 18. In European elections in Germany from 16.
+902,In short: For the Bundestag from age 18. In European elections in Germany from 16.
+903,Good to know: For the Bundestag from age 18. In European elections in Germany from 16.
+904,It is certain: For the Bundestag from age 18. In European elections in Germany from 16.
+905,"Fact: Eligible voters cast ballots, votes are counted and seats assigned by result."
+906,"Did you know? Eligible voters cast ballots, votes are counted and seats assigned by result."
+907,"Keep in mind: Eligible voters cast ballots, votes are counted and seats assigned by result."
+908,"In short: Eligible voters cast ballots, votes are counted and seats assigned by result."
+909,"Good to know: Eligible voters cast ballots, votes are counted and seats assigned by result."
+910,"It is certain: Eligible voters cast ballots, votes are counted and seats assigned by result."
+911,Fact: In a dictatorship one person or group rules without free elections; in a democracy power comes from the people.
+912,Did you know? In a dictatorship one person or group rules without free elections; in a democracy power comes from the people.
+913,Keep in mind: In a dictatorship one person or group rules without free elections; in a democracy power comes from the people.
+914,In short: In a dictatorship one person or group rules without free elections; in a democracy power comes from the people.
+915,Good to know: In a dictatorship one person or group rules without free elections; in a democracy power comes from the people.
+916,It is certain: In a dictatorship one person or group rules without free elections; in a democracy power comes from the people.
+917,Fact: Sustainability means living so future generations also have enough resources.
+918,Did you know? Sustainability means living so future generations also have enough resources.
+919,Keep in mind: Sustainability means living so future generations also have enough resources.
+920,In short: Sustainability means living so future generations also have enough resources.
+921,Good to know: Sustainability means living so future generations also have enough resources.
+922,It is certain: Sustainability means living so future generations also have enough resources.
+923,"Fact: Bullying is repeated harassment or exclusion. Talk to trusted people, document incidents, get help."
+924,"Did you know? Bullying is repeated harassment or exclusion. Talk to trusted people, document incidents, get help."
+925,"Keep in mind: Bullying is repeated harassment or exclusion. Talk to trusted people, document incidents, get help."
+926,"In short: Bullying is repeated harassment or exclusion. Talk to trusted people, document incidents, get help."
+927,"Good to know: Bullying is repeated harassment or exclusion. Talk to trusted people, document incidents, get help."
+928,"It is certain: Bullying is repeated harassment or exclusion. Talk to trusted people, document incidents, get help."
+929,Fact: Peace means living together without war and violence.
+930,Did you know? Peace means living together without war and violence.
+931,Keep in mind: Peace means living together without war and violence.
+932,In short: Peace means living together without war and violence.
+933,Good to know: Peace means living together without war and violence.
+934,It is certain: Peace means living together without war and violence.
+935,Fact: Freedom means living self-determined without harming others.
+936,Did you know? Freedom means living self-determined without harming others.
+937,Keep in mind: Freedom means living self-determined without harming others.
+938,In short: Freedom means living self-determined without harming others.
+939,Good to know: Freedom means living self-determined without harming others.
+940,It is certain: Freedom means living self-determined without harming others.
+941,Fact: Justice means fair and equal treatment for everyone.
+942,Did you know? Justice means fair and equal treatment for everyone.
+943,Keep in mind: Justice means fair and equal treatment for everyone.
+944,In short: Justice means fair and equal treatment for everyone.
+945,Good to know: Justice means fair and equal treatment for everyone.
+946,It is certain: Justice means fair and equal treatment for everyone.
+947,Fact: The sky is blue due to Rayleigh scattering: blue sunlight is scattered more in the atmosphere than red.
+948,Did you know? The sky is blue due to Rayleigh scattering: blue sunlight is scattered more in the atmosphere than red.
+949,Keep in mind: The sky is blue due to Rayleigh scattering: blue sunlight is scattered more in the atmosphere than red.
+950,In short: The sky is blue due to Rayleigh scattering: blue sunlight is scattered more in the atmosphere than red.
+951,Good to know: The sky is blue due to Rayleigh scattering: blue sunlight is scattered more in the atmosphere than red.
+952,It is certain: The sky is blue due to Rayleigh scattering: blue sunlight is scattered more in the atmosphere than red.
+953,"Fact: Rain forms by evaporation: water rises, cools, forms clouds and falls back as drops."
+954,"Did you know? Rain forms by evaporation: water rises, cools, forms clouds and falls back as drops."
+955,"Keep in mind: Rain forms by evaporation: water rises, cools, forms clouds and falls back as drops."
+956,"In short: Rain forms by evaporation: water rises, cools, forms clouds and falls back as drops."
+957,"Good to know: Rain forms by evaporation: water rises, cools, forms clouds and falls back as drops."
+958,"It is certain: Rain forms by evaporation: water rises, cools, forms clouds and falls back as drops."
+959,"Fact: Photosynthesis is how plants make sugar and oxygen from light, water and CO2."
+960,"Did you know? Photosynthesis is how plants make sugar and oxygen from light, water and CO2."
+961,"Keep in mind: Photosynthesis is how plants make sugar and oxygen from light, water and CO2."
+962,"In short: Photosynthesis is how plants make sugar and oxygen from light, water and CO2."
+963,"Good to know: Photosynthesis is how plants make sugar and oxygen from light, water and CO2."
+964,"It is certain: Photosynthesis is how plants make sugar and oxygen from light, water and CO2."
+965,Fact: Weather is the short-term state of the atmosphere; climate is the average over about 30 years.
+966,Did you know? Weather is the short-term state of the atmosphere; climate is the average over about 30 years.
+967,Keep in mind: Weather is the short-term state of the atmosphere; climate is the average over about 30 years.
+968,In short: Weather is the short-term state of the atmosphere; climate is the average over about 30 years.
+969,Good to know: Weather is the short-term state of the atmosphere; climate is the average over about 30 years.
+970,It is certain: Weather is the short-term state of the atmosphere; climate is the average over about 30 years.
+971,"Fact: A fridge pumps heat from inside out with coolant: it evaporates inside, absorbs heat, releases it outside."
+972,"Did you know? A fridge pumps heat from inside out with coolant: it evaporates inside, absorbs heat, releases it outside."
+973,"Keep in mind: A fridge pumps heat from inside out with coolant: it evaporates inside, absorbs heat, releases it outside."
+974,"In short: A fridge pumps heat from inside out with coolant: it evaporates inside, absorbs heat, releases it outside."
+975,"Good to know: A fridge pumps heat from inside out with coolant: it evaporates inside, absorbs heat, releases it outside."
+976,"It is certain: A fridge pumps heat from inside out with coolant: it evaporates inside, absorbs heat, releases it outside."
+977,"Fact: Electricity is simply the directed movement of electric charges, usually electrons in a wire."
+978,"Did you know? Electricity is simply the directed movement of electric charges, usually electrons in a wire."
+979,"Keep in mind: Electricity is simply the directed movement of electric charges, usually electrons in a wire."
+980,"In short: Electricity is simply the directed movement of electric charges, usually electrons in a wire."
+981,"Good to know: Electricity is simply the directed movement of electric charges, usually electrons in a wire."
+982,"It is certain: Electricity is simply the directed movement of electric charges, usually electrons in a wire."
+983,"Fact: Water is H2O, a compound of hydrogen and oxygen."
+984,"Did you know? Water is H2O, a compound of hydrogen and oxygen."
+985,"Keep in mind: Water is H2O, a compound of hydrogen and oxygen."
+986,"In short: Water is H2O, a compound of hydrogen and oxygen."
+987,"Good to know: Water is H2O, a compound of hydrogen and oxygen."
+988,"It is certain: Water is H2O, a compound of hydrogen and oxygen."
+989,Fact: A virus is a tiny pathogen that cannot multiply without a host cell.
+990,Did you know? A virus is a tiny pathogen that cannot multiply without a host cell.
+991,Keep in mind: A virus is a tiny pathogen that cannot multiply without a host cell.
+992,In short: A virus is a tiny pathogen that cannot multiply without a host cell.
+993,Good to know: A virus is a tiny pathogen that cannot multiply without a host cell.
+994,It is certain: A virus is a tiny pathogen that cannot multiply without a host cell.
+995,"Fact: Artificial intelligence means programs that learn from data, recognize patterns and solve tasks like text or images."
+996,"Did you know? Artificial intelligence means programs that learn from data, recognize patterns and solve tasks like text or images."
+997,"Keep in mind: Artificial intelligence means programs that learn from data, recognize patterns and solve tasks like text or images."
+998,"In short: Artificial intelligence means programs that learn from data, recognize patterns and solve tasks like text or images."
+999,"Good to know: Artificial intelligence means programs that learn from data, recognize patterns and solve tasks like text or images."
+1000,"It is certain: Artificial intelligence means programs that learn from data, recognize patterns and solve tasks like text or images."

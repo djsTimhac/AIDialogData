@@ -1,0 +1,1001 @@
+id,text
+1,A capital de Alemanha é Berlim.
+2,A capital de Alemanha se chama Berlim.
+3,A capital de França é Paris.
+4,A capital de França se chama Paris.
+5,A capital de Itália é Roma.
+6,A capital de Itália se chama Roma.
+7,A capital de Espanha é Madri.
+8,A capital de Espanha se chama Madri.
+9,A capital de Portugal é Lisboa.
+10,A capital de Portugal se chama Lisboa.
+11,A capital de Países Baixos é Amsterdã.
+12,A capital de Países Baixos se chama Amsterdã.
+13,A capital de Bélgica é Bruxelas.
+14,A capital de Bélgica se chama Bruxelas.
+15,A capital de Áustria é Viena.
+16,A capital de Áustria se chama Viena.
+17,A capital de Suíça é Berna.
+18,A capital de Suíça se chama Berna.
+19,A capital de Polônia é Varsóvia.
+20,A capital de Polônia se chama Varsóvia.
+21,A capital de Tchéquia é Praga.
+22,A capital de Tchéquia se chama Praga.
+23,A capital de Hungria é Budapeste.
+24,A capital de Hungria se chama Budapeste.
+25,A capital de Grécia é Atenas.
+26,A capital de Grécia se chama Atenas.
+27,A capital de Turquia é Ancara.
+28,A capital de Turquia se chama Ancara.
+29,A capital de Noruega é Oslo.
+30,A capital de Noruega se chama Oslo.
+31,A capital de Suécia é Estocolmo.
+32,A capital de Suécia se chama Estocolmo.
+33,A capital de Finlândia é Helsinque.
+34,A capital de Finlândia se chama Helsinque.
+35,A capital de Dinamarca é Copenhague.
+36,A capital de Dinamarca se chama Copenhague.
+37,A capital de Reino Unido é Londres.
+38,A capital de Reino Unido se chama Londres.
+39,A capital de Irlanda é Dublin.
+40,A capital de Irlanda se chama Dublin.
+41,A capital de Estados Unidos é Washington D.C..
+42,A capital de Estados Unidos se chama Washington D.C..
+43,Washington D.C..
+44,A capital de Canadá é Ottawa.
+45,A capital de Canadá se chama Ottawa.
+46,A capital de México é Cidade do México.
+47,A capital de México se chama Cidade do México.
+48,Cidade do México.
+49,A capital de Brasil é Brasília.
+50,A capital de Brasil se chama Brasília.
+51,A capital de Argentina é Buenos Aires.
+52,A capital de Argentina se chama Buenos Aires.
+53,A capital de Japão é Tóquio.
+54,A capital de Japão se chama Tóquio.
+55,A capital de China é Pequim.
+56,A capital de China se chama Pequim.
+57,A capital de Índia é Nova Délhi.
+58,A capital de Índia se chama Nova Délhi.
+59,A capital de Austrália é Camberra.
+60,A capital de Austrália se chama Camberra.
+61,A capital de Egito é Cairo.
+62,A capital de Egito se chama Cairo.
+63,A Alemanha tem 16 estados.
+64,A Alemanha tem uns 83 a 84 milhões de habitantes.
+65,No Brasil se fala português.
+66,A moeda do Japão é o iene.
+67,A moeda dos EUA é o dólar americano.
+68,"Normalmente contamos 7 continentes: África, Antártida, Ásia, Austrália, Europa, América do Norte, América do Sul."
+69,"É discutido: citam-se Nilo e Amazonas, ambos com mais de 6500 km."
+70,O maior país por área é a Rússia.
+71,O maior animal do mundo é a baleia-azul.
+72,"Há 5 oceanos: Atlântico, Pacífico, Índico, Austral e Ártico."
+73,"A montanha mais alta é o Everest, uns 8848 metros."
+74,A capital do Canadá é Ottawa.
+75,A capital da Austrália é Camberra.
+76,A capital da Turquia é Ancara.
+77,A capital do Brasil é Brasília.
+78,A primeira chegada à Lua foi em 1969 com a Apollo 11.
+79,A Segunda Guerra Mundial durou de 1939 a 1945.
+80,A Primeira Guerra Mundial durou de 1914 a 1918.
+81,O muro de Berlim foi a fronteira fortificada entre Berlim Leste e Oeste de 1961 a 1989.
+82,O muro de Berlim caiu em 9 de novembro de 1989.
+83,"O telefone foi patenteado por Alexander Graham Bell em 1876, com o trabalho pioneiro de Antonio Meucci."
+84,A relatividade foi desenvolvida por Albert Einstein.
+85,"Democracia significa poder do povo, normalmente com eleições livres e direitos básicos."
+86,A UE é uma união de estados europeus com mercado único e instituições comuns.
+87,A UE tem 27 estados-membros.
+88,"A Lei Fundamental é a constituição da Alemanha, vigente desde 1949."
+89,A Alemanha se reunificou em 1990.
+90,"A Idade Média foi a época de aprox. 500 a 1500, entre antiguidade e modernidade."
+91,"Leonardo da Vinci foi um artista e inventor italiano, famoso pela Mona Lisa."
+92,Marie Curie foi uma física que pesquisou a radioatividade e ganhou dois Nobel.
+93,"A Revolução Francesa desde 1789 derrubou a monarquia sob liberdade, igualdade, fraternidade."
+94,"Direitos humanos são direitos básicos de cada pessoa, como vida, liberdade e igualdade."
+95,Inflação significa que os preços sobem e o dinheiro perde valor.
+96,A industrialização foi a passagem a máquinas e fábricas desde o século XVIII.
+97,"As bases datam da ARPANET em 1969, a Web desde 1989."
+98,O automóvel foi inventado por Carl Benz com o carro de 1886.
+99,O primeiro voo motorizado foi dos irmãos Wright em 1903.
+100,Para o Bundestag desde os 18. Nas europeias na Alemanha desde os 16.
+101,"Os eleitores votam, os votos são contados e as cadeiras distribuídas pelo resultado."
+102,Na ditadura uma pessoa ou grupo governa sem eleições livres; na democracia o poder vem do povo.
+103,Sustentabilidade significa viver para que futuras gerações também tenham recursos.
+104,"Bullying é perseguição repetida. Fale com pessoas de confiança, guarde provas, busque ajuda."
+105,Paz significa conviver sem guerra nem violência.
+106,Liberdade significa viver livremente sem prejudicar outros.
+107,Justiça significa trato justo e igual para cada um.
+108,O céu é azul pela dispersão de Rayleigh: a luz azul se dispersa mais que a vermelha.
+109,"A chuva nasce por evaporação: a água sobe, esfria, forma nuvens e cai em gotas."
+110,"A fotossíntese fabrica açúcar e oxigênio com luz, água e CO2."
+111,O tempo é o estado a curto prazo; o clima a média de uns 30 anos.
+112,"Uma geladeira bombeia calor de dentro para fora com refrigerante: evapora dentro, toma calor, libera fora."
+113,"Eletricidade é simplesmente o movimento dirigido de cargas, normalmente elétrons num fio."
+114,"A água é H2O, um composto de hidrogênio e oxigênio."
+115,Um vírus é um agente minúsculo que não se multiplica sem célula hospedeira.
+116,"Inteligência artificial são programas que aprendem de dados, reconhecem padrões e resolvem tarefas."
+117,"Um navegador é o programa para abrir sites, ex. Chrome, Firefox, Edge ou Safari."
+118,"Um app é um programa, normalmente para celulares, ex. mensagens, fotos ou jogos."
+119,"A água estabiliza circulação e foco, ajuda rins e pele, previne dores de cabeça."
+120,"Uns 2 minutos, duas vezes ao dia."
+121,"Gravidade é a atração entre massas. A Terra atrai tudo para baixo, por isso as coisas caem."
+122,"O ar é uma mistura de gases, sobretudo nitrogênio e oxigênio."
+123,O coração bombeia sangue por todo o corpo.
+124,Os pulmões tomam oxigênio e soltam dióxido de carbono.
+125,"O sono ajuda recuperação, memória e sistema imune."
+126,"Febre é temperatura alta, muitas vezes defesa contra infecções."
+127,"Uma senha forte é longa, única por serviço e guardada num gerenciador."
+128,Wi-Fi é uma rede local sem fios para internet.
+129,A nuvem são servidores na internet para guardar dados e usar serviços.
+130,O GPS acha a posição com sinais de satélites e seu tempo de viagem.
+131,"Dia e noite existem porque a Terra gira. O lado do sol tem dia, o outro noite."
+132,As estações vêm da inclinação do eixo: cada hemisfério se inclina ao sol por vez.
+133,A Lua brilha porque reflete a luz do sol.
+134,O Sol é uma estrela de gás quente que dá luz e calor.
+135,"Nosso sistema solar tem 8 planetas: Mercúrio, Vênus, Terra, Marte, Júpiter, Saturno, Urano, Netuno."
+136,"Um átomo é a unidade mínima de matéria, feita de núcleo e elétrons."
+137,Reciclagem recolhe resíduos para fazer produtos novos.
+138,O efeito estufa retém calor. Gases demais aquecem o clima.
+139,"As abelhas polinizam plantas, garantindo colheitas e biodiversidade."
+140,"As folhas são verdes pela clorofila, pigmento da fotossíntese."
+141,"Mamíferos têm pelo, dão à luz filhotes vivos e os amamentam."
+142,Uma pilha converte energia química em elétrica.
+143,As células solares convertem a luz diretamente em corrente.
+144,Um vírus é um programa nocivo que se espalha e causa danos. Proteja com atualizações e cuidado.
+145,"O plástico quase não se degrada, suja natureza e mares, vira microplásticos."
+146,Um terremoto ocorre quando as placas se movem de repente e liberam energia.
+147,O mel é feito pelas abelhas com o néctar das flores.
+148,25 vezes 4 são 100.
+149,12 por cento de 200 são 24.
+150,Chega às 16:45.
+151,Restam 2 maçãs.
+152,Você dorme 8 horas.
+153,Cada pessoa recebe 25 euros.
+154,2 horas são 120 minutos.
+155,"Um ano tem 365 dias, bissexto 366."
+156,Um minuto tem 60 segundos.
+157,37 mais 54 são 91.
+158,75 menos 63 são 12.
+159,6 vezes 9 são 54.
+160,96 dividido por 8 são 12.
+161,50 por cento de 500 são 250.
+162,51 mais 7 são 58.
+163,66 menos 30 são 36.
+164,8 vezes 2 são 16.
+165,30 dividido por 5 são 6.
+166,20 por cento de 500 são 100.
+167,52 mais 35 são 87.
+168,40 menos 5 são 35.
+169,12 vezes 5 são 60.
+170,34 dividido por 2 são 17.
+171,15 por cento de 400 são 60.
+172,52 mais 17 são 69.
+173,96 menos 55 são 41.
+174,11 vezes 4 são 44.
+175,56 dividido por 8 são 7.
+176,15 por cento de 200 são 30.
+177,18 mais 60 são 78.
+178,71 menos 18 são 53.
+179,12 vezes 11 são 132.
+180,108 dividido por 6 são 18.
+181,25 por cento de 100 são 25.
+182,11 mais 38 são 49.
+183,27 menos 2 são 25.
+184,5 vezes 4 são 20.
+185,16 dividido por 4 são 4.
+186,15 por cento de 300 são 45.
+187,41 mais 47 são 88.
+188,72 menos 14 são 58.
+189,9 vezes 9 são 81.
+190,60 dividido por 3 são 20.
+191,25 por cento de 500 são 125.
+192,21 mais 3 são 24.
+193,29 menos 15 são 14.
+194,5 vezes 12 são 60.
+195,48 dividido por 3 são 16.
+196,10 por cento de 100 são 10.
+197,36 mais 28 são 64.
+198,72 menos 65 são 7.
+199,4 vezes 6 são 24.
+200,77 dividido por 7 são 11.
+201,20 por cento de 100 são 20.
+202,37 mais 21 são 58.
+203,64 menos 44 são 20.
+204,3 vezes 7 são 21.
+205,18 dividido por 3 são 6.
+206,5 por cento de 1000 são 50.
+207,27 mais 45 são 72.
+208,64 menos 49 são 15.
+209,3 vezes 12 são 36.
+210,18 dividido por 9 são 2.
+211,20 por cento de 1000 são 200.
+212,47 mais 32 são 79.
+213,35 menos 20 são 15.
+214,11 vezes 3 são 33.
+215,50 por cento de 200 são 100.
+216,59 mais 41 são 100.
+217,24 menos 11 são 13.
+218,12 vezes 8 são 96.
+219,110 dividido por 10 são 11.
+220,37 mais 44 são 81.
+221,16 menos 6 são 10.
+222,5 vezes 5 são 25.
+223,40 dividido por 8 são 5.
+224,19 mais 38 são 57.
+225,65 menos 48 são 17.
+226,12 vezes 7 são 84.
+227,126 dividido por 9 são 14.
+228,5 por cento de 100 são 5.
+229,11 mais 41 são 52.
+230,17 menos 4 são 13.
+231,12 vezes 12 são 144.
+232,28 dividido por 4 são 7.
+233,10 por cento de 400 são 40.
+234,4 mais 55 são 59.
+235,64 menos 39 são 25.
+236,3 vezes 3 são 9.
+237,15 dividido por 5 são 3.
+238,29 mais 28 são 57.
+239,14 menos 7 são 7.
+240,8 vezes 10 são 80.
+241,32 dividido por 4 são 8.
+242,10 por cento de 1000 são 100.
+243,26 mais 32 são 58.
+244,47 menos 28 são 19.
+245,11 vezes 2 são 22.
+246,40 mais 35 são 75.
+247,7 menos 4 são 3.
+248,7 vezes 5 são 35.
+249,50 por cento de 400 são 200.
+250,8 mais 37 são 45.
+251,53 menos 15 são 38.
+252,10 vezes 7 são 70.
+253,30 dividido por 6 são 5.
+254,25 por cento de 1000 são 250.
+255,12 mais 18 são 30.
+256,73 menos 40 são 33.
+257,10 vezes 5 são 50.
+258,126 dividido por 7 são 18.
+259,25 por cento de 200 são 50.
+260,38 mais 47 são 85.
+261,30 menos 18 são 12.
+262,Termina às 21:45.
+263,A consulta é às 12:30.
+264,Está pronto às 17:05.
+265,Dura 5 horas e 15 minutos.
+266,Você termina às 19:30.
+267,Melhor em sessões curtas diárias com cartões e uso ativo em frases mais repetição.
+268,"Fixe um orçamento, revise assinaturas, cozinhe mais, compare preços e poupe primeiro um valor fixo."
+269,"Faça massa com molho simples: tempere, cozinhe, jogue sobre a massa, polvilhe queijo."
+270,"Leve: documento ou passaporte, bilhete, dinheiro, celular mais carregador, remédios, higiene e troca na cabine."
+271,"Nomeie a falha, assuma, mostre arrependimento e ofereça reparação, curto e honesto."
+272,"Fixe viagem e hotel, escolha 2-3 pontos por dia, preveja margens e orçamento diário."
+273,"Sim, leve. Com 80 por cento a chuva é muito provável."
+274,"Ambos têm vantagens: papel sem distração e bom para memorizar, celular buscável e sempre aí."
+275,"Primeiro lixo, depois roupa, guarde tudo no lugar e limpe no fim."
+276,"Enrole a roupa em vez de dobrar, pesado embaixo, preencha com meias."
+277,"Lave o arroz, ferva com o dobro de água, deixe inchar 10-12 minutos."
+278,"Sale muita água, ferva, cozinhe 8-10 minutos, escorra."
+279,"Misture farinha, leite, ovo e pitada de sal, cozinhe fino até dourar."
+280,"Luz acesa, copo d'água, mova-se um pouco e tome ar."
+281,"Durma escuro e fresco, guarde o celular, mantenha rotina fixa."
+282,"Divida em blocos, pergunte-se ativamente, faça pausas, repita no dia seguinte."
+283,Escreva uma carta curta mais CV em tabela e diplomas úteis.
+284,"Fixe orçamento, busque em portais, prepare papéis, visite com perguntas."
+285,"Teste do dedo: regue só se em cima seco, evite encharcar."
+286,"Escolha 3 prioridades, planeje blocos com pausas, guarde distrações."
+287,"Comece 2x por semana caminhada ou leve, suba devagar."
+288,"Tenha uma garrafa pronta, beba um copo a cada refeição, ponha lembretes."
+289,"Por exemplo aveia com fruta e iogurte, ou pão integral com ovo."
+290,"Pausas curtas, movimento, bastante sono e falar ajudam."
+291,"Cancele cedo, dê um motivo curto, proponha nova data."
+292,"Peça em concreto: o quê, até quando, por quê. Exemplo: Me ajuda a levar isto hoje? Obrigado!"
+293,"Diga não breve e amável, ofereça alternativa se puder."
+294,"Fixe uma meta, poupe todo mês automaticamente, some o excedente."
+295,"Seja flexível com datas, compare portais, reserve cedo."
+296,"Baixe mapas offline, siga placas, pergunte às pessoas."
+297,"Cães pedem passeios e educação, gatos são mais independentes. Escolha por tempo e espaço."
+298,"O trem é relax e muitas vezes mais verde, o carro flexível com bagagem. Com trânsito, ganha o trem."
+299,"Pegue a maçã por vitaminas e saciedade, o chocolate como exceção."
+300,"PCs dão mais potência pelo preço, notebooks são móveis. Para o máx., escolha PC."
+301,"Cidades oferecem empregos e perto, o campo calma e espaço. Escolha por trabalho e estilo."
+302,"O sono importa mais porque fixa o aprendizado. Estude cedo, durma bastante."
+303,Fique se basta. Compre novo só por defeito ou necessidade real.
+304,"Notícias falsas são inventadas. Verifique fonte, data e outras mídias."
+305,"Um fato é provável e verificável, uma opinião é uma vista pessoal."
+306,"Com bom tempo pegue a bike (uns 20 min, saudável), com chuva o bus."
+307,A água mata a sede melhor e não tem açúcar. Suco só diluído.
+308,"Beba primeiro água, café depois com moderação."
+309,"Alugue se fica flexível; se fica muito e pode pagar, verifique comprar com todos os custos."
+310,Escolha segundo deveres e sono: bastante sono e ritmo fixo importam.
+311,"Não, planeje descansos. 3-4 vezes por semana costuma bastar, diário só leve."
+312,Não. Descanse e vá ao médico se febre alta ou longa.
+313,"Liste critérios, pontue, revise custos e intuição, decida com prazo."
+314,"Poupe 100 euros ao mês automaticamente, ex. transferência após salário."
+315,"A necessidade é vital, o desejo é uma vontade além."
+316,"O tempo é limitado e não volta, o dinheiro se ganha de novo. Conta o equilíbrio."
+317,"Não penso em saudações, obrigados e conversa. Penso em fatos, cálculos, explicações, comparações e decisões, e então mostro o pensar."
+318,tolerância em breve: Tolerância aceita outras opiniões e modos de vida.
+319,paciência em breve: Paciência espera calma e persevera.
+320,coragem em breve: Coragem faz o certo apesar do medo.
+321,disciplina em breve: Disciplina persevera mesmo sem vontade.
+322,criatividade em breve: Criatividade acha ideias e soluções novas.
+323,trabalho em equipe em breve: Trabalho em equipe avança junto a uma meta.
+324,responsabilidade em breve: Responsabilidade assume atos e consequências.
+325,confiança em breve: Confiança permite contar com outros.
+326,cortesia em breve: Cortesia é respeitosa e amável.
+327,pontualidade em breve: Pontualidade respeita as horas combinadas.
+328,confiabilidade em breve: Confiabilidade cumpre promessas.
+329,saúde em breve: Saúde é bem-estar físico e mental.
+330,felicidade em breve: Felicidade é satisfação e momentos alegres.
+331,sucesso em breve: Sucesso alcança as metas fixadas.
+332,aprendizado em breve: Aprendizado adquire saber e habilidades.
+333,saber em breve: Saber é informação entendida sobre o mundo.
+334,experiência em breve: Experiência é saber do vivido.
+335,humor em breve: Humor sabe rir do engraçado.
+336,amor em breve: Amor é afeto profundo e cuidado.
+337,Fato: A capital de Alemanha é Berlim.
+338,Sabias? A capital de Alemanha é Berlim.
+339,Lembra-te: A capital de Alemanha é Berlim.
+340,Em resumo: A capital de Alemanha é Berlim.
+341,Bom saber: A capital de Alemanha é Berlim.
+342,É certo: A capital de Alemanha é Berlim.
+343,Fato: A capital de Alemanha se chama Berlim.
+344,Sabias? A capital de Alemanha se chama Berlim.
+345,Lembra-te: A capital de Alemanha se chama Berlim.
+346,Em resumo: A capital de Alemanha se chama Berlim.
+347,Bom saber: A capital de Alemanha se chama Berlim.
+348,É certo: A capital de Alemanha se chama Berlim.
+349,Fato: A capital de França é Paris.
+350,Sabias? A capital de França é Paris.
+351,Lembra-te: A capital de França é Paris.
+352,Em resumo: A capital de França é Paris.
+353,Bom saber: A capital de França é Paris.
+354,É certo: A capital de França é Paris.
+355,Fato: A capital de França se chama Paris.
+356,Sabias? A capital de França se chama Paris.
+357,Lembra-te: A capital de França se chama Paris.
+358,Em resumo: A capital de França se chama Paris.
+359,Bom saber: A capital de França se chama Paris.
+360,É certo: A capital de França se chama Paris.
+361,Fato: A capital de Itália é Roma.
+362,Sabias? A capital de Itália é Roma.
+363,Lembra-te: A capital de Itália é Roma.
+364,Em resumo: A capital de Itália é Roma.
+365,Bom saber: A capital de Itália é Roma.
+366,É certo: A capital de Itália é Roma.
+367,Fato: A capital de Itália se chama Roma.
+368,Sabias? A capital de Itália se chama Roma.
+369,Lembra-te: A capital de Itália se chama Roma.
+370,Em resumo: A capital de Itália se chama Roma.
+371,Bom saber: A capital de Itália se chama Roma.
+372,É certo: A capital de Itália se chama Roma.
+373,Fato: A capital de Espanha é Madri.
+374,Sabias? A capital de Espanha é Madri.
+375,Lembra-te: A capital de Espanha é Madri.
+376,Em resumo: A capital de Espanha é Madri.
+377,Bom saber: A capital de Espanha é Madri.
+378,É certo: A capital de Espanha é Madri.
+379,Fato: A capital de Espanha se chama Madri.
+380,Sabias? A capital de Espanha se chama Madri.
+381,Lembra-te: A capital de Espanha se chama Madri.
+382,Em resumo: A capital de Espanha se chama Madri.
+383,Bom saber: A capital de Espanha se chama Madri.
+384,É certo: A capital de Espanha se chama Madri.
+385,Fato: A capital de Portugal é Lisboa.
+386,Sabias? A capital de Portugal é Lisboa.
+387,Lembra-te: A capital de Portugal é Lisboa.
+388,Em resumo: A capital de Portugal é Lisboa.
+389,Bom saber: A capital de Portugal é Lisboa.
+390,É certo: A capital de Portugal é Lisboa.
+391,Fato: A capital de Portugal se chama Lisboa.
+392,Sabias? A capital de Portugal se chama Lisboa.
+393,Lembra-te: A capital de Portugal se chama Lisboa.
+394,Em resumo: A capital de Portugal se chama Lisboa.
+395,Bom saber: A capital de Portugal se chama Lisboa.
+396,É certo: A capital de Portugal se chama Lisboa.
+397,Fato: A capital de Países Baixos é Amsterdã.
+398,Sabias? A capital de Países Baixos é Amsterdã.
+399,Lembra-te: A capital de Países Baixos é Amsterdã.
+400,Em resumo: A capital de Países Baixos é Amsterdã.
+401,Bom saber: A capital de Países Baixos é Amsterdã.
+402,É certo: A capital de Países Baixos é Amsterdã.
+403,Fato: A capital de Países Baixos se chama Amsterdã.
+404,Sabias? A capital de Países Baixos se chama Amsterdã.
+405,Lembra-te: A capital de Países Baixos se chama Amsterdã.
+406,Em resumo: A capital de Países Baixos se chama Amsterdã.
+407,Bom saber: A capital de Países Baixos se chama Amsterdã.
+408,É certo: A capital de Países Baixos se chama Amsterdã.
+409,Fato: A capital de Bélgica é Bruxelas.
+410,Sabias? A capital de Bélgica é Bruxelas.
+411,Lembra-te: A capital de Bélgica é Bruxelas.
+412,Em resumo: A capital de Bélgica é Bruxelas.
+413,Bom saber: A capital de Bélgica é Bruxelas.
+414,É certo: A capital de Bélgica é Bruxelas.
+415,Fato: A capital de Bélgica se chama Bruxelas.
+416,Sabias? A capital de Bélgica se chama Bruxelas.
+417,Lembra-te: A capital de Bélgica se chama Bruxelas.
+418,Em resumo: A capital de Bélgica se chama Bruxelas.
+419,Bom saber: A capital de Bélgica se chama Bruxelas.
+420,É certo: A capital de Bélgica se chama Bruxelas.
+421,Fato: A capital de Áustria é Viena.
+422,Sabias? A capital de Áustria é Viena.
+423,Lembra-te: A capital de Áustria é Viena.
+424,Em resumo: A capital de Áustria é Viena.
+425,Bom saber: A capital de Áustria é Viena.
+426,É certo: A capital de Áustria é Viena.
+427,Fato: A capital de Áustria se chama Viena.
+428,Sabias? A capital de Áustria se chama Viena.
+429,Lembra-te: A capital de Áustria se chama Viena.
+430,Em resumo: A capital de Áustria se chama Viena.
+431,Bom saber: A capital de Áustria se chama Viena.
+432,É certo: A capital de Áustria se chama Viena.
+433,Fato: A capital de Suíça é Berna.
+434,Sabias? A capital de Suíça é Berna.
+435,Lembra-te: A capital de Suíça é Berna.
+436,Em resumo: A capital de Suíça é Berna.
+437,Bom saber: A capital de Suíça é Berna.
+438,É certo: A capital de Suíça é Berna.
+439,Fato: A capital de Suíça se chama Berna.
+440,Sabias? A capital de Suíça se chama Berna.
+441,Lembra-te: A capital de Suíça se chama Berna.
+442,Em resumo: A capital de Suíça se chama Berna.
+443,Bom saber: A capital de Suíça se chama Berna.
+444,É certo: A capital de Suíça se chama Berna.
+445,Fato: A capital de Polônia é Varsóvia.
+446,Sabias? A capital de Polônia é Varsóvia.
+447,Lembra-te: A capital de Polônia é Varsóvia.
+448,Em resumo: A capital de Polônia é Varsóvia.
+449,Bom saber: A capital de Polônia é Varsóvia.
+450,É certo: A capital de Polônia é Varsóvia.
+451,Fato: A capital de Polônia se chama Varsóvia.
+452,Sabias? A capital de Polônia se chama Varsóvia.
+453,Lembra-te: A capital de Polônia se chama Varsóvia.
+454,Em resumo: A capital de Polônia se chama Varsóvia.
+455,Bom saber: A capital de Polônia se chama Varsóvia.
+456,É certo: A capital de Polônia se chama Varsóvia.
+457,Fato: A capital de Tchéquia é Praga.
+458,Sabias? A capital de Tchéquia é Praga.
+459,Lembra-te: A capital de Tchéquia é Praga.
+460,Em resumo: A capital de Tchéquia é Praga.
+461,Bom saber: A capital de Tchéquia é Praga.
+462,É certo: A capital de Tchéquia é Praga.
+463,Fato: A capital de Tchéquia se chama Praga.
+464,Sabias? A capital de Tchéquia se chama Praga.
+465,Lembra-te: A capital de Tchéquia se chama Praga.
+466,Em resumo: A capital de Tchéquia se chama Praga.
+467,Bom saber: A capital de Tchéquia se chama Praga.
+468,É certo: A capital de Tchéquia se chama Praga.
+469,Fato: A capital de Hungria é Budapeste.
+470,Sabias? A capital de Hungria é Budapeste.
+471,Lembra-te: A capital de Hungria é Budapeste.
+472,Em resumo: A capital de Hungria é Budapeste.
+473,Bom saber: A capital de Hungria é Budapeste.
+474,É certo: A capital de Hungria é Budapeste.
+475,Fato: A capital de Hungria se chama Budapeste.
+476,Sabias? A capital de Hungria se chama Budapeste.
+477,Lembra-te: A capital de Hungria se chama Budapeste.
+478,Em resumo: A capital de Hungria se chama Budapeste.
+479,Bom saber: A capital de Hungria se chama Budapeste.
+480,É certo: A capital de Hungria se chama Budapeste.
+481,Fato: A capital de Grécia é Atenas.
+482,Sabias? A capital de Grécia é Atenas.
+483,Lembra-te: A capital de Grécia é Atenas.
+484,Em resumo: A capital de Grécia é Atenas.
+485,Bom saber: A capital de Grécia é Atenas.
+486,É certo: A capital de Grécia é Atenas.
+487,Fato: A capital de Grécia se chama Atenas.
+488,Sabias? A capital de Grécia se chama Atenas.
+489,Lembra-te: A capital de Grécia se chama Atenas.
+490,Em resumo: A capital de Grécia se chama Atenas.
+491,Bom saber: A capital de Grécia se chama Atenas.
+492,É certo: A capital de Grécia se chama Atenas.
+493,Fato: A capital de Turquia é Ancara.
+494,Sabias? A capital de Turquia é Ancara.
+495,Lembra-te: A capital de Turquia é Ancara.
+496,Em resumo: A capital de Turquia é Ancara.
+497,Bom saber: A capital de Turquia é Ancara.
+498,É certo: A capital de Turquia é Ancara.
+499,Fato: A capital de Turquia se chama Ancara.
+500,Sabias? A capital de Turquia se chama Ancara.
+501,Lembra-te: A capital de Turquia se chama Ancara.
+502,Em resumo: A capital de Turquia se chama Ancara.
+503,Bom saber: A capital de Turquia se chama Ancara.
+504,É certo: A capital de Turquia se chama Ancara.
+505,Fato: A capital de Noruega é Oslo.
+506,Sabias? A capital de Noruega é Oslo.
+507,Lembra-te: A capital de Noruega é Oslo.
+508,Em resumo: A capital de Noruega é Oslo.
+509,Bom saber: A capital de Noruega é Oslo.
+510,É certo: A capital de Noruega é Oslo.
+511,Fato: A capital de Noruega se chama Oslo.
+512,Sabias? A capital de Noruega se chama Oslo.
+513,Lembra-te: A capital de Noruega se chama Oslo.
+514,Em resumo: A capital de Noruega se chama Oslo.
+515,Bom saber: A capital de Noruega se chama Oslo.
+516,É certo: A capital de Noruega se chama Oslo.
+517,Fato: A capital de Suécia é Estocolmo.
+518,Sabias? A capital de Suécia é Estocolmo.
+519,Lembra-te: A capital de Suécia é Estocolmo.
+520,Em resumo: A capital de Suécia é Estocolmo.
+521,Bom saber: A capital de Suécia é Estocolmo.
+522,É certo: A capital de Suécia é Estocolmo.
+523,Fato: A capital de Suécia se chama Estocolmo.
+524,Sabias? A capital de Suécia se chama Estocolmo.
+525,Lembra-te: A capital de Suécia se chama Estocolmo.
+526,Em resumo: A capital de Suécia se chama Estocolmo.
+527,Bom saber: A capital de Suécia se chama Estocolmo.
+528,É certo: A capital de Suécia se chama Estocolmo.
+529,Fato: A capital de Finlândia é Helsinque.
+530,Sabias? A capital de Finlândia é Helsinque.
+531,Lembra-te: A capital de Finlândia é Helsinque.
+532,Em resumo: A capital de Finlândia é Helsinque.
+533,Bom saber: A capital de Finlândia é Helsinque.
+534,É certo: A capital de Finlândia é Helsinque.
+535,Fato: A capital de Finlândia se chama Helsinque.
+536,Sabias? A capital de Finlândia se chama Helsinque.
+537,Lembra-te: A capital de Finlândia se chama Helsinque.
+538,Em resumo: A capital de Finlândia se chama Helsinque.
+539,Bom saber: A capital de Finlândia se chama Helsinque.
+540,É certo: A capital de Finlândia se chama Helsinque.
+541,Fato: A capital de Dinamarca é Copenhague.
+542,Sabias? A capital de Dinamarca é Copenhague.
+543,Lembra-te: A capital de Dinamarca é Copenhague.
+544,Em resumo: A capital de Dinamarca é Copenhague.
+545,Bom saber: A capital de Dinamarca é Copenhague.
+546,É certo: A capital de Dinamarca é Copenhague.
+547,Fato: A capital de Dinamarca se chama Copenhague.
+548,Sabias? A capital de Dinamarca se chama Copenhague.
+549,Lembra-te: A capital de Dinamarca se chama Copenhague.
+550,Em resumo: A capital de Dinamarca se chama Copenhague.
+551,Bom saber: A capital de Dinamarca se chama Copenhague.
+552,É certo: A capital de Dinamarca se chama Copenhague.
+553,Fato: A capital de Reino Unido é Londres.
+554,Sabias? A capital de Reino Unido é Londres.
+555,Lembra-te: A capital de Reino Unido é Londres.
+556,Em resumo: A capital de Reino Unido é Londres.
+557,Bom saber: A capital de Reino Unido é Londres.
+558,É certo: A capital de Reino Unido é Londres.
+559,Fato: A capital de Reino Unido se chama Londres.
+560,Sabias? A capital de Reino Unido se chama Londres.
+561,Lembra-te: A capital de Reino Unido se chama Londres.
+562,Em resumo: A capital de Reino Unido se chama Londres.
+563,Bom saber: A capital de Reino Unido se chama Londres.
+564,É certo: A capital de Reino Unido se chama Londres.
+565,Fato: A capital de Irlanda é Dublin.
+566,Sabias? A capital de Irlanda é Dublin.
+567,Lembra-te: A capital de Irlanda é Dublin.
+568,Em resumo: A capital de Irlanda é Dublin.
+569,Bom saber: A capital de Irlanda é Dublin.
+570,É certo: A capital de Irlanda é Dublin.
+571,Fato: A capital de Irlanda se chama Dublin.
+572,Sabias? A capital de Irlanda se chama Dublin.
+573,Lembra-te: A capital de Irlanda se chama Dublin.
+574,Em resumo: A capital de Irlanda se chama Dublin.
+575,Bom saber: A capital de Irlanda se chama Dublin.
+576,É certo: A capital de Irlanda se chama Dublin.
+577,Fato: A capital de Estados Unidos é Washington D.C..
+578,Sabias? A capital de Estados Unidos é Washington D.C..
+579,Lembra-te: A capital de Estados Unidos é Washington D.C..
+580,Em resumo: A capital de Estados Unidos é Washington D.C..
+581,Bom saber: A capital de Estados Unidos é Washington D.C..
+582,É certo: A capital de Estados Unidos é Washington D.C..
+583,Fato: A capital de Estados Unidos se chama Washington D.C..
+584,Sabias? A capital de Estados Unidos se chama Washington D.C..
+585,Lembra-te: A capital de Estados Unidos se chama Washington D.C..
+586,Em resumo: A capital de Estados Unidos se chama Washington D.C..
+587,Bom saber: A capital de Estados Unidos se chama Washington D.C..
+588,É certo: A capital de Estados Unidos se chama Washington D.C..
+589,Fato: Washington D.C..
+590,Sabias? Washington D.C..
+591,Lembra-te: Washington D.C..
+592,Em resumo: Washington D.C..
+593,Bom saber: Washington D.C..
+594,É certo: Washington D.C..
+595,Fato: A capital de Canadá é Ottawa.
+596,Sabias? A capital de Canadá é Ottawa.
+597,Lembra-te: A capital de Canadá é Ottawa.
+598,Em resumo: A capital de Canadá é Ottawa.
+599,Bom saber: A capital de Canadá é Ottawa.
+600,É certo: A capital de Canadá é Ottawa.
+601,Fato: A capital de Canadá se chama Ottawa.
+602,Sabias? A capital de Canadá se chama Ottawa.
+603,Lembra-te: A capital de Canadá se chama Ottawa.
+604,Em resumo: A capital de Canadá se chama Ottawa.
+605,Bom saber: A capital de Canadá se chama Ottawa.
+606,É certo: A capital de Canadá se chama Ottawa.
+607,Fato: A capital de México é Cidade do México.
+608,Sabias? A capital de México é Cidade do México.
+609,Lembra-te: A capital de México é Cidade do México.
+610,Em resumo: A capital de México é Cidade do México.
+611,Bom saber: A capital de México é Cidade do México.
+612,É certo: A capital de México é Cidade do México.
+613,Fato: A capital de México se chama Cidade do México.
+614,Sabias? A capital de México se chama Cidade do México.
+615,Lembra-te: A capital de México se chama Cidade do México.
+616,Em resumo: A capital de México se chama Cidade do México.
+617,Bom saber: A capital de México se chama Cidade do México.
+618,É certo: A capital de México se chama Cidade do México.
+619,Fato: Cidade do México.
+620,Sabias? Cidade do México.
+621,Lembra-te: Cidade do México.
+622,Em resumo: Cidade do México.
+623,Bom saber: Cidade do México.
+624,É certo: Cidade do México.
+625,Fato: A capital de Brasil é Brasília.
+626,Sabias? A capital de Brasil é Brasília.
+627,Lembra-te: A capital de Brasil é Brasília.
+628,Em resumo: A capital de Brasil é Brasília.
+629,Bom saber: A capital de Brasil é Brasília.
+630,É certo: A capital de Brasil é Brasília.
+631,Fato: A capital de Brasil se chama Brasília.
+632,Sabias? A capital de Brasil se chama Brasília.
+633,Lembra-te: A capital de Brasil se chama Brasília.
+634,Em resumo: A capital de Brasil se chama Brasília.
+635,Bom saber: A capital de Brasil se chama Brasília.
+636,É certo: A capital de Brasil se chama Brasília.
+637,Fato: A capital de Argentina é Buenos Aires.
+638,Sabias? A capital de Argentina é Buenos Aires.
+639,Lembra-te: A capital de Argentina é Buenos Aires.
+640,Em resumo: A capital de Argentina é Buenos Aires.
+641,Bom saber: A capital de Argentina é Buenos Aires.
+642,É certo: A capital de Argentina é Buenos Aires.
+643,Fato: A capital de Argentina se chama Buenos Aires.
+644,Sabias? A capital de Argentina se chama Buenos Aires.
+645,Lembra-te: A capital de Argentina se chama Buenos Aires.
+646,Em resumo: A capital de Argentina se chama Buenos Aires.
+647,Bom saber: A capital de Argentina se chama Buenos Aires.
+648,É certo: A capital de Argentina se chama Buenos Aires.
+649,Fato: A capital de Japão é Tóquio.
+650,Sabias? A capital de Japão é Tóquio.
+651,Lembra-te: A capital de Japão é Tóquio.
+652,Em resumo: A capital de Japão é Tóquio.
+653,Bom saber: A capital de Japão é Tóquio.
+654,É certo: A capital de Japão é Tóquio.
+655,Fato: A capital de Japão se chama Tóquio.
+656,Sabias? A capital de Japão se chama Tóquio.
+657,Lembra-te: A capital de Japão se chama Tóquio.
+658,Em resumo: A capital de Japão se chama Tóquio.
+659,Bom saber: A capital de Japão se chama Tóquio.
+660,É certo: A capital de Japão se chama Tóquio.
+661,Fato: A capital de China é Pequim.
+662,Sabias? A capital de China é Pequim.
+663,Lembra-te: A capital de China é Pequim.
+664,Em resumo: A capital de China é Pequim.
+665,Bom saber: A capital de China é Pequim.
+666,É certo: A capital de China é Pequim.
+667,Fato: A capital de China se chama Pequim.
+668,Sabias? A capital de China se chama Pequim.
+669,Lembra-te: A capital de China se chama Pequim.
+670,Em resumo: A capital de China se chama Pequim.
+671,Bom saber: A capital de China se chama Pequim.
+672,É certo: A capital de China se chama Pequim.
+673,Fato: A capital de Índia é Nova Délhi.
+674,Sabias? A capital de Índia é Nova Délhi.
+675,Lembra-te: A capital de Índia é Nova Délhi.
+676,Em resumo: A capital de Índia é Nova Délhi.
+677,Bom saber: A capital de Índia é Nova Délhi.
+678,É certo: A capital de Índia é Nova Délhi.
+679,Fato: A capital de Índia se chama Nova Délhi.
+680,Sabias? A capital de Índia se chama Nova Délhi.
+681,Lembra-te: A capital de Índia se chama Nova Délhi.
+682,Em resumo: A capital de Índia se chama Nova Délhi.
+683,Bom saber: A capital de Índia se chama Nova Délhi.
+684,É certo: A capital de Índia se chama Nova Délhi.
+685,Fato: A capital de Austrália é Camberra.
+686,Sabias? A capital de Austrália é Camberra.
+687,Lembra-te: A capital de Austrália é Camberra.
+688,Em resumo: A capital de Austrália é Camberra.
+689,Bom saber: A capital de Austrália é Camberra.
+690,É certo: A capital de Austrália é Camberra.
+691,Fato: A capital de Austrália se chama Camberra.
+692,Sabias? A capital de Austrália se chama Camberra.
+693,Lembra-te: A capital de Austrália se chama Camberra.
+694,Em resumo: A capital de Austrália se chama Camberra.
+695,Bom saber: A capital de Austrália se chama Camberra.
+696,É certo: A capital de Austrália se chama Camberra.
+697,Fato: A capital de Egito é Cairo.
+698,Sabias? A capital de Egito é Cairo.
+699,Lembra-te: A capital de Egito é Cairo.
+700,Em resumo: A capital de Egito é Cairo.
+701,Bom saber: A capital de Egito é Cairo.
+702,É certo: A capital de Egito é Cairo.
+703,Fato: A capital de Egito se chama Cairo.
+704,Sabias? A capital de Egito se chama Cairo.
+705,Lembra-te: A capital de Egito se chama Cairo.
+706,Em resumo: A capital de Egito se chama Cairo.
+707,Bom saber: A capital de Egito se chama Cairo.
+708,É certo: A capital de Egito se chama Cairo.
+709,Fato: A Alemanha tem 16 estados.
+710,Sabias? A Alemanha tem 16 estados.
+711,Lembra-te: A Alemanha tem 16 estados.
+712,Em resumo: A Alemanha tem 16 estados.
+713,Bom saber: A Alemanha tem 16 estados.
+714,É certo: A Alemanha tem 16 estados.
+715,Fato: A Alemanha tem uns 83 a 84 milhões de habitantes.
+716,Sabias? A Alemanha tem uns 83 a 84 milhões de habitantes.
+717,Lembra-te: A Alemanha tem uns 83 a 84 milhões de habitantes.
+718,Em resumo: A Alemanha tem uns 83 a 84 milhões de habitantes.
+719,Bom saber: A Alemanha tem uns 83 a 84 milhões de habitantes.
+720,É certo: A Alemanha tem uns 83 a 84 milhões de habitantes.
+721,Fato: No Brasil se fala português.
+722,Sabias? No Brasil se fala português.
+723,Lembra-te: No Brasil se fala português.
+724,Em resumo: No Brasil se fala português.
+725,Bom saber: No Brasil se fala português.
+726,É certo: No Brasil se fala português.
+727,Fato: A moeda do Japão é o iene.
+728,Sabias? A moeda do Japão é o iene.
+729,Lembra-te: A moeda do Japão é o iene.
+730,Em resumo: A moeda do Japão é o iene.
+731,Bom saber: A moeda do Japão é o iene.
+732,É certo: A moeda do Japão é o iene.
+733,Fato: A moeda dos EUA é o dólar americano.
+734,Sabias? A moeda dos EUA é o dólar americano.
+735,Lembra-te: A moeda dos EUA é o dólar americano.
+736,Em resumo: A moeda dos EUA é o dólar americano.
+737,Bom saber: A moeda dos EUA é o dólar americano.
+738,É certo: A moeda dos EUA é o dólar americano.
+739,"Fato: Normalmente contamos 7 continentes: África, Antártida, Ásia, Austrália, Europa, América do Norte, América do Sul."
+740,"Sabias? Normalmente contamos 7 continentes: África, Antártida, Ásia, Austrália, Europa, América do Norte, América do Sul."
+741,"Lembra-te: Normalmente contamos 7 continentes: África, Antártida, Ásia, Austrália, Europa, América do Norte, América do Sul."
+742,"Em resumo: Normalmente contamos 7 continentes: África, Antártida, Ásia, Austrália, Europa, América do Norte, América do Sul."
+743,"Bom saber: Normalmente contamos 7 continentes: África, Antártida, Ásia, Austrália, Europa, América do Norte, América do Sul."
+744,"É certo: Normalmente contamos 7 continentes: África, Antártida, Ásia, Austrália, Europa, América do Norte, América do Sul."
+745,"Fato: É discutido: citam-se Nilo e Amazonas, ambos com mais de 6500 km."
+746,"Sabias? É discutido: citam-se Nilo e Amazonas, ambos com mais de 6500 km."
+747,"Lembra-te: É discutido: citam-se Nilo e Amazonas, ambos com mais de 6500 km."
+748,"Em resumo: É discutido: citam-se Nilo e Amazonas, ambos com mais de 6500 km."
+749,"Bom saber: É discutido: citam-se Nilo e Amazonas, ambos com mais de 6500 km."
+750,"É certo: É discutido: citam-se Nilo e Amazonas, ambos com mais de 6500 km."
+751,Fato: O maior país por área é a Rússia.
+752,Sabias? O maior país por área é a Rússia.
+753,Lembra-te: O maior país por área é a Rússia.
+754,Em resumo: O maior país por área é a Rússia.
+755,Bom saber: O maior país por área é a Rússia.
+756,É certo: O maior país por área é a Rússia.
+757,Fato: O maior animal do mundo é a baleia-azul.
+758,Sabias? O maior animal do mundo é a baleia-azul.
+759,Lembra-te: O maior animal do mundo é a baleia-azul.
+760,Em resumo: O maior animal do mundo é a baleia-azul.
+761,Bom saber: O maior animal do mundo é a baleia-azul.
+762,É certo: O maior animal do mundo é a baleia-azul.
+763,"Fato: Há 5 oceanos: Atlântico, Pacífico, Índico, Austral e Ártico."
+764,"Sabias? Há 5 oceanos: Atlântico, Pacífico, Índico, Austral e Ártico."
+765,"Lembra-te: Há 5 oceanos: Atlântico, Pacífico, Índico, Austral e Ártico."
+766,"Em resumo: Há 5 oceanos: Atlântico, Pacífico, Índico, Austral e Ártico."
+767,"Bom saber: Há 5 oceanos: Atlântico, Pacífico, Índico, Austral e Ártico."
+768,"É certo: Há 5 oceanos: Atlântico, Pacífico, Índico, Austral e Ártico."
+769,"Fato: A montanha mais alta é o Everest, uns 8848 metros."
+770,"Sabias? A montanha mais alta é o Everest, uns 8848 metros."
+771,"Lembra-te: A montanha mais alta é o Everest, uns 8848 metros."
+772,"Em resumo: A montanha mais alta é o Everest, uns 8848 metros."
+773,"Bom saber: A montanha mais alta é o Everest, uns 8848 metros."
+774,"É certo: A montanha mais alta é o Everest, uns 8848 metros."
+775,Fato: A capital do Canadá é Ottawa.
+776,Sabias? A capital do Canadá é Ottawa.
+777,Lembra-te: A capital do Canadá é Ottawa.
+778,Em resumo: A capital do Canadá é Ottawa.
+779,Bom saber: A capital do Canadá é Ottawa.
+780,É certo: A capital do Canadá é Ottawa.
+781,Fato: A capital da Austrália é Camberra.
+782,Sabias? A capital da Austrália é Camberra.
+783,Lembra-te: A capital da Austrália é Camberra.
+784,Em resumo: A capital da Austrália é Camberra.
+785,Bom saber: A capital da Austrália é Camberra.
+786,É certo: A capital da Austrália é Camberra.
+787,Fato: A capital da Turquia é Ancara.
+788,Sabias? A capital da Turquia é Ancara.
+789,Lembra-te: A capital da Turquia é Ancara.
+790,Em resumo: A capital da Turquia é Ancara.
+791,Bom saber: A capital da Turquia é Ancara.
+792,É certo: A capital da Turquia é Ancara.
+793,Fato: A capital do Brasil é Brasília.
+794,Sabias? A capital do Brasil é Brasília.
+795,Lembra-te: A capital do Brasil é Brasília.
+796,Em resumo: A capital do Brasil é Brasília.
+797,Bom saber: A capital do Brasil é Brasília.
+798,É certo: A capital do Brasil é Brasília.
+799,Fato: A primeira chegada à Lua foi em 1969 com a Apollo 11.
+800,Sabias? A primeira chegada à Lua foi em 1969 com a Apollo 11.
+801,Lembra-te: A primeira chegada à Lua foi em 1969 com a Apollo 11.
+802,Em resumo: A primeira chegada à Lua foi em 1969 com a Apollo 11.
+803,Bom saber: A primeira chegada à Lua foi em 1969 com a Apollo 11.
+804,É certo: A primeira chegada à Lua foi em 1969 com a Apollo 11.
+805,Fato: A Segunda Guerra Mundial durou de 1939 a 1945.
+806,Sabias? A Segunda Guerra Mundial durou de 1939 a 1945.
+807,Lembra-te: A Segunda Guerra Mundial durou de 1939 a 1945.
+808,Em resumo: A Segunda Guerra Mundial durou de 1939 a 1945.
+809,Bom saber: A Segunda Guerra Mundial durou de 1939 a 1945.
+810,É certo: A Segunda Guerra Mundial durou de 1939 a 1945.
+811,Fato: A Primeira Guerra Mundial durou de 1914 a 1918.
+812,Sabias? A Primeira Guerra Mundial durou de 1914 a 1918.
+813,Lembra-te: A Primeira Guerra Mundial durou de 1914 a 1918.
+814,Em resumo: A Primeira Guerra Mundial durou de 1914 a 1918.
+815,Bom saber: A Primeira Guerra Mundial durou de 1914 a 1918.
+816,É certo: A Primeira Guerra Mundial durou de 1914 a 1918.
+817,Fato: O muro de Berlim foi a fronteira fortificada entre Berlim Leste e Oeste de 1961 a 1989.
+818,Sabias? O muro de Berlim foi a fronteira fortificada entre Berlim Leste e Oeste de 1961 a 1989.
+819,Lembra-te: O muro de Berlim foi a fronteira fortificada entre Berlim Leste e Oeste de 1961 a 1989.
+820,Em resumo: O muro de Berlim foi a fronteira fortificada entre Berlim Leste e Oeste de 1961 a 1989.
+821,Bom saber: O muro de Berlim foi a fronteira fortificada entre Berlim Leste e Oeste de 1961 a 1989.
+822,É certo: O muro de Berlim foi a fronteira fortificada entre Berlim Leste e Oeste de 1961 a 1989.
+823,Fato: O muro de Berlim caiu em 9 de novembro de 1989.
+824,Sabias? O muro de Berlim caiu em 9 de novembro de 1989.
+825,Lembra-te: O muro de Berlim caiu em 9 de novembro de 1989.
+826,Em resumo: O muro de Berlim caiu em 9 de novembro de 1989.
+827,Bom saber: O muro de Berlim caiu em 9 de novembro de 1989.
+828,É certo: O muro de Berlim caiu em 9 de novembro de 1989.
+829,"Fato: O telefone foi patenteado por Alexander Graham Bell em 1876, com o trabalho pioneiro de Antonio Meucci."
+830,"Sabias? O telefone foi patenteado por Alexander Graham Bell em 1876, com o trabalho pioneiro de Antonio Meucci."
+831,"Lembra-te: O telefone foi patenteado por Alexander Graham Bell em 1876, com o trabalho pioneiro de Antonio Meucci."
+832,"Em resumo: O telefone foi patenteado por Alexander Graham Bell em 1876, com o trabalho pioneiro de Antonio Meucci."
+833,"Bom saber: O telefone foi patenteado por Alexander Graham Bell em 1876, com o trabalho pioneiro de Antonio Meucci."
+834,"É certo: O telefone foi patenteado por Alexander Graham Bell em 1876, com o trabalho pioneiro de Antonio Meucci."
+835,Fato: A relatividade foi desenvolvida por Albert Einstein.
+836,Sabias? A relatividade foi desenvolvida por Albert Einstein.
+837,Lembra-te: A relatividade foi desenvolvida por Albert Einstein.
+838,Em resumo: A relatividade foi desenvolvida por Albert Einstein.
+839,Bom saber: A relatividade foi desenvolvida por Albert Einstein.
+840,É certo: A relatividade foi desenvolvida por Albert Einstein.
+841,"Fato: Democracia significa poder do povo, normalmente com eleições livres e direitos básicos."
+842,"Sabias? Democracia significa poder do povo, normalmente com eleições livres e direitos básicos."
+843,"Lembra-te: Democracia significa poder do povo, normalmente com eleições livres e direitos básicos."
+844,"Em resumo: Democracia significa poder do povo, normalmente com eleições livres e direitos básicos."
+845,"Bom saber: Democracia significa poder do povo, normalmente com eleições livres e direitos básicos."
+846,"É certo: Democracia significa poder do povo, normalmente com eleições livres e direitos básicos."
+847,Fato: A UE é uma união de estados europeus com mercado único e instituições comuns.
+848,Sabias? A UE é uma união de estados europeus com mercado único e instituições comuns.
+849,Lembra-te: A UE é uma união de estados europeus com mercado único e instituições comuns.
+850,Em resumo: A UE é uma união de estados europeus com mercado único e instituições comuns.
+851,Bom saber: A UE é uma união de estados europeus com mercado único e instituições comuns.
+852,É certo: A UE é uma união de estados europeus com mercado único e instituições comuns.
+853,Fato: A UE tem 27 estados-membros.
+854,Sabias? A UE tem 27 estados-membros.
+855,Lembra-te: A UE tem 27 estados-membros.
+856,Em resumo: A UE tem 27 estados-membros.
+857,Bom saber: A UE tem 27 estados-membros.
+858,É certo: A UE tem 27 estados-membros.
+859,"Fato: A Lei Fundamental é a constituição da Alemanha, vigente desde 1949."
+860,"Sabias? A Lei Fundamental é a constituição da Alemanha, vigente desde 1949."
+861,"Lembra-te: A Lei Fundamental é a constituição da Alemanha, vigente desde 1949."
+862,"Em resumo: A Lei Fundamental é a constituição da Alemanha, vigente desde 1949."
+863,"Bom saber: A Lei Fundamental é a constituição da Alemanha, vigente desde 1949."
+864,"É certo: A Lei Fundamental é a constituição da Alemanha, vigente desde 1949."
+865,Fato: A Alemanha se reunificou em 1990.
+866,Sabias? A Alemanha se reunificou em 1990.
+867,Lembra-te: A Alemanha se reunificou em 1990.
+868,Em resumo: A Alemanha se reunificou em 1990.
+869,Bom saber: A Alemanha se reunificou em 1990.
+870,É certo: A Alemanha se reunificou em 1990.
+871,"Fato: A Idade Média foi a época de aprox. 500 a 1500, entre antiguidade e modernidade."
+872,"Sabias? A Idade Média foi a época de aprox. 500 a 1500, entre antiguidade e modernidade."
+873,"Lembra-te: A Idade Média foi a época de aprox. 500 a 1500, entre antiguidade e modernidade."
+874,"Em resumo: A Idade Média foi a época de aprox. 500 a 1500, entre antiguidade e modernidade."
+875,"Bom saber: A Idade Média foi a época de aprox. 500 a 1500, entre antiguidade e modernidade."
+876,"É certo: A Idade Média foi a época de aprox. 500 a 1500, entre antiguidade e modernidade."
+877,"Fato: Leonardo da Vinci foi um artista e inventor italiano, famoso pela Mona Lisa."
+878,"Sabias? Leonardo da Vinci foi um artista e inventor italiano, famoso pela Mona Lisa."
+879,"Lembra-te: Leonardo da Vinci foi um artista e inventor italiano, famoso pela Mona Lisa."
+880,"Em resumo: Leonardo da Vinci foi um artista e inventor italiano, famoso pela Mona Lisa."
+881,"Bom saber: Leonardo da Vinci foi um artista e inventor italiano, famoso pela Mona Lisa."
+882,"É certo: Leonardo da Vinci foi um artista e inventor italiano, famoso pela Mona Lisa."
+883,Fato: Marie Curie foi uma física que pesquisou a radioatividade e ganhou dois Nobel.
+884,Sabias? Marie Curie foi uma física que pesquisou a radioatividade e ganhou dois Nobel.
+885,Lembra-te: Marie Curie foi uma física que pesquisou a radioatividade e ganhou dois Nobel.
+886,Em resumo: Marie Curie foi uma física que pesquisou a radioatividade e ganhou dois Nobel.
+887,Bom saber: Marie Curie foi uma física que pesquisou a radioatividade e ganhou dois Nobel.
+888,É certo: Marie Curie foi uma física que pesquisou a radioatividade e ganhou dois Nobel.
+889,"Fato: A Revolução Francesa desde 1789 derrubou a monarquia sob liberdade, igualdade, fraternidade."
+890,"Sabias? A Revolução Francesa desde 1789 derrubou a monarquia sob liberdade, igualdade, fraternidade."
+891,"Lembra-te: A Revolução Francesa desde 1789 derrubou a monarquia sob liberdade, igualdade, fraternidade."
+892,"Em resumo: A Revolução Francesa desde 1789 derrubou a monarquia sob liberdade, igualdade, fraternidade."
+893,"Bom saber: A Revolução Francesa desde 1789 derrubou a monarquia sob liberdade, igualdade, fraternidade."
+894,"É certo: A Revolução Francesa desde 1789 derrubou a monarquia sob liberdade, igualdade, fraternidade."
+895,"Fato: Direitos humanos são direitos básicos de cada pessoa, como vida, liberdade e igualdade."
+896,"Sabias? Direitos humanos são direitos básicos de cada pessoa, como vida, liberdade e igualdade."
+897,"Lembra-te: Direitos humanos são direitos básicos de cada pessoa, como vida, liberdade e igualdade."
+898,"Em resumo: Direitos humanos são direitos básicos de cada pessoa, como vida, liberdade e igualdade."
+899,"Bom saber: Direitos humanos são direitos básicos de cada pessoa, como vida, liberdade e igualdade."
+900,"É certo: Direitos humanos são direitos básicos de cada pessoa, como vida, liberdade e igualdade."
+901,Fato: Inflação significa que os preços sobem e o dinheiro perde valor.
+902,Sabias? Inflação significa que os preços sobem e o dinheiro perde valor.
+903,Lembra-te: Inflação significa que os preços sobem e o dinheiro perde valor.
+904,Em resumo: Inflação significa que os preços sobem e o dinheiro perde valor.
+905,Bom saber: Inflação significa que os preços sobem e o dinheiro perde valor.
+906,É certo: Inflação significa que os preços sobem e o dinheiro perde valor.
+907,Fato: A industrialização foi a passagem a máquinas e fábricas desde o século XVIII.
+908,Sabias? A industrialização foi a passagem a máquinas e fábricas desde o século XVIII.
+909,Lembra-te: A industrialização foi a passagem a máquinas e fábricas desde o século XVIII.
+910,Em resumo: A industrialização foi a passagem a máquinas e fábricas desde o século XVIII.
+911,Bom saber: A industrialização foi a passagem a máquinas e fábricas desde o século XVIII.
+912,É certo: A industrialização foi a passagem a máquinas e fábricas desde o século XVIII.
+913,"Fato: As bases datam da ARPANET em 1969, a Web desde 1989."
+914,"Sabias? As bases datam da ARPANET em 1969, a Web desde 1989."
+915,"Lembra-te: As bases datam da ARPANET em 1969, a Web desde 1989."
+916,"Em resumo: As bases datam da ARPANET em 1969, a Web desde 1989."
+917,"Bom saber: As bases datam da ARPANET em 1969, a Web desde 1989."
+918,"É certo: As bases datam da ARPANET em 1969, a Web desde 1989."
+919,Fato: O automóvel foi inventado por Carl Benz com o carro de 1886.
+920,Sabias? O automóvel foi inventado por Carl Benz com o carro de 1886.
+921,Lembra-te: O automóvel foi inventado por Carl Benz com o carro de 1886.
+922,Em resumo: O automóvel foi inventado por Carl Benz com o carro de 1886.
+923,Bom saber: O automóvel foi inventado por Carl Benz com o carro de 1886.
+924,É certo: O automóvel foi inventado por Carl Benz com o carro de 1886.
+925,Fato: O primeiro voo motorizado foi dos irmãos Wright em 1903.
+926,Sabias? O primeiro voo motorizado foi dos irmãos Wright em 1903.
+927,Lembra-te: O primeiro voo motorizado foi dos irmãos Wright em 1903.
+928,Em resumo: O primeiro voo motorizado foi dos irmãos Wright em 1903.
+929,Bom saber: O primeiro voo motorizado foi dos irmãos Wright em 1903.
+930,É certo: O primeiro voo motorizado foi dos irmãos Wright em 1903.
+931,Fato: Para o Bundestag desde os 18. Nas europeias na Alemanha desde os 16.
+932,Sabias? Para o Bundestag desde os 18. Nas europeias na Alemanha desde os 16.
+933,Lembra-te: Para o Bundestag desde os 18. Nas europeias na Alemanha desde os 16.
+934,Em resumo: Para o Bundestag desde os 18. Nas europeias na Alemanha desde os 16.
+935,Bom saber: Para o Bundestag desde os 18. Nas europeias na Alemanha desde os 16.
+936,É certo: Para o Bundestag desde os 18. Nas europeias na Alemanha desde os 16.
+937,"Fato: Os eleitores votam, os votos são contados e as cadeiras distribuídas pelo resultado."
+938,"Sabias? Os eleitores votam, os votos são contados e as cadeiras distribuídas pelo resultado."
+939,"Lembra-te: Os eleitores votam, os votos são contados e as cadeiras distribuídas pelo resultado."
+940,"Em resumo: Os eleitores votam, os votos são contados e as cadeiras distribuídas pelo resultado."
+941,"Bom saber: Os eleitores votam, os votos são contados e as cadeiras distribuídas pelo resultado."
+942,"É certo: Os eleitores votam, os votos são contados e as cadeiras distribuídas pelo resultado."
+943,Fato: Na ditadura uma pessoa ou grupo governa sem eleições livres; na democracia o poder vem do povo.
+944,Sabias? Na ditadura uma pessoa ou grupo governa sem eleições livres; na democracia o poder vem do povo.
+945,Lembra-te: Na ditadura uma pessoa ou grupo governa sem eleições livres; na democracia o poder vem do povo.
+946,Em resumo: Na ditadura uma pessoa ou grupo governa sem eleições livres; na democracia o poder vem do povo.
+947,Bom saber: Na ditadura uma pessoa ou grupo governa sem eleições livres; na democracia o poder vem do povo.
+948,É certo: Na ditadura uma pessoa ou grupo governa sem eleições livres; na democracia o poder vem do povo.
+949,Fato: Sustentabilidade significa viver para que futuras gerações também tenham recursos.
+950,Sabias? Sustentabilidade significa viver para que futuras gerações também tenham recursos.
+951,Lembra-te: Sustentabilidade significa viver para que futuras gerações também tenham recursos.
+952,Em resumo: Sustentabilidade significa viver para que futuras gerações também tenham recursos.
+953,Bom saber: Sustentabilidade significa viver para que futuras gerações também tenham recursos.
+954,É certo: Sustentabilidade significa viver para que futuras gerações também tenham recursos.
+955,"Fato: Bullying é perseguição repetida. Fale com pessoas de confiança, guarde provas, busque ajuda."
+956,"Sabias? Bullying é perseguição repetida. Fale com pessoas de confiança, guarde provas, busque ajuda."
+957,"Lembra-te: Bullying é perseguição repetida. Fale com pessoas de confiança, guarde provas, busque ajuda."
+958,"Em resumo: Bullying é perseguição repetida. Fale com pessoas de confiança, guarde provas, busque ajuda."
+959,"Bom saber: Bullying é perseguição repetida. Fale com pessoas de confiança, guarde provas, busque ajuda."
+960,"É certo: Bullying é perseguição repetida. Fale com pessoas de confiança, guarde provas, busque ajuda."
+961,Fato: Paz significa conviver sem guerra nem violência.
+962,Sabias? Paz significa conviver sem guerra nem violência.
+963,Lembra-te: Paz significa conviver sem guerra nem violência.
+964,Em resumo: Paz significa conviver sem guerra nem violência.
+965,Bom saber: Paz significa conviver sem guerra nem violência.
+966,É certo: Paz significa conviver sem guerra nem violência.
+967,Fato: Liberdade significa viver livremente sem prejudicar outros.
+968,Sabias? Liberdade significa viver livremente sem prejudicar outros.
+969,Lembra-te: Liberdade significa viver livremente sem prejudicar outros.
+970,Em resumo: Liberdade significa viver livremente sem prejudicar outros.
+971,Bom saber: Liberdade significa viver livremente sem prejudicar outros.
+972,É certo: Liberdade significa viver livremente sem prejudicar outros.
+973,Fato: Justiça significa trato justo e igual para cada um.
+974,Sabias? Justiça significa trato justo e igual para cada um.
+975,Lembra-te: Justiça significa trato justo e igual para cada um.
+976,Em resumo: Justiça significa trato justo e igual para cada um.
+977,Bom saber: Justiça significa trato justo e igual para cada um.
+978,É certo: Justiça significa trato justo e igual para cada um.
+979,Fato: O céu é azul pela dispersão de Rayleigh: a luz azul se dispersa mais que a vermelha.
+980,Sabias? O céu é azul pela dispersão de Rayleigh: a luz azul se dispersa mais que a vermelha.
+981,Lembra-te: O céu é azul pela dispersão de Rayleigh: a luz azul se dispersa mais que a vermelha.
+982,Em resumo: O céu é azul pela dispersão de Rayleigh: a luz azul se dispersa mais que a vermelha.
+983,Bom saber: O céu é azul pela dispersão de Rayleigh: a luz azul se dispersa mais que a vermelha.
+984,É certo: O céu é azul pela dispersão de Rayleigh: a luz azul se dispersa mais que a vermelha.
+985,"Fato: A chuva nasce por evaporação: a água sobe, esfria, forma nuvens e cai em gotas."
+986,"Sabias? A chuva nasce por evaporação: a água sobe, esfria, forma nuvens e cai em gotas."
+987,"Lembra-te: A chuva nasce por evaporação: a água sobe, esfria, forma nuvens e cai em gotas."
+988,"Em resumo: A chuva nasce por evaporação: a água sobe, esfria, forma nuvens e cai em gotas."
+989,"Bom saber: A chuva nasce por evaporação: a água sobe, esfria, forma nuvens e cai em gotas."
+990,"É certo: A chuva nasce por evaporação: a água sobe, esfria, forma nuvens e cai em gotas."
+991,"Fato: A fotossíntese fabrica açúcar e oxigênio com luz, água e CO2."
+992,"Sabias? A fotossíntese fabrica açúcar e oxigênio com luz, água e CO2."
+993,"Lembra-te: A fotossíntese fabrica açúcar e oxigênio com luz, água e CO2."
+994,"Em resumo: A fotossíntese fabrica açúcar e oxigênio com luz, água e CO2."
+995,"Bom saber: A fotossíntese fabrica açúcar e oxigênio com luz, água e CO2."
+996,"É certo: A fotossíntese fabrica açúcar e oxigênio com luz, água e CO2."
+997,Fato: O tempo é o estado a curto prazo; o clima a média de uns 30 anos.
+998,Sabias? O tempo é o estado a curto prazo; o clima a média de uns 30 anos.
+999,Lembra-te: O tempo é o estado a curto prazo; o clima a média de uns 30 anos.
+1000,Em resumo: O tempo é o estado a curto prazo; o clima a média de uns 30 anos.

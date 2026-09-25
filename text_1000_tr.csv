@@ -1,0 +1,1001 @@
+id,text
+1,Almanya ülkesinin başkenti Berlin.
+2,Almanya başkentinin adı Berlin.
+3,Fransa ülkesinin başkenti Paris.
+4,Fransa başkentinin adı Paris.
+5,İtalya ülkesinin başkenti Roma.
+6,İtalya başkentinin adı Roma.
+7,İspanya ülkesinin başkenti Madrid.
+8,İspanya başkentinin adı Madrid.
+9,Portekiz ülkesinin başkenti Lizbon.
+10,Portekiz başkentinin adı Lizbon.
+11,Hollanda ülkesinin başkenti Amsterdam.
+12,Hollanda başkentinin adı Amsterdam.
+13,Belçika ülkesinin başkenti Brüksel.
+14,Belçika başkentinin adı Brüksel.
+15,Avusturya ülkesinin başkenti Viyana.
+16,Avusturya başkentinin adı Viyana.
+17,İsviçre ülkesinin başkenti Bern.
+18,İsviçre başkentinin adı Bern.
+19,Polonya ülkesinin başkenti Varşova.
+20,Polonya başkentinin adı Varşova.
+21,Çekya ülkesinin başkenti Prag.
+22,Çekya başkentinin adı Prag.
+23,Macaristan ülkesinin başkenti Budapeşte.
+24,Macaristan başkentinin adı Budapeşte.
+25,Yunanistan ülkesinin başkenti Atina.
+26,Yunanistan başkentinin adı Atina.
+27,Türkiye ülkesinin başkenti Ankara.
+28,Türkiye başkentinin adı Ankara.
+29,Norveç ülkesinin başkenti Oslo.
+30,Norveç başkentinin adı Oslo.
+31,İsveç ülkesinin başkenti Stokholm.
+32,İsveç başkentinin adı Stokholm.
+33,Finlandiya ülkesinin başkenti Helsinki.
+34,Finlandiya başkentinin adı Helsinki.
+35,Danimarka ülkesinin başkenti Kopenhag.
+36,Danimarka başkentinin adı Kopenhag.
+37,Birleşik Krallık ülkesinin başkenti Londra.
+38,Birleşik Krallık başkentinin adı Londra.
+39,İrlanda ülkesinin başkenti Dublin.
+40,İrlanda başkentinin adı Dublin.
+41,ABD ülkesinin başkenti Washington D.C..
+42,ABD başkentinin adı Washington D.C..
+43,Washington D.C..
+44,Kanada ülkesinin başkenti Ottawa.
+45,Kanada başkentinin adı Ottawa.
+46,Meksika ülkesinin başkenti Meksiko.
+47,Meksika başkentinin adı Meksiko.
+48,Brezilya ülkesinin başkenti Brazilya.
+49,Brezilya başkentinin adı Brazilya.
+50,Arjantin ülkesinin başkenti Buenos Aires.
+51,Arjantin başkentinin adı Buenos Aires.
+52,Japonya ülkesinin başkenti Tokyo.
+53,Japonya başkentinin adı Tokyo.
+54,Çin ülkesinin başkenti Pekin.
+55,Çin başkentinin adı Pekin.
+56,Hindistan ülkesinin başkenti Yeni Delhi.
+57,Hindistan başkentinin adı Yeni Delhi.
+58,Avustralya ülkesinin başkenti Canberra.
+59,Avustralya başkentinin adı Canberra.
+60,Mısır ülkesinin başkenti Kahire.
+61,Mısır başkentinin adı Kahire.
+62,Almanya'nın 16 eyaleti var.
+63,Almanya'da yaklaşık 83-84 milyon kişi yaşıyor.
+64,Brezilya'da Portekizce konuşulur.
+65,Japonya'nın para birimi yendir.
+66,ABD'nin para birimi Amerikan dolarıdır.
+67,"Genelde 7 kıta sayarız: Afrika, Antarktika, Asya, Avustralya, Avrupa, Kuzey Amerika, Güney Amerika."
+68,"Tartışmalı: genelde Nil ve Amazon anılır, ikisi de 6500 km'den uzun."
+69,Yüzölçümüyle dünyanın en büyük ülkesi Rusya'dır.
+70,Dünyanın en büyük hayvanı mavi balinadır.
+71,"5 okyanus var: Atlas, Pasifik, Hint, Güney ve Arktik."
+72,Dünyanın en yüksek dağı yaklaşık 8848 metreyle Everest'tir.
+73,Kanada'nın başkenti Ottawa'dır.
+74,Avustralya'nın başkenti Canberra'dır.
+75,Türkiye'nin başkenti Ankara'dır.
+76,Brezilya'nın başkenti Brazilya'dır.
+77,İlk Ay inişi 1969'da Apollo 11 ile oldu.
+78,İkinci Dünya Savaşı 1939'dan 1945'e sürdü.
+79,Birinci Dünya Savaşı 1914'ten 1918'e sürdü.
+80,Berlin Duvarı 1961'den 1989'a Doğu ve Batı Berlin arasındaki korumalı sınırdı.
+81,Berlin Duvarı 9 Kasım 1989'da yıkıldı.
+82,"Telefonun patentini 1876'da Alexander Graham Bell aldı, Antonio Meucci öncüydü."
+83,Göreliliği Albert Einstein geliştirdi.
+84,"Demokrasi halk yönetimi demektir, genelde özgür seçimler ve temel haklarla."
+85,"AB, ortak pazarlı ve ortak kurumları olan bir Avrupa devletleri birliğidir."
+86,AB'nin 27 üye devleti var.
+87,"Temel Yasa, 1949'dan beri Almanya'nın anayasasıdır."
+88,Almanya 1990'da yeniden birleşti.
+89,"Orta Çağ, antik çağ ile modernite arasında yaklaşık 500-1500 dönemiydi."
+90,"Leonardo da Vinci, Mona Lisa ile ünlü İtalyan sanatçı ve mucitti."
+91,Marie Curie radyoaktiviteyi araştıran ve iki Nobel kazanan fizikçiydi.
+92,"Fransız Devrimi 1789'dan beri monarşiyi özgürlük, eşitlik, kardeşlik ile yıktı."
+93,"İnsan hakları herkesin temel haklarıdır, yaşam, özgürlük ve eşitlik gibi."
+94,"Enflasyon, fiyatların artması ve paranın değer kaybetmesidir."
+95,"Sanayileşme, 18. yüzyıldan itibaren makine ve fabrikalara geçişti."
+96,"Temeller 1969'da ARPANET'e, Web 1989'a dayanır."
+97,Otomobili 1886'daki motorlu araçla Carl Benz icat etti.
+98,İlk motorlu uçuşu 1903'te Wright kardeşler yaptı.
+99,Bundestag için 18 yaşından. Almanya'da AB seçiminde 16 yaşından.
+100,"Seçmenler oy verir, oylar sayılır ve sonuca göre sandalye dağıtılır."
+101,Diktatörlükte bir kişi veya grup özgür seçim olmadan yönetir; demokraside güç halktan gelir.
+102,"Sürdürülebilirlik, gelecek kuşaklara da yetecek kaynakla yaşamak demektir."
+103,"Zorbalık tekrarlı dışlama veya eziyettir. Güvendiğin kişilerle konuş, kanıt sakla, yardım al."
+104,"Barış, savaşsız ve şiddetsiz bir arada yaşamak demektir."
+105,"Özgürlük, başkalarına zarar vermeden özgürce yaşamak demektir."
+106,"Adalet, herkese adil ve eşit davranmak demektir."
+107,Gökyüzü Rayleigh saçılması yüzünden mavidir: mavi ışık kırmızıdan çok saçılır.
+108,"Yağmur buharlaşmayla oluşur: su yükselir, soğur, bulut olur ve damla olarak düşer."
+109,"Fotosentez, bitkilerin ışık, su ve CO2'den şeker ve oksijen yapmasıdır."
+110,Hava durumu kısa vadeli durumdur; iklim yaklaşık 30 yıl ortalamasıdır.
+111,"Buzdolabı ısıyı soğutucuyla içten dışa pompalar: içte buharlaşır, ısıyı alır, dışta verir."
+112,"Elektrik kısaca yüklerin yönlü hareketidir, genelde kabloda elektronlar."
+113,"Su H2O'dur, hidrojen ve oksijen bileşiğidir."
+114,"Virüs, konak hücresiz çoğalamayan minicik etkendir."
+115,"Yapay zeka, veriden öğrenen, örüntü tanıyan ve metin resim gibi işleri çözen programlardır."
+116,"Tarayıcı, siteleri açtığın programdır, örn. Chrome, Firefox, Edge veya Safari."
+117,"Uygulama bir programdır, genelde telefon için, örn. mesaj, foto veya oyun."
+118,"Su dolaşımı ve odağı dengeler, böbreğe ve cilde iyi gelir, baş ağrısını önler."
+119,"Yaklaşık 2 dakika, günde iki kez."
+120,"Yerçekimi kütleler arası çekimdir. Dünya her şeyi aşağı çeker, bu yüzden şeyler düşer."
+121,"Hava bir gaz karışımıdır, çoğu azot ve oksijendir."
+122,Kalp kanı tüm vücuda pompalar.
+123,Akciğerler oksijen alır ve karbondioksit verir.
+124,"Uyku dinlenmeye, hafızaya ve bağışıklığa iyi gelir."
+125,"Ateş yüksek vücut sıcaklığıdır, genelde enfeksiyona karşı savunmadır."
+126,"Güçlü şifre uzundur, her serviste benzersizdir ve şifre yöneticisinde saklanır."
+127,"Wi-Fi, kablosuz internet için yerel ağdır."
+128,"Bulut, veri saklayıp hizmet kullandığın internet sunucularıdır."
+129,"GPS, birkaç uydunun sinyali ve yol süresiyle konumu bulur."
+130,"Gece ve gündüz Dünya döndüğü için vardır. Güneşli taraf gündüz, öbürü gecedir."
+131,Mevsimler eksen eğikliğinden gelir: her yarım küre sırayla güneşe eğilir.
+132,"Ay, güneş ışığını yansıttığı için parlar."
+133,"Güneş, ışık ve ısı veren sıcak gazdan bir yıldızdır."
+134,"Güneş sistemimizde 8 gezegen var: Merkür, Venüs, Dünya, Mars, Jüpiter, Satürn, Uranüs, Neptün."
+135,"Atom maddenin en küçük birimidir, çekirdek ve elektronlardan oluşur."
+136,"Geri dönüşüm, atıkları toplayıp yeni ürün yapmaktır."
+137,Sera etkisi ısıyı tutar. Fazla sera gazı iklimi ısıtır.
+138,"Arılar bitkileri tozlar, ürünleri ve çeşitliliği korur."
+139,Yapraklar fotosentez pigmenti klorofil yüzünden yeşildir.
+140,"Memelilerin kürkü vardır, canlı yavru doğurur ve sütle besler."
+141,Pil kimyasal enerjiyi elektrik enerjisine çevirir.
+142,Güneş hücreleri ışığı doğrudan elektriğe çevirir.
+143,Bilgisayar virüsü yayılıp zarar veren programdır. Güncelleme ve dikkatle korun.
+144,"Plastik neredeyse çürümez, doğayı ve denizleri kirletir, mikroplastik olur."
+145,"Deprem, levhalar aniden oynayıp enerji boşaltınca olur."
+146,"Bal, arıların çiçek nektarından yaptığıdır."
+147,"25 çarpı 4, 100 eder."
+148,200'ün yüzde 12'si 24 eder.
+149,16:45'te varır.
+150,8 saat uyursun.
+151,Herkes 25 euro alır.
+152,2 saat 120 dakikadır.
+153,"Bir yıl 365 gün, artık yıl 366 gündür."
+154,Bir dakikada 60 saniye var.
+155,"36 artı 19, 55 eder."
+156,"14 eksi 3, 11 eder."
+157,"12 çarpı 4, 48 eder."
+158,"90 bölü 10, 9 eder."
+159,"300'in yüzde 50'i, 150 eder."
+160,"32 artı 32, 64 eder."
+161,"50 eksi 15, 35 eder."
+162,"7 çarpı 7, 49 eder."
+163,"54 bölü 9, 6 eder."
+164,"100'in yüzde 5'i, 5 eder."
+165,"30 artı 53, 83 eder."
+166,"84 eksi 29, 55 eder."
+167,"9 çarpı 8, 72 eder."
+168,"84 bölü 6, 14 eder."
+169,"300'in yüzde 10'i, 30 eder."
+170,"11 artı 43, 54 eder."
+171,"81 eksi 43, 38 eder."
+172,"6 çarpı 10, 60 eder."
+173,"60 bölü 4, 15 eder."
+174,"39 artı 8, 47 eder."
+175,"64 eksi 58, 6 eder."
+176,"7 çarpı 3, 21 eder."
+177,"40 bölü 10, 4 eder."
+178,"500'in yüzde 20'i, 100 eder."
+179,"38 artı 33, 71 eder."
+180,"92 eksi 61, 31 eder."
+181,"6 çarpı 2, 12 eder."
+182,"33 bölü 3, 11 eder."
+183,"1000'in yüzde 10'i, 100 eder."
+184,"40 artı 7, 47 eder."
+185,"93 eksi 40, 53 eder."
+186,"9 çarpı 7, 63 eder."
+187,"36 bölü 6, 6 eder."
+188,"44 artı 48, 92 eder."
+189,"46 eksi 25, 21 eder."
+190,"3 çarpı 7, 21 eder."
+191,"180 bölü 9, 20 eder."
+192,"1000'in yüzde 25'i, 250 eder."
+193,"60 artı 19, 79 eder."
+194,"61 eksi 35, 26 eder."
+195,"6 çarpı 9, 54 eder."
+196,"63 bölü 7, 9 eder."
+197,"1000'in yüzde 20'i, 200 eder."
+198,"59 artı 35, 94 eder."
+199,"36 eksi 7, 29 eder."
+200,"26 bölü 2, 13 eder."
+201,"400'in yüzde 50'i, 200 eder."
+202,"39 artı 26, 65 eder."
+203,"29 eksi 25, 4 eder."
+204,"11 çarpı 7, 77 eder."
+205,"152 bölü 8, 19 eder."
+206,"500'in yüzde 10'i, 50 eder."
+207,"38 artı 13, 51 eder."
+208,"27 eksi 4, 23 eder."
+209,"9 çarpı 6, 54 eder."
+210,"18 bölü 2, 9 eder."
+211,"100'in yüzde 25'i, 25 eder."
+212,"36 artı 12, 48 eder."
+213,"77 eksi 39, 38 eder."
+214,"2 çarpı 12, 24 eder."
+215,"32 bölü 8, 4 eder."
+216,"500'in yüzde 25'i, 125 eder."
+217,"21 artı 52, 73 eder."
+218,"74 eksi 12, 62 eder."
+219,"30 bölü 6, 5 eder."
+220,"100'in yüzde 15'i, 15 eder."
+221,"3 artı 42, 45 eder."
+222,"88 eksi 20, 68 eder."
+223,"3 çarpı 12, 36 eder."
+224,"72 bölü 8, 9 eder."
+225,"200'in yüzde 50'i, 100 eder."
+226,"33 artı 50, 83 eder."
+227,"71 eksi 45, 26 eder."
+228,"84 bölü 7, 12 eder."
+229,"1000'in yüzde 15'i, 150 eder."
+230,"10 artı 33, 43 eder."
+231,"67 eksi 11, 56 eder."
+232,"11 çarpı 2, 22 eder."
+233,"104 bölü 8, 13 eder."
+234,"400'in yüzde 5'i, 20 eder."
+235,"55 artı 7, 62 eder."
+236,"64 eksi 63, 1 eder."
+237,"10 çarpı 12, 120 eder."
+238,"36 bölü 2, 18 eder."
+239,"2 artı 53, 55 eder."
+240,"19 eksi 15, 4 eder."
+241,"8 çarpı 4, 32 eder."
+242,"35 bölü 5, 7 eder."
+243,"45 artı 12, 57 eder."
+244,"46 eksi 15, 31 eder."
+245,"8 çarpı 8, 64 eder."
+246,"110 bölü 10, 11 eder."
+247,"32 artı 21, 53 eder."
+248,"98 eksi 16, 82 eder."
+249,"6 çarpı 12, 72 eder."
+250,"28 bölü 4, 7 eder."
+251,"3 artı 39, 42 eder."
+252,"66 eksi 6, 60 eder."
+253,"200'in yüzde 15'i, 30 eder."
+254,"39 artı 17, 56 eder."
+255,"81 eksi 62, 19 eder."
+256,"11 çarpı 10, 110 eder."
+257,"80 bölü 5, 16 eder."
+258,"27 artı 13, 40 eder."
+259,"44 eksi 42, 2 eder."
+260,21:45'te biter.
+261,Randevu 12:30'da.
+262,17:05'te hazır.
+263,5 saat 15 dakika sürüyor.
+264,19:30'da bitirirsin.
+265,"En iyi kısa günlük birimlerle, kartlarla ve cümlede aktif kullanımla artı düzenli tekrar."
+266,"Bütçe yap, abonelikleri kontrol et, evde pişir, fiyat karşılaştır ve önce sabit tutarı ayır."
+267,"Basit domates soslu makarna yap: baharatla, pişir, makarnaya dök, peynir serp."
+268,"Al: kimlik veya pasaport, bilet, para, telefon artı şarj, ilaç, hijyen ve kabinde değişim."
+269,"Hatayı söyle, sorumluluğu al, üzüntüyü göster ve telafi öner, kısa ve dürüst."
+270,"Yolu ve oteli ayarla, günde 2-3 yer seç, yemek ve yol payı bırak, günlük bütçe koy."
+271,"Evet, al. Yüzde 80'de yağmur çok olası."
+272,"İkisinin de artısı var: kağıt dikkat dağıtmaz ve akılda iyi, telefon aranır ve hep yanında."
+273,"Önce çöpü, sonra çamaşırı topla, her şeyi yerine koy, sonunda sil."
+274,"Katlamak yerine rulo yap, ağırı alta, boşlukları çorapla doldur."
+275,"Pirinci yıka, iki katı suyla kaynat, 10-12 dakika demle."
+276,"Bol suyu tuzla, kaynat, makarnayı 8-10 dakika pişir, süz."
+277,"Un, süt, yumurta ve tutam tuzu karıştır, ince altın gibi pişir."
+278,"Işığı aç, bir bardak su iç, biraz hareket et ve hava al."
+279,"Karanlık ve serin uyu, telefonu bırak, sabit rutin tut."
+280,"Konuyu bloklara böl, kendine aktif sor, mola ver, ertesi gün tekrarla."
+281,Kısa mektup artı tablolu CV ve ilgili belgeler yaz.
+282,"Bütçeyi koy, sitelerde ara, belgeleri hazırla, sorularla gez."
+283,"Parmak testi: üst kuruysa sula, göllenmeden kaçın."
+284,"3 öncelik seç, molalı bloklar planla, dikkat dağıtıcıları kaldır."
+285,"Haftada 2x yürüyüş veya hafifle başla, yavaşça artır."
+286,"Şişeyi hazır tut, her öğünde bir bardak iç, hatırlatıcı kullan."
+287,Örn. meyveli yoğurtlu yulaf veya yumurtalı tam buğday ekmeği.
+288,"Kısa molalar, hareket, yeterli uyku ve konuşmak iyi gelir."
+289,"Erken iptal et, kısa sebep söyle, yeni tarih öner."
+290,"Somut iste: ne, ne zamana, neden. Örn. Bugün taşımama yardım eder misin? Sağ ol!"
+291,"Kısa ve nazik hayır de, mümkünse alternatif sun."
+292,"Hedef koy, her ay otomatik biriktir, ekstraları ekle."
+293,"Tarihte esnek ol, siteleri karşılaştır, erken al."
+294,"Çevrimdışı harita indir, tabelaları izle, insanlara sor."
+295,"Köpekler çok yürüyüş ve eğitim ister, kediler daha bağımsız. Zamana ve yere göre seç."
+296,"Tren rahat ve genelde çevreci, araba bagajla esnek. Trafikte tren kazanır."
+297,"Vitamin ve tokluk için elmayı al, çikolata istisna olsun."
+298,"PC'ler fiyata daha güçlü, laptoplar taşınır. En güç için PC seç."
+299,"Şehirler iş ve yakınlık sunar, kır sakinlik ve alan. İşe ve tarza göre seç."
+300,"Uyku daha önemli çünkü öğrenmeyi pekiştirir. Erken çalış, yeterince uyu."
+301,Yetiyorsa kal. Yeni sadece arıza veya gerçek ihtiyaçta al.
+302,"Sahte haber uydurmadır. Kaynağı, tarihi ve başka medyayı kontrol et."
+303,"Olgu kanıtlı ve denetlenir, görüş kişisel bakıştır."
+304,"Güzel havada bisikleti al (yaklaşık 20 dk, sağlıklı), yağmurda otobüs."
+305,Su susuzluğu en iyi giderir ve şekersizdir. Meyve suyu sadece sulandırılmış.
+306,"Önce su iç, sonra ölçülü kahve iç."
+307,Esnek kalacaksan kirala; uzun kalıp ödeyebiliyorsan tüm maliyetle almayı incele.
+308,Görev ve uykuya göre seç: yeterli uyku ve sabit ritim önemli.
+309,"Hayır, dinlenme planla. Haftada 3-4 kez genelde yeter, her gün sadece hafif."
+310,"Hayır. Dinlen, yüksek veya uzun ateşte doktora git."
+311,"Ölçütleri listele, puanla, maliyeti ve hissi kontrol et, süreyle karar ver."
+312,"Ayda 100 euro otomatik biriktir, örn. maaştan sonra talimat."
+313,"İhtiyaç yaşamsaldir, istek ötesi bir arzudur."
+314,"Zaman sınırlı ve geri gelmez, para yeniden kazanılır. Denge önemli."
+315,"Selam, sağ ol ve sohbette düşünmem. Olgu, hesap, açıklama, karşılaştırma ve kararlarda düşünürüm, o zaman düşünmeyi gösteririm."
+316,hoşgörü kısaca: Hoşgörü başka görüş ve yaşamları kabul etmektir.
+317,sabır kısaca: Sabır sakin bekleyip devam etmektir.
+318,cesaret kısaca: Cesaret korkuya rağmen doğruyu yapmaktır.
+319,disiplin kısaca: Disiplin isteksizken de devam etmektir.
+320,yaratıcılık kısaca: Yaratıcılık yeni fikir ve çözüm bulmaktır.
+321,takım çalışması kısaca: Takım çalışması hedefe birlikte yürümektir.
+322,sorumluluk kısaca: Sorumluluk davranış ve sonuçlara sahip çıkmaktır.
+323,güven kısaca: Güven başkalarına bel bağlayabilmektir.
+324,nezaket kısaca: Nezaket saygılı ve nazik olmaktır.
+325,dakiklik kısaca: Dakiklik kararlaştırılan saate uymaktır.
+326,güvenilirlik kısaca: Güvenilirlik sözleri tutmaktır.
+327,sağlık kısaca: Sağlık bedensel ve ruhsal iyiliktir.
+328,mutluluk kısaca: Mutluluk memnuniyet ve sevinç anlarıdır.
+329,başarı kısaca: Başarı konan hedeflere ulaşmaktır.
+330,öğrenme kısaca: Öğrenme bilgi ve beceri kazanmaktır.
+331,bilgi kısaca: Bilgi dünya hakkında anlaşılmış veridir.
+332,deneyim kısaca: Deneyim yaşanmışlıktan gelen bilgidir.
+333,mizah kısaca: Mizah komik şeylere gülebilmektir.
+334,sevgi kısaca: Sevgi derin şefkat ve bakımdır.
+335,Bilgi: Almanya ülkesinin başkenti Berlin.
+336,Biliyor muydun? Almanya ülkesinin başkenti Berlin.
+337,Aklında tut: Almanya ülkesinin başkenti Berlin.
+338,Kısaca: Almanya ülkesinin başkenti Berlin.
+339,Bilmekte fayda var: Almanya ülkesinin başkenti Berlin.
+340,Kesin: Almanya ülkesinin başkenti Berlin.
+341,Bilgi: Almanya başkentinin adı Berlin.
+342,Biliyor muydun? Almanya başkentinin adı Berlin.
+343,Aklında tut: Almanya başkentinin adı Berlin.
+344,Kısaca: Almanya başkentinin adı Berlin.
+345,Bilmekte fayda var: Almanya başkentinin adı Berlin.
+346,Kesin: Almanya başkentinin adı Berlin.
+347,Bilgi: Fransa ülkesinin başkenti Paris.
+348,Biliyor muydun? Fransa ülkesinin başkenti Paris.
+349,Aklında tut: Fransa ülkesinin başkenti Paris.
+350,Kısaca: Fransa ülkesinin başkenti Paris.
+351,Bilmekte fayda var: Fransa ülkesinin başkenti Paris.
+352,Kesin: Fransa ülkesinin başkenti Paris.
+353,Bilgi: Fransa başkentinin adı Paris.
+354,Biliyor muydun? Fransa başkentinin adı Paris.
+355,Aklında tut: Fransa başkentinin adı Paris.
+356,Kısaca: Fransa başkentinin adı Paris.
+357,Bilmekte fayda var: Fransa başkentinin adı Paris.
+358,Kesin: Fransa başkentinin adı Paris.
+359,Bilgi: İtalya ülkesinin başkenti Roma.
+360,Biliyor muydun? İtalya ülkesinin başkenti Roma.
+361,Aklında tut: İtalya ülkesinin başkenti Roma.
+362,Kısaca: İtalya ülkesinin başkenti Roma.
+363,Bilmekte fayda var: İtalya ülkesinin başkenti Roma.
+364,Kesin: İtalya ülkesinin başkenti Roma.
+365,Bilgi: İtalya başkentinin adı Roma.
+366,Biliyor muydun? İtalya başkentinin adı Roma.
+367,Aklında tut: İtalya başkentinin adı Roma.
+368,Kısaca: İtalya başkentinin adı Roma.
+369,Bilmekte fayda var: İtalya başkentinin adı Roma.
+370,Kesin: İtalya başkentinin adı Roma.
+371,Bilgi: İspanya ülkesinin başkenti Madrid.
+372,Biliyor muydun? İspanya ülkesinin başkenti Madrid.
+373,Aklında tut: İspanya ülkesinin başkenti Madrid.
+374,Kısaca: İspanya ülkesinin başkenti Madrid.
+375,Bilmekte fayda var: İspanya ülkesinin başkenti Madrid.
+376,Kesin: İspanya ülkesinin başkenti Madrid.
+377,Bilgi: İspanya başkentinin adı Madrid.
+378,Biliyor muydun? İspanya başkentinin adı Madrid.
+379,Aklında tut: İspanya başkentinin adı Madrid.
+380,Kısaca: İspanya başkentinin adı Madrid.
+381,Bilmekte fayda var: İspanya başkentinin adı Madrid.
+382,Kesin: İspanya başkentinin adı Madrid.
+383,Bilgi: Portekiz ülkesinin başkenti Lizbon.
+384,Biliyor muydun? Portekiz ülkesinin başkenti Lizbon.
+385,Aklında tut: Portekiz ülkesinin başkenti Lizbon.
+386,Kısaca: Portekiz ülkesinin başkenti Lizbon.
+387,Bilmekte fayda var: Portekiz ülkesinin başkenti Lizbon.
+388,Kesin: Portekiz ülkesinin başkenti Lizbon.
+389,Bilgi: Portekiz başkentinin adı Lizbon.
+390,Biliyor muydun? Portekiz başkentinin adı Lizbon.
+391,Aklında tut: Portekiz başkentinin adı Lizbon.
+392,Kısaca: Portekiz başkentinin adı Lizbon.
+393,Bilmekte fayda var: Portekiz başkentinin adı Lizbon.
+394,Kesin: Portekiz başkentinin adı Lizbon.
+395,Bilgi: Hollanda ülkesinin başkenti Amsterdam.
+396,Biliyor muydun? Hollanda ülkesinin başkenti Amsterdam.
+397,Aklında tut: Hollanda ülkesinin başkenti Amsterdam.
+398,Kısaca: Hollanda ülkesinin başkenti Amsterdam.
+399,Bilmekte fayda var: Hollanda ülkesinin başkenti Amsterdam.
+400,Kesin: Hollanda ülkesinin başkenti Amsterdam.
+401,Bilgi: Hollanda başkentinin adı Amsterdam.
+402,Biliyor muydun? Hollanda başkentinin adı Amsterdam.
+403,Aklında tut: Hollanda başkentinin adı Amsterdam.
+404,Kısaca: Hollanda başkentinin adı Amsterdam.
+405,Bilmekte fayda var: Hollanda başkentinin adı Amsterdam.
+406,Kesin: Hollanda başkentinin adı Amsterdam.
+407,Bilgi: Belçika ülkesinin başkenti Brüksel.
+408,Biliyor muydun? Belçika ülkesinin başkenti Brüksel.
+409,Aklında tut: Belçika ülkesinin başkenti Brüksel.
+410,Kısaca: Belçika ülkesinin başkenti Brüksel.
+411,Bilmekte fayda var: Belçika ülkesinin başkenti Brüksel.
+412,Kesin: Belçika ülkesinin başkenti Brüksel.
+413,Bilgi: Belçika başkentinin adı Brüksel.
+414,Biliyor muydun? Belçika başkentinin adı Brüksel.
+415,Aklında tut: Belçika başkentinin adı Brüksel.
+416,Kısaca: Belçika başkentinin adı Brüksel.
+417,Bilmekte fayda var: Belçika başkentinin adı Brüksel.
+418,Kesin: Belçika başkentinin adı Brüksel.
+419,Bilgi: Avusturya ülkesinin başkenti Viyana.
+420,Biliyor muydun? Avusturya ülkesinin başkenti Viyana.
+421,Aklında tut: Avusturya ülkesinin başkenti Viyana.
+422,Kısaca: Avusturya ülkesinin başkenti Viyana.
+423,Bilmekte fayda var: Avusturya ülkesinin başkenti Viyana.
+424,Kesin: Avusturya ülkesinin başkenti Viyana.
+425,Bilgi: Avusturya başkentinin adı Viyana.
+426,Biliyor muydun? Avusturya başkentinin adı Viyana.
+427,Aklında tut: Avusturya başkentinin adı Viyana.
+428,Kısaca: Avusturya başkentinin adı Viyana.
+429,Bilmekte fayda var: Avusturya başkentinin adı Viyana.
+430,Kesin: Avusturya başkentinin adı Viyana.
+431,Bilgi: İsviçre ülkesinin başkenti Bern.
+432,Biliyor muydun? İsviçre ülkesinin başkenti Bern.
+433,Aklında tut: İsviçre ülkesinin başkenti Bern.
+434,Kısaca: İsviçre ülkesinin başkenti Bern.
+435,Bilmekte fayda var: İsviçre ülkesinin başkenti Bern.
+436,Kesin: İsviçre ülkesinin başkenti Bern.
+437,Bilgi: İsviçre başkentinin adı Bern.
+438,Biliyor muydun? İsviçre başkentinin adı Bern.
+439,Aklında tut: İsviçre başkentinin adı Bern.
+440,Kısaca: İsviçre başkentinin adı Bern.
+441,Bilmekte fayda var: İsviçre başkentinin adı Bern.
+442,Kesin: İsviçre başkentinin adı Bern.
+443,Bilgi: Polonya ülkesinin başkenti Varşova.
+444,Biliyor muydun? Polonya ülkesinin başkenti Varşova.
+445,Aklında tut: Polonya ülkesinin başkenti Varşova.
+446,Kısaca: Polonya ülkesinin başkenti Varşova.
+447,Bilmekte fayda var: Polonya ülkesinin başkenti Varşova.
+448,Kesin: Polonya ülkesinin başkenti Varşova.
+449,Bilgi: Polonya başkentinin adı Varşova.
+450,Biliyor muydun? Polonya başkentinin adı Varşova.
+451,Aklında tut: Polonya başkentinin adı Varşova.
+452,Kısaca: Polonya başkentinin adı Varşova.
+453,Bilmekte fayda var: Polonya başkentinin adı Varşova.
+454,Kesin: Polonya başkentinin adı Varşova.
+455,Bilgi: Çekya ülkesinin başkenti Prag.
+456,Biliyor muydun? Çekya ülkesinin başkenti Prag.
+457,Aklında tut: Çekya ülkesinin başkenti Prag.
+458,Kısaca: Çekya ülkesinin başkenti Prag.
+459,Bilmekte fayda var: Çekya ülkesinin başkenti Prag.
+460,Kesin: Çekya ülkesinin başkenti Prag.
+461,Bilgi: Çekya başkentinin adı Prag.
+462,Biliyor muydun? Çekya başkentinin adı Prag.
+463,Aklında tut: Çekya başkentinin adı Prag.
+464,Kısaca: Çekya başkentinin adı Prag.
+465,Bilmekte fayda var: Çekya başkentinin adı Prag.
+466,Kesin: Çekya başkentinin adı Prag.
+467,Bilgi: Macaristan ülkesinin başkenti Budapeşte.
+468,Biliyor muydun? Macaristan ülkesinin başkenti Budapeşte.
+469,Aklında tut: Macaristan ülkesinin başkenti Budapeşte.
+470,Kısaca: Macaristan ülkesinin başkenti Budapeşte.
+471,Bilmekte fayda var: Macaristan ülkesinin başkenti Budapeşte.
+472,Kesin: Macaristan ülkesinin başkenti Budapeşte.
+473,Bilgi: Macaristan başkentinin adı Budapeşte.
+474,Biliyor muydun? Macaristan başkentinin adı Budapeşte.
+475,Aklında tut: Macaristan başkentinin adı Budapeşte.
+476,Kısaca: Macaristan başkentinin adı Budapeşte.
+477,Bilmekte fayda var: Macaristan başkentinin adı Budapeşte.
+478,Kesin: Macaristan başkentinin adı Budapeşte.
+479,Bilgi: Yunanistan ülkesinin başkenti Atina.
+480,Biliyor muydun? Yunanistan ülkesinin başkenti Atina.
+481,Aklında tut: Yunanistan ülkesinin başkenti Atina.
+482,Kısaca: Yunanistan ülkesinin başkenti Atina.
+483,Bilmekte fayda var: Yunanistan ülkesinin başkenti Atina.
+484,Kesin: Yunanistan ülkesinin başkenti Atina.
+485,Bilgi: Yunanistan başkentinin adı Atina.
+486,Biliyor muydun? Yunanistan başkentinin adı Atina.
+487,Aklında tut: Yunanistan başkentinin adı Atina.
+488,Kısaca: Yunanistan başkentinin adı Atina.
+489,Bilmekte fayda var: Yunanistan başkentinin adı Atina.
+490,Kesin: Yunanistan başkentinin adı Atina.
+491,Bilgi: Türkiye ülkesinin başkenti Ankara.
+492,Biliyor muydun? Türkiye ülkesinin başkenti Ankara.
+493,Aklında tut: Türkiye ülkesinin başkenti Ankara.
+494,Kısaca: Türkiye ülkesinin başkenti Ankara.
+495,Bilmekte fayda var: Türkiye ülkesinin başkenti Ankara.
+496,Kesin: Türkiye ülkesinin başkenti Ankara.
+497,Bilgi: Türkiye başkentinin adı Ankara.
+498,Biliyor muydun? Türkiye başkentinin adı Ankara.
+499,Aklında tut: Türkiye başkentinin adı Ankara.
+500,Kısaca: Türkiye başkentinin adı Ankara.
+501,Bilmekte fayda var: Türkiye başkentinin adı Ankara.
+502,Kesin: Türkiye başkentinin adı Ankara.
+503,Bilgi: Norveç ülkesinin başkenti Oslo.
+504,Biliyor muydun? Norveç ülkesinin başkenti Oslo.
+505,Aklında tut: Norveç ülkesinin başkenti Oslo.
+506,Kısaca: Norveç ülkesinin başkenti Oslo.
+507,Bilmekte fayda var: Norveç ülkesinin başkenti Oslo.
+508,Kesin: Norveç ülkesinin başkenti Oslo.
+509,Bilgi: Norveç başkentinin adı Oslo.
+510,Biliyor muydun? Norveç başkentinin adı Oslo.
+511,Aklında tut: Norveç başkentinin adı Oslo.
+512,Kısaca: Norveç başkentinin adı Oslo.
+513,Bilmekte fayda var: Norveç başkentinin adı Oslo.
+514,Kesin: Norveç başkentinin adı Oslo.
+515,Bilgi: İsveç ülkesinin başkenti Stokholm.
+516,Biliyor muydun? İsveç ülkesinin başkenti Stokholm.
+517,Aklında tut: İsveç ülkesinin başkenti Stokholm.
+518,Kısaca: İsveç ülkesinin başkenti Stokholm.
+519,Bilmekte fayda var: İsveç ülkesinin başkenti Stokholm.
+520,Kesin: İsveç ülkesinin başkenti Stokholm.
+521,Bilgi: İsveç başkentinin adı Stokholm.
+522,Biliyor muydun? İsveç başkentinin adı Stokholm.
+523,Aklında tut: İsveç başkentinin adı Stokholm.
+524,Kısaca: İsveç başkentinin adı Stokholm.
+525,Bilmekte fayda var: İsveç başkentinin adı Stokholm.
+526,Kesin: İsveç başkentinin adı Stokholm.
+527,Bilgi: Finlandiya ülkesinin başkenti Helsinki.
+528,Biliyor muydun? Finlandiya ülkesinin başkenti Helsinki.
+529,Aklında tut: Finlandiya ülkesinin başkenti Helsinki.
+530,Kısaca: Finlandiya ülkesinin başkenti Helsinki.
+531,Bilmekte fayda var: Finlandiya ülkesinin başkenti Helsinki.
+532,Kesin: Finlandiya ülkesinin başkenti Helsinki.
+533,Bilgi: Finlandiya başkentinin adı Helsinki.
+534,Biliyor muydun? Finlandiya başkentinin adı Helsinki.
+535,Aklında tut: Finlandiya başkentinin adı Helsinki.
+536,Kısaca: Finlandiya başkentinin adı Helsinki.
+537,Bilmekte fayda var: Finlandiya başkentinin adı Helsinki.
+538,Kesin: Finlandiya başkentinin adı Helsinki.
+539,Bilgi: Danimarka ülkesinin başkenti Kopenhag.
+540,Biliyor muydun? Danimarka ülkesinin başkenti Kopenhag.
+541,Aklında tut: Danimarka ülkesinin başkenti Kopenhag.
+542,Kısaca: Danimarka ülkesinin başkenti Kopenhag.
+543,Bilmekte fayda var: Danimarka ülkesinin başkenti Kopenhag.
+544,Kesin: Danimarka ülkesinin başkenti Kopenhag.
+545,Bilgi: Danimarka başkentinin adı Kopenhag.
+546,Biliyor muydun? Danimarka başkentinin adı Kopenhag.
+547,Aklında tut: Danimarka başkentinin adı Kopenhag.
+548,Kısaca: Danimarka başkentinin adı Kopenhag.
+549,Bilmekte fayda var: Danimarka başkentinin adı Kopenhag.
+550,Kesin: Danimarka başkentinin adı Kopenhag.
+551,Bilgi: Birleşik Krallık ülkesinin başkenti Londra.
+552,Biliyor muydun? Birleşik Krallık ülkesinin başkenti Londra.
+553,Aklında tut: Birleşik Krallık ülkesinin başkenti Londra.
+554,Kısaca: Birleşik Krallık ülkesinin başkenti Londra.
+555,Bilmekte fayda var: Birleşik Krallık ülkesinin başkenti Londra.
+556,Kesin: Birleşik Krallık ülkesinin başkenti Londra.
+557,Bilgi: Birleşik Krallık başkentinin adı Londra.
+558,Biliyor muydun? Birleşik Krallık başkentinin adı Londra.
+559,Aklında tut: Birleşik Krallık başkentinin adı Londra.
+560,Kısaca: Birleşik Krallık başkentinin adı Londra.
+561,Bilmekte fayda var: Birleşik Krallık başkentinin adı Londra.
+562,Kesin: Birleşik Krallık başkentinin adı Londra.
+563,Bilgi: İrlanda ülkesinin başkenti Dublin.
+564,Biliyor muydun? İrlanda ülkesinin başkenti Dublin.
+565,Aklında tut: İrlanda ülkesinin başkenti Dublin.
+566,Kısaca: İrlanda ülkesinin başkenti Dublin.
+567,Bilmekte fayda var: İrlanda ülkesinin başkenti Dublin.
+568,Kesin: İrlanda ülkesinin başkenti Dublin.
+569,Bilgi: İrlanda başkentinin adı Dublin.
+570,Biliyor muydun? İrlanda başkentinin adı Dublin.
+571,Aklında tut: İrlanda başkentinin adı Dublin.
+572,Kısaca: İrlanda başkentinin adı Dublin.
+573,Bilmekte fayda var: İrlanda başkentinin adı Dublin.
+574,Kesin: İrlanda başkentinin adı Dublin.
+575,Bilgi: ABD ülkesinin başkenti Washington D.C..
+576,Biliyor muydun? ABD ülkesinin başkenti Washington D.C..
+577,Aklında tut: ABD ülkesinin başkenti Washington D.C..
+578,Kısaca: ABD ülkesinin başkenti Washington D.C..
+579,Bilmekte fayda var: ABD ülkesinin başkenti Washington D.C..
+580,Kesin: ABD ülkesinin başkenti Washington D.C..
+581,Bilgi: ABD başkentinin adı Washington D.C..
+582,Biliyor muydun? ABD başkentinin adı Washington D.C..
+583,Aklında tut: ABD başkentinin adı Washington D.C..
+584,Kısaca: ABD başkentinin adı Washington D.C..
+585,Bilmekte fayda var: ABD başkentinin adı Washington D.C..
+586,Kesin: ABD başkentinin adı Washington D.C..
+587,Bilgi: Washington D.C..
+588,Biliyor muydun? Washington D.C..
+589,Aklında tut: Washington D.C..
+590,Kısaca: Washington D.C..
+591,Bilmekte fayda var: Washington D.C..
+592,Kesin: Washington D.C..
+593,Bilgi: Kanada ülkesinin başkenti Ottawa.
+594,Biliyor muydun? Kanada ülkesinin başkenti Ottawa.
+595,Aklında tut: Kanada ülkesinin başkenti Ottawa.
+596,Kısaca: Kanada ülkesinin başkenti Ottawa.
+597,Bilmekte fayda var: Kanada ülkesinin başkenti Ottawa.
+598,Kesin: Kanada ülkesinin başkenti Ottawa.
+599,Bilgi: Kanada başkentinin adı Ottawa.
+600,Biliyor muydun? Kanada başkentinin adı Ottawa.
+601,Aklında tut: Kanada başkentinin adı Ottawa.
+602,Kısaca: Kanada başkentinin adı Ottawa.
+603,Bilmekte fayda var: Kanada başkentinin adı Ottawa.
+604,Kesin: Kanada başkentinin adı Ottawa.
+605,Bilgi: Meksika ülkesinin başkenti Meksiko.
+606,Biliyor muydun? Meksika ülkesinin başkenti Meksiko.
+607,Aklında tut: Meksika ülkesinin başkenti Meksiko.
+608,Kısaca: Meksika ülkesinin başkenti Meksiko.
+609,Bilmekte fayda var: Meksika ülkesinin başkenti Meksiko.
+610,Kesin: Meksika ülkesinin başkenti Meksiko.
+611,Bilgi: Meksika başkentinin adı Meksiko.
+612,Biliyor muydun? Meksika başkentinin adı Meksiko.
+613,Aklında tut: Meksika başkentinin adı Meksiko.
+614,Kısaca: Meksika başkentinin adı Meksiko.
+615,Bilmekte fayda var: Meksika başkentinin adı Meksiko.
+616,Kesin: Meksika başkentinin adı Meksiko.
+617,Bilgi: Brezilya ülkesinin başkenti Brazilya.
+618,Biliyor muydun? Brezilya ülkesinin başkenti Brazilya.
+619,Aklında tut: Brezilya ülkesinin başkenti Brazilya.
+620,Kısaca: Brezilya ülkesinin başkenti Brazilya.
+621,Bilmekte fayda var: Brezilya ülkesinin başkenti Brazilya.
+622,Kesin: Brezilya ülkesinin başkenti Brazilya.
+623,Bilgi: Brezilya başkentinin adı Brazilya.
+624,Biliyor muydun? Brezilya başkentinin adı Brazilya.
+625,Aklında tut: Brezilya başkentinin adı Brazilya.
+626,Kısaca: Brezilya başkentinin adı Brazilya.
+627,Bilmekte fayda var: Brezilya başkentinin adı Brazilya.
+628,Kesin: Brezilya başkentinin adı Brazilya.
+629,Bilgi: Arjantin ülkesinin başkenti Buenos Aires.
+630,Biliyor muydun? Arjantin ülkesinin başkenti Buenos Aires.
+631,Aklında tut: Arjantin ülkesinin başkenti Buenos Aires.
+632,Kısaca: Arjantin ülkesinin başkenti Buenos Aires.
+633,Bilmekte fayda var: Arjantin ülkesinin başkenti Buenos Aires.
+634,Kesin: Arjantin ülkesinin başkenti Buenos Aires.
+635,Bilgi: Arjantin başkentinin adı Buenos Aires.
+636,Biliyor muydun? Arjantin başkentinin adı Buenos Aires.
+637,Aklında tut: Arjantin başkentinin adı Buenos Aires.
+638,Kısaca: Arjantin başkentinin adı Buenos Aires.
+639,Bilmekte fayda var: Arjantin başkentinin adı Buenos Aires.
+640,Kesin: Arjantin başkentinin adı Buenos Aires.
+641,Bilgi: Japonya ülkesinin başkenti Tokyo.
+642,Biliyor muydun? Japonya ülkesinin başkenti Tokyo.
+643,Aklında tut: Japonya ülkesinin başkenti Tokyo.
+644,Kısaca: Japonya ülkesinin başkenti Tokyo.
+645,Bilmekte fayda var: Japonya ülkesinin başkenti Tokyo.
+646,Kesin: Japonya ülkesinin başkenti Tokyo.
+647,Bilgi: Japonya başkentinin adı Tokyo.
+648,Biliyor muydun? Japonya başkentinin adı Tokyo.
+649,Aklında tut: Japonya başkentinin adı Tokyo.
+650,Kısaca: Japonya başkentinin adı Tokyo.
+651,Bilmekte fayda var: Japonya başkentinin adı Tokyo.
+652,Kesin: Japonya başkentinin adı Tokyo.
+653,Bilgi: Çin ülkesinin başkenti Pekin.
+654,Biliyor muydun? Çin ülkesinin başkenti Pekin.
+655,Aklında tut: Çin ülkesinin başkenti Pekin.
+656,Kısaca: Çin ülkesinin başkenti Pekin.
+657,Bilmekte fayda var: Çin ülkesinin başkenti Pekin.
+658,Kesin: Çin ülkesinin başkenti Pekin.
+659,Bilgi: Çin başkentinin adı Pekin.
+660,Biliyor muydun? Çin başkentinin adı Pekin.
+661,Aklında tut: Çin başkentinin adı Pekin.
+662,Kısaca: Çin başkentinin adı Pekin.
+663,Bilmekte fayda var: Çin başkentinin adı Pekin.
+664,Kesin: Çin başkentinin adı Pekin.
+665,Bilgi: Hindistan ülkesinin başkenti Yeni Delhi.
+666,Biliyor muydun? Hindistan ülkesinin başkenti Yeni Delhi.
+667,Aklında tut: Hindistan ülkesinin başkenti Yeni Delhi.
+668,Kısaca: Hindistan ülkesinin başkenti Yeni Delhi.
+669,Bilmekte fayda var: Hindistan ülkesinin başkenti Yeni Delhi.
+670,Kesin: Hindistan ülkesinin başkenti Yeni Delhi.
+671,Bilgi: Hindistan başkentinin adı Yeni Delhi.
+672,Biliyor muydun? Hindistan başkentinin adı Yeni Delhi.
+673,Aklında tut: Hindistan başkentinin adı Yeni Delhi.
+674,Kısaca: Hindistan başkentinin adı Yeni Delhi.
+675,Bilmekte fayda var: Hindistan başkentinin adı Yeni Delhi.
+676,Kesin: Hindistan başkentinin adı Yeni Delhi.
+677,Bilgi: Avustralya ülkesinin başkenti Canberra.
+678,Biliyor muydun? Avustralya ülkesinin başkenti Canberra.
+679,Aklında tut: Avustralya ülkesinin başkenti Canberra.
+680,Kısaca: Avustralya ülkesinin başkenti Canberra.
+681,Bilmekte fayda var: Avustralya ülkesinin başkenti Canberra.
+682,Kesin: Avustralya ülkesinin başkenti Canberra.
+683,Bilgi: Avustralya başkentinin adı Canberra.
+684,Biliyor muydun? Avustralya başkentinin adı Canberra.
+685,Aklında tut: Avustralya başkentinin adı Canberra.
+686,Kısaca: Avustralya başkentinin adı Canberra.
+687,Bilmekte fayda var: Avustralya başkentinin adı Canberra.
+688,Kesin: Avustralya başkentinin adı Canberra.
+689,Bilgi: Mısır ülkesinin başkenti Kahire.
+690,Biliyor muydun? Mısır ülkesinin başkenti Kahire.
+691,Aklında tut: Mısır ülkesinin başkenti Kahire.
+692,Kısaca: Mısır ülkesinin başkenti Kahire.
+693,Bilmekte fayda var: Mısır ülkesinin başkenti Kahire.
+694,Kesin: Mısır ülkesinin başkenti Kahire.
+695,Bilgi: Mısır başkentinin adı Kahire.
+696,Biliyor muydun? Mısır başkentinin adı Kahire.
+697,Aklında tut: Mısır başkentinin adı Kahire.
+698,Kısaca: Mısır başkentinin adı Kahire.
+699,Bilmekte fayda var: Mısır başkentinin adı Kahire.
+700,Kesin: Mısır başkentinin adı Kahire.
+701,Bilgi: Almanya'nın 16 eyaleti var.
+702,Biliyor muydun? Almanya'nın 16 eyaleti var.
+703,Aklında tut: Almanya'nın 16 eyaleti var.
+704,Kısaca: Almanya'nın 16 eyaleti var.
+705,Bilmekte fayda var: Almanya'nın 16 eyaleti var.
+706,Kesin: Almanya'nın 16 eyaleti var.
+707,Bilgi: Almanya'da yaklaşık 83-84 milyon kişi yaşıyor.
+708,Biliyor muydun? Almanya'da yaklaşık 83-84 milyon kişi yaşıyor.
+709,Aklında tut: Almanya'da yaklaşık 83-84 milyon kişi yaşıyor.
+710,Kısaca: Almanya'da yaklaşık 83-84 milyon kişi yaşıyor.
+711,Bilmekte fayda var: Almanya'da yaklaşık 83-84 milyon kişi yaşıyor.
+712,Kesin: Almanya'da yaklaşık 83-84 milyon kişi yaşıyor.
+713,Bilgi: Brezilya'da Portekizce konuşulur.
+714,Biliyor muydun? Brezilya'da Portekizce konuşulur.
+715,Aklında tut: Brezilya'da Portekizce konuşulur.
+716,Kısaca: Brezilya'da Portekizce konuşulur.
+717,Bilmekte fayda var: Brezilya'da Portekizce konuşulur.
+718,Kesin: Brezilya'da Portekizce konuşulur.
+719,Bilgi: Japonya'nın para birimi yendir.
+720,Biliyor muydun? Japonya'nın para birimi yendir.
+721,Aklında tut: Japonya'nın para birimi yendir.
+722,Kısaca: Japonya'nın para birimi yendir.
+723,Bilmekte fayda var: Japonya'nın para birimi yendir.
+724,Kesin: Japonya'nın para birimi yendir.
+725,Bilgi: ABD'nin para birimi Amerikan dolarıdır.
+726,Biliyor muydun? ABD'nin para birimi Amerikan dolarıdır.
+727,Aklında tut: ABD'nin para birimi Amerikan dolarıdır.
+728,Kısaca: ABD'nin para birimi Amerikan dolarıdır.
+729,Bilmekte fayda var: ABD'nin para birimi Amerikan dolarıdır.
+730,Kesin: ABD'nin para birimi Amerikan dolarıdır.
+731,"Bilgi: Genelde 7 kıta sayarız: Afrika, Antarktika, Asya, Avustralya, Avrupa, Kuzey Amerika, Güney Amerika."
+732,"Biliyor muydun? Genelde 7 kıta sayarız: Afrika, Antarktika, Asya, Avustralya, Avrupa, Kuzey Amerika, Güney Amerika."
+733,"Aklında tut: Genelde 7 kıta sayarız: Afrika, Antarktika, Asya, Avustralya, Avrupa, Kuzey Amerika, Güney Amerika."
+734,"Kısaca: Genelde 7 kıta sayarız: Afrika, Antarktika, Asya, Avustralya, Avrupa, Kuzey Amerika, Güney Amerika."
+735,"Bilmekte fayda var: Genelde 7 kıta sayarız: Afrika, Antarktika, Asya, Avustralya, Avrupa, Kuzey Amerika, Güney Amerika."
+736,"Kesin: Genelde 7 kıta sayarız: Afrika, Antarktika, Asya, Avustralya, Avrupa, Kuzey Amerika, Güney Amerika."
+737,"Bilgi: Tartışmalı: genelde Nil ve Amazon anılır, ikisi de 6500 km'den uzun."
+738,"Biliyor muydun? Tartışmalı: genelde Nil ve Amazon anılır, ikisi de 6500 km'den uzun."
+739,"Aklında tut: Tartışmalı: genelde Nil ve Amazon anılır, ikisi de 6500 km'den uzun."
+740,"Kısaca: Tartışmalı: genelde Nil ve Amazon anılır, ikisi de 6500 km'den uzun."
+741,"Bilmekte fayda var: Tartışmalı: genelde Nil ve Amazon anılır, ikisi de 6500 km'den uzun."
+742,"Kesin: Tartışmalı: genelde Nil ve Amazon anılır, ikisi de 6500 km'den uzun."
+743,Bilgi: Yüzölçümüyle dünyanın en büyük ülkesi Rusya'dır.
+744,Biliyor muydun? Yüzölçümüyle dünyanın en büyük ülkesi Rusya'dır.
+745,Aklında tut: Yüzölçümüyle dünyanın en büyük ülkesi Rusya'dır.
+746,Kısaca: Yüzölçümüyle dünyanın en büyük ülkesi Rusya'dır.
+747,Bilmekte fayda var: Yüzölçümüyle dünyanın en büyük ülkesi Rusya'dır.
+748,Kesin: Yüzölçümüyle dünyanın en büyük ülkesi Rusya'dır.
+749,Bilgi: Dünyanın en büyük hayvanı mavi balinadır.
+750,Biliyor muydun? Dünyanın en büyük hayvanı mavi balinadır.
+751,Aklında tut: Dünyanın en büyük hayvanı mavi balinadır.
+752,Kısaca: Dünyanın en büyük hayvanı mavi balinadır.
+753,Bilmekte fayda var: Dünyanın en büyük hayvanı mavi balinadır.
+754,Kesin: Dünyanın en büyük hayvanı mavi balinadır.
+755,"Bilgi: 5 okyanus var: Atlas, Pasifik, Hint, Güney ve Arktik."
+756,"Biliyor muydun? 5 okyanus var: Atlas, Pasifik, Hint, Güney ve Arktik."
+757,"Aklında tut: 5 okyanus var: Atlas, Pasifik, Hint, Güney ve Arktik."
+758,"Kısaca: 5 okyanus var: Atlas, Pasifik, Hint, Güney ve Arktik."
+759,"Bilmekte fayda var: 5 okyanus var: Atlas, Pasifik, Hint, Güney ve Arktik."
+760,"Kesin: 5 okyanus var: Atlas, Pasifik, Hint, Güney ve Arktik."
+761,Bilgi: Dünyanın en yüksek dağı yaklaşık 8848 metreyle Everest'tir.
+762,Biliyor muydun? Dünyanın en yüksek dağı yaklaşık 8848 metreyle Everest'tir.
+763,Aklında tut: Dünyanın en yüksek dağı yaklaşık 8848 metreyle Everest'tir.
+764,Kısaca: Dünyanın en yüksek dağı yaklaşık 8848 metreyle Everest'tir.
+765,Bilmekte fayda var: Dünyanın en yüksek dağı yaklaşık 8848 metreyle Everest'tir.
+766,Kesin: Dünyanın en yüksek dağı yaklaşık 8848 metreyle Everest'tir.
+767,Bilgi: Kanada'nın başkenti Ottawa'dır.
+768,Biliyor muydun? Kanada'nın başkenti Ottawa'dır.
+769,Aklında tut: Kanada'nın başkenti Ottawa'dır.
+770,Kısaca: Kanada'nın başkenti Ottawa'dır.
+771,Bilmekte fayda var: Kanada'nın başkenti Ottawa'dır.
+772,Kesin: Kanada'nın başkenti Ottawa'dır.
+773,Bilgi: Avustralya'nın başkenti Canberra'dır.
+774,Biliyor muydun? Avustralya'nın başkenti Canberra'dır.
+775,Aklında tut: Avustralya'nın başkenti Canberra'dır.
+776,Kısaca: Avustralya'nın başkenti Canberra'dır.
+777,Bilmekte fayda var: Avustralya'nın başkenti Canberra'dır.
+778,Kesin: Avustralya'nın başkenti Canberra'dır.
+779,Bilgi: Türkiye'nin başkenti Ankara'dır.
+780,Biliyor muydun? Türkiye'nin başkenti Ankara'dır.
+781,Aklında tut: Türkiye'nin başkenti Ankara'dır.
+782,Kısaca: Türkiye'nin başkenti Ankara'dır.
+783,Bilmekte fayda var: Türkiye'nin başkenti Ankara'dır.
+784,Kesin: Türkiye'nin başkenti Ankara'dır.
+785,Bilgi: Brezilya'nın başkenti Brazilya'dır.
+786,Biliyor muydun? Brezilya'nın başkenti Brazilya'dır.
+787,Aklında tut: Brezilya'nın başkenti Brazilya'dır.
+788,Kısaca: Brezilya'nın başkenti Brazilya'dır.
+789,Bilmekte fayda var: Brezilya'nın başkenti Brazilya'dır.
+790,Kesin: Brezilya'nın başkenti Brazilya'dır.
+791,Bilgi: İlk Ay inişi 1969'da Apollo 11 ile oldu.
+792,Biliyor muydun? İlk Ay inişi 1969'da Apollo 11 ile oldu.
+793,Aklında tut: İlk Ay inişi 1969'da Apollo 11 ile oldu.
+794,Kısaca: İlk Ay inişi 1969'da Apollo 11 ile oldu.
+795,Bilmekte fayda var: İlk Ay inişi 1969'da Apollo 11 ile oldu.
+796,Kesin: İlk Ay inişi 1969'da Apollo 11 ile oldu.
+797,Bilgi: İkinci Dünya Savaşı 1939'dan 1945'e sürdü.
+798,Biliyor muydun? İkinci Dünya Savaşı 1939'dan 1945'e sürdü.
+799,Aklında tut: İkinci Dünya Savaşı 1939'dan 1945'e sürdü.
+800,Kısaca: İkinci Dünya Savaşı 1939'dan 1945'e sürdü.
+801,Bilmekte fayda var: İkinci Dünya Savaşı 1939'dan 1945'e sürdü.
+802,Kesin: İkinci Dünya Savaşı 1939'dan 1945'e sürdü.
+803,Bilgi: Birinci Dünya Savaşı 1914'ten 1918'e sürdü.
+804,Biliyor muydun? Birinci Dünya Savaşı 1914'ten 1918'e sürdü.
+805,Aklında tut: Birinci Dünya Savaşı 1914'ten 1918'e sürdü.
+806,Kısaca: Birinci Dünya Savaşı 1914'ten 1918'e sürdü.
+807,Bilmekte fayda var: Birinci Dünya Savaşı 1914'ten 1918'e sürdü.
+808,Kesin: Birinci Dünya Savaşı 1914'ten 1918'e sürdü.
+809,Bilgi: Berlin Duvarı 1961'den 1989'a Doğu ve Batı Berlin arasındaki korumalı sınırdı.
+810,Biliyor muydun? Berlin Duvarı 1961'den 1989'a Doğu ve Batı Berlin arasındaki korumalı sınırdı.
+811,Aklında tut: Berlin Duvarı 1961'den 1989'a Doğu ve Batı Berlin arasındaki korumalı sınırdı.
+812,Kısaca: Berlin Duvarı 1961'den 1989'a Doğu ve Batı Berlin arasındaki korumalı sınırdı.
+813,Bilmekte fayda var: Berlin Duvarı 1961'den 1989'a Doğu ve Batı Berlin arasındaki korumalı sınırdı.
+814,Kesin: Berlin Duvarı 1961'den 1989'a Doğu ve Batı Berlin arasındaki korumalı sınırdı.
+815,Bilgi: Berlin Duvarı 9 Kasım 1989'da yıkıldı.
+816,Biliyor muydun? Berlin Duvarı 9 Kasım 1989'da yıkıldı.
+817,Aklında tut: Berlin Duvarı 9 Kasım 1989'da yıkıldı.
+818,Kısaca: Berlin Duvarı 9 Kasım 1989'da yıkıldı.
+819,Bilmekte fayda var: Berlin Duvarı 9 Kasım 1989'da yıkıldı.
+820,Kesin: Berlin Duvarı 9 Kasım 1989'da yıkıldı.
+821,"Bilgi: Telefonun patentini 1876'da Alexander Graham Bell aldı, Antonio Meucci öncüydü."
+822,"Biliyor muydun? Telefonun patentini 1876'da Alexander Graham Bell aldı, Antonio Meucci öncüydü."
+823,"Aklında tut: Telefonun patentini 1876'da Alexander Graham Bell aldı, Antonio Meucci öncüydü."
+824,"Kısaca: Telefonun patentini 1876'da Alexander Graham Bell aldı, Antonio Meucci öncüydü."
+825,"Bilmekte fayda var: Telefonun patentini 1876'da Alexander Graham Bell aldı, Antonio Meucci öncüydü."
+826,"Kesin: Telefonun patentini 1876'da Alexander Graham Bell aldı, Antonio Meucci öncüydü."
+827,Bilgi: Göreliliği Albert Einstein geliştirdi.
+828,Biliyor muydun? Göreliliği Albert Einstein geliştirdi.
+829,Aklında tut: Göreliliği Albert Einstein geliştirdi.
+830,Kısaca: Göreliliği Albert Einstein geliştirdi.
+831,Bilmekte fayda var: Göreliliği Albert Einstein geliştirdi.
+832,Kesin: Göreliliği Albert Einstein geliştirdi.
+833,"Bilgi: Demokrasi halk yönetimi demektir, genelde özgür seçimler ve temel haklarla."
+834,"Biliyor muydun? Demokrasi halk yönetimi demektir, genelde özgür seçimler ve temel haklarla."
+835,"Aklında tut: Demokrasi halk yönetimi demektir, genelde özgür seçimler ve temel haklarla."
+836,"Kısaca: Demokrasi halk yönetimi demektir, genelde özgür seçimler ve temel haklarla."
+837,"Bilmekte fayda var: Demokrasi halk yönetimi demektir, genelde özgür seçimler ve temel haklarla."
+838,"Kesin: Demokrasi halk yönetimi demektir, genelde özgür seçimler ve temel haklarla."
+839,"Bilgi: AB, ortak pazarlı ve ortak kurumları olan bir Avrupa devletleri birliğidir."
+840,"Biliyor muydun? AB, ortak pazarlı ve ortak kurumları olan bir Avrupa devletleri birliğidir."
+841,"Aklında tut: AB, ortak pazarlı ve ortak kurumları olan bir Avrupa devletleri birliğidir."
+842,"Kısaca: AB, ortak pazarlı ve ortak kurumları olan bir Avrupa devletleri birliğidir."
+843,"Bilmekte fayda var: AB, ortak pazarlı ve ortak kurumları olan bir Avrupa devletleri birliğidir."
+844,"Kesin: AB, ortak pazarlı ve ortak kurumları olan bir Avrupa devletleri birliğidir."
+845,Bilgi: AB'nin 27 üye devleti var.
+846,Biliyor muydun? AB'nin 27 üye devleti var.
+847,Aklında tut: AB'nin 27 üye devleti var.
+848,Kısaca: AB'nin 27 üye devleti var.
+849,Bilmekte fayda var: AB'nin 27 üye devleti var.
+850,Kesin: AB'nin 27 üye devleti var.
+851,"Bilgi: Temel Yasa, 1949'dan beri Almanya'nın anayasasıdır."
+852,"Biliyor muydun? Temel Yasa, 1949'dan beri Almanya'nın anayasasıdır."
+853,"Aklında tut: Temel Yasa, 1949'dan beri Almanya'nın anayasasıdır."
+854,"Kısaca: Temel Yasa, 1949'dan beri Almanya'nın anayasasıdır."
+855,"Bilmekte fayda var: Temel Yasa, 1949'dan beri Almanya'nın anayasasıdır."
+856,"Kesin: Temel Yasa, 1949'dan beri Almanya'nın anayasasıdır."
+857,Bilgi: Almanya 1990'da yeniden birleşti.
+858,Biliyor muydun? Almanya 1990'da yeniden birleşti.
+859,Aklında tut: Almanya 1990'da yeniden birleşti.
+860,Kısaca: Almanya 1990'da yeniden birleşti.
+861,Bilmekte fayda var: Almanya 1990'da yeniden birleşti.
+862,Kesin: Almanya 1990'da yeniden birleşti.
+863,"Bilgi: Orta Çağ, antik çağ ile modernite arasında yaklaşık 500-1500 dönemiydi."
+864,"Biliyor muydun? Orta Çağ, antik çağ ile modernite arasında yaklaşık 500-1500 dönemiydi."
+865,"Aklında tut: Orta Çağ, antik çağ ile modernite arasında yaklaşık 500-1500 dönemiydi."
+866,"Kısaca: Orta Çağ, antik çağ ile modernite arasında yaklaşık 500-1500 dönemiydi."
+867,"Bilmekte fayda var: Orta Çağ, antik çağ ile modernite arasında yaklaşık 500-1500 dönemiydi."
+868,"Kesin: Orta Çağ, antik çağ ile modernite arasında yaklaşık 500-1500 dönemiydi."
+869,"Bilgi: Leonardo da Vinci, Mona Lisa ile ünlü İtalyan sanatçı ve mucitti."
+870,"Biliyor muydun? Leonardo da Vinci, Mona Lisa ile ünlü İtalyan sanatçı ve mucitti."
+871,"Aklında tut: Leonardo da Vinci, Mona Lisa ile ünlü İtalyan sanatçı ve mucitti."
+872,"Kısaca: Leonardo da Vinci, Mona Lisa ile ünlü İtalyan sanatçı ve mucitti."
+873,"Bilmekte fayda var: Leonardo da Vinci, Mona Lisa ile ünlü İtalyan sanatçı ve mucitti."
+874,"Kesin: Leonardo da Vinci, Mona Lisa ile ünlü İtalyan sanatçı ve mucitti."
+875,Bilgi: Marie Curie radyoaktiviteyi araştıran ve iki Nobel kazanan fizikçiydi.
+876,Biliyor muydun? Marie Curie radyoaktiviteyi araştıran ve iki Nobel kazanan fizikçiydi.
+877,Aklında tut: Marie Curie radyoaktiviteyi araştıran ve iki Nobel kazanan fizikçiydi.
+878,Kısaca: Marie Curie radyoaktiviteyi araştıran ve iki Nobel kazanan fizikçiydi.
+879,Bilmekte fayda var: Marie Curie radyoaktiviteyi araştıran ve iki Nobel kazanan fizikçiydi.
+880,Kesin: Marie Curie radyoaktiviteyi araştıran ve iki Nobel kazanan fizikçiydi.
+881,"Bilgi: Fransız Devrimi 1789'dan beri monarşiyi özgürlük, eşitlik, kardeşlik ile yıktı."
+882,"Biliyor muydun? Fransız Devrimi 1789'dan beri monarşiyi özgürlük, eşitlik, kardeşlik ile yıktı."
+883,"Aklında tut: Fransız Devrimi 1789'dan beri monarşiyi özgürlük, eşitlik, kardeşlik ile yıktı."
+884,"Kısaca: Fransız Devrimi 1789'dan beri monarşiyi özgürlük, eşitlik, kardeşlik ile yıktı."
+885,"Bilmekte fayda var: Fransız Devrimi 1789'dan beri monarşiyi özgürlük, eşitlik, kardeşlik ile yıktı."
+886,"Kesin: Fransız Devrimi 1789'dan beri monarşiyi özgürlük, eşitlik, kardeşlik ile yıktı."
+887,"Bilgi: İnsan hakları herkesin temel haklarıdır, yaşam, özgürlük ve eşitlik gibi."
+888,"Biliyor muydun? İnsan hakları herkesin temel haklarıdır, yaşam, özgürlük ve eşitlik gibi."
+889,"Aklında tut: İnsan hakları herkesin temel haklarıdır, yaşam, özgürlük ve eşitlik gibi."
+890,"Kısaca: İnsan hakları herkesin temel haklarıdır, yaşam, özgürlük ve eşitlik gibi."
+891,"Bilmekte fayda var: İnsan hakları herkesin temel haklarıdır, yaşam, özgürlük ve eşitlik gibi."
+892,"Kesin: İnsan hakları herkesin temel haklarıdır, yaşam, özgürlük ve eşitlik gibi."
+893,"Bilgi: Enflasyon, fiyatların artması ve paranın değer kaybetmesidir."
+894,"Biliyor muydun? Enflasyon, fiyatların artması ve paranın değer kaybetmesidir."
+895,"Aklında tut: Enflasyon, fiyatların artması ve paranın değer kaybetmesidir."
+896,"Kısaca: Enflasyon, fiyatların artması ve paranın değer kaybetmesidir."
+897,"Bilmekte fayda var: Enflasyon, fiyatların artması ve paranın değer kaybetmesidir."
+898,"Kesin: Enflasyon, fiyatların artması ve paranın değer kaybetmesidir."
+899,"Bilgi: Sanayileşme, 18. yüzyıldan itibaren makine ve fabrikalara geçişti."
+900,"Biliyor muydun? Sanayileşme, 18. yüzyıldan itibaren makine ve fabrikalara geçişti."
+901,"Aklında tut: Sanayileşme, 18. yüzyıldan itibaren makine ve fabrikalara geçişti."
+902,"Kısaca: Sanayileşme, 18. yüzyıldan itibaren makine ve fabrikalara geçişti."
+903,"Bilmekte fayda var: Sanayileşme, 18. yüzyıldan itibaren makine ve fabrikalara geçişti."
+904,"Kesin: Sanayileşme, 18. yüzyıldan itibaren makine ve fabrikalara geçişti."
+905,"Bilgi: Temeller 1969'da ARPANET'e, Web 1989'a dayanır."
+906,"Biliyor muydun? Temeller 1969'da ARPANET'e, Web 1989'a dayanır."
+907,"Aklında tut: Temeller 1969'da ARPANET'e, Web 1989'a dayanır."
+908,"Kısaca: Temeller 1969'da ARPANET'e, Web 1989'a dayanır."
+909,"Bilmekte fayda var: Temeller 1969'da ARPANET'e, Web 1989'a dayanır."
+910,"Kesin: Temeller 1969'da ARPANET'e, Web 1989'a dayanır."
+911,Bilgi: Otomobili 1886'daki motorlu araçla Carl Benz icat etti.
+912,Biliyor muydun? Otomobili 1886'daki motorlu araçla Carl Benz icat etti.
+913,Aklında tut: Otomobili 1886'daki motorlu araçla Carl Benz icat etti.
+914,Kısaca: Otomobili 1886'daki motorlu araçla Carl Benz icat etti.
+915,Bilmekte fayda var: Otomobili 1886'daki motorlu araçla Carl Benz icat etti.
+916,Kesin: Otomobili 1886'daki motorlu araçla Carl Benz icat etti.
+917,Bilgi: İlk motorlu uçuşu 1903'te Wright kardeşler yaptı.
+918,Biliyor muydun? İlk motorlu uçuşu 1903'te Wright kardeşler yaptı.
+919,Aklında tut: İlk motorlu uçuşu 1903'te Wright kardeşler yaptı.
+920,Kısaca: İlk motorlu uçuşu 1903'te Wright kardeşler yaptı.
+921,Bilmekte fayda var: İlk motorlu uçuşu 1903'te Wright kardeşler yaptı.
+922,Kesin: İlk motorlu uçuşu 1903'te Wright kardeşler yaptı.
+923,Bilgi: Bundestag için 18 yaşından. Almanya'da AB seçiminde 16 yaşından.
+924,Biliyor muydun? Bundestag için 18 yaşından. Almanya'da AB seçiminde 16 yaşından.
+925,Aklında tut: Bundestag için 18 yaşından. Almanya'da AB seçiminde 16 yaşından.
+926,Kısaca: Bundestag için 18 yaşından. Almanya'da AB seçiminde 16 yaşından.
+927,Bilmekte fayda var: Bundestag için 18 yaşından. Almanya'da AB seçiminde 16 yaşından.
+928,Kesin: Bundestag için 18 yaşından. Almanya'da AB seçiminde 16 yaşından.
+929,"Bilgi: Seçmenler oy verir, oylar sayılır ve sonuca göre sandalye dağıtılır."
+930,"Biliyor muydun? Seçmenler oy verir, oylar sayılır ve sonuca göre sandalye dağıtılır."
+931,"Aklında tut: Seçmenler oy verir, oylar sayılır ve sonuca göre sandalye dağıtılır."
+932,"Kısaca: Seçmenler oy verir, oylar sayılır ve sonuca göre sandalye dağıtılır."
+933,"Bilmekte fayda var: Seçmenler oy verir, oylar sayılır ve sonuca göre sandalye dağıtılır."
+934,"Kesin: Seçmenler oy verir, oylar sayılır ve sonuca göre sandalye dağıtılır."
+935,Bilgi: Diktatörlükte bir kişi veya grup özgür seçim olmadan yönetir; demokraside güç halktan gelir.
+936,Biliyor muydun? Diktatörlükte bir kişi veya grup özgür seçim olmadan yönetir; demokraside güç halktan gelir.
+937,Aklında tut: Diktatörlükte bir kişi veya grup özgür seçim olmadan yönetir; demokraside güç halktan gelir.
+938,Kısaca: Diktatörlükte bir kişi veya grup özgür seçim olmadan yönetir; demokraside güç halktan gelir.
+939,Bilmekte fayda var: Diktatörlükte bir kişi veya grup özgür seçim olmadan yönetir; demokraside güç halktan gelir.
+940,Kesin: Diktatörlükte bir kişi veya grup özgür seçim olmadan yönetir; demokraside güç halktan gelir.
+941,"Bilgi: Sürdürülebilirlik, gelecek kuşaklara da yetecek kaynakla yaşamak demektir."
+942,"Biliyor muydun? Sürdürülebilirlik, gelecek kuşaklara da yetecek kaynakla yaşamak demektir."
+943,"Aklında tut: Sürdürülebilirlik, gelecek kuşaklara da yetecek kaynakla yaşamak demektir."
+944,"Kısaca: Sürdürülebilirlik, gelecek kuşaklara da yetecek kaynakla yaşamak demektir."
+945,"Bilmekte fayda var: Sürdürülebilirlik, gelecek kuşaklara da yetecek kaynakla yaşamak demektir."
+946,"Kesin: Sürdürülebilirlik, gelecek kuşaklara da yetecek kaynakla yaşamak demektir."
+947,"Bilgi: Zorbalık tekrarlı dışlama veya eziyettir. Güvendiğin kişilerle konuş, kanıt sakla, yardım al."
+948,"Biliyor muydun? Zorbalık tekrarlı dışlama veya eziyettir. Güvendiğin kişilerle konuş, kanıt sakla, yardım al."
+949,"Aklında tut: Zorbalık tekrarlı dışlama veya eziyettir. Güvendiğin kişilerle konuş, kanıt sakla, yardım al."
+950,"Kısaca: Zorbalık tekrarlı dışlama veya eziyettir. Güvendiğin kişilerle konuş, kanıt sakla, yardım al."
+951,"Bilmekte fayda var: Zorbalık tekrarlı dışlama veya eziyettir. Güvendiğin kişilerle konuş, kanıt sakla, yardım al."
+952,"Kesin: Zorbalık tekrarlı dışlama veya eziyettir. Güvendiğin kişilerle konuş, kanıt sakla, yardım al."
+953,"Bilgi: Barış, savaşsız ve şiddetsiz bir arada yaşamak demektir."
+954,"Biliyor muydun? Barış, savaşsız ve şiddetsiz bir arada yaşamak demektir."
+955,"Aklında tut: Barış, savaşsız ve şiddetsiz bir arada yaşamak demektir."
+956,"Kısaca: Barış, savaşsız ve şiddetsiz bir arada yaşamak demektir."
+957,"Bilmekte fayda var: Barış, savaşsız ve şiddetsiz bir arada yaşamak demektir."
+958,"Kesin: Barış, savaşsız ve şiddetsiz bir arada yaşamak demektir."
+959,"Bilgi: Özgürlük, başkalarına zarar vermeden özgürce yaşamak demektir."
+960,"Biliyor muydun? Özgürlük, başkalarına zarar vermeden özgürce yaşamak demektir."
+961,"Aklında tut: Özgürlük, başkalarına zarar vermeden özgürce yaşamak demektir."
+962,"Kısaca: Özgürlük, başkalarına zarar vermeden özgürce yaşamak demektir."
+963,"Bilmekte fayda var: Özgürlük, başkalarına zarar vermeden özgürce yaşamak demektir."
+964,"Kesin: Özgürlük, başkalarına zarar vermeden özgürce yaşamak demektir."
+965,"Bilgi: Adalet, herkese adil ve eşit davranmak demektir."
+966,"Biliyor muydun? Adalet, herkese adil ve eşit davranmak demektir."
+967,"Aklında tut: Adalet, herkese adil ve eşit davranmak demektir."
+968,"Kısaca: Adalet, herkese adil ve eşit davranmak demektir."
+969,"Bilmekte fayda var: Adalet, herkese adil ve eşit davranmak demektir."
+970,"Kesin: Adalet, herkese adil ve eşit davranmak demektir."
+971,Bilgi: Gökyüzü Rayleigh saçılması yüzünden mavidir: mavi ışık kırmızıdan çok saçılır.
+972,Biliyor muydun? Gökyüzü Rayleigh saçılması yüzünden mavidir: mavi ışık kırmızıdan çok saçılır.
+973,Aklında tut: Gökyüzü Rayleigh saçılması yüzünden mavidir: mavi ışık kırmızıdan çok saçılır.
+974,Kısaca: Gökyüzü Rayleigh saçılması yüzünden mavidir: mavi ışık kırmızıdan çok saçılır.
+975,Bilmekte fayda var: Gökyüzü Rayleigh saçılması yüzünden mavidir: mavi ışık kırmızıdan çok saçılır.
+976,Kesin: Gökyüzü Rayleigh saçılması yüzünden mavidir: mavi ışık kırmızıdan çok saçılır.
+977,"Bilgi: Yağmur buharlaşmayla oluşur: su yükselir, soğur, bulut olur ve damla olarak düşer."
+978,"Biliyor muydun? Yağmur buharlaşmayla oluşur: su yükselir, soğur, bulut olur ve damla olarak düşer."
+979,"Aklında tut: Yağmur buharlaşmayla oluşur: su yükselir, soğur, bulut olur ve damla olarak düşer."
+980,"Kısaca: Yağmur buharlaşmayla oluşur: su yükselir, soğur, bulut olur ve damla olarak düşer."
+981,"Bilmekte fayda var: Yağmur buharlaşmayla oluşur: su yükselir, soğur, bulut olur ve damla olarak düşer."
+982,"Kesin: Yağmur buharlaşmayla oluşur: su yükselir, soğur, bulut olur ve damla olarak düşer."
+983,"Bilgi: Fotosentez, bitkilerin ışık, su ve CO2'den şeker ve oksijen yapmasıdır."
+984,"Biliyor muydun? Fotosentez, bitkilerin ışık, su ve CO2'den şeker ve oksijen yapmasıdır."
+985,"Aklında tut: Fotosentez, bitkilerin ışık, su ve CO2'den şeker ve oksijen yapmasıdır."
+986,"Kısaca: Fotosentez, bitkilerin ışık, su ve CO2'den şeker ve oksijen yapmasıdır."
+987,"Bilmekte fayda var: Fotosentez, bitkilerin ışık, su ve CO2'den şeker ve oksijen yapmasıdır."
+988,"Kesin: Fotosentez, bitkilerin ışık, su ve CO2'den şeker ve oksijen yapmasıdır."
+989,Bilgi: Hava durumu kısa vadeli durumdur; iklim yaklaşık 30 yıl ortalamasıdır.
+990,Biliyor muydun? Hava durumu kısa vadeli durumdur; iklim yaklaşık 30 yıl ortalamasıdır.
+991,Aklında tut: Hava durumu kısa vadeli durumdur; iklim yaklaşık 30 yıl ortalamasıdır.
+992,Kısaca: Hava durumu kısa vadeli durumdur; iklim yaklaşık 30 yıl ortalamasıdır.
+993,Bilmekte fayda var: Hava durumu kısa vadeli durumdur; iklim yaklaşık 30 yıl ortalamasıdır.
+994,Kesin: Hava durumu kısa vadeli durumdur; iklim yaklaşık 30 yıl ortalamasıdır.
+995,"Bilgi: Buzdolabı ısıyı soğutucuyla içten dışa pompalar: içte buharlaşır, ısıyı alır, dışta verir."
+996,"Biliyor muydun? Buzdolabı ısıyı soğutucuyla içten dışa pompalar: içte buharlaşır, ısıyı alır, dışta verir."
+997,"Aklında tut: Buzdolabı ısıyı soğutucuyla içten dışa pompalar: içte buharlaşır, ısıyı alır, dışta verir."
+998,"Kısaca: Buzdolabı ısıyı soğutucuyla içten dışa pompalar: içte buharlaşır, ısıyı alır, dışta verir."
+999,"Bilmekte fayda var: Buzdolabı ısıyı soğutucuyla içten dışa pompalar: içte buharlaşır, ısıyı alır, dışta verir."
+1000,"Kesin: Buzdolabı ısıyı soğutucuyla içten dışa pompalar: içte buharlaşır, ısıyı alır, dışta verir."
