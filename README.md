@@ -39,15 +39,3 @@ Dateien: `dialog_allgemein_1000_<sprache>.csv`
   Freunde helfen (10 Saetze), Raetsel (Geraeusch, Spur, Aufloesung).
   Mit Anfang, Wendung, gutem Ende und Moral. Alle Texte einzigartig.
 - Dateien: `geschichte_<sprache>.csv` (gleiche Sprachen wie oben)
-
-## N-Gramm (fertig zum Trainieren)
-
-- Ordner `ngram/`: pro Sprache `{sprache}_{train,dev,test}.txt`
-  plus `stats.csv` (Saetze, Tokens, Vokabular je Split)
-- Ein Satz pro Zeile, aus allen Dateitypen (Dialog-User/AI, Texte,
-  Aufsaetze, Geschichten, jeweils Titel+Text)
-- Normalisiert: NFKC, kleingeschrieben (Tuerkisch I->ı/İ->i korrekt),
-  Satzzeichen tokenisiert (Moses-Stil, Dezimalzahlen und D.C. geschuetzt),
-  dedupliziert (kein Train/Test-Leak durch Template-Dopplungen),
-  deterministisch gemischt, Split 90/5/5
-- Chinesisch/Japanisch ohne Spaces (Zeichen-Level), Rest Wort-Level
